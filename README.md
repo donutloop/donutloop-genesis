@@ -107,6 +107,7 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
 
 ## 4. Executive, Federal & Partner Announcements
 
+* [Genesis Mission Consortium: Our Members Directory](https://www.genesismissionconsortium.org/our-members)
 * [White House OSTP: 2025 Historic Wins Report (PDF)](https://www.whitehouse.gov/wp-content/uploads/2026/01/WHOSTP-2025-Wins.pdf)
 * [White House Executive Action: Launching the Genesis Mission](https://www.whitehouse.gov/presidential-actions/2025/11/launching-the-genesis-mission/)
 * [White House Announcement: President Trump Launches the Genesis Mission](https://www.whitehouse.gov/releases/2025/11/president-trump-launches-the-genesis-mission-to-accelerate-ai-for-scientific-discovery/)
