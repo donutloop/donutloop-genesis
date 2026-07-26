@@ -260,3 +260,10 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
 ## 6. Additional Event Materials & Reference Links
 
 * **U.S. ATLAS Institutional Board:** [March 18, 2026 IB Meeting Intro (PDF)](https://indico.cern.ch/event/1662511/contributions/6989578/attachments/3241191/5781385/2026_03_18%20IB%20mtg%20intro.pdf)
+
+
+  WIP:
+
+  https://www.colorado.edu/venturepartners/2026/07/22/external-news/infleqtion-secures-three-genesis-mission-projects-us-department-energy
+  https://www.amd.com/en/blogs/2025/amd-powers-the-united-states--genesis-mission-to-advance-ai-enab.html
+  https://www.energy.gov/undersecretaryforscience/genesis-mission/american-science-and-security-platform
