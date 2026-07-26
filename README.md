@@ -264,6 +264,8 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
 * **SLAC National Accelerator Laboratory:** 
   * [Leading Projects Alongside Stanford](https://news.stanford.edu/stories/2026/07/stanford-and-slac-to-lead-genesis-mission-projects)
   * [SLAC ISDCI Genesis Portal](https://isdci.slac.stanford.edu/genesis)
+* **Savannah River National Laboratory (SRNL):**
+  * [SRNL Genesis Mission Hub](https://www.srnl.gov/srnl-genesis-mission/)
 
 ### Universities & Research Institutions
 * **Arizona State University (ASU):** [Awarded DOE Genesis Mission Grant for Electrical Grid Reliability](https://news.asu.edu/20260722-science-and-technology-asu-awarded-doe-genesis-mission-grant-electrical-grid-reliability)
