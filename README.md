@@ -233,3 +233,10 @@ https://www.nsf.gov/news/statement-nsf-chief-staff-brian-stone-performing-duties
 https://niss.gov.ua/en/doslidzhennya/nacionalna-bezpeka/genesis-mission-platform-and-prospects-united-states-ai-leadership
 https://ai.meta.com/blog/genesis-mission-lawrence-berkeley-national-laboratory-segment-anything-dino/
 https://news.umich.edu/u-m-selected-for-department-of-energy-genesis-mission-initiative/
+https://news.research.gatech.edu/2026/07/24/georgia-tech-helps-advance-genesis-mission-national-effort-transform-scientific
+https://cloud.google.com/blog/topics/public-sector/how-google-public-sector-and-google-deepmind-can-power-the-genesis-mission-and-a-new-era-of-scientific-discovery
+https://www.bnl.gov/newsroom/news.php?a=122725
+https://news.lehigh.edu/lehigh-researchers-earn-2-doe-genesis-mission-funding-awards
+https://news.arizona.edu/news/department-energy-selects-5-u-research-projects-through-new-ai-science-genesis-mission-awards
+https://www.buffalo.edu/news/releases/2026/07/genesis-mission-grants-buffalo-AI-research.html
+https://news.txst.edu/research-and-innovation/2026/doe-genesis-mission.html
