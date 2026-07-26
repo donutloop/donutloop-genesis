@@ -292,3 +292,5 @@ WIP:
 https://techcommunity.microsoft.com/blog/publicsectorblog/microsoft-spark-powering-america%E2%80%99s-genesis-mission-for-scientific-discovery/4531069
 https://windowsforum.com/windows-news.4/microsoft-invests-60-million-in-doe-genesis-mission-ai-science.439994/
 https://www.nsf.gov/news/nsf-partners-micron-globalfoundries-invest-semiconductor
+https://newscenter.lbl.gov/2026/03/17/berkeley-lab-takes-major-step-toward-doudna-with-delivery-of-early-access-system-cech/
+https://newsroom.ibm.com/2026-07-06-oak-ridge-national-lab,-cleveland-clinic,-and-ibm-achieve-first-known-computations-of-fusion-materials-on-a-quantum-computer
