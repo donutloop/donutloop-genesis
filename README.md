@@ -282,3 +282,5 @@ https://www.benton.org/headlines/launching-genesis-mission
 https://www.ord.msstate.edu/initiatives-and-opportunities/genesis-mission
 https://elements.lbl.gov/news/supporting-does-genesis-mission/
 https://atap.lbl.gov/news/the-multi-office-particle-accelerator-team-using-ai-to-enhance-the-capabilities-of-current-and-future-particle-accelerators/
+https://www.cerebras.ai/press-release/cerebras-systems-and-u-s-department-of-energy-sign-mou-to-accelerate-the-genesis-mission-and-u-s
+https://isdci.slac.stanford.edu/genesis
