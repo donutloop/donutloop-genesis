@@ -116,6 +116,7 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
 * [U.S. House of Representatives Committee Event: Hearing on the Genesis Mission (119th Congress)](https://www.congress.gov/event/119th-congress/house-event/118728)
 * [Federal Register: Presidential Document - Launching the Genesis Mission](https://www.federalregister.gov/documents/2025/11/28/2025-21665/launching-the-genesis-mission)
 * [U.S. Department of Energy: Artificial Intelligence Topics & Initiatives](https://www.energy.gov/topics/artificial-intelligence)
+* [DOE Office of Science: Under Secretary Gil's Letter to the Community](https://www.energy.gov/science/articles/under-secretary-gils-letter-community)
 * [DOE Overview: Building the World's Most Powerful Scientific Platform](https://www.energy.gov/undersecretaryforscience/genesis-mission/genesis-mission)
 * [DOE Overview: American Science and Security Platform](https://www.energy.gov/undersecretaryforscience/genesis-mission/american-science-and-security-platform)
 * [DOE Overview: Genesis Mission Collaborations](https://www.energy.gov/undersecretaryforscience/genesis-mission/genesis-mission-collaboration)
