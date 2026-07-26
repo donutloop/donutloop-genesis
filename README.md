@@ -300,3 +300,9 @@ https://www.aitennessee.ai/about-ai-tennessee/
 https://www.ornl.gov/node/111486
 https://science.osti.gov/-/media/grants/pdf/foas-resources/2026/Genesis-Mission-RFA-FAQs-20260427.pdf
 https://science.osti.gov/-/media/grants/pdf/foas-resources/2026/Genesis-Mission-RFA-Informational-Webinar--BES-v1-public.pdf
+https://www.lanl.gov/media/news/0708-uc-ai-summit
+https://www.anl.gov/article/argonne-launches-first-largescale-ai-inference-service-for-open-science
+https://news.fnal.gov/2026/06/fermilab-storage-infrastructure-enables-ai-driven-scientific-and-research-discovery-for-does-genesis-mission/
+https://www.anl.gov/article/realtime-ai-engine-poised-to-revolutionize-largescale-imaging-data-at-national-labs
+https://newsroom.accenture.com/news/2026/accenture-federal-services-to-deliver-early-operating-capability-for-doe-s-genesis-mission-cm2us
+https://newsroom.accenture.com/news/2025/accenture-partners-with-u-s-department-of-energy-to-support-groundbreaking-genesis-mission-program
