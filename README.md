@@ -255,3 +255,5 @@ https://news.fnal.gov/2026/05/fermilab-leads-multi-lab-ai-initiative-to-accelera
 https://www.siemens.com/de-de/company/insights/us-stories/bringing-industrial-ai-to-the-genesis-mission/
 https://aws.amazon.com/blogs/publicsector/aws-powering-americas-genesis-mission-from-day-one/
 https://aws.amazon.com/blogs/publicsector/aws-announces-up-to-100-million-in-federal-credits-to-accelerate-innovation-for-national-security-and-scientific-missions/
+https://aws.amazon.com/blogs/publicsector/how-aws-is-helping-federal-agencies-lead-in-quantum-computing-and-post-quantum-security/
+https://inl.gov/news-release/idaho-national-laboratory-accelerates-nuclear-energy-projects-with-amazon-web-services-cloud-and-ai-technologies/
