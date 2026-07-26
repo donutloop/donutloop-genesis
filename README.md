@@ -53,7 +53,7 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
 * [Infleqtion](https://www.infleqtion.com/)
 * [ISO New England](https://www.iso-ne.com/)
 * [Kitware](https://www.kitware.com/)
-* [LILA](https://www.lila.ai/)
+* [LILA](https://www.lila.ai/): [Powering American Science: LILA to Join DOE's Genesis Mission](https://www.lila.ai/news/powering-american-science-lila-to-join-does-genesis-mission)
 * [Micron](https://www.micron.com/) #
 * [Microsoft](https://blogs.microsoft.com/blog/2026/07/22/powering-americas-genesis-mission-microsofts-commitment-to-scientific-discovery/)
 * [MP Materials](https://mpmaterials.com/)
