@@ -1,4 +1,4 @@
-**Version**: 0.0.2-alpha
+**Version**: 0.0.3-alpha
 
 # The Genesis Mission: Architecture, Strategic Initiatives, and the Multi-Institutional Ecosystem for AI and Quantum-Driven Scientific Discovery
 
@@ -160,18 +160,18 @@ The DOE Genesis Mission establishes a new paradigm for national-scale scientific
 
 ## References & Document Sources
 
-1. **U.S. Department of Energy (DOE)**. *Funding Opportunity Announcement DE-FOA-0003612: Genesis Mission Science and Technology Projects*. Office of Science, 2026.
-2. **DOE Program Office / U.S. ATLAS**. *Genesis Mission and High Energy Physics (HEP - LHC)*. Jeremy Love (Program Manager), U.S. ATLAS Institutional Board Meeting (Indico Event 1662511, Doc 6989580), March 18, 2026.
-3. **Executive Office of the President**. *Presidential Executive Action & White House Fact Sheet: Launching the Genesis Mission*. Washington, D.C., 2026.
-4. **NVIDIA & U.S. Department of Energy**. *NVIDIA, U.S. Government Partner to Boost AI Infrastructure & R&D Investments Through Landmark Genesis Mission*. NVIDIA Strategic Announcement / DOE MOU, 2026.
-5. **Argonne Leadership Computing Facility (ALCF)**. *Genesis Mission Platform Integration: Solstice and Equinox AI Supercomputers with DOE, NVIDIA, and Oracle*. Argonne National Laboratory, 2026.
-6. **U.S. Department of Commerce & NIST**. *Letters of Intent Announcement for Domestic Quantum Leadership & Infrastructure under the CHIPS Act*. NIST, 2026.
-7. **U.S. Department of Energy**. *Secretary Chris Wright Announces Inaugural Genesis Mission Project Selections ($800M+ Allocation for AI-Driven Scientific Discovery)*. Press Release, 2026.
-8. **National Science Foundation (NSF)**. *NSF Directs $83 Million Toward Integrated Scientific Data Systems in Support of the Genesis Mission*. Arlington, VA, 2026.
-9. **National Institutes of Health (NIH)**. *Launch of the Bio Genesis Mission: Accelerating Biomedical AI for Chronic Disease Research*. NIH Director Statement, 2026.
-10. **Lawrence Berkeley National Laboratory (LBNL)**. *Berkeley Lab Selected for 13 Genesis Mission AI Initiatives and ModCon Architecture Integration*. LBNL Strategic Scientific Feature, 2026.
-11. **Princeton Plasma Physics Laboratory (PPPL)**. *PPPL to Lead Genesis Mission AI4Fusion Project for Autonomous Plasma Heating Control*. PPPL Research Communications, 2026.
-12. **Amazon Web Services (AWS)**. *AWS Announces $100 Million Infrastructure Commitment to Support Federal Genesis Mission Projects*. AWS Public Sector, 2026.
-13. **Google Cloud & DeepMind**. *Powering AI-Driven Scientific Discovery: Google $40M Support Strategy for DOE Genesis Mission*. Google Newsroom, 2026.
-14. **IBM Quantum**. *IBM Establishes Quantum Foundry Subsidiary and $50 Million Compute Allocation for Genesis Consortium*. IBM Quantum Release, 2026.
-15. **donutloop**. *Donutloop Genesis Repository: Genesis Mission Curated Research & Technical Reference Index*. GitHub Repository, `donutloop/donutloop-genesis`, 2026.
+1. **U.S. Department of Energy (DOE)**. [Funding Opportunity Announcement DE-FOA-0003612: Genesis Mission Science and Technology Projects](https://science.osti.gov/Funding-Opportunities). Office of Science, 2026.
+2. **DOE Program Office / U.S. ATLAS**. [Genesis Mission and High Energy Physics (HEP - LHC) Presentation](https://indico.cern.ch/event/1662511/). Jeremy Love (Program Manager), U.S. ATLAS Institutional Board Meeting, March 18, 2026.
+3. **Executive Office of the President**. [Presidential Executive Action & White House Fact Sheet: Launching the Genesis Mission](https://www.whitehouse.gov/briefing-room/). Washington, D.C., 2026.
+4. **NVIDIA & U.S. Department of Energy**. [NVIDIA, U.S. Government Partner to Boost AI Infrastructure & R&D Investments Through Landmark Genesis Mission](https://nvidianews.nvidia.com/). NVIDIA Strategic Announcement / DOE MOU, 2026.
+5. **Argonne Leadership Computing Facility (ALCF)**. [Genesis Mission Platform Integration: Solstice and Equinox AI Supercomputers with DOE, NVIDIA, and Oracle](https://www.alcf.anl.gov/news). Argonne National Laboratory, 2026.
+6. **U.S. Department of Commerce & NIST**. [Letters of Intent Announcement for Domestic Quantum Leadership & Infrastructure under the CHIPS Act](https://www.nist.gov/chips). NIST, 2026.
+7. **U.S. Department of Energy**. [Secretary Chris Wright Announces Inaugural Genesis Mission Project Selections ($800M+ Allocation for AI-Driven Scientific Discovery)](https://www.energy.gov/newsroom). Press Release, 2026.
+8. **National Science Foundation (NSF)**. [NSF Directs $83 Million Toward Integrated Scientific Data Systems in Support of the Genesis Mission](https://www.nsf.gov/news). Arlington, VA, 2026.
+9. **National Institutes of Health (NIH)**. [Launch of the Bio Genesis Mission: Accelerating Biomedical AI for Chronic Disease Research](https://www.nih.gov/news-events). NIH Director Statement, 2026.
+10. **Lawrence Berkeley National Laboratory (LBNL)**. [Berkeley Lab Selected for 13 Genesis Mission AI Initiatives and ModCon Architecture Integration](https://newscenter.lbl.gov/). LBNL Strategic Scientific Feature, 2026.
+11. **Princeton Plasma Physics Laboratory (PPPL)**. [PPPL to Lead Genesis Mission AI4Fusion Project for Autonomous Plasma Heating Control](https://www.pppl.gov/news). PPPL Research Communications, 2026.
+12. **Amazon Web Services (AWS)**. [AWS Announces $100 Million Infrastructure Commitment to Support Federal Genesis Mission Projects](https://aws.amazon.com/blogs/publicsector/). AWS Public Sector, 2026.
+13. **Google Cloud & DeepMind**. [Powering AI-Driven Scientific Discovery: Google $40M Support Strategy for DOE Genesis Mission](https://blog.google/technology/ai/). Google Newsroom, 2026.
+14. **IBM Quantum**. [IBM Establishes Quantum Foundry Subsidiary and $50 Million Compute Allocation for Genesis Consortium](https://newsroom.ibm.com/). IBM Quantum Release, 2026.
+15. **donutloop**. [Donutloop Genesis Repository: Genesis Mission Curated Research & Technical Reference Index](https://github.com/donutloop/donutloop-genesis). GitHub Repository, `donutloop/donutloop-genesis`, 2026.
