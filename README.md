@@ -163,7 +163,11 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
 * [Institute for Progress (IFP): Picking the Right Challenges for the Genesis Mission](https://ifp.org/picking-the-right-challenges-for-genesis-mission/)
 * [Genesis Mission Consortium: Uniting Science, Government, and Industry Leadership](https://genesismissionconsortium.org/)
 * [NISS Analysis: Genesis Mission Platform and Prospects for U.S. AI Leadership](https://niss.gov.ua/en/doslidzhennya/nacionalna-bezpeka/genesis-mission-platform-and-prospects-united-states-ai-leadership)
-
+* [Microsoft Public Sector: Microsoft SPARK: Powering America's Genesis Mission for Scientific Discovery](https://techcommunity.microsoft.com/blog/publicsectorblog/microsoft-spark-powering-america%E2%80%99s-genesis-mission-for-scientific-discovery/4531069)
+* [Windows Forum News: Microsoft Invests $60 Million in DOE Genesis Mission AI Science](https://windowsforum.com/windows-news.4/microsoft-invests-60-million-in-doe-genesis-mission-ai-science.439994/)
+* [NSF: Partnership with Micron and GlobalFoundries for Semiconductor Workforce Development](https://www.nsf.gov/news/nsf-partners-micron-globalfoundries-invest-semiconductor)
+* [IBM Newsroom: Oak Ridge National Lab, Cleveland Clinic, and IBM Achieve First-Known Computations of Fusion Materials on a Quantum Computer](https://newsroom.ibm.com/2026-07-06-oak-ridge-national-lab,-cleveland-clinic,-and-ibm-achieve-first-known-computations-of-fusion-materials-on-a-quantum-computer)
+  
 ---
 
 ## 5. National Labs & University Coverage
@@ -182,7 +186,8 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
   * [Accelerating Discovery with ModCon](https://newscenter.lbl.gov/2026/07/23/qa-accelerating-scientific-discovery-with-the-genesis-missions-modcon/)
   * [Supporting DOE's Genesis Mission (Elements Feature)](https://elements.lbl.gov/news/supporting-does-genesis-mission/)
   * [ATAP Multi-Office Accelerator Team Using AI](https://atap.lbl.gov/news/the-multi-office-particle-accelerator-team-using-ai-to-enhance-the-capabilities-of-current-and-future-particle-accelerators/)
-* **Brookhaven National Laboratory (BNL):** 
+  * [Takes Major Step Toward Doudna with Delivery of Early Access System, Cech](https://newscenter.lbl.gov/2026/03/17/berkeley-lab-takes-major-step-toward-doudna-with-delivery-of-early-access-system-cech/)
+  **Brookhaven National Laboratory (BNL):** 
   * [Genesis Mission Coverage & Research Leadership](https://www.bnl.gov/newsroom/news.php?a=123041)
   * [BNL Highlights Strategic Genesis Mission Projects](https://www.bnl.gov/newsroom/news.php?a=122827)
   * [Inaugural Genesis Mission Initiatives at BNL](https://www.bnl.gov/newsroom/news.php?a=122725)
