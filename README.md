@@ -1,4 +1,4 @@
-# Genesis Mission Overview - WIP!
+# Genesis Mission Overview
 
 <img width="2006" height="1121" alt="Screenshot From 2026-07-26 10-50-55" src="https://github.com/user-attachments/assets/d46729cd-904e-4d4e-8fd5-5853f77ac55f" />
 
@@ -10,7 +10,6 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
 
 <img width="2408" height="1951" alt="Screenshot From 2026-07-26 10-52-13" src="https://github.com/user-attachments/assets/647da895-07db-4aa5-978e-bbfc82519de5" />
 <img width="3840" height="1947" alt="Screenshot From 2026-07-26 10-53-03" src="https://github.com/user-attachments/assets/cd8afd28-28f5-4a29-846e-768555d117df" />
-
 
 * **Document:** [Genesis Mission and HEP - LHC (PDF)](https://indico.cern.ch/event/1662511/contributions/6989580/attachments/3241179/5781542/Genesis%20Mission%20and%20HEP%20-%20LHC.pdf)
 * **Event:** [U.S. ATLAS Institutional Board Meeting](https://indico.cern.ch/event/1662511/?view=indico_weeks_view) (Indico Event ID: 1662511, Contribution ID: 6989580)
@@ -121,30 +120,33 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
 ### Universities & Research Institutions
 * **Caltech:** [Two Projects Selected for Funding](https://www.caltech.edu/about/news/two-caltech-projects-selected-for-doe-funding-as-part-of-genesis-mission)
 * **Carnegie Mellon University:** [Researchers Lead Three Awards](https://www.cmu.edu/news/stories/archives/2026/july/carnegie-mellon-researchers-lead-three-doe-genesis-mission-awards-to-advance-the-future-of-ai)
+* **Colorado State University:** [Researchers Selected for Two Highly Competitive Projects](https://source.colostate.edu/csu-researchers-selected-for-two-highly-competitive-department-of-energy-genesis-mission-projects/)
 * **Cornell University:** [Awards Will Advance AI-Driven Science](https://news.cornell.edu/stories/2026/07/doe-genesis-mission-awards-will-advance-ai-driven-science)
+* **Emory University:** [Scientists Selected for Awards to Speed Discovery Through AI](https://news.emory.edu/stories/2026/07/emory-scientists-selected-us-genesis-mission-awards-speed-discovery-through-ai)
 * **Florida State University:** [Secures DOE Genesis Mission Awards](https://news.fsu.edu/news/science-technology/2026/07/22/florida-state-university-secures-department-of-energy-genesis-mission-awards/)
 * **Iowa State University:** [Research Projects Selected for Funding](https://www.news.iastate.edu/news/several-iowa-state-research-projects-selected-us-department-energy-genesis-mission)
 * **Michigan State University (FRIB):** [Receives Award for AI-Powered Research](https://msutoday.msu.edu/news/2026/07/frib-receives-genesis-mission-award)
+* **Michigan Technological University:** [Atmospheric Scientists Linked to Three Selected Projects](https://www.mtu.edu/news/2026/07/michigan-tech-atmospheric-scientists-linked-to-three-research-projects-selected-for-doe-genesis-mission.html)
 * **MIT:** [Projects Selected for Funding](https://news.mit.edu/2026/mit-projects-selected-funding-under-doe-genesis-mission-0723)
 * **New Mexico State University (NMSU):** [NMSU-Led Team Selected for $800M Initiative](https://newsroom.nmsu.edu/news/nmsu-led-team-among-those-selected-for--800-million-doe-genesis-mission/s/16c85a82-19d1-45ea-922e-6aba73e11383)
 * **Northwestern University:** [Projects Receive Funding](https://news.northwestern.edu/stories/2026/07/northwestern-projects-receive-genesis-mission-funding)
 * **Penn State University:** [Scientists to Lead Three Projects](https://www.psu.edu/news/research/story/penn-state-scientists-lead-three-genesis-mission-projects)
 * **Princeton University:** [Researchers Awarded Grants to Lead AI Projects](https://www.princeton.edu/news/2026/07/22/princeton-researchers-awarded-genesis-mission-grants-department-energy-accelerate)
 * **Rice University:** [Researchers Earn 2 Awards](https://news.rice.edu/news/2026/rice-researchers-earn-2-doe-genesis-mission-awards)
+* **RTI International:** [Research Teams Selected for DOE Genesis Mission](https://www.rti.org/news/doe-genesis-mission-research-teams)
 * **Stanford University:** [To Lead Projects with SLAC](https://news.stanford.edu/stories/2026/07/stanford-and-slac-to-lead-genesis-mission-projects)
+* **Stony Brook University:** [Researchers Chosen for Landmark AI for Science Awards](https://news.stonybrook.edu/newsroom/press-release/general/stony-brook-university-researchers-chosen-for-landmark-doe-genesis-mission-ai-for-science-awards-2/)
+* **Tulane University:** [Team Selected to Discover Next Generation Materials Using AI](https://news.tulane.edu/pr/department-energys-genesis-mission-selects-tulane-team-using-ai-discover-next-generation)
+* **UC Berkeley (College of Chemistry):** [Awarded DOE Genesis Mission Grant](https://chemistry.berkeley.edu/news/uc-berkeley-college-chemistry-awarded-doe-genesis-mission-grant)
+* **University of Florida:** [Receives Genesis Mission Grant](https://news.ufl.edu/2026/07/genesis-mission-grant/)
+* **University of Illinois Urbana-Champaign:** [Illinois-Led Team Selected for Award](https://news.illinois.edu/illinois-led-team-selected-for-doe-genesis-mission-award/)
+* **University of Kentucky:** [6 UK Researchers Selected for Historic Mission](https://uknow.uky.edu/research/6-uk-researchers-selected-historic-doe-genesis-mission)
 * **University of Maine:** [Team Selected to Advance AI in Underground Science](https://umaine.edu/news/2026/07/umaine-led-team-selected-for-inaugural-doe-genesis-mission-to-advance-ai-in-underground-science/)
 * **University of New Mexico (UNM):** [Researchers Selected for Mission](https://news.unm.edu/news/unm-researchers-selected-for-u-s-does-genesis-mission)
-* **University of Southern California (USC):** [USC Leads National AI Research Project](https://today.usc.edu/usc-leads-national-ai-research-project-to-accelerate-scientific-discovery/)
+* **University of Southern California (USC):** 
+  * [USC Leads National AI Research Project](https://today.usc.edu/usc-leads-national-ai-research-project-to-accelerate-scientific-discovery/)
+  * [Multiple USC-Led Projects Receive Awards to Advance AI](https://today.usc.edu/multiple-usc-led-projects-receive-u-s-department-of-energy-genesis-mission-awards-to-advance-ai/)
 * **University of Texas at Austin:** [Awards Funding to 5 UT Research Projects](https://news.utexas.edu/2026/07/22/department-of-energys-new-ai-for-science-genesis-mission-awards-funding-to-5-ut-research-projects/)
 * **University of Wisconsin–Madison:** [5 Projects Receive Funding](https://news.wisc.edu/5-projects-at-uwmadison-aimed-at-transforming-science-and-energy-with-ai-receive-doe-genesis-mission-funding/)
+* **Virginia Tech:** [Research Projects Selected for Genesis Mission](https://news.vt.edu/articles/2026/07/research-genesis-mission.html)
 * **Yale University:** [Researchers Receive Awards to Pursue AI Advances](https://news.yale.edu/2026/07/22/yale-researchers-receive-genesis-mission-awards-pursue-ai-advances)
-
-WIP:
-
-https://www.rti.org/news/doe-genesis-mission-research-teams
-
-https://news.emory.edu/stories/2026/07/emory-scientists-selected-us-genesis-mission-awards-speed-discovery-through-ai
-
-https://today.usc.edu/multiple-usc-led-projects-receive-u-s-department-of-energy-genesis-mission-awards-to-advance-ai/
-
-
