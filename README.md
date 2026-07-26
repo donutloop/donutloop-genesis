@@ -113,6 +113,7 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
 * [White House Fact Sheet: President Donald J. Trump Unveils the Genesis Mission](https://www.whitehouse.gov/fact-sheets/2025/11/fact-sheet-president-donald-j-trump-unveils-the-genesis-missionto-accelerate-ai-for-scientific-discovery/)
 * [White House Release: 2026 Genesis Mission Updates](https://www.whitehouse.gov/releases/2026/07/45502/)
 * [Federal Register: Presidential Document - Launching the Genesis Mission](https://www.federalregister.gov/documents/2025/11/28/2025-21665/launching-the-genesis-mission)
+* [U.S. Department of Energy: Artificial Intelligence Topics & Initiatives](https://www.energy.gov/topics/artificial-intelligence)
 * [DOE Overview: Building the World's Most Powerful Scientific Platform](https://www.energy.gov/undersecretaryforscience/genesis-mission/genesis-mission)
 * [DOE Overview: American Science and Security Platform](https://www.energy.gov/undersecretaryforscience/genesis-mission/american-science-and-security-platform)
 * [DOE Overview: Genesis Mission Collaborations](https://www.energy.gov/undersecretaryforscience/genesis-mission/genesis-mission-collaboration)
