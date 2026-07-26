@@ -1,4 +1,4 @@
-**Version**: 0.0.5-alpha
+**Version**: 0.0.6-alpha
 
 # The Genesis Mission: Architecture, Strategic Initiatives, and the Multi-Institutional Ecosystem for AI and Quantum-Driven Scientific Discovery
 
@@ -75,6 +75,9 @@ To establish quantum supremacy in error-corrected and fault-tolerant regimes, th
 | **Quantinuum** | $100 Million | Trapped-ion fault-tolerant architectures and optical hardware packaging. |
 | **Rigetti Computing** | Up to $100 Million | Cryogenic readout electronics and next-gen superconducting circuits. |
 
+Key modality highlights across quantum commitments include:
+* **D-Wave Quantum ($100 Million Commitment):** D-Wave advances commercial quantum annealing hardware and gate-model superconducting quantum architectures. Integrated directly with DOE National Laboratory compute grids, D-Wave's systems target complex combinatorial optimization, materials science calculations, power grid resilience modeling, and hybrid quantum-HPC algorithmic workflows.
+
 ### 2.3 Scientific Domain Applications
 
 #### A. High Energy Physics (HEP) & Particle Accelerators
@@ -124,6 +127,7 @@ A defining feature of the Genesis Mission is its hybrid operational model unitin
   * **Lux Supercomputer:** In deployment starting 2026 as the first operational computing platform under the Genesis Mission, featuring **AMD Instinct MI355X GPUs**, **AMD EPYC CPUs**, and **AMD Pensando** high-speed DPU networking.
   * **Discovery Exascale System:** Long-term exascale supercomputing platform (planned 2028) featuring **6th Gen AMD EPYC processors** and **AMD Instinct MI430X GPUs** to support high-accuracy scientific simulations and foundation models.
   * **ROCm & Open Software Stack:** Expanding the open ROCm ecosystem to integrate traditional exascale HPC supercomputing workloads with modern scientific AI tools.
+* **D-Wave Quantum:** Committing $100 Million in planned funding to advance quantum annealing and gate-model superconducting architectures. D-Wave provides commercial quantum optimization systems and hybrid quantum-classical solvers to address national challenges in energy grid management, supply chain optimization, and materials synthesis.
 * **Amazon Web Services (AWS):** Committing $100 Million in federal credits for scientific research, advanced cloud HPC infrastructure, and post-quantum cryptographic security.
 * **Google Public Sector & DeepMind:** Committing $40 Million to deploy specialized AI foundation models (e.g., AlphaFold/AlphaTensor variants, materials discovery) and enterprise cloud infrastructure.
 * **Microsoft & Oracle:** Provisioning enterprise cloud, Azure Quantum, and scalable HPC infrastructure for DOE national security and clean energy simulations.
