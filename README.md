@@ -267,3 +267,10 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
   https://www.colorado.edu/venturepartners/2026/07/22/external-news/infleqtion-secures-three-genesis-mission-projects-us-department-energy
   https://www.amd.com/en/blogs/2025/amd-powers-the-united-states--genesis-mission-to-advance-ai-enab.html
   https://www.energy.gov/undersecretaryforscience/genesis-mission/american-science-and-security-platform
+  https://www.anthropic.com/news/genesis-mission-partnership
+https://ifp.org/picking-the-right-challenges-for-genesis-mission/
+https://www.pppl.gov/news/2026/pppl-lead-genesis-mission-project-create-ai-operator-crucial-fusion-energy-heating-system
+https://www.lbl.gov/genesis-mission-projects/
+https://www.ornl.gov/
+https://www.pppl.gov/research/projects/genesis-mission-ai4fusion
+https://www.netl.doe.gov/node/15121
