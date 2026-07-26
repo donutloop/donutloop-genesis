@@ -21,10 +21,7 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
 
 ---
 
-## 2. Initial Collaborators
-
-<details>
-<summary><strong>Click to expand full list of initial industry and institutional collaborators</strong></summary>
+## 2. Collaborators
 
 * [Albemarle](https://www.albemarle.com/)
 * [Amazon Web Services (AWS)](https://aws.amazon.com/blogs/publicsector/aws-powering-americas-genesis-mission-from-day-one/)
@@ -85,8 +82,6 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
 * [TdVib](https://tdvib.com/)
 * [Tennessee Valley Authority](https://www.tva.com/)
 * [xLight](https://xlight.ai/)
-
-</details>
 
 ---
 
