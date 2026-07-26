@@ -218,3 +218,18 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
 * **University of Wisconsin–Madison:** [5 Projects Receive Funding](https://news.wisc.edu/5-projects-at-uwmadison-aimed-at-transforming-science-and-energy-with-ai-receive-doe-genesis-mission-funding/)
 * **Virginia Tech:** [Research Projects Selected for Genesis Mission](https://news.vt.edu/articles/2026/07/research-genesis-mission.html)
 * **Yale University:** [Researchers Receive Awards to Pursue AI Advances](https://news.yale.edu/2026/07/22/yale-researchers-receive-genesis-mission-awards-pursue-ai-advances)
+
+
+WIP:
+
+https://deepmind.google/blog/google-deepmind-supports-us-department-of-energy-on-genesis/
+https://www.colorado.edu/researchinnovation/node/8528/funding/limited-submission-funding-opportunities/doe-genesis-mission-transforming-science
+https://simpler.grants.gov/opportunity/0228b895-9cb3-4160-8acc-58709e75c3c7
+https://www.whitehouse.gov/releases/2026/07/45502/
+https://www.lanl.gov/media/news/1124-ai-computing-revolution
+https://www.energy.gov/undersecretaryforscience/genesis-mission/genesis-mission-collaboration
+https://www.nih.gov/about-nih/nih-director/statements/statement-launch-bio-genesis-mission-nihs-component-national-genesis-mission
+https://www.nsf.gov/news/statement-nsf-chief-staff-brian-stone-performing-duties-nsf-1
+https://niss.gov.ua/en/doslidzhennya/nacionalna-bezpeka/genesis-mission-platform-and-prospects-united-states-ai-leadership
+https://ai.meta.com/blog/genesis-mission-lawrence-berkeley-national-laboratory-segment-anything-dino/
+https://news.umich.edu/u-m-selected-for-department-of-energy-genesis-mission-initiative/
