@@ -312,3 +312,8 @@ https://www.lsu.edu/blog/2026/07/genesis-mission-awards.php
 https://www.pittwire.pitt.edu/features-articles/2026/07/24/genesis-mission-ai-quantum
 https://science.osti.gov/-/media/grants/pdf/foas-resources/2026/HEP-NP-Genesis-Mission-RFA-Informational-Webinar.pdf
 https://blogs.nvidia.com/blog/national-quantum-initiative/
+https://www.ornl.gov/organization-news/qubit-engineering-debuts-ai-powered-tool-analyze-modern-power-grid
+https://science.osti.gov/-/media/grants/pdf/foas/2026/DE-FOA-0003612-000003.pdf
+https://www.anl.gov/article/argonne-receives-doe-funding-to-advance-ai-for-science
+https://www.lanl.gov/media/publications/1663/0624-what-next-for-qubits
+https://www.energy.gov/articles/energy-department-launches-genesis-mission-transform-american-science-and-innovation
