@@ -54,14 +54,14 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
 * [ISO New England](https://www.iso-ne.com/)
 * [Kitware](https://www.kitware.com/)
 * [LILA](https://www.lila.ai/)
-* [Micron](https://www.micron.com/)
+* [Micron](https://www.micron.com/) #
 * [Microsoft](https://blogs.microsoft.com/blog/2026/07/22/powering-americas-genesis-mission-microsofts-commitment-to-scientific-discovery/)
 * [MP Materials](https://mpmaterials.com/)
 * [New York Creates](https://nycreates.org/)
 * [Niron Magnets](https://nironmagnets.com/)
 * [Nokia](https://www.nokia.com/)
 * [Nusano](https://nusano.com/)
-* [NVIDIA](https://blogs.nvidia.com/) #
+* [NVIDIA](https://blogs.nvidia.com/) 
 * [OLI Systems](https://www.olisystems.com/)
 * [OpenAI for Government](https://openai.com/index/advancing-the-next-era-of-national-science/)
 * [Oracle](https://www.oracle.com/)
