@@ -333,3 +333,7 @@ https://openai.com/index/us-department-of-energy-collaboration/
 https://olisystems.com/resources/news/oli-selected-as-an-official-collaborator-in-the-u-s-department-of-energys-genesis-mission/
 https://olisystems.com/resources/blog/ai-for-critical-materials-is-only-as-good-as-the-chemistry-that-supports-it/
 https://blogs.nvidia.com/blog/energy-secretary-chris-wright-ian-buck/
+https://www.energy.gov/documents/ostp-genesis-mission-science-and-technology-challenges
+https://research.princeton.edu/news/princeton-researchers-awarded-genesis-mission-grants-department-energy-accelerate-ai-use-0
+https://www.anl.gov/genesis-mission/national-challenges
+https://stevens.usc.edu/news/genesis-mission-usc-leads-national-ai-research-project-to-accelerate-scientific-discovery/
