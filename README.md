@@ -132,20 +132,30 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
 * [AMD: Partnering to Accelerate AI-Driven Scientific Leadership](https://www.amd.com/en/blogs/2025/amd-powers-the-united-states--genesis-mission-to-advance-ai-enab.html)
 * [Anthropic: Introducing Anthropic Science & Genesis Partnership](https://www.anthropic.com/research/introducing-anthropic-science)
 * [Scale AI: Signing MOU with DOE to Advance the Genesis Mission](https://scale.com/blog/scale-ai-doe-genesis-mission-mou)
+* [NVIDIA: Partnering with U.S. Government to Boost AI Infrastructure & R&D](https://blogs.nvidia.com/blog/nvidia-us-government-to-boost-ai-infrastructure-and-rd-investments/)
+* [Department of the Interior: Highlights Scientific Leadership Supporting the Genesis Mission](https://www.doi.gov/pressreleases/interior-highlights-scientific-leadership-supporting-genesis-mission)
+* [Genesis Mission Consortium: Uniting Science, Government, and Industry Leadership](https://genesismissionconsortium.org/)
 
 ---
 
 ## 5. National Labs & University Coverage
 
 ### National Laboratories
-* **Argonne National Laboratory:** [Leading AI Research Projects Under DOE Genesis Mission](https://www.anl.gov/article/argonne-to-lead-ai-research-projects-under-the-department-of-energys-genesis-mission)
+* **Argonne National Laboratory:** 
+  * [Leading AI Research Projects Under DOE Genesis Mission](https://www.anl.gov/article/argonne-to-lead-ai-research-projects-under-the-department-of-energys-genesis-mission)
+  * [Genesis Mission Overview & ALCF Integration](https://www.anl.gov/genesis-mission)
 * **Berkeley Lab (LBNL):** 
   * [Leading 13 New AI Projects](https://newscenter.lbl.gov/2026/07/22/berkeley-lab-to-lead-13-new-genesis-mission-ai-projects/)
   * [Accelerating Discovery with ModCon](https://newscenter.lbl.gov/2026/07/23/qa-accelerating-scientific-discovery-with-the-genesis-missions-modcon/)
-* **Fermilab:** [DOE Invests to Accelerate AI-Enabled Discovery](https://news.fnal.gov/2026/07/u-s-department-of-energy-invests-in-fermilab-projects-to-accelerate-ai-enabled-scientific-discovery/)
+* **Fermilab:** 
+  * [DOE Invests to Accelerate AI-Enabled Discovery](https://news.fnal.gov/2026/07/u-s-department-of-energy-invests-in-fermilab-projects-to-accelerate-ai-enabled-scientific-discovery/)
+  * [DOE Launches Genesis Mission to Transform Science and Innovation](https://news.fnal.gov/2025/11/u-s-department-of-energy-launches-genesis-mission-to-transform-american-science-and-innovation-through-the-ai-computing-revolution/)
 * **Lawrence Livermore National Laboratory (LLNL):** [Selected to Lead 10 Projects](https://www.llnl.gov/article/54711/llnl-selected-lead-10-projects-under-does-genesis-mission)
 * **Los Alamos National Laboratory (LANL):** [DOE Awards Funding to Seven Projects](https://www.lanl.gov/media/news/0722-genesis-mission-funding)
-* **Oak Ridge National Laboratory (ORNL):** [The Genesis Mission & Core Systems at ORNL](https://www.ornl.gov/genesis)
+* **National Energy Technology Laboratory (NETL):** [AI-Driven Research to Strengthen Grid, Supply Chains, and Tech Leadership](https://www.netl.doe.gov/newsroom/news-releases/news-details?id=28828854-4fb0-4660-8fdd-b2861e695be2)
+* **Oak Ridge National Laboratory (ORNL):** 
+  * [The Genesis Mission & Core Systems at ORNL](https://www.ornl.gov/genesis)
+  * [DOE Selects ORNL to Lead Nine Genesis Mission Projects](https://www.ornl.gov/news/department-energy-selects-ornl-lead-nine-genesis-mission-projects)
 * **Princeton Plasma Physics Laboratory (PPPL):** [Leading Project for AI Operator in Fusion Energy Heating](https://www.newswise.com/articles/pppl-to-lead-genesis-mission-project-to-create-an-ai-operator-for-crucial-fusion-energy-heating-system)
 * **Sandia National Laboratories:** [Selected to Lead 6 Projects, Partner on 17 Others](https://newsreleases.sandia.gov/sandia-selected-to-lead-six-genesis-mission-projects-partner-on-17-others/)
 * **SLAC National Accelerator Laboratory:** [Leading Projects Alongside Stanford](https://news.stanford.edu/stories/2026/07/stanford-and-slac-to-lead-genesis-mission-projects)
