@@ -205,6 +205,7 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
   * [Argonne Receives DOE Funding to Advance AI for Science](https://www.anl.gov/article/argonne-receives-doe-funding-to-advance-ai-for-science)
   * [Argonne Partners with RIKEN, Fujitsu, and NVIDIA to Advance AI for Science](https://www.anl.gov/article/argonne-partners-with-riken-fujitsu-and-nvidia-to-advance-ai-for-science-and-nextgeneration)
   * [Genesis Mission: National Science Challenges](https://www.anl.gov/genesis-mission/national-challenges)
+  * [Argonne Leadership Computing Facility (ALCF): Genesis Mission Platform](https://www.alcf.anl.gov/genesis-mission)
 * **Berkeley Lab (LBNL):** 
   * [Genesis Mission Hub & Scientific Strategy](https://www.lbl.gov/genesis-mission/)
   * [Genesis Mission Projects Directory](https://www.lbl.gov/genesis-mission-projects/)
