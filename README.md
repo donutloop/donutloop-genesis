@@ -67,7 +67,7 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
 * [Oracle](https://www.oracle.com/)
 * [Phoenix Tailings](https://www.phoenixtailings.com/)
 * [PMT Critical Metals](https://pmtcriticalmetals.com/)
-* [PsiQuantum](https://psiquantum.com/)
+* [PsiQuantum](https://psiquantum.com/) #
 * [Quantinuum](https://www.quantinuum.com/)
 * [Qubit](https://www.qubit.com/)
 * [RadiaSoft](https://www.radiasoft.net/)
@@ -316,4 +316,6 @@ https://www.ornl.gov/organization-news/qubit-engineering-debuts-ai-powered-tool-
 https://science.osti.gov/-/media/grants/pdf/foas/2026/DE-FOA-0003612-000003.pdf
 https://www.anl.gov/article/argonne-receives-doe-funding-to-advance-ai-for-science
 https://www.lanl.gov/media/publications/1663/0624-what-next-for-qubits
+https://www.anl.gov/article/argonne-partners-with-riken-fujitsu-and-nvidia-to-advance-ai-for-science-and-nextgeneration
+https://blogs.nvidia.com/blog/japan-ecosystem-2026/
 https://www.energy.gov/articles/energy-department-launches-genesis-mission-transform-american-science-and-innovation
