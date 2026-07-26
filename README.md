@@ -135,7 +135,7 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
 * [Department of Commerce: Letters of Intent with 9 Companies for Quantum Leadership](https://www.nist.gov/news-events/news/2026/05/department-commerce-announces-letters-intent-9-companies-2-billion)
 * [Department of War: Partnership to Proliferate AI for Science](https://www.war.gov/News/Releases/Release/Article/4551998/department-of-war-partners-with-the-genesis-mission-to-proliferate-ai-for-scien/)
 * [HHS: Joining the Mission to End Chronic Disease](https://www.hhs.gov/press-room/hhs-joins-genesis-mission-ai-chronic-disease-research.html)
-* [NIH: Bio Genesis Mission Overview](https://www.nih.gov/bio-genesismission)
+* [NIH: Bio Genesis Mission Overview](https://wwhttps://www.nlr.gov/computational-science/genesis-missionw.nih.gov/bio-genesismission)
 * [NIH Director Statement: Launch of Bio Genesis Mission (NIH Component)](https://www.nih.gov/about-nih/nih-director/statements/statement-launch-bio-genesis-mission-nihs-component-national-genesis-mission)
 * [NASA: Joining to Accelerate AI-Driven Discovery](https://www.nasa.gov/news-release/nasa-joins-genesis-mission-to-accelerate-ai-driven-discovery/)
 * [NSF: $83M Investment in Integrated Data Systems](https://www.nsf.gov/news/nsf-announces-83m-investment-integrated-data-systems)
@@ -271,3 +271,17 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
 ## 6. Additional Event Materials & Reference Links
 
 * **U.S. ATLAS Institutional Board:** [March 18, 2026 IB Meeting Intro (PDF)](https://indico.cern.ch/event/1662511/contributions/6989578/attachments/3241191/5781385/2026_03_18%20IB%20mtg%20intro.pdf)
+
+
+  WIP:
+
+  https://inl.gov/news-release/idaho-national-laboratory-to-accelerate-nuclear-energy-deployment-with-nvidia-ai-through-the-genesis-mission/
+  https://www.srnl.gov/news-releases/energy-department-launches-genesis-mission-to-transform-american-science-and-innovation-through-the-ai-computing-revolution/
+  https://www.nlr.gov/computational-science/genesis-mission
+  https://www.federalregister.gov/documents/2025/11/28/2025-21665/launching-the-genesis-mission
+https://news.fnal.gov/2026/03/fermilab-drives-progress-for-national-ai-genesis-mission/
+https://www.llnl.gov/article/54421/big-ideas-lab-explores-how-genesis-mission-aims-accelerate-scientific-discovery
+https://www.srnl.gov/genesis-mission/
+https://www.bnl.gov/newsroom/news.php?a=222774
+https://www.benton.org/headlines/launching-genesis-mission
+https://www.ord.msstate.edu/initiatives-and-opportunities/genesis-mission
