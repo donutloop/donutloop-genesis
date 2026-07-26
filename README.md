@@ -292,3 +292,11 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
 
 * **U.S. ATLAS Institutional Board:** [March 18, 2026 IB Meeting Intro (PDF)](https://indico.cern.ch/event/1662511/contributions/6989578/attachments/3241191/5781385/2026_03_18%20IB%20mtg%20intro.pdf)
 
+
+  WIP:
+
+  https://www.diraq.com/newsdesk/diraq-signs-38m-letter-of-intent-with-the-us-department-of-commerce-under-chips-act-to-scale-domestic-quantum-computing-processors-using-silicon-spin-technology
+https://www.aitennessee.ai/about-ai-tennessee/
+https://www.ornl.gov/node/111486
+https://science.osti.gov/-/media/grants/pdf/foas-resources/2026/Genesis-Mission-RFA-FAQs-20260427.pdf
+https://science.osti.gov/-/media/grants/pdf/foas-resources/2026/Genesis-Mission-RFA-Informational-Webinar--BES-v1-public.pdf
