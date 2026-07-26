@@ -35,7 +35,7 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
 * [Chemspeed](https://www.chemspeed.com/)
 * [Collins Aerospace](https://www.collinsaerospace.com/)
 * [ComEd](https://www.comed.com/)
-* [Cornelis Networks](https://www.cornelisnetworks.com/)
+* [Cornelis Networks](https://www.cornelisnetworks.com/): [Cornelis Partners with U.S. Department of Energy on the Genesis Mission](https://www.cornelis.com/stories/cornelis-partners-with-us-department-of-energy-on-the-genesis-mission)
 * [Critical Materials Recycling](https://www.cmrecycling.com/)
 * [Dell Technologies](https://www.dell.com/)
 * [Diraq](https://diraq.com/)
@@ -54,7 +54,7 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
 * [ISO New England](https://www.iso-ne.com/)
 * [Kitware](https://www.kitware.com/)
 * [LILA](https://www.lila.ai/): [Powering American Science: LILA to Join DOE's Genesis Mission](https://www.lila.ai/news/powering-american-science-lila-to-join-does-genesis-mission)
-* [Micron](https://www.micron.com/) #
+* [Micron](https://www.micron.com/) 
 * [Microsoft](https://blogs.microsoft.com/blog/2026/07/22/powering-americas-genesis-mission-microsofts-commitment-to-scientific-discovery/)
 * [MP Materials](https://mpmaterials.com/)
 * [New York Creates](https://nycreates.org/)
