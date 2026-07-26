@@ -1,4 +1,4 @@
-# Genesis Mission Overview
+# Genesis Mission Overview - WIP!
 
 <img width="2006" height="1121" alt="Screenshot From 2026-07-26 10-50-55" src="https://github.com/user-attachments/assets/d46729cd-904e-4d4e-8fd5-5853f77ac55f" />
 
@@ -138,3 +138,13 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
 * **University of Texas at Austin:** [Awards Funding to 5 UT Research Projects](https://news.utexas.edu/2026/07/22/department-of-energys-new-ai-for-science-genesis-mission-awards-funding-to-5-ut-research-projects/)
 * **University of Wisconsin–Madison:** [5 Projects Receive Funding](https://news.wisc.edu/5-projects-at-uwmadison-aimed-at-transforming-science-and-energy-with-ai-receive-doe-genesis-mission-funding/)
 * **Yale University:** [Researchers Receive Awards to Pursue AI Advances](https://news.yale.edu/2026/07/22/yale-researchers-receive-genesis-mission-awards-pursue-ai-advances)
+
+WIP:
+
+https://www.rti.org/news/doe-genesis-mission-research-teams
+
+https://news.emory.edu/stories/2026/07/emory-scientists-selected-us-genesis-mission-awards-speed-discovery-through-ai
+
+https://today.usc.edu/multiple-usc-led-projects-receive-u-s-department-of-energy-genesis-mission-awards-to-advance-ai/
+
+
