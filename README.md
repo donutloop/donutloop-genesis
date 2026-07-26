@@ -180,10 +180,26 @@ https://news.utexas.edu/2026/07/22/department-of-energys-new-ai-for-science-gene
 
 https://www.caltech.edu/about/news/two-caltech-projects-selected-for-doe-funding-as-part-of-genesis-mission
 
-#Florida State University secures Department of Energy Genesis Mission awards
+# Florida State University secures Department of Energy Genesis Mission awards
 
 https://news.fsu.edu/news/science-technology/2026/07/22/florida-state-university-secures-department-of-energy-genesis-mission-awards/
 
+# PPPL to Lead Genesis Mission Project to Create an AI Operator for Crucial Fusion Energy Heating System
+
+https://www.newswise.com/articles/pppl-to-lead-genesis-mission-project-to-create-an-ai-operator-for-crucial-fusion-energy-heating-system
+
+
+# Berkeley Lab to Lead 13 New Genesis Mission AI Projects
+
+https://newscenter.lbl.gov/2026/07/22/berkeley-lab-to-lead-13-new-genesis-mission-ai-projects/
+
+# FRIB receives Genesis Mission award for AI-powered research
+
+https://msutoday.msu.edu/news/2026/07/frib-receives-genesis-mission-award
+
+# Yale researchers receive Genesis Mission awards to pursue AI advances
+
+https://news.yale.edu/2026/07/22/yale-researchers-receive-genesis-mission-awards-pursue-ai-advances
 
 # Berkeley Lab to Lead 13 New Genesis Mission AI Projects
 
