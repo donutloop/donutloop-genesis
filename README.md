@@ -28,7 +28,7 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
 * [AMD](https://www.amd.com/en/blogs/2025/amd-powers-the-united-states--genesis-mission-to-advance-ai-enab.html)
 * [Anthropic](https://www.anthropic.com/research/introducing-anthropic-science)
 * [Applied Materials](https://www.appliedmaterials.com/)
-* [Atom Computing](https://atom-computing.com/) - current
+* [Atom Computing](https://atom-computing.com/) 
 * [Atomic Canyon](https://www.atomiccanyon.com/)
 * [AVEVA](https://www.aveva.com/)
 * [Cerebras](https://www.cerebras.ai/company/press-release)
