@@ -240,3 +240,15 @@ https://news.lehigh.edu/lehigh-researchers-earn-2-doe-genesis-mission-funding-aw
 https://news.arizona.edu/news/department-energy-selects-5-u-research-projects-through-new-ai-science-genesis-mission-awards
 https://www.buffalo.edu/news/releases/2026/07/genesis-mission-grants-buffalo-AI-research.html
 https://news.txst.edu/research-and-innovation/2026/doe-genesis-mission.html
+https://www.energy.gov/undersecretaryforscience/genesis-mission/genesis-mission-national-science-and-technology-challenges
+https://infleqtion.com/infleqtion-secures-three-genesis-mission-projects-from-u-s-department-of-energy/
+https://www.whitehouse.gov/releases/2025/11/president-trump-launches-the-genesis-mission-to-accelerate-ai-for-scientific-discovery/
+https://www.energy.gov/documents/genesis-mission-national-science-technology-challenges
+https://www.anl.gov/genesis-mission/projects
+https://www.whitehouse.gov/fact-sheets/2025/11/fact-sheet-president-donald-j-trump-unveils-the-genesis-missionto-accelerate-ai-for-scientific-discovery/
+https://www.energy.gov/undersecretaryforscience/articles/us-department-energy-announces-more-800-million-partner
+https://www.energy.gov/undersecretaryforscience/articles/energy-department-announces-26-genesis-mission-science-and
+https://www.energy.gov/articles/energy-department-launches-genesis-mission-consortium-accelerate-ai-driven-scientific
+https://www.energy.gov/articles/energy-department-announces-collaboration-agreements-24-organizations-advance-genesis
+https://www.energy.gov/nnsa/articles/nnsa-demonstrates-swift-action-genesis-mission
+https://www.energy.gov/articles/energy-department-announces-293-million-funding-support-genesis-mission-national-science
