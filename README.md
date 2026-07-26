@@ -327,7 +327,9 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
 * **Princeton University:** [Princeton Researchers Awarded Genesis Mission Grants](https://research.princeton.edu/news/princeton-researchers-awarded-genesis-mission-grants-department-energy-accelerate-ai-use-0)
 * **University of Pittsburgh:** [PittWire: Genesis Mission AI and Quantum Science](https://www.pittwire.pitt.edu/features-articles/2026/07/24/genesis-mission-ai-quantum)
 * **University of Southern California (USC):** [USC Stevens Center: USC Leads National AI Research Project](https://stevens.usc.edu/news/genesis-mission-usc-leads-national-ai-research-project-to-accelerate-scientific-discovery/)
+* **New Jersey Institute of Technology (NJIT):** [Genesis Mission - Transforming Science and Energy with AI](https://research.njit.edu/genesis-mission-transforming-science-and-energy-ai)
 
+  
 ---
 
 
