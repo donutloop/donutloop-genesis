@@ -204,3 +204,19 @@ https://news.yale.edu/2026/07/22/yale-researchers-receive-genesis-mission-awards
 # Berkeley Lab to Lead 13 New Genesis Mission AI Projects
 
 https://newscenter.lbl.gov/2026/07/22/berkeley-lab-to-lead-13-new-genesis-mission-ai-projects/
+
+# LLNL selected to lead 10 projects under DOE’s Genesis Mission
+
+https://www.llnl.gov/article/54711/llnl-selected-lead-10-projects-under-does-genesis-mission
+
+# Argonne to lead AI research projects under the Department of Energy’s Genesis Mission
+https://www.anl.gov/article/argonne-to-lead-ai-research-projects-under-the-department-of-energys-genesis-mission
+
+# Penn State scientists to lead three Genesis Mission projects
+https://www.psu.edu/news/research/story/penn-state-scientists-lead-three-genesis-mission-projects
+
+# UNM researchers selected for U.S. DOE’s Genesis Mission
+https://news.unm.edu/news/unm-researchers-selected-for-u-s-does-genesis-mission
+
+# Rice researchers earn 2 DOE Genesis Mission awards
+https://news.rice.edu/news/2026/rice-researchers-earn-2-doe-genesis-mission-awards
