@@ -119,14 +119,18 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
 * [DOE Overview: Building the World's Most Powerful Scientific Platform](https://www.energy.gov/undersecretaryforscience/genesis-mission/genesis-mission)
 * [DOE Announcement: Secretary Chris Wright Announces First Projects Selected to Accelerate AI-Driven Scientific Discovery](https://www.energy.gov/articles/secretary-energy-chris-wright-announces-first-genesis-mission-projects-selected-accelerate)
 * [DOE Quantum Initiative: $2 Billion to Deploy Fault-Tolerant Quantum Computers](https://www.energy.gov/science/articles/energy-department-announces-initiative-create-and-deploy-worlds-first)
+* [DOE Office of Science: Genesis Mission RFA Informational Webinar (PDF)](https://science.osti.gov/-/media/grants/pdf/foas-resources/2026/Genesis-Mission-RFA-Informational-Webinar-v2-public--clean--ASCR.pdf)
+* [DOE Office of Science: Funding Opportunity Announcement (DE-FOA-0003612)](https://science.osti.gov/grants/FOAs/FOAs/2026/DE-FOA-0003612)
 * [Department of Commerce: Letters of Intent with 9 Companies for Quantum Leadership](https://www.nist.gov/news-events/news/2026/05/department-commerce-announces-letters-intent-9-companies-2-billion)
 * [Department of War: Partnership to Proliferate AI for Science](https://www.war.gov/News/Releases/Release/Article/4551998/department-of-war-partners-with-the-genesis-mission-to-proliferate-ai-for-scien/)
 * [HHS: Joining the Mission to End Chronic Disease](https://www.hhs.gov/press-room/hhs-joins-genesis-mission-ai-chronic-disease-research.html)
 * [NIH: Bio Genesis Mission Overview](https://www.nih.gov/bio-genesismission)
 * [NASA: Joining to Accelerate AI-Driven Discovery](https://www.nasa.gov/news-release/nasa-joins-genesis-mission-to-accelerate-ai-driven-discovery/)
 * [NSF: $83M Investment in Integrated Data Systems](https://www.nsf.gov/news/nsf-announces-83m-investment-integrated-data-systems)
+* [Google Cloud: Accelerating Scientific Discovery with $40M Commitment](https://cloud.google.com/blog/topics/public-sector/accelerating-frontiers-of-scientific-discovery-40-million-dollar-commitment-genesis-mission)
 * [IBM: Committing $50 Million in Quantum Compute Access](https://research.ibm.com/blog/ibm-us-genesis-mission-quantum-ai)
 * [Microsoft: Commitment to Scientific Discovery](https://blogs.microsoft.com/blog/2026/07/22/powering-americas-genesis-mission-microsofts-commitment-to-scientific-discovery/)
+* [Microsoft Public Sector: Accelerating Science with the U.S. Department of Energy](https://techcommunity.microsoft.com/blog/publicsectorblog/genesis-mission-how-microsoft--the-u-s-department-of-energy-accelerate-science/4495259)
 * [OpenAI: Advancing the Next Era of National Science](https://openai.com/index/advancing-the-next-era-of-national-science/)
 * [AWS: Powering America's Genesis Mission from Day One](https://aws.amazon.com/blogs/publicsector/aws-powering-americas-genesis-mission-from-day-one/)
 * [AMD: Partnering to Accelerate AI-Driven Scientific Leadership](https://www.amd.com/en/blogs/2025/amd-powers-the-united-states--genesis-mission-to-advance-ai-enab.html)
@@ -141,23 +145,32 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
 ## 5. National Labs & University Coverage
 
 ### National Laboratories
+* **Ames National Laboratory:** [Energy Department Launches Historic Genesis Mission](https://www.ameslab.gov/news/energy-department-launches-historic-genesis-mission-to-drive-ai-powered-scientific-revolution)
 * **Argonne National Laboratory:** 
   * [Leading AI Research Projects Under DOE Genesis Mission](https://www.anl.gov/article/argonne-to-lead-ai-research-projects-under-the-department-of-energys-genesis-mission)
   * [Genesis Mission Overview & ALCF Integration](https://www.anl.gov/genesis-mission)
 * **Berkeley Lab (LBNL):** 
+  * [Genesis Mission Hub & Scientific Strategy](https://www.lbl.gov/genesis-mission/)
   * [Leading 13 New AI Projects](https://newscenter.lbl.gov/2026/07/22/berkeley-lab-to-lead-13-new-genesis-mission-ai-projects/)
   * [Accelerating Discovery with ModCon](https://newscenter.lbl.gov/2026/07/23/qa-accelerating-scientific-discovery-with-the-genesis-missions-modcon/)
+* **Brookhaven National Laboratory (BNL):** [Genesis Mission Coverage & Research Leadership](https://www.bnl.gov/newsroom/news.php?a=123041)
 * **Fermilab:** 
   * [DOE Invests to Accelerate AI-Enabled Discovery](https://news.fnal.gov/2026/07/u-s-department-of-energy-invests-in-fermilab-projects-to-accelerate-ai-enabled-scientific-discovery/)
   * [DOE Launches Genesis Mission to Transform Science and Innovation](https://news.fnal.gov/2025/11/u-s-department-of-energy-launches-genesis-mission-to-transform-american-science-and-innovation-through-the-ai-computing-revolution/)
+* **Idaho National Laboratory (INL):** [Genesis Mission Funds AI Innovation for Nuclear Energy](https://inl.gov/news-release/genesis-mission-funds-ai-innovation-to-speed-up-safe-affordable-nuclear-energy/)
 * **Lawrence Livermore National Laboratory (LLNL):** [Selected to Lead 10 Projects](https://www.llnl.gov/article/54711/llnl-selected-lead-10-projects-under-does-genesis-mission)
 * **Los Alamos National Laboratory (LANL):** [DOE Awards Funding to Seven Projects](https://www.lanl.gov/media/news/0722-genesis-mission-funding)
 * **National Energy Technology Laboratory (NETL):** [AI-Driven Research to Strengthen Grid, Supply Chains, and Tech Leadership](https://www.netl.doe.gov/newsroom/news-releases/news-details?id=28828854-4fb0-4660-8fdd-b2861e695be2)
 * **Oak Ridge National Laboratory (ORNL):** 
   * [The Genesis Mission & Core Systems at ORNL](https://www.ornl.gov/genesis)
   * [DOE Selects ORNL to Lead Nine Genesis Mission Projects](https://www.ornl.gov/news/department-energy-selects-ornl-lead-nine-genesis-mission-projects)
-* **Princeton Plasma Physics Laboratory (PPPL):** [Leading Project for AI Operator in Fusion Energy Heating](https://www.newswise.com/articles/pppl-to-lead-genesis-mission-project-to-create-an-ai-operator-for-crucial-fusion-energy-heating-system)
-* **Sandia National Laboratories:** [Selected to Lead 6 Projects, Partner on 17 Others](https://newsreleases.sandia.gov/sandia-selected-to-lead-six-genesis-mission-projects-partner-on-17-others/)
+* **Pacific Northwest National Laboratory (PNNL):** [Genesis Mission Project Portal](https://www.pnnl.gov/projects/genesis-mission)
+* **Princeton Plasma Physics Laboratory (PPPL):** 
+  * [Leading Project for AI Operator in Fusion Energy Heating](https://www.newswise.com/articles/pppl-to-lead-genesis-mission-project-to-create-an-ai-operator-for-crucial-fusion-energy-heating-system)
+  * [Energy Department Launches Genesis Mission to Transform Science](https://www.pppl.gov/news/2025/energy-department-launches-%E2%80%98genesis-mission%E2%80%99-transform-american-science-and-innovation)
+* **Sandia National Laboratories:** 
+  * [Selected to Lead 6 Projects, Partner on 17 Others](https://newsreleases.sandia.gov/sandia-selected-to-lead-six-genesis-mission-projects-partner-on-17-others/)
+  * [DOE Launches Genesis Mission (Lab News Feature)](https://www.sandia.gov/labnews/2025/12/04/doe-launches-genesis-mission-to-transform-american-science-and-innovation-through-ai-computing-revolution/)
 * **SLAC National Accelerator Laboratory:** [Leading Projects Alongside Stanford](https://news.stanford.edu/stories/2026/07/stanford-and-slac-to-lead-genesis-mission-projects)
 
 ### Universities & Research Institutions
