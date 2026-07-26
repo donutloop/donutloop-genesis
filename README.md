@@ -1,5 +1,7 @@
 # Genesis Mission Overview
 
+<img width="2006" height="1121" alt="Screenshot From 2026-07-26 10-50-55" src="https://github.com/user-attachments/assets/d46729cd-904e-4d4e-8fd5-5853f77ac55f" />
+
 The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative designed to integrate Artificial Intelligence (AI), quantum computing, and high-performance supercomputing directly into scientific research.
 
 ---
