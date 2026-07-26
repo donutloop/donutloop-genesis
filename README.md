@@ -8,6 +8,9 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
 
 ## 1. Key Presentation Details
 
+<img width="2408" height="1951" alt="Screenshot From 2026-07-26 10-52-13" src="https://github.com/user-attachments/assets/647da895-07db-4aa5-978e-bbfc82519de5" />
+
+
 * **Document:** [Genesis Mission and HEP - LHC (PDF)](https://indico.cern.ch/event/1662511/contributions/6989580/attachments/3241179/5781542/Genesis%20Mission%20and%20HEP%20-%20LHC.pdf)
 * **Event:** [U.S. ATLAS Institutional Board Meeting](https://indico.cern.ch/event/1662511/?view=indico_weeks_view) (Indico Event ID: 1662511, Contribution ID: 6989580)
 * **Date & Time:** Wednesday, March 18, 2026 | 13:00 – 14:00 (US Eastern Time)
