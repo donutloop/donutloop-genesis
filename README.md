@@ -61,13 +61,13 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
 * [Niron Magnets](https://nironmagnets.com/)
 * [Nokia](https://www.nokia.com/)
 * [Nusano](https://nusano.com/)
-* [NVIDIA](https://blogs.nvidia.com/)
+* [NVIDIA](https://blogs.nvidia.com/) #
 * [OLI Systems](https://www.olisystems.com/)
 * [OpenAI for Government](https://openai.com/index/advancing-the-next-era-of-national-science/)
 * [Oracle](https://www.oracle.com/)
 * [Phoenix Tailings](https://www.phoenixtailings.com/)
 * [PMT Critical Metals](https://pmtcriticalmetals.com/)
-* [PsiQuantum](https://psiquantum.com/) #
+* [PsiQuantum](https://psiquantum.com/) 
 * [Quantinuum](https://www.quantinuum.com/)
 * [Qubit](https://www.qubit.com/)
 * [RadiaSoft](https://www.radiasoft.net/)
@@ -328,3 +328,8 @@ https://climate.mit.edu/posts/mit-projects-selected-funding-under-us-department-
 https://www.pppl.gov/events/2025/genesis-mission-and-fusion-energy
 https://www.nndc.bnl.gov/ndwg/docs/wanda/WANDA-2024-Proceedings.pdf
 https://www.psfc.mit.edu/resources/news/cristina-rea-mit-projects-selected-funding-genesis-mission-fusion-ai/
+https://www.energy.gov/cmei/articles/does-office-critical-minerals-and-energy-innovation-announces-134-million-bolster
+https://openai.com/index/us-department-of-energy-collaboration/
+https://olisystems.com/resources/news/oli-selected-as-an-official-collaborator-in-the-u-s-department-of-energys-genesis-mission/
+https://olisystems.com/resources/blog/ai-for-critical-materials-is-only-as-good-as-the-chemistry-that-supports-it/
+https://blogs.nvidia.com/blog/energy-secretary-chris-wright-ian-buck/
