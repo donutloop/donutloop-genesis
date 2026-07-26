@@ -306,3 +306,9 @@ https://news.fnal.gov/2026/06/fermilab-storage-infrastructure-enables-ai-driven-
 https://www.anl.gov/article/realtime-ai-engine-poised-to-revolutionize-largescale-imaging-data-at-national-labs
 https://newsroom.accenture.com/news/2026/accenture-federal-services-to-deliver-early-operating-capability-for-doe-s-genesis-mission-cm2us
 https://newsroom.accenture.com/news/2025/accenture-partners-with-u-s-department-of-energy-to-support-groundbreaking-genesis-mission-program
+https://www.energy.gov/articles/energy-department-advances-investments-ai-science
+https://www.energy.gov/sites/default/files/2026-07/Genesis-Mission-RFI-Analysis.pdf
+https://www.lsu.edu/blog/2026/07/genesis-mission-awards.php
+https://www.pittwire.pitt.edu/features-articles/2026/07/24/genesis-mission-ai-quantum
+https://science.osti.gov/-/media/grants/pdf/foas-resources/2026/HEP-NP-Genesis-Mission-RFA-Informational-Webinar.pdf
+https://blogs.nvidia.com/blog/national-quantum-initiative/
