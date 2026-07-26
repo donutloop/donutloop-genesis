@@ -292,10 +292,3 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
 
 * **U.S. ATLAS Institutional Board:** [March 18, 2026 IB Meeting Intro (PDF)](https://indico.cern.ch/event/1662511/contributions/6989578/attachments/3241191/5781385/2026_03_18%20IB%20mtg%20intro.pdf)
 
-WIP:
-
-https://techcommunity.microsoft.com/blog/publicsectorblog/microsoft-spark-powering-america%E2%80%99s-genesis-mission-for-scientific-discovery/4531069
-https://windowsforum.com/windows-news.4/microsoft-invests-60-million-in-doe-genesis-mission-ai-science.439994/
-https://www.nsf.gov/news/nsf-partners-micron-globalfoundries-invest-semiconductor
-https://newscenter.lbl.gov/2026/03/17/berkeley-lab-takes-major-step-toward-doudna-with-delivery-of-early-access-system-cech/
-https://newsroom.ibm.com/2026-07-06-oak-ridge-national-lab,-cleveland-clinic,-and-ibm-achieve-first-known-computations-of-fusion-materials-on-a-quantum-computer
