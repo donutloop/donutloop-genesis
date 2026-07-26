@@ -180,6 +180,7 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
 * [NVIDIA: Energy Secretary Chris Wright and Ian Buck Discuss the AI Revolution](https://blogs.nvidia.com/blog/energy-secretary-chris-wright-ian-buck/)
 * [NVIDIA: National Quantum Initiative Alignment and Infrastructure](https://blogs.nvidia.com/blog/national-quantum-initiative/)
 * [NVIDIA: Japan Ecosystem 2026 AI for Science Collaboration](https://blogs.nvidia.com/blog/japan-ecosystem-2026/)
+* [DOE Office of Science: Genesis Mission RFA Awards List (PDF)](https://science.osti.gov/-/media/funding/pdf/Awards-Lists/2026/GM-RFA-Awards-List.pdf)
   
 ---
 
