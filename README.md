@@ -29,58 +29,58 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
 <details>
 <summary><strong>Click to expand full list of initial industry and institutional collaborators</strong></summary>
 
-* Albemarle
-* Amazon Web Services (AWS)
-* AMD
-* Anthropic
-* Applied Materials
-* Atomic Canyon
-* AVEVA
-* Cerebras
-* Chemspeed
-* Collins Aerospace
-* ComEd
-* Cornelis Networks
-* Critical Materials Recycling
-* Dell Technologies
-* Emerald Cloud Lab
-* EPRI
-* Esri
-* FutureHouse
-* GE Aerospace
-* Google
-* HPE
-* Hugging Face
-* IBM
-* ISO New England
-* Kitware
-* LILA
-* Micron
-* Microsoft
-* MP Materials
-* New York Creates
-* Niron Magnets
-* Nokia
-* Nusano
-* NVIDIA
-* OLI Systems
-* OpenAI for Government
-* Oracle
-* Phoenix Tailings
-* PMT Critical Metals
-* Quantinuum
-* Qubit
-* RadiaSoft
-* Ramaco
-* RTX
-* Sambanova
-* Scale AI
-* Semiconductor Industry Association
-* Siemens
-* Synopsys
-* TdVib
-* Tennessee Valley Authority
-* xLight
+* [Albemarle](https://www.albemarle.com/)
+* [Amazon Web Services (AWS)](https://aws.amazon.com/blogs/publicsector/aws-powering-americas-genesis-mission-from-day-one/)
+* [AMD](https://www.amd.com/en/blogs/2025/amd-powers-the-united-states--genesis-mission-to-advance-ai-enab.html)
+* [Anthropic](https://www.anthropic.com/research/introducing-anthropic-science)
+* [Applied Materials](https://www.appliedmaterials.com/)
+* [Atomic Canyon](https://www.atomiccanyon.com/)
+* [AVEVA](https://www.aveva.com/)
+* [Cerebras](https://www.cerebras.ai/company/press-release)
+* [Chemspeed](https://www.chemspeed.com/)
+* [Collins Aerospace](https://www.collinsaerospace.com/)
+* [ComEd](https://www.comed.com/)
+* [Cornelis Networks](https://www.cornelisnetworks.com/)
+* [Critical Materials Recycling](https://www.cmrecycling.com/)
+* [Dell Technologies](https://www.dell.com/)
+* [Emerald Cloud Lab](https://www.emeraldcloudlab.com/)
+* [EPRI](https://www.epri.com/)
+* [Esri](https://www.esri.com/)
+* [FutureHouse](https://www.futurehouse.org/)
+* [GE Aerospace](https://www.geaerospace.com/)
+* [Google](https://about.google/)
+* [HPE](https://www.hpe.com/)
+* [Hugging Face](https://huggingface.co/)
+* [IBM](https://research.ibm.com/blog/ibm-us-genesis-mission-quantum-ai)
+* [ISO New England](https://www.iso-ne.com/)
+* [Kitware](https://www.kitware.com/)
+* [LILA](https://www.lila.ai/)
+* [Micron](https://www.micron.com/)
+* [Microsoft](https://blogs.microsoft.com/blog/2026/07/22/powering-americas-genesis-mission-microsofts-commitment-to-scientific-discovery/)
+* [MP Materials](https://mpmaterials.com/)
+* [New York Creates](https://nycreates.org/)
+* [Niron Magnets](https://nironmagnets.com/)
+* [Nokia](https://www.nokia.com/)
+* [Nusano](https://nusano.com/)
+* [NVIDIA](https://blogs.nvidia.com/)
+* [OLI Systems](https://www.olisystems.com/)
+* [OpenAI for Government](https://openai.com/index/advancing-the-next-era-of-national-science/)
+* [Oracle](https://www.oracle.com/)
+* [Phoenix Tailings](https://www.phoenixtailings.com/)
+* [PMT Critical Metals](https://pmtcriticalmetals.com/)
+* [Quantinuum](https://www.quantinuum.com/)
+* [Qubit](https://www.qubit.com/)
+* [RadiaSoft](https://www.radiasoft.net/)
+* [Ramaco](https://ramacoresources.com/)
+* [RTX](https://www.rtx.com/)
+* [Sambanova](https://sambanova.ai/)
+* [Scale AI](https://scale.com/blog/scale-ai-doe-genesis-mission-mou)
+* [Semiconductor Industry Association](https://www.semiconductors.org/)
+* [Siemens](https://www.siemens.com/)
+* [Synopsys](https://www.synopsys.com/)
+* [TdVib](https://tdvib.com/)
+* [Tennessee Valley Authority](https://www.tva.com/)
+* [xLight](https://xlight.ai/)
 
 </details>
 
@@ -101,6 +101,11 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
 * [IBM: Committing $50 Million in Quantum Compute Access](https://research.ibm.com/blog/ibm-us-genesis-mission-quantum-ai)
 * [Microsoft: Commitment to Scientific Discovery](https://blogs.microsoft.com/blog/2026/07/22/powering-americas-genesis-mission-microsofts-commitment-to-scientific-discovery/)
 * [OpenAI: Advancing the Next Era of National Science](https://openai.com/index/advancing-the-next-era-of-national-science/)
+* [AWS: Powering America's Genesis Mission from Day One](https://aws.amazon.com/blogs/publicsector/aws-powering-americas-genesis-mission-from-day-one/)
+* [AMD: Partnering to Accelerate AI-Driven Scientific Leadership](https://www.amd.com/en/blogs/2025/amd-powers-the-united-states--genesis-mission-to-advance-ai-enab.html)
+* [Anthropic: Introducing Anthropic Science & Genesis Partnership](https://www.anthropic.com/research/introducing-anthropic-science)
+* [Scale AI: Signing MOU with DOE to Advance the Genesis Mission](https://scale.com/blog/scale-ai-doe-genesis-mission-mou)
+* [Genesis Mission Consortium: Official Directory of Private Sector Members](https://www.genesismissionconsortium.org/our-members)
 
 ---
 
@@ -114,6 +119,7 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
 * **Fermilab:** [DOE Invests to Accelerate AI-Enabled Discovery](https://news.fnal.gov/2026/07/u-s-department-of-energy-invests-in-fermilab-projects-to-accelerate-ai-enabled-scientific-discovery/)
 * **Lawrence Livermore National Laboratory (LLNL):** [Selected to Lead 10 Projects](https://www.llnl.gov/article/54711/llnl-selected-lead-10-projects-under-does-genesis-mission)
 * **Los Alamos National Laboratory (LANL):** [DOE Awards Funding to Seven Projects](https://www.lanl.gov/media/news/0722-genesis-mission-funding)
+* **Oak Ridge National Laboratory (ORNL):** [The Genesis Mission & Core Systems at ORNL](https://www.ornl.gov/genesis)
 * **Princeton Plasma Physics Laboratory (PPPL):** [Leading Project for AI Operator in Fusion Energy Heating](https://www.newswise.com/articles/pppl-to-lead-genesis-mission-project-to-create-an-ai-operator-for-crucial-fusion-energy-heating-system)
 * **Sandia National Laboratories:** [Selected to Lead 6 Projects, Partner on 17 Others](https://newsreleases.sandia.gov/sandia-selected-to-lead-six-genesis-mission-projects-partner-on-17-others/)
 * **SLAC National Accelerator Laboratory:** [Leading Projects Alongside Stanford](https://news.stanford.edu/stories/2026/07/stanford-and-slac-to-lead-genesis-mission-projects)
