@@ -319,3 +319,12 @@ https://www.lanl.gov/media/publications/1663/0624-what-next-for-qubits
 https://www.anl.gov/article/argonne-partners-with-riken-fujitsu-and-nvidia-to-advance-ai-for-science-and-nextgeneration
 https://blogs.nvidia.com/blog/japan-ecosystem-2026/
 https://www.energy.gov/articles/energy-department-launches-genesis-mission-transform-american-science-and-innovation
+https://www.energy.gov/undersecretaryforscience/genesis-mission/securing-americas-critical-minerals-supply
+https://science.osti.gov/-/media/About/pdf/scac/meetings/2026/DOE-Genesis-Mission-Launched---2026-03-27.pdf
+https://www.ameslab.gov/news/ai-powered-national-lab-collaboration-launches-to-secure-u-s-critical-minerals-supply
+https://physics.mit.edu/news/mit-projects-selected-for-funding-under-us-department-of-energys-genesis-mission/
+https://science.osti.gov/-/media/grants/pdf/foas-resources/2026/Genesis-Mission-RFA-Informational-Webinar-v2-public--clean--FES.pdf
+https://climate.mit.edu/posts/mit-projects-selected-funding-under-us-department-energys-genesis-mission
+https://www.pppl.gov/events/2025/genesis-mission-and-fusion-energy
+https://www.nndc.bnl.gov/ndwg/docs/wanda/WANDA-2024-Proceedings.pdf
+https://www.psfc.mit.edu/resources/news/cristina-rea-mit-projects-selected-funding-genesis-mission-fusion-ai/
