@@ -248,4 +248,10 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
 * **Yale University:** [Researchers Receive Awards to Pursue AI Advances](https://news.yale.edu/2026/07/22/yale-researchers-receive-genesis-mission-awards-pursue-ai-advances)
 
   WIP:
-  https://indico.cern.ch/event/1662511/contributions/6989578/attachments/3241191/5781385/2026_03_18%20IB%20mtg%20intro.pdf
+https://indico.cern.ch/event/1662511/contributions/6989578/attachments/3241191/5781385/2026_03_18%20IB%20mtg%20intro.pdf
+https://news.siemens.com/en-us/siemens-ai-ready-scientific-infrastructure-us-doe-genesis-mission/
+https://www.siemens.com/en-us/company/insights/us-stories/bringing-industrial-ai-to-the-genesis-mission/
+https://news.fnal.gov/2026/05/fermilab-leads-multi-lab-ai-initiative-to-accelerate-design-of-chips-used-in-extreme-environments/
+https://www.siemens.com/de-de/company/insights/us-stories/bringing-industrial-ai-to-the-genesis-mission/
+https://aws.amazon.com/blogs/publicsector/aws-powering-americas-genesis-mission-from-day-one/
+https://aws.amazon.com/blogs/publicsector/aws-announces-up-to-100-million-in-federal-credits-to-accelerate-innovation-for-national-security-and-scientific-missions/
