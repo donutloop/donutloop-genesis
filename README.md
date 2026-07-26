@@ -285,3 +285,5 @@ https://atap.lbl.gov/news/the-multi-office-particle-accelerator-team-using-ai-to
 https://www.cerebras.ai/press-release/cerebras-systems-and-u-s-department-of-energy-sign-mou-to-accelerate-the-genesis-mission-and-u-s
 https://isdci.slac.stanford.edu/genesis
 https://atom-computing.com/atom-computing-announces-letter-of-intent-with-u-s-department-of-commerce-for-100-million-to-accelerate-path-to-fault-tolerant-utility-scale-quantum-computing/
+https://www.oracle.com/news/announcement/oracle-and-the-us-department-of-energy-collaborate-to-accelerate-ai-initiatives-2025-12-18/
+https://www.anl.gov/article/energy-department-launches-genesis-mission-to-transform-american-science-and-innovation-through-the
