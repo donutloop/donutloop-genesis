@@ -158,6 +158,7 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
 * [Anthropic: Introducing Anthropic Science & Genesis Partnership](https://www.anthropic.com/news/genesis-mission-partnership)
 * [Atom Computing: Letter of Intent with U.S. Dept of Commerce for $100M](https://atom-computing.com/atom-computing-announces-letter-of-intent-with-u-s-department-of-commerce-for-100-million-to-accelerate-path-to-fault-tolerant-utility-scale-quantum-computing/)
 * [PsiQuantum: Letter of Intent with U.S. Dept of Commerce for $100M](https://psiquantum.com/news/psiquantum-announces-letter-of-intent-with-u-s-department-of-commerce-for-100-million-to-accelerate-path-to-fault-tolerant-utility-scale-quantum-computing/)
+* [Quantinuum: Letter of Intent with U.S. Dept of Commerce for $100M](https://www.quantinuum.com/press-releases/quantinuum-enters-into-letter-of-intent-with-the-us-department-of-commerce-for-funding-opportunity-to-accelerate-us-leadership-in-quantum-computing)
 * [Cerebras: Systems and U.S. DOE Sign MOU to Accelerate Genesis Mission](https://www.cerebras.ai/press-release/cerebras-systems-and-u-s-department-of-energy-sign-mou-to-accelerate-the-genesis-mission-and-u-s)
 * [Scale AI: Signing MOU with DOE to Advance the Genesis Mission](https://scale.com/blog/scale-ai-doe-genesis-mission-mou)
 * [Siemens: AI-Ready Scientific Infrastructure for US DOE Genesis Mission](https://news.siemens.com/en-us/siemens-ai-ready-scientific-infrastructure-us-doe-genesis-mission/)
