@@ -370,3 +370,16 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
 
   https://cloud.google.com/blog/topics/public-sector/accelerating-frontiers-of-scientific-discovery-40-million-dollar-commitment-genesis-mission
 
+  https://www.energy.gov/undersecretaryforscience/genesis-mission/genesis-mission-collaboration
+
+  https://www.nih.gov/about-nih/nih-director/statements/statement-launch-bio-genesis-mission-nihs-component-national-genesis-mission
+
+  https://news.vt.edu/articles/2026/07/research-genesis-mission.html
+
+https://record.umich.edu/articles/u-m-selected-for-department-of-energy-genesis-mission-initiative/
+
+https://www.dhs.gov/science-and-technology/news/2026/07/22/st-announces-new-genesis-mission-challenges-safeguard-americas-future
+
+https://ai.meta.com/blog/genesis-mission-lawrence-berkeley-national-laboratory-segment-anything-dino/
+
+https://stories.tamu.edu/news/2026/07/27/texas-am-university-joins-the-genesis-mission-to-transform-science-using-artificial-intelligence/
