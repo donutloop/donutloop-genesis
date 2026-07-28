@@ -368,3 +368,5 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
 
   https://news.arizona.edu/news/department-energy-selects-5-u-research-projects-through-new-ai-science-genesis-mission-awards
 
+  https://cloud.google.com/blog/topics/public-sector/accelerating-frontiers-of-scientific-discovery-40-million-dollar-commitment-genesis-mission
+
