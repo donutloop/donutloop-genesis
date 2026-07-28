@@ -165,6 +165,7 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
 * [AMD: Partnering to Accelerate AI-Driven Scientific Leadership](https://www.amd.com/en/blogs/2025/amd-powers-the-united-states--genesis-mission-to-advance-ai-enab.html)
 * [Anthropic: Introducing Anthropic Science & Genesis Partnership](https://www.anthropic.com/news/genesis-mission-partnership)
 * [Atom Computing: Letter of Intent with U.S. Dept of Commerce for $100M](https://atom-computing.com/atom-computing-announces-letter-of-intent-with-u-s-department-of-commerce-for-100-million-to-accelerate-path-to-fault-tolerant-utility-scale-quantum-computing/)
+* [Atom Computing & NREL: Exploring Quantum Computing for Electric Grid Modeling](https://www.nrel.gov/news/press/2023/nrel-and-atom-computing-explore-quantum-computing-for-electric-grid-modeling.html)
 * [PsiQuantum: Letter of Intent with U.S. Dept of Commerce for $100M](https://psiquantum.com/news/psiquantum-announces-letter-of-intent-with-u-s-department-of-commerce-for-100-million-to-accelerate-path-to-fault-tolerant-utility-scale-quantum-computing/)
 * [Quantinuum: Letter of Intent with U.S. Dept of Commerce for $100M](https://www.quantinuum.com/press-releases/quantinuum-enters-into-letter-of-intent-with-the-us-department-of-commerce-for-funding-opportunity-to-accelerate-us-leadership-in-quantum-computing)
 * [Cerebras: Systems and U.S. DOE Sign MOU to Accelerate Genesis Mission](https://www.cerebras.ai/press-release/cerebras-systems-and-u-s-department-of-energy-sign-mou-to-accelerate-the-genesis-mission-and-u-s)
@@ -256,7 +257,9 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
 * **National Energy Technology Laboratory (NETL):** 
   * [AI-Driven Research to Strengthen Grid, Supply Chains, and Tech Leadership](https://www.netl.doe.gov/newsroom/news-releases/news-details?id=28828854-4fb0-4660-8fdd-b2861e695be2)
   * [NETL Genesis Mission Node Coverage](https://www.netl.doe.gov/node/15121)
-* **National Renewable Energy Laboratory (NLR/NREL):** [Computational Science Genesis Mission Hub](https://www.nlr.gov/computational-science/genesis-mission)
+* **National Renewable Energy Laboratory (NLR/NREL):** 
+  * [Computational Science Genesis Mission Hub](https://www.nlr.gov/computational-science/genesis-mission)
+  * [Atom Computing and NREL Explore Quantum Computing for Electric Grid Modeling](https://www.nrel.gov/news/press/2023/nrel-and-atom-computing-explore-quantum-computing-for-electric-grid-modeling.html)
 * **Oak Ridge National Laboratory (ORNL):** 
   * [The Genesis Mission & Core Systems at ORNL](https://www.ornl.gov/genesis)
   * [Oak Ridge National Laboratory Portal](https://www.ornl.gov/)
