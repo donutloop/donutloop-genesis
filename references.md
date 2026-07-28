@@ -377,3 +377,8 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
 * [DOE Office of Science: DE-FOA-0003612 Amendment 000003 (PDF)](https://science.osti.gov/-/media/grants/pdf/foas/2026/DE-FOA-0003612-000003.pdf)
 * [DOE Office of Science (SCAC): DOE Genesis Mission Launched Presentation (PDF)](https://science.osti.gov/-/media/About/pdf/scac/meetings/2026/DOE-Genesis-Mission-Launched---2026-03-27.pdf)
 * [OSTP: OSTP Genesis Mission Science and Technology Challenges Document](https://www.energy.gov/documents/ostp-genesis-mission-science-and-technology-challenges)
+
+
+WIP:
+
+https://inside.charlotte.edu/2026/07/27/unc-charlotte-projects-join-the-department-of-energy-genesis-mission-and-student-ai-fellows-put-large-language-models-to-work/
