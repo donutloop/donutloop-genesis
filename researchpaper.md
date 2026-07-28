@@ -253,6 +253,179 @@ Despite these challenges, the Genesis Mission establishes the most comprehensive
 
 ---
 
+## Appendix A: Institutional Contributors & Partners
+
+The Genesis Mission is distinguished by the breadth of its multi-sector coalition. The following appendix enumerates all identified institutional contributors organized by functional category. Detailed technical profiles for quantum computing and select industry partners appear in Sections 2.2, 3.1, and 3.2 of the main text.
+
+### A.1 Federal Agencies & Policy Bodies
+
+| Agency / Body | Primary Genesis Mission Role |
+| :--- | :--- |
+| White House Office of Science and Technology Policy (OSTP) | Executive direction, National Science & Technology Challenges |
+| U.S. Department of Energy (DOE) — Office of Science | Mission lead; funding authority (DE-FOA-0003612); National Laboratory coordination |
+| U.S. Department of Commerce — NIST / CHIPS R&D Office | CHIPS Act LOI execution; $2B quantum manufacturing investments |
+| National Science Foundation (NSF) | $83M integrated data systems; semiconductor workforce development |
+| National Institutes of Health (NIH) / HHS | Bio Genesis Mission; chronic disease and biomedical AI |
+| National Aeronautics and Space Administration (NASA) | AI-driven discovery for aerospace and extreme environments |
+| Department of War | Proliferating AI for dual-use science and national security |
+| Department of Homeland Security (DHS) — S&T | Genesis Mission challenges for homeland resilience |
+| Department of the Interior (DOI) | Scientific leadership in environmental and resource domains |
+
+### A.2 DOE National Laboratories
+
+The DOE's 17 National Laboratories serve as the primary execution nodes for Genesis Mission research, each operating as federated compute, experimental, and coordination hubs.
+
+| Laboratory | Abbreviation |
+| :--- | :--- |
+| Ames National Laboratory | Ames |
+| Argonne National Laboratory | ANL |
+| Brookhaven National Laboratory | BNL |
+| Fermi National Accelerator Laboratory | Fermilab |
+| Idaho National Laboratory | INL |
+| Lawrence Berkeley National Laboratory | LBNL |
+| Lawrence Livermore National Laboratory | LLNL |
+| Los Alamos National Laboratory | LANL |
+| National Energy Technology Laboratory | NETL |
+| National Renewable Energy Laboratory | NREL |
+| Oak Ridge National Laboratory | ORNL |
+| Pacific Northwest National Laboratory | PNNL |
+| Princeton Plasma Physics Laboratory | PPPL |
+| Sandia National Laboratories | SNL |
+| Savannah River National Laboratory | SRNL |
+| SLAC National Accelerator Laboratory | SLAC |
+| National Laboratory of the Rockies | NLR |
+
+### A.3 Industry & Technology Partners
+
+Industry contributors span cloud and AI hyperscalers, semiconductor manufacturers, frontier AI laboratories, industrial automation vendors, energy utilities, and critical materials companies.
+
+#### Cloud, AI & Compute Infrastructure
+| Organization | Primary Contribution |
+| :--- | :--- |
+| Amazon Web Services (AWS) | $100M federal credits; cloud HPC; post-quantum security |
+| Google / Google DeepMind / Google Public Sector | $40M commitment; Gemini for Government; AI Co-Scientist; AlphaFold 3; AlphaGenome; AlphaEarth |
+| Microsoft | $60M SPARK program; Microsoft Discovery; MatterGen/MatterSim; Majorana quantum |
+| NVIDIA | Solstice & Equinox supercomputers; Apollo models; Omniverse digital twins; edge AI |
+| AMD | Lux & Discovery supercomputers; Instinct MI355X/MI430X; EPYC; Pensando; ROCm |
+| Oracle | Enterprise cloud and HPC database infrastructure |
+| HPE | High-performance computing systems |
+| Dell Technologies | Computing infrastructure |
+| Cerebras | Wafer-scale AI accelerators; DOE MOU |
+| Sambanova | AI accelerator hardware |
+
+#### Frontier AI & Data Platforms
+| Organization | Primary Contribution |
+| :--- | :--- |
+| Anthropic | Frontier LLM reasoning agents; Anthropic Science division |
+| OpenAI | LLM agents for scientific workflows; DOE collaboration |
+| Meta AI | Open models (Segment Anything, DINO) with LBNL imaging pipelines |
+| Scale AI | Data annotation and AI data infrastructure; DOE MOU |
+| Hugging Face | Open-source AI model hosting and distribution |
+| FutureHouse | AI-driven scientific research automation |
+| LILA | AI for science collaboration |
+| xLight | AI and photonics |
+
+#### Semiconductor, EDA & Industrial Partners
+| Organization | Primary Contribution |
+| :--- | :--- |
+| GlobalFoundries | $375M quantum foundry; GF Labs; GlobalShuttle™ MPW; silicon photonics |
+| Applied Materials | Semiconductor equipment and materials |
+| Synopsys | Electronic design automation (EDA) tooling |
+| Siemens | Industrial AI; digital twin infrastructure; DOE Genesis MOU |
+| Micron | Memory and semiconductor technology |
+| Nokia | Networking infrastructure |
+| Collins Aerospace | Aerospace microelectronics |
+| RTX | Defense and aerospace technology |
+| Semiconductor Industry Association | Industry coordination and policy |
+| New York Creates | Semiconductor research hub |
+| Kitware | Scientific visualization and computing |
+| AVEVA | Industrial software and digital twins |
+| Cornelis Networks | High-performance fabric networking; DOE partnership |
+
+#### Energy, Utilities & Critical Materials
+| Organization | Primary Contribution |
+| :--- | :--- |
+| Albemarle | Lithium and specialty chemicals |
+| ComEd | Electric utility; grid integration |
+| EPRI | Electric power research |
+| ISO New England | Regional grid operations |
+| Tennessee Valley Authority (TVA) | Federal power utility |
+| GE Aerospace | Aerospace energy systems |
+| MP Materials | Rare earth materials |
+| Phoenix Tailings | Critical minerals processing |
+| PMT Critical Metals | Critical metals supply chain |
+| Critical Materials Recycling | Materials recovery and recycling |
+| Niron Magnets | Rare-earth-free permanent magnets |
+| Ramaco | Carbon and advanced materials |
+| Nusano | Particle accelerator-based isotope production |
+
+#### Laboratory Automation & Specialized Technology
+| Organization | Primary Contribution |
+| :--- | :--- |
+| Emerald Cloud Lab | Cloud-based robotic laboratory automation |
+| Chemspeed | Automated chemical synthesis platforms |
+| OLI Systems | Aqueous chemistry simulation; DOE collaborator |
+| RadiaSoft | Particle accelerator simulation software |
+| Atomic Canyon | Quantum technology development |
+| Qubit | Quantum computing technology |
+| TdVib | Vibration and dynamics technology |
+| Esri | Geospatial information systems (GIS) |
+| Accenture Federal Services | CM2US operating capability; program management |
+
+### A.4 Quantum Computing & Modality Developers
+
+These organizations hold CHIPS Act Letters of Intent and/or DOE quantum research awards, collectively spanning seven distinct qubit modalities. Detailed technical profiles appear in Sections 2.2 and 3.1.
+
+| Organization | Modality | CHIPS Act LOI |
+| :--- | :--- | :--- |
+| IBM / IBM Quantum | Superconducting (transmon) | $1 Billion |
+| Rigetti Computing | Superconducting (tileable multi-chip) | Up to $100 Million |
+| D-Wave Quantum | Superconducting (annealing + gate-model) | $100 Million |
+| Quantinuum | Trapped-ion | $100 Million |
+| PsiQuantum | Photonic | $100 Million |
+| Atom Computing | Neutral-atom | $100 Million |
+| Infleqtion | Neutral-atom | $100 Million |
+| Diraq | Silicon spin (CMOS quantum dot) | Up to $38 Million |
+| GlobalFoundries | Cross-modality foundry | $375 Million |
+
+### A.5 Research Universities & Academic Institutions
+
+Over 40 research universities received competitive awards under DE-FOA-0003612 and related Genesis Mission solicitations. The following institutions have publicly confirmed Genesis Mission project selections or awards.
+
+| Institution | Institution |
+| :--- | :--- |
+| Arizona State University (ASU) | Caltech |
+| Carnegie Mellon University | Colorado State University |
+| Columbia University | Cornell University |
+| Emory University | Florida State University |
+| Georgia Institute of Technology | Iowa State University |
+| Lehigh University | Louisiana State University (LSU) |
+| Michigan State University (FRIB) | Michigan Technological University |
+| Mississippi State University | Missouri S&T |
+| MIT | New Jersey Institute of Technology (NJIT) |
+| New Mexico State University (NMSU) | Northwestern University |
+| Penn State University | Princeton University |
+| Rice University | Stanford University |
+| Stony Brook University | Texas A&M University |
+| Texas State University | Tulane University |
+| UC Berkeley | UNC Charlotte |
+| University at Buffalo | University of Arizona |
+| University of California System | University of Colorado Boulder |
+| University of Florida | University of Illinois Urbana-Champaign |
+| University of Kentucky | University of Maine |
+| University of Michigan | University of Missouri |
+| University of New Mexico | University of Pittsburgh |
+| University of Southern California (USC) | University of Texas at Austin |
+| University of Utah | University of Wisconsin–Madison |
+| Virginia Tech | Yale University |
+
+**Additional Academic & Research Organizations:**
+* AI Tennessee Initiative
+* RTI International
+* Cleveland Clinic (medical research partner)
+
+---
+
 ## References & Document Sources
 
 1. **donutloop Repository**. [Donutloop Genesis Repository: Genesis Mission Curated Research & Technical Reference Index](https://github.com/donutloop/donutloop-genesis/blob/main/README.md). GitHub Open-Source Technical Documentation, 2026.
