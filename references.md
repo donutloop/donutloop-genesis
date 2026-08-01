@@ -317,11 +317,13 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
   * [Cristina Rea Lead on MIT Projects Selected for Genesis Mission Fusion AI](https://www.psfc.mit.edu/resources/news/cristina-rea-mit-projects-selected-funding-genesis-mission-fusion-ai/)
 * **New Jersey Institute of Technology (NJIT):** [Genesis Mission - Transforming Science and Energy with AI](https://research.njit.edu/genesis-mission-transforming-science-and-energy-ai)
 * **New Mexico State University (NMSU):** [NMSU-Led Team Selected for $800M Initiative](https://newsroom.nmsu.edu/news/nmsu-led-team-among-those-selected-for--800-million-doe-genesis-mission/s/16c85a82-19d1-45ea-922e-6aba73e11383)
+* **New York University (NYU):** [Faculty Drive Three U.S. Department of Energy Genesis Mission Projects](https://www.nyu.edu/about/news-publications/news/2026/july/nyu-faculty-drive-three-us-department-of-energy-genesis-mission-.html?challenge=d06e90d7-4d8f-4b88-9d8c-10b73beb60f1)
 * **Northwestern University:** [Projects Receive Funding](https://news.northwestern.edu/stories/2026/07/northwestern-projects-receive-genesis-mission-funding)
 * **Penn State University:** [Scientists to Lead Three Projects](https://www.psu.edu/news/research/story/penn-state-scientists-lead-three-genesis-mission-projects)
 * **Princeton University:**
   * [Researchers Awarded Grants to Lead AI Projects](https://www.princeton.edu/news/2026/07/22/princeton-researchers-awarded-genesis-mission-grants-department-energy-accelerate)
   * [Princeton Researchers Awarded Genesis Mission Grants](https://research.princeton.edu/news/princeton-researchers-awarded-genesis-mission-grants-department-energy-accelerate-ai-use-0)
+* **Rensselaer Polytechnic Institute (RPI):** [Selected for Two U.S. Department of Energy Genesis Mission Projects](https://news.rpi.edu/2026/07/31/rpi-selected-two-us-department-energy-genesis-mission-projects)
 * **Rice University:** [Researchers Earn 2 Awards](https://news.rice.edu/news/2026/rice-researchers-earn-2-doe-genesis-mission-awards)
 * **RTI International:** [Research Teams Selected for DOE Genesis Mission](https://www.rti.org/news/doe-genesis-mission-research-teams)
 * **Stanford University:** [To Lead Projects with SLAC](https://news.stanford.edu/stories/2026/07/stanford-and-slac-to-lead-genesis-mission-projects)
@@ -332,13 +334,17 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
 * **Texas State University:** [DOE Genesis Mission Awards Coverage](https://news.txst.edu/research-and-innovation/2026/doe-genesis-mission.html)
 * **Tulane University:** [Team Selected to Discover Next Generation Materials Using AI](https://news.tulane.edu/pr/department-energys-genesis-mission-selects-tulane-team-using-ai-discover-next-generation)
 * **UC Berkeley (College of Chemistry):** [Awarded DOE Genesis Mission Grant](https://chemistry.berkeley.edu/news/uc-berkeley-college-chemistry-awarded-doe-genesis-mission-grant)
-* **UNC Charlotte:** [Projects Named in First Cohort of DOE Genesis Mission](https://inside.charlotte.edu/2026/07/22/unc-charlotte-projects-named-in-first-cohort-of-u-s-department-of-energy-genesis-mission/)
+* **UC Davis:** [Researchers Selected for Landmark DOE Genesis Mission Awards](https://www.ucdavis.edu/news/uc-davis-researchers-selected-landmark-doe-genesis-mission-awards-harness-ai-scientific)
+* **UNC Charlotte:**
+  * [Projects Named in First Cohort of DOE Genesis Mission](https://inside.charlotte.edu/2026/07/22/unc-charlotte-projects-named-in-first-cohort-of-u-s-department-of-energy-genesis-mission/)
+  * [Projects Join DOE Genesis Mission and Student AI Fellows Put LLMs to Work](https://inside.charlotte.edu/2026/07/27/unc-charlotte-projects-join-the-department-of-energy-genesis-mission-and-student-ai-fellows-put-large-language-models-to-work/)
 * **University at Buffalo:** [Genesis Mission Grants Buffalo AI Research](https://www.buffalo.edu/news/releases/2026/07/genesis-mission-grants-buffalo-AI-research.html)
 * **University of Arizona:** [Department of Energy Selects 5 U of A Research Projects](https://news.arizona.edu/news/department-energy-selects-5-u-research-projects-through-new-ai-science-genesis-mission-awards)
 * **University of California System:** [Partners with DOE to Advance Energy Discovery](https://www.universityofcalifornia.edu/news/university-california-partners-us-department-energy-advance-energy-discovery-and-national)
 * **University of Colorado Boulder:**
   * [Infleqtion Secures Three Genesis Mission Projects from U.S. DOE](https://www.colorado.edu/venturepartners/2026/07/22/external-news/infleqtion-secures-three-genesis-mission-projects-us-department-energy)
   * [Limited Submission Opportunity: DOE Genesis Mission](https://www.colorado.edu/researchinnovation/node/8528/funding/limited-submission-funding-opportunities/doe-genesis-mission-transforming-science)
+* **University of Connecticut (UConn):** [Researchers Win Inaugural DOE Genesis Mission Award](https://today.uconn.edu/2026/07/uconn-researchers-win-inaugural-doe-genesis-mission-award/)
 * **University of Florida:** [Receives Genesis Mission Grant](https://news.ufl.edu/2026/07/genesis-mission-grant/)
 * **University of Illinois Urbana-Champaign:** [Illinois-Led Team Selected for Award](https://news.illinois.edu/illinois-led-team-selected-for-doe-genesis-mission-award/)
 * **University of Kentucky:** [6 UK Researchers Selected for Historic Mission](https://uknow.uky.edu/research/6-uk-researchers-selected-historic-doe-genesis-mission)
@@ -350,6 +356,7 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
   * [Mizzou Engineering-Led Team Selected for Inaugural Mission](https://engineering.missouri.edu/2026/mizzou-led-team-selected-for-u-s-department-of-energys-inaugural-genesis-mission/)
   * [Show Me Mizzou Feature Coverage](https://showme.missouri.edu/2026/mizzou-led-team-selected-for-u-s-department-of-energys-inaugural-genesis-mission/)
 * **University of New Mexico (UNM):** [Researchers Selected for Mission](https://news.unm.edu/news/unm-researchers-selected-for-u-s-does-genesis-mission)
+* **University of North Dakota (UND):** [Selected for Inaugural U.S. Department of Energy Genesis Mission Project](https://blogs.und.edu/und-today/2026/07/und-selected-for-inaugural-u-s-department-of-energy-genesis-mission-project/)
 * **University of Pittsburgh:** [PittWire: Genesis Mission AI and Quantum Science](https://www.pittwire.pitt.edu/features-articles/2026/07/24/genesis-mission-ai-quantum)
 * **University of Southern California (USC):**
   * [USC Leads National AI Research Project](https://today.usc.edu/usc-leads-national-ai-research-project-to-accelerate-scientific-discovery/)
@@ -377,18 +384,3 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
 * [DOE Office of Science: DE-FOA-0003612 Amendment 000003 (PDF)](https://science.osti.gov/-/media/grants/pdf/foas/2026/DE-FOA-0003612-000003.pdf)
 * [DOE Office of Science (SCAC): DOE Genesis Mission Launched Presentation (PDF)](https://science.osti.gov/-/media/About/pdf/scac/meetings/2026/DOE-Genesis-Mission-Launched---2026-03-27.pdf)
 * [OSTP: OSTP Genesis Mission Science and Technology Challenges Document](https://www.energy.gov/documents/ostp-genesis-mission-science-and-technology-challenges)
-
-
-WIP:
-
-https://inside.charlotte.edu/2026/07/27/unc-charlotte-projects-join-the-department-of-energy-genesis-mission-and-student-ai-fellows-put-large-language-models-to-work/
-
-https://www.ucdavis.edu/news/uc-davis-researchers-selected-landmark-doe-genesis-mission-awards-harness-ai-scientific
-
-https://www.nyu.edu/about/news-publications/news/2026/july/nyu-faculty-drive-three-us-department-of-energy-genesis-mission-.html?challenge=d06e90d7-4d8f-4b88-9d8c-10b73beb60f1
-
-https://news.rpi.edu/2026/07/31/rpi-selected-two-us-department-energy-genesis-mission-projects
-
-https://blogs.und.edu/und-today/2026/07/und-selected-for-inaugural-u-s-department-of-energy-genesis-mission-project/
-
-https://today.uconn.edu/2026/07/uconn-researchers-win-inaugural-doe-genesis-mission-award/
