@@ -386,3 +386,9 @@ https://inside.charlotte.edu/2026/07/27/unc-charlotte-projects-join-the-departme
 https://www.ucdavis.edu/news/uc-davis-researchers-selected-landmark-doe-genesis-mission-awards-harness-ai-scientific
 
 https://www.nyu.edu/about/news-publications/news/2026/july/nyu-faculty-drive-three-us-department-of-energy-genesis-mission-.html?challenge=d06e90d7-4d8f-4b88-9d8c-10b73beb60f1
+
+https://news.rpi.edu/2026/07/31/rpi-selected-two-us-department-energy-genesis-mission-projects
+
+https://blogs.und.edu/und-today/2026/07/und-selected-for-inaugural-u-s-department-of-energy-genesis-mission-project/
+
+https://today.uconn.edu/2026/07/uconn-researchers-win-inaugural-doe-genesis-mission-award/
