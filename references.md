@@ -178,6 +178,7 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
 * [Siemens: Bringing Industrial AI to the Genesis Mission](https://www.siemens.com/en-us/company/insights/us-stories/bringing-industrial-ai-to-the-genesis-mission/)
 * [Siemens (DE): Bringing Industrial AI to the Genesis Mission](https://www.siemens.com/de-de/company/insights/us-stories/bringing-industrial-ai-to-the-genesis-mission/)
 * [Dell Technologies: Dell AI Factory and High-Performance Computing Solutions](https://www.dell.com/en-us/dt/solutions/artificial-intelligence/index.htm)
+* [SambaNova Systems: Reconfigurable Dataflow Architecture and AI for Science Infrastructure](https://sambanova.ai/)
 * [NVIDIA: Partnering with U.S. Government to Boost AI Infrastructure & R&D](https://blogs.nvidia.com/blog/nvidia-us-government-to-boost-ai-infrastructure-and-rd-investments/)
 * [Department of the Interior: Highlights Scientific Leadership Supporting the Genesis Mission](https://www.doi.gov/pressreleases/interior-highlights-scientific-leadership-supporting-genesis-mission)
 * [GlobalFoundries: Joins U.S. DOE's Genesis Mission as Industry Partner](https://gf.com/news-and-events/news/globalfoundries-joins-us-department-of-energys-genesis-mission-as-industry-partner/)

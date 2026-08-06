@@ -23,7 +23,7 @@
 | 8 | Microsoft | ✅ Full Profile | §3.1 | $60M SPARK; Discovery platform; MatterGen/MatterSim; Majorana |
 | 9 | NVIDIA | ✅ Full Profile | §2.1, §3.1 | Solstice/Equinox; Apollo models; Omniverse; edge AI |
 | 10 | Oracle | ✅ Full Profile | §3.1 | Enterprise cloud; HPC database infrastructure |
-| 11 | Sambanova | 📋 Brief Mention | A.3 | AI accelerator hardware |
+| 11 | SambaNova Systems | ✅ Full Profile | §2.1, §3.1, A.3 | Reconfigurable Dataflow Architecture (SN40L RDU); high-throughput AI inference; ALCF deployment |
 
 ---
 
@@ -224,20 +224,20 @@
 
 | Entity Type | Total | ✅ Full | 📋 Brief | ❌ Not Covered |
 |:---|:---:|:---:|:---:|:---:|
-| Industry Partners | 61 | 24 | 37 | 0 |
+| Industry Partners | 61 | 25 | 36 | 0 |
 | Federal Agencies | 9 | 4 | 5 | 0 |
 | National Laboratories | 17 | 13 | 4 | 0 |
 | Universities | 48 | 1 | 47 | 0 |
 | Additional Research Orgs | 4 | 2 | 2 | 0 |
-| **Total** | **139** | **44** | **95** | **0** |
+| **Total** | **139** | **45** | **94** | **0** |
 
 ### By Coverage Level
 
 | Coverage Level | Count | Percentage |
 |:---|:---:|:---:|
-| ✅ Full Profile | 44 | 32% |
-| 📋 Brief Mention | 95 | 68% |
+| ✅ Full Profile | 45 | 32% |
+| 📋 Brief Mention | 94 | 68% |
 | ❌ Not Covered | 0 | 0% |
 | **Total Entities** | **139** | **100%** |
 
-> **Note:** All 139 identified Genesis Mission ecosystem participants have at least table-level or list representation in the research paper. 44 entities have dedicated, detailed technical profiles. No collaborators from the reference list are completely absent from the research paper.
+> **Note:** All 139 identified Genesis Mission ecosystem participants have at least table-level or list representation in the research paper. 45 entities have dedicated, detailed technical profiles. No collaborators from the reference list are completely absent from the research paper.
