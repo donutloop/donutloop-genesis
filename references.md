@@ -194,6 +194,7 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
 * [xLight: xLight Secures $150 Million CHIPS Incentives Award for Free-Electron Laser EUV Prototype](https://www.businesswire.com/news/home/20260602005000/en/xLight-Secures-150-Million-CHIPS-Incentives-Award)
 * [NIST: Department of Commerce Finalizes CHIPS Incentives Award to xLight](https://www.nist.gov/news-events/news/2026/06/department-commerce-finalizes-chips-incentives-award-xlight-inc)
 * [NIST: Department of Commerce Announces Letter of Intent with xLight for CHIPS Incentives](https://www.nist.gov/news-events/news/2025/12/department-commerce-announces-letter-intent-xlight-chips-incentives)
+* [NIST: Joins National Genesis Mission to Accelerate AI Innovation](https://www.nist.gov/news-events/news/2026/08/nist-joins-national-genesis-mission-accelerate-ai-innovation)
 * [Fermilab: xLight and Fermilab Cooperative Research and Development Agreement (CRADA) for Superconducting FEL Technology](https://news.fnal.gov/2024/fermilab-xlight-crada-superconducting-technology/)
 * [Accenture: Accenture Federal Services to Deliver Early Operating Capability for DOE's Genesis Mission CM2US](https://newsroom.accenture.com/news/2026/accenture-federal-services-to-deliver-early-operating-capability-for-doe-s-genesis-mission-cm2us)
 * [Accenture: Accenture Partners with U.S. Department of Energy to Support Groundbreaking Genesis Mission Program](https://newsroom.accenture.com/news/2025/accenture-partners-with-u-s-department-of-energy-to-support-groundbreaking-genesis-mission-program)
@@ -239,6 +240,7 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
   * [Supporting DOE's Genesis Mission (Elements Feature)](https://elements.lbl.gov/news/supporting-does-genesis-mission/)
   * [ATAP Multi-Office Accelerator Team Using AI](https://atap.lbl.gov/news/the-multi-office-particle-accelerator-team-using-ai-to-enhance-the-capabilities-of-current-and-future-particle-accelerators/)
   * [Takes Major Step Toward Doudna with Delivery of Early Access System, Cech](https://newscenter.lbl.gov/2026/03/17/berkeley-lab-takes-major-step-toward-doudna-with-delivery-of-early-access-system-cech/)
+  * [Connecting Data, Computing, and AI for Scientific Discovery](https://newscenter.lbl.gov/2026/08/05/connecting-data-computing-and-ai-for-scientific-discovery/)
 * **Brookhaven National Laboratory (BNL):** 
   * [Genesis Mission Coverage & Research Leadership](https://www.bnl.gov/newsroom/news.php?a=123041)
   * [BNL Highlights Strategic Genesis Mission Projects](https://www.bnl.gov/newsroom/news.php?a=122827)
@@ -289,6 +291,7 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
   * [Energy Department Launches Genesis Mission Release](https://www.srnl.gov/news-releases/energy-department-launches-genesis-mission-to-transform-american-science-and-innovation-through-the-ai-computing-revolution/)
   * [SRNL Genesis Mission Portal](https://www.srnl.gov/genesis-mission/)
   * [SRNL Genesis Mission Hub](https://www.srnl.gov/srnl-genesis-mission/)
+  * [SRNL Awarded AI-Powered Cleanup Projects Through DOE's Genesis Mission](https://www.energy.gov/em/articles/srnl-awarded-ai-powered-cleanup-projects-through-does-genesis-mission)
 * **SLAC National Accelerator Laboratory:** 
   * [Leading Projects Alongside Stanford](https://news.stanford.edu/stories/2026/07/stanford-and-slac-to-lead-genesis-mission-projects)
   * [SLAC ISDCI Genesis Portal](https://isdci.slac.stanford.edu/genesis)
@@ -326,7 +329,9 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
 * **Rensselaer Polytechnic Institute (RPI):** [Selected for Two U.S. Department of Energy Genesis Mission Projects](https://news.rpi.edu/2026/07/31/rpi-selected-two-us-department-energy-genesis-mission-projects)
 * **Rice University:** [Researchers Earn 2 Awards](https://news.rice.edu/news/2026/rice-researchers-earn-2-doe-genesis-mission-awards)
 * **RTI International:** [Research Teams Selected for DOE Genesis Mission](https://www.rti.org/news/doe-genesis-mission-research-teams)
-* **Stanford University:** [To Lead Projects with SLAC](https://news.stanford.edu/stories/2026/07/stanford-and-slac-to-lead-genesis-mission-projects)
+* **Stanford University:**
+  * [To Lead Projects with SLAC](https://news.stanford.edu/stories/2026/07/stanford-and-slac-to-lead-genesis-mission-projects)
+  * [AI Laboratories Award](https://med.stanford.edu/news/all-news/2026/08/ai-laboratories-award.html)
 * **Stony Brook University:**
   * [Researchers Chosen for Landmark AI for Science Awards](https://news.stonybrook.edu/newsroom/press-release/general/stony-brook-university-researchers-chosen-for-landmark-doe-genesis-mission-ai-for-science-awards-2/)
   * [University Coverage: AI for Science Awards](https://news.stonybrook.edu/university/stony-brook-university-researchers-chosen-for-landmark-doe-genesis-mission-ai-for-science-awards/)
@@ -352,11 +357,14 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
 * **University of Michigan:**
   * [Selected for Department of Energy Genesis Mission Initiative](https://news.umich.edu/u-m-selected-for-department-of-energy-genesis-mission-initiative/)
   * [The University Record: U-M Selected for Department of Energy Genesis Mission Initiative](https://record.umich.edu/articles/u-m-selected-for-department-of-energy-genesis-mission-initiative/)
+* **University of Minnesota:** [Receives DOE Genesis Mission Funding to Advance AI Breakthroughs](https://twin-cities.umn.edu/news-events/university-minnesota-receives-doe-genesis-mission-funding-advance-ai-breakthroughs)
 * **University of Missouri (Mizzou):**
   * [Mizzou Engineering-Led Team Selected for Inaugural Mission](https://engineering.missouri.edu/2026/mizzou-led-team-selected-for-u-s-department-of-energys-inaugural-genesis-mission/)
   * [Show Me Mizzou Feature Coverage](https://showme.missouri.edu/2026/mizzou-led-team-selected-for-u-s-department-of-energys-inaugural-genesis-mission/)
 * **University of New Mexico (UNM):** [Researchers Selected for Mission](https://news.unm.edu/news/unm-researchers-selected-for-u-s-does-genesis-mission)
-* **University of North Dakota (UND):** [Selected for Inaugural U.S. Department of Energy Genesis Mission Project](https://blogs.und.edu/und-today/2026/07/und-selected-for-inaugural-u-s-department-of-energy-genesis-mission-project/)
+* **University of North Dakota (UND):**
+  * [Selected for Inaugural U.S. Department of Energy Genesis Mission Project](https://blogs.und.edu/und-today/2026/07/und-selected-for-inaugural-u-s-department-of-energy-genesis-mission-project/)
+  * [Selected for Inaugural U.S. Department of Energy Genesis Mission Project (ULetter)](https://blogs.und.edu/uletter/2026/08/und-selected-for-inaugural-u-s-department-of-energy-genesis-mission-project/)
 * **University of Pittsburgh:** [PittWire: Genesis Mission AI and Quantum Science](https://www.pittwire.pitt.edu/features-articles/2026/07/24/genesis-mission-ai-quantum)
 * **University of Southern California (USC):**
   * [USC Leads National AI Research Project](https://today.usc.edu/usc-leads-national-ai-research-project-to-accelerate-scientific-discovery/)
@@ -384,18 +392,3 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
 * [DOE Office of Science: DE-FOA-0003612 Amendment 000003 (PDF)](https://science.osti.gov/-/media/grants/pdf/foas/2026/DE-FOA-0003612-000003.pdf)
 * [DOE Office of Science (SCAC): DOE Genesis Mission Launched Presentation (PDF)](https://science.osti.gov/-/media/About/pdf/scac/meetings/2026/DOE-Genesis-Mission-Launched---2026-03-27.pdf)
 * [OSTP: OSTP Genesis Mission Science and Technology Challenges Document](https://www.energy.gov/documents/ostp-genesis-mission-science-and-technology-challenges)
-
-wip:
-
-https://www.nist.gov/news-events/news/2026/08/nist-joins-national-genesis-mission-accelerate-ai-innovation
-
-https://twin-cities.umn.edu/news-events/university-minnesota-receives-doe-genesis-mission-funding-advance-ai-breakthroughs
-
-https://www.energy.gov/em/articles/srnl-awarded-ai-powered-cleanup-projects-through-does-genesis-mission
-
-https://newscenter.lbl.gov/2026/08/05/connecting-data-computing-and-ai-for-scientific-discovery/
-
-
-https://med.stanford.edu/news/all-news/2026/08/ai-laboratories-award.html
-
-https://blogs.und.edu/uletter/2026/08/und-selected-for-inaugural-u-s-department-of-energy-genesis-mission-project/
