@@ -16,7 +16,7 @@
 | 1 | Amazon Web Services (AWS) | ✅ Full Profile | §3.1 | $100M federal credits; cloud HPC; post-quantum security |
 | 2 | AMD | ✅ Full Profile | §2.1, §3.1 | Lux & Discovery supercomputers; MI355X/MI430X; EPYC; ROCm |
 | 3 | Cerebras | ✅ Full Profile | §3.1, A.3 | DOE MOU; CS-3 & WSE-3 wafer-scale AI accelerators |
-| 4 | Dell Technologies | 📋 Brief Mention | A.3 | Computing infrastructure |
+| 4 | Dell Technologies | ✅ Full Profile | §2.1, §3.1, A.3 | PowerEdge liquid-cooled HPC servers; AI factory infrastructure; enterprise compute |
 | 5 | Google / DeepMind / Public Sector | ✅ Full Profile | §3.1 | $40M; Gemini; AI Co-Scientist; AlphaFold 3; AlphaGenome |
 | 6 | HPE | ✅ Full Profile | §3.1, A.3 | Exascale HPC substrate; HPE Cray EX & Slingshot; Frontier/Aurora/El Capitan |
 | 7 | IBM / IBM Quantum | ✅ Full Profile | §2.2, §3.1, §2.3B | $1B foundry LOI; $50M compute; Heron/Nighthawk; FLiBe fusion |
@@ -224,20 +224,20 @@
 
 | Entity Type | Total | ✅ Full | 📋 Brief | ❌ Not Covered |
 |:---|:---:|:---:|:---:|:---:|
-| Industry Partners | 61 | 23 | 38 | 0 |
+| Industry Partners | 61 | 24 | 37 | 0 |
 | Federal Agencies | 9 | 4 | 5 | 0 |
 | National Laboratories | 17 | 13 | 4 | 0 |
 | Universities | 48 | 1 | 47 | 0 |
 | Additional Research Orgs | 4 | 2 | 2 | 0 |
-| **Total** | **139** | **43** | **96** | **0** |
+| **Total** | **139** | **44** | **95** | **0** |
 
 ### By Coverage Level
 
 | Coverage Level | Count | Percentage |
 |:---|:---:|:---:|
-| ✅ Full Profile | 43 | 31% |
-| 📋 Brief Mention | 96 | 69% |
+| ✅ Full Profile | 44 | 32% |
+| 📋 Brief Mention | 95 | 68% |
 | ❌ Not Covered | 0 | 0% |
 | **Total Entities** | **139** | **100%** |
 
-> **Note:** All 139 identified Genesis Mission ecosystem participants have at least table-level or list representation in the research paper. 43 entities have dedicated, detailed technical profiles. No collaborators from the reference list are completely absent from the research paper.
+> **Note:** All 139 identified Genesis Mission ecosystem participants have at least table-level or list representation in the research paper. 44 entities have dedicated, detailed technical profiles. No collaborators from the reference list are completely absent from the research paper.
