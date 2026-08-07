@@ -1,9 +1,12 @@
 # Genesis Mission — Full Ecosystem Coverage Tracker
 
-> Cross-references **all** Genesis Mission participants — companies, federal agencies, national laboratories, universities, and research organizations — against their coverage in the research paper (`README.md`).
+> **Scope & Coverage Definition:**
+> - **Flagship Consortium Scope:** Tracks **all 148 primary flagship participants**—lead contractors, federal agencies, national laboratories, awardee universities, and strategic industrial partners—explicitly profiled in the Genesis Mission paper (`README.md`).
+> - **Broader National Awardee Network Context:** Under solicitation DE-FOA-0003612 and interagency challenges, the broader national initiative encompasses **342 total participating institutions** (157 companies, 142 universities, 16 national labs, 13 non-profits, 14 other entities across 278 projects).
+> - **Coverage Status:** **148 / 148 (100%)** of the primary flagship consortium entities have dedicated, detailed technical profiles.
 
 **Legend:**
-- ✅ **Full Profile** — Dedicated section with detailed technical write-up (Sections 2.2 / 3.1 / 3.2 / 3.3)
+- ✅ **Full Profile** — Dedicated section with detailed technical write-up (Sections 2.2 / 3.1 / 3.2 / 3.3 / 3.4 / 3.5)
 - 📋 **Brief Mention** — Listed in appendix table, grouped bullet, or named in a list (Appendix A / inline mention)
 - ❌ **Not Covered** — Appears in collaborator/reference list but has no research paper coverage
 
@@ -249,4 +252,4 @@
 | ❌ Not Covered | 0 | 0% |
 | **Total Entities** | **148** | **100%** |
 
-> **Note:** All 148 identified Genesis Mission ecosystem participants have dedicated, detailed technical profiles in the research paper, achieving 100% Full Profile coverage across the entire ecosystem. No collaborators from the reference list are absent or under-documented.
+> **Note:** All 148 primary flagship Genesis Mission ecosystem participants—representing 100% of the lead industrial signatories, federal agencies, national laboratories, awardee research universities, and specialized institutes in our reference directory—have dedicated, detailed technical write-ups. The broader sub-grantee network of 342 participating institutions represents secondary academic and sub-contractor nodes across the 278 national project awards.
