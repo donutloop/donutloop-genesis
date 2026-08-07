@@ -132,23 +132,23 @@
 
 | # | Laboratory | Coverage | Paper Section | Notes |
 |---|-----------|----------|---------------|-------|
-| 71 | Ames National Laboratory | 📋 Brief Mention | §3.2, A.2 | Named in cross-disciplinary list |
-| 72 | Argonne National Laboratory (ANL) | ✅ Full Profile | §2.1, §2.3C, §3.2, A.2 | ALCF; Solstice/Equinox host; Infleqtion project |
-| 73 | Brookhaven National Laboratory (BNL) | ✅ Full Profile | §3.2, A.2 | Infleqtion quantum sensing project; cross-disciplinary AI |
-| 74 | Fermi National Accelerator Laboratory (Fermilab) | 📋 Brief Mention | §3.2, A.2 | Named in cross-disciplinary list; xLight CRADA partner |
-| 75 | Idaho National Laboratory (INL) | ✅ Full Profile | §2.3D, §3.1 (MSFT) | Nuclear energy AI; autonomous reactor control; AWS HPC |
-| 76 | Lawrence Berkeley National Laboratory (LBNL) | ✅ Full Profile | §2.1, §3.2 | Leading 13 AI projects; ModCon platform; Meta AI integration |
-| 77 | Lawrence Livermore National Laboratory (LLNL) | ✅ Full Profile | §3.1 (MSFT), §3.2 | Leading 10 projects; Rigetti fusion sims; MSFT biosecurity |
-| 78 | Los Alamos National Laboratory (LANL) | ✅ Full Profile | §3.2 | 7 projects; weapons physics & materials science |
-| 79 | National Energy Technology Laboratory (NETL) | ✅ Full Profile | §2.3D, §3.2 | Grid/supply chain AI; named in cross-disciplinary list |
-| 80 | National Renewable Energy Laboratory (NREL) | ✅ Full Profile | §2.3D, §3.1, §3.2 | Atom Computing quantum grid co-sim; ARIES platform |
-| 81 | Oak Ridge National Laboratory (ORNL) | ✅ Full Profile | §2.3B, §3.1 (IBM), §3.2 | Leading 9 projects; Frontier; FLiBe quantum chemistry |
-| 82 | Pacific Northwest National Laboratory (PNNL) | ✅ Full Profile | §2.3C, §3.1 (MSFT/Google) | MSFT energy materials; Google AlphaEvolve |
-| 83 | Princeton Plasma Physics Laboratory (PPPL) | ✅ Full Profile | §2.3B | AI4Fusion project; autonomous plasma control |
-| 84 | Sandia National Laboratories (SNL) | ✅ Full Profile | §3.2 | Leading 6 projects; co-PI on 17 others |
-| 85 | Savannah River National Laboratory (SRNL) | 📋 Brief Mention | A.2 | Listed in lab table |
-| 86 | SLAC National Accelerator Laboratory | 📋 Brief Mention | §3.2, A.2 | Named in cross-disciplinary list |
-| 87 | National Laboratory of the Rockies (NLR) | ✅ Full Profile | §2.3C, §3.1 (Google) | Google Gemini autonomous lab operations |
+| 71 | Ames National Laboratory | ✅ Full Profile | §3.2, A.2 | Critical Materials Institute (CMI) lead, rare earth replacement & high-throughput alloy thermodynamics |
+| 72 | Argonne National Laboratory (ANL) | ✅ Full Profile | §2.1, §2.3C, §3.2, A.2 | ALCF Solstice/Equinox supercomputers, Aurora exascale, APS synchrotron & Infleqtion QPU hub |
+| 73 | Brookhaven National Laboratory (BNL) | ✅ Full Profile | §3.2, A.2 | C2QA quantum co-design center lead, NSLS-II synchrotron beamlines & heavy-ion physics AI |
+| 74 | Fermi National Accelerator Laboratory (Fermilab) | ✅ Full Profile | §3.2, A.2 | SQMS quantum center lead, SRF 3D cavity qubits & xLight EUV lithography FEL CRADA partner |
+| 75 | Idaho National Laboratory (INL) | ✅ Full Profile | §2.3D, §3.1, §3.2, A.2 | Nuclear energy AI, small modular reactor (SMR) digital twins, AWS cloud HPC & autonomous reactor control |
+| 76 | Lawrence Berkeley National Laboratory (LBNL) | ✅ Full Profile | §2.1, §3.2, A.2 | 13 flagship AI projects lead, ModCon platform, NERSC supercomputing & Materials Project AI integration |
+| 77 | Lawrence Livermore National Laboratory (LLNL) | ✅ Full Profile | §3.1, §3.2, A.2 | NIF laser fusion AI (10 project awards), Rigetti fusion quantum simulation & MSFT biosecurity models |
+| 78 | Los Alamos National Laboratory (LANL) | ✅ Full Profile | §3.2, A.2 | Stockpile stewardship weapons hydrodynamics (7 projects), plutonium aging physics & biosecurity robotics |
+| 79 | National Energy Technology Laboratory (NETL) | ✅ Full Profile | §2.3D, §3.2, A.2 | Power grid instability AI, carbon capture optimization & Ramaco coal-to-graphite synthetic materials |
+| 80 | National Renewable Energy Laboratory (NREL) | ✅ Full Profile | §2.3D, §3.1, §3.2, A.2 | ARIES platform, Atom Computing quantum-in-the-loop grid co-simulation & clean energy digital twins |
+| 81 | Oak Ridge National Laboratory (ORNL) | ✅ Full Profile | §2.3B, §3.1, §3.2, A.2 | Frontier exascale supercomputer (9 projects), FLiBe molten salt quantum chemistry & SNS neutron scattering |
+| 82 | Pacific Northwest National Laboratory (PNNL) | ✅ Full Profile | §2.3C, §3.1, §3.2, A.2 | Microsoft Discovery solid-state battery AI, climate atmospheric modeling & chemical catalysis |
+| 83 | Princeton Plasma Physics Laboratory (PPPL) | ✅ Full Profile | §2.3B, §3.2, A.2 | AI4Fusion autonomous tokamak plasma control & microelectronics low-temperature plasma etching CFD |
+| 84 | Sandia National Laboratories (SNL) | ✅ Full Profile | §3.2, A.2 | Microelectronics radiation hardening (6 projects, 17 co-PI), ion trap QPU fabrication & hypersonic CFD |
+| 85 | Savannah River National Laboratory (SRNL) | ✅ Full Profile | §3.2, A.2 | Radiochemical separation flowsheets, nuclear safeguards AI, tritium processing & hydrogen storage |
+| 86 | SLAC National Accelerator Laboratory | ✅ Full Profile | §3.2, A.2 | LCLS-II ultrafast attosecond X-ray science, deep RL beamline optimization & SRF accelerator cavities |
+| 87 | National Laboratory of the Rockies (NLR) | ✅ Full Profile | §2.3C, §3.1, §3.2, A.2 | Google Gemini autonomous lab orchestration, mountain hydrology & high-altitude climate digital twins |
 
 ---
 
@@ -235,18 +235,18 @@
 |:---|:---:|:---:|:---:|:---:|
 | Industry Partners | 61 | 61 | 0 | 0 |
 | Federal Agencies | 9 | 9 | 0 | 0 |
-| National Laboratories | 17 | 13 | 4 | 0 |
+| National Laboratories | 17 | 17 | 0 | 0 |
 | Universities | 57 | 1 | 56 | 0 |
 | Additional Research Orgs | 4 | 2 | 2 | 0 |
-| **Total** | **148** | **89** | **59** | **0** |
+| **Total** | **148** | **93** | **55** | **0** |
 
 ### By Coverage Level
 
 | Coverage Level | Count | Percentage |
 |:---|:---:|:---:|
-| ✅ Full Profile | 89 | 60% |
-| 📋 Brief Mention | 59 | 40% |
+| ✅ Full Profile | 93 | 63% |
+| 📋 Brief Mention | 55 | 37% |
 | ❌ Not Covered | 0 | 0% |
 | **Total Entities** | **148** | **100%** |
 
-> **Note:** All 148 identified Genesis Mission ecosystem participants have at least table-level or list representation in the research paper. 89 entities have dedicated, detailed technical profiles. No collaborators from the reference list are completely absent from the research paper.
+> **Note:** All 148 identified Genesis Mission ecosystem participants have at least table-level or list representation in the research paper. 93 entities have dedicated, detailed technical profiles. No collaborators from the reference list are completely absent from the research paper.

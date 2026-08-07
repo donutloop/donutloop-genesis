@@ -1,4 +1,4 @@
-**Version**: 0.3.10-alpha
+**Version**: 0.3.11-alpha
 
 # The Genesis Mission: Architecture, Strategic Initiatives, and the Multi-Institutional Ecosystem for AI and Quantum-Driven Scientific Discovery
 
@@ -389,13 +389,24 @@ A defining feature of the Genesis Mission is its hybrid operational model unitin
   * **DOE & DOD Precision Instrumentation R&D:** Partnering with federal R&D facilities to engineer high-power ultrasonic transducers, energy harvesting devices, and precision positioning actuators.
 
 ### 3.2 National Laboratories
-The DOE Office of Science directed funding across primary laboratory nodes:
-* **Lawrence Berkeley National Laboratory (LBNL):** Leading 13 new AI scientific projects and managing the ModCon platform.
-* **Lawrence Livermore National Laboratory (LLNL):** Leading 10 project awards focused on high-energy-density physics and national defense AI.
-* **Oak Ridge National Laboratory (ORNL):** Leading 9 project awards leveraging Frontier supercomputing.
-* **Los Alamos National Laboratory (LANL):** 7 projects spanning weapons physics and materials science.
-* **Sandia National Laboratories (SNL):** Leading 6 projects and participating as a co-investigator in 17 additional initiatives.
-* **Argonne National Laboratory (ANL), Brookhaven National Laboratory (BNL), Ames, NETL, PNNL, and SLAC:** Spearheading cross-disciplinary AI, quantum networking, and catalysis projects.
+The DOE Office of Science directed funding across 17 primary national laboratory nodes, serving as federated compute, experimental, and co-design hubs:
+* **Ames National Laboratory (Ames):** Leading the Critical Materials Institute (CMI), high-throughput alloy thermodynamics, and rare earth element replacement research for domestic battery and magnet supply chains.
+* **Argonne National Laboratory (ANL):** Hosting the Argonne Leadership Computing Facility (ALCF), Solstice and Equinox supercomputers, Aurora exascale applications, Advanced Photon Source (APS) beamlines, and Infleqtion neutral-atom quantum hubs.
+* **Brookhaven National Laboratory (BNL):** Directing the Co-design Center for Quantum Advantage (C2QA), operating National Synchrotron Light Source II (NSLS-II) beamlines, and deploying AI foundation models for nuclear physics.
+* **Fermi National Accelerator Laboratory (Fermilab):** Leading the Superconducting Quantum Materials and Systems (SQMS) Center, operating world-record SRF 3D cavity testing facilities, and partnering with xLight on FEL-based EUV lithography accelerator physics.
+* **Idaho National Laboratory (INL):** Pioneering nuclear energy AI, small modular reactor (SMR) digital twins, AWS/Microsoft cloud HPC integration, and remote autonomous research reactor control.
+* **Lawrence Berkeley National Laboratory (LBNL):** Leading 13 flagship AI-for-science projects, managing the Modular Autonomous Lab Construction (ModCon) platform, operating NERSC exascale compute, and interfacing Materials Project databases with AI foundation models.
+* **Lawrence Livermore National Laboratory (LLNL):** Leading 10 project awards focused on National Ignition Facility (NIF) fusion physics, Rigetti fusion quantum simulation, high-energy-density physics, and national defense biosecurity AI.
+* **Los Alamos National Laboratory (LANL):** Leading 7 projects spanning weapons hydrodynamics stewardship, plutonium aging physics, high-explosive mechanics, and autonomous assay robotics.
+* **National Energy Technology Laboratory (NETL):** Spearheading power grid instability AI, carbon capture chemistry optimization, and Ramaco coal-to-graphite synthetic material R&D.
+* **National Renewable Energy Laboratory (NREL):** Operating the Advanced Research on Integrated Energy Systems (ARIES) platform, connecting Atom Computing neutral-atom QPUs with physical grid hardware for quantum-in-the-loop co-simulations.
+* **Oak Ridge National Laboratory (ORNL):** Leading 9 project awards leveraging the Frontier exascale supercomputer, executing FLiBe molten salt quantum chemistry pipelines with IBM and Cleveland Clinic, and operating Spallation Neutron Source (SNS) beamlines.
+* **Pacific Northwest National Laboratory (PNNL):** Partnering with Microsoft Discovery on solid-state battery electrolyte discovery, developing climate atmospheric models, and operating molecular science laboratories.
+* **Princeton Plasma Physics Laboratory (PPPL):** Leading the AI4Fusion initiative for real-time tokamak plasma disruption control and simulating low-temperature plasma etching physics for semiconductor manufacturing.
+* **Sandia National Laboratories (SNL):** Leading 6 projects and participating as a co-investigator in 17 additional initiatives, fabricating surface ion traps for Quantinuum, and advancing microelectronics radiation hardening.
+* **Savannah River National Laboratory (SRNL):** Directing radiochemical separation flowsheets, AI-driven nuclear safeguards, tritium processing systems, and solid-state hydrogen storage media.
+* **SLAC National Accelerator Laboratory (SLAC):** Operating the Linac Coherent Light Source (LCLS-II) ultrafast attosecond X-ray laser, deploying deep RL for beamline emittance control, and developing SRF accelerator cavities.
+* **National Laboratory of the Rockies (NLR):** Partnering with Google Public Sector to deploy Gemini-driven autonomous laboratory orchestration and mountain watershed climate digital twins.
 
 ### 3.3 University Research Partners
 Over 40 leading universities were awarded competitive grants under DE-FOA-0003612 and related Genesis solicitations, including Arizona State University, Caltech, Carnegie Mellon University, Columbia, Cornell, Florida State University, Georgia Tech, MIT, Penn State, Princeton, Rice, Stanford, Stony Brook, UC Berkeley, UIUC, University of Michigan, USC, UT Austin, UW–Madison, and Yale. These institutions act as primary academic nodes for theory, algorithmic development, and graduate training.
@@ -466,25 +477,25 @@ The Genesis Mission is distinguished by the breadth of its multi-sector coalitio
 
 The DOE's 17 National Laboratories serve as the primary execution nodes for Genesis Mission research, each operating as federated compute, experimental, and coordination hubs.
 
-| Laboratory | Abbreviation |
-| :--- | :--- |
-| Ames National Laboratory | Ames |
-| Argonne National Laboratory | ANL |
-| Brookhaven National Laboratory | BNL |
-| Fermi National Accelerator Laboratory | Fermilab |
-| Idaho National Laboratory | INL |
-| Lawrence Berkeley National Laboratory | LBNL |
-| Lawrence Livermore National Laboratory | LLNL |
-| Los Alamos National Laboratory | LANL |
-| National Energy Technology Laboratory | NETL |
-| National Renewable Energy Laboratory | NREL |
-| Oak Ridge National Laboratory | ORNL |
-| Pacific Northwest National Laboratory | PNNL |
-| Princeton Plasma Physics Laboratory | PPPL |
-| Sandia National Laboratories | SNL |
-| Savannah River National Laboratory | SRNL |
-| SLAC National Accelerator Laboratory | SLAC |
-| National Laboratory of the Rockies | NLR |
+| Laboratory | Abbreviation | Primary Genesis Mission Focus |
+| :--- | :--- | :--- |
+| Ames National Laboratory | Ames | Critical Materials Institute (CMI) lead, rare earth replacement & high-throughput alloy thermodynamics |
+| Argonne National Laboratory | ANL | ALCF Solstice/Equinox supercomputers, Aurora exascale, APS synchrotron & Infleqtion QPU hub |
+| Brookhaven National Laboratory | BNL | C2QA quantum co-design center lead, NSLS-II synchrotron beamlines & heavy-ion physics AI |
+| Fermi National Accelerator Laboratory | Fermilab | SQMS quantum center lead, SRF 3D cavity qubits & xLight EUV lithography FEL CRADA partner |
+| Idaho National Laboratory | INL | Nuclear energy AI, small modular reactor (SMR) digital twins, AWS cloud HPC & autonomous reactor control |
+| Lawrence Berkeley National Laboratory | LBNL | 13 flagship AI projects lead, ModCon platform, NERSC supercomputing & Materials Project AI integration |
+| Lawrence Livermore National Laboratory | LLNL | NIF laser fusion AI (10 project awards), Rigetti fusion quantum simulation & MSFT biosecurity models |
+| Los Alamos National Laboratory | LANL | Stockpile stewardship weapons hydrodynamics (7 projects), plutonium aging physics & biosecurity robotics |
+| National Energy Technology Laboratory | NETL | Power grid instability AI, carbon capture optimization & Ramaco coal-to-graphite synthetic materials |
+| National Renewable Energy Laboratory | NREL | ARIES platform, Atom Computing quantum-in-the-loop grid co-simulation & clean energy digital twins |
+| Oak Ridge National Laboratory | ORNL | Frontier exascale supercomputer (9 projects), FLiBe molten salt quantum chemistry & SNS neutron scattering |
+| Pacific Northwest National Laboratory | PNNL | Microsoft Discovery solid-state battery AI, climate atmospheric modeling & chemical catalysis |
+| Princeton Plasma Physics Laboratory | PPPL | AI4Fusion autonomous tokamak plasma control & microelectronics low-temperature plasma etching CFD |
+| Sandia National Laboratories | SNL | Microelectronics radiation hardening (6 projects, 17 co-PI), ion trap QPU fabrication & hypersonic CFD |
+| Savannah River National Laboratory | SRNL | Radiochemical separation flowsheets, nuclear safeguards AI, tritium processing & hydrogen storage |
+| SLAC National Accelerator Laboratory | SLAC | LCLS-II ultrafast attosecond X-ray science, deep RL beamline optimization & SRF accelerator cavities |
+| National Laboratory of the Rockies | NLR | Google Gemini autonomous lab orchestration, mountain hydrology & high-altitude climate digital twins |
 
 ### A.3 Industry & Technology Partners
 
