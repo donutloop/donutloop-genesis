@@ -1,4 +1,4 @@
-**Version**: 0.3.8-alpha
+**Version**: 0.3.9-alpha
 
 # The Genesis Mission: Architecture, Strategic Initiatives, and the Multi-Institutional Ecosystem for AI and Quantum-Driven Scientific Discovery
 
@@ -351,6 +351,42 @@ A defining feature of the Genesis Mission is its hybrid operational model unitin
   * **Federal Power Utility & Energy Innovation Hub:** Operating the nation's largest public power provider, serving as a flagship demonstration bed for advanced nuclear (SMRs), hydro, and clean energy grid integration.
   * **Advanced Nuclear Demonstration & Small Modular Reactors:** Partnering with DOE and INL to deploy first-of-a-kind SMR nuclear reactors (Clinch River site) and autonomous reactor management platforms.
   * **Grid Decarbonization & Regional Energy Resilience:** Co-simulating regional power dynamics, carbon capture integration, and massive energy storage dispatch on national lab HPC supercomputers.
+* **Accenture Federal Services:** CM2US operating capability, federal AI systems integration, and program management across multi-agency Genesis Mission workflows:
+  * **CM2US Operating Capability & Program Management:** Provisioning federal systems integration, CM2US operating capability, and large-scale program management infrastructure across Genesis Mission multi-agency workflows.
+  * **Federal AI Implementation & Workflow Orchestration:** Deploying enterprise AI management frameworks, governance protocols, and secure cloud orchestration platforms for federal laboratory networks.
+  * **Data Governance & Cybersecurity Modernization:** Integrating zero-trust security architectures, federated identity management, and compliance frameworks across multi-institutional research consortia.
+* **Atomic Canyon:** AI-driven nuclear energy research platforms, regulatory document search (NeutronAI), and nuclear knowledge graphs:
+  * **AI-Driven Nuclear Energy & Regulatory Knowledge Graphs:** Developing specialized AI platforms (NeutronAI) for nuclear energy research, automated technical document search, and regulatory compliance indexing across DOE nuclear facilities.
+  * **Oak Ridge & INL Supercomputing Integration:** Partnering with ORNL and INL to train domain-specific nuclear foundation models on exascale compute substrates.
+  * **Nuclear Knowledge Management & Plant Operations:** Structuring decades of nuclear R&D, licensing documents, and operational logs into FAIR-compliant knowledge graphs for next-generation SMR deployment.
+* **Chemspeed Technologies:** Automated chemical synthesis workstation platforms, robotic dispensing, and parallel reaction screening:
+  * **Automated Chemical Synthesis Platforms:** Deploying robotic workstation platforms (SWING, ISYNTH) for high-throughput chemical synthesis, automated liquid/solid dispensing, and parallel reaction optimization across DOE self-driving labs.
+  * **Closed-Loop AI Synthesis Integration:** Interfacing automated synthesis hardware with AI agentic drivers (ChemCrow, PaperQA) and laboratory information management systems (LIMS) for autonomous experiment execution.
+  * **Materials Discovery & Formulations Automation:** Accelerating high-throughput formulation, catalyst screening, and battery electrolyte discovery in partnership with national laboratory materials centers.
+* **Emerald Cloud Lab (ECL):** Cloud-based robotic laboratory infrastructure, remote automated experiment execution, and FAIR experimental datasets:
+  * **Cloud-Based Robotic Laboratory Infrastructure:** Provisioning a fully automated cloud lab platform enabling remote execution of over 200 standard life science and chemistry analytical techniques via code.
+  * **Self-Driving Experimentation & Reproducibility:** Interfacing cloud robotic workflows with foundation models and AI agent platforms for end-to-end, automated experimental design, execution, and data analysis.
+  * **FAIR Data Generation & Federal API Access:** Generating machine-readable, fully metadata-annotated experimental data streams accessible via programmatic APIs across DOE and academic research nodes.
+* **Esri (Environmental Systems Research Institute):** Enterprise GIS platforms, spatial analytics engines, and spatial digital twins for Earth observation:
+  * **Geospatial Information Systems (GIS) & Earth Observation:** Supplying ArcGIS enterprise platforms and spatial analytics engines for multi-modal Earth science, climate modeling, and natural resource monitoring under Genesis.
+  * **AI-Enhanced Spatial Data Pipelines:** Integrating spatial AI algorithms (GeoAI) with national lab climate Foundation Models (AlphaEarth, Earth-2) for high-resolution environmental risk and grid asset mapping.
+  * **Federal Geospatial Infrastructure & Digital Twins:** Co-developing spatial digital twins for critical infrastructure resilience, watershed management, and clean energy site selection in partnership with federal agencies.
+* **OLI Systems:** Thermodynamic chemistry simulation engines, electrolyte modeling, and hydrometallurgical mineral separation solvers:
+  * **Aqueous Chemistry & Electrolyte Simulation:** Developing thermodynamic and electrochemical simulation engines (OLI Engine, OLI Flowsheet ESP) for complex aqueous chemical systems and electrolyte thermodynamics.
+  * **Critical Minerals Extraction & Hydrometallurgy:** Modeling solvent extraction, mineral precipitation, and brine refining thermodynamics to optimize domestic critical material recovery (lithium, REEs).
+  * **DOE National Lab Water-Energy Nexus R&D:** Partnering with NETL, INL, and Ames National Laboratory to integrate thermodynamic chemistry solvers into exascale materials discovery workflows.
+* **Qubit (Qubit Inc.):** Quantum computing hardware control software, pulse-level QPU calibration, and hybrid classical-quantum algorithms:
+  * **Quantum Computing Hardware & Software Control:** Developing quantum computing software stacks, cryogenic QPU control electronics, and quantum algorithm optimization pipelines for research facilities.
+  * **Hybrid Classical-Quantum Algorithm Development:** Partnering with national lab quantum computing user facilities (QPUFs) to implement variational quantum algorithms (VQE, QAOA) for materials science.
+  * **Quantum Control & Calibration Automation:** Deploying automated pulse-level quantum control frameworks and error-mitigation protocols across superconducting and neutral-atom quantum processors.
+* **RadiaSoft:** Open-source particle accelerator beam dynamics simulation software, cloud GUIs (Sirepo), and AI beamline control:
+  * **Particle Accelerator & Beam Dynamics Simulation Software:** Developing open-source beam physics simulation tools (Sirepo, Radia, Impact-T) and cloud-based simulation GUIs for particle accelerator design.
+  * **AI/ML Accelerator Control & Optimization:** Deploying machine learning algorithms for real-time beamline tuning, emittance optimization, and anomaly detection at national light sources (SLAC LCLS, BNL NSLS-II, ANL APS).
+  * **Synchrotron & FEL Simulation Substrates:** Partnering with DOE accelerator facilities to simulate high-brightness electron sources, undulator radiation, and free-electron laser (FEL) beam dynamics.
+* **TdVib (TdVib LLC):** Smart magnetostrictive materials, Terfenol-D transducers, and dynamic vibration suppression for precision instruments:
+  * **Magnetostrictive Transducers & Smart Materials:** Developing advanced smart materials, magnetostrictive transducers (Terfenol-D), and active vibration dampening systems for precision scientific instrumentation.
+  * **Extreme-Environment Sensors & Dynamic Testing:** Provisioning high-precision sensors and dynamic vibration control hardware for particle accelerators, space payload testing, and cryogenic QPUs.
+  * **DOE & DOD Precision Instrumentation R&D:** Partnering with federal R&D facilities to engineer high-power ultrasonic transducers, energy harvesting devices, and precision positioning actuators.
 
 ### 3.2 National Laboratories
 The DOE Office of Science directed funding across primary laboratory nodes:
@@ -505,15 +541,15 @@ Industry contributors span cloud and AI hyperscalers, semiconductor manufacturer
 #### Laboratory Automation & Specialized Technology
 | Organization | Primary Contribution |
 | :--- | :--- |
-| Emerald Cloud Lab | Cloud-based robotic laboratory automation |
-| Chemspeed | Automated chemical synthesis platforms |
-| OLI Systems | Aqueous chemistry simulation; DOE collaborator |
-| RadiaSoft | Particle accelerator simulation software |
-| Atomic Canyon | Quantum technology development |
-| Qubit | Quantum computing technology |
-| TdVib | Vibration and dynamics technology |
-| Esri | Geospatial information systems (GIS) |
-| Accenture Federal Services | CM2US operating capability; program management |
+| Emerald Cloud Lab | Cloud-based robotic laboratory automation, remote API-driven experiment execution & FAIR datasets |
+| Chemspeed | Automated chemical synthesis workstation platforms, robotic dispensing & closed-loop AI experimentation |
+| OLI Systems | Thermodynamic chemistry simulation engines, electrolyte modeling & hydrometallurgical extraction solvers |
+| RadiaSoft | Open-source particle accelerator simulation software (Sirepo, Radia), cloud GUIs & AI beamline control |
+| Atomic Canyon | AI-driven nuclear energy research platforms, regulatory document search (NeutronAI) & nuclear knowledge graphs |
+| Qubit | Quantum computing control software, pulse-level QPU calibration & hybrid classical-quantum algorithms |
+| TdVib | Smart magnetostrictive materials, Terfenol-D transducers & dynamic vibration suppression for precision instruments |
+| Esri | Enterprise GIS platforms, spatial analytics engines & spatial digital twins for Earth observation |
+| Accenture Federal Services | CM2US operating capability, federal AI systems integration & multi-agency program management |
 
 ### A.4 Quantum Computing & Modality Developers
 

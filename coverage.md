@@ -100,15 +100,15 @@
 
 | # | Company | Coverage | Paper Section | Notes |
 |---|---------|----------|---------------|-------|
-| 53 | Accenture Federal Services | 📋 Brief Mention | A.3 | CM2US operating capability; program management |
-| 54 | Atomic Canyon | 📋 Brief Mention | A.3 | Quantum technology development |
-| 55 | Chemspeed | 📋 Brief Mention | §2.3D, A.3 | Automated chemical synthesis platforms |
-| 56 | Emerald Cloud Lab | 📋 Brief Mention | §2.3D, A.3 | Cloud-based robotic laboratory automation |
-| 57 | Esri | 📋 Brief Mention | A.3 | Geospatial information systems (GIS) |
-| 58 | OLI Systems | 📋 Brief Mention | A.3 | Aqueous chemistry simulation; DOE collaborator |
-| 59 | Qubit | 📋 Brief Mention | A.3 | Quantum computing technology |
-| 60 | RadiaSoft | 📋 Brief Mention | A.3 | Particle accelerator simulation software |
-| 61 | TdVib | 📋 Brief Mention | A.3 | Vibration and dynamics technology |
+| 53 | Accenture Federal Services | ✅ Full Profile | §3.1, A.3 | CM2US operating capability, federal AI systems integration & multi-agency program management |
+| 54 | Atomic Canyon | ✅ Full Profile | §3.1, A.3 | AI-driven nuclear energy research platforms, regulatory document search (NeutronAI) & nuclear knowledge graphs |
+| 55 | Chemspeed | ✅ Full Profile | §2.3D, §3.1, A.3 | Automated chemical synthesis workstation platforms, robotic dispensing & closed-loop AI experimentation |
+| 56 | Emerald Cloud Lab | ✅ Full Profile | §2.3D, §3.1, A.3 | Cloud-based robotic laboratory automation, remote API-driven experiment execution & FAIR datasets |
+| 57 | Esri | ✅ Full Profile | §3.1, A.3 | Enterprise GIS platforms, spatial analytics engines & spatial digital twins for Earth observation |
+| 58 | OLI Systems | ✅ Full Profile | §3.1, A.3 | Thermodynamic chemistry simulation engines, electrolyte modeling & hydrometallurgical extraction solvers |
+| 59 | Qubit | ✅ Full Profile | §3.1, A.3 | Quantum computing control software, pulse-level QPU calibration & hybrid classical-quantum algorithms |
+| 60 | RadiaSoft | ✅ Full Profile | §3.1, A.3 | Open-source particle accelerator simulation software (Sirepo, Radia), cloud GUIs & AI beamline control |
+| 61 | TdVib | ✅ Full Profile | §3.1, A.3 | Smart magnetostrictive materials, Terfenol-D transducers & dynamic vibration suppression for precision instruments |
 
 ---
 
@@ -233,20 +233,20 @@
 
 | Entity Type | Total | ✅ Full | 📋 Brief | ❌ Not Covered |
 |:---|:---:|:---:|:---:|:---:|
-| Industry Partners | 61 | 55 | 6 | 0 |
+| Industry Partners | 61 | 61 | 0 | 0 |
 | Federal Agencies | 9 | 4 | 5 | 0 |
 | National Laboratories | 17 | 13 | 4 | 0 |
 | Universities | 57 | 1 | 56 | 0 |
 | Additional Research Orgs | 4 | 2 | 2 | 0 |
-| **Total** | **148** | **75** | **73** | **0** |
+| **Total** | **148** | **84** | **64** | **0** |
 
 ### By Coverage Level
 
 | Coverage Level | Count | Percentage |
 |:---|:---:|:---:|
-| ✅ Full Profile | 75 | 51% |
-| 📋 Brief Mention | 73 | 49% |
+| ✅ Full Profile | 84 | 57% |
+| 📋 Brief Mention | 64 | 43% |
 | ❌ Not Covered | 0 | 0% |
 | **Total Entities** | **148** | **100%** |
 
-> **Note:** All 148 identified Genesis Mission ecosystem participants have at least table-level or list representation in the research paper. 75 entities have dedicated, detailed technical profiles. No collaborators from the reference list are completely absent from the research paper.
+> **Note:** All 148 identified Genesis Mission ecosystem participants have at least table-level or list representation in the research paper. 84 entities have dedicated, detailed technical profiles. No collaborators from the reference list are completely absent from the research paper.
