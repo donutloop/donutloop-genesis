@@ -37,7 +37,7 @@
 | 15 | LILA | ✅ Full Profile | §3.1, A.3 | Collaborative AI platform for scientific discovery; multi-institutional research hub & agentic workflows |
 | 16 | Meta AI | ✅ Full Profile | §3.1 | Segment Anything & DINO with LBNL |
 | 17 | OpenAI | ✅ Full Profile | §3.1, A.3 | Frontier reasoning LLM agents; OpenAI for Government; DOE MOU & national science collaboration |
-| 18 | Scale AI | 📋 Brief Mention | §3.1 (grouped) | Data annotation; DOE MOU |
+| 18 | Scale AI | ✅ Full Profile | §3.1, A.3 | Scientific data curation engines, synthetic data generation, domain-expert RLHF & DOE MOU |
 
 ---
 
@@ -233,20 +233,20 @@
 
 | Entity Type | Total | ✅ Full | 📋 Brief | ❌ Not Covered |
 |:---|:---:|:---:|:---:|:---:|
-| Industry Partners | 61 | 29 | 32 | 0 |
+| Industry Partners | 61 | 30 | 31 | 0 |
 | Federal Agencies | 9 | 4 | 5 | 0 |
 | National Laboratories | 17 | 13 | 4 | 0 |
 | Universities | 57 | 1 | 56 | 0 |
 | Additional Research Orgs | 4 | 2 | 2 | 0 |
-| **Total** | **148** | **49** | **99** | **0** |
+| **Total** | **148** | **50** | **98** | **0** |
 
 ### By Coverage Level
 
 | Coverage Level | Count | Percentage |
 |:---|:---:|:---:|
-| ✅ Full Profile | 49 | 33% |
-| 📋 Brief Mention | 99 | 67% |
+| ✅ Full Profile | 50 | 34% |
+| 📋 Brief Mention | 98 | 66% |
 | ❌ Not Covered | 0 | 0% |
 | **Total Entities** | **148** | **100%** |
 
-> **Note:** All 148 identified Genesis Mission ecosystem participants have at least table-level or list representation in the research paper. 49 entities have dedicated, detailed technical profiles. No collaborators from the reference list are completely absent from the research paper.
+> **Note:** All 148 identified Genesis Mission ecosystem participants have at least table-level or list representation in the research paper. 50 entities have dedicated, detailed technical profiles. No collaborators from the reference list are completely absent from the research paper.

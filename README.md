@@ -1,4 +1,4 @@
-**Version**: 0.3.3-alpha
+**Version**: 0.3.4-alpha
 
 # The Genesis Mission: Architecture, Strategic Initiatives, and the Multi-Institutional Ecosystem for AI and Quantum-Driven Scientific Discovery
 
@@ -213,7 +213,10 @@ A defining feature of the Genesis Mission is its hybrid operational model unitin
   * **DOE MOU & Anthropic Science Initiative:** Strategic MOU establishing direct access for National Laboratories and federal research teams to Anthropic's frontier AI models and specialized research division (*Anthropic Science*), dedicated to accelerating multi-disciplinary scientific discovery.
   * **Frontier Reasoning Models & AI Co-Scientists:** Deploying Claude and next-generation Claude model architectures optimized for complex logical reasoning, automated literature synthesis, hypothesis generation, mathematical proofs, and code generation for scientific computing pipelines.
   * **Autonomous Workflow & Agentic Execution:** Interfacing Anthropic's agentic execution capabilities and tool-use frameworks with supercomputing environments and automated laboratory control systems, enabling multi-agent collaboration for complex experiment planning and real-time data interpretation.
-* **Scale AI:** Strategic MOU and specialized AI data platform providing data annotation pipelines, synthetic data generation, and enterprise AI data infrastructure for federal research teams.
+* **Scale AI:** Strategic Memorandum of Understanding (MOU) with the U.S. Department of Energy (DOE) to deliver advanced AI data engine infrastructure, high-throughput scientific data curation, and domain-expert fine-tuning pipelines across federal research programs:
+  * **DOE Memorandum of Understanding (MOU):** Partnering with the U.S. Department of Energy to accelerate national scientific AI capabilities by establishing standardized data pipelines and secure curation environments for federal research datasets under the Genesis Mission.
+  * **Scientific Data Curation & Annotation Engines:** Provisioning specialized scientific data engines and expert annotation platforms for domain-specific tasks in structural biology, materials science, nuclear engineering, and particle physics.
+  * **Synthetic Data Generation & Model Evaluation:** Deploying high-throughput synthetic data generation pipelines, automated RLHF/RLAIF feedback loops, and benchmark evaluation suites to validate and refine foundation models deployed across national laboratory HPC networks.
 * **OpenAI:** Strategic partnership and Memorandum of Understanding (MOU) with the U.S. Department of Energy (DOE) to deploy frontier AI reasoning models, advanced inference APIs, and national science initiatives across national laboratories:
   * **DOE MOU & OpenAI for Government:** Strategic agreement (*"Advancing the Next Era of National Science"*) establishing secure access to OpenAI's frontier model suite for researchers across all 17 DOE National Laboratories under federal compliance and security controls.
   * **Frontier Reasoning Models & Scientific Fine-Tuning:** Deploying reasoning-focused model architectures (including o1 and o3 series) optimized for complex mathematical proofs, physics simulations, chemical synthesis planning, and automated HPC code optimization.
@@ -356,7 +359,7 @@ Industry contributors span cloud and AI hyperscalers, semiconductor manufacturer
 | Anthropic | Frontier LLM reasoning agents; Anthropic Science division; automated scientific workflows & agentic execution |
 | OpenAI | Frontier reasoning LLM agents; OpenAI for Government; DOE MOU & national science collaboration |
 | Meta AI | Open models (Segment Anything, DINO) with LBNL imaging pipelines |
-| Scale AI | Data annotation and AI data infrastructure; DOE MOU |
+| Scale AI | Scientific data curation engines, synthetic data generation, domain-expert RLHF & DOE MOU |
 | Hugging Face | Open-source scientific model hosting, FAIR dataset repository, model registry & fine-tuning infrastructure |
 | FutureHouse | AI-driven scientific research automation |
 | LILA | Collaborative AI platform for scientific discovery; multi-institutional research hub & agentic workflows |
