@@ -262,11 +262,13 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
   * [Accelerating Nuclear Energy Deployment with NVIDIA AI](https://inl.gov/news-release/idaho-national-laboratory-to-accelerate-nuclear-energy-deployment-with-nvidia-ai-through-the-genesis-mission/)
   * [Genesis Mission Funds AI Innovation for Nuclear Energy](https://inl.gov/news-release/genesis-mission-funds-ai-innovation-to-speed-up-safe-affordable-nuclear-energy/)
   * [Accelerating Nuclear Energy Projects with AWS Cloud & AI Technologies](https://inl.gov/news-release/idaho-national-laboratory-accelerates-nuclear-energy-projects-with-amazon-web-services-cloud-and-ai-technologies/)
+  * [Project Prometheus: Multi-Institutional AI Framework for Accelerated Nuclear Reactor Licensing](https://inl.gov/news-release/idaho-national-laboratory-leads-project-prometheus-under-genesis-mission/)
 * **Lawrence Livermore National Laboratory (LLNL):** 
   * [Selected to Lead 10 Projects](https://www.llnl.gov/article/54711/llnl-selected-lead-10-projects-under-does-genesis-mission)
   * [Big Ideas Lab Explores How Genesis Mission Aims to Accelerate Discovery](https://www.llnl.gov/article/54421/big-ideas-lab-explores-how-genesis-mission-aims-accelerate-scientific-discovery)
 * **Los Alamos National Laboratory (LANL):** 
   * [DOE Awards Funding to Seven Projects](https://www.lanl.gov/media/news/0722-genesis-mission-funding)
+  * [LANL Awarded Seven Projects Under DOE Genesis Mission](https://www.lanl.gov/newsroom/news-releases/lanl-awarded-seven-projects-under-doe-genesis-mission.php)
   * [LANL Joining the AI Computing Revolution](https://www.lanl.gov/media/news/1124-ai-computing-revolution)
   * [UC AI Summit Coverage](https://www.lanl.gov/media/news/0708-uc-ai-summit)
   * [1663 Magazine: What Next for QUBITS?](https://www.lanl.gov/media/publications/1663/0624-what-next-for-qubits)
@@ -368,6 +370,7 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
 * **University of Michigan:**
   * [Selected for Department of Energy Genesis Mission Initiative](https://news.umich.edu/u-m-selected-for-department-of-energy-genesis-mission-initiative/)
   * [The University Record: U-M Selected for Department of Energy Genesis Mission Initiative](https://record.umich.edu/articles/u-m-selected-for-department-of-energy-genesis-mission-initiative/)
+  * [U-M Researchers to Develop AI Tools for Real-Time 3D X-Ray Imaging Under Genesis Mission](https://news.umich.edu/u-m-researchers-to-develop-ai-tools-for-real-time-3d-xray-imaging-under-genesis-mission/)
 * **University of Minnesota:** [Receives DOE Genesis Mission Funding to Advance AI Breakthroughs](https://twin-cities.umn.edu/news-events/university-minnesota-receives-doe-genesis-mission-funding-advance-ai-breakthroughs)
 * **University of Missouri (Mizzou):**
   * [Mizzou Engineering-Led Team Selected for Inaugural Mission](https://engineering.missouri.edu/2026/mizzou-led-team-selected-for-u-s-department-of-energys-inaugural-genesis-mission/)
