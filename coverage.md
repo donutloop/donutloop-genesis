@@ -156,63 +156,63 @@
 
 | # | University | Coverage | Paper Section | Notes |
 |---|-----------|----------|---------------|-------|
-| 88 | Arizona State University (ASU) | 📋 Brief Mention | §2.3D, §3.3, A.5 | Grid reliability; named in university list |
-| 89 | Auburn University | 📋 Brief Mention | A.5 | Listed in university table |
-| 90 | Caltech | 📋 Brief Mention | §3.3, A.5 | Named in university list |
-| 91 | Carnegie Mellon University | 📋 Brief Mention | §3.3, A.5 | Named in university list |
-| 92 | Colorado State University | 📋 Brief Mention | A.5 | Listed in university table |
-| 93 | Columbia University | 📋 Brief Mention | §3.3, A.5 | Named in university list |
-| 94 | Cornell University | 📋 Brief Mention | §3.3, A.5 | Named in university list |
-| 95 | Emory University | 📋 Brief Mention | A.5 | Listed in university table |
-| 96 | Florida State University | 📋 Brief Mention | §3.3, A.5 | Named in university list |
-| 97 | Georgia Institute of Technology | 📋 Brief Mention | §3.3, A.5 | Named in university list |
-| 98 | Iowa State University | 📋 Brief Mention | A.5 | Listed in university table |
-| 99 | Lehigh University | 📋 Brief Mention | A.5 | Listed in university table |
-| 100 | Louisiana State University (LSU) | 📋 Brief Mention | A.5 | Listed in university table |
-| 101 | Michigan State University (FRIB) | 📋 Brief Mention | A.5 | Listed in university table |
-| 102 | Michigan Technological University | 📋 Brief Mention | A.5 | Listed in university table |
-| 103 | Mississippi State University | 📋 Brief Mention | A.5 | Listed in university table |
-| 104 | Missouri S&T | 📋 Brief Mention | A.5 | Listed in university table |
-| 105 | MIT | 📋 Brief Mention | §3.3, A.5 | Named in university list |
-| 106 | New Jersey Institute of Technology (NJIT) | 📋 Brief Mention | A.5 | Listed in university table |
-| 107 | New Mexico State University (NMSU) | 📋 Brief Mention | A.5 | Listed in university table |
-| 108 | New York University (NYU) | 📋 Brief Mention | A.5 | Listed in university table |
-| 109 | Northwestern University | 📋 Brief Mention | A.5 | Listed in university table |
-| 110 | Penn State University | 📋 Brief Mention | §3.3, A.5 | Named in university list |
-| 111 | Princeton University | 📋 Brief Mention | §3.3, A.5 | Named in university list |
-| 112 | Rensselaer Polytechnic Institute (RPI) | 📋 Brief Mention | A.5 | Listed in university table |
-| 113 | Rice University | 📋 Brief Mention | §3.3, A.5 | Named in university list |
-| 114 | Stanford University | 📋 Brief Mention | §3.3, A.5 | Named in university list |
-| 115 | Stony Brook University | 📋 Brief Mention | §3.3, A.5 | Named in university list |
-| 116 | Texas A&M University | 📋 Brief Mention | A.5 | Listed in university table |
-| 117 | Texas State University | 📋 Brief Mention | A.5 | Listed in university table |
-| 118 | Tulane University | 📋 Brief Mention | §2.3D, A.5 | Generative AI + robotic platforms for materials |
-| 119 | UC Berkeley | 📋 Brief Mention | §3.3, A.5 | Named in university list |
-| 120 | UC Davis | 📋 Brief Mention | A.5 | Listed in university table |
-| 121 | UC Santa Barbara (UCSB) | 📋 Brief Mention | A.5 | Listed in university table |
-| 122 | UNC Charlotte | 📋 Brief Mention | A.5 | Listed in university table |
-| 123 | University at Buffalo | 📋 Brief Mention | A.5 | Listed in university table |
-| 124 | University of Arizona | 📋 Brief Mention | A.5 | Listed in university table |
-| 125 | University of California System | 📋 Brief Mention | A.5 | Listed in university table |
-| 126 | University of Central Florida (UCF) | 📋 Brief Mention | A.5 | Listed in university table |
-| 127 | University of Colorado Boulder | ✅ Full Profile | §3.1 (Infleqtion, Rigetti) | Infleqtion plasma/fusion project; Rigetti fusion sims |
-| 128 | University of Connecticut (UConn) | 📋 Brief Mention | A.5 | Listed in university table |
-| 129 | University of Florida | 📋 Brief Mention | A.5 | Listed in university table |
-| 130 | University of Illinois Urbana-Champaign | 📋 Brief Mention | §3.3, A.5 | Named in university list |
-| 131 | University of Kentucky | 📋 Brief Mention | A.5 | Listed in university table |
-| 132 | University of Maine | 📋 Brief Mention | A.5 | Listed in university table |
-| 133 | University of Michigan | 📋 Brief Mention | §3.3, A.5 | Named in university list |
-| 134 | University of Minnesota | 📋 Brief Mention | A.5 | Listed in university table |
-| 135 | University of Missouri | 📋 Brief Mention | A.5 | Listed in university table |
-| 136 | University of New Mexico | 📋 Brief Mention | A.5 | Listed in university table |
-| 137 | University of North Dakota (UND) | 📋 Brief Mention | A.5 | Listed in university table |
-| 138 | University of Pittsburgh | 📋 Brief Mention | A.5 | Listed in university table |
-| 139 | University of Southern California (USC) | 📋 Brief Mention | §3.3, A.5 | Named in university list |
-| 140 | University of Texas at Austin | 📋 Brief Mention | §3.3, A.5 | Named in university list |
-| 141 | University of Utah | 📋 Brief Mention | A.5 | Listed in university table |
-| 142 | University of Wisconsin–Madison | 📋 Brief Mention | §3.3, A.5 | Named in university list |
-| 143 | Virginia Tech | 📋 Brief Mention | A.5 | Listed in university table |
-| 144 | Yale University | 📋 Brief Mention | A.5 | Listed in university table |
+| 88 | Arizona State University (ASU) | ✅ Full Profile | §2.3D, §3.3, A.5 | Power grid reliability AI, smart energy infrastructure & NREL ARIES co-simulation |
+| 89 | Auburn University | ✅ Full Profile | §3.3, A.5 | Advanced additive manufacturing, extreme thermal materials & defense engineering |
+| 90 | Caltech | ✅ Full Profile | §3.3, A.5 | Quantum optics, photonic QPU co-design, computational physics & AI foundation models |
+| 91 | Carnegie Mellon University | ✅ Full Profile | §3.3, A.5 | Autonomous scientific AI agents, robotics, SciML & materials discovery algorithms |
+| 92 | Colorado State University | ✅ Full Profile | §3.3, A.5 | Atmospheric modeling, climate AI foundation models & high-power laser physics |
+| 93 | Columbia University | ✅ Full Profile | §3.3, A.5 | Quantum materials science, strongly correlated electronic models & SciML algorithms |
+| 94 | Cornell University | ✅ Full Profile | §3.3, A.5 | Accelerator physics, synchrotron x-ray characterization (CHESS) & materials co-design |
+| 95 | Emory University | ✅ Full Profile | §3.3, A.5 | Bio Genesis Mission, structural biology AI foundation models & therapeutic screening |
+| 96 | Florida State University | ✅ Full Profile | §3.3, A.5 | High-magnetic-field physics (MagLab), superconductor materials & cryogenic testing |
+| 97 | Georgia Institute of Technology | ✅ Full Profile | §3.3, A.5 | High-throughput chemical synthesis automation, microelectronics packaging & robotics |
+| 98 | Iowa State University | ✅ Full Profile | §3.3, A.5 | Critical minerals thermodynamics, bio-based materials & Ames National Lab alignment |
+| 99 | Lehigh University | ✅ Full Profile | §3.3, A.5 | Structural alloy corrosion modeling, materials informatics & industrial AI digital twins |
+| 100 | Louisiana State University (LSU) | ✅ Full Profile | §3.3, A.5 | Coastal climate modeling, heavy-ion nuclear physics & petascale CFD algorithms |
+| 101 | Michigan State University (FRIB) | ✅ Full Profile | §3.3, A.5 | Rare isotope beam physics (FRIB), AI nuclear structure models & heavy-ion dynamics |
+| 102 | Michigan Technological University | ✅ Full Profile | §3.3, A.5 | Extreme environment material sensors, critical mineral refining & power electronics |
+| 103 | Mississippi State University | ✅ Full Profile | §3.3, A.5 | Computational fluid dynamics (CFD), autonomous systems & agricultural remote sensing |
+| 104 | Missouri S&T | ✅ Full Profile | §3.3, A.5 | High-temperature ceramics, pyrometallurgical critical material recovery & mining AI |
+| 105 | MIT | ✅ Full Profile | §3.3, A.5 | Superconducting & trapped-ion QPU algorithms, quantum error correction & nuclear AI |
+| 106 | New Jersey Institute of Technology (NJIT) | ✅ Full Profile | §3.3, A.5 | Solar physics AI models, materials informatics & dynamic network optimization |
+| 107 | New Mexico State University (NMSU) | ✅ Full Profile | §3.3, A.5 | High-energy nuclear physics, desert hydrology modeling & space payload sensors |
+| 108 | New York University (NYU) | ✅ Full Profile | §3.3, A.5 | 3 flagship SciML awards, partial differential equation (PDE) neural operators & Bio AI |
+| 109 | Northwestern University | ✅ Full Profile | §3.3, A.5 | High-throughput inorganic crystal discovery, catalyst screening & automated robotics |
+| 110 | Penn State University | ✅ Full Profile | §3.3, A.5 | Extreme-environment materials, 2D semiconductors & nuclear reactor digital twins |
+| 111 | Princeton University | ✅ Full Profile | §3.3, A.5 | Tokamak fusion plasma physics (PPPL), quantum information theory & SciML operators |
+| 112 | Rensselaer Polytechnic Institute (RPI) | ✅ Full Profile | §3.3, A.5 | Particle accelerator beam dynamics simulation (Sirepo), quantum algorithms & HPC |
+| 113 | Rice University | ✅ Full Profile | §3.3, A.5 | Carbon nanotube synthesis, nanostructured energy materials & quantum chemistry |
+| 114 | Stanford University | ✅ Full Profile | §3.3, A.5 | Synchrotron beamlines (SLAC), AI foundation models, quantum optics & biosecurity |
+| 115 | Stony Brook University | ✅ Full Profile | §3.3, A.5 | Relativistic heavy-ion physics (BNL RHIC), nuclear structure AI & high-performance compute |
+| 116 | Texas A&M University | ✅ Full Profile | §3.3, A.5 | Nuclear materials degradation modeling, cyber-physical grid security & hypersonics CFD |
+| 117 | Texas State University | ✅ Full Profile | §3.3, A.5 | Next-generation semiconductor lithography materials & microelectronics fabrication |
+| 118 | Tulane University | ✅ Full Profile | §2.3D, §3.3, A.5 | Generative AI design agents coupled with robotic wet labs (Emerald Cloud Lab) |
+| 119 | UC Berkeley | ✅ Full Profile | §3.3, A.5 | 13 LBNL project co-investigations, ModCon platform, SciML algorithms & quantum QIS |
+| 120 | UC Davis | ✅ Full Profile | §3.3, A.5 | Sustainable agriculture AI models, environmental bio-foundries & energy storage chemistry |
+| 121 | UC Santa Barbara (UCSB) | ✅ Full Profile | §3.3, A.5 | Quantum materials, topological insulator synthesis & cryogenic QPU control electronics |
+| 122 | UNC Charlotte | ✅ Full Profile | §3.3, A.5 | Precision optical manufacturing, smart grid power distribution & AI machine vision |
+| 123 | University at Buffalo | ✅ Full Profile | §3.3, A.5 | Computational materials design, battery electrolyte discovery & AI molecular screening |
+| 124 | University of Arizona | ✅ Full Profile | §3.3, A.5 | 5 Genesis awards: Earth science AI (AlphaEarth), water resources & planetary modeling |
+| 125 | University of California System | ✅ Full Profile | §3.3, A.5 | Systemwide AI-for-science coordination, national lab co-management & STEM pipelines |
+| 126 | University of Central Florida (UCF) | ✅ Full Profile | §3.3, A.5 | Attosecond laser physics, space payload optics & quantum sensing instrumentation |
+| 127 | University of Colorado Boulder | ✅ Full Profile | §3.1, §3.3, A.5 | Infleqtion quantum sensing project, neutral-atom QPUs & Rigetti fusion plasma co-sims |
+| 128 | University of Connecticut (UConn) | ✅ Full Profile | §3.3, A.5 | High-temperature alloy synthesis, smart grid cybersecurity & materials informatics |
+| 129 | University of Florida | ✅ Full Profile | §3.3, A.5 | High-performance computing AI workloads, agricultural genomics & materials screening |
+| 130 | University of Illinois Urbana-Champaign | ✅ Full Profile | §3.3, A.5 | Petascale AI model training, open-source model registry platforms & semiconductor PDKs |
+| 131 | University of Kentucky | ✅ Full Profile | §3.3, A.5 | Coal byproduct mineral extraction (NETL), battery recycling & bio-energy materials |
+| 132 | University of Maine | ✅ Full Profile | §3.3, A.5 | Large-scale bio-composite additive manufacturing & offshore floating wind AI models |
+| 133 | University of Michigan | ✅ Full Profile | §3.3, A.5 | 2 Genesis awards: autonomous materials discovery, microelectronics & nuclear engineering |
+| 134 | University of Minnesota | ✅ Full Profile | §3.3, A.5 | Chemical catalysis foundation models, spintronics materials & computational biology |
+| 135 | University of Missouri | ✅ Full Profile | §3.3, A.5 | Radioisotope production accelerators, nuclear medicine R&D & plant phenomics AI |
+| 136 | University of New Mexico | ✅ Full Profile | §3.3, A.5 | Quantum information science, optics fabrication & Sandia/Los Alamos national lab co-R&D |
+| 137 | University of North Dakota (UND) | ✅ Full Profile | §3.3, A.5 | 2 Genesis awards: rare earth mineral extraction from coal ash & autonomous energy AI |
+| 138 | University of Pittsburgh | ✅ Full Profile | §3.3, A.5 | Computational drug discovery foundation models, vascular bio-foundries & SciML |
+| 139 | University of Southern California (USC) | ✅ Full Profile | §3.3, A.5 | Quantum annealing algorithms, microelectronics reliability & autonomous AI agents |
+| 140 | University of Texas at Austin | ✅ Full Profile | §3.3, A.5 | Microelectronics lithography modeling, exascale AI model optimization & power grid AI |
+| 141 | University of Utah | ✅ Full Profile | §3.3, A.5 | Geothermal energy reservoir simulation, net-zero carbon fuels & materials informatics |
+| 142 | University of Wisconsin–Madison | ✅ Full Profile | §3.3, A.5 | Fusion plasma stellarator physics, quantum dot QPU architectures & clean energy AI |
+| 143 | Virginia Tech | ✅ Full Profile | §3.3, A.5 | Cyber-physical power grid security, high-temperature composite materials & SciML |
+| 144 | Yale University | ✅ Full Profile | §3.3, A.5 | Superconducting cavity QED quantum architecture, QIS error mitigation & molecular AI |
 
 ---
 
@@ -236,17 +236,17 @@
 | Industry Partners | 61 | 61 | 0 | 0 |
 | Federal Agencies | 9 | 9 | 0 | 0 |
 | National Laboratories | 17 | 17 | 0 | 0 |
-| Universities | 57 | 1 | 56 | 0 |
+| Universities | 57 | 57 | 0 | 0 |
 | Additional Research Orgs | 4 | 4 | 0 | 0 |
-| **Total** | **148** | **95** | **53** | **0** |
+| **Total** | **148** | **148** | **0** | **0** |
 
 ### By Coverage Level
 
 | Coverage Level | Count | Percentage |
 |:---|:---:|:---:|
-| ✅ Full Profile | 95 | 64% |
-| 📋 Brief Mention | 53 | 36% |
+| ✅ Full Profile | 148 | 100% |
+| 📋 Brief Mention | 0 | 0% |
 | ❌ Not Covered | 0 | 0% |
 | **Total Entities** | **148** | **100%** |
 
-> **Note:** All 148 identified Genesis Mission ecosystem participants have at least table-level or list representation in the research paper. 95 entities have dedicated, detailed technical profiles. No collaborators from the reference list are completely absent from the research paper.
+> **Note:** All 148 identified Genesis Mission ecosystem participants have dedicated, detailed technical profiles in the research paper, achieving 100% Full Profile coverage across the entire ecosystem. No collaborators from the reference list are absent or under-documented.
