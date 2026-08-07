@@ -116,15 +116,15 @@
 
 | # | Agency | Coverage | Paper Section | Notes |
 |---|--------|----------|---------------|-------|
-| 62 | White House OSTP | ✅ Full Profile | §1 | Executive direction; National S&T Challenges |
-| 63 | U.S. Department of Energy (DOE) — Office of Science | ✅ Full Profile | §1, §2, §3, §4 | Mission lead; DE-FOA-0003612; lab coordination |
-| 64 | U.S. Department of Commerce — NIST / CHIPS R&D | ✅ Full Profile | §1, §2.2, A.1 | CHIPS Act LOI execution; $2B quantum investments |
-| 65 | National Science Foundation (NSF) | ✅ Full Profile | §1, §2.1, A.1 | $83M integrated data systems; workforce development |
-| 66 | National Institutes of Health (NIH) / HHS | 📋 Brief Mention | §1, A.1 | Bio Genesis Mission; biomedical AI |
-| 67 | NASA | 📋 Brief Mention | §1, A.1 | AI-driven discovery for aerospace |
-| 68 | Department of War | 📋 Brief Mention | §1, A.1 | Proliferating AI for dual-use science |
-| 69 | Department of Homeland Security (DHS) — S&T | 📋 Brief Mention | A.1 | Genesis Mission homeland resilience challenges |
-| 70 | Department of the Interior (DOI) | 📋 Brief Mention | A.1 | Scientific leadership in environmental domains |
+| 62 | White House OSTP | ✅ Full Profile | §1, §3.4, A.1 | Executive direction, National S&T Challenge coordination & interagency AI/quantum policy |
+| 63 | U.S. Department of Energy (DOE) — Office of Science | ✅ Full Profile | §1, §2, §3.4, §4, A.1 | Lead funding authority (DE-FOA-0003612), exascale lab network lead & national AI-for-science hub |
+| 64 | U.S. Department of Commerce — NIST / CHIPS R&D | ✅ Full Profile | §1, §2.2, §3.4, A.1 | CHIPS Act LOI execution, $2B quantum semiconductor incentives & NIST measurement standards |
+| 65 | National Science Foundation (NSF) | ✅ Full Profile | §1, §2.1, §3.4, A.1 | $83M integrated data systems, AI Research Institutes & microelectronics workforce development |
+| 66 | National Institutes of Health (NIH) / HHS | ✅ Full Profile | §1, §3.4, A.1 | Bio Genesis Mission co-lead, biomedical AI, structural biology foundation models & therapeutic screening |
+| 67 | NASA | ✅ Full Profile | §1, §3.4, A.1 | AI Earth science foundation models (AlphaEarth), extreme environment materials & space AI payloads |
+| 68 | Department of War | ✅ Full Profile | §1, §3.4, A.1 | Dual-use scientific AI, hypersonics CFD, radiation-hardened microelectronics & defense supply chains |
+| 69 | Department of Homeland Security (DHS) — S&T | ✅ Full Profile | §3.4, A.1 | Critical infrastructure AI digital twins, supply chain threat analytics & smart grid resilience |
+| 70 | Department of the Interior (DOI) | ✅ Full Profile | §3.4, A.1 | USGS critical mineral deposit AI mapping, hydrological modeling & public land clean energy siting |
 
 ---
 
@@ -234,19 +234,19 @@
 | Entity Type | Total | ✅ Full | 📋 Brief | ❌ Not Covered |
 |:---|:---:|:---:|:---:|:---:|
 | Industry Partners | 61 | 61 | 0 | 0 |
-| Federal Agencies | 9 | 4 | 5 | 0 |
+| Federal Agencies | 9 | 9 | 0 | 0 |
 | National Laboratories | 17 | 13 | 4 | 0 |
 | Universities | 57 | 1 | 56 | 0 |
 | Additional Research Orgs | 4 | 2 | 2 | 0 |
-| **Total** | **148** | **84** | **64** | **0** |
+| **Total** | **148** | **89** | **59** | **0** |
 
 ### By Coverage Level
 
 | Coverage Level | Count | Percentage |
 |:---|:---:|:---:|
-| ✅ Full Profile | 84 | 57% |
-| 📋 Brief Mention | 64 | 43% |
+| ✅ Full Profile | 89 | 60% |
+| 📋 Brief Mention | 59 | 40% |
 | ❌ Not Covered | 0 | 0% |
 | **Total Entities** | **148** | **100%** |
 
-> **Note:** All 148 identified Genesis Mission ecosystem participants have at least table-level or list representation in the research paper. 84 entities have dedicated, detailed technical profiles. No collaborators from the reference list are completely absent from the research paper.
+> **Note:** All 148 identified Genesis Mission ecosystem participants have at least table-level or list representation in the research paper. 89 entities have dedicated, detailed technical profiles. No collaborators from the reference list are completely absent from the research paper.

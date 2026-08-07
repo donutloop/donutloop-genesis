@@ -1,4 +1,4 @@
-**Version**: 0.3.9-alpha
+**Version**: 0.3.10-alpha
 
 # The Genesis Mission: Architecture, Strategic Initiatives, and the Multi-Institutional Ecosystem for AI and Quantum-Driven Scientific Discovery
 
@@ -400,6 +400,18 @@ The DOE Office of Science directed funding across primary laboratory nodes:
 ### 3.3 University Research Partners
 Over 40 leading universities were awarded competitive grants under DE-FOA-0003612 and related Genesis solicitations, including Arizona State University, Caltech, Carnegie Mellon University, Columbia, Cornell, Florida State University, Georgia Tech, MIT, Penn State, Princeton, Rice, Stanford, Stony Brook, UC Berkeley, UIUC, University of Michigan, USC, UT Austin, UW–Madison, and Yale. These institutions act as primary academic nodes for theory, algorithmic development, and graduate training.
 
+### 3.4 Federal Agencies & Policy Bodies
+Executive oversight, funding solicitation execution, and interagency alignment across the Genesis Mission are spearheaded by key federal bodies:
+* **White House Office of Science and Technology Policy (OSTP):** Executive direction, interagency coordination, and national Science & Technology priority setting under executive orders for AI and quantum leadership.
+* **U.S. Department of Energy (DOE) — Office of Science:** Primary mission lead and funding authority (solicitation DE-FOA-0003612), orchestrating exascale supercomputing assets, 17 national laboratories, and multi-institutional AI-for-science projects.
+* **U.S. Department of Commerce (DOC) — NIST / CHIPS R&D Office:** Executing CHIPS and Science Act Letters of Intent, managing over $2 Billion in quantum semiconductor manufacturing incentives, and setting national measurement and quantum standards.
+* **National Science Foundation (NSF):** Coordinating $83 Million in integrated data systems and national AI research institutes, driving microelectronics workforce pipelines and academic STEM research grants.
+* **National Institutes of Health (NIH) / HHS:** Co-leading the Bio Genesis Mission initiative, deploying generative AI models and multi-modal foundation models for biomedical discovery, structural biology, and chronic disease therapeutic screening.
+* **National Aeronautics and Space Administration (NASA):** Co-developing AI foundation models for Earth system science (AlphaEarth), planetary climate modeling, extreme environment materials simulation, and autonomous space exploration payloads.
+* **Department of War (U.S. Department of Defense / DOD):** Driving dual-use scientific AI applications, radiation-hardened microelectronics, hypersonics computational fluid dynamics (CFD), and defense-critical materials supply chain resilience under national security directives.
+* **Department of Homeland Security (DHS) — Science & Technology Directorate:** Integrating AI-driven critical infrastructure resilience models, supply chain threat analytics, smart grid cybersecurity protocols, and emergency response optimization systems under federal Genesis resilience challenges.
+* **Department of the Interior (DOI):** Directing scientific AI leadership in critical mineral resource assessment (USGS), watershed and hydrological modeling, public land environmental stewardship, and clean energy siting analytics.
+
 ---
 
 ## 4. Policy, Funding Mechanics, and Strategic Outlook
@@ -440,15 +452,15 @@ The Genesis Mission is distinguished by the breadth of its multi-sector coalitio
 
 | Agency / Body | Primary Genesis Mission Role |
 | :--- | :--- |
-| White House Office of Science and Technology Policy (OSTP) | Executive direction, National Science & Technology Challenges |
-| U.S. Department of Energy (DOE) — Office of Science | Mission lead; funding authority (DE-FOA-0003612); National Laboratory coordination |
-| U.S. Department of Commerce — NIST / CHIPS R&D Office | CHIPS Act LOI execution; $2B quantum manufacturing investments |
-| National Science Foundation (NSF) | $83M integrated data systems; semiconductor workforce development |
-| National Institutes of Health (NIH) / HHS | Bio Genesis Mission; chronic disease and biomedical AI |
-| National Aeronautics and Space Administration (NASA) | AI-driven discovery for aerospace and extreme environments |
-| Department of War | Proliferating AI for dual-use science and national security |
-| Department of Homeland Security (DHS) — S&T | Genesis Mission challenges for homeland resilience |
-| Department of the Interior (DOI) | Scientific leadership in environmental and resource domains |
+| White House Office of Science and Technology Policy (OSTP) | Executive direction, National S&T Challenge coordination & interagency AI/quantum policy |
+| U.S. Department of Energy (DOE) — Office of Science | Lead funding authority (DE-FOA-0003612), exascale lab network lead & national AI-for-science hub |
+| U.S. Department of Commerce — NIST / CHIPS R&D Office | CHIPS Act LOI execution, $2B quantum semiconductor incentives & NIST measurement standards |
+| National Science Foundation (NSF) | $83M integrated data systems, AI Research Institutes & microelectronics workforce development |
+| National Institutes of Health (NIH) / HHS | Bio Genesis Mission co-lead, biomedical AI, structural biology foundation models & therapeutic screening |
+| National Aeronautics and Space Administration (NASA) | AI Earth science foundation models (AlphaEarth), extreme environment materials & space AI payloads |
+| Department of War | Dual-use scientific AI, hypersonics CFD, radiation-hardened microelectronics & defense supply chains |
+| Department of Homeland Security (DHS) — S&T | Critical infrastructure AI digital twins, supply chain threat analytics & smart grid resilience |
+| Department of the Interior (DOI) | USGS critical mineral deposit AI mapping, hydrological modeling & public land clean energy siting |
 
 ### A.2 DOE National Laboratories
 
