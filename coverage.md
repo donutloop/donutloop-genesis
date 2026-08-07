@@ -220,10 +220,10 @@
 
 | # | Organization | Coverage | Paper Section | Notes |
 |---|-------------|----------|---------------|-------|
-| 145 | AI Tennessee Initiative | 📋 Brief Mention | A.5 | Listed under additional academic orgs |
-| 146 | RTI International | 📋 Brief Mention | A.5 | Listed under additional academic orgs |
-| 147 | Cleveland Clinic | ✅ Full Profile | §2.3B, §3.1 (IBM) | ORNL–Cleveland Clinic–IBM FLiBe fusion quantum chemistry |
-| 148 | Johns Hopkins University APL (JHU APL) | ✅ Full Profile | §3.1 (MSFT) | Self-driving materials labs; alloy/superconductor synthesis |
+| 145 | AI Tennessee Initiative | ✅ Full Profile | §3.5, A.5 | Statewide AI research coordination (UT System / ORNL), Frontier exascale AI workforce & AgTech AI |
+| 146 | RTI International | ✅ Full Profile | §3.5, A.5 | Environmental risk AI modeling, carbon capture technology scaling & life-cycle assessment engines |
+| 147 | Cleveland Clinic | ✅ Full Profile | §2.3B, §3.1, §3.5, A.5 | ORNL–Cleveland Clinic–IBM FLiBe fusion quantum chemistry pipeline & biomedical AI discovery |
+| 148 | Johns Hopkins University APL (JHU APL) | ✅ Full Profile | §3.1, §3.5, A.5 | Autonomous self-driving materials synthesis labs (MSFT Discovery partner) & defense alloys |
 
 ---
 
@@ -237,16 +237,16 @@
 | Federal Agencies | 9 | 9 | 0 | 0 |
 | National Laboratories | 17 | 17 | 0 | 0 |
 | Universities | 57 | 1 | 56 | 0 |
-| Additional Research Orgs | 4 | 2 | 2 | 0 |
-| **Total** | **148** | **93** | **55** | **0** |
+| Additional Research Orgs | 4 | 4 | 0 | 0 |
+| **Total** | **148** | **95** | **53** | **0** |
 
 ### By Coverage Level
 
 | Coverage Level | Count | Percentage |
 |:---|:---:|:---:|
-| ✅ Full Profile | 93 | 63% |
-| 📋 Brief Mention | 55 | 37% |
+| ✅ Full Profile | 95 | 64% |
+| 📋 Brief Mention | 53 | 36% |
 | ❌ Not Covered | 0 | 0% |
 | **Total Entities** | **148** | **100%** |
 
-> **Note:** All 148 identified Genesis Mission ecosystem participants have at least table-level or list representation in the research paper. 93 entities have dedicated, detailed technical profiles. No collaborators from the reference list are completely absent from the research paper.
+> **Note:** All 148 identified Genesis Mission ecosystem participants have at least table-level or list representation in the research paper. 95 entities have dedicated, detailed technical profiles. No collaborators from the reference list are completely absent from the research paper.

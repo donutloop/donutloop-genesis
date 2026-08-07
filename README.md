@@ -1,4 +1,4 @@
-**Version**: 0.3.11-alpha
+**Version**: 0.3.12-alpha
 
 # The Genesis Mission: Architecture, Strategic Initiatives, and the Multi-Institutional Ecosystem for AI and Quantum-Driven Scientific Discovery
 
@@ -423,6 +423,13 @@ Executive oversight, funding solicitation execution, and interagency alignment a
 * **Department of Homeland Security (DHS) — Science & Technology Directorate:** Integrating AI-driven critical infrastructure resilience models, supply chain threat analytics, smart grid cybersecurity protocols, and emergency response optimization systems under federal Genesis resilience challenges.
 * **Department of the Interior (DOI):** Directing scientific AI leadership in critical mineral resource assessment (USGS), watershed and hydrological modeling, public land environmental stewardship, and clean energy siting analytics.
 
+### 3.5 Specialized Research & Healthcare Institutions
+Specialized non-profit research institutes and healthcare centers drive cross-disciplinary innovation across the Genesis Mission ecosystem:
+* **Cleveland Clinic:** Co-leading the landmark ORNL–Cleveland Clinic–IBM quantum chemistry pipeline for FLiBe molten salt fusion reactors, while deploying IBM Quantum System One assets for biomedical AI and therapeutic discovery.
+* **Johns Hopkins University Applied Physics Laboratory (JHU APL):** Partnering with Microsoft Discovery and national labs to operate autonomous self-driving synthesis laboratories for high-temperature superconductors and defense-critical alloys.
+* **AI Tennessee Initiative:** Coordinating statewide AI research across the University of Tennessee System and Oak Ridge National Laboratory, leveraging Frontier exascale compute for regional workforce development and smart grid AI.
+* **RTI International:** Provisioning AI-driven environmental risk modeling, techno-economic analysis (TEA) for carbon capture scaling, and life-cycle assessment engines for sustainable materials.
+
 ---
 
 ## 4. Policy, Funding Mechanics, and Strategic Outlook
@@ -626,10 +633,14 @@ Over 40 research universities received competitive awards under DE-FOA-0003612 a
 | University of Wisconsin–Madison | Virginia Tech |
 | Yale University | |
 
-**Additional Academic & Research Organizations:**
-* AI Tennessee Initiative
-* RTI International
-* Cleveland Clinic (medical research partner)
+#### Additional Academic & Research Organizations
+
+| Organization | Primary Genesis Mission Contribution |
+| :--- | :--- |
+| AI Tennessee Initiative | Statewide AI research coordination (UT System / ORNL), Frontier exascale AI workforce development & AgTech AI |
+| RTI International | Environmental risk AI modeling, carbon capture technology scaling, life-cycle assessment & clean energy deployment |
+| Cleveland Clinic | ORNL–Cleveland Clinic–IBM FLiBe fusion quantum chemistry pipeline, quantum health AI & biomedical discovery |
+| Johns Hopkins University APL (JHU APL) | Autonomous self-driving materials synthesis labs (MSFT Discovery partner), extreme environment alloys & defense science |
 
 ---
 
