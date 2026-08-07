@@ -31,7 +31,7 @@
 
 | # | Company | Coverage | Paper Section | Notes |
 |---|---------|----------|---------------|-------|
-| 12 | Anthropic | 📋 Brief Mention | §3.1 (grouped) | Frontier LLM reasoning agents; Anthropic Science |
+| 12 | Anthropic | ✅ Full Profile | §3.1, A.3 | Frontier LLM reasoning agents; Anthropic Science division; automated scientific workflows & agentic execution |
 | 13 | FutureHouse | 📋 Brief Mention | A.3 | AI-driven scientific research automation |
 | 14 | Hugging Face | 📋 Brief Mention | A.3 | Open-source AI model hosting |
 | 15 | LILA | 📋 Brief Mention | A.3 | AI for science collaboration |
@@ -233,20 +233,20 @@
 
 | Entity Type | Total | ✅ Full | 📋 Brief | ❌ Not Covered |
 |:---|:---:|:---:|:---:|:---:|
-| Industry Partners | 61 | 25 | 36 | 0 |
+| Industry Partners | 61 | 26 | 35 | 0 |
 | Federal Agencies | 9 | 4 | 5 | 0 |
 | National Laboratories | 17 | 13 | 4 | 0 |
 | Universities | 57 | 1 | 56 | 0 |
 | Additional Research Orgs | 4 | 2 | 2 | 0 |
-| **Total** | **148** | **45** | **103** | **0** |
+| **Total** | **148** | **46** | **102** | **0** |
 
 ### By Coverage Level
 
 | Coverage Level | Count | Percentage |
 |:---|:---:|:---:|
-| ✅ Full Profile | 45 | 30% |
-| 📋 Brief Mention | 103 | 70% |
+| ✅ Full Profile | 46 | 31% |
+| 📋 Brief Mention | 102 | 69% |
 | ❌ Not Covered | 0 | 0% |
 | **Total Entities** | **148** | **100%** |
 
-> **Note:** All 148 identified Genesis Mission ecosystem participants have at least table-level or list representation in the research paper. 45 entities have dedicated, detailed technical profiles. No collaborators from the reference list are completely absent from the research paper.
+> **Note:** All 148 identified Genesis Mission ecosystem participants have at least table-level or list representation in the research paper. 46 entities have dedicated, detailed technical profiles. No collaborators from the reference list are completely absent from the research paper.
