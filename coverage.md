@@ -60,7 +60,7 @@
 
 | # | Company | Coverage | Paper Section | Notes |
 |---|---------|----------|---------------|-------|
-| 27 | Applied Materials | 📋 Brief Mention | §3.1 (grouped), A.3 | Semiconductor equipment and materials |
+| 27 | Applied Materials | ✅ Full Profile | §3.1, A.3 | Advanced semiconductor wafer fabrication equipment, materials engineering, 3D packaging & quantum material deposition |
 | 28 | AVEVA | 📋 Brief Mention | §3.1 (grouped), A.3 | Industrial software and digital twins |
 | 29 | Collins Aerospace | 📋 Brief Mention | §3.1 (grouped), A.3 | Aerospace microelectronics |
 | 30 | Cornelis Networks | 📋 Brief Mention | A.3 | High-performance fabric networking; DOE partnership |
@@ -233,20 +233,20 @@
 
 | Entity Type | Total | ✅ Full | 📋 Brief | ❌ Not Covered |
 |:---|:---:|:---:|:---:|:---:|
-| Industry Partners | 61 | 31 | 30 | 0 |
+| Industry Partners | 61 | 32 | 29 | 0 |
 | Federal Agencies | 9 | 4 | 5 | 0 |
 | National Laboratories | 17 | 13 | 4 | 0 |
 | Universities | 57 | 1 | 56 | 0 |
 | Additional Research Orgs | 4 | 2 | 2 | 0 |
-| **Total** | **148** | **51** | **97** | **0** |
+| **Total** | **148** | **52** | **96** | **0** |
 
 ### By Coverage Level
 
 | Coverage Level | Count | Percentage |
 |:---|:---:|:---:|
-| ✅ Full Profile | 51 | 34% |
-| 📋 Brief Mention | 97 | 66% |
+| ✅ Full Profile | 52 | 35% |
+| 📋 Brief Mention | 96 | 65% |
 | ❌ Not Covered | 0 | 0% |
 | **Total Entities** | **148** | **100%** |
 
-> **Note:** All 148 identified Genesis Mission ecosystem participants have at least table-level or list representation in the research paper. 51 entities have dedicated, detailed technical profiles. No collaborators from the reference list are completely absent from the research paper.
+> **Note:** All 148 identified Genesis Mission ecosystem participants have at least table-level or list representation in the research paper. 52 entities have dedicated, detailed technical profiles. No collaborators from the reference list are completely absent from the research paper.

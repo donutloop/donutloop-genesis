@@ -1,4 +1,4 @@
-**Version**: 0.3.5-alpha
+**Version**: 0.3.6-alpha
 
 # The Genesis Mission: Architecture, Strategic Initiatives, and the Multi-Institutional Ecosystem for AI and Quantum-Driven Scientific Discovery
 
@@ -245,7 +245,11 @@ A defining feature of the Genesis Mission is its hybrid operational model unitin
 * **SambaNova Systems:** Delivering Reconfigurable Dataflow Architecture (RDA) and high-throughput AI inference systems across DOE National Laboratories and federal research environments:
   * **Reconfigurable Dataflow Units (RDUs):** Provisioning reconfigurable dataflow chip architectures featuring three-tier memory architecture (on-chip SRAM, HBM3, and DDR5) to eliminate memory bandwidth bottlenecks in large-scale scientific LLM inference, multi-modal foundation models, and complex graph analytics.
   * **DOE & National Laboratory Integration:** Partnering with Argonne National Laboratory (ALCF) and national research initiatives to integrate SambaNova Suite and DataScale systems into federated scientific workflows for real-time experimental data analysis and agentic discovery.
-* **Industrial & EDA Partners:** Siemens, Synopsys, Applied Materials, AVEVA, Collins Aerospace, Micron, Nokia, and RTX providing specialized microprocessors, digital twin tooling, and industrial automation.
+* **Applied Materials:** Advanced semiconductor wafer fabrication equipment, materials engineering platforms, and heterogeneous integration packaging infrastructure supporting domestic semiconductor and quantum foundries:
+  * **Semiconductor Materials & Wafer Fabrication Infrastructure:** Provisioning state-of-the-art deposition, etch, ion implantation, and chemical mechanical planarization (CMP) equipment to national laboratory foundries and commercial fab partners for next-generation logic, memory, and AI chip manufacturing.
+  * **Heterogeneous Integration & Advanced Packaging:** Enabling 3D chiplet packaging, silicon interposers, and micro-bump interconnect technologies essential for high-bandwidth memory (HBM3e/HBM4) and high-density AI accelerator co-packaging under CHIPS Act R&D initiatives.
+  * **Atomic-Scale Engineering & Quantum Device Manufacturing:** Partnering with federal R&D facilities and CHIPS Act foundries to engineer atomic-layer materials, superconducting films, and sub-nanometer device features required for scalable quantum dot, trapped-ion, and superconducting quantum processors.
+* **Industrial & EDA Partners:** Siemens, Synopsys, AVEVA, Collins Aerospace, Micron, Nokia, and RTX providing specialized microprocessors, digital twin tooling, and industrial automation.
 * **xLight ($150 Million CHIPS Act Award & Fermilab CRADA):** Advancing next-generation semiconductor lithography through a finalized $150 Million federal incentives award under the CHIPS and Science Act (June 2026) to construct and demonstrate a first-of-its-kind **free-electron laser (FEL)** prototype for **extreme ultraviolet (EUV) lithography** at the **Albany NanoTech Complex** in New York (in partnership with NYCreates). Founded by **Nicholas Kelez**—former Chief Engineer for the Linac Coherent Light Source (LCLS) at SLAC National Accelerator Laboratory—and chaired by former Intel CEO **Pat Gelsinger**, xLight utilizes particle-accelerator-driven FEL technology to generate high-power, coherent, tunable EUV light as an alternative to conventional laser-produced plasma (LPP) sources:
   * **FEL Prototype & Albany NanoTech Deployment:** Constructing a utility-scale FEL system at the Albany NanoTech Complex targeting operational readiness in 2028, with demonstration on existing EUV lithography scanners and first commercial system delivery by 2029.
   * **Higher Power & Multi-Scanner Architecture:** Delivering up to 4× the power of current LPP EUV sources, with a centralized FEL facility capable of powering up to 20 lithography scanners simultaneously—reducing per-wafer cost and increasing manufacturing throughput.
@@ -372,7 +376,7 @@ Industry contributors span cloud and AI hyperscalers, semiconductor manufacturer
 | Organization | Primary Contribution |
 | :--- | :--- |
 | GlobalFoundries | $375M quantum foundry; GF Labs; GlobalShuttle™ MPW; silicon photonics |
-| Applied Materials | Semiconductor equipment and materials |
+| Applied Materials | Advanced semiconductor wafer fabrication equipment, materials engineering, 3D packaging & quantum material deposition |
 | Synopsys | Electronic design automation (EDA) tooling |
 | Siemens | Industrial AI; digital twin infrastructure; DOE Genesis MOU |
 | Micron | Memory and semiconductor technology |
