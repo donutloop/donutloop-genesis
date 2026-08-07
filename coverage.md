@@ -32,7 +32,7 @@
 | # | Company | Coverage | Paper Section | Notes |
 |---|---------|----------|---------------|-------|
 | 12 | Anthropic | ✅ Full Profile | §3.1, A.3 | Frontier LLM reasoning agents; Anthropic Science division; automated scientific workflows & agentic execution |
-| 13 | FutureHouse | 📋 Brief Mention | A.3 | AI-driven scientific research automation |
+| 13 | FutureHouse | ✅ Full Profile | §3.1, A.3 | AI-driven scientific research automation, PaperQA literature agents & autonomous lab tools |
 | 14 | Hugging Face | ✅ Full Profile | §3.1, A.3 | Open-source scientific model hosting, FAIR datasets, model registry & HPC ecosystem integration |
 | 15 | LILA | ✅ Full Profile | §3.1, A.3 | Collaborative AI platform for scientific discovery; multi-institutional research hub & agentic workflows |
 | 16 | Meta AI | ✅ Full Profile | §3.1 | Segment Anything & DINO with LBNL |
@@ -233,20 +233,20 @@
 
 | Entity Type | Total | ✅ Full | 📋 Brief | ❌ Not Covered |
 |:---|:---:|:---:|:---:|:---:|
-| Industry Partners | 61 | 30 | 31 | 0 |
+| Industry Partners | 61 | 31 | 30 | 0 |
 | Federal Agencies | 9 | 4 | 5 | 0 |
 | National Laboratories | 17 | 13 | 4 | 0 |
 | Universities | 57 | 1 | 56 | 0 |
 | Additional Research Orgs | 4 | 2 | 2 | 0 |
-| **Total** | **148** | **50** | **98** | **0** |
+| **Total** | **148** | **51** | **97** | **0** |
 
 ### By Coverage Level
 
 | Coverage Level | Count | Percentage |
 |:---|:---:|:---:|
-| ✅ Full Profile | 50 | 34% |
-| 📋 Brief Mention | 98 | 66% |
+| ✅ Full Profile | 51 | 34% |
+| 📋 Brief Mention | 97 | 66% |
 | ❌ Not Covered | 0 | 0% |
 | **Total Entities** | **148** | **100%** |
 
-> **Note:** All 148 identified Genesis Mission ecosystem participants have at least table-level or list representation in the research paper. 50 entities have dedicated, detailed technical profiles. No collaborators from the reference list are completely absent from the research paper.
+> **Note:** All 148 identified Genesis Mission ecosystem participants have at least table-level or list representation in the research paper. 51 entities have dedicated, detailed technical profiles. No collaborators from the reference list are completely absent from the research paper.

@@ -1,4 +1,4 @@
-**Version**: 0.3.4-alpha
+**Version**: 0.3.5-alpha
 
 # The Genesis Mission: Architecture, Strategic Initiatives, and the Multi-Institutional Ecosystem for AI and Quantum-Driven Scientific Discovery
 
@@ -12,7 +12,7 @@ We organize the analysis around three interdependent pillars. *First*, **Quantum
 
 *Second*, **AI for Science Acceleration**: over $800 million in initial project allocations fund 26 flagship research initiatives across DOE's 17 National Laboratories and more than 40 research universities. Dedicated AI supercomputing platforms—NVIDIA's *Solstice* and *Equinox* (with Argonne and Oracle), AMD's *Lux* (Instinct GPUs, EPYC, Pensando) and planned exascale *Discovery* system (Instinct GPUs), alongside HPE Cray EX exascale architectures (*Frontier*, *Aurora*, *El Capitan*), Dell Technologies high-density PowerEdge liquid-cooled AI factory infrastructure, and SambaNova Systems Reconfigurable Dataflow Architecture (RDU)—provide the heterogeneous accelerator substrate, while NSF's $83 million investment establishes FAIR-compliant data pipelines capable of real-time petabyte-scale ingestion from synchrotrons, particle accelerators, and fusion reactors.
 
-*Third*, **Public-Private-Academic Synergies**: commercial technology partners contribute frontier AI models, cloud infrastructure, and autonomous laboratory frameworks at unprecedented scale. Google DeepMind and Public Sector commit $40 million deploying *Gemini for Government*, *AI Co-Scientist*, *AlphaFold*, *AlphaGenome*, and *AlphaEarth* across all 17 national laboratories. Microsoft invests $60 million through the SPARK coordination hub, *Microsoft Discovery* platform, and *MatterGen*/*MatterSim* foundation models for generative materials science, alongside Majorana-based topological quantum processors. AWS provides $100 million in federal compute credits with post-quantum cryptographic security. Strategic MOUs with Anthropic, OpenAI, Meta AI, Scale AI, Hugging Face, LILA, and Cerebras supply frontier LLM reasoning agents, open scientific models and datasets, open-source model registry platforms, collaborative scientific AI tools, high-throughput data annotation, and wafer-scale AI supercomputing acceleration. Industrial partners—including Siemens, Synopsys, Applied Materials, and NVIDIA (Apollo model family, Omniverse digital twins)—deliver domain-specific simulation engines, EDA tooling, and edge AI for autonomous "self-driving" laboratories. Additionally, xLight secures $150 million under the CHIPS and Science Act to construct a first-of-its-kind free-electron laser (FEL) prototype at the Albany NanoTech Complex for next-generation extreme ultraviolet (EUV) semiconductor lithography—addressing a critical manufacturing bottleneck for the advanced AI chips and quantum control electronics upon which the entire Genesis infrastructure depends.
+*Third*, **Public-Private-Academic Synergies**: commercial technology partners contribute frontier AI models, cloud infrastructure, and autonomous laboratory frameworks at unprecedented scale. Google DeepMind and Public Sector commit $40 million deploying *Gemini for Government*, *AI Co-Scientist*, *AlphaFold*, *AlphaGenome*, and *AlphaEarth* across all 17 national laboratories. Microsoft invests $60 million through the SPARK coordination hub, *Microsoft Discovery* platform, and *MatterGen*/*MatterSim* foundation models for generative materials science, alongside Majorana-based topological quantum processors. AWS provides $100 million in federal compute credits with post-quantum cryptographic security. Strategic MOUs with Anthropic, OpenAI, Meta AI, Scale AI, Hugging Face, FutureHouse, LILA, and Cerebras supply frontier LLM reasoning agents, open scientific models and datasets, open-source model registry platforms, autonomous research assistants, collaborative scientific AI tools, high-throughput data annotation, and wafer-scale AI supercomputing acceleration. Industrial partners—including Siemens, Synopsys, Applied Materials, and NVIDIA (Apollo model family, Omniverse digital twins)—deliver domain-specific simulation engines, EDA tooling, and edge AI for autonomous "self-driving" laboratories. Additionally, xLight secures $150 million under the CHIPS and Science Act to construct a first-of-its-kind free-electron laser (FEL) prototype at the Albany NanoTech Complex for next-generation extreme ultraviolet (EUV) semiconductor lithography—addressing a critical manufacturing bottleneck for the advanced AI chips and quantum control electronics upon which the entire Genesis infrastructure depends.
 
 The scientific domains targeted span high-energy physics (HEP-LHC ATLAS trigger optimization and Monte Carlo acceleration), fusion energy (PPPL AI4Fusion autonomous plasma control; ORNL–Cleveland Clinic–IBM quantum computation of FLiBe tritium breeding materials; Rigetti–LLNL plasma wave simulations), nuclear reactor deployment and autonomous safety licensing (INL), electrical grid resilience and quantum-in-the-loop power simulation (NREL–Atom Computing), critical minerals supply chain optimization, and generative materials discovery via robotic high-throughput synthesis. Taken together, the Genesis Mission establishes a new operational paradigm—**agentic scientific discovery**—in which autonomous AI systems orchestrate quantum processors, exascale supercomputers, and physical laboratory instrumentation within a federated, domestically secured infrastructure. This paper provides a comprehensive reference architecture and strategic roadmap for the convergence of these technologies at national scale.
 
@@ -46,13 +46,13 @@ Managed primarily through the U.S. Department of Energy (DOE) Office of Science,
              |                                                       |
              +---------------------------+---------------------------+
                                          |
-                  +----------------------v-----------------------+
-                  |     PUBLIC-PRIVATE-ACADEMIC CONSORTIUM       |
-                  |  Compute/Hardware (NVIDIA, Oracle, AMD, HPE, Dell, SambaNova) |
-                  |  Cloud (AWS, Google, MSFT, IBM)              |
-                  |  Frontier AI (Anthropic, Meta, OpenAI, Hugging Face, LILA, Scale) |
-                  |  40+ Research Universities                   |
-                  +----------------------------------------------+
+                  +----------------------------------------------------------------------------------+
+                  |                        PUBLIC-PRIVATE-ACADEMIC CONSORTIUM                        |
+                  |  Compute/Hardware (NVIDIA, Oracle, AMD, HPE, Dell, SambaNova)                    |
+                  |  Cloud (AWS, Google, MSFT, IBM)                                                |
+                  |  Frontier AI (Anthropic, Meta, OpenAI, Hugging Face, FutureHouse, LILA, Scale)   |
+                  |  40+ Research Universities                                                     |
+                  +----------------------------------------------------------------------------------+
 ```
 
 ---
@@ -229,6 +229,10 @@ A defining feature of the Genesis Mission is its hybrid operational model unitin
   * **Genesis Mission Partnership & Collaboration Hub:** Formalizing partnership under the Genesis initiative (*"Powering American Science: LILA to Join DOE's Genesis Mission"*) to establish a federated collaboration environment connecting interdisciplinary research groups, national labs, and academic consortia.
   * **AI for Science Collaborative Platform:** Provisioning shared workspace platforms for AI-driven scientific discovery, enabling researchers to seamlessly publish, share, and cross-evaluate domain-specific foundation models, multi-modal lab notes, and automated experimental pipelines.
   * **Agentic Research & Interoperable Workflows:** Interfacing multi-agent research tools and automated scientific synthesis with DOE high-performance supercomputers and cloud backends to accelerate literature ingestion, hypothesis generation, and cross-lab scientific reproducibility.
+* **FutureHouse:** Strategic research partnership and AI-driven scientific automation deployment across national laboratories and academic institutions:
+  * **AI Co-Scientist & Automated Literature Analysis:** Deploying specialized AI scientific agents (including PaperQA and WikiCrow architectures) across national laboratory networks to perform automated literature synthesis, hypothesis generation, and evidence extraction from massive multi-disciplinary research corpora.
+  * **Autonomous Chemistry & Biology Workflows:** Interfacing AI agentic tools (e.g., ChemCrow and bio-automation tools) with automated laboratory instruments and robotics to execute self-driving chemistry and molecular design experiments.
+  * **Open Scientific AI Infrastructure:** Collaborating with DOE and academic research teams to develop open, reproducible benchmarks, agentic reasoning tools, and FAIR-compliant knowledge graphs for automated scientific discovery.
 * **Cerebras:** Strategic Memorandum of Understanding (MOU) with the U.S. Department of Energy (DOE) to accelerate the Genesis Mission using wafer-scale AI supercomputing architecture:
   * **DOE Memorandum of Understanding (MOU):** Partnering with the U.S. Department of Energy to accelerate AI-driven scientific discovery and deploy high-throughput AI inference and training backends across the National Laboratory network.
   * **Wafer-Scale AI Accelerators:** Provisioning wafer-scale systems powered by the Wafer-Scale Engine (WSE) to deliver massive parallel compute memory bandwidth for high-dimensional scientific deep learning, climate modeling, and particle physics simulations.
@@ -361,7 +365,7 @@ Industry contributors span cloud and AI hyperscalers, semiconductor manufacturer
 | Meta AI | Open models (Segment Anything, DINO) with LBNL imaging pipelines |
 | Scale AI | Scientific data curation engines, synthetic data generation, domain-expert RLHF & DOE MOU |
 | Hugging Face | Open-source scientific model hosting, FAIR dataset repository, model registry & fine-tuning infrastructure |
-| FutureHouse | AI-driven scientific research automation |
+| FutureHouse | AI-driven scientific research automation, PaperQA literature agents & autonomous lab tools |
 | LILA | Collaborative AI platform for scientific discovery; multi-institutional research hub & agentic workflows |
 
 #### Semiconductor, EDA & Industrial Partners
