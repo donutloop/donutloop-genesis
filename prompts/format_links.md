@@ -8,6 +8,7 @@ Process all entries from the `WIP` section and integrate them into their correct
 
 ## Execution Rules
 - **Scope:** Process ONLY items currently listed in the `WIP` section. Do NOT add external links, new URLs, or extra data.
+- **Deduplication:** Avoid adding duplicate entries or links; verify against existing entries and within the `WIP` section, as `WIP` is not guaranteed to be duplicate-free.
 - **Structure:** Preserve the existing section hierarchy. Do NOT create, delete, or rename any headers or sections.
 - **Formatting:** Keep the exact formatting style of the target sections. 
 - **Output:** Output ONLY the updated content for `references.md`. Do not include conversational filler, explanations, or meta-commentary.
