@@ -171,274 +171,104 @@ A major thrust of the Genesis Mission relies on industrial AI, robotics, physica
 
 ## 3. Public-Private-Academic Ecosystem
 
-A defining feature of the Genesis Mission is its hybrid operational model uniting government laboratories, commercial technology giants, and elite research universities.
+A defining feature of the Genesis Mission is its multi-sector operational model uniting 148 lead institutional entities across commercial technology giants, national supercomputing laboratories, elite research universities, federal executive agencies, and specialized research institutes.
 
 ```
-                  +-------------------------------------------------+
-                  |          GENESIS MISSION CONSORTIUM             |
-                  +------------------------+------------------------+
-                                           |
-         +---------------------------------+---------------------------------+
-         |                                 |                                 |
-+--------v-------+                +--------v-------+                +--------v-------+
-|  NATIONAL LABS |                |  INDUSTRY &    |                |   ACADEMIC     |
-|   (17 Nodes)   |                |  HYPERSCALERS  |                |  UNIVERSITIES  |
-| LBNL, ANL,     |                | NVIDIA, AWS,   |                | MIT, Stanford, |
-| ORNL, LLNL,    |                | Google, MSFT,  |                | CMU, Princeton,|
-| SNL, PPPL,     |                | IBM, Oracle,   |                | Caltech, Rice, |
-| Fermilab, INL  |                | Anthropic, Meta|                | 40+ Campuses   |
-+----------------+                +----------------+                +----------------+
+                      +-------------------------------------------------------------+
+                      |             GENESIS MISSION MULTI-SECTOR CONSORTIUM         |
+                      |                      (148 Core Flagship Nodes)              |
+                      +------------------------------+------------------------------+
+                                                     |
+             +---------------------------------------+---------------------------------------+
+             |                                       |                                       |
++------------v------------------+   +----------------v------------------+   +----------------v------------------+
+|    NATIONAL LABORATORIES      |   |   INDUSTRY & HYPERSCALERS         |   |    RESEARCH UNIVERSITIES          |
+|      (17 DOE Nodes)           |   |       (61 Entities)               |   |        (57 Campuses)              |
+| ANL, BNL, INL, LBNL, LLNL,    |   | Cloud: AWS, Google, MSFT, Oracle  |   | MIT, Stanford, Harvard, CMU,      |
+| ORNL, PNNL, PPPL, SNL, TJNAF, |   | Compute: NVIDIA, AMD, HPE, Dell   |   | Caltech, Princeton, Yale, UIUC,   |
+| Fermilab, LANL, Ames, etc.    |   | Quantum: IBM, Quantinuum, Atom... |   | Berkeley, Michigan, Rice, etc.    |
++------------+------------------+   +----------------+------------------+   +----------------+------------------+
+             |                                       |                                       |
+             +---------------------------------------+---------------------------------------+
+                                                     |
+             +---------------------------------------+---------------------------------------+
+             |                                                                               |
++------------v----------------------------------+   +----------------------------------------v-----------------+
+|    FEDERAL AGENCIES & POLICY BODIES           |   |    SPECIALIZED INSTITUTES & HEALTHCARE               |
+|            (9 Executive Bodies)               |   |               (4 Specialized Hubs)                       |
+| White House OSTP, DOE, DOC NIST, NSF, NIH/HHS |   | Cleveland Clinic, Johns Hopkins APL,                     |
+| NASA, Dept of War (DOD), DHS S&T, DOI         |   | AI Tennessee Initiative, RTI International               |
++-----------------------------------------------+   +----------------------------------------------------------+
 ```
 
 ### 3.1 Industry, Hyperscale & Hardware Commitments
-* **NVIDIA:** Strategic Memorandum of Understanding (MOU) with the DOE to power AI infrastructure and R&D investments. NVIDIA provides hardware and software foundations across multiple vectors:
-  * **AI Supercomputing:** Partnering with Argonne National Lab and Oracle to build the *Solstice* and *Equinox* AI supercomputers.
-  * **Open Science AI Models:** Co-developing the **NVIDIA Apollo** model family for weather forecasting, computational fluid dynamics (CFD), and structural mechanics.
-  * **Robotics & Digital Twins:** Deploying Omniverse-driven physical AI, edge AI, and autonomous laboratory simulators.
-  * **Quantum Acceleration:** Leveraging GPU-accelerated simulation platforms for quantum circuit emulation and algorithm design.
-* **AMD:** Strategic partnership to accelerate AI-driven scientific leadership across DOE National Laboratories, delivering flagship supercomputers, hardware acceleration, and open software stacks:
-  * **Lux Supercomputer:** In deployment starting 2026 as the first operational computing platform under the Genesis Mission, featuring **AMD Instinct GPUs**, **AMD EPYC CPUs**, and **AMD Pensando** high-speed DPU networking.
-  * **Discovery Exascale System:** Long-term exascale supercomputing platform (planned 2028) featuring **AMD EPYC processors** and **AMD Instinct GPUs** to support high-accuracy scientific simulations and foundation models.
-  * **ROCm & Open Software Stack:** Expanding the open ROCm ecosystem to integrate traditional exascale HPC supercomputing workloads with modern scientific AI tools.
-* **PsiQuantum:** Committing $100 Million in planned federal funding under the CHIPS and Science Act to scale utility-scale photonic quantum computing hardware and domestic semiconductor manufacturing infrastructure:
-  * **PsiFactory & Photonic Quantum Architecture:** Scaling fault-tolerant photonic quantum computing operating at cryogenic single-photon detection regimes, anchored at PsiQuantum's primary domestic semiconductor facility ("PsiFactory") in Milpitas, California.
-  * **Advanced Photonic Components:** Accelerating high-volume fabrication of Barium Titanate (BTO) electro-optic switches, high-temperature single-photon detectors, and ultra-low-loss optical packaging.
-  * **HPC & Quantum Integration:** Interfacing silicon photonic qubit processors with national laboratory supercomputers to enable fault-tolerant quantum algorithms, materials modeling, and complex chemical simulation under the national Quantum Genesis initiative.
-* **Quantinuum:** Committing $100 Million in planned federal funding under the CHIPS and Science Act to address trapped-ion quantum computing scaling bottlenecks and domestic photonic manufacturing infrastructure:
-  * **Trapped-Ion Architecture & Scalable QPU Hardware:** Scaling fault-tolerant trapped-ion quantum processing units capable of high-fidelity gate operations, extended qubit coherence times, and high-density ion trap arrays.
-  * **Integrated Photonics & Specialized Optics:** Developing ultra-low-loss integrated photonics and custom optical delivery hardware tuned to critical trapped-ion laser wavelengths for precision state preparation and readout.
-  * **Onshore Foundry Partnerships:** Partnering with domestic semiconductor and optics foundries—including GlobalFoundries for advanced silicon component fabrication and Monarch Quantum for photonic integration—to establish a secure domestic supply chain for quantum processing hardware.
-  * **Quantum-HPC Co-Design:** Interfacing trapped-ion quantum coprocessors with DOE high-performance supercomputing facilities to enable fault-tolerant quantum simulations in chemistry, quantum physics, and materials discovery under the Genesis Mission framework.
-* **GlobalFoundries:** Committing $375 Million in planned funding under the CHIPS and Science Act and partnering with the U.S. Department of Energy to bridge the gap from research concept to prototype silicon across national laboratories, universities, and industry partners:
-  * **GF Labs R&D & "Lab to Fab" Prototyping Platform:** Spearheading collaboration through GF Labs to provide researchers across the Genesis Mission ecosystem a direct pathway from AI-enabled chip design to physical prototype silicon.
-  * **Design Enablement & GlobalShuttle™ MPW Program:** Opening U.S. commercial manufacturing platform resources by providing Process Design Kits (PDKs), device models, and Multi-Project Wafer (MPW) runs via the GlobalShuttle™ program to accelerate pre-commercial testing and hardware validation.
-  * **Silicon Photonics & Multi-Modality Quantum Foundry:** Fabricating advanced silicon photonics for data centers and specialized microchip components for quantum computing platforms (e.g., trapped-ion QPUs with Quantinuum).
-  * **NSF Semiconductor Workforce Development:** Partnering with NSF and Micron Technology to invest in STEM microelectronics education, faculty professional development, and workforce pathways at Minority-Serving Institutions (MSIs, HBCUs, HSIs, AAPISIs).
-* **Atom Computing:** Committing $100 Million in planned federal funding under the CHIPS and Science Act to scale neutral-atom quantum hardware, system integration, and fault-tolerant utility-scale quantum computing:
-  * **Neutral-Atom QPU Architecture & 1,000+ Qubit Arrays:** Scaling optically trapped neutral atom systems utilizing optical tweezer arrays to manipulate over 1,000 physical qubits (neutral-atom hardware platform), featuring extended coherence times, wireless optical control, and logical qubit capabilities.
-  * **CHIPS Act Engineering Roadmap:** Accelerating parallelized testbeds, custom in-house optical components, and domestic supply chain partnerships to fast-track fault-tolerant quantum processors.
-  * **DARPA QBI & Federal Benchmarking:** Performing on Stage A and Stage B of DARPA's Quantum Benchmarking Initiative (QBI) to demonstrate utility-scale quantum performance for national defense and scientific workloads.
-  * **Grid Optimization & NREL Collaboration:** Partnering with the National Renewable Energy Laboratory (NREL) to integrate neutral-atom quantum processors into the ARIES platform via open-source "quantum-in-the-loop" interfaces for real-time power grid resilience, line switching, and dynamic load optimization.
-* **Diraq:** Committing up to $38 Million in planned federal funding under the CHIPS and Science Act to scale domestic production of fault-tolerant silicon spin quantum processors and CMOS qubit technology:
-  * **Silicon Spin & CMOS Quantum Dot Architecture:** Engineering silicon spin qubits operating within standard 300mm CMOS microchip foundries, enabling dense arrays of millions of control qubits on single silicon dies with sub-dollar (<$1) physical qubit unit economics.
-  * **CHIPS Act Engineering & Supply Chain Roadmap:** Accelerating an end-to-end domestic quantum infrastructure—spanning U.S.-manufactured cryostats, custom silicon spin chips, cryo-CMOS control electronics, and advanced microelectronic packaging.
-  * **DARPA QBI & Data Center Form Factor:** Shortlisted for Stage B of DARPA's Quantum Benchmarking Initiative (QBI), delivering compact, rack-deployable quantum processor units engineered for seamless integration into national high-performance supercomputing data centers.
-  * **GlobalFoundries Manufacturing Partnership:** Partnering with GlobalFoundries to leverage its onshore commercial semiconductor fabrication and cryo-CMOS portfolio under one roof for commercial-scale silicon spin QPU production.
-* **IBM / IBM Quantum:** Committing $1 Billion in planned CHIPS Act funding for domestic quantum wafer fabrication, alongside $50 Million in utility-scale quantum compute access, co-leading Genesis Mission RFA projects, and advancing quantum-centric supercomputing:
-  * **$1 Billion CHIPS Act LOI & Superconducting Quantum Foundry:** Partnering under the CHIPS and Science Act to establish a domestic quantum foundry subsidiary dedicated to fabricating quantum-grade superconducting wafers and integrated cryogenic hardware.
-  * **$50 Million Quantum Compute Access Commitment:** Provisioning utility-scale access over 5 years across DOE National Laboratories and academic collaborators powered by **IBM Quantum Heron** and **IBM Quantum Nighthawk** processors with high uptime across operational systems.
-  * **Genesis Mission RFA Award (Agentic AI for Quantum Application Discovery):** Selected under the DOE Genesis Mission Phase I RFA to lead a project pioneering an *"inverted workflow"*—deploying AI research assistant agents to search scientific literature, match proven quantum algorithms with real-world scientific problems, evaluate criteria, and present reasoning for human expert validation.
-  * **Quantum-Centric Supercomputing Milestones (Fusion Energy & Materials Science):** Collaborating with Oak Ridge National Laboratory (ORNL) and Cleveland Clinic to execute the first-known quantum computations of fusion reactor blanket materials (FLiBe molten salt tritium breeding configurations) by orchestrating AI agents, exascale GPU supercomputers, and IBM quantum processors.
-  * **National Quantum Ecosystem Integration:** Participating as a private sector partner in the Genesis Mission Consortium, collaborating with DOE Quantum Information Science Research Centers, and interfacing with IBM Quantum Innovation Centers at LBNL, ORNL, and LANL.
-* **Infleqtion:** Committing $100 Million in planned federal funding under the CHIPS and Science Act and leading three DOE Genesis Mission Phase I project awards across national laboratories and academic partners:
-  * **Sqale Fault-Tolerant Neutral-Atom QPU Platform:** Engineering scalable neutral-atom quantum hardware leveraging large-scale optical tweezer arrays, high-fidelity two-qubit entangling gates, and advanced laser-control optics.
-  * **Tiqker Optical Atomic Clocks & Atomic Sensing:** Deploying compact, high-precision optical atomic clocks and quantum sensing hardware engineered for rugged, GPS-denied defense and scientific environments.
-  * **Superstaq Quantum Software & Compiler Optimization:** Integrating Superstaq software to optimize quantum circuit execution across national laboratory supercomputing backends.
-  * **DOE Genesis Mission Awards (ANL, BNL, LLNL, CU Boulder):** Executing three Phase I Genesis Mission projects: (1) AI-optimized quantum circuit synthesis for nuclear physics applications with ANL; (2) agentic AI-driven deployable atomic quantum sensing with BNL; and (3) quantum machine learning algorithms for simulating nonlinear plasma dynamics in fusion reactors with LLNL and CU Boulder.
-* **Rigetti Computing:** Committing up to $100 Million in planned federal funding under the CHIPS and Science Act and partnering with DOE National Laboratories on fusion quantum simulations and high-density cryogenic electronics:
-  * **CHIPS Act $100M LOI & Government Equity Stake:** Partnering under the CHIPS and Science Act to fund a three-year R&D roadmap focused on overcoming critical scaling bottlenecks for superconducting quantum computers, featuring government equity participation.
-  * **Ankaa, Novera, and Lyra QPU Architectures:** Scaling tileable superconducting QPUs—spanning the **Ankaa** system, **Novera QPU** testbed, and modular **Lyra** architecture—utilizing 3D interposer chip stacking to bridge multi-chip dies into unified quantum processors with high two-qubit gate fidelity (99.3%+).
-  * **Miniaturized Cryogenic Readout Electronics:** Developing integrated cryogenic readout control electronics operating inside dilution refrigerators to minimize heat load and cable density inside supercomputing cryostats.
-  * **DOE Fusion Energy Quantum Simulations:** Partnering with Lawrence Livermore National Laboratory (LLNL) and the University of Colorado Boulder on DOE-funded projects simulating plasma waves and nonlinear plasma dynamics in nuclear fusion reactors.
-* **D-Wave Quantum:** Committing $100 Million in planned funding to advance quantum annealing and gate-model superconducting architectures. D-Wave provides commercial quantum optimization systems and hybrid quantum-classical solvers to address national challenges in energy grid management, supply chain optimization, and materials synthesis.
+
+#### A. Frontier AI, Cloud & Hyperscale Computing
 * **Amazon Web Services (AWS):** Committing $100 Million in federal credits for scientific research, advanced cloud HPC infrastructure, and post-quantum cryptographic security.
-* **Google Public Sector & DeepMind:** Committing $40 Million in AI tokens, cloud credits, and secure seats across all 17 DOE National Laboratories to deploy enterprise cloud infrastructure and frontier AI models:
-  * **Gemini for Government & Deep Research:** Delivering secure, GSA OneGov Strategy-accredited access to Gemini multimodal reasoning models, enabling autonomous literature synthesis across exabytes of scientific data and federated "Big Team Science" across the DOE complex.
-  * **AI Co-Scientist:** TPU-trained multi-agent virtual scientific collaborator built on Gemini to synthesize literature, formulate hypotheses, and accelerate biomedical/physical discovery (validated in drug repurposing and antimicrobial resistance).
-  * **AlphaEvolve:** Gemini-driven agent for designing advanced algorithms, deployed at Pacific Northwest National Laboratory (PNNL) for complex combinatorics and mathematical systems, as well as optimizing compute workloads.
-  * **Biomolecular & Genomic Models:** Provisioning **AlphaFold** for biomolecular structure/interaction prediction and **AlphaGenome** for non-coding DNA decoding, crop resilience, and sustainable biomaterials.
-  * **Earth & Climate Science:** Providing **WeatherNext** (supporting National Hurricane Center cyclone prediction) and **AlphaEarth Foundations** for high-resolution planetary mapping and environmental monitoring.
-  * **Autonomous Lab Operations:** Integration of Gemini into physical laboratory hardware at the National Laboratory of the Rockies (NLR), cutting electron microscope calibration time by 8x (from 90 to 13 minutes) and reducing manual focus steps from 50 to 2 for self-driving laboratories.
-* **Microsoft:** Committing $60 Million ($40 Million in Azure compute/AI credits over 3 years and $20 Million in solution engineering enablement services) to launch the **Scientific Partnership Advancing Research & Knowledge (SPARK)** program office and coordination hub across the 17 DOE National Laboratories:
-  * **SPARK Program Office & Center of Excellence:** Establishing a central PMO and AI-for-Science Center of Excellence (CoE) to manage intake, rapid sprint check-ins, managed technical services, hackathons, and joint R&D on Genesis-aligned challenge problems.
-  * **Microsoft Discovery Platform & Discovery App:** Provisioning an integrated scientific discovery environment combining autonomous laboratory orchestration, agentic memory, *Discovery Bookshelf* scientific data curation, and multi-hop reasoning over enterprise data assets.
-  * **Foundation Models & AI Materials Science:** Deploying **MatterGen** and **MatterSim** foundation models for generative crystal design and atomistic simulation of structural materials, energy storage media, and superconductors.
-  * **Topological Quantum Acceleration:** Integrating Microsoft Quantum's Majorana-based topological qubit progress (*Majorana* scalable quantum processor) with agentic AI to simulate complex chemical systems and accelerate quantum research.
-  * **National Laboratory & Academic Flagship Projects:**
-    * *Pacific Northwest National Laboratory (PNNL):* Accelerating energy storage material screening timelines from years to weeks and executing autonomous biological laboratory workflows.
-    * *Lawrence Livermore National Laboratory (LLNL):* AI-driven bioinformatics and biosecurity modeling for early detection of biological threats and bioeconomy resilience.
-    * *Johns Hopkins University Applied Physics Laboratory (JHU APL):* Operating AI-enabled autonomous ("self-driving") laboratories for high-throughput synthesis of structural alloys and superconductors.
-    * *Idaho National Laboratory (INL):* Streamlining nuclear energy regulatory permitting and safety analysis documentation, and demonstrating remote autonomous power control of nuclear research reactors via hyperscale cloud.
-* **Oracle:** Provisioning enterprise cloud, high-performance database infrastructure, and scalable compute clusters for DOE national security and clean energy simulations.
+* **Anthropic:** Strategic partnership and Memorandum of Understanding (MOU) with the U.S. Department of Energy (DOE) to deploy frontier LLM reasoning agents, specialized scientific models (*Anthropic Science*), and autonomous workflow orchestration across national laboratory networks.
+* **Cerebras:** Strategic Memorandum of Understanding (MOU) with the U.S. Department of Energy (DOE) to accelerate the Genesis Mission using wafer-scale AI supercomputing architecture powered by the Wafer-Scale Engine (WSE).
+* **Dell Technologies:** Delivering AI factory infrastructure, liquid-cooled enterprise compute, and high-density HPC server solutions (PowerEdge server platforms) for federal scientific discovery platforms.
+* **Google Public Sector & DeepMind:** Committing $40 Million in AI tokens, cloud credits, and secure seats across all 17 DOE National Laboratories to deploy enterprise cloud infrastructure and frontier AI models (**Gemini for Government**, **AI Co-Scientist**, **AlphaEvolve**, **AlphaFold**, **AlphaGenome**, **WeatherNext**, and **AlphaEarth Foundations**), cutting electron microscope calibration time by 8x at NLR.
+* **HPE (Hewlett Packard Enterprise):** Delivering exascale high-performance computing (HPC) infrastructure and liquid-cooled supercomputing architectures (**Frontier**, **Aurora**, **El Capitan**) integrated with Slingshot networking.
+* **Hugging Face:** Strategic partnership and open-science platform integration with the DOE to host, curate, and distribute open-source scientific foundation models, FAIR-compliant datasets, and model execution environments on the Hugging Face Hub.
+* **FutureHouse:** Strategic research partnership deploying AI scientific agents (**PaperQA**, **WikiCrow**, **ChemCrow**) across national laboratories for automated literature analysis and self-driving chemistry/biology workflows.
+* **LILA:** Strategic partnership and collaborative AI platform integration with the DOE to power open AI infrastructure and multi-institutional scientific collaboration across national laboratories and research universities.
 * **Meta AI:** Deep integration of open models (e.g., Segment Anything, DINO) with LBNL imaging and particle diffraction pipelines.
-* **Anthropic:** Strategic partnership and Memorandum of Understanding (MOU) with the U.S. Department of Energy (DOE) to deploy frontier LLM reasoning agents, specialized scientific models, and autonomous workflow orchestration across national laboratory networks:
-  * **DOE MOU & Anthropic Science Initiative:** Strategic MOU establishing direct access for National Laboratories and federal research teams to Anthropic's frontier AI models and specialized research division (*Anthropic Science*), dedicated to accelerating multi-disciplinary scientific discovery.
-  * **Frontier Reasoning Models & AI Co-Scientists:** Deploying Claude and next-generation Claude model architectures optimized for complex logical reasoning, automated literature synthesis, hypothesis generation, mathematical proofs, and code generation for scientific computing pipelines.
-  * **Autonomous Workflow & Agentic Execution:** Interfacing Anthropic's agentic execution capabilities and tool-use frameworks with supercomputing environments and automated laboratory control systems, enabling multi-agent collaboration for complex experiment planning and real-time data interpretation.
-* **Scale AI:** Strategic Memorandum of Understanding (MOU) with the U.S. Department of Energy (DOE) to deliver advanced AI data engine infrastructure, high-throughput scientific data curation, and domain-expert fine-tuning pipelines across federal research programs:
-  * **DOE Memorandum of Understanding (MOU):** Partnering with the U.S. Department of Energy to accelerate national scientific AI capabilities by establishing standardized data pipelines and secure curation environments for federal research datasets under the Genesis Mission.
-  * **Scientific Data Curation & Annotation Engines:** Provisioning specialized scientific data engines and expert annotation platforms for domain-specific tasks in structural biology, materials science, nuclear engineering, and particle physics.
-  * **Synthetic Data Generation & Model Evaluation:** Deploying high-throughput synthetic data generation pipelines, automated RLHF/RLAIF feedback loops, and benchmark evaluation suites to validate and refine foundation models deployed across national laboratory HPC networks.
-* **OpenAI:** Strategic partnership and Memorandum of Understanding (MOU) with the U.S. Department of Energy (DOE) to deploy frontier AI reasoning models, advanced inference APIs, and national science initiatives across national laboratories:
-  * **DOE MOU & OpenAI for Government:** Strategic agreement (*"Advancing the Next Era of National Science"*) establishing secure access to OpenAI's frontier model suite for researchers across all 17 DOE National Laboratories under federal compliance and security controls.
-  * **Frontier Reasoning Models & Scientific Fine-Tuning:** Deploying reasoning-focused model architectures (including o1 and o3 series) optimized for complex mathematical proofs, physics simulations, chemical synthesis planning, and automated HPC code optimization.
-  * **Agentic Workflows & Multi-Modal Execution:** Interfacing OpenAI function calling, multi-agent frameworks, and structured outputs with national lab scientific databases and physical experimental instruments for autonomous workflow orchestration.
-* **Hugging Face:** Strategic partnership and open-science platform integration with the U.S. Department of Energy (DOE) to host, curate, and distribute open-source scientific foundation models, FAIR-compliant datasets, and model execution environments:
-  * **Open Science Model & Dataset Hub:** Establishing dedicated federal and open scientific repositories on the Hugging Face Hub for national laboratory foundation models, fine-tuned domain LLMs, and multi-modal scientific benchmarks across physics, chemistry, and biology.
-  * **FAIR Data & Model Interoperability:** Providing standardized model versioning, dataset card metadata, safetensors model distribution, and automated evaluation pipelines integrated with national laboratory HPC supercomputing grids.
-  * **Open Source AI Ecosystem Infrastructure:** Interfacing Hugging Face Transformers, Accelerate, and TGI (Text Generation Inference) optimization tooling with DOE supercomputing backends (ALCF, LBNL, ORNL) to enable federated open-source scientific AI model deployment and collaborative research.
-* **LILA:** Strategic partnership and collaborative AI platform integration with the U.S. Department of Energy (DOE) to power open AI infrastructure and multi-institutional scientific collaboration across national laboratories and research universities:
-  * **Genesis Mission Partnership & Collaboration Hub:** Formalizing partnership under the Genesis initiative (*"Powering American Science: LILA to Join DOE's Genesis Mission"*) to establish a federated collaboration environment connecting interdisciplinary research groups, national labs, and academic consortia.
-  * **AI for Science Collaborative Platform:** Provisioning shared workspace platforms for AI-driven scientific discovery, enabling researchers to seamlessly publish, share, and cross-evaluate domain-specific foundation models, multi-modal lab notes, and automated experimental pipelines.
-  * **Agentic Research & Interoperable Workflows:** Interfacing multi-agent research tools and automated scientific synthesis with DOE high-performance supercomputers and cloud backends to accelerate literature ingestion, hypothesis generation, and cross-lab scientific reproducibility.
-* **FutureHouse:** Strategic research partnership and AI-driven scientific automation deployment across national laboratories and academic institutions:
-  * **AI Co-Scientist & Automated Literature Analysis:** Deploying specialized AI scientific agents (including PaperQA and WikiCrow architectures) across national laboratory networks to perform automated literature synthesis, hypothesis generation, and evidence extraction from massive multi-disciplinary research corpora.
-  * **Autonomous Chemistry & Biology Workflows:** Interfacing AI agentic tools (e.g., ChemCrow and bio-automation tools) with automated laboratory instruments and robotics to execute self-driving chemistry and molecular design experiments.
-  * **Open Scientific AI Infrastructure:** Collaborating with DOE and academic research teams to develop open, reproducible benchmarks, agentic reasoning tools, and FAIR-compliant knowledge graphs for automated scientific discovery.
-* **Cerebras:** Strategic Memorandum of Understanding (MOU) with the U.S. Department of Energy (DOE) to accelerate the Genesis Mission using wafer-scale AI supercomputing architecture:
-  * **DOE Memorandum of Understanding (MOU):** Partnering with the U.S. Department of Energy to accelerate AI-driven scientific discovery and deploy high-throughput AI inference and training backends across the National Laboratory network.
-  * **Wafer-Scale AI Accelerators:** Provisioning wafer-scale systems powered by the Wafer-Scale Engine (WSE) to deliver massive parallel compute memory bandwidth for high-dimensional scientific deep learning, climate modeling, and particle physics simulations.
-* **HPE (Hewlett Packard Enterprise):** Delivering exascale high-performance computing (HPC) infrastructure and liquid-cooled supercomputing architectures across DOE National Laboratories:
-  * **Exascale Supercomputing Substrate:** Manufacturing and maintaining flagship exascale supercomputing systems—including Frontier (ORNL), Aurora (ANL), and El Capitan (LLNL)—that serve as the foundational physical compute grid for Genesis Mission AI and quantum workflows.
-  * **HPE Cray EX & Slingshot Interconnect:** Provisioning HPE Cray EX supercomputing architecture integrated with high-bandwidth Slingshot networking and direct-to-chip liquid cooling to support high-density AI model training and petabyte-scale scientific simulation.
-* **Dell Technologies:** Delivering AI factory infrastructure, liquid-cooled enterprise compute, and high-density HPC server solutions for federal scientific discovery platforms:
-  * **AI Factory & Liquid-Cooled Infrastructure:** Provisioning Dell AI Factory solutions and direct-to-chip liquid-cooled architectures (including PowerEdge GPU server platforms) to support dense GPU compute clusters and energy-efficient AI supercomputing workloads.
-  * **Enterprise & Federal Scientific Compute Grid:** Partnering across national laboratories and federal research initiatives to deploy high-throughput PowerEdge server clusters, scalable storage substrates, and enterprise AI management stacks for federated scientific simulation and data analytics.
-* **SambaNova Systems:** Delivering Reconfigurable Dataflow Architecture (RDA) and high-throughput AI inference systems across DOE National Laboratories and federal research environments:
-  * **Reconfigurable Dataflow Units (RDUs):** Provisioning reconfigurable dataflow chip architectures featuring three-tier memory architecture (on-chip SRAM, HBM3, and DDR5) to eliminate memory bandwidth bottlenecks in large-scale scientific LLM inference, multi-modal foundation models, and complex graph analytics.
-  * **DOE & National Laboratory Integration:** Partnering with Argonne National Laboratory (ALCF) and national research initiatives to integrate SambaNova Suite and DataScale systems into federated scientific workflows for real-time experimental data analysis and agentic discovery.
-* **Applied Materials:** Advanced semiconductor wafer fabrication equipment, materials engineering platforms, and heterogeneous integration packaging infrastructure supporting domestic semiconductor and quantum foundries:
-  * **Semiconductor Materials & Wafer Fabrication Infrastructure:** Provisioning state-of-the-art deposition, etch, ion implantation, and chemical mechanical planarization (CMP) equipment to national laboratory foundries and commercial fab partners for next-generation logic, memory, and AI chip manufacturing.
-  * **Heterogeneous Integration & Advanced Packaging:** Enabling 3D chiplet packaging, silicon interposers, and micro-bump interconnect technologies essential for high-bandwidth memory (HBM3e/HBM4) and high-density AI accelerator co-packaging under CHIPS Act R&D initiatives.
-  * **Atomic-Scale Engineering & Quantum Device Manufacturing:** Partnering with federal R&D facilities and CHIPS Act foundries to engineer atomic-layer materials, superconducting films, and sub-nanometer device features required for scalable quantum dot, trapped-ion, and superconducting quantum processors.
-* **Siemens:** Industrial AI platforms, digital twin software, and smart infrastructure automation deployed across DOE national laboratories and federal research facilities:
-  * **Industrial AI & Digital Twin Infrastructure:** Provisioning Siemens Xcelerator software suite, industrial edge AI, and physics-based digital twin platforms for DOE clean energy, fusion, and manufacturing facilities.
-  * **DOE Strategic MOU & Smart Grid Automation:** Formalized MOU with the U.S. Department of Energy to deploy AI-driven grid automation, building management, and autonomous industrial control systems.
-  * **Additive Manufacturing & Materials Simulation:** Integrating CAD/CAM/CAE simulation engines with automated synthesis robots across national laboratories to accelerate high-throughput materials discovery.
-* **Synopsys:** Electronic design automation (EDA) software, AI-driven chip design optimization, and semiconductor IP licensing for advanced scientific compute architectures:
-  * **Electronic Design Automation (EDA) Tooling:** Supplying industry-standard EDA software stacks (DSO.ai, Synopsys Custom Compiler, TCAD) for advanced AI chips, TPU/GPU design, and quantum control ASICs.
-  * **AI-Driven Chip Design & TCAD Physics Simulation:** Deploying AI-powered EDA optimization tools and atomic-scale TCAD semiconductor physics solvers across national lab design centers.
-  * **IP Core Licensing & Quantum ASIC Prototyping:** Providing high-speed interface IP (PCIe 6.0, CXL, HBM3e) and silicon-proven design blocks for custom chips developed by DOE research consortia.
-* **AVEVA:** Enterprise industrial software, SCADA integration, and real-time operational telemetry for clean energy and nuclear research facilities:
-  * **Industrial Software & Digital Twin Infrastructure:** Enterprise industrial software platforms, SCADA integration, and predictive asset performance management for DOE clean energy and nuclear research facilities.
-  * **HPC & Real-Time Operational Telemetry:** Interfacing operational technology (OT) data streams with supercomputing digital twin simulations for real-time plant monitoring and anomaly detection.
-  * **Process Simulation & Clean Energy Engineering:** Accelerating thermodynamic modeling, chemical process design, and carbon capture facility optimization in partnership with national laboratories.
-* **Collins Aerospace:** Advanced microelectronics, avionics computing substrates, and extreme-environment sensor systems for aerospace and defense research:
-  * **Aerospace Microelectronics & Extreme Environment Systems:** Radiation-hardened microelectronics, avionics computing substrates, and high-reliability sensors deployed in aerospace and defense research under Genesis.
-  * **Autonomous & Edge AI Computing:** Interfacing edge AI inference hardware with high-altitude and spaceborne observational platforms for real-time atmospheric and magnetospheric data collection.
-  * **Defense & Dual-Use Technology Integration:** Collaborating across DOE and DOD joint research initiatives for thermal management, high-density power electronics, and fault-tolerant system design.
-* **Cornelis Networks:** High-performance fabric interconnect architecture and scale-out networking for exascale supercomputing and AI clusters:
-  * **High-Performance Fabric Interconnect Architecture:** Next-generation Omni-Path (OPX) fabric interconnects providing low-latency, high-bandwidth interconnectivity across DOE supercomputing clusters.
-  * **Exascale Network Optimization & AI Fabrics:** Scaling scale-out fabric topologies for petabyte-scale scientific data movement, real-time sync between GPU clusters, and distributed AI model training backends.
-  * **DOE National Laboratory Deployments:** Partnering with DOE computing facilities to optimize fabric routing, congestion control, and network acceleration for complex HPC and quantum-in-the-loop workflows.
-* **Kitware:** Open-source scientific visualization platforms, in-situ analytics tooling, and FAIR computer vision pipelines:
-  * **Open-Source Scientific Visualization & Data Analysis:** Developers of ParaView, VTK (Visualization Toolkit), and CMake, providing foundational scientific data visualization and software build tools across national labs.
-  * **In-Situ HPC Data Processing & Analytics:** Integrating Catalyst in-situ visualization engines with exascale supercomputers (Frontier, Aurora, El Capitan) to render sub-grid physics and particle simulations in real time.
-  * **FAIR Data Systems & Computer Vision:** Supporting NSF and DOE FAIR data initiatives with open-source computer vision pipelines, multi-modal image analysis, and automated dataset curation platforms.
-* **Micron:** Advanced high-bandwidth memory (HBM3e/HBM4), CXL memory expansion modules, and sub-nanometer semiconductor memory R&D:
-  * **Advanced Memory Architecture & HBM Integration:** Provisioning high-bandwidth memory (HBM3e/HBM4) and low-latency CXL memory expansion modules for exascale AI supercomputing and QPU control electronics.
-  * **Semiconductor Foundry & Material R&D:** Partnering with federal R&D facilities to advance sub-nanometer DRAM cell architectures, non-volatile memory (NVDIMM/CXL), and radiation-tolerant storage for extreme compute environments.
-  * **CHIPS Act Semiconductor Infrastructure:** Supporting domestic memory fabrication facilities and R&D pilot lines co-located with national microelectronics innovation hubs.
-* **New York Creates (NY CREATES):** Leading 300mm public-private semiconductor R&D facility hosting the CHIPS Act EUV Lithography Center and advanced packaging pilot lines:
-  * **Albany NanoTech Complex & Semiconductor Hub:** Operating North America's premier public-private 300mm semiconductor R&D facility, hosting the CHIPS Act EUV Lithography Center and advanced packaging pilot lines.
-  * **Advanced EUV & Sub-Nanometer Prototyping:** Hosting the xLight $150M free-electron laser (FEL) prototype lithography facility and sub-1nm logic prototyping lines in collaboration with leading chipmakers.
-  * **Heterogeneous Integration & Quantum Fabrication:** Providing PDKs, MPW runs, and cleanroom infrastructure for silicon photonics, cryogenic quantum electronics, and 3D chiplet integration.
-* **Nokia (Nokia Bell Labs):** Optical networking backbones, mission-critical 5G/6G wireless infrastructure, and post-quantum security for scientific research grids:
-  * **5G/6G & Optical Networking Infrastructure:** Deploying high-speed optical networking backbones, ultra-low-latency 5G/6G wireless fabrics, and quantum-safe encrypted transport networks connecting national labs.
-  * **Industrial Edge Computing & Autonomous Systems:** Provisioning mission-critical private wireless networks for self-driving laboratories, automated field instruments, and remote environmental monitoring grids.
-  * **Bell Labs Research Collaboration:** Conducting collaborative research with DOE in quantum optical communications, post-quantum cryptography (PQC), and neuromorphic photonics.
-* **RTX (Raytheon Technologies):** Advanced microelectronics, wide-bandgap semiconductors, quantum sensing, and AI-driven defense simulations:
-  * **Advanced Microelectronics & Sensor Systems:** High-power RF microelectronics, wide-bandgap semiconductors (GaN/SiC), and extreme-environment sensors for dual-use national security and scientific applications.
-  * **Directed Energy & Quantum Sensing:** Developing quantum magnetometers, atomic clocks, and high-power directed energy components integrated with national laboratory testing facilities.
-  * **AI-Driven Defense & Aerospace Simulations:** Utilizing DOE supercomputing resources for computational fluid dynamics (CFD), hypersonic flow modeling, and multi-physics material simulations.
-* **Semiconductor Industry Association (SIA):** Microelectronics policy coordination, workforce development, and supply chain alignment across CHIPS Act initiatives:
-  * **Industry Policy & CHIPS Act Ecosystem Coordination:** Uniting domestic semiconductor manufacturers, EDA vendors, and research foundries to align commercial roadmaps with federal Genesis Mission objectives.
-  * **Workforce Development & Academic Alliances:** Driving national workforce initiatives, university fab partnerships, and STEM education pipelines to support domestic microelectronics manufacturing.
-  * **Supply Chain Resilience & Microelectronics Strategy:** Publishing authoritative industry benchmarks, supply chain risk assessments, and R&D policy frameworks for dual-use semiconductor security.
-* **xLight ($150 Million CHIPS Act Award & Fermilab CRADA):** Advancing next-generation semiconductor lithography through a finalized $150 Million federal incentives award under the CHIPS and Science Act (June 2026) to construct and demonstrate a first-of-its-kind **free-electron laser (FEL)** prototype for **extreme ultraviolet (EUV) lithography** at the **Albany NanoTech Complex** in New York (in partnership with NYCreates). Founded by **Nicholas Kelez**—former Chief Engineer for the Linac Coherent Light Source (LCLS) at SLAC National Accelerator Laboratory—and chaired by former Intel CEO **Pat Gelsinger**, xLight utilizes particle-accelerator-driven FEL technology to generate high-power, coherent, tunable EUV light as an alternative to conventional laser-produced plasma (LPP) sources:
-  * **FEL Prototype & Albany NanoTech Deployment:** Constructing a utility-scale FEL system at the Albany NanoTech Complex targeting operational readiness in 2028, with demonstration on existing EUV lithography scanners and first commercial system delivery by 2029.
-  * **Higher Power & Multi-Scanner Architecture:** Delivering up to 4× the power of current LPP EUV sources, with a centralized FEL facility capable of powering up to 20 lithography scanners simultaneously—reducing per-wafer cost and increasing manufacturing throughput.
-  * **Sub-EUV Wavelength Research:** Exploiting the inherent tunability of FEL technology to pioneer research at wavelengths shorter than the standard 13.5 nm, enabling future-generation lithography beyond current EUV limitations.
-  * **Fermilab CRADA & Superconducting Accelerator Technology:** Operating under a Cooperative Research and Development Agreement (CRADA) with Fermi National Accelerator Laboratory to develop superconducting radio-frequency (SRF) cavity technology and AI/ML-based resonance control algorithms for particle accelerators—cross-pollinating accelerator physics expertise with advanced semiconductor manufacturing.
-  * **Genesis Mission Consortium Membership:** Participating as an industry partner in the Genesis Mission Consortium, contributing FEL-based photonics and accelerator engineering expertise to the national AI-for-science discovery infrastructure.
-* **Albemarle:** Advanced lithium extraction, refining technologies, and battery materials R&D supporting national energy storage initiatives:
-  * **Lithium Extraction & Battery Materials R&D:** Advanced lithium extraction, refining technologies, and specialty chemical processing supporting national energy storage and clean energy transitions.
-  * **AI-Driven Chemistry & Flow Sheet Optimization:** Interfacing high-throughput materials discovery platforms and thermodynamic simulation tools with DOE national labs for next-generation solid-state battery electrolytes.
-  * **Critical Minerals Supply Chain Security:** Partnering with federal energy initiatives to secure domestic critical mineral supply chains and refine battery-grade lithium compounds.
-* **ComEd (Commonwealth Edison):** Smart grid integration, quantum-in-the-loop power flow simulation, and urban grid digital twins:
-  * **Grid Integration & Quantum Power Simulation:** Partnering with national laboratories (ANL, NREL) to integrate quantum-in-the-loop power flow simulations and real-time grid telemetry onto regional distribution networks.
-  * **Smart Grid AI & Load Forecasting:** Deploying predictive AI models for renewable integration, grid resilience under extreme weather, and high-density EV charging infrastructure.
-  * **HPC Utility Digital Twins:** Operating high-fidelity operational digital twins of urban grid networks co-simulated on national lab supercomputing backends.
-* **Critical Materials Recycling:** Rare earth element recovery, closed-loop mineral processing, and sustainable e-waste recycling:
-  * **Rare Earth Element Recovery & Recycling:** Advanced hydrometallurgical and pyrometallurgical processing for secondary recovery of rare earth elements (REEs) from electronic waste and industrial scrap.
-  * **Closed-Loop Critical Mineral Processing:** Developing environmentally sustainable, high-yield recycling processes for permanent magnets, lithium-ion batteries, and microelectronics components.
-  * **DOE Critical Materials Institute (CMI) Alignment:** Collaborating with Ames National Laboratory and DOE energy innovation hubs to establish domestic recycling supply chains for strategic materials.
-* **EPRI (Electric Power Research Institute):** Electric power research coordination, AI grid simulation toolkits, and nuclear energy modernization:
-  * **Electric Power Research & Grid Modernization:** Coordinating electric power research across utilities, national labs, and technology vendors to accelerate grid decarbonization and resilience.
-  * **AI & HPC Grid Simulation Frameworks:** Developing open-source power system modeling platforms, fault diagnostic algorithms, and AI grid co-simulation toolkits for exascale computing backends.
-  * **Nuclear Energy & Clean Infrastructure Deployment:** Partnering with INL and nuclear utilities on small modular reactor (SMR) licensing, plant life extension, and autonomous safety monitoring systems.
-* **GE Aerospace:** Advanced aerospace propulsion, high-temperature ceramic matrix composites (CMCs), and exascale combustion CFD:
-  * **Aerospace Energy Systems & Advanced Propulsion:** High-temperature ceramic matrix composites (CMCs), additive manufacturing, and high-efficiency gas turbine propulsion systems.
-  * **HPC Combustion & Computational Fluid Dynamics:** Utilizing DOE supercomputing facilities (Frontier, Aurora) for petascale fluid dynamics and combustion modeling in extreme thermal environments.
-  * **Dual-Use Clean Energy Technologies:** Collaborating with national laboratories on hydrogen-fueled propulsion, hybrid-electric aviation, and extreme-environment materials testing.
-* **ISO New England:** Regional power grid dispatch, dynamic transmission stability, and quantum-safe grid cybersecurity:
-  * **Regional ISO Power Grid Operations:** Operating regional wholesale electricity markets and transmission grids, serving as a primary testing ground for advanced AI grid dispatch.
-  * **Dynamic Grid Stability & Renewable Integration:** Partnering with NREL and PNNL to deploy real-time dynamic line rating, probabilistic load forecasting, and grid inertia co-simulations.
-  * **Cybersecurity & Resilient Grid Architecture:** Integrating federal cybersecurity protocols, zero-trust network architectures, and quantum-safe communications across regional ISO control centers.
-* **MP Materials:** Domestic rare earth mining, NdPr magnet manufacturing, and AI-driven mineral separation:
-  * **Domestic Rare Earth Mining & Processing:** Operating the Mountain Pass rare earth mine and refining facility, supplying light and heavy rare earth oxides (Neodymium, Praseodymium, Dysprosium) for permanent magnets.
-  * **Magnet Manufacturing & Supply Chain Independence:** Establishing domestic magnetics manufacturing capacity for EV traction motors, wind turbines, and defense guidance systems under federal supply chain initiatives.
-  * **AI-Enhanced Mineral Processing & Separation:** Collaborating with DOE national labs (Ames, NETL) to deploy AI-driven solvent extraction and reagent optimization algorithms for high-purity REE separation.
-* **Niron Magnets:** Rare-earth-free permanent magnet production ($Fe_{16}N_2$) and high-throughput materials co-design:
-  * **Clean Earth Magnet Technology & Rare-Earth-Free Magnets:** Manufacturing high-performance Iron Nitride ($Fe_{16}N_2$) permanent magnets, eliminating dependence on critical rare earth elements.
-  * **Domestic Magnetics Fabrication & Scale-Up:** Scaling commercial production of rare-earth-free permanent magnets for electric vehicles, industrial motors, and defense applications under federal energy grants.
-  * **Materials Co-Design & Microstructure Engineering:** Utilizing DOE high-throughput computing and synchrotron beamlines (ANL APS) to optimize atomic-level crystal structures and magnetic coercivity.
-* **Nusano:** Multi-particle linear accelerator platform for high-yield medical and industrial radioisotope production:
-  * **Particle Accelerator-Based Isotope Production:** Operating multi-particle linear accelerator platforms for high-yield production of medical and industrial radioisotopes (e.g., Actinium-225, Lutetium-177).
-  * **Nuclear & Accelerator Physics R&D:** Partnering with national laboratories (LLNL, LANL, BNL) on targetry physics, radio-chemistry automated separation, and high-power beamline engineering.
-  * **Critical Medical Supply Chain Security:** Providing domestic radioisotope supply channels for targeted alpha therapy (TAT) cancer treatments and industrial radiography applications.
-* **Phoenix Tailings:** Zero-waste critical mineral extraction from tailings and low-temperature refining:
-  * **Zero-Waste Critical Minerals Processing:** Sustainable bio-leaching and clean chemical refining platforms to extract critical minerals (nickel, cobalt, REEs) from mining tailings and industrial waste streams.
-  * **Environmentally Clean Refining & Carbon Neutrality:** Eliminating toxic byproducts and carbon emissions from critical mineral refining using proprietary low-temperature chemical processes.
-  * **DOE ARPA-E & Critical Minerals Integration:** Partnering with DOE ARPA-E and national labs to commercialize domestic extraction of strategic materials from secondary mineral reserves.
-* **PMT Critical Metals:** Refractory metals processing, strategic minerals supply chain management, and high-temperature alloy metallurgy:
-  * **Critical Metals & Heavy Minerals Processing:** Refining, processing, and supply chain management of refractory metals, titanium, zirconium, and critical mineral concentrates for defense and clean energy applications.
-  * **Domestic Supply Chain Resilience:** Establishing domestic processing and alloying facilities aligned with federal critical material stockpiling initiatives under CHIPS and Genesis Mission mandates.
-  * **Advanced Metallurgy & Alloy Formulation:** Partnering with national lab materials centers to synthesize high-temperature structural alloys and corrosion-resistant coatings.
-* **Ramaco (Ramaco Resources):** Coal-to-materials manufacturing, synthetic graphite anode production, and REE extraction from carbon deposits:
-  * **Carbon-to-Value & Advanced Coal-Derived Materials:** Pioneering conversion of metallurgical coal reserves into high-value carbon materials, synthetic graphite, carbon fiber, and rare earth element concentrates (Brook Mine deposit).
-  * **DOE NETL Research Collaboration:** Partnering with National Energy Technology Laboratory (NETL) and Oak Ridge National Laboratory to refine carbon-based building blocks and REE extraction methods.
-  * **Domestic Graphite & Battery Anode Materials:** Developing domestic synthetic graphite production lines for lithium-ion battery anodes and nuclear-grade structural carbon.
-* **Tennessee Valley Authority (TVA):** Small modular reactor (SMR) nuclear deployment, public power grid decarbonization, and exascale energy co-simulation:
-  * **Federal Power Utility & Energy Innovation Hub:** Operating the nation's largest public power provider, serving as a flagship demonstration bed for advanced nuclear (SMRs), hydro, and clean energy grid integration.
-  * **Advanced Nuclear Demonstration & Small Modular Reactors:** Partnering with DOE and INL to deploy first-of-a-kind SMR nuclear reactors (Clinch River site) and autonomous reactor management platforms.
-  * **Grid Decarbonization & Regional Energy Resilience:** Co-simulating regional power dynamics, carbon capture integration, and massive energy storage dispatch on national lab HPC supercomputers.
-* **Accenture Federal Services:** CM2US operating capability, federal AI systems integration, and program management across multi-agency Genesis Mission workflows:
-  * **CM2US Operating Capability & Program Management:** Provisioning federal systems integration, CM2US operating capability, and large-scale program management infrastructure across Genesis Mission multi-agency workflows.
-  * **Federal AI Implementation & Workflow Orchestration:** Deploying enterprise AI management frameworks, governance protocols, and secure cloud orchestration platforms for federal laboratory networks.
-  * **Data Governance & Cybersecurity Modernization:** Integrating zero-trust security architectures, federated identity management, and compliance frameworks across multi-institutional research consortia.
-* **Atomic Canyon:** AI-driven nuclear energy research platforms, regulatory document search (NeutronAI), and nuclear knowledge graphs:
-  * **AI-Driven Nuclear Energy & Regulatory Knowledge Graphs:** Developing specialized AI platforms (NeutronAI) for nuclear energy research, automated technical document search, and regulatory compliance indexing across DOE nuclear facilities.
-  * **Oak Ridge & INL Supercomputing Integration:** Partnering with ORNL and INL to train domain-specific nuclear foundation models on exascale compute substrates.
-  * **Nuclear Knowledge Management & Plant Operations:** Structuring decades of nuclear R&D, licensing documents, and operational logs into FAIR-compliant knowledge graphs for next-generation SMR deployment.
-* **Chemspeed Technologies:** Automated chemical synthesis workstation platforms, robotic dispensing, and parallel reaction screening:
-  * **Automated Chemical Synthesis Platforms:** Deploying robotic workstation platforms (SWING, ISYNTH) for high-throughput chemical synthesis, automated liquid/solid dispensing, and parallel reaction optimization across DOE self-driving labs.
-  * **Closed-Loop AI Synthesis Integration:** Interfacing automated synthesis hardware with AI agentic drivers (ChemCrow, PaperQA) and laboratory information management systems (LIMS) for autonomous experiment execution.
-  * **Materials Discovery & Formulations Automation:** Accelerating high-throughput formulation, catalyst screening, and battery electrolyte discovery in partnership with national laboratory materials centers.
-* **Emerald Cloud Lab (ECL):** Cloud-based robotic laboratory infrastructure, remote automated experiment execution, and FAIR experimental datasets:
-  * **Cloud-Based Robotic Laboratory Infrastructure:** Provisioning a fully automated cloud lab platform enabling remote execution of over 200 standard life science and chemistry analytical techniques via code.
-  * **Self-Driving Experimentation & Reproducibility:** Interfacing cloud robotic workflows with foundation models and AI agent platforms for end-to-end, automated experimental design, execution, and data analysis.
-  * **FAIR Data Generation & Federal API Access:** Generating machine-readable, fully metadata-annotated experimental data streams accessible via programmatic APIs across DOE and academic research nodes.
-* **Esri (Environmental Systems Research Institute):** Enterprise GIS platforms, spatial analytics engines, and spatial digital twins for Earth observation:
-  * **Geospatial Information Systems (GIS) & Earth Observation:** Supplying ArcGIS enterprise platforms and spatial analytics engines for multi-modal Earth science, climate modeling, and natural resource monitoring under Genesis.
-  * **AI-Enhanced Spatial Data Pipelines:** Integrating spatial AI algorithms (GeoAI) with national lab climate Foundation Models (AlphaEarth, Earth-2) for high-resolution environmental risk and grid asset mapping.
-  * **Federal Geospatial Infrastructure & Digital Twins:** Co-developing spatial digital twins for critical infrastructure resilience, watershed management, and clean energy site selection in partnership with federal agencies.
-* **OLI Systems:** Thermodynamic chemistry simulation engines, electrolyte modeling, and hydrometallurgical mineral separation solvers:
-  * **Aqueous Chemistry & Electrolyte Simulation:** Developing thermodynamic and electrochemical simulation engines (OLI Engine, OLI Flowsheet ESP) for complex aqueous chemical systems and electrolyte thermodynamics.
-  * **Critical Minerals Extraction & Hydrometallurgy:** Modeling solvent extraction, mineral precipitation, and brine refining thermodynamics to optimize domestic critical material recovery (lithium, REEs).
-  * **DOE National Lab Water-Energy Nexus R&D:** Partnering with NETL, INL, and Ames National Laboratory to integrate thermodynamic chemistry solvers into exascale materials discovery workflows.
-* **Qubit (Qubit Inc.):** Quantum computing hardware control software, pulse-level QPU calibration, and hybrid classical-quantum algorithms:
-  * **Quantum Computing Hardware & Software Control:** Developing quantum computing software stacks, cryogenic QPU control electronics, and quantum algorithm optimization pipelines for research facilities.
-  * **Hybrid Classical-Quantum Algorithm Development:** Partnering with national lab quantum computing user facilities (QPUFs) to implement variational quantum algorithms (VQE, QAOA) for materials science.
-  * **Quantum Control & Calibration Automation:** Deploying automated pulse-level quantum control frameworks and error-mitigation protocols across superconducting and neutral-atom quantum processors.
-* **RadiaSoft:** Open-source particle accelerator beam dynamics simulation software, cloud GUIs (Sirepo), and AI beamline control:
-  * **Particle Accelerator & Beam Dynamics Simulation Software:** Developing open-source beam physics simulation tools (Sirepo, Radia, Impact-T) and cloud-based simulation GUIs for particle accelerator design.
-  * **AI/ML Accelerator Control & Optimization:** Deploying machine learning algorithms for real-time beamline tuning, emittance optimization, and anomaly detection at national light sources (SLAC LCLS, BNL NSLS-II, ANL APS).
-  * **Synchrotron & FEL Simulation Substrates:** Partnering with DOE accelerator facilities to simulate high-brightness electron sources, undulator radiation, and free-electron laser (FEL) beam dynamics.
-* **TdVib (TdVib LLC):** Smart magnetostrictive materials, Terfenol-D transducers, and dynamic vibration suppression for precision instruments:
-  * **Magnetostrictive Transducers & Smart Materials:** Developing advanced smart materials, magnetostrictive transducers (Terfenol-D), and active vibration dampening systems for precision scientific instrumentation.
-  * **Extreme-Environment Sensors & Dynamic Testing:** Provisioning high-precision sensors and dynamic vibration control hardware for particle accelerators, space payload testing, and cryogenic QPUs.
-  * **DOE & DOD Precision Instrumentation R&D:** Partnering with federal R&D facilities to engineer high-power ultrasonic transducers, energy harvesting devices, and precision positioning actuators.
+* **Microsoft:** Committing $60 Million ($40 Million compute credits + $20 Million engineering services) to launch the **SPARK** program office, deploy the **Microsoft Discovery** platform, provision **MatterGen** and **MatterSim** foundation models, and integrate Majorana topological quantum processors across DOE labs.
+* **NVIDIA:** Strategic Memorandum of Understanding (MOU) with the DOE to power AI infrastructure (**Solstice** and **Equinox** at ANL), co-develop the **NVIDIA Apollo** open science model family, deploy **Omniverse** physical AI digital twins, and accelerate quantum circuit emulation.
+* **OpenAI:** Strategic partnership and Memorandum of Understanding (MOU) with the DOE (*"Advancing the Next Era of National Science"*) establishing secure access to OpenAI frontier reasoning models (including o1 and o3 series) and agentic workflows for all 17 national laboratories.
+* **Oracle:** Provisioning enterprise cloud, high-performance database infrastructure, and scalable compute clusters for DOE national security and clean energy simulations.
+* **SambaNova Systems:** Delivering Reconfigurable Dataflow Architecture (RDA) powered by **Reconfigurable Dataflow Units (RDUs)** across national laboratory compute nodes (ALCF) for high-throughput AI inference.
+* **Scale AI:** Strategic Memorandum of Understanding (MOU) with the DOE to deliver advanced AI data engine infrastructure, scientific data curation, synthetic data generation, and domain-expert RLHF fine-tuning pipelines.
+
+#### B. Quantum Developers & Semiconductor Foundries
+* **AMD:** Strategic partnership delivering inaugural operational supercomputer **Lux** (AMD Instinct GPUs, EPYC CPUs, Pensando DPUs) and planned exascale supercomputer **Discovery**, alongside ROCm open software expansion.
+* **Applied Materials:** Advanced semiconductor wafer fabrication equipment, materials engineering platforms, and 3D heterogeneous packaging infrastructure supporting CHIPS Act foundries.
+* **Atom Computing:** Committing $100 Million under the CHIPS Act to scale neutral-atom quantum hardware, manipulate 1,000+ qubit arrays, and co-simulate power grid dynamics with NREL.
+* **Diraq:** Committing up to $38 Million under the CHIPS Act to scale CMOS-native silicon spin quantum dot processors in partnership with GlobalFoundries at sub-dollar per-qubit economics.
+* **D-Wave Quantum:** Committing $100 Million to advance commercial quantum annealing and gate-model superconducting quantum architectures for grid and materials optimization.
+* **GlobalFoundries:** Committing $375 Million under the CHIPS Act and partnering with DOE via **GF Labs** to provide PDKs, GlobalShuttle™ MPW runs, silicon photonics, and custom microchip fabrication for trapped-ion and silicon spin QPUs.
+* **IBM / IBM Quantum:** Committing $1 Billion in CHIPS Act funding for a domestic superconducting quantum foundry, $50 Million in quantum compute access (**Heron** and **Nighthawk** processors), and co-leading Phase I RFA agentic AI quantum discovery awards.
+* **Infleqtion:** Committing $100 Million under the CHIPS Act and executing 3 DOE Genesis awards (**Sqale** neutral-atom QPU platform, **Tiqker** atomic clocks, **Superstaq** optimizing compiler).
+* **PsiQuantum:** Committing $100 Million under the CHIPS Act to construct utility-scale photonic quantum computing hardware anchored at the domestic **PsiFactory** facility in Milpitas, CA.
+* **Quantinuum:** Committing $100 Million under the CHIPS Act to scale fault-tolerant trapped-ion QPUs, integrated optics, and domestic foundry packaging with GlobalFoundries and Monarch Quantum.
+* **Rigetti Computing:** Committing up to $100 Million under the CHIPS Act (with government equity participation) to scale tileable superconducting QPUs (**Ankaa**, **Novera**, **Lyra**) and cryogenic readout electronics.
+* **Siemens:** Industrial AI platforms, Siemens Xcelerator digital twin software, and smart grid automation deployed across DOE clean energy and fusion facilities under a strategic MOU.
+* **Synopsys:** Electronic design automation (EDA) software stacks (DSO.ai, Custom Compiler, TCAD) and IP licensing for advanced AI chips and quantum control ASICs.
+* **xLight:** Finalized $150 Million CHIPS Act award (June 2026) and Fermilab CRADA to construct a first-of-its-kind free-electron laser (FEL) prototype at Albany NanoTech for extreme ultraviolet (EUV) semiconductor lithography.
+
+#### C. Industrial Technology, Energy, Materials & Infrastructure Partners
+* **Accenture Federal Services:** Federal AI systems integration, CM2US operating capability, and program management across multi-agency Genesis Mission workflows.
+* **Albemarle:** Advanced lithium extraction, chemical refining technologies, and battery materials R&D supporting national energy storage initiatives.
+* **Atomic Canyon:** AI-driven nuclear energy research platforms (**NeutronAI**), regulatory document search, and nuclear knowledge graphs for DOE reactor licensing.
+* **AVEVA:** Enterprise industrial software platforms, SCADA integration, and real-time operational telemetry for clean energy and nuclear research facilities.
+* **Chemspeed Technologies:** Automated chemical synthesis workstation platforms (SWING, ISYNTH) and parallel reaction screening for self-driving laboratories.
+* **Collins Aerospace:** Advanced microelectronics, radiation-hardened avionics computing substrates, and extreme-environment sensor systems.
+* **ComEd (Commonwealth Edison):** Smart grid integration, quantum-in-the-loop power flow simulation, and urban grid utility digital twins co-simulated at ANL and NREL.
+* **Cornelis Networks:** High-performance Omni-Path (OPX) fabric interconnect architecture and scale-out networking for exascale supercomputing and AI clusters.
+* **Critical Materials Recycling:** Secondary recovery of rare earth elements (REEs) from e-waste and industrial scrap aligned with DOE Critical Materials Institute goals.
+* **Emerald Cloud Lab (ECL):** Cloud-based robotic laboratory infrastructure enabling remote execution of over 200 analytical chemistry and life science protocols via programmatic APIs.
+* **EPRI (Electric Power Research Institute):** Electric power research coordination, open-source AI grid simulation toolkits, and nuclear energy SMR modernization.
+* **Esri (Environmental Systems Research Institute):** Enterprise ArcGIS platforms, spatial analytics engines (GeoAI), and spatial digital twins for Earth observation under Genesis.
+* **GE Aerospace:** Advanced aerospace propulsion, high-temperature ceramic matrix composites (CMCs), and exascale combustion computational fluid dynamics (CFD).
+* **ISO New England:** Regional power grid dispatch, dynamic transmission stability co-simulations, and quantum-safe grid cybersecurity.
+* **Kitware:** Open-source scientific visualization platforms (ParaView, VTK, CMake) and in-situ analytics engines (Catalyst) for exascale supercomputers.
+* **Micron:** Advanced high-bandwidth memory (HBM3e/HBM4), CXL memory expansion modules, and sub-nanometer semiconductor memory R&D.
+* **MP Materials:** Domestic rare earth mining (Mountain Pass), NdPr magnet manufacturing, and AI-driven mineral separation algorithms.
+* **New York Creates (NY CREATES):** Operating the 300mm Albany NanoTech Complex hosting the CHIPS Act EUV Lithography Center and xLight FEL prototype facility.
+* **Niron Magnets:** Manufacturing rare-earth-free permanent magnets ($Fe_{16}N_2$) and utilizing DOE beamlines for microstructure co-design.
+* **Nokia (Nokia Bell Labs):** Deploying high-speed optical networking backbones, 5G/6G wireless fabrics, and post-quantum cryptographic transport networks.
+* **Nusano:** Multi-particle linear accelerator platform for high-yield medical and industrial radioisotope production (Actinium-225, Lutetium-177).
+* **OLI Systems:** Thermodynamic chemistry simulation engines and electrolyte modeling solvers for critical mineral hydrometallurgical extraction.
+* **Phoenix Tailings:** Zero-waste critical mineral extraction from mining tailings and low-temperature chemical refining.
+* **PMT Critical Metals:** Refractory metals processing, strategic mineral supply chain management, and high-temperature alloy metallurgy.
+* **Qubit (Qubit Inc.):** Quantum computing hardware control software, pulse-level QPU calibration, and hybrid classical-quantum algorithms.
+* **RadiaSoft:** Open-source particle accelerator beam dynamics simulation software (Sirepo, Radia, Impact-T) and AI beamline emittance control.
+* **Ramaco (Ramaco Resources):** Coal-to-materials manufacturing, synthetic graphite anode production, and REE extraction from carbon deposits (Brook Mine).
+* **RTX (Raytheon Technologies):** High-power RF microelectronics, wide-bandgap semiconductors (GaN/SiC), and directed energy quantum sensors.
+* **Semiconductor Industry Association (SIA):** Microelectronics policy coordination, workforce development, and supply chain alignment across CHIPS Act initiatives.
+* **TdVib (TdVib LLC):** Smart magnetostrictive materials (Terfenol-D), active vibration dampening transducers, and precision positioning actuators.
+* **Tennessee Valley Authority (TVA):** Small modular reactor (SMR) nuclear deployment (Clinch River site), public power grid decarbonization, and exascale energy co-simulation.
 
 ### 3.2 National Laboratories
 The DOE Office of Science directed funding across 17 primary national laboratory nodes, serving as federated compute, experimental, and co-design hubs:
