@@ -211,6 +211,7 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
 * [NVIDIA: National Quantum Initiative Alignment and Infrastructure](https://blogs.nvidia.com/blog/national-quantum-initiative/)
 * [NVIDIA: Japan Ecosystem 2026 AI for Science Collaboration](https://blogs.nvidia.com/blog/japan-ecosystem-2026/)
 * [DOE Office of Science: Genesis Mission RFA Awards List (PDF)](https://science.osti.gov/-/media/funding/pdf/Awards-Lists/2026/GM-RFA-Awards-List.pdf)
+* [House Committee on Science, Space, and Technology: Ranking Member Ross Opening Statement at Hearing on the Genesis Mission](https://democrats-science.house.gov/news/press-releases/ranking-member-ross-opening-statement-at-hearing-on-the-genesis-mission)
 * DOE Interactive Portal: [Genesis Mission Official Interactive Demonstration Hub](https://www.energy.gov/genesis-mission-demonstration)
   
 ---
@@ -234,6 +235,7 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
   * [Genesis Mission: National Science Challenges](https://www.anl.gov/genesis-mission/national-challenges)
   * [Argonne Leadership Computing Facility (ALCF): Genesis Mission Platform](https://www.alcf.anl.gov/genesis-mission)
   * [Energy Department Launches Genesis Mission to Transform American Science and Innovation Through AI](https://www.alcf.anl.gov/news/energy-department-launches-genesis-mission-transform-american-science-and-innovation-through)
+  * [SPOTTER: AI Scientific Provenance-Oriented Threat Tracing and Attribution for Genesis Workflows](https://www.anl.gov/genesis-mission/projects/spotter-ai-scientific-provenance-oriented-threat-tracing-and-attribution-for-genesis-workflows)
 * **Berkeley Lab (LBNL):** 
   * [Genesis Mission Hub & Scientific Strategy](https://www.lbl.gov/genesis-mission/)
   * [Genesis Mission Projects Directory](https://www.lbl.gov/genesis-mission-projects/)
@@ -243,6 +245,7 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
   * [ATAP Multi-Office Accelerator Team Using AI](https://atap.lbl.gov/news/the-multi-office-particle-accelerator-team-using-ai-to-enhance-the-capabilities-of-current-and-future-particle-accelerators/)
   * [Takes Major Step Toward Doudna with Delivery of Early Access System, Cech](https://newscenter.lbl.gov/2026/03/17/berkeley-lab-takes-major-step-toward-doudna-with-delivery-of-early-access-system-cech/)
   * [Connecting Data, Computing, and AI for Scientific Discovery](https://newscenter.lbl.gov/2026/08/05/connecting-data-computing-and-ai-for-scientific-discovery/)
+  * [How the Genesis Mission's American Science Cloud Advances Innovation](https://newscenter.lbl.gov/2026/07/15/how-the-genesis-missions-american-science-cloud-advances-innovation/)
 * **Brookhaven National Laboratory (BNL):** 
   * [Genesis Mission Coverage & Research Leadership](https://www.bnl.gov/newsroom/news.php?a=123041)
   * [BNL Highlights Strategic Genesis Mission Projects](https://www.bnl.gov/newsroom/news.php?a=122827)
@@ -273,6 +276,7 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
 * **National Renewable Energy Laboratory (NLR/NREL):** 
   * [Computational Science Genesis Mission Hub](https://www.nlr.gov/computational-science/genesis-mission)
   * [Atom Computing and NREL Explore Quantum Computing for Electric Grid Modeling](https://www.nrel.gov/news/press/2023/nrel-and-atom-computing-explore-quantum-computing-for-electric-grid-modeling.html)
+  * [AI-Driven Research to Strengthen U.S. Grid, Supply Chains, and Technological Leadership](https://www.nlr.gov/news/detail/features/2026/genesis-mission's-ai-driven-research-to-strengthen-us-grid-supply-chains-and-technological-leadership)
 * **Oak Ridge National Laboratory (ORNL):** 
   * [The Genesis Mission & Core Systems at ORNL](https://www.ornl.gov/genesis)
   * [Oak Ridge National Laboratory Portal](https://www.ornl.gov/)
@@ -294,11 +298,14 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
   * [SRNL Genesis Mission Portal](https://www.srnl.gov/genesis-mission/)
   * [SRNL Genesis Mission Hub](https://www.srnl.gov/srnl-genesis-mission/)
   * [SRNL Awarded AI-Powered Cleanup Projects Through DOE's Genesis Mission](https://www.energy.gov/em/articles/srnl-awarded-ai-powered-cleanup-projects-through-does-genesis-mission)
+  * [Supporting Genesis Mission: SRS Center for AI-Accelerated Innovation](https://www.energy.gov/em/articles/supporting-genesis-mission-srs-center-ai-accelerated-innovation)
+  * [SRNL Contributes Key Expertise to DOE's New Genesis Mission](https://www.energy.gov/em/articles/srnl-contributes-key-expertise-does-new-genesis-mission)
 * **SLAC National Accelerator Laboratory:** 
   * [Leading Projects Alongside Stanford](https://news.stanford.edu/stories/2026/07/stanford-and-slac-to-lead-genesis-mission-projects)
   * [SLAC ISDCI Genesis Portal](https://isdci.slac.stanford.edu/genesis)
 ### Universities & Research Institutions
 * **AI Tennessee Initiative:** [About AI Tennessee](https://www.aitennessee.ai/about-ai-tennessee/)
+* **Auburn University:** [Molaei Genesis Mission Research](https://eng.auburn.edu/news/2026/08/molaei-genesis-mission)
 * **Arizona State University (ASU):** [Awarded DOE Genesis Mission Grant for Electrical Grid Reliability](https://news.asu.edu/20260722-science-and-technology-asu-awarded-doe-genesis-mission-grant-electrical-grid-reliability)
 * **Caltech:** [Two Projects Selected for Funding](https://www.caltech.edu/about/news/two-caltech-projects-selected-for-doe-funding-as-part-of-genesis-mission)
 * **Carnegie Mellon University:** [Researchers Lead Three Awards](https://www.cmu.edu/news/stories/archives/2026/july/carnegie-mellon-researchers-lead-three-doe-genesis-mission-awards-to-advance-the-future-of-ai)
@@ -342,12 +349,14 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
 * **Tulane University:** [Team Selected to Discover Next Generation Materials Using AI](https://news.tulane.edu/pr/department-energys-genesis-mission-selects-tulane-team-using-ai-discover-next-generation)
 * **UC Berkeley (College of Chemistry):** [Awarded DOE Genesis Mission Grant](https://chemistry.berkeley.edu/news/uc-berkeley-college-chemistry-awarded-doe-genesis-mission-grant)
 * **UC Davis:** [Researchers Selected for Landmark DOE Genesis Mission Awards](https://www.ucdavis.edu/news/uc-davis-researchers-selected-landmark-doe-genesis-mission-awards-harness-ai-scientific)
+* **UC Santa Barbara (UCSB):** [Two UCSB-Led Projects Selected for DOE's Genesis Mission](https://news.ucsb.edu/2026/022708/two-ucsb-led-projects-selected-does-genesis-mission)
 * **UNC Charlotte:**
   * [Projects Named in First Cohort of DOE Genesis Mission](https://inside.charlotte.edu/2026/07/22/unc-charlotte-projects-named-in-first-cohort-of-u-s-department-of-energy-genesis-mission/)
   * [Projects Join DOE Genesis Mission and Student AI Fellows Put LLMs to Work](https://inside.charlotte.edu/2026/07/27/unc-charlotte-projects-join-the-department-of-energy-genesis-mission-and-student-ai-fellows-put-large-language-models-to-work/)
 * **University at Buffalo:** [Genesis Mission Grants Buffalo AI Research](https://www.buffalo.edu/news/releases/2026/07/genesis-mission-grants-buffalo-AI-research.html)
 * **University of Arizona:** [Department of Energy Selects 5 U of A Research Projects](https://news.arizona.edu/news/department-energy-selects-5-u-research-projects-through-new-ai-science-genesis-mission-awards)
 * **University of California System:** [Partners with DOE to Advance Energy Discovery](https://www.universityofcalifornia.edu/news/university-california-partners-us-department-energy-advance-energy-discovery-and-national)
+* **University of Central Florida (UCF):** [UCF Researcher to Support DOE Project Using AI to Accelerate Scientific Discovery](https://www.ucf.edu/news/ucf-researcher-to-support-doe-project-using-ai-to-accelerate-scientific-discovery/)
 * **University of Colorado Boulder:**
   * [Infleqtion Secures Three Genesis Mission Projects from U.S. DOE](https://www.colorado.edu/venturepartners/2026/07/22/external-news/infleqtion-secures-three-genesis-mission-projects-us-department-energy)
   * [Limited Submission Opportunity: DOE Genesis Mission](https://www.colorado.edu/researchinnovation/node/8528/funding/limited-submission-funding-opportunities/doe-genesis-mission-transforming-science)
@@ -373,7 +382,9 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
   * [Multiple USC-Led Projects Receive Awards to Advance AI](https://today.usc.edu/multiple-usc-led-projects-receive-u-s-department-of-energy-genesis-mission-awards-to-advance-ai/)
   * [USC Stevens Center: USC Leads National AI Research Project](https://stevens.usc.edu/news/genesis-mission-usc-leads-national-ai-research-project-to-accelerate-scientific-discovery/)
 * **University of Texas at Austin:** [Awards Funding to 5 UT Research Projects](https://news.utexas.edu/2026/07/22/department-of-energys-new-ai-for-science-genesis-mission-awards-funding-to-5-ut-research-projects/)
-* **University of Utah:** [Selected for Multiple DOE Genesis Mission Awards](https://www.research.utah.edu/research-impact/university-of-utah-selected-for-multiple-u-s-department-of-energy-genesis-mission-awards/)
+* **University of Utah:**
+  * [Selected for Multiple DOE Genesis Mission Awards](https://www.research.utah.edu/research-impact/university-of-utah-selected-for-multiple-u-s-department-of-energy-genesis-mission-awards/)
+  * [Genesis Mission: A Major New DOE Initiative to Watch](https://www.research.utah.edu/funding-item/genesis-mission-a-major-new-doe-initiative-to-watch/)
 * **University of Wisconsin–Madison:** [5 Projects Receive Funding](https://news.wisc.edu/5-projects-at-uwmadison-aimed-at-transforming-science-and-energy-with-ai-receive-doe-genesis-mission-funding/)
 * **Virginia Tech:** [Research Projects Selected for Genesis Mission](https://news.vt.edu/articles/2026/07/research-genesis-mission.html)
 * **Yale University:** [Researchers Receive Awards to Pursue AI Advances](https://news.yale.edu/2026/07/22/yale-researchers-receive-genesis-mission-awards-pursue-ai-advances)
@@ -394,76 +405,3 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
 * [DOE Office of Science: DE-FOA-0003612 Amendment 000003 (PDF)](https://science.osti.gov/-/media/grants/pdf/foas/2026/DE-FOA-0003612-000003.pdf)
 * [DOE Office of Science (SCAC): DOE Genesis Mission Launched Presentation (PDF)](https://science.osti.gov/-/media/About/pdf/scac/meetings/2026/DOE-Genesis-Mission-Launched---2026-03-27.pdf)
 * [OSTP: OSTP Genesis Mission Science and Technology Challenges Document](https://www.energy.gov/documents/ostp-genesis-mission-science-and-technology-challenges)
-
-wip:
-
-https://eng.auburn.edu/news/2026/08/molaei-genesis-mission
-
-https://www.ucf.edu/news/ucf-researcher-to-support-doe-project-using-ai-to-accelerate-scientific-discovery/
-
-https://newscenter.lbl.gov/2026/07/15/how-the-genesis-missions-american-science-cloud-advances-innovation/
-
-https://www.anl.gov/genesis-mission/projects/spotter-ai-scientific-provenance-oriented-threat-tracing-and-attribution-for-genesis-workflows
-
-https://deepmind.google/blog/google-deepmind-supports-us-department-of-energy-on-genesis/
-
-https://www.psu.edu/news/research/story/penn-state-scientists-lead-three-genesis-mission-projects
-
-https://www.mtu.edu/news/2026/07/michigan-tech-atmospheric-scientists-linked-to-three-research-projects-selected-for-doe-genesis-mission.html
-
-https://news.ucsb.edu/2026/022708/two-ucsb-led-projects-selected-does-genesis-mission
-
-
-https://news.ufl.edu/2026/07/genesis-mission-grant/
-
-https://news.rice.edu/news/2026/rice-researchers-earn-2-doe-genesis-mission-awards
-
-https://source.colostate.edu/csu-researchers-selected-for-two-highly-competitive-department-of-energy-genesis-mission-projects/
-
-https://news.mst.edu/research/st-researchers-earn-doe-genesis-mission-award/
-
-https://www.cmu.edu/news/stories/archives/2026/july/carnegie-mellon-researchers-lead-three-doe-genesis-mission-awards-to-advance-the-future-of-ai
-
-https://www.lanl.gov/media/news/1124-ai-computing-revolution
-
-https://news.illinois.edu/illinois-led-team-selected-for-doe-genesis-mission-award/
-
-https://www.energy.gov/em/articles/supporting-genesis-mission-srs-center-ai-accelerated-innovation
-
-https://umaine.edu/news/2026/07/umaine-led-team-selected-for-inaugural-doe-genesis-mission-to-advance-ai-in-underground-science/
-
-https://news.columbia.edu/news/columbia-university-projects-receive-genesis-mission-funding
-
-https://news.fnal.gov/2026/03/fermilab-drives-progress-for-national-ai-genesis-mission/
-
-https://today.usc.edu/multiple-usc-led-projects-receive-u-s-department-of-energy-genesis-mission-awards-to-advance-ai/
-
-https://www.nlr.gov/news/detail/features/2026/genesis-mission's-ai-driven-research-to-strengthen-us-grid-supply-chains-and-technological-leadership
-
-https://www.amd.com/en/blogs/2025/amd-powers-the-united-states--genesis-mission-to-advance-ai-enab.html
-
-https://news.emory.edu/stories/2026/07/emory-scientists-selected-us-genesis-mission-awards-speed-discovery-through-ai
-
-https://news.fnal.gov/2026/06/fermilab-storage-infrastructure-enables-ai-driven-scientific-and-research-discovery-for-does-genesis-mission/
-
-https://news.fnal.gov/2025/11/u-s-department-of-energy-launches-genesis-mission-to-transform-american-science-and-innovation-through-the-ai-computing-revolution/
-
-https://newsreleases.sandia.gov/sandia-selected-to-lead-six-genesis-mission-projects-partner-on-17-others/
-
-https://newsroom.accenture.com/news/2025/accenture-partners-with-u-s-department-of-energy-to-support-groundbreaking-genesis-mission-program
-
-https://blogs.nvidia.com/blog/nvidia-us-government-to-boost-ai-infrastructure-and-rd-investments/
-
-https://www.anl.gov/article/energy-department-launches-genesis-mission-to-transform-american-science-and-innovation-through-the
-
-https://openai.com/index/us-department-of-energy-collaboration/
-
-https://www.anl.gov/article/argonne-receives-doe-funding-to-advance-ai-for-science
-
-https://www.anl.gov/article/argonne-partners-with-riken-fujitsu-and-nvidia-to-advance-ai-for-science-and-nextgeneration
-
-https://www.energy.gov/em/articles/srnl-contributes-key-expertise-does-new-genesis-mission
-
-https://democrats-science.house.gov/news/press-releases/ranking-member-ross-opening-statement-at-hearing-on-the-genesis-mission
-
-https://www.research.utah.edu/funding-item/genesis-mission-a-major-new-doe-initiative-to-watch/

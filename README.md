@@ -415,30 +415,35 @@ Over 40 research universities received competitive awards under DE-FOA-0003612 a
 
 | Institution | Institution |
 | :--- | :--- |
-| Arizona State University (ASU) | Caltech |
-| Carnegie Mellon University | Colorado State University |
-| Columbia University | Cornell University |
-| Emory University | Florida State University |
-| Georgia Institute of Technology | Iowa State University |
-| Lehigh University | Louisiana State University (LSU) |
-| Michigan State University (FRIB) | Michigan Technological University |
-| Mississippi State University | Missouri S&T |
-| MIT | New Jersey Institute of Technology (NJIT) |
-| New Mexico State University (NMSU) | Northwestern University |
+| Arizona State University (ASU) | Auburn University |
+| Caltech | Carnegie Mellon University |
+| Colorado State University | Columbia University |
+| Cornell University | Emory University |
+| Florida State University | Georgia Institute of Technology |
+| Iowa State University | Lehigh University |
+| Louisiana State University (LSU) | Michigan State University (FRIB) |
+| Michigan Technological University | Mississippi State University |
+| Missouri S&T | MIT |
+| New Jersey Institute of Technology (NJIT) | New Mexico State University (NMSU) |
+| New York University (NYU) | Northwestern University |
 | Penn State University | Princeton University |
-| Rice University | Stanford University |
-| Stony Brook University | Texas A&M University |
-| Texas State University | Tulane University |
-| UC Berkeley | UNC Charlotte |
-| University at Buffalo | University of Arizona |
-| University of California System | University of Colorado Boulder |
-| University of Florida | University of Illinois Urbana-Champaign |
-| University of Kentucky | University of Maine |
-| University of Michigan | University of Missouri |
-| University of New Mexico | University of Pittsburgh |
-| University of Southern California (USC) | University of Texas at Austin |
-| University of Utah | University of Wisconsin–Madison |
-| Virginia Tech | Yale University |
+| Rensselaer Polytechnic Institute (RPI) | Rice University |
+| Stanford University | Stony Brook University |
+| Texas A&M University | Texas State University |
+| Tulane University | UC Berkeley |
+| UC Davis | UC Santa Barbara (UCSB) |
+| UNC Charlotte | University at Buffalo |
+| University of Arizona | University of California System |
+| University of Central Florida (UCF) | University of Colorado Boulder |
+| University of Connecticut (UConn) | University of Florida |
+| University of Illinois Urbana-Champaign | University of Kentucky |
+| University of Maine | University of Michigan |
+| University of Minnesota | University of Missouri |
+| University of New Mexico | University of North Dakota (UND) |
+| University of Pittsburgh | University of Southern California (USC) |
+| University of Texas at Austin | University of Utah |
+| University of Wisconsin–Madison | Virginia Tech |
+| Yale University | |
 
 **Additional Academic & Research Organizations:**
 * AI Tennessee Initiative

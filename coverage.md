@@ -157,53 +157,62 @@
 | # | University | Coverage | Paper Section | Notes |
 |---|-----------|----------|---------------|-------|
 | 88 | Arizona State University (ASU) | 📋 Brief Mention | §2.3D, §3.3, A.5 | Grid reliability; named in university list |
-| 89 | Caltech | 📋 Brief Mention | §3.3, A.5 | Named in university list |
-| 90 | Carnegie Mellon University | 📋 Brief Mention | §3.3, A.5 | Named in university list |
-| 91 | Colorado State University | 📋 Brief Mention | A.5 | Listed in university table |
-| 92 | Columbia University | 📋 Brief Mention | §3.3, A.5 | Named in university list |
-| 93 | Cornell University | 📋 Brief Mention | §3.3, A.5 | Named in university list |
-| 94 | Emory University | 📋 Brief Mention | A.5 | Listed in university table |
-| 95 | Florida State University | 📋 Brief Mention | §3.3, A.5 | Named in university list |
-| 96 | Georgia Institute of Technology | 📋 Brief Mention | §3.3, A.5 | Named in university list |
-| 97 | Iowa State University | 📋 Brief Mention | A.5 | Listed in university table |
-| 98 | Lehigh University | 📋 Brief Mention | A.5 | Listed in university table |
-| 99 | Louisiana State University (LSU) | 📋 Brief Mention | A.5 | Listed in university table |
-| 100 | Michigan State University (FRIB) | 📋 Brief Mention | A.5 | Listed in university table |
-| 101 | Michigan Technological University | 📋 Brief Mention | A.5 | Listed in university table |
-| 102 | Mississippi State University | 📋 Brief Mention | A.5 | Listed in university table |
-| 103 | Missouri S&T | 📋 Brief Mention | A.5 | Listed in university table |
-| 104 | MIT | 📋 Brief Mention | §3.3, A.5 | Named in university list |
-| 105 | New Jersey Institute of Technology (NJIT) | 📋 Brief Mention | A.5 | Listed in university table |
-| 106 | New Mexico State University (NMSU) | 📋 Brief Mention | A.5 | Listed in university table |
-| 107 | Northwestern University | 📋 Brief Mention | A.5 | Listed in university table |
-| 108 | Penn State University | 📋 Brief Mention | §3.3, A.5 | Named in university list |
-| 109 | Princeton University | 📋 Brief Mention | §3.3, A.5 | Named in university list |
-| 110 | Rice University | 📋 Brief Mention | §3.3, A.5 | Named in university list |
-| 111 | Stanford University | 📋 Brief Mention | §3.3, A.5 | Named in university list |
-| 112 | Stony Brook University | 📋 Brief Mention | §3.3, A.5 | Named in university list |
-| 113 | Texas A&M University | 📋 Brief Mention | A.5 | Listed in university table |
-| 114 | Texas State University | 📋 Brief Mention | A.5 | Listed in university table |
-| 115 | Tulane University | 📋 Brief Mention | §2.3D, A.5 | Generative AI + robotic platforms for materials |
-| 116 | UC Berkeley | 📋 Brief Mention | §3.3, A.5 | Named in university list |
-| 117 | UNC Charlotte | 📋 Brief Mention | A.5 | Listed in university table |
-| 118 | University at Buffalo | 📋 Brief Mention | A.5 | Listed in university table |
-| 119 | University of Arizona | 📋 Brief Mention | A.5 | Listed in university table |
-| 120 | University of California System | 📋 Brief Mention | A.5 | Listed in university table |
-| 121 | University of Colorado Boulder | ✅ Full Profile | §3.1 (Infleqtion, Rigetti) | Infleqtion plasma/fusion project; Rigetti fusion sims |
-| 122 | University of Florida | 📋 Brief Mention | A.5 | Listed in university table |
-| 123 | University of Illinois Urbana-Champaign | 📋 Brief Mention | §3.3, A.5 | Named in university list |
-| 124 | University of Kentucky | 📋 Brief Mention | A.5 | Listed in university table |
-| 125 | University of Maine | 📋 Brief Mention | A.5 | Listed in university table |
-| 126 | University of Michigan | 📋 Brief Mention | §3.3, A.5 | Named in university list |
-| 127 | University of Missouri | 📋 Brief Mention | A.5 | Listed in university table |
-| 128 | University of New Mexico | 📋 Brief Mention | A.5 | Listed in university table |
-| 129 | University of Pittsburgh | 📋 Brief Mention | A.5 | Listed in university table |
-| 130 | University of Southern California (USC) | 📋 Brief Mention | §3.3, A.5 | Named in university list |
-| 131 | University of Texas at Austin | 📋 Brief Mention | §3.3, A.5 | Named in university list |
-| 132 | University of Utah | 📋 Brief Mention | A.5 | Listed in university table |
-| 133 | University of Wisconsin–Madison | 📋 Brief Mention | §3.3, A.5 | Named in university list |
-| 134 | Virginia Tech | 📋 Brief Mention | A.5 | Listed in university table |
-| 135 | Yale University | 📋 Brief Mention | A.5 | Listed in university table |
+| 89 | Auburn University | 📋 Brief Mention | A.5 | Listed in university table |
+| 90 | Caltech | 📋 Brief Mention | §3.3, A.5 | Named in university list |
+| 91 | Carnegie Mellon University | 📋 Brief Mention | §3.3, A.5 | Named in university list |
+| 92 | Colorado State University | 📋 Brief Mention | A.5 | Listed in university table |
+| 93 | Columbia University | 📋 Brief Mention | §3.3, A.5 | Named in university list |
+| 94 | Cornell University | 📋 Brief Mention | §3.3, A.5 | Named in university list |
+| 95 | Emory University | 📋 Brief Mention | A.5 | Listed in university table |
+| 96 | Florida State University | 📋 Brief Mention | §3.3, A.5 | Named in university list |
+| 97 | Georgia Institute of Technology | 📋 Brief Mention | §3.3, A.5 | Named in university list |
+| 98 | Iowa State University | 📋 Brief Mention | A.5 | Listed in university table |
+| 99 | Lehigh University | 📋 Brief Mention | A.5 | Listed in university table |
+| 100 | Louisiana State University (LSU) | 📋 Brief Mention | A.5 | Listed in university table |
+| 101 | Michigan State University (FRIB) | 📋 Brief Mention | A.5 | Listed in university table |
+| 102 | Michigan Technological University | 📋 Brief Mention | A.5 | Listed in university table |
+| 103 | Mississippi State University | 📋 Brief Mention | A.5 | Listed in university table |
+| 104 | Missouri S&T | 📋 Brief Mention | A.5 | Listed in university table |
+| 105 | MIT | 📋 Brief Mention | §3.3, A.5 | Named in university list |
+| 106 | New Jersey Institute of Technology (NJIT) | 📋 Brief Mention | A.5 | Listed in university table |
+| 107 | New Mexico State University (NMSU) | 📋 Brief Mention | A.5 | Listed in university table |
+| 108 | New York University (NYU) | 📋 Brief Mention | A.5 | Listed in university table |
+| 109 | Northwestern University | 📋 Brief Mention | A.5 | Listed in university table |
+| 110 | Penn State University | 📋 Brief Mention | §3.3, A.5 | Named in university list |
+| 111 | Princeton University | 📋 Brief Mention | §3.3, A.5 | Named in university list |
+| 112 | Rensselaer Polytechnic Institute (RPI) | 📋 Brief Mention | A.5 | Listed in university table |
+| 113 | Rice University | 📋 Brief Mention | §3.3, A.5 | Named in university list |
+| 114 | Stanford University | 📋 Brief Mention | §3.3, A.5 | Named in university list |
+| 115 | Stony Brook University | 📋 Brief Mention | §3.3, A.5 | Named in university list |
+| 116 | Texas A&M University | 📋 Brief Mention | A.5 | Listed in university table |
+| 117 | Texas State University | 📋 Brief Mention | A.5 | Listed in university table |
+| 118 | Tulane University | 📋 Brief Mention | §2.3D, A.5 | Generative AI + robotic platforms for materials |
+| 119 | UC Berkeley | 📋 Brief Mention | §3.3, A.5 | Named in university list |
+| 120 | UC Davis | 📋 Brief Mention | A.5 | Listed in university table |
+| 121 | UC Santa Barbara (UCSB) | 📋 Brief Mention | A.5 | Listed in university table |
+| 122 | UNC Charlotte | 📋 Brief Mention | A.5 | Listed in university table |
+| 123 | University at Buffalo | 📋 Brief Mention | A.5 | Listed in university table |
+| 124 | University of Arizona | 📋 Brief Mention | A.5 | Listed in university table |
+| 125 | University of California System | 📋 Brief Mention | A.5 | Listed in university table |
+| 126 | University of Central Florida (UCF) | 📋 Brief Mention | A.5 | Listed in university table |
+| 127 | University of Colorado Boulder | ✅ Full Profile | §3.1 (Infleqtion, Rigetti) | Infleqtion plasma/fusion project; Rigetti fusion sims |
+| 128 | University of Connecticut (UConn) | 📋 Brief Mention | A.5 | Listed in university table |
+| 129 | University of Florida | 📋 Brief Mention | A.5 | Listed in university table |
+| 130 | University of Illinois Urbana-Champaign | 📋 Brief Mention | §3.3, A.5 | Named in university list |
+| 131 | University of Kentucky | 📋 Brief Mention | A.5 | Listed in university table |
+| 132 | University of Maine | 📋 Brief Mention | A.5 | Listed in university table |
+| 133 | University of Michigan | 📋 Brief Mention | §3.3, A.5 | Named in university list |
+| 134 | University of Minnesota | 📋 Brief Mention | A.5 | Listed in university table |
+| 135 | University of Missouri | 📋 Brief Mention | A.5 | Listed in university table |
+| 136 | University of New Mexico | 📋 Brief Mention | A.5 | Listed in university table |
+| 137 | University of North Dakota (UND) | 📋 Brief Mention | A.5 | Listed in university table |
+| 138 | University of Pittsburgh | 📋 Brief Mention | A.5 | Listed in university table |
+| 139 | University of Southern California (USC) | 📋 Brief Mention | §3.3, A.5 | Named in university list |
+| 140 | University of Texas at Austin | 📋 Brief Mention | §3.3, A.5 | Named in university list |
+| 141 | University of Utah | 📋 Brief Mention | A.5 | Listed in university table |
+| 142 | University of Wisconsin–Madison | 📋 Brief Mention | §3.3, A.5 | Named in university list |
+| 143 | Virginia Tech | 📋 Brief Mention | A.5 | Listed in university table |
+| 144 | Yale University | 📋 Brief Mention | A.5 | Listed in university table |
 
 ---
 
@@ -211,10 +220,10 @@
 
 | # | Organization | Coverage | Paper Section | Notes |
 |---|-------------|----------|---------------|-------|
-| 136 | AI Tennessee Initiative | 📋 Brief Mention | A.5 | Listed under additional academic orgs |
-| 137 | RTI International | 📋 Brief Mention | A.5 | Listed under additional academic orgs |
-| 138 | Cleveland Clinic | ✅ Full Profile | §2.3B, §3.1 (IBM) | ORNL–Cleveland Clinic–IBM FLiBe fusion quantum chemistry |
-| 139 | Johns Hopkins University APL (JHU APL) | ✅ Full Profile | §3.1 (MSFT) | Self-driving materials labs; alloy/superconductor synthesis |
+| 145 | AI Tennessee Initiative | 📋 Brief Mention | A.5 | Listed under additional academic orgs |
+| 146 | RTI International | 📋 Brief Mention | A.5 | Listed under additional academic orgs |
+| 147 | Cleveland Clinic | ✅ Full Profile | §2.3B, §3.1 (IBM) | ORNL–Cleveland Clinic–IBM FLiBe fusion quantum chemistry |
+| 148 | Johns Hopkins University APL (JHU APL) | ✅ Full Profile | §3.1 (MSFT) | Self-driving materials labs; alloy/superconductor synthesis |
 
 ---
 
@@ -227,17 +236,17 @@
 | Industry Partners | 61 | 25 | 36 | 0 |
 | Federal Agencies | 9 | 4 | 5 | 0 |
 | National Laboratories | 17 | 13 | 4 | 0 |
-| Universities | 48 | 1 | 47 | 0 |
+| Universities | 57 | 1 | 56 | 0 |
 | Additional Research Orgs | 4 | 2 | 2 | 0 |
-| **Total** | **139** | **45** | **94** | **0** |
+| **Total** | **148** | **45** | **103** | **0** |
 
 ### By Coverage Level
 
 | Coverage Level | Count | Percentage |
 |:---|:---:|:---:|
-| ✅ Full Profile | 45 | 32% |
-| 📋 Brief Mention | 94 | 68% |
+| ✅ Full Profile | 45 | 30% |
+| 📋 Brief Mention | 103 | 70% |
 | ❌ Not Covered | 0 | 0% |
-| **Total Entities** | **139** | **100%** |
+| **Total Entities** | **148** | **100%** |
 
-> **Note:** All 139 identified Genesis Mission ecosystem participants have at least table-level or list representation in the research paper. 45 entities have dedicated, detailed technical profiles. No collaborators from the reference list are completely absent from the research paper.
+> **Note:** All 148 identified Genesis Mission ecosystem participants have at least table-level or list representation in the research paper. 45 entities have dedicated, detailed technical profiles. No collaborators from the reference list are completely absent from the research paper.
