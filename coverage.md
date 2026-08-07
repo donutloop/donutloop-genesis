@@ -14,16 +14,16 @@
 | # | Company | Coverage | Paper Section | Notes |
 |---|---------|----------|---------------|-------|
 | 1 | Amazon Web Services (AWS) | ✅ Full Profile | §3.1 | $100M federal credits; cloud HPC; post-quantum security |
-| 2 | AMD | ✅ Full Profile | §2.1, §3.1 | Lux & Discovery supercomputers; MI355X/MI430X; EPYC; ROCm |
-| 3 | Cerebras | ✅ Full Profile | §3.1, A.3 | DOE MOU; CS-3 & WSE-3 wafer-scale AI accelerators |
+| 2 | AMD | ✅ Full Profile | §2.1, §3.1 | Lux & Discovery supercomputers; Instinct GPUs; EPYC; ROCm |
+| 3 | Cerebras | ✅ Full Profile | §3.1, A.3 | DOE MOU; wafer-scale AI accelerators |
 | 4 | Dell Technologies | ✅ Full Profile | §2.1, §3.1, A.3 | PowerEdge liquid-cooled HPC servers; AI factory infrastructure; enterprise compute |
-| 5 | Google / DeepMind / Public Sector | ✅ Full Profile | §3.1 | $40M; Gemini; AI Co-Scientist; AlphaFold 3; AlphaGenome |
+| 5 | Google / DeepMind / Public Sector | ✅ Full Profile | §3.1 | $40M; Gemini; AI Co-Scientist; AlphaFold; AlphaGenome |
 | 6 | HPE | ✅ Full Profile | §3.1, A.3 | Exascale HPC substrate; HPE Cray EX & Slingshot; Frontier/Aurora/El Capitan |
 | 7 | IBM / IBM Quantum | ✅ Full Profile | §2.2, §3.1, §2.3B | $1B foundry LOI; $50M compute; Heron/Nighthawk; FLiBe fusion |
 | 8 | Microsoft | ✅ Full Profile | §3.1 | $60M SPARK; Discovery platform; MatterGen/MatterSim; Majorana |
 | 9 | NVIDIA | ✅ Full Profile | §2.1, §3.1 | Solstice/Equinox; Apollo models; Omniverse; edge AI |
 | 10 | Oracle | ✅ Full Profile | §3.1 | Enterprise cloud; HPC database infrastructure |
-| 11 | SambaNova Systems | ✅ Full Profile | §2.1, §3.1, A.3 | Reconfigurable Dataflow Architecture (SN40L RDU); high-throughput AI inference; ALCF deployment |
+| 11 | SambaNova Systems | ✅ Full Profile | §2.1, §3.1, A.3 | Reconfigurable Dataflow Architecture (RDUs); high-throughput AI inference; ALCF deployment |
 
 ---
 
@@ -45,14 +45,14 @@
 
 | # | Company | Coverage | Paper Section | Notes |
 |---|---------|----------|---------------|-------|
-| 19 | Atom Computing | ✅ Full Profile | §2.2, §3.1 | $100M LOI; neutral-atom; AC1000; NREL grid co-sim |
+| 19 | Atom Computing | ✅ Full Profile | §2.2, §3.1 | $100M LOI; neutral-atom; NREL grid co-sim |
 | 20 | D-Wave | ✅ Full Profile | §2.2, §3.1 | $100M; annealing + gate-model superconducting |
 | 21 | Diraq | ✅ Full Profile | §2.2, §3.1 | $38M LOI; silicon spin CMOS quantum dot |
 | 22 | GlobalFoundries | ✅ Full Profile | §2.2, §3.1 | $375M; GF Labs; GlobalShuttle™ MPW; silicon photonics |
 | 23 | Infleqtion | ✅ Full Profile | §2.2, §3.1 | $100M LOI; 3 DOE awards; Sqale; Tiqker; Superstaq |
 | 24 | PsiQuantum | ✅ Full Profile | §2.2, §3.1 | $100M LOI; photonic; PsiFactory; BTO switches |
 | 25 | Quantinuum | ✅ Full Profile | §2.2, §3.1 | $100M LOI; trapped-ion; Monarch Quantum |
-| 26 | Rigetti Computing | ✅ Full Profile | §2.2, §3.1 | $100M LOI; Ankaa-3/Lyra; cryogenic readout; fusion sims |
+| 26 | Rigetti Computing | ✅ Full Profile | §2.2, §3.1 | $100M LOI; Ankaa/Lyra; cryogenic readout; fusion sims |
 
 ---
 
