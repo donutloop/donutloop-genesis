@@ -148,7 +148,7 @@
 | 84 | Sandia National Laboratories (SNL) | ✅ Full Profile | §3.2, A.2 | Microelectronics radiation hardening (6 projects, 17 co-PI), ion trap QPU fabrication & hypersonic CFD |
 | 85 | Savannah River National Laboratory (SRNL) | ✅ Full Profile | §3.2, A.2 | Radiochemical separation flowsheets, nuclear safeguards AI, tritium processing & hydrogen storage |
 | 86 | SLAC National Accelerator Laboratory | ✅ Full Profile | §3.2, A.2 | LCLS-II ultrafast attosecond X-ray science, deep RL beamline optimization & SRF accelerator cavities |
-| 87 | National Laboratory of the Rockies (NLR) | ✅ Full Profile | §2.3C, §3.1, §3.2, A.2 | Google Gemini autonomous lab orchestration, mountain hydrology & high-altitude climate digital twins |
+| 87 | Thomas Jefferson National Accelerator Facility (TJNAF) | ✅ Full Profile | §3.2, A.2 | CEBAF accelerator, AI-driven nuclear femtography, SRF cavity tuning & subatomic physics AI |
 
 ---
 

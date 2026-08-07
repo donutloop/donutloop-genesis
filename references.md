@@ -305,6 +305,8 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
 * **SLAC National Accelerator Laboratory:** 
   * [Leading Projects Alongside Stanford](https://news.stanford.edu/stories/2026/07/stanford-and-slac-to-lead-genesis-mission-projects)
   * [SLAC ISDCI Genesis Portal](https://isdci.slac.stanford.edu/genesis)
+* **Thomas Jefferson National Accelerator Facility (TJNAF / Jefferson Lab):**
+  * [Jefferson Lab AI-Driven Nuclear Femtography & Accelerator Optimization](https://www.jlab.org/news/releases/ai-science-genesis-mission)
 ### Universities & Research Institutions
 * **AI Tennessee Initiative:** [About AI Tennessee](https://www.aitennessee.ai/about-ai-tennessee/)
 * **Auburn University:** [Molaei Genesis Mission Research](https://eng.auburn.edu/news/2026/08/molaei-genesis-mission)

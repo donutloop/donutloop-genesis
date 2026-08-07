@@ -406,7 +406,7 @@ The DOE Office of Science directed funding across 17 primary national laboratory
 * **Sandia National Laboratories (SNL):** Leading 6 projects and participating as a co-investigator in 17 additional initiatives, fabricating surface ion traps for Quantinuum, and advancing microelectronics radiation hardening.
 * **Savannah River National Laboratory (SRNL):** Directing radiochemical separation flowsheets, AI-driven nuclear safeguards, tritium processing systems, and solid-state hydrogen storage media.
 * **SLAC National Accelerator Laboratory (SLAC):** Operating the Linac Coherent Light Source (LCLS-II) ultrafast attosecond X-ray laser, deploying deep RL for beamline emittance control, and developing SRF accelerator cavities.
-* **National Laboratory of the Rockies (NLR):** Partnering with Google Public Sector to deploy Gemini-driven autonomous laboratory orchestration and mountain watershed climate digital twins.
+* **Thomas Jefferson National Accelerator Facility (TJNAF / Jefferson Lab):** Operating the Continuous Electron Beam Accelerator Facility (CEBAF), deploying AI-driven nuclear femtography, subatomic quark/gluon structure models, and SRF accelerator cavity tuning.
 
 ### 3.3 University Research Partners
 Over 57 research universities receive competitive project awards under solicitation DE-FOA-0003612 and related Genesis Mission initiatives, operating as primary academic nodes for foundational theory, algorithm design, physical synthesis, and graduate training across five key thematic clusters:
@@ -524,7 +524,7 @@ The DOE's 17 National Laboratories serve as the primary execution nodes for Gene
 | Sandia National Laboratories | SNL | Microelectronics radiation hardening (6 projects, 17 co-PI), ion trap QPU fabrication & hypersonic CFD |
 | Savannah River National Laboratory | SRNL | Radiochemical separation flowsheets, nuclear safeguards AI, tritium processing & hydrogen storage |
 | SLAC National Accelerator Laboratory | SLAC | LCLS-II ultrafast attosecond X-ray science, deep RL beamline optimization & SRF accelerator cavities |
-| National Laboratory of the Rockies | NLR | Google Gemini autonomous lab orchestration, mountain hydrology & high-altitude climate digital twins |
+| Thomas Jefferson National Accelerator Facility | TJNAF | CEBAF accelerator, AI-driven nuclear femtography, SRF cavity tuning & subatomic physics AI |
 
 ### A.3 Industry & Technology Partners
 
