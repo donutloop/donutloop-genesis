@@ -86,33 +86,58 @@ Managed primarily by the **U.S. Department of Energy (DOE) Office of Science**, 
 
 ## 2. Technical Framework & Core Pillars
 
-The Genesis Mission architecture is founded upon three interdependent pillars: High-Performance AI Infrastructure, Quantum Hardware & Manufacturing Foundries, and Scientific Foundation Models.
+The Genesis Mission architecture is founded upon three interdependent technical pillars: High-Performance AI Supercomputing Infrastructure, Quantum Hardware & Manufacturing Foundries, and Closed-Loop Agentic Scientific Workflows.
+
+```
++---------------------------------------------------------------------------------------------------+
+|                                 GENESIS CONVERGENT TECHNICAL GRID                                 |
++---------------------------------------------------------------------------------------------------+
+                                                  |
+           +--------------------------------------+--------------------------------------+
+           |                                      |                                      |
++----------v----------+                +----------v----------+                +----------v----------+
+|  HETEROGENEOUS HPC  |                |   QUANTUM QPU GRID   |                |  AGENTIC WORKFLOWS  |
+|  - Exascale GPUs    |                |  - Superconducting  |                |  - Physics Surrogates|
+|  - Dataflow RDUs    |                |  - Trapped-Ion      |                |  - Generative Models|
+|  - FAIR Data Stream |                |  - Neutral-Atom     |                |  - Self-Driving Labs|
+|  (HPE, AMD, NVIDIA, |                |  - Silicon Spin     |                |  (Gemini, Discovery,|
+|   Dell, SambaNova)  |                |  - Photonic         |                |   PaperQA, AlphaFold)|
++----------+----------+                +----------+----------+                +----------+----------+
+           |                                      |                                      |
+           +--------------------------------------+--------------------------------------+
+                                                  |
++-------------------------------------------------v-------------------------------------------------+
+|                                 CLOSED-LOOP DISCOVERY EXECUTOR                                    |
+|   Sensors (NSLS-II/LCLS-II/LHC) -> AI Inference -> QPU Energy Solver -> Robotic Wet Lab Synthesis  |
++---------------------------------------------------------------------------------------------------+
+```
 
 ### 2.1 High-Performance AI Supercomputing Infrastructure
-The mission integrates premier supercomputing nodes—such as Argonne National Laboratory's ALCF, Oak Ridge National Laboratory's (ORNL) Leadership Computing Facility, and Berkeley Lab's (LBNL) ModCon architecture—into a unified execution grid. Key infrastructure milestones include:
-* **Heterogeneous Accelerators & Flagship AI Supercomputers:** Integration of next-generation GPU clusters and custom compute backends. Key flagship supercomputing platforms deployed under the mission include:
-  * **Solstice and Equinox (NVIDIA / Oracle / ANL):** Ultra-scale AI supercomputers optimized for open scientific foundation models and national laboratory discovery.
+The mission integrates premier supercomputing nodes into a federated execution grid across Argonne National Laboratory (ANL ALCF), Oak Ridge National Laboratory (ORNL OLCF), and Lawrence Berkeley National Laboratory (LBNL NERSC). Key infrastructure components include:
+
+* **Heterogeneous Accelerators & Flagship AI Supercomputers:**
+  * **Solstice and Equinox (NVIDIA / Oracle / ANL):** Ultra-scale AI supercomputers optimized for open scientific foundation models, real-time data processing, and national laboratory discovery pipelines.
   * **Lux (AMD / DOE):** The inaugural operational Genesis Mission AI supercomputer (deploying 2026), powered by **AMD Instinct GPUs**, **AMD EPYC CPUs**, and **AMD Pensando** DPU networking to expand AI research in energy, medicine, and materials.
-  * **Discovery (AMD / DOE):** Planned exascale-class supercomputer (expected 2028) featuring **AMD EPYC processors** and **AMD Instinct GPUs** designed for high-accuracy scientific simulation and AI modeling.
+  * **Discovery (AMD / DOE):** Planned exascale-class supercomputer (expected 2028) featuring **AMD EPYC processors** and **AMD Instinct GPUs** designed for high-accuracy scientific simulation and multi-modal AI modeling.
   * **Frontier, Aurora, and El Capitan (HPE / Cray EX):** Premier exascale supercomputing infrastructure providing liquid-cooled HPE Cray EX architectures and Slingshot interconnects for federated AI model training and petabyte-scale simulation across ORNL, ANL, and LLNL.
   * **Dell AI Factory & PowerEdge Infrastructure (Dell / DOE):** Enterprise-grade AI factory deployments featuring liquid-cooled Dell PowerEdge GPU servers, high-density compute substrates, and energy-efficient data center architectures supporting federated scientific computing and AI model execution.
   * **SambaNova Dataflow Infrastructure (SambaNova / DOE):** Deployment of Reconfigurable Dataflow Architecture (RDA) powered by **Reconfigurable Dataflow Units (RDUs)** across national laboratory compute nodes (including ANL ALCF), enabling high-throughput inference and multi-modal AI model execution for scientific foundation models.
-* **Data Integration Facilities:** NSF's $83M investment provides foundational data pipelines and standardized FAIR (Findable, Accessible, Interoperable, Reusable) data repositories capable of ingesting petabyte-scale experimental streams real-time from synchrotrons, particle accelerators, and fusion reactors.
+* **FAIR Scientific Data Highways:** NSF's $83 Million investment establishes foundational data pipelines and standardized FAIR (Findable, Accessible, Interoperable, Reusable) data repositories capable of ingesting petabyte-scale experimental streams real-time from synchrotrons (NSLS-II, APS), particle accelerators (LHC, CEBAF), and fusion reactors (DIII-D, NSTX-U).
 
 ### 2.2 Quantum Leadership and CHIPS Act Infrastructure
-To establish quantum supremacy in error-corrected and fault-tolerant regimes, the DOE committed **$2 Billion to Deploy Fault-Tolerant Quantum Computers**, matched by **$2 Billion in Department of Commerce Letters of Intent (NIST)** under the CHIPS Act.
+To establish quantum supremacy in error-corrected and fault-tolerant regimes, the DOE committed **$2 Billion to Deploy Fault-Tolerant Quantum Computers**, matched by **$2 Billion in Department of Commerce Letters of Intent (NIST)** under the CHIPS and Science Act.
 
-| Organization / Company | Planned Funding / Commitment | Primary Strategic Scope & Technical Modality |
+| Organization / Company | Planned Funding / LOI | Primary Strategic Scope & Technical Modality |
 | :--- | :--- | :--- |
-| **GlobalFoundries** | $375 Million | Domestic secure quantum foundry for multi-modality integration. |
+| **GlobalFoundries** | $375 Million | Domestic secure quantum foundry for multi-modality semiconductor packaging & PDKs. |
 | **IBM Quantum** | $1 Billion | Quantum foundry subsidiary for superconducting wafer fabrication + $50M compute access. |
-| **Atom Computing** | $100 Million | Scaling neutral-atom quantum hardware and system integration. |
-| **Diraq** | Up to $38 Million | Silicon spin qubit logic arrays and quantum processor scaling. |
-| **D-Wave Quantum** | $100 Million | Quantum annealing and gate-model superconducting architectures. |
+| **Atom Computing** | $100 Million | Scaling neutral-atom quantum hardware and system integration with NREL grid co-sim. |
+| **Diraq** | Up to $38 Million | CMOS-native silicon spin qubit logic arrays and quantum processor scaling. |
+| **D-Wave Quantum** | $100 Million | Quantum annealing and gate-model superconducting architectures for grid/HPC optimization. |
 | **Infleqtion** | $100 Million | Neutral-atom architectures, high-powered optical systems (3 DOE Genesis awards). |
-| **PsiQuantum** | $100 Million | Photonic quantum computing, low-loss optical packaging, silicon photonics. |
-| **Quantinuum** | $100 Million | Trapped-ion fault-tolerant architectures and optical hardware packaging. |
-| **Rigetti Computing** | Up to $100 Million | Cryogenic readout electronics and next-gen superconducting circuits. |
+| **PsiQuantum** | $100 Million | Photonic quantum computing, low-loss optical packaging, domestic PsiFactory silicon photonics. |
+| **Quantinuum** | $100 Million | Trapped-ion fault-tolerant architectures, integrated photonics, and hardware packaging. |
+| **Rigetti Computing** | Up to $100 Million | 3D multi-chip tileable superconducting QPUs, cryogenic readout packaging, and fusion sims. |
 
 Key modality highlights across quantum commitments include:
 * **IBM Quantum ($1 Billion CHIPS Act Foundry LOI & $50 Million Compute Access Commitment):** IBM advances utility-scale quantum computing and domestic hardware manufacturing through a $1 Billion planned funding Letter of Intent (LOI) under the CHIPS and Science Act to establish a dedicated quantum foundry subsidiary for manufacturing quantum-grade superconducting wafers. Concurrently, IBM commits up to $50 Million equivalent in utility-scale quantum compute access over 5 years across DOE National Laboratories and academic collaborators, powered by IBM Quantum Heron and IBM Quantum Nighthawk processors. IBM supports quantum-HPC-AI integration across national facilities and co-leads Phase I RFA projects for agentic AI quantum discovery.
@@ -125,16 +150,16 @@ Key modality highlights across quantum commitments include:
 * **Rigetti Computing (Up to $100 Million CHIPS Act LOI & DOE Quantum Simulation Projects):** Rigetti Computing advances tileable superconducting quantum processor unit (QPU) architectures, 3D multi-chip stacking, and miniaturized cryogenic readout packaging through an up to $100 Million Letter of Intent (LOI) with the U.S. Department of Commerce under the CHIPS and Science Act (including government equity participation). Anchored by its **Ankaa** system, **Novera QPU** testbed, and planned modular **Lyra** architecture, Rigetti utilizes 3D interposer technology to connect multi-chip superconducting dies into scalable quantum processors with reduced crosstalk and high gate fidelity (>99.3%). Rigetti collaborates with DOE National Laboratories (including LLNL) and the University of Colorado Boulder on quantum simulations of nonlinear plasma dynamics and plasma waves for fusion energy reactors, while advancing miniaturized cryogenic control electronics for national supercomputing integration.
 * **D-Wave Quantum ($100 Million Commitment):** D-Wave advances commercial quantum annealing hardware and gate-model superconducting quantum architectures. Integrated directly with DOE National Laboratory compute grids, D-Wave's systems target complex combinatorial optimization, materials science calculations, power grid resilience modeling, and hybrid quantum-HPC algorithmic workflows.
 
-### 2.3 Scientific Domain Applications
+### 2.3 Scientific Domain Applications & Closed-Loop Workflows
 
 #### A. High Energy Physics (HEP) & Particle Accelerators
-Presented at the U.S. ATLAS Institutional Board Meeting (Jeremy Love, DOE-HEP), the Genesis Mission directly interfaces with the Large Hadron Collider (LHC) at CERN. AI foundation models process multi-terabit real-time sensor feeds, optimize detector trigger selection, and accelerate Monte Carlo simulation routines by orders of magnitude.
+Presented at the U.S. ATLAS Institutional Board Meeting (Jeremy Love, DOE-HEP), the Genesis Mission directly interfaces with the Large Hadron Collider (LHC) at CERN, Jefferson Lab's CEBAF accelerator, and SLAC's LCLS-II. AI foundation models process multi-terabit real-time sensor feeds, optimize detector trigger selection, tune SRF cavity emittance, and accelerate Monte Carlo simulation routines by orders of magnitude.
 
 #### B. Fusion Energy & Autonomous Reactor Control
 At the Princeton Plasma Physics Laboratory (PPPL), the Genesis-funded **AI4Fusion** project creates an AI-driven autonomous operator for plasma heating and magnetohydrodynamic disruption prevention. Neural surrogate models predict magnetic containment destabilization milliseconds in advance, enabling real-time feedback control during high-beta plasma discharges. Additionally, a joint research team from **Oak Ridge National Laboratory (ORNL)**, **Cleveland Clinic**, and **IBM** achieved the first-known computation of fusion reactor materials on a quantum computer (published July 2026). Utilizing a quantum-centric supercomputing workflow—combining AI agents to screen candidate molten salts, GPU supercomputers to simulate bulk fluid dynamics, and IBM quantum processors to solve fine electronic ground-state energies—the team calculated nine molecular conformations of **FLiBe** (fluorine-lithium-beryllium molten salt) blanket materials to optimize tritium breeding and extraction for fusion energy reactors.
 
 #### C. Robotics, Edge AI, and Autonomous Self-Driving Laboratories (NVIDIA, Google & Microsoft Infrastructure)
-A major thrust of the Genesis Mission relies on industrial AI, robotics, physical simulation backends, and autonomous laboratory automation. Utilizing NVIDIA's digital twin frameworks, high-fidelity physics engines, and edge AI, alongside Google Gemini's autonomous lab hardware control (e.g., cutting electron microscope calibration time by 8x at NLR) and Microsoft Discovery with MatterGen/MatterSim foundation models for self-driving materials discovery (e.g., at JHU APL and PNNL), labs create automated "self-driving" laboratories for high-throughput chemical synthesis, physical instrument calibration, radiation-tolerant robotics, and supply chain manufacturing optimization.
+A major thrust of the Genesis Mission relies on industrial AI, robotics, physical simulation backends, and autonomous laboratory automation. Utilizing NVIDIA's digital twin frameworks, high-fidelity physics engines, and edge AI, alongside Google Gemini's autonomous lab hardware control (e.g., cutting electron microscope calibration time by 8x) and Microsoft Discovery with MatterGen/MatterSim foundation models for self-driving materials discovery (e.g., at JHU APL and PNNL), labs create automated "self-driving" laboratories for high-throughput chemical synthesis, physical instrument calibration, radiation-tolerant robotics, and supply chain manufacturing optimization.
 
 #### D. Nuclear Energy, Grid Security, and Material Science
 * **Idaho National Laboratory (INL):** Deployment of AWS Cloud AI/HPC pipelines to model nuclear thermal-hydraulics and fuel cycle degradation, alongside Microsoft AI integration to automate nuclear safety licensing documentation and demonstrate remote autonomous power control of research reactors.
