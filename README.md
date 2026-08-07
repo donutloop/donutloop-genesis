@@ -1,4 +1,4 @@
-**Version**: 0.3.7-alpha
+**Version**: 0.3.8-alpha
 
 # The Genesis Mission: Architecture, Strategic Initiatives, and the Multi-Institutional Ecosystem for AI and Quantum-Driven Scientific Discovery
 
@@ -299,6 +299,58 @@ A defining feature of the Genesis Mission is its hybrid operational model unitin
   * **Sub-EUV Wavelength Research:** Exploiting the inherent tunability of FEL technology to pioneer research at wavelengths shorter than the standard 13.5 nm, enabling future-generation lithography beyond current EUV limitations.
   * **Fermilab CRADA & Superconducting Accelerator Technology:** Operating under a Cooperative Research and Development Agreement (CRADA) with Fermi National Accelerator Laboratory to develop superconducting radio-frequency (SRF) cavity technology and AI/ML-based resonance control algorithms for particle accelerators—cross-pollinating accelerator physics expertise with advanced semiconductor manufacturing.
   * **Genesis Mission Consortium Membership:** Participating as an industry partner in the Genesis Mission Consortium, contributing FEL-based photonics and accelerator engineering expertise to the national AI-for-science discovery infrastructure.
+* **Albemarle:** Advanced lithium extraction, refining technologies, and battery materials R&D supporting national energy storage initiatives:
+  * **Lithium Extraction & Battery Materials R&D:** Advanced lithium extraction, refining technologies, and specialty chemical processing supporting national energy storage and clean energy transitions.
+  * **AI-Driven Chemistry & Flow Sheet Optimization:** Interfacing high-throughput materials discovery platforms and thermodynamic simulation tools with DOE national labs for next-generation solid-state battery electrolytes.
+  * **Critical Minerals Supply Chain Security:** Partnering with federal energy initiatives to secure domestic critical mineral supply chains and refine battery-grade lithium compounds.
+* **ComEd (Commonwealth Edison):** Smart grid integration, quantum-in-the-loop power flow simulation, and urban grid digital twins:
+  * **Grid Integration & Quantum Power Simulation:** Partnering with national laboratories (ANL, NREL) to integrate quantum-in-the-loop power flow simulations and real-time grid telemetry onto regional distribution networks.
+  * **Smart Grid AI & Load Forecasting:** Deploying predictive AI models for renewable integration, grid resilience under extreme weather, and high-density EV charging infrastructure.
+  * **HPC Utility Digital Twins:** Operating high-fidelity operational digital twins of urban grid networks co-simulated on national lab supercomputing backends.
+* **Critical Materials Recycling:** Rare earth element recovery, closed-loop mineral processing, and sustainable e-waste recycling:
+  * **Rare Earth Element Recovery & Recycling:** Advanced hydrometallurgical and pyrometallurgical processing for secondary recovery of rare earth elements (REEs) from electronic waste and industrial scrap.
+  * **Closed-Loop Critical Mineral Processing:** Developing environmentally sustainable, high-yield recycling processes for permanent magnets, lithium-ion batteries, and microelectronics components.
+  * **DOE Critical Materials Institute (CMI) Alignment:** Collaborating with Ames National Laboratory and DOE energy innovation hubs to establish domestic recycling supply chains for strategic materials.
+* **EPRI (Electric Power Research Institute):** Electric power research coordination, AI grid simulation toolkits, and nuclear energy modernization:
+  * **Electric Power Research & Grid Modernization:** Coordinating electric power research across utilities, national labs, and technology vendors to accelerate grid decarbonization and resilience.
+  * **AI & HPC Grid Simulation Frameworks:** Developing open-source power system modeling platforms, fault diagnostic algorithms, and AI grid co-simulation toolkits for exascale computing backends.
+  * **Nuclear Energy & Clean Infrastructure Deployment:** Partnering with INL and nuclear utilities on small modular reactor (SMR) licensing, plant life extension, and autonomous safety monitoring systems.
+* **GE Aerospace:** Advanced aerospace propulsion, high-temperature ceramic matrix composites (CMCs), and exascale combustion CFD:
+  * **Aerospace Energy Systems & Advanced Propulsion:** High-temperature ceramic matrix composites (CMCs), additive manufacturing, and high-efficiency gas turbine propulsion systems.
+  * **HPC Combustion & Computational Fluid Dynamics:** Utilizing DOE supercomputing facilities (Frontier, Aurora) for petascale fluid dynamics and combustion modeling in extreme thermal environments.
+  * **Dual-Use Clean Energy Technologies:** Collaborating with national laboratories on hydrogen-fueled propulsion, hybrid-electric aviation, and extreme-environment materials testing.
+* **ISO New England:** Regional power grid dispatch, dynamic transmission stability, and quantum-safe grid cybersecurity:
+  * **Regional ISO Power Grid Operations:** Operating regional wholesale electricity markets and transmission grids, serving as a primary testing ground for advanced AI grid dispatch.
+  * **Dynamic Grid Stability & Renewable Integration:** Partnering with NREL and PNNL to deploy real-time dynamic line rating, probabilistic load forecasting, and grid inertia co-simulations.
+  * **Cybersecurity & Resilient Grid Architecture:** Integrating federal cybersecurity protocols, zero-trust network architectures, and quantum-safe communications across regional ISO control centers.
+* **MP Materials:** Domestic rare earth mining, NdPr magnet manufacturing, and AI-driven mineral separation:
+  * **Domestic Rare Earth Mining & Processing:** Operating the Mountain Pass rare earth mine and refining facility, supplying light and heavy rare earth oxides (Neodymium, Praseodymium, Dysprosium) for permanent magnets.
+  * **Magnet Manufacturing & Supply Chain Independence:** Establishing domestic magnetics manufacturing capacity for EV traction motors, wind turbines, and defense guidance systems under federal supply chain initiatives.
+  * **AI-Enhanced Mineral Processing & Separation:** Collaborating with DOE national labs (Ames, NETL) to deploy AI-driven solvent extraction and reagent optimization algorithms for high-purity REE separation.
+* **Niron Magnets:** Rare-earth-free permanent magnet production ($Fe_{16}N_2$) and high-throughput materials co-design:
+  * **Clean Earth Magnet Technology & Rare-Earth-Free Magnets:** Manufacturing high-performance Iron Nitride ($Fe_{16}N_2$) permanent magnets, eliminating dependence on critical rare earth elements.
+  * **Domestic Magnetics Fabrication & Scale-Up:** Scaling commercial production of rare-earth-free permanent magnets for electric vehicles, industrial motors, and defense applications under federal energy grants.
+  * **Materials Co-Design & Microstructure Engineering:** Utilizing DOE high-throughput computing and synchrotron beamlines (ANL APS) to optimize atomic-level crystal structures and magnetic coercivity.
+* **Nusano:** Multi-particle linear accelerator platform for high-yield medical and industrial radioisotope production:
+  * **Particle Accelerator-Based Isotope Production:** Operating multi-particle linear accelerator platforms for high-yield production of medical and industrial radioisotopes (e.g., Actinium-225, Lutetium-177).
+  * **Nuclear & Accelerator Physics R&D:** Partnering with national laboratories (LLNL, LANL, BNL) on targetry physics, radio-chemistry automated separation, and high-power beamline engineering.
+  * **Critical Medical Supply Chain Security:** Providing domestic radioisotope supply channels for targeted alpha therapy (TAT) cancer treatments and industrial radiography applications.
+* **Phoenix Tailings:** Zero-waste critical mineral extraction from tailings and low-temperature refining:
+  * **Zero-Waste Critical Minerals Processing:** Sustainable bio-leaching and clean chemical refining platforms to extract critical minerals (nickel, cobalt, REEs) from mining tailings and industrial waste streams.
+  * **Environmentally Clean Refining & Carbon Neutrality:** Eliminating toxic byproducts and carbon emissions from critical mineral refining using proprietary low-temperature chemical processes.
+  * **DOE ARPA-E & Critical Minerals Integration:** Partnering with DOE ARPA-E and national labs to commercialize domestic extraction of strategic materials from secondary mineral reserves.
+* **PMT Critical Metals:** Refractory metals processing, strategic minerals supply chain management, and high-temperature alloy metallurgy:
+  * **Critical Metals & Heavy Minerals Processing:** Refining, processing, and supply chain management of refractory metals, titanium, zirconium, and critical mineral concentrates for defense and clean energy applications.
+  * **Domestic Supply Chain Resilience:** Establishing domestic processing and alloying facilities aligned with federal critical material stockpiling initiatives under CHIPS and Genesis Mission mandates.
+  * **Advanced Metallurgy & Alloy Formulation:** Partnering with national lab materials centers to synthesize high-temperature structural alloys and corrosion-resistant coatings.
+* **Ramaco (Ramaco Resources):** Coal-to-materials manufacturing, synthetic graphite anode production, and REE extraction from carbon deposits:
+  * **Carbon-to-Value & Advanced Coal-Derived Materials:** Pioneering conversion of metallurgical coal reserves into high-value carbon materials, synthetic graphite, carbon fiber, and rare earth element concentrates (Brook Mine deposit).
+  * **DOE NETL Research Collaboration:** Partnering with National Energy Technology Laboratory (NETL) and Oak Ridge National Laboratory to refine carbon-based building blocks and REE extraction methods.
+  * **Domestic Graphite & Battery Anode Materials:** Developing domestic synthetic graphite production lines for lithium-ion battery anodes and nuclear-grade structural carbon.
+* **Tennessee Valley Authority (TVA):** Small modular reactor (SMR) nuclear deployment, public power grid decarbonization, and exascale energy co-simulation:
+  * **Federal Power Utility & Energy Innovation Hub:** Operating the nation's largest public power provider, serving as a flagship demonstration bed for advanced nuclear (SMRs), hydro, and clean energy grid integration.
+  * **Advanced Nuclear Demonstration & Small Modular Reactors:** Partnering with DOE and INL to deploy first-of-a-kind SMR nuclear reactors (Clinch River site) and autonomous reactor management platforms.
+  * **Grid Decarbonization & Regional Energy Resilience:** Co-simulating regional power dynamics, carbon capture integration, and massive energy storage dispatch on national lab HPC supercomputers.
 
 ### 3.2 National Laboratories
 The DOE Office of Science directed funding across primary laboratory nodes:
@@ -436,19 +488,19 @@ Industry contributors span cloud and AI hyperscalers, semiconductor manufacturer
 #### Energy, Utilities & Critical Materials
 | Organization | Primary Contribution |
 | :--- | :--- |
-| Albemarle | Lithium and specialty chemicals |
-| ComEd | Electric utility; grid integration |
-| EPRI | Electric power research |
-| ISO New England | Regional grid operations |
-| Tennessee Valley Authority (TVA) | Federal power utility |
-| GE Aerospace | Aerospace energy systems |
-| MP Materials | Rare earth materials |
-| Phoenix Tailings | Critical minerals processing |
-| PMT Critical Metals | Critical metals supply chain |
-| Critical Materials Recycling | Materials recovery and recycling |
-| Niron Magnets | Rare-earth-free permanent magnets |
-| Ramaco | Carbon and advanced materials |
-| Nusano | Particle accelerator-based isotope production |
+| Albemarle | Lithium extraction, refining technologies, solid-state battery material R&D & supply chain security |
+| ComEd | Smart grid integration, quantum-in-the-loop power flow simulation & urban grid digital twins |
+| EPRI | Electric power research coordination, AI grid simulation toolkits & nuclear SMR licensing |
+| ISO New England | Regional power grid dispatch, dynamic transmission stability & quantum-safe grid cybersecurity |
+| Tennessee Valley Authority (TVA) | Federal power utility, Clinch River SMR nuclear demonstration & exascale grid co-simulation |
+| GE Aerospace | Advanced aerospace propulsion, high-temperature ceramic matrix composites (CMCs) & combustion CFD |
+| MP Materials | Mountain Pass rare earth mining, NdPr magnet manufacturing & AI mineral separation |
+| Phoenix Tailings | Zero-waste critical mineral extraction from mining tailings & low-temperature clean refining |
+| PMT Critical Metals | Refractory metals processing, strategic minerals supply chain management & high-temperature metallurgy |
+| Critical Materials Recycling | Rare earth element recovery, closed-loop mineral processing & e-waste recycling |
+| Niron Magnets | Clean Earth rare-earth-free permanent magnet production ($Fe_{16}N_2$) & materials co-design |
+| Ramaco | Coal-to-materials manufacturing, synthetic graphite battery anode production & Brook Mine REE extraction |
+| Nusano | Multi-particle linear accelerator platform for medical & industrial radioisotope production |
 
 #### Laboratory Automation & Specialized Technology
 | Organization | Primary Contribution |

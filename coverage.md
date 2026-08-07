@@ -80,19 +80,19 @@
 
 | # | Company | Coverage | Paper Section | Notes |
 |---|---------|----------|---------------|-------|
-| 40 | Albemarle | 📋 Brief Mention | A.3 | Lithium and specialty chemicals |
-| 41 | ComEd | 📋 Brief Mention | A.3 | Electric utility; grid integration |
-| 42 | Critical Materials Recycling | 📋 Brief Mention | A.3 | Materials recovery and recycling |
-| 43 | EPRI | 📋 Brief Mention | A.3 | Electric power research |
-| 44 | GE Aerospace | 📋 Brief Mention | A.3 | Aerospace energy systems |
-| 45 | ISO New England | 📋 Brief Mention | A.3 | Regional grid operations |
-| 46 | MP Materials | 📋 Brief Mention | A.3 | Rare earth materials |
-| 47 | Niron Magnets | 📋 Brief Mention | A.3 | Rare-earth-free permanent magnets |
-| 48 | Nusano | 📋 Brief Mention | A.3 | Particle accelerator-based isotope production |
-| 49 | Phoenix Tailings | 📋 Brief Mention | A.3 | Critical minerals processing |
-| 50 | PMT Critical Metals | 📋 Brief Mention | A.3 | Critical metals supply chain |
-| 51 | Ramaco | 📋 Brief Mention | A.3 | Carbon and advanced materials |
-| 52 | Tennessee Valley Authority | 📋 Brief Mention | A.3 | Federal power utility |
+| 40 | Albemarle | ✅ Full Profile | §3.1, A.3 | Lithium extraction, refining technologies, solid-state battery material R&D & supply chain security |
+| 41 | ComEd | ✅ Full Profile | §3.1, A.3 | Smart grid integration, quantum-in-the-loop power flow simulation & urban grid digital twins |
+| 42 | Critical Materials Recycling | ✅ Full Profile | §3.1, A.3 | Rare earth element recovery, closed-loop mineral processing & e-waste recycling |
+| 43 | EPRI | ✅ Full Profile | §3.1, A.3 | Electric power research coordination, AI grid simulation toolkits & nuclear SMR licensing |
+| 44 | GE Aerospace | ✅ Full Profile | §3.1, A.3 | Advanced aerospace propulsion, high-temperature ceramic matrix composites (CMCs) & combustion CFD |
+| 45 | ISO New England | ✅ Full Profile | §3.1, A.3 | Regional power grid dispatch, dynamic transmission stability & quantum-safe grid cybersecurity |
+| 46 | MP Materials | ✅ Full Profile | §3.1, A.3 | Mountain Pass rare earth mining, NdPr magnet manufacturing & AI mineral separation |
+| 47 | Niron Magnets | ✅ Full Profile | §3.1, A.3 | Clean Earth rare-earth-free permanent magnet production ($Fe_{16}N_2$) & materials co-design |
+| 48 | Nusano | ✅ Full Profile | §3.1, A.3 | Multi-particle linear accelerator platform for medical & industrial radioisotope production |
+| 49 | Phoenix Tailings | ✅ Full Profile | §3.1, A.3 | Zero-waste critical mineral extraction from mining tailings & low-temperature clean refining |
+| 50 | PMT Critical Metals | ✅ Full Profile | §3.1, A.3 | Refractory metals processing, strategic minerals supply chain management & high-temperature metallurgy |
+| 51 | Ramaco | ✅ Full Profile | §3.1, A.3 | Coal-to-materials manufacturing, synthetic graphite battery anode production & Brook Mine REE extraction |
+| 52 | Tennessee Valley Authority | ✅ Full Profile | §3.1, A.3 | Federal power utility, Clinch River SMR nuclear demonstration & exascale grid co-simulation |
 
 ---
 
@@ -233,20 +233,20 @@
 
 | Entity Type | Total | ✅ Full | 📋 Brief | ❌ Not Covered |
 |:---|:---:|:---:|:---:|:---:|
-| Industry Partners | 61 | 42 | 19 | 0 |
+| Industry Partners | 61 | 55 | 6 | 0 |
 | Federal Agencies | 9 | 4 | 5 | 0 |
 | National Laboratories | 17 | 13 | 4 | 0 |
 | Universities | 57 | 1 | 56 | 0 |
 | Additional Research Orgs | 4 | 2 | 2 | 0 |
-| **Total** | **148** | **62** | **86** | **0** |
+| **Total** | **148** | **75** | **73** | **0** |
 
 ### By Coverage Level
 
 | Coverage Level | Count | Percentage |
 |:---|:---:|:---:|
-| ✅ Full Profile | 62 | 42% |
-| 📋 Brief Mention | 86 | 58% |
+| ✅ Full Profile | 75 | 51% |
+| 📋 Brief Mention | 73 | 49% |
 | ❌ Not Covered | 0 | 0% |
 | **Total Entities** | **148** | **100%** |
 
-> **Note:** All 148 identified Genesis Mission ecosystem participants have at least table-level or list representation in the research paper. 62 entities have dedicated, detailed technical profiles. No collaborators from the reference list are completely absent from the research paper.
+> **Note:** All 148 identified Genesis Mission ecosystem participants have at least table-level or list representation in the research paper. 75 entities have dedicated, detailed technical profiles. No collaborators from the reference list are completely absent from the research paper.
