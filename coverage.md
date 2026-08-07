@@ -61,17 +61,17 @@
 | # | Company | Coverage | Paper Section | Notes |
 |---|---------|----------|---------------|-------|
 | 27 | Applied Materials | ✅ Full Profile | §3.1, A.3 | Advanced semiconductor wafer fabrication equipment, materials engineering, 3D packaging & quantum material deposition |
-| 28 | AVEVA | 📋 Brief Mention | §3.1 (grouped), A.3 | Industrial software and digital twins |
-| 29 | Collins Aerospace | 📋 Brief Mention | §3.1 (grouped), A.3 | Aerospace microelectronics |
-| 30 | Cornelis Networks | 📋 Brief Mention | A.3 | High-performance fabric networking; DOE partnership |
-| 31 | Kitware | 📋 Brief Mention | A.3 | Scientific visualization and computing |
-| 32 | Micron | 📋 Brief Mention | §3.1 (grouped), A.3 | Memory and semiconductor technology |
-| 33 | New York Creates | 📋 Brief Mention | A.3 | Semiconductor research hub |
-| 34 | Nokia | 📋 Brief Mention | §3.1 (grouped), A.3 | Networking infrastructure |
-| 35 | RTX | 📋 Brief Mention | §3.1 (grouped), A.3 | Defense and aerospace technology |
-| 36 | Semiconductor Industry Association | 📋 Brief Mention | A.3 | Industry coordination and policy |
-| 37 | Siemens | 📋 Brief Mention | §3.1 (grouped), A.3 | Industrial AI; digital twin infrastructure |
-| 38 | Synopsys | 📋 Brief Mention | §3.1 (grouped), A.3 | Electronic design automation (EDA) tooling |
+| 28 | AVEVA | ✅ Full Profile | §3.1, A.3 | Enterprise industrial software, SCADA integration, operational telemetry & clean energy digital twins |
+| 29 | Collins Aerospace | ✅ Full Profile | §3.1, A.3 | Radiation-hardened microelectronics, avionics compute & edge AI sensor platforms |
+| 30 | Cornelis Networks | ✅ Full Profile | §3.1, A.3 | Next-generation Omni-Path (OPX) high-performance fabric interconnects & scale-out exascale AI networks |
+| 31 | Kitware | ✅ Full Profile | §3.1, A.3 | Open-source scientific visualization (ParaView, VTK, CMake), in-situ HPC analytics & FAIR computer vision |
+| 32 | Micron | ✅ Full Profile | §3.1, A.3 | High-bandwidth memory (HBM3e/HBM4), CXL memory modules & sub-nanometer DRAM R&D |
+| 33 | New York Creates | ✅ Full Profile | §3.1, A.3 | Albany NanoTech 300mm R&D hub, CHIPS Act EUV lithography center & 3D packaging pilot lines |
+| 34 | Nokia | ✅ Full Profile | §3.1, A.3 | Optical networking backbones, mission-critical 5G/6G wireless infrastructure & Bell Labs quantum optics |
+| 35 | RTX | ✅ Full Profile | §3.1, A.3 | RF microelectronics, wide-bandgap semiconductors, quantum sensing & aerospace multi-physics CFD |
+| 36 | Semiconductor Industry Association | ✅ Full Profile | §3.1, A.3 | CHIPS Act microelectronics policy coordination, workforce development & supply chain strategy |
+| 37 | Siemens | ✅ Full Profile | §3.1, A.3 | Industrial AI software, Xcelerator digital twins, DOE strategic MOU & smart grid automation |
+| 38 | Synopsys | ✅ Full Profile | §3.1, A.3 | Electronic design automation (EDA) tooling, AI-driven DSO.ai chip optimization & TCAD physics solvers |
 | 39 | xLight | ✅ Full Profile | §3.1, A.3 | $150M CHIPS Act; FEL EUV lithography; Fermilab CRADA |
 
 ---
@@ -233,20 +233,20 @@
 
 | Entity Type | Total | ✅ Full | 📋 Brief | ❌ Not Covered |
 |:---|:---:|:---:|:---:|:---:|
-| Industry Partners | 61 | 32 | 29 | 0 |
+| Industry Partners | 61 | 42 | 19 | 0 |
 | Federal Agencies | 9 | 4 | 5 | 0 |
 | National Laboratories | 17 | 13 | 4 | 0 |
 | Universities | 57 | 1 | 56 | 0 |
 | Additional Research Orgs | 4 | 2 | 2 | 0 |
-| **Total** | **148** | **52** | **96** | **0** |
+| **Total** | **148** | **62** | **86** | **0** |
 
 ### By Coverage Level
 
 | Coverage Level | Count | Percentage |
 |:---|:---:|:---:|
-| ✅ Full Profile | 52 | 35% |
-| 📋 Brief Mention | 96 | 65% |
+| ✅ Full Profile | 62 | 42% |
+| 📋 Brief Mention | 86 | 58% |
 | ❌ Not Covered | 0 | 0% |
 | **Total Entities** | **148** | **100%** |
 
-> **Note:** All 148 identified Genesis Mission ecosystem participants have at least table-level or list representation in the research paper. 52 entities have dedicated, detailed technical profiles. No collaborators from the reference list are completely absent from the research paper.
+> **Note:** All 148 identified Genesis Mission ecosystem participants have at least table-level or list representation in the research paper. 62 entities have dedicated, detailed technical profiles. No collaborators from the reference list are completely absent from the research paper.
