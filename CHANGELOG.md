@@ -7,6 +7,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
+## [1.4.5] - 2026-08-08
+
+### Changed
+- **Paper Enrichment (Entry #38 - Microsoft)**: Processed reference entry #38 (`Microsoft`, `www.microsoft.com`). Enriched Section 3.1 A in `README.md` and `README.de.md` with explicit technical details on $60 Million MOU commitment ($40 Million Azure compute credits + $20 Million engineering services), **SPARK** program office, **Microsoft Discovery** platform, **MatterGen** and **MatterSim** AI foundation models, and **Majorana 1** topological quantum processors across national laboratories (PNNL, ANL, ORNL, LBNL).
+- **Index Status Update**: Marked Entry #38 status to `Processed` in `reference_coverage.md` and updated executive metrics to `38 / 337 Processed`.
+- **Version Bump**: Incremented patch version to `1.4.5` in `README.md` and `README.de.md`.
+
+---
+
 ## [1.4.4] - 2026-08-08
 
 ### Changed

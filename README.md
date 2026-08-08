@@ -1,4 +1,4 @@
-**Version**: 1.4.4
+**Version**: 1.4.5
 
 # The Genesis Mission: Architecture, Strategic Initiatives, and the Multi-Institutional Ecosystem for AI and Quantum-Driven Scientific Discovery
 
@@ -216,7 +216,7 @@ A defining feature of the Genesis Mission is its multi-sector operational model 
 * **FutureHouse:** Strategic non-profit AI research partnership deploying autonomous scientific AI LLM reasoning agents (**PaperQA**, **WikiCrow**, **ChemCrow**, **CrowOmni**) across DOE National Laboratories (LBNL, ANL, PNNL) for automated biomedical literature synthesis, closed-loop hypothesis generation, self-driving chemistry/biology lab orchestration, and agentic research workflows.
 * **LILA:** Strategic partnership and collaborative AI platform integration with the U.S. Department of Energy (DOE) joining the Genesis Mission to deploy open AI infrastructure, multi-institutional scientific collaboration platforms, automated literature synthesis engines, and domain-specialized LLM agent architectures across national laboratories (ORNL, ANL, LBNL) and research universities.
 * **Meta AI:** Deep integration of open models (e.g., Segment Anything, DINO) with LBNL imaging and particle diffraction pipelines.
-* **Microsoft:** Committing $60 Million ($40 Million compute credits + $20 Million engineering services) to launch the **SPARK** program office, deploy the **Microsoft Discovery** platform, provision **MatterGen** and **MatterSim** foundation models, and integrate Majorana topological quantum processors across DOE labs.
+* **Microsoft:** Committing $60 Million ($40 Million Azure compute credits + $20 Million dedicated engineering services) under a strategic Memorandum of Understanding (MOU) with the DOE to launch the **SPARK** program office, deploy the **Microsoft Discovery** platform, provision AI materials discovery foundation models (**MatterGen**, **MatterSim**), and integrate topological quantum processors (**Majorana 1** QPU) across DOE National Laboratories (PNNL, ANL, ORNL, LBNL) for hybrid classical-quantum materials synthesis.
 * **NVIDIA:** Strategic Memorandum of Understanding (MOU) with the DOE to power AI infrastructure (**Solstice** and **Equinox** at ANL), co-develop the **NVIDIA Apollo** open science model family, deploy **Omniverse** physical AI digital twins, and accelerate quantum circuit emulation.
 * **OpenAI:** Strategic partnership and Memorandum of Understanding (MOU) with the DOE (*"Advancing the Next Era of National Science"*) establishing secure access to OpenAI frontier reasoning models (including o1 and o3 series) and agentic workflows for all 17 national laboratories.
 * **Oracle:** Provisioning enterprise cloud, high-performance database infrastructure, and scalable compute clusters for DOE national security and clean energy simulations.

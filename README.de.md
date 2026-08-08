@@ -1,4 +1,4 @@
-**Version**: 1.4.4
+**Version**: 1.4.5
 
 # Die Genesis-Mission: Architektur, strategische Initiativen und das multi-institutionelle Ökosystem für KI- und quantengetriebene wissenschaftliche Entdeckungen
 
@@ -216,7 +216,7 @@ Ein bestimmendes Merkmal der Genesis-Mission ist ihr sektorübergreifendes Betri
 * **FutureHouse:** Strategische gemeinnützige KI-Forschungspartnerschaft zum Einsatz autonomer wissenschaftlicher KI-LLM-Schlussfolgerungsagenten (**PaperQA**, **WikiCrow**, **ChemCrow**, **CrowOmni**) in DOE National Laboratories (LBNL, ANL, PNNL) für automatisierte biomedizinische Literatursynthese, geschlossene Hypothesengenerierung, selbstfahrende Chemie-/Biologielabor-Orchestrierung und agentische Forschungsabläufe.
 * **LILA:** Strategische Partnerschaft und kollaborative KI-Plattformintegration mit dem Energieministerium (DOE) im Rahmen der Genesis-Mission zur Bereitstellung offener KI-Infrastrukturen, multi-institutioneller wissenschaftlicher Kollaborationsplattformen, automatisierter Literatursynthese-Engines und domänenspezifischer LLM-Agentenarchitekturen in Nationalen Laboratorien (ORNL, ANL, LBNL) und Forschungsuniversitäten.
 * **Meta AI:** Tiefe Integration offener Modelle (z. B. Segment Anything, DINO) in Bildgebungs- und Teilchenbeugungspipelines des LBNL.
-* **Microsoft:** Zusage von 60 Millionen US-Dollar (40 Millionen US-Dollar Rechenguthaben + 20 Millionen US-Dollar Engineering-Services) zur Einrichtung des **SPARK**-Programmbüros, Bereitstellung der **Microsoft Discovery**-Plattform, Bereitstellung von **MatterGen**- und **MatterSim**-Basismodellen und Integration topologischer Majorana-Quantenprozessoren.
+* **Microsoft:** Zusage von 60 Millionen US-Dollar (40 Millionen US-Dollar Azure-Rechenguthaben + 20 Millionen US-Dollar dedizierte Engineering-Services) im Rahmen einer strategischen Absichtserklärung (MOU) mit dem DOE zur Einrichtung des **SPARK**-Programmbüros, Bereitstellung der **Microsoft Discovery**-Plattform, Bereitstellung von KI-Materialentdeckungsmodell-Familien (**MatterGen**, **MatterSim**) und Integration topologischer Quantenprozessoren (**Majorana 1** QPU) in DOE National Laboratories (PNNL, ANL, ORNL, LBNL) für die hybride klassisch-quantenbasierte Materialsynthese.
 * **NVIDIA:** Strategische Absichtserklärung (MOU) mit dem DOE zum Antrieb der KI-Infrastruktur (**Solstice** und **Equinox** am ANL), Co-Entwicklung der **NVIDIA Apollo**-Modellfamilie, Einsatz von **Omniverse** physikalischen KI-digitalen Zwillingen und Beschleunigung der Quantenschaltkreisemulation.
 * **OpenAI:** Strategische Partnerschaft und Absichtserklärung (MOU) mit dem DOE (*"Advancing the Next Era of National Science"*), die allen 17 nationalen Laboratorien sicheren Zugang zu OpenAI-Spitzenmodellen (einschließlich o1- und o3-Serien) gewährt.
 * **Oracle:** Bereitstellung von Enterprise Cloud, Hochleistungs-Datenbankinfrastruktur und skalierbaren Rechenclustern.
