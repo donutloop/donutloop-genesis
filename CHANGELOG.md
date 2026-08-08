@@ -7,6 +7,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
+## [1.1.7] - 2026-08-08
+
+### Changed
+- **Paper Enrichment (Entry #9 - Atom Computing)**: Processed reference entry #9 (`Atom Computing`, `atom-computing.com`). Enriched Section 3.1 B in `README.md` and `README.de.md` with explicit technical details on Atom Computing $100M CHIPS and Science Act LOI, neutral-atom quantum hardware scaling (1,000+ qubits), and open-source "quantum-in-the-loop" interfaces co-simulating power grid stability with NREL ARIES.
+- **Index Status Update**: Marked Entry #9 status to `Processed` in `reference_coverage.md` and updated executive metrics to `9 / 337 Processed`.
+- **Version Bump**: Incremented patch version to `1.1.7` in `README.md` and `README.de.md`.
+
+---
+
 ## [1.1.6] - 2026-08-08
 
 ### Changed
