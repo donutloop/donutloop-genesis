@@ -7,6 +7,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
+## [1.1.5] - 2026-08-08
+
+### Changed
+- **Paper Enrichment (Entry #7 - Anthropic)**: Processed reference entry #7 (`Anthropic`, `www.anthropic.com/research/introducing-anthropic-science`). Enriched Section 3.1 A in `README.md` and `README.de.md` with explicit technical details on Anthropic frontier LLM reasoning agents (*Anthropic Science*), multi-step reasoning for scientific CUDA/Fortran exascale code refactoring, scientific literature synthesis, and closed-loop lab orchestration under federal DOE MOU guidelines.
+- **Index Status Update**: Marked Entry #7 status to `Processed` in `reference_coverage.md` and updated executive metrics to `7 / 337 Processed`.
+- **Version Bump**: Incremented patch version to `1.1.5` in `README.md` and `README.de.md`.
+
+---
+
 ## [1.1.4] - 2026-08-08
 
 ### Changed

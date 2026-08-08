@@ -1,4 +1,4 @@
-**Version**: 1.1.4
+**Version**: 1.1.5
 
 # Die Genesis-Mission: Architektur, strategische Initiativen und das multi-institutionelle Ökosystem für KI- und quantengetriebene wissenschaftliche Entdeckungen
 
@@ -207,7 +207,7 @@ Ein bestimmendes Merkmal der Genesis-Mission ist ihr sektorübergreifendes Betri
 
 #### A. Spitzen-KI, Cloud & Hyperscale-Computing
 * **Amazon Web Services (AWS):** Zusage von 100 Millionen US-Dollar an Cloud-HPC-Rechenguthaben für den öffentlichen Sektor, Bereitstellung von hochdichten Graviton4-ARM-Instanzen, Trainium2/Inferentia2-KI-Beschleunigern, Post-Quanten-Kryptografie-Sicherheitsprotokollen (KEM / Post-Quanten-TLS) und cloudbasierter Hochdurchsatz-Infrastruktur für wissenschaftliche Arbeitsabläufe (z. B. digitale Nuklear-SMR-Zwillinge am INL und Host-Services für FAIR-Datenressourcen).
-* **Anthropic:** Strategische Partnerschaft und Absichtserklärung (MOU) mit dem US-Energieministerium (DOE) zum Einsatz führender LLM-Schlussfolgerungsagenten und spezialisierter wissenschaftlicher Modelle (*Anthropic Science*).
+* **Anthropic:** Strategische Partnerschaft und Absichtserklärung (MOU) mit dem US-Energieministerium (DOE) zum Einsatz führender LLM-Schlussfolgerungsagenten, spezialisierter wissenschaftlicher Modelle (*Anthropic Science*) und mehrstufiger Reasoning-Fähigkeiten für die wissenschaftliche Code-Refaktorisierung (CUDA/Fortran-Exascale-Kernel), Literatursynthese und geschlossene Labor-Orchestrierung in allen 17 Nationalen Laboratorien.
 * **Cerebras:** Strategische Absichtserklärung (MOU) mit dem DOE zur Beschleunigung der Genesis-Mission unter Nutzung von Wafer-Scale-KI-Supercomputing-Architekturen.
 * **Dell Technologies:** Bereitstellung von KI-Fabrikinfrastruktur, wassergekühltem Enterprise-Computing und hochdichten HPC-Serverlösungen (PowerEdge-Serverplattformen).
 * **Google Public Sector & DeepMind:** Zusage von 40 Millionen US-Dollar an KI-Tokens, Cloud-Gutschriften und sicheren Arbeitsplätzen in allen 17 DOE National Laboratories zum Einsatz von Enterprise-Cloud-Infrastruktur und Spitzen-KI-Modellen (**Gemini for Government**, **AI Co-Scientist**, **AlphaEvolve**, **AlphaFold**, **AlphaGenome**, **WeatherNext** und **AlphaEarth Foundations**).

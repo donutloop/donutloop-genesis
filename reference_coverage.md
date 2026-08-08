@@ -15,7 +15,7 @@
 | **Official PDF Documents** | **14** | Formal RFA solicitations, webinars, slides, and executive reports |
 | **Web Portals & Press Releases** | **323** | Newsroom features, corporate blog posts, and interactive hubs |
 | **Validation Status** | **100% Validated** | All links canonicalized, formatted, and deduplicated |
-| **Processing Status** | **6 / 337 Processed** | 331 Unprocessed, 6 Processed |
+| **Processing Status** | **7 / 337 Processed** | 330 Unprocessed, 7 Processed |
 
 ---
 
@@ -74,7 +74,7 @@ A complete tabular listing of all 337 indexed reference links:
 | 4 | 2. Collaborators | - | Albemarle | `www.albemarle.com` | Web | [Albemarle](https://www.albemarle.com/) | `Processed` |
 | 5 | 2. Collaborators | - | Amazon Web Services (AWS) | `aws.amazon.com` | Web | [Amazon Web Services (AWS)](https://aws.amazon.com/) | `Processed` |
 | 6 | 2. Collaborators | - | AMD | `www.amd.com` | Web | [AMD](https://www.amd.com/) | `Processed` |
-| 7 | 2. Collaborators | - | Anthropic | `www.anthropic.com` | Web | [Anthropic](https://www.anthropic.com/research/introducing-anthropic-science) | `Unprocessed` |
+| 7 | 2. Collaborators | - | Anthropic | `www.anthropic.com` | Web | [Anthropic](https://www.anthropic.com/research/introducing-anthropic-science) | `Processed` |
 | 8 | 2. Collaborators | - | Applied Materials | `www.appliedmaterials.com` | Web | [Applied Materials](https://www.appliedmaterials.com/) | `Unprocessed` |
 | 9 | 2. Collaborators | - | Atom Computing | `atom-computing.com` | Web | [Atom Computing](https://atom-computing.com/) | `Unprocessed` |
 | 10 | 2. Collaborators | - | Atomic Canyon | `www.atomiccanyon.com` | Web | [Atomic Canyon](https://www.atomiccanyon.com/) | `Unprocessed` |
