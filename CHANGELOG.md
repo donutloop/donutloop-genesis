@@ -7,6 +7,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
+## [1.3.2] - 2026-08-08
+
+### Changed
+- **Paper Enrichment (Entry #24 - Esri)**: Processed reference entry #24 (`Esri`, `www.esri.com`). Enriched Section 3.1 C in `README.md` and `README.de.md` with explicit technical details on enterprise **ArcGIS Enterprise** platforms, spatial analytics engines (**GeoAI**), satellite remote sensing telemetry ingestion, multi-resolution geospatial digital twins, and climate resiliency modeling across DOE National Laboratories (ORNL, PNNL, NREL, LBNL).
+- **Index Status Update**: Marked Entry #24 status to `Processed` in `reference_coverage.md` and updated executive metrics to `24 / 337 Processed`.
+- **Version Bump**: Incremented patch version to `1.3.2` in `README.md` and `README.de.md`.
+
+---
+
 ## [1.3.1] - 2026-08-08
 
 ### Changed
