@@ -7,6 +7,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
+## [1.0.9] - 2026-08-08
+
+### Changed
+- **Paper Enrichment (Entry #2 - Albemarle)**: Processed reference entry #2 (`Albemarle`) from `www.albemarle.com`. Enriched Section 2.3 D and Section 3.1 C in `README.md` and `README.de.md` with concrete technical details on Direct Lithium Extraction (DLE) chemical processes, high-purity battery-grade lithium hydroxide/carbonate refining, solid-state electrolyte substrate R&D, and critical mineral supply chain security in collaboration with DOE National Laboratories (Ames, NETL, PNNL).
+- **Index Status Update**: Marked Entry #2 status to `Processed` in `reference_coverage.md` and updated processing metric to `2 / 338 Processed`.
+- **Version Bump**: Incremented patch version to `1.0.9` in `README.md` and `README.de.md`.
+
+---
+
 ## [1.0.8] - 2026-08-08
 
 ### Added

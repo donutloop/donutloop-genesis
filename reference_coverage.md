@@ -15,7 +15,7 @@
 | **Official PDF Documents** | **14** | Formal RFA solicitations, webinars, slides, and executive reports |
 | **Web Portals & Press Releases** | **324** | Newsroom features, corporate blog posts, and interactive hubs |
 | **Validation Status** | **100% Validated** | All links canonicalized, formatted, and deduplicated |
-| **Processing Status** | **1 / 338 Processed** | 337 Unprocessed, 1 Processed |
+| **Processing Status** | **2 / 338 Processed** | 336 Unprocessed, 2 Processed |
 
 ---
 
@@ -69,7 +69,7 @@ A complete tabular listing of all 338 indexed reference links:
 | # | Category / Section | Entity / Subject | Title | Domain | Type | Link | Status |
 |---|---|---|---|---|:---:|---|:---:|
 | 1 | 1. Key Presentation Details | Document | Genesis Mission and HEP - LHC (PDF) | `indico.cern.ch` | PDF | [Genesis Mission and HEP - LHC (PDF)](https://indico.cern.ch/event/1662511/contributions/6989580/attachments/3241179/5781542/Genesis%20Mission%20and%20HEP%20-%20LHC.pdf) | `Processed` |
-| 2 | 2. Collaborators | - | Albemarle | `www.albemarle.com` | Web | [Albemarle](https://www.albemarle.com/) | `Unprocessed` |
+| 2 | 2. Collaborators | - | Albemarle | `www.albemarle.com` | Web | [Albemarle](https://www.albemarle.com/) | `Processed` |
 | 3 | 2. Collaborators | - | Amazon Web Services (AWS) | `aws.amazon.com` | Web | [Amazon Web Services (AWS)](https://aws.amazon.com/blogs/publicsector/aws-powering-americas-genesis-mission-from-day-one/) | `Unprocessed` |
 | 4 | 2. Collaborators | - | AMD | `www.amd.com` | Web | [AMD](https://www.amd.com/en/blogs/2025/amd-powers-the-united-states--genesis-mission-to-advance-ai-enab.html) | `Unprocessed` |
 | 5 | 2. Collaborators | - | Anthropic | `www.anthropic.com` | Web | [Anthropic](https://www.anthropic.com/research/introducing-anthropic-science) | `Unprocessed` |

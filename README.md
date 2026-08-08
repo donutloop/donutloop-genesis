@@ -1,4 +1,4 @@
-**Version**: 1.0.8
+**Version**: 1.0.9
 
 # The Genesis Mission: Architecture, Strategic Initiatives, and the Multi-Institutional Ecosystem for AI and Quantum-Driven Scientific Discovery
 
@@ -166,6 +166,7 @@ A major thrust of the Genesis Mission relies on industrial AI, robotics, physica
 * **Idaho National Laboratory (INL):** Deployment of AWS Cloud AI/HPC pipelines to model nuclear thermal-hydraulics and fuel cycle degradation, alongside Microsoft AI integration to automate nuclear safety licensing documentation and demonstrate remote autonomous power control of research reactors.
 * **National Energy Technology Laboratory (NETL) & Arizona State University:** AI agents monitoring electrical grid instability, managing supply chain vulnerabilities, and optimizing carbon capture chemistry.
 * **National Renewable Energy Laboratory (NREL) & Atom Computing:** Integration of optically trapped neutral-atom quantum processors into NREL's Advanced Research on Integrated Energy Systems (ARIES) platform, creating open-source "quantum-in-the-loop" interfaces connecting neutral-atom QPUs with real-time power grid hardware simulators to solve complex feeder line rerouting and dynamic load balancing problems during equipment outages.
+* **Critical Minerals & Battery Storage (Albemarle & DOE National Labs):** Deployment of AI-assisted Direct Lithium Extraction (DLE) chemical processes, high-purity battery-grade lithium hydroxide and carbonate refining, and solid-state electrolyte material synthesis to secure domestic energy storage supply chains.
 * **Tulane University & LBNL:** Generative AI models coupled with robotic chemical platforms (e.g., Emerald Cloud Lab, Chemspeed) for continuous high-throughput material discovery.
 
 ---
@@ -240,7 +241,7 @@ A defining feature of the Genesis Mission is its multi-sector operational model 
 
 #### C. Industrial Technology, Energy, Materials & Infrastructure Partners
 * **Accenture Federal Services:** Federal AI systems integration, CM2US operating capability, and program management across multi-agency Genesis Mission workflows.
-* **Albemarle:** Advanced lithium extraction, chemical refining technologies, and battery materials R&D supporting national energy storage initiatives.
+* **Albemarle:** Direct Lithium Extraction (DLE) chemical technology, high-purity lithium hydroxide and carbonate refining, solid-state battery electrolyte substrate R&D, and critical mineral supply chain security for national grid storage and EV platforms in collaboration with DOE National Laboratories (Ames, NETL, PNNL).
 * **Atomic Canyon:** AI-driven nuclear energy research platforms (**NeutronAI**), regulatory document search, and nuclear knowledge graphs for DOE reactor licensing.
 * **AVEVA:** Enterprise industrial software platforms, SCADA integration, and real-time operational telemetry for clean energy and nuclear research facilities.
 * **Chemspeed Technologies:** Automated chemical synthesis workstation platforms (SWING, ISYNTH) and parallel reaction screening for self-driving laboratories.
