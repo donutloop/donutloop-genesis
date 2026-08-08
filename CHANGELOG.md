@@ -7,6 +7,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
+## [1.4.3] - 2026-08-08
+
+### Changed
+- **Paper Enrichment (Entries #35 & #36 - LILA)**: Processed reference entries #35 and #36 (`LILA` / `Powering American Science: LILA to Join DOE's Genesis Mission`, `www.lila.ai`). Enriched Section 3.1 A in `README.md` and `README.de.md` with explicit technical details on open AI infrastructure, multi-institutional scientific collaboration platforms, automated literature synthesis engines, and domain-specialized LLM agent architectures across national laboratories (ORNL, ANL, LBNL) and research universities.
+- **Index Status Update**: Marked Entries #35 and #36 status to `Processed` in `reference_coverage.md` and updated executive metrics to `36 / 337 Processed`.
+- **Version Bump**: Incremented patch version to `1.4.3` in `README.md` and `README.de.md`.
+
+---
+
 ## [1.4.2] - 2026-08-08
 
 ### Changed

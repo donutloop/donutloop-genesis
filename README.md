@@ -1,4 +1,4 @@
-**Version**: 1.4.2
+**Version**: 1.4.3
 
 # The Genesis Mission: Architecture, Strategic Initiatives, and the Multi-Institutional Ecosystem for AI and Quantum-Driven Scientific Discovery
 
@@ -214,7 +214,7 @@ A defining feature of the Genesis Mission is its multi-sector operational model 
 * **HPE (Hewlett Packard Enterprise):** Delivering flagship exascale high-performance computing (HPC) infrastructure, liquid-cooled **HPE Cray EX** supercomputing architectures (**Frontier** at ORNL, **Aurora** at ANL, **El Capitan** at LLNL), high-speed **Slingshot 11** interconnect fabrics, Cray Programming Environment (CPE), and **HPE GreenLake for HPC** AI data storage nodes driving multi-petascale scientific foundation model training across DOE National Laboratories.
 * **Hugging Face:** Strategic partnership and open-science platform integration with the DOE to host, curate, fine-tune, and distribute open-source scientific foundation models, FAIR-compliant scientific datasets, open benchmarks, and containerized execution environments on the **Hugging Face Hub** and **Inference Endpoints** across all 17 DOE National Laboratories.
 * **FutureHouse:** Strategic non-profit AI research partnership deploying autonomous scientific AI LLM reasoning agents (**PaperQA**, **WikiCrow**, **ChemCrow**, **CrowOmni**) across DOE National Laboratories (LBNL, ANL, PNNL) for automated biomedical literature synthesis, closed-loop hypothesis generation, self-driving chemistry/biology lab orchestration, and agentic research workflows.
-* **LILA:** Strategic partnership and collaborative AI platform integration with the DOE to power open AI infrastructure and multi-institutional scientific collaboration across national laboratories and research universities.
+* **LILA:** Strategic partnership and collaborative AI platform integration with the U.S. Department of Energy (DOE) joining the Genesis Mission to deploy open AI infrastructure, multi-institutional scientific collaboration platforms, automated literature synthesis engines, and domain-specialized LLM agent architectures across national laboratories (ORNL, ANL, LBNL) and research universities.
 * **Meta AI:** Deep integration of open models (e.g., Segment Anything, DINO) with LBNL imaging and particle diffraction pipelines.
 * **Microsoft:** Committing $60 Million ($40 Million compute credits + $20 Million engineering services) to launch the **SPARK** program office, deploy the **Microsoft Discovery** platform, provision **MatterGen** and **MatterSim** foundation models, and integrate Majorana topological quantum processors across DOE labs.
 * **NVIDIA:** Strategic Memorandum of Understanding (MOU) with the DOE to power AI infrastructure (**Solstice** and **Equinox** at ANL), co-develop the **NVIDIA Apollo** open science model family, deploy **Omniverse** physical AI digital twins, and accelerate quantum circuit emulation.
