@@ -7,6 +7,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
+## [1.2.5] - 2026-08-08
+
+### Changed
+- **Paper Enrichment (Entry #17 - Cornelis Partnership Announcement)**: Processed reference entry #17 (`Cornelis Partners with U.S. Department of Energy on the Genesis Mission`, `www.cornelis.com`). Aligned Section 3.1 C in `README.md` and `README.de.md` to reflect the formal corporate announcement of Cornelis Networks' DOE Genesis Mission partnership.
+- **Index Status Update**: Marked Entry #17 status to `Processed` in `reference_coverage.md` and updated executive metrics to `17 / 337 Processed`.
+- **Version Bump**: Incremented patch version to `1.2.5` in `README.md` and `README.de.md`.
+
+---
+
 ## [1.2.4] - 2026-08-08
 
 ### Changed

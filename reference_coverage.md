@@ -15,7 +15,7 @@
 | **Official PDF Documents** | **14** | Formal RFA solicitations, webinars, slides, and executive reports |
 | **Web Portals & Press Releases** | **323** | Newsroom features, corporate blog posts, and interactive hubs |
 | **Validation Status** | **100% Validated** | All links canonicalized, formatted, and deduplicated |
-| **Processing Status** | **16 / 337 Processed** | 321 Unprocessed, 16 Processed |
+| **Processing Status** | **17 / 337 Processed** | 320 Unprocessed, 17 Processed |
 
 ---
 
@@ -84,7 +84,7 @@ A complete tabular listing of all 337 indexed reference links:
 | 14 | 2. Collaborators | - | Collins Aerospace | `www.collinsaerospace.com` | Web | [Collins Aerospace](https://www.collinsaerospace.com/) | `Processed` |
 | 15 | 2. Collaborators | - | ComEd | `www.comed.com` | Web | [ComEd](https://www.comed.com/) | `Processed` |
 | 16 | 2. Collaborators | - | Cornelis Networks | `www.cornelisnetworks.com` | Web | [Cornelis Networks](https://www.cornelisnetworks.com/) | `Processed` |
-| 17 | 2. Collaborators | - | Cornelis Partners with U.S. Department of Energy on the Genesis Mission | `www.cornelis.com` | Web | [Cornelis Partners with U.S. Department of Energy on the Genesis Mission](https://www.cornelis.com/stories/cornelis-partners-with-us-department-of-energy-on-the-genesis-mission) | `Unprocessed` |
+| 17 | 2. Collaborators | - | Cornelis Partners with U.S. Department of Energy on the Genesis Mission | `www.cornelis.com` | Web | [Cornelis Partners with U.S. Department of Energy on the Genesis Mission](https://www.cornelis.com/stories/cornelis-partners-with-us-department-of-energy-on-the-genesis-mission) | `Processed` |
 | 18 | 2. Collaborators | - | Critical Materials Recycling | `www.cmrecycling.com` | Web | [Critical Materials Recycling](https://www.cmrecycling.com/) | `Unprocessed` |
 | 19 | 2. Collaborators | - | Dell Technologies | `www.dell.com` | Web | [Dell Technologies](https://www.dell.com/) | `Unprocessed` |
 | 20 | 2. Collaborators | - | Diraq | `diraq.com` | Web | [Diraq](https://diraq.com/) | `Unprocessed` |

@@ -1,4 +1,4 @@
-**Version**: 1.2.4
+**Version**: 1.2.5
 
 # The Genesis Mission: Architecture, Strategic Initiatives, and the Multi-Institutional Ecosystem for AI and Quantum-Driven Scientific Discovery
 
@@ -247,7 +247,7 @@ A defining feature of the Genesis Mission is its multi-sector operational model 
 * **Chemspeed Technologies:** Automated chemical synthesis workstation platforms (**SWING**, **ISYNTH**), high-throughput parallel reaction screening robotics, and automated liquid/solid dispensing modules driving closed-loop self-driving laboratories across DOE National Laboratories (LBNL, ANL, PNNL).
 * **Collins Aerospace:** Advanced microelectronics packaging, radiation-hardened avionics computing substrates (SiC/GaN), extreme-environment high-temperature sensor systems, and autonomous aerospace edge AI architectures co-developed with Sandia (SNL) and Lawrence Livermore (LLNL).
 * **ComEd (Commonwealth Edison):** Smart grid infrastructure, high-density PMU sensor telemetry integration, quantum-in-the-loop power flow simulation, and urban grid utility digital twins co-simulated across Argonne (ANL Grid Virtualization Environment) and NREL (ARIES platform).
-* **Cornelis Networks:** Strategic DOE Genesis Mission partnership delivering high-performance Omni-Path Express (OPX) fabric interconnect architecture, Host Fabric Interfaces (HFIs), ultra-low latency switches, and scale-out networking for exascale supercomputing and AI clusters across national laboratories.
+* **Cornelis Networks:** Formal DOE Genesis Mission partnership delivering high-performance Omni-Path Express (OPX) fabric interconnect architecture, Host Fabric Interfaces (HFIs), ultra-low latency switches, and scale-out networking for exascale supercomputing and scientific AI clusters across national laboratories.
 * **Critical Materials Recycling:** Secondary recovery of rare earth elements (REEs) from e-waste and industrial scrap aligned with DOE Critical Materials Institute goals.
 * **Emerald Cloud Lab (ECL):** Cloud-based robotic laboratory infrastructure enabling remote execution of over 200 analytical chemistry and life science protocols via programmatic APIs.
 * **EPRI (Electric Power Research Institute):** Electric power research coordination, open-source AI grid simulation toolkits, and nuclear energy SMR modernization.

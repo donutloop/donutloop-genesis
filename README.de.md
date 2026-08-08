@@ -1,4 +1,4 @@
-**Version**: 1.2.4
+**Version**: 1.2.5
 
 # Die Genesis-Mission: Architektur, strategische Initiativen und das multi-institutionelle Ökosystem für KI- und quantengetriebene wissenschaftliche Entdeckungen
 
@@ -247,7 +247,7 @@ Ein bestimmendes Merkmal der Genesis-Mission ist ihr sektorübergreifendes Betri
 * **Chemspeed Technologies:** Automatisierte chemische Synthese-Arbeitsstationen (**SWING**, **ISYNTH**), Roboterplattformen für Parallelreaktions-Screening mit hohem Durchsatz und automatisierte Dosierungsmodule für flüssige/feste Stoffe zum Antrieb geschlossener selbstfahrender Labore in allen DOE National Laboratories (LBNL, ANL, PNNL).
 * **Collins Aerospace:** Fortschrittliches Mikroelektronik-Packaging, strahlungsgehärtete Avionik-Rechensubstrate (SiC/GaN), Hochtemperatur-Sensorsysteme für extreme Umgebungen und autonome Luft- und Raumfahrt-Edge-KI-Architekturen, die gemeinsam mit Sandia (SNL) und Lawrence Livermore (LLNL) entwickelt werden.
 * **ComEd (Commonwealth Edison):** Intelligente Stromnetzinfrastruktur, PMU-Sensortelemetrie-Integration mit hoher Dichte, Quanten-in-the-Loop-Leistungsflusssimulation und urbane digitale Versorgungsnetzzwillinge, die über Argonne (ANL Grid Virtualization Environment) und NREL (ARIES-Plattform) simuliert werden.
-* **Cornelis Networks:** Strategische Partnerschaft mit dem Energieministerium (DOE) im Rahmen der Genesis-Mission zur Bereitstellung von hochleistungsfähigen Omni-Path Express (OPX)-Fabric-Interconnect-Architekturen, Host Fabric Interfaces (HFIs), Switches mit ultrianiedriger Latenz und Scale-out-Netzwerken für Exascale-Supercomputing und KI-Cluster in Nationalen Laboratorien.
+* **Cornelis Networks:** Formelle Partnerschaft mit dem Energieministerium (DOE) im Rahmen der Genesis-Mission zur Bereitstellung von hochleistungsfähigen Omni-Path Express (OPX)-Fabric-Interconnect-Architekturen, Host Fabric Interfaces (HFIs), Switches mit ultrianiedriger Latenz und Scale-out-Netzwerken für Exascale-Supercomputing und wissenschaftliche KI-Cluster in Nationalen Laboratorien.
 * **Critical Materials Recycling:** Rückgewinnung seltener Erden aus E-Schrott im Einklang mit den Zielen des Critical Materials Institute des DOE.
 * **Emerald Cloud Lab (ECL):** Cloud-basierte robotische Laborinfrastruktur für die Remote-Ausführung von über 200 Analytik-Protokollen über APIs.
 * **EPRI (Electric Power Research Institute):** Forschungskoordination im Bereich Elektrizität, Open-Source-Netzsimulations-Toolkits und SMR-Modernisierung.
