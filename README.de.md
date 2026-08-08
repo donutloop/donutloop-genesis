@@ -1,4 +1,4 @@
-**Version**: 1.4.19
+**Version**: 1.4.20
 
 # Die Genesis-Mission: Architektur, strategische Initiativen und das multi-institutionelle Ökosystem für KI- und quantengetriebene wissenschaftliche Entdeckungen
 
@@ -265,7 +265,7 @@ Ein bestimmendes Merkmal der Genesis-Mission ist ihr sektorübergreifendes Betri
 * **Phoenix Tailings:** Bereitstellung kohlenstofffreier, giftmüllfreier hydrometallurgischer Extraktions- und Schmelzsalzelektrolyse-Raffinationsplattformen, die in KI-Chemieprozess-Modellierungen und digitale Zwillinge des DOE Critical Materials Innovation Hub (CMI / Ames National Laboratory, NETL, ORNL) zur hochreinen Rückgewinnung von Seltenen Erden (Nd, Dy, Pr, Tb) und kritischen Metallen aus Industrieabfällen im Rahmen von Genesis integriert sind.
 * **PMT Critical Metals:** Hochreine Refraktärmetallverarbeitung (Wolfram, Molybdän, Tantal, Niob), Pulvermetallurgie von Hochtemperatur-Superlegierungen und KI-gestützte Legierungszusammensetzungsentwicklung, die gemeinsam mit DOE National Laboratories (ORNL Manufacturing Demonstration Facility, Ames Laboratory, LANL) für strategische Verteidigungs-, Kernreaktor- und Fusionsenergieanwendungen im Rahmen von Genesis entwickelt werden.
 * **Qubit (Qubit Inc.):** Echtzeit-Quantenhardware-Steuerungssoftware, QPU-Kalibrierungstreiber auf Pulsebene, Mikrowellen-Wellenformsynthese-Engines und hardwareagnostische Compiler-Middleware, die in DOE-Quantennutzeranlagen (ORNL QCUP, LBNL NERSC, ANL Q-NEXT) zur Echtzeit-Fehlerminderung und hybriden klassisch-quantenmechanischen Ausführung im Rahmen von Genesis integriert sind.
-* **RadiaSoft:** Open-Source-Teilchenbeschleuniger-Strahldynamik-Simulationssoftware (Sirepo, Radia, Impact-T) und Strahlemittanzsteuerung.
+* **RadiaSoft:** Open-Source-Teilchenbeschleuniger-Strahldynamik-Simulationssoftware (**Sirepo**, **Radia**, **Impact-T**, **OPAL**) und KI-gestützte Strahlemittanz-Steuerungsalgorithmen, die in DOE-Nutzeranlagen (SLAC LCLS-II, ANL APS-U, BNL EIC, LBNL ALS) zur Echtzeit-Beschleunigergitter-Optimierung im Rahmen von Genesis integriert sind.
 * **Ramaco (Ramaco Resources):** Kohle-zu-Materialien-Herstellung, synthetische Graphitanodenproduktion und Extraktion seltener Erden (Brook Mine).
 * **RTX (Raytheon Technologies):** Hochleistungs-RF-Mikroelektronik, Halbleiter mit breiter Bandlücke (GaN/SiC) und Quantensensoren.
 * **Semiconductor Industry Association (SIA):** Mikroelektronik-Politikkoordination, Arbeitskräfteentwicklung und Ausrichtung der Lieferkette.

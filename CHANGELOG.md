@@ -7,6 +7,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
+## [1.4.20] - 2026-08-08
+
+### Changed
+- **Paper Enrichment (Entry #53 - RadiaSoft)**: Processed reference entry #53 (`RadiaSoft`, `www.radiasoft.net`). Enriched Section 3.1 C in `README.md` and `README.de.md` with explicit technical details on open-source particle accelerator beam dynamics simulation software (**Sirepo**, **Radia**, **Impact-T**, **OPAL**) and AI-driven beamline emittance control algorithms integrated across DOE User Facilities (SLAC LCLS-II, ANL APS-U, BNL EIC, LBNL ALS) for real-time accelerator lattice optimization.
+- **Index Status Update**: Marked Entry #53 status to `Processed` in `reference_coverage.md` and updated executive metrics to `53 / 337 Processed`.
+- **Version Bump**: Incremented patch version to `1.4.20` in `README.md` and `README.de.md`.
+
+---
+
 ## [1.4.19] - 2026-08-08
 
 ### Changed
