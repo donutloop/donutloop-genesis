@@ -7,6 +7,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
+## [1.4.8] - 2026-08-08
+
+### Changed
+- **Paper Enrichment (Entry #41 - Niron Magnets)**: Processed reference entry #41 (`Niron Magnets`, `nironmagnets.com`). Enriched Section 3.1 C in `README.md` and `README.de.md` with explicit technical details on commercializing rare-earth-free **Clean Earth Magnet®** technology based on high-magnetic-saturation Iron Nitride ($Fe_{16}N_2$), utilizing DOE National Laboratory synchrotrons and neutron scattering beamlines (ANL Advanced Photon Source, ORNL SNS/HFIR) for atomic-scale crystal orientation co-design, and applying AI-driven sintering optimization algorithms co-developed with the DOE Critical Materials Innovation Hub (CMI / Ames National Laboratory).
+- **Index Status Update**: Marked Entry #41 status to `Processed` in `reference_coverage.md` and updated executive metrics to `41 / 337 Processed`.
+- **Version Bump**: Incremented patch version to `1.4.8` in `README.md` and `README.de.md`.
+
+---
+
 ## [1.4.7] - 2026-08-08
 
 ### Changed

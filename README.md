@@ -1,4 +1,4 @@
-**Version**: 1.4.7
+**Version**: 1.4.8
 
 # The Genesis Mission: Architecture, Strategic Initiatives, and the Multi-Institutional Ecosystem for AI and Quantum-Driven Scientific Discovery
 
@@ -258,7 +258,7 @@ A defining feature of the Genesis Mission is its multi-sector operational model 
 * **Micron:** Committing $6.1 Billion under the CHIPS and Science Act (Department of Commerce preliminary terms) to scale leading-edge domestic memory fabrication (Clay, NY and Boise, ID megafabs), delivering ultra-high-bandwidth memory stacks (**HBM3e** / **HBM4**), Compute Express Link (**CXL 2.0 / 3.0**) memory expansion modules, and high-density enterprise SSDs integrated across DOE National Laboratory exascale supercomputing nodes (ANL Aurora, ORNL Frontier, LLNL El Capitan) for scientific AI foundation model training.
 * **MP Materials:** Domestic rare earth mining and refining at Mountain Pass, commercial production of Neodymium-Praseodymium (NdPr) magnet alloys and heavy rare earths (Dy, Tb), hydrometallurgical processing, and AI-driven flotation separation algorithms co-developed with the DOE Critical Materials Innovation Hub (CMI / Ames National Laboratory, ORNL, ANL) for supply chain security under Genesis.
 * **New York Creates (NY CREATES):** Operating North America's premier 300mm semiconductor R&D facility at the Albany NanoTech Complex, hosting the Department of Commerce CHIPS for America $825 Million Extreme Ultraviolet (EUV) Accelerator Center, the National Semiconductor Technology Center (NSTC) Flagship R&D hub, heterogeneous 3D packaging pilot lines, and the **xLight** $150 Million free-electron laser (FEL) prototype facility for next-generation EUV lithography and cryogenic quantum control ASIC microelectronics.
-* **Niron Magnets:** Manufacturing rare-earth-free permanent magnets ($Fe_{16}N_2$) and utilizing DOE beamlines for microstructure co-design.
+* **Niron Magnets:** Commercializing rare-earth-free **Clean Earth Magnet®** technology based on high-magnetic-saturation Iron Nitride ($Fe_{16}N_2$), utilizing DOE National Laboratory synchrotrons and neutron scattering beamlines (ANL Advanced Photon Source, ORNL SNS/HFIR) for atomic-scale crystal orientation co-design, and applying AI-driven sintering optimization algorithms co-developed with the DOE Critical Materials Innovation Hub (CMI / Ames National Laboratory) for domestic EV powertrain and energy grid magnet supply chain security under Genesis.
 * **Nokia (Nokia Bell Labs):** Deploying high-speed optical networking backbones, 5G/6G wireless fabrics, and post-quantum cryptographic transport networks.
 * **Nusano:** Multi-particle linear accelerator platform for high-yield medical and industrial radioisotope production (Actinium-225, Lutetium-177).
 * **OLI Systems:** Thermodynamic chemistry simulation engines and electrolyte modeling solvers for critical mineral hydrometallurgical extraction.
