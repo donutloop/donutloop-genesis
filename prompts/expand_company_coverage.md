@@ -31,3 +31,7 @@ Systematically document a target company's technical and strategic role within t
 ### 5. Changelog Update
 - **Changelog Entry:** Update `CHANGELOG.md` under the active release version section to log the newly expanded company profile, status upgrade in `coverage.md`, and corresponding section updates in `README.md`.
 
+### 6. Git Release Tag & Publish
+- **Mandatory Release Tag:** Whenever `CHANGELOG.md` is updated or modified, a corresponding Git release tag matching the updated version string (e.g. `v1.0.3`) MUST be created and published to the remote repository (`git tag -a vX.Y.Z -m "Release vX.Y.Z: ..." && git push origin main vX.Y.Z`).
+
+
