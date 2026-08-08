@@ -7,6 +7,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
+## [1.4.10] - 2026-08-08
+
+### Changed
+- **Paper Enrichment (Entry #43 - Nusano)**: Processed reference entry #43 (`Nusano`, `nusano.com`). Enriched Section 3.1 C in `README.md` and `README.de.md` with explicit technical details on deploying heavy-ion multi-particle linear accelerator platforms for high-throughput therapeutic and diagnostic radioisotope production (Actinium-225, Lutetium-177, Astatine-211), integrating AI-driven beam tuning algorithms and automated radiochemical separation systems co-developed with DOE Isotope Program national laboratory hubs (ORNL, LANL, BNL).
+- **Index Status Update**: Marked Entry #43 status to `Processed` in `reference_coverage.md` and updated executive metrics to `43 / 337 Processed`.
+- **Version Bump**: Incremented patch version to `1.4.10` in `README.md` and `README.de.md`.
+
+---
+
 ## [1.4.9] - 2026-08-08
 
 ### Changed
