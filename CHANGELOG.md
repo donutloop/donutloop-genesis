@@ -7,6 +7,16 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
+## [1.0.2] - 2026-08-08
+
+### Added
+- **Workflow Prompt Rules**: Added explicit `CHANGELOG.md` update execution rules across all workflow prompts (`expand_company_coverage.md`, `format_links.md`, and `discover_new_references.md`) to standardize repository changelog maintenance across future automated updates.
+
+### Changed
+- **Version Bump**: Incremented patch version to `1.0.2` in `README.md` and `README.de.md`.
+
+---
+
 ## [1.0.1] - 2026-08-08
 
 ### Added
