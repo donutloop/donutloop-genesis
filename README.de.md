@@ -1,4 +1,4 @@
-**Version**: 1.2.2
+**Version**: 1.2.3
 
 # Die Genesis-Mission: Architektur, strategische Initiativen und das multi-institutionelle Ökosystem für KI- und quantengetriebene wissenschaftliche Entdeckungen
 
@@ -246,7 +246,7 @@ Ein bestimmendes Merkmal der Genesis-Mission ist ihr sektorübergreifendes Betri
 * **AVEVA:** Industrielle Softwareplattformen für Unternehmen, CONNECT-Industrial-Cloud-Integration, SCADA-Telemetrieinfrastrukturen und digitale Echtzeit-Betriebszwillinge für saubere Energie, Fusionsreaktoren (PPPL) und Kernforschungsanlagen (INL).
 * **Chemspeed Technologies:** Automatisierte chemische Synthese-Arbeitsstationen (**SWING**, **ISYNTH**), Roboterplattformen für Parallelreaktions-Screening mit hohem Durchsatz und automatisierte Dosierungsmodule für flüssige/feste Stoffe zum Antrieb geschlossener selbstfahrender Labore in allen DOE National Laboratories (LBNL, ANL, PNNL).
 * **Collins Aerospace:** Fortschrittliches Mikroelektronik-Packaging, strahlungsgehärtete Avionik-Rechensubstrate (SiC/GaN), Hochtemperatur-Sensorsysteme für extreme Umgebungen und autonome Luft- und Raumfahrt-Edge-KI-Architekturen, die gemeinsam mit Sandia (SNL) und Lawrence Livermore (LLNL) entwickelt werden.
-* **ComEd (Commonwealth Edison):** Intelligente Netzintegration, Quanten-in-the-Loop-Leistungsflusssimulation und urbane digitale Zwillinge.
+* **ComEd (Commonwealth Edison):** Intelligente Stromnetzinfrastruktur, PMU-Sensortelemetrie-Integration mit hoher Dichte, Quanten-in-the-Loop-Leistungsflusssimulation und urbane digitale Versorgungsnetzzwillinge, die über Argonne (ANL Grid Virtualization Environment) und NREL (ARIES-Plattform) simuliert werden.
 * **Cornelis Networks:** Hochleistungs-Omni-Path-Architektur (OPX) und Scale-out-Netzwerke für Exascale-Supercomputing.
 * **Critical Materials Recycling:** Rückgewinnung seltener Erden aus E-Schrott im Einklang mit den Zielen des Critical Materials Institute des DOE.
 * **Emerald Cloud Lab (ECL):** Cloud-basierte robotische Laborinfrastruktur für die Remote-Ausführung von über 200 Analytik-Protokollen über APIs.
