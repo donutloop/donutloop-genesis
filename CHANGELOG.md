@@ -7,6 +7,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
+## [1.4.4] - 2026-08-08
+
+### Changed
+- **Paper Enrichment (Entry #37 - Micron)**: Processed reference entry #37 (`Micron`, `www.micron.com`). Enriched Section 3.1 C in `README.md` and `README.de.md` with explicit technical details on $6.1 Billion CHIPS Act memory fabrication commitment (Clay, NY and Boise, ID megafabs), **HBM3e** / **HBM4** high-bandwidth memory stacks, **CXL 2.0 / 3.0** memory expanders, and high-density enterprise SSDs deployed across DOE exascale supercomputers (ANL Aurora, ORNL Frontier, LLNL El Capitan).
+- **Index Status Update**: Marked Entry #37 status to `Processed` in `reference_coverage.md` and updated executive metrics to `37 / 337 Processed`.
+- **Version Bump**: Incremented patch version to `1.4.4` in `README.md` and `README.de.md`.
+
+---
+
 ## [1.4.3] - 2026-08-08
 
 ### Changed

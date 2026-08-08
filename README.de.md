@@ -1,4 +1,4 @@
-**Version**: 1.4.3
+**Version**: 1.4.4
 
 # Die Genesis-Mission: Architektur, strategische Initiativen und das multi-institutionelle Ökosystem für KI- und quantengetriebene wissenschaftliche Entdeckungen
 
@@ -255,7 +255,7 @@ Ein bestimmendes Merkmal der Genesis-Mission ist ihr sektorübergreifendes Betri
 * **GE Aerospace:** Fortschrittliche Luft- und Raumfahrtantriebstechnik, Hochtemperatur-Keramikmatrix-Verbundwerkstoffe (CMCs), additive Fertigung für extreme thermische Umgebungen und Exascale-Verbrennungs-CFD (Numerische Strömungsmechanik), die auf DOE-Exascale-Supercomputern (**Frontier** / **Aurora**) in Nationalen Laboratorien (ORNL, ANL, NREL) für die Thermochemie-Modellierung nachhaltiger Luftfahrtkraftstoffe (SAF) simuliert werden.
 * **ISO New England:** Regionaler Stromnetz-Dispatch (RTO), hochfrequente Phasor Measurement Unit (PMU)-Telemetrieschaltung, Echtzeit-Modellierung der Integration erneuerbarer Energien über mehrere Bundesstaaten, dynamische Übertragungsfähigkeits-Cosimulationen (Dynamic Line Rating, DLR) und quantensichere Netz-Cybersicherheitsarchitektur, die gemeinsam mit DOE National Laboratories (NREL ARIES-Plattform, PNNL, ANL) im Rahmen der Genesis-Mission entwickelt werden.
 * **Kitware:** Open-Source-Softwareentwicklung für die Wissenschaft, Exascale-3D-Visualisierungsplattformen (**ParaView**, **VTK** - Visualization Toolkit), In-situ-Supercomputing-Analyse-Engines (**Catalyst**), plattformübergreifende Build-Automatisierungstools (**CMake**) und KI-Computer-Vision-Frameworks (**KWIVER**), die in DOE National Laboratories (ORNL, ANL, LLNL, LBNL) für Echtzeit-Exascale-Simulationsanalysen im Rahmen von Genesis eingesetzt werden.
-* **Micron:** Hochbandbreitenspeicher (HBM3e/HBM4), CXL-Speichererweiterungsmodule und Sub-Nanometer-DRAM-F&E.
+* **Micron:** Zusage von 6,1 Milliarden US-Dollar im Rahmen des CHIPS and Science Act (Absichtserklärung des Handelsministeriums) zur Skalierung inländischer führender Speicherfertigung (Megafabs in Clay, NY und Boise, ID), Bereitstellung von Speicher-Arrays mit ultrahoher Bandbreite (**HBM3e** / **HBM4**), Compute Express Link (**CXL 2.0 / 3.0**)-Speichererweiterungsmodulen und hochdichten Enterprise-SSDs, die in Exascale-Supercomputer-Knoten nationaler Laboratorien (ANL Aurora, ORNL Frontier, LLNL El Capitan) für das Training wissenschaftlicher KI-Basismodelle integriert werden.
 * **MP Materials:** Inländischer Abbau seltener Erden (Mountain Pass), NdPr-Magnetherstellung und KI-Mineraltrennungsalgorithmen.
 * **New York Creates (NY CREATES):** Betreiber des 300mm Albany NanoTech Complex mit dem CHIPS Act EUV Lithography Center.
 * **Niron Magnets:** Herstellung von permanenten Magneten ohne seltene Erden ($Fe_{16}N_2$) unter Nutzung von DOE-Strahlrohren.

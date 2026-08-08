@@ -15,7 +15,7 @@
 | **Official PDF Documents** | **14** | Formal RFA solicitations, webinars, slides, and executive reports |
 | **Web Portals & Press Releases** | **323** | Newsroom features, corporate blog posts, and interactive hubs |
 | **Validation Status** | **100% Validated** | All links canonicalized, formatted, and deduplicated |
-| **Processing Status** | **36 / 337 Processed** | 301 Unprocessed, 36 Processed |
+| **Processing Status** | **37 / 337 Processed** | 300 Unprocessed, 37 Processed |
 
 ---
 
@@ -104,7 +104,7 @@ A complete tabular listing of all 337 indexed reference links:
 | 34 | 2. Collaborators | - | Kitware | `www.kitware.com` | Web | [Kitware](https://www.kitware.com/) | `Processed` |
 | 35 | 2. Collaborators | - | LILA | `www.lila.ai` | Web | [LILA](https://www.lila.ai/) | `Processed` |
 | 36 | 2. Collaborators | - | Powering American Science: LILA to Join DOE's Genesis Mission | `www.lila.ai` | Web | [Powering American Science: LILA to Join DOE's Genesis Mission](https://www.lila.ai/news/powering-american-science-lila-to-join-does-genesis-mission) | `Processed` |
-| 37 | 2. Collaborators | - | Micron | `www.micron.com` | Web | [Micron](https://www.micron.com/) | `Unprocessed` |
+| 37 | 2. Collaborators | - | Micron | `www.micron.com` | Web | [Micron](https://www.micron.com/) | `Processed` |
 | 38 | 2. Collaborators | - | Microsoft | `www.microsoft.com` | Web | [Microsoft](https://www.microsoft.com/) | `Unprocessed` |
 | 39 | 2. Collaborators | - | MP Materials | `mpmaterials.com` | Web | [MP Materials](https://mpmaterials.com/) | `Unprocessed` |
 | 40 | 2. Collaborators | - | New York Creates | `nycreates.org` | Web | [New York Creates](https://nycreates.org/) | `Unprocessed` |

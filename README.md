@@ -1,4 +1,4 @@
-**Version**: 1.4.3
+**Version**: 1.4.4
 
 # The Genesis Mission: Architecture, Strategic Initiatives, and the Multi-Institutional Ecosystem for AI and Quantum-Driven Scientific Discovery
 
@@ -255,7 +255,7 @@ A defining feature of the Genesis Mission is its multi-sector operational model 
 * **GE Aerospace:** Advanced aerospace propulsion engineering, high-temperature ceramic matrix composites (CMCs), additive manufacturing for extreme thermal environments, and exascale combustion computational fluid dynamics (CFD) co-simulated on DOE exascale supercomputers (**Frontier** / **Aurora**) across national laboratories (ORNL, ANL, NREL) for sustainable aviation fuel (SAF) thermochemistry modeling.
 * **ISO New England:** Regional Transmission Organization (RTO) power grid dispatch optimization, high-frequency Phasor Measurement Unit (PMU) telemetry streaming, real-time multi-state renewable energy integration modeling, Dynamic Line Rating (DLR) thermal capacity co-simulations, and quantum-safe grid cybersecurity architecture co-developed with DOE National Laboratories (NREL ARIES platform, PNNL, ANL) under Genesis.
 * **Kitware:** Open-source scientific software engineering, exascale 3D visualization platforms (**ParaView**, **VTK** - Visualization Toolkit), in-situ supercomputing analytics engines (**Catalyst**), cross-platform build automation tools (**CMake**), and AI computer vision frameworks (**KWIVER**) deployed across DOE National Laboratories (ORNL, ANL, LLNL, LBNL) for real-time exascale simulation analytics under Genesis.
-* **Micron:** Advanced high-bandwidth memory (HBM3e/HBM4), CXL memory expansion modules, and sub-nanometer semiconductor memory R&D.
+* **Micron:** Committing $6.1 Billion under the CHIPS and Science Act (Department of Commerce preliminary terms) to scale leading-edge domestic memory fabrication (Clay, NY and Boise, ID megafabs), delivering ultra-high-bandwidth memory stacks (**HBM3e** / **HBM4**), Compute Express Link (**CXL 2.0 / 3.0**) memory expansion modules, and high-density enterprise SSDs integrated across DOE National Laboratory exascale supercomputing nodes (ANL Aurora, ORNL Frontier, LLNL El Capitan) for scientific AI foundation model training.
 * **MP Materials:** Domestic rare earth mining (Mountain Pass), NdPr magnet manufacturing, and AI-driven mineral separation algorithms.
 * **New York Creates (NY CREATES):** Operating the 300mm Albany NanoTech Complex hosting the CHIPS Act EUV Lithography Center and xLight FEL prototype facility.
 * **Niron Magnets:** Manufacturing rare-earth-free permanent magnets ($Fe_{16}N_2$) and utilizing DOE beamlines for microstructure co-design.
