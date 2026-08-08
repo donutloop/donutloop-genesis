@@ -1,4 +1,4 @@
-**Version**: 1.1.0
+**Version**: 1.1.1
 
 # The Genesis Mission: Architecture, Strategic Initiatives, and the Multi-Institutional Ecosystem for AI and Quantum-Driven Scientific Discovery
 
@@ -154,7 +154,7 @@ Key modality highlights across quantum commitments include:
 ### 2.3 Scientific Domain Applications & Closed-Loop Workflows
 
 #### A. High Energy Physics (HEP) & Particle Accelerators
-As detailed in DOE-HEP briefings at the U.S. ATLAS Institutional Board Meeting (Jeremy Love, DOE-HEP), the Genesis Mission directly interfaces with the Large Hadron Collider (LHC) at CERN, Jefferson Lab's CEBAF accelerator, and SLAC's LCLS-II. To prepare for the High-Luminosity LHC (HL-LHC) compute scaling, AI foundation models process multi-terabit real-time sensor feeds, optimize High-Level Trigger (HLT) candidate selection, execute jet reconstruction via graph neural networks, calibrate detector digital twins, tune SRF cavity emittance, and accelerate Monte Carlo simulation routines by orders of magnitude.
+As presented in formal DOE Office of High Energy Physics (DOE-HEP) briefings at the U.S. ATLAS Institutional Board Meeting (March 18, 2026; Jeremy Love, DOE-HEP; CERN Indico Event 1662511), the Genesis Mission directly interfaces with the Large Hadron Collider (LHC) at CERN, Jefferson Lab's CEBAF accelerator, and SLAC's LCLS-II. To prepare for High-Luminosity LHC (HL-LHC) compute scaling, AI foundation models process multi-terabit real-time sensor feeds, optimize High-Level Trigger (HLT) candidate selection, execute jet reconstruction via graph neural networks (GNNs), calibrate detector digital twins, tune SRF cavity emittance, and accelerate Monte Carlo simulation routines by orders of magnitude.
 
 #### B. Fusion Energy & Autonomous Reactor Control
 At the Princeton Plasma Physics Laboratory (PPPL), the Genesis-funded **AI4Fusion** project creates an AI-driven autonomous operator for plasma heating and magnetohydrodynamic disruption prevention. Neural surrogate models predict magnetic containment destabilization milliseconds in advance, enabling real-time feedback control during high-beta plasma discharges. Additionally, a joint research team from **Oak Ridge National Laboratory (ORNL)**, **Cleveland Clinic**, and **IBM** achieved the first-known computation of fusion reactor materials on a quantum computer (published July 2026). Utilizing a quantum-centric supercomputing workflow—combining AI agents to screen candidate molten salts, GPU supercomputers to simulate bulk fluid dynamics, and IBM quantum processors to solve fine electronic ground-state energies—the team calculated nine molecular conformations of **FLiBe** (fluorine-lithium-beryllium molten salt) blanket materials to optimize tritium breeding and extraction for fusion energy reactors.

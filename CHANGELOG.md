@@ -7,6 +7,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
+## [1.1.1] - 2026-08-08
+
+### Changed
+- **Paper Enrichment (Entry #2 - U.S. ATLAS IB Meeting)**: Processed reference entry #2 (`U.S. ATLAS Institutional Board Meeting`, Indico Event 1662511). Enriched Section 2.3 A in `README.md` and `README.de.md` with explicit details on DOE-HEP computing briefings (Jeremy Love, DOE-HEP), multi-terabit real-time sensor processing, High-Level Trigger (HLT) candidate selection, and graph neural network (GNN) jet reconstruction for HL-LHC computing readiness.
+- **Index Status Update**: Marked Entry #2 status to `Processed` in `reference_coverage.md` and updated executive metrics to `3 / 337 Processed`.
+- **Version Bump**: Incremented patch version to `1.1.1` in `README.md` and `README.de.md`.
+
+---
+
 ## [1.1.0] - 2026-08-08
 
 ### Fixed

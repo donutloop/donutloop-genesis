@@ -1,4 +1,4 @@
-**Version**: 1.1.0
+**Version**: 1.1.1
 
 # Die Genesis-Mission: Architektur, strategische Initiativen und das multi-institutionelle Ökosystem für KI- und quantengetriebene wissenschaftliche Entdeckungen
 
@@ -154,7 +154,7 @@ Zu den wichtigsten Highlights der Modalitäten im Rahmen der Quantenzusagen geh�
 ### 2.3 Wissenschaftliche Domänenanwendungen & geschlossene Arbeitsabläufe
 
 #### A. Hochenergiephysik (HEP) & Teilchenbeschleuniger
-Wie in Briefings von DOE-HEP auf dem Treffen des US ATLAS Institutional Board (Jeremy Love, DOE-HEP) dargelegt, greift die Genesis-Mission direkt auf den Large Hadron Collider (LHC) am CERN, den CEBAF-Beschleuniger des Jefferson Lab und den LCLS-II von SLAC zu. Um sich auf die Rechenskalierung des High-Luminosity LHC (HL-LHC) vorzubereiten, verarbeiten KI-Basismodelle Multi-Terabit-Echtzeit-Sensor-Feeds, optimieren die High-Level Trigger (HLT)-Kandidatenauswahl, führen Jet-Rekonstruktionen über Graph Neural Networks durch, kalibrieren digitale Detektor-Zwillinge, stimmen SRF-Kavitätsemittanzen ab und beschleunigen Monte-Carlo-Simulationsroutinen um Größenordnungen.
+Wie in den offiziellen Briefings des DOE Office of High Energy Physics (DOE-HEP) auf dem Treffen des U.S. ATLAS Institutional Board (18. März 2026; Jeremy Love, DOE-HEP; CERN Indico Event 1662511) dargelegt, greift die Genesis-Mission direkt auf den Large Hadron Collider (LHC) am CERN, den CEBAF-Beschleuniger des Jefferson Lab und den LCLS-II von SLAC zu. Um sich auf die Rechenskalierung des High-Luminosity LHC (HL-LHC) vorzubereiten, verarbeiten KI-Basismodelle Multi-Terabit-Echtzeit-Sensor-Feeds, optimieren die High-Level Trigger (HLT)-Kandidatenauswahl, führen Jet-Rekonstruktionen über Graph Neural Networks (GNNs) durch, kalibrieren digitale Detektor-Zwillinge, stimmen SRF-Kavitätsemittanzen ab und beschleunigen Monte-Carlo-Simulationsroutinen um Größenordnungen.
 
 #### B. Fusionsenergie & Autonome Reaktorsteuerung
 Am Princeton Plasma Physics Laboratory (PPPL) entwickelt das von Genesis finanzierte Projekt **AI4Fusion** einen KI-gesteuerten autonomen Operator für Plasmatheizung und die Verhinderung magnetohydrodynamischer Störungen. Neuronale Surrogatmodelle sagen Instabilitäten des magnetischen Einschlusses Millisekunden im Voraus voraus. Darüber hinaus erzielte ein gemeinsames Forschungsteam des **Oak Ridge National Laboratory (ORNL)**, der **Cleveland Clinic** und von **IBM** die erste bekannte Berechnung von Fusionsreaktormaterialien auf einem Quantencomputer (veröffentlicht im Juli 2026) für **FLiBe**-Blanket-Materialien zur Optimierung der Tritiumbrütung.
