@@ -1,4 +1,4 @@
-**Version**: 1.4.20
+**Version**: 1.4.21
 
 # The Genesis Mission: Architecture, Strategic Initiatives, and the Multi-Institutional Ecosystem for AI and Quantum-Driven Scientific Discovery
 
@@ -266,7 +266,7 @@ A defining feature of the Genesis Mission is its multi-sector operational model 
 * **PMT Critical Metals:** High-purity refractory metals processing (Tungsten, Molybdenum, Tantalum, Niobium), high-temperature superalloy powder metallurgy, and AI-driven alloy composition design co-developed with DOE National Laboratories (ORNL Manufacturing Demonstration Facility, Ames Laboratory, LANL) for strategic defense, nuclear reactor, and fusion energy applications under Genesis.
 * **Qubit (Qubit Inc.):** Real-time quantum hardware control software, pulse-level QPU calibration drivers, microwave waveform synthesis engines, and hardware-agnostic compiler middleware integrated across DOE Quantum User Facilities (ORNL QCUP, LBNL NERSC, ANL Q-NEXT) for real-time error mitigation and hybrid classical-quantum execution under Genesis.
 * **RadiaSoft:** Open-source particle accelerator beam dynamics simulation software (**Sirepo**, **Radia**, **Impact-T**, **OPAL**) and AI-driven beamline emittance control algorithms integrated across DOE User Facilities (SLAC LCLS-II, ANL APS-U, BNL EIC, LBNL ALS) for real-time accelerator lattice optimization under Genesis.
-* **Ramaco (Ramaco Resources):** Coal-to-materials manufacturing, synthetic graphite anode production, and REE extraction from carbon deposits (Brook Mine).
+* **Ramaco (Ramaco Resources):** Coal-to-carbon materials manufacturing, synthetic graphite anode production for EV batteries, and AI-accelerated rare earth element (REE) and critical mineral extraction from domestic carbon deposits (**Brook Mine**) co-developed with DOE National Laboratories (NETL, ORNL, Ames CMI) under Genesis.
 * **RTX (Raytheon Technologies):** High-power RF microelectronics, wide-bandgap semiconductors (GaN/SiC), and directed energy quantum sensors.
 * **Semiconductor Industry Association (SIA):** Microelectronics policy coordination, workforce development, and supply chain alignment across CHIPS Act initiatives.
 * **TdVib (TdVib LLC):** Smart magnetostrictive materials (Terfenol-D), active vibration dampening transducers, and precision positioning actuators.

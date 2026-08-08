@@ -7,6 +7,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
+## [1.4.21] - 2026-08-08
+
+### Changed
+- **Paper Enrichment (Entry #54 - Ramaco)**: Processed reference entry #54 (`Ramaco`, `ramacoresources.com`). Enriched Section 3.1 C in `README.md` and `README.de.md` with explicit technical details on coal-to-carbon materials manufacturing, synthetic graphite anode production for EV batteries, and AI-accelerated rare earth element (REE) and critical mineral extraction from domestic carbon deposits (**Brook Mine**) co-developed with DOE National Laboratories (NETL, ORNL, Ames CMI).
+- **Index Status Update**: Marked Entry #54 status to `Processed` in `reference_coverage.md` and updated executive metrics to `54 / 337 Processed`.
+- **Version Bump**: Incremented patch version to `1.4.21` in `README.md` and `README.de.md`.
+
+---
+
 ## [1.4.20] - 2026-08-08
 
 ### Changed

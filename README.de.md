@@ -1,4 +1,4 @@
-**Version**: 1.4.20
+**Version**: 1.4.21
 
 # Die Genesis-Mission: Architektur, strategische Initiativen und das multi-institutionelle Ökosystem für KI- und quantengetriebene wissenschaftliche Entdeckungen
 
@@ -266,7 +266,7 @@ Ein bestimmendes Merkmal der Genesis-Mission ist ihr sektorübergreifendes Betri
 * **PMT Critical Metals:** Hochreine Refraktärmetallverarbeitung (Wolfram, Molybdän, Tantal, Niob), Pulvermetallurgie von Hochtemperatur-Superlegierungen und KI-gestützte Legierungszusammensetzungsentwicklung, die gemeinsam mit DOE National Laboratories (ORNL Manufacturing Demonstration Facility, Ames Laboratory, LANL) für strategische Verteidigungs-, Kernreaktor- und Fusionsenergieanwendungen im Rahmen von Genesis entwickelt werden.
 * **Qubit (Qubit Inc.):** Echtzeit-Quantenhardware-Steuerungssoftware, QPU-Kalibrierungstreiber auf Pulsebene, Mikrowellen-Wellenformsynthese-Engines und hardwareagnostische Compiler-Middleware, die in DOE-Quantennutzeranlagen (ORNL QCUP, LBNL NERSC, ANL Q-NEXT) zur Echtzeit-Fehlerminderung und hybriden klassisch-quantenmechanischen Ausführung im Rahmen von Genesis integriert sind.
 * **RadiaSoft:** Open-Source-Teilchenbeschleuniger-Strahldynamik-Simulationssoftware (**Sirepo**, **Radia**, **Impact-T**, **OPAL**) und KI-gestützte Strahlemittanz-Steuerungsalgorithmen, die in DOE-Nutzeranlagen (SLAC LCLS-II, ANL APS-U, BNL EIC, LBNL ALS) zur Echtzeit-Beschleunigergitter-Optimierung im Rahmen von Genesis integriert sind.
-* **Ramaco (Ramaco Resources):** Kohle-zu-Materialien-Herstellung, synthetische Graphitanodenproduktion und Extraktion seltener Erden (Brook Mine).
+* **Ramaco (Ramaco Resources):** Kohle-zu-Kohlenstoff-Materialienherstellung, synthetische Graphitanodenproduktion für EV-Batterien und KI-beschleunigte Extraktion seltener Erden (REE) und kritischer Mineralien aus inländischen Kohlenstofflagerstätten (**Brook Mine**), die gemeinsam mit DOE National Laboratories (NETL, ORNL, Ames CMI) im Rahmen von Genesis entwickelt werden.
 * **RTX (Raytheon Technologies):** Hochleistungs-RF-Mikroelektronik, Halbleiter mit breiter Bandlücke (GaN/SiC) und Quantensensoren.
 * **Semiconductor Industry Association (SIA):** Mikroelektronik-Politikkoordination, Arbeitskräfteentwicklung und Ausrichtung der Lieferkette.
 * **TdVib (TdVib LLC):** Intelligente magnetostriktive Materialien (Terfenol-D), aktive Schwingungsdämpfungswandler und Präzisionsaktuatoren.
