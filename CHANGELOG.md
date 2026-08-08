@@ -7,6 +7,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
+## [1.2.7] - 2026-08-08
+
+### Changed
+- **Paper Enrichment (Entry #19 - Dell Technologies)**: Processed reference entry #19 (`Dell Technologies`, `www.dell.com`). Enriched Section 3.1 A in `README.md` and `README.de.md` with explicit technical details on Dell PowerEdge XE9680/XE9640 liquid-cooled AI servers, PowerScale/PowerFlex storage fabrics, and high-throughput foundation model training pipelines across DOE National Laboratories (ANL, ORNL, LBNL).
+- **Index Status Update**: Marked Entry #19 status to `Processed` in `reference_coverage.md` and updated executive metrics to `19 / 337 Processed`.
+- **Version Bump**: Incremented patch version to `1.2.7` in `README.md` and `README.de.md`.
+
+---
+
 ## [1.2.6] - 2026-08-08
 
 ### Changed
