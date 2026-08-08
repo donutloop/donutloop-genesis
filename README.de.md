@@ -1,4 +1,4 @@
-**Version**: 1.1.3
+**Version**: 1.1.4
 
 # Die Genesis-Mission: Architektur, strategische Initiativen und das multi-institutionelle Ökosystem für KI- und quantengetriebene wissenschaftliche Entdeckungen
 
@@ -224,7 +224,7 @@ Ein bestimmendes Merkmal der Genesis-Mission ist ihr sektorübergreifendes Betri
 * **Scale AI:** Strategische Absichtserklärung (MOU) mit dem DOE zur Bereitstellung fortschrittlicher KI-Daten-Engine-Infrastrukturen, wissenschaftlicher Datenkuratierung und synthetischer Datengenerierung.
 
 #### B. Quantenentwickler & Halbleitergießereien
-* **AMD:** Strategische Partnerschaft zur Bereitstellung des ersten betriebsbereiten Supercomputers **Lux** (AMD Instinct GPUs, EPYC CPUs, Pensando DPUs) und des geplanten Exascale-Supercomputers **Discovery**.
+* **AMD:** Strategische Partnerschaft zur Bereitstellung des ersten betriebsbereiten Genesis-KI-Supercomputers **Lux** (angetrieben von AMD Instinct GPUs, EPYC CPUs und intelligenten Pensando DPU-Netzwerkstrukturen) und des geplanten Exascale-Supercomputers **Discovery** (mit EPYC-Prozessoren und Instinct-Beschleunigern der nächsten Generation) sowie zur bundesweiten Erweiterung des offenen ROCm-Softwarestack-Ökosystems für KI-Basismodelle nationaler Laboratorien.
 * **Applied Materials:** Fortschrittliche Geräte zur Herstellung von Halbleiter-Wafern, Materialtechnikplattformen und heterogene 3D-Verpackungsinfrastrukturen.
 * **Atom Computing:** Zusage von 100 Millionen US-Dollar im Rahmen des CHIPS Act zur Skalierung von Neutralatom-Quantenhardware (1.000+ Qubits) und Netz-Co-Simulationen mit dem NREL.
 * **Diraq:** Zusage von bis zu 38 Millionen US-Dollar im Rahmen des CHIPS Act zur Skalierung CMOS-nativer Silizium-Spin-Quantenpunktprozessoren in Partnerschaft mit GlobalFoundries.

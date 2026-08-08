@@ -1,4 +1,4 @@
-**Version**: 1.1.3
+**Version**: 1.1.4
 
 # The Genesis Mission: Architecture, Strategic Initiatives, and the Multi-Institutional Ecosystem for AI and Quantum-Driven Scientific Discovery
 
@@ -224,7 +224,7 @@ A defining feature of the Genesis Mission is its multi-sector operational model 
 * **Scale AI:** Strategic Memorandum of Understanding (MOU) with the DOE to deliver advanced AI data engine infrastructure, scientific data curation, synthetic data generation, and domain-expert RLHF fine-tuning pipelines.
 
 #### B. Quantum Developers & Semiconductor Foundries
-* **AMD:** Strategic partnership delivering inaugural operational supercomputer **Lux** (AMD Instinct GPUs, EPYC CPUs, Pensando DPUs) and planned exascale supercomputer **Discovery**, alongside ROCm open software expansion.
+* **AMD:** Strategic partnership delivering the inaugural operational Genesis AI supercomputer **Lux** (powered by AMD Instinct GPUs, EPYC CPUs, and Pensando DPU intelligent networking fabrics) and the planned exascale supercomputer **Discovery** (featuring next-generation EPYC processors and Instinct accelerators), alongside nationwide ROCm open software stack ecosystem expansion for national laboratory AI foundation models.
 * **Applied Materials:** Advanced semiconductor wafer fabrication equipment, materials engineering platforms, and 3D heterogeneous packaging infrastructure supporting CHIPS Act foundries.
 * **Atom Computing:** Committing $100 Million under the CHIPS Act to scale neutral-atom quantum hardware, manipulate 1,000+ qubit arrays, and co-simulate power grid dynamics with NREL.
 * **Diraq:** Committing up to $38 Million under the CHIPS Act to scale CMOS-native silicon spin quantum dot processors in partnership with GlobalFoundries at sub-dollar per-qubit economics.

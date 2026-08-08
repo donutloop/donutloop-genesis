@@ -7,6 +7,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
+## [1.1.4] - 2026-08-08
+
+### Changed
+- **Paper Enrichment (Entry #6 - AMD)**: Processed reference entry #6 (`AMD`, `www.amd.com`). Enriched Section 3.1 B in `README.md` and `README.de.md` with explicit technical details on AMD powering the inaugural Genesis AI supercomputer **Lux** (Instinct GPUs, EPYC CPUs, Pensando DPUs) and planned exascale supercomputer **Discovery**, alongside ROCm open software ecosystem expansion across national laboratory networks.
+- **Index Status Update**: Marked Entry #6 status to `Processed` in `reference_coverage.md` and updated executive metrics to `6 / 337 Processed`.
+- **Version Bump**: Incremented patch version to `1.1.4` in `README.md` and `README.de.md`.
+
+---
+
 ## [1.1.3] - 2026-08-08
 
 ### Changed
