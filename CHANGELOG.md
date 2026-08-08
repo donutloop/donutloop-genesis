@@ -7,6 +7,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
+## [1.4.24] - 2026-08-08
+
+### Changed
+- **Paper Enrichment (Entry #57 - Sambanova)**: Processed reference entry #57 (`Sambanova`, `sambanova.ai`). Enriched Section 3.1 A in `README.md` and `README.de.md` with explicit technical details on Reconfigurable Dataflow Architecture (RDA) powered by **SN40L** Reconfigurable Dataflow Units (RDUs) deployed across national laboratory compute nodes (ANL ALCF, LLNL, SNL), enabling trillion-parameter scientific foundation model training and high-throughput multi-modal AI inference for materials science, climate modeling, and genomics pipelines integrated with DOE Integrated Research Infrastructure (IRI).
+- **Index Status Update**: Marked Entry #57 status to `Processed` in `reference_coverage.md` and updated executive metrics to `57 / 337 Processed`.
+- **Version Bump**: Incremented patch version to `1.4.24` in `README.md` and `README.de.md`.
+
+---
+
 ## [1.4.23] - 2026-08-08
 
 ### Changed

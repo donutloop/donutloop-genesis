@@ -1,4 +1,4 @@
-**Version**: 1.4.23
+**Version**: 1.4.24
 
 # Die Genesis-Mission: Architektur, strategische Initiativen und das multi-institutionelle Ökosystem für KI- und quantengetriebene wissenschaftliche Entdeckungen
 
@@ -220,7 +220,7 @@ Ein bestimmendes Merkmal der Genesis-Mission ist ihr sektorübergreifendes Betri
 * **NVIDIA:** Strategische Absichtserklärung (MOU) mit dem DOE zum Antrieb von Exascale-KI-Supercomputing-Infrastrukturen (wassergekühlte KI-Supercomputer **Solstice** und **Equinox** am ANL ALCF mit Oracle), Co-Entwicklung der **NVIDIA Apollo**-Modellfamilie für die offene Wissenschaft, Einsatz von **Omniverse** physikalischen KI-digitalen Zwillings-Frameworks und Modulus-Physik-Engines in nationalen Laboren (PPPL-Fusion, NREL-Netz, ANL-APS-Strahlrohre) und Beschleunigung der Quantenschaltkreisemulation über das **cuQuantum** SDK im Rahmen von Genesis.
 * **OpenAI:** Strategische Partnerschaft und Absichtserklärung (MOU) mit dem DOE (*"Advancing the Next Era of National Science"*) zur Bereitstellung von **OpenAI for Government** FedRAMP-konformen Enklaven mit Zero-Data-Retention-Sicherheitsgarantien in allen 17 Nationalen Laboratorien und NNSA-Verteidigungsstandorten, Bereitstellung von Spitzen-Schlussfolgerungsmodellen für automatisierte mathematische Theorembeweise, multimodale wissenschaftliche Datenanalysen (Beugungsbildgebung, Elektronenmikroskopie) und agentische Workflow-Orchestrierung im Rahmen von Genesis.
 * **Oracle:** Partnerschaft mit dem DOE und NVIDIA zur Bereitstellung wassergekühlter **OCI Supercluster** KI-Recheninfrastrukturen (**Solstice**- und **Equinox**-Supercomputer am ANL ALCF), Bereitstellung von FedRAMP High und DISA IL5/IL6 souveränen Cloud-Enklaven in nationalen Laboratorien und Lieferung von Oracle Autonomous Database sowie KI-Vektorsuch-Daten-Engines für petabyte-skalierte wissenschaftliche Datenverwaltung, Saubere-Energie-Simulationen und nationale Sicherheitsforschung im Rahmen von Genesis.
-* **SambaNova Systems:** Bereitstellung der Reconfigurable Dataflow Architecture (RDA), angetrieben von **Reconfigurable Dataflow Units (RDUs)**, an Rechenknoten nationaler Laboratorien (ALCF) für KI-Inferenz mit hohem Durchsatz.
+* **SambaNova Systems:** Bereitstellung der Reconfigurable Dataflow Architecture (RDA), angetrieben von **Reconfigurable Dataflow Units (RDUs)** (**SN40L**), an Rechenknoten nationaler Laboratorien (ANL ALCF, LLNL, SNL), die das Training wissenschaftlicher Basismodelle mit Billionen Parametern und hochdurchsatz-multimodale KI-Inferenz für Materialwissenschaft, Klimamodellierung und Genomik-Pipelines ermöglichen, integriert mit der DOE Integrated Research Infrastructure (IRI) im Rahmen von Genesis.
 * **Scale AI:** Strategische Absichtserklärung (MOU) mit dem DOE zur Bereitstellung fortschrittlicher KI-Daten-Engine-Infrastrukturen, wissenschaftlicher Datenkuratierung und synthetischer Datengenerierung.
 
 #### B. Quantenentwickler & Halbleitergießereien
