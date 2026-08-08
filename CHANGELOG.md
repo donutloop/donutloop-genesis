@@ -7,6 +7,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
+## [1.4.13] - 2026-08-08
+
+### Changed
+- **Paper Enrichment (Entry #46 - OpenAI for Government)**: Processed reference entry #46 (`OpenAI for Government`, `openai.com`). Enriched Section 3.1 C in `README.md` and `README.de.md` with explicit technical details on deploying **OpenAI for Government** FedRAMP-compliant enclaves with zero-data-retention security guarantees across all 17 National Laboratories and NNSA defense sites, provisioning frontier reasoning models for automated mathematical theorem proving, multi-modal scientific data analysis (diffraction imaging, electron microscopy), and agentic workflow orchestration under Genesis.
+- **Index Status Update**: Marked Entry #46 status to `Processed` in `reference_coverage.md` and updated executive metrics to `46 / 337 Processed`.
+- **Version Bump**: Incremented patch version to `1.4.13` in `README.md` and `README.de.md`.
+
+---
+
 ## [1.4.12] - 2026-08-08
 
 ### Changed

@@ -15,7 +15,7 @@
 | **Official PDF Documents** | **14** | Formal RFA solicitations, webinars, slides, and executive reports |
 | **Web Portals & Press Releases** | **323** | Newsroom features, corporate blog posts, and interactive hubs |
 | **Validation Status** | **100% Validated** | All links canonicalized, formatted, and deduplicated |
-| **Processing Status** | **45 / 337 Processed** | 292 Unprocessed, 45 Processed |
+| **Processing Status** | **46 / 337 Processed** | 291 Unprocessed, 46 Processed |
 
 ---
 
@@ -113,7 +113,7 @@ A complete tabular listing of all 337 indexed reference links:
 | 43 | 2. Collaborators | - | Nusano | `nusano.com` | Web | [Nusano](https://nusano.com/) | `Processed` |
 | 44 | 2. Collaborators | - | NVIDIA | `blogs.nvidia.com` | Web | [NVIDIA](https://blogs.nvidia.com/) | `Processed` |
 | 45 | 2. Collaborators | - | OLI Systems | `www.olisystems.com` | Web | [OLI Systems](https://www.olisystems.com/) | `Processed` |
-| 46 | 2. Collaborators | - | OpenAI for Government | `openai.com` | Web | [OpenAI for Government](https://openai.com/) | `Unprocessed` |
+| 46 | 2. Collaborators | - | OpenAI for Government | `openai.com` | Web | [OpenAI for Government](https://openai.com/) | `Processed` |
 | 47 | 2. Collaborators | - | Oracle | `www.oracle.com` | Web | [Oracle](https://www.oracle.com/) | `Unprocessed` |
 | 48 | 2. Collaborators | - | Phoenix Tailings | `www.phoenixtailings.com` | Web | [Phoenix Tailings](https://www.phoenixtailings.com/) | `Unprocessed` |
 | 49 | 2. Collaborators | - | PMT Critical Metals | `pmtcriticalmetals.com` | Web | [PMT Critical Metals](https://pmtcriticalmetals.com/) | `Unprocessed` |
