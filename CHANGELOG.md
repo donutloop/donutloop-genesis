@@ -7,6 +7,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
+## [1.3.6] - 2026-08-08
+
+### Changed
+- **Paper Enrichment (Entry #28 - Google)**: Processed reference entry #28 (`Google`, `about.google`). Enriched Section 3.1 A in `README.md` and `README.de.md` with explicit technical details on Google Public Sector & DeepMind $40M MOU commitment, Google Cloud Platform (GCP) credits, TPU v5p/v6e accelerator access, frontier AI models (**Gemini 1.5 Pro / Ultra for Government**, **AI Co-Scientist**, **AlphaEvolve**, **AlphaFold 3**, **AlphaGenome**, **WeatherNext**, **AlphaEarth Foundations**), and 8x electron microscope calibration efficiency at National Light Sources (LBNL, SLAC, BNL, ANL).
+- **Index Status Update**: Marked Entry #28 status to `Processed` in `reference_coverage.md` and updated executive metrics to `28 / 337 Processed`.
+- **Version Bump**: Incremented patch version to `1.3.6` in `README.md` and `README.de.md`.
+
+---
+
 ## [1.3.5] - 2026-08-08
 
 ### Changed
