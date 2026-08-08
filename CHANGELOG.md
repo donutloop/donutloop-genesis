@@ -7,6 +7,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
+## [1.2.6] - 2026-08-08
+
+### Changed
+- **Paper Enrichment (Entry #18 - Critical Materials Recycling)**: Processed reference entry #18 (`Critical Materials Recycling`, `www.cmrecycling.com`). Enriched Section 3.1 C in `README.md` and `README.de.md` with explicit technical details on secondary rare earth magnet recycling, hydrometallurgical extraction (Nd, Dy, Tb), and supply chain decarbonization aligned with the DOE Critical Materials Innovation Hub (CMI / Ames National Laboratory).
+- **Index Status Update**: Marked Entry #18 status to `Processed` in `reference_coverage.md` and updated executive metrics to `18 / 337 Processed`.
+- **Version Bump**: Incremented patch version to `1.2.6` in `README.md` and `README.de.md`.
+
+---
+
 ## [1.2.5] - 2026-08-08
 
 ### Changed

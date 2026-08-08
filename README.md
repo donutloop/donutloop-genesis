@@ -1,4 +1,4 @@
-**Version**: 1.2.5
+**Version**: 1.2.6
 
 # The Genesis Mission: Architecture, Strategic Initiatives, and the Multi-Institutional Ecosystem for AI and Quantum-Driven Scientific Discovery
 
@@ -248,7 +248,7 @@ A defining feature of the Genesis Mission is its multi-sector operational model 
 * **Collins Aerospace:** Advanced microelectronics packaging, radiation-hardened avionics computing substrates (SiC/GaN), extreme-environment high-temperature sensor systems, and autonomous aerospace edge AI architectures co-developed with Sandia (SNL) and Lawrence Livermore (LLNL).
 * **ComEd (Commonwealth Edison):** Smart grid infrastructure, high-density PMU sensor telemetry integration, quantum-in-the-loop power flow simulation, and urban grid utility digital twins co-simulated across Argonne (ANL Grid Virtualization Environment) and NREL (ARIES platform).
 * **Cornelis Networks:** Formal DOE Genesis Mission partnership delivering high-performance Omni-Path Express (OPX) fabric interconnect architecture, Host Fabric Interfaces (HFIs), ultra-low latency switches, and scale-out networking for exascale supercomputing and scientific AI clusters across national laboratories.
-* **Critical Materials Recycling:** Secondary recovery of rare earth elements (REEs) from e-waste and industrial scrap aligned with DOE Critical Materials Institute goals.
+* **Critical Materials Recycling:** Secondary magnet recycling technologies, hydrometallurgical recovery of high-purity rare earth elements (Nd, Dy, Tb) from electronic scrap, and supply chain decarbonization aligned with the DOE Critical Materials Innovation Hub (CMI / Ames National Laboratory).
 * **Emerald Cloud Lab (ECL):** Cloud-based robotic laboratory infrastructure enabling remote execution of over 200 analytical chemistry and life science protocols via programmatic APIs.
 * **EPRI (Electric Power Research Institute):** Electric power research coordination, open-source AI grid simulation toolkits, and nuclear energy SMR modernization.
 * **Esri (Environmental Systems Research Institute):** Enterprise ArcGIS platforms, spatial analytics engines (GeoAI), and spatial digital twins for Earth observation under Genesis.
