@@ -1,4 +1,4 @@
-**Version**: 1.4.25
+**Version**: 1.4.26
 
 # Die Genesis-Mission: Architektur, strategische Initiativen und das multi-institutionelle Ökosystem für KI- und quantengetriebene wissenschaftliche Entdeckungen
 
@@ -268,7 +268,7 @@ Ein bestimmendes Merkmal der Genesis-Mission ist ihr sektorübergreifendes Betri
 * **RadiaSoft:** Open-Source-Teilchenbeschleuniger-Strahldynamik-Simulationssoftware (**Sirepo**, **Radia**, **Impact-T**, **OPAL**) und KI-gestützte Strahlemittanz-Steuerungsalgorithmen, die in DOE-Nutzeranlagen (SLAC LCLS-II, ANL APS-U, BNL EIC, LBNL ALS) zur Echtzeit-Beschleunigergitter-Optimierung im Rahmen von Genesis integriert sind.
 * **Ramaco (Ramaco Resources):** Kohle-zu-Kohlenstoff-Materialienherstellung, synthetische Graphitanodenproduktion für EV-Batterien und KI-beschleunigte Extraktion seltener Erden (REE) und kritischer Mineralien aus inländischen Kohlenstofflagerstätten (**Brook Mine**), die gemeinsam mit DOE National Laboratories (NETL, ORNL, Ames CMI) im Rahmen von Genesis entwickelt werden.
 * **RTX (Raytheon Technologies):** Bereitstellung von Hochleistungs-RF-Mikroelektronik, Halbleitern mit breiter Bandlücke (GaN/SiC), Quantenmagnetometriesensoren und Quantenkommunikationsnetzwerk-Architekturen (**Raytheon BBN**), die gemeinsam mit DOE National Laboratories (SNL, LLNL, ORNL) für Defense Edge Computing in extremen Umgebungen im Rahmen von Genesis entwickelt werden.
-* **Semiconductor Industry Association (SIA):** Mikroelektronik-Politikkoordination, Arbeitskräfteentwicklung und Ausrichtung der Lieferkette.
+* **Semiconductor Industry Association (SIA):** Koordination der inländischen Mikroelektronik-Politik im Rahmen der CHIPS and Science Act-Umsetzung, Leitung der **NSTC**-Arbeitskräfteentwicklungspipeline (National Semiconductor Technology Center), Kartierung der Halbleiter-Lieferkettenresilienz und strategische Abstimmung kommerzieller Gießereikapazitäten (GlobalFoundries, Intel, TSMC Arizona) mit den Anforderungen des DOE an Quantenhardware- und KI-Chip-Fertigung im Rahmen von Genesis.
 * **TdVib (TdVib LLC):** Intelligente magnetostriktive Materialien (Terfenol-D), aktive Schwingungsdämpfungswandler und Präzisionsaktuatoren.
 * **Tennessee Valley Authority (TVA):** Einsatz kleiner modularer Reaktoren (SMR) (Standort Clinch River) und Netz-Dekarbonisierung.
 
