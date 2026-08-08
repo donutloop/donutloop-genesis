@@ -7,6 +7,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
+## [1.2.4] - 2026-08-08
+
+### Changed
+- **Paper Enrichment (Entry #16 - Cornelis Networks)**: Processed reference entry #16 (`Cornelis Networks`, `www.cornelisnetworks.com`). Enriched Section 3.1 C in `README.md` and `README.de.md` with explicit technical details on Cornelis Networks Omni-Path Express (OPX) fabric interconnect architecture, Host Fabric Interfaces (HFIs), ultra-low latency switches, and scale-out networking under the strategic DOE Genesis Mission partnership.
+- **Index Status Update**: Marked Entry #16 status to `Processed` in `reference_coverage.md` and updated executive metrics to `16 / 337 Processed`.
+- **Version Bump**: Incremented patch version to `1.2.4` in `README.md` and `README.de.md`.
+
+---
+
 ## [1.2.3] - 2026-08-08
 
 ### Changed
