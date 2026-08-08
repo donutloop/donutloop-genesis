@@ -7,6 +7,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
+## [1.1.6] - 2026-08-08
+
+### Changed
+- **Paper Enrichment (Entry #8 - Applied Materials)**: Processed reference entry #8 (`Applied Materials`, `www.appliedmaterials.com`). Enriched Section 3.1 B in `README.md` and `README.de.md` with explicit technical details on Applied Materials advanced wafer fabrication equipment, sub-nanometer thin-film deposition tools, and 3D heterogeneous packaging infrastructure for CHIPS Act quantum foundries (GlobalFoundries, IBM Quantum, Diraq, PsiQuantum) and AI hardware manufacturing.
+- **Index Status Update**: Marked Entry #8 status to `Processed` in `reference_coverage.md` and updated executive metrics to `8 / 337 Processed`.
+- **Version Bump**: Incremented patch version to `1.1.6` in `README.md` and `README.de.md`.
+
+---
+
 ## [1.1.5] - 2026-08-08
 
 ### Changed

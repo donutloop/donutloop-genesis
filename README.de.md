@@ -1,4 +1,4 @@
-**Version**: 1.1.5
+**Version**: 1.1.6
 
 # Die Genesis-Mission: Architektur, strategische Initiativen und das multi-institutionelle Ökosystem für KI- und quantengetriebene wissenschaftliche Entdeckungen
 
@@ -225,7 +225,7 @@ Ein bestimmendes Merkmal der Genesis-Mission ist ihr sektorübergreifendes Betri
 
 #### B. Quantenentwickler & Halbleitergießereien
 * **AMD:** Strategische Partnerschaft zur Bereitstellung des ersten betriebsbereiten Genesis-KI-Supercomputers **Lux** (angetrieben von AMD Instinct GPUs, EPYC CPUs und intelligenten Pensando DPU-Netzwerkstrukturen) und des geplanten Exascale-Supercomputers **Discovery** (mit EPYC-Prozessoren und Instinct-Beschleunigern der nächsten Generation) sowie zur bundesweiten Erweiterung des offenen ROCm-Softwarestack-Ökosystems für KI-Basismodelle nationaler Laboratorien.
-* **Applied Materials:** Fortschrittliche Geräte zur Herstellung von Halbleiter-Wafern, Materialtechnikplattformen und heterogene 3D-Verpackungsinfrastrukturen.
+* **Applied Materials:** Fortschrittliche Halbleiter-Waferfertigungsanlagen, Materialtechnikplattformen, Sub-Nanometer-Dünnschichtabscheidungstechnologien und heterogene 3D-Chiplet-Verpackungsinfrastrukturen zur Unterstützung von kommerziellen Quantengießereien des CHIPS and Science Act (GlobalFoundries, IBM Quantum, Diraq, PsiQuantum) sowie zur Fertigung hochdichter KI-Hardware.
 * **Atom Computing:** Zusage von 100 Millionen US-Dollar im Rahmen des CHIPS Act zur Skalierung von Neutralatom-Quantenhardware (1.000+ Qubits) und Netz-Co-Simulationen mit dem NREL.
 * **Diraq:** Zusage von bis zu 38 Millionen US-Dollar im Rahmen des CHIPS Act zur Skalierung CMOS-nativer Silizium-Spin-Quantenpunktprozessoren in Partnerschaft mit GlobalFoundries.
 * **D-Wave Quantum:** Zusage von 100 Millionen US-Dollar zur Förderung kommerzieller Quanten-Annealing-Hardware und supraleitender Gatter-Modell-Architekturen.
