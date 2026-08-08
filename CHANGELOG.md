@@ -7,6 +7,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
+## [1.4.16] - 2026-08-08
+
+### Changed
+- **Paper Enrichment (Entry #49 - PMT Critical Metals)**: Processed reference entry #49 (`PMT Critical Metals`, `pmtcriticalmetals.com`). Enriched Section 3.1 C in `README.md` and `README.de.md` with explicit technical details on high-purity refractory metals processing (Tungsten, Molybdenum, Tantalum, Niobium), high-temperature superalloy powder metallurgy, and AI-driven alloy composition design co-developed with DOE National Laboratories (ORNL Manufacturing Demonstration Facility, Ames Laboratory, LANL) for strategic defense, nuclear reactor, and fusion energy applications.
+- **Index Status Update**: Marked Entry #49 status to `Processed` in `reference_coverage.md` and updated executive metrics to `49 / 337 Processed`.
+- **Version Bump**: Incremented patch version to `1.4.16` in `README.md` and `README.de.md`.
+
+---
+
 ## [1.4.15] - 2026-08-08
 
 ### Changed

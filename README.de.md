@@ -1,4 +1,4 @@
-**Version**: 1.4.15
+**Version**: 1.4.16
 
 # Die Genesis-Mission: Architektur, strategische Initiativen und das multi-institutionelle Ökosystem für KI- und quantengetriebene wissenschaftliche Entdeckungen
 
@@ -263,7 +263,7 @@ Ein bestimmendes Merkmal der Genesis-Mission ist ihr sektorübergreifendes Betri
 * **Nusano:** Einsatz von Schwermetall-Mehrteilchen-Linearbeschleunigerplattformen für die Hochdurchsatz-Produktion therapeutischer und diagnostischer Radioisotope (Actinium-225, Lutetium-177, Astatin-211), Integration KI-gestützter Strahloptimierungsalgorithmen und automatisierter radiochemischer Trennsysteme, die gemeinsam mit den Nationalen Labor-Hubs des DOE Isotope Program (ORNL, LANL, BNL) im Rahmen von Genesis entwickelt werden.
 * **OLI Systems:** Bereitstellung fortschrittlicher MSE (Mixed-Solvent Electrolyte)-Thermodynamik-Chemie-Simulations-Engines, Elektrolyt-Eigenschaftsmodellierungslösern und Phasengleichgewichts-digitalen-Zwillingen, die in Workflows des DOE Critical Materials Innovation Hub (CMI / Ames National Laboratory, INL, ORNL) für die KI-beschleunigte hydrometallurgische Extraktion, Lösungsmittelreinigung und Rückgewinnung kritischer Mineralien im Rahmen von Genesis integriert sind.
 * **Phoenix Tailings:** Bereitstellung kohlenstofffreier, giftmüllfreier hydrometallurgischer Extraktions- und Schmelzsalzelektrolyse-Raffinationsplattformen, die in KI-Chemieprozess-Modellierungen und digitale Zwillinge des DOE Critical Materials Innovation Hub (CMI / Ames National Laboratory, NETL, ORNL) zur hochreinen Rückgewinnung von Seltenen Erden (Nd, Dy, Pr, Tb) und kritischen Metallen aus Industrieabfällen im Rahmen von Genesis integriert sind.
-* **PMT Critical Metals:** Verarbeitung von Refraktärmetallen und Metallurgie von Hochtemperaturlegierungen.
+* **PMT Critical Metals:** Hochreine Refraktärmetallverarbeitung (Wolfram, Molybdän, Tantal, Niob), Pulvermetallurgie von Hochtemperatur-Superlegierungen und KI-gestützte Legierungszusammensetzungsentwicklung, die gemeinsam mit DOE National Laboratories (ORNL Manufacturing Demonstration Facility, Ames Laboratory, LANL) für strategische Verteidigungs-, Kernreaktor- und Fusionsenergieanwendungen im Rahmen von Genesis entwickelt werden.
 * **Qubit (Qubit Inc.):** Steuerungssoftware für Quantencomputing-Hardware, Puls-Kalibrierung und hybrid-klassisch-quantenmechanische Algorithmen.
 * **RadiaSoft:** Open-Source-Teilchenbeschleuniger-Strahldynamik-Simulationssoftware (Sirepo, Radia, Impact-T) und Strahlemittanzsteuerung.
 * **Ramaco (Ramaco Resources):** Kohle-zu-Materialien-Herstellung, synthetische Graphitanodenproduktion und Extraktion seltener Erden (Brook Mine).
