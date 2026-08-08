@@ -7,6 +7,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
+## [1.1.9] - 2026-08-08
+
+### Changed
+- **Paper Enrichment (Entry #11 - AVEVA)**: Processed reference entry #11 (`AVEVA`, `www.aveva.com`). Enriched Section 3.1 C in `README.md` and `README.de.md` with explicit technical details on AVEVA enterprise industrial software, CONNECT industrial cloud platform integration, SCADA telemetry infrastructure, and real-time operational digital twins deployed across clean energy, fusion reactors (PPPL), and nuclear facilities (INL).
+- **Index Status Update**: Marked Entry #11 status to `Processed` in `reference_coverage.md` and updated executive metrics to `11 / 337 Processed`.
+- **Version Bump**: Incremented patch version to `1.1.9` in `README.md` and `README.de.md`.
+
+---
+
 ## [1.1.8] - 2026-08-08
 
 ### Changed
