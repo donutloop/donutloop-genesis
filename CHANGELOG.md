@@ -7,6 +7,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
+## [1.2.8] - 2026-08-08
+
+### Changed
+- **Paper Enrichment (Entry #20 - Diraq)**: Processed reference entry #20 (`Diraq`, `diraq.com`). Enriched Section 3.1 B in `README.md` and `README.de.md` with explicit technical details on CMOS-native silicon spin quantum dot processor platforms, sub-28nm semiconductor foundry processes with GlobalFoundries, sub-dollar per-qubit scaling, and cryogenic control ASICs for DOE quantum infrastructure.
+- **Index Status Update**: Marked Entry #20 status to `Processed` in `reference_coverage.md` and updated executive metrics to `20 / 337 Processed`.
+- **Version Bump**: Incremented patch version to `1.2.8` in `README.md` and `README.de.md`.
+
+---
+
 ## [1.2.7] - 2026-08-08
 
 ### Changed

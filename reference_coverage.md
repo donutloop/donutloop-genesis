@@ -15,7 +15,7 @@
 | **Official PDF Documents** | **14** | Formal RFA solicitations, webinars, slides, and executive reports |
 | **Web Portals & Press Releases** | **323** | Newsroom features, corporate blog posts, and interactive hubs |
 | **Validation Status** | **100% Validated** | All links canonicalized, formatted, and deduplicated |
-| **Processing Status** | **19 / 337 Processed** | 318 Unprocessed, 19 Processed |
+| **Processing Status** | **20 / 337 Processed** | 317 Unprocessed, 20 Processed |
 
 ---
 
@@ -87,7 +87,7 @@ A complete tabular listing of all 337 indexed reference links:
 | 17 | 2. Collaborators | - | Cornelis Partners with U.S. Department of Energy on the Genesis Mission | `www.cornelis.com` | Web | [Cornelis Partners with U.S. Department of Energy on the Genesis Mission](https://www.cornelis.com/stories/cornelis-partners-with-us-department-of-energy-on-the-genesis-mission) | `Processed` |
 | 18 | 2. Collaborators | - | Critical Materials Recycling | `www.cmrecycling.com` | Web | [Critical Materials Recycling](https://www.cmrecycling.com/) | `Processed` |
 | 19 | 2. Collaborators | - | Dell Technologies | `www.dell.com` | Web | [Dell Technologies](https://www.dell.com/) | `Processed` |
-| 20 | 2. Collaborators | - | Diraq | `diraq.com` | Web | [Diraq](https://diraq.com/) | `Unprocessed` |
+| 20 | 2. Collaborators | - | Diraq | `diraq.com` | Web | [Diraq](https://diraq.com/) | `Processed` |
 | 21 | 2. Collaborators | - | D-Wave | `www.dwavesys.com` | Web | [D-Wave](https://www.dwavesys.com/) | `Unprocessed` |
 | 22 | 2. Collaborators | - | Emerald Cloud Lab | `www.emeraldcloudlab.com` | Web | [Emerald Cloud Lab](https://www.emeraldcloudlab.com/) | `Unprocessed` |
 | 23 | 2. Collaborators | - | EPRI | `www.epri.com` | Web | [EPRI](https://www.epri.com/) | `Unprocessed` |

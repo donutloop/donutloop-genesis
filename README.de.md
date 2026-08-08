@@ -1,4 +1,4 @@
-**Version**: 1.2.7
+**Version**: 1.2.8
 
 # Die Genesis-Mission: Architektur, strategische Initiativen und das multi-institutionelle Ökosystem für KI- und quantengetriebene wissenschaftliche Entdeckungen
 
@@ -227,7 +227,7 @@ Ein bestimmendes Merkmal der Genesis-Mission ist ihr sektorübergreifendes Betri
 * **AMD:** Strategische Partnerschaft zur Bereitstellung des ersten betriebsbereiten Genesis-KI-Supercomputers **Lux** (angetrieben von AMD Instinct GPUs, EPYC CPUs und intelligenten Pensando DPU-Netzwerkstrukturen) und des geplanten Exascale-Supercomputers **Discovery** (mit EPYC-Prozessoren und Instinct-Beschleunigern der nächsten Generation) sowie zur bundesweiten Erweiterung des offenen ROCm-Softwarestack-Ökosystems für KI-Basismodelle nationaler Laboratorien.
 * **Applied Materials:** Fortschrittliche Halbleiter-Waferfertigungsanlagen, Materialtechnikplattformen, Sub-Nanometer-Dünnschichtabscheidungstechnologien und heterogene 3D-Chiplet-Verpackungsinfrastrukturen zur Unterstützung von kommerziellen Quantengießereien des CHIPS and Science Act (GlobalFoundries, IBM Quantum, Diraq, PsiQuantum) sowie zur Fertigung hochdichter KI-Hardware.
 * **Atom Computing:** Zusage von 100 Millionen US-Dollar im Rahmen des CHIPS and Science Act (Absichtserklärung des Handelsministeriums) zur Skalierung optisch gefangener Neutralatom-Quantenhardware, Manipulation von Arrays mit 1.000+ Qubits und Bereitstellung offener „Quantum-in-the-Loop“-Schnittstellen zur Co-Simulation der Stromnetzstabilität mit der ARIES-Plattform des NREL.
-* **Diraq:** Zusage von bis zu 38 Millionen US-Dollar im Rahmen des CHIPS Act zur Skalierung CMOS-nativer Silizium-Spin-Quantenpunktprozessoren in Partnerschaft mit GlobalFoundries.
+* **Diraq:** Zusage von bis zu 38 Millionen US-Dollar im Rahmen des CHIPS Act zur Skalierung CMOS-nativer Silizium-Spin-Quantenpunktprozessoren (**Quantum Dot Spin QPU**-Plattformen) in Partnerschaft mit GlobalFoundries bei Kosten von unter einem Dollar pro Qubit unter Nutzung von Standard-Sub-28nm-Halbleitergießereiprozessen und kryogenen Steuerungs-ASICs für die DOE-Quanteninfrastruktur.
 * **D-Wave Quantum:** Zusage von 100 Millionen US-Dollar zur Förderung kommerzieller Quanten-Annealing-Hardware und supraleitender Gatter-Modell-Architekturen.
 * **GlobalFoundries:** Zusage von 375 Millionen US-Dollar im Rahmen des CHIPS Act und Partnerschaft mit dem DOE über **GF Labs** zur Bereitstellung von PDKs, GlobalShuttle™ MPW-Läufen und Chipfertigung.
 * **IBM / IBM Quantum:** Zusage von 1 Milliarde US-Dollar an CHIPS Act Mitteln für eine inländische supraleitende Quantengießerei, 50 Millionen US-Dollar an Quantenrechenzugang (**Heron**- und **Nighthawk**-Prozessoren).

@@ -1,4 +1,4 @@
-**Version**: 1.2.7
+**Version**: 1.2.8
 
 # The Genesis Mission: Architecture, Strategic Initiatives, and the Multi-Institutional Ecosystem for AI and Quantum-Driven Scientific Discovery
 
@@ -227,7 +227,7 @@ A defining feature of the Genesis Mission is its multi-sector operational model 
 * **AMD:** Strategic partnership delivering the inaugural operational Genesis AI supercomputer **Lux** (powered by AMD Instinct GPUs, EPYC CPUs, and Pensando DPU intelligent networking fabrics) and the planned exascale supercomputer **Discovery** (featuring next-generation EPYC processors and Instinct accelerators), alongside nationwide ROCm open software stack ecosystem expansion for national laboratory AI foundation models.
 * **Applied Materials:** Advanced semiconductor wafer fabrication equipment, materials engineering platforms, sub-nanometer thin-film deposition technologies, and 3D heterogeneous chiplet packaging infrastructure supporting CHIPS and Science Act commercial quantum foundries (GlobalFoundries, IBM Quantum, Diraq, PsiQuantum) and high-density AI hardware manufacturing.
 * **Atom Computing:** Committing $100 Million under the CHIPS and Science Act (Department of Commerce LOI) to scale optically trapped neutral-atom quantum computing hardware, manipulate 1,000+ qubit arrays, and deploy open-source "quantum-in-the-loop" interfaces co-simulating power grid stability and feeder line optimization with NREL ARIES.
-* **Diraq:** Committing up to $38 Million under the CHIPS Act to scale CMOS-native silicon spin quantum dot processors in partnership with GlobalFoundries at sub-dollar per-qubit economics.
+* **Diraq:** Committing up to $38 Million under the CHIPS Act to scale CMOS-native silicon spin quantum dot processors (**Quantum Dot Spin QPU** platforms) in partnership with GlobalFoundries at sub-dollar per-qubit economics, leveraging standard sub-28nm semiconductor foundry processes and cryogenic control ASICs for DOE quantum infrastructure.
 * **D-Wave Quantum:** Committing $100 Million to advance commercial quantum annealing and gate-model superconducting quantum architectures for grid and materials optimization.
 * **GlobalFoundries:** Committing $375 Million under the CHIPS Act and partnering with DOE via **GF Labs** to provide PDKs, GlobalShuttle™ MPW runs, silicon photonics, and custom microchip fabrication for trapped-ion and silicon spin QPUs.
 * **IBM / IBM Quantum:** Committing $1 Billion in CHIPS Act funding for a domestic superconducting quantum foundry, $50 Million in quantum compute access (**Heron** and **Nighthawk** processors), and co-leading Phase I RFA agentic AI quantum discovery awards.
