@@ -318,7 +318,9 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
 * **Cornell University:** [Awards Will Advance AI-Driven Science](https://news.cornell.edu/stories/2026/07/doe-genesis-mission-awards-will-advance-ai-driven-science)
 * **Emory University:** [Scientists Selected for Awards to Speed Discovery Through AI](https://news.emory.edu/stories/2026/07/emory-scientists-selected-us-genesis-mission-awards-speed-discovery-through-ai)
 * **Florida State University:** [Secures DOE Genesis Mission Awards](https://news.fsu.edu/news/science-technology/2026/07/22/florida-state-university-secures-department-of-energy-genesis-mission-awards/)
-* **Georgia Tech:** [Helps Advance Genesis Mission National Effort](https://news.research.gatech.edu/2026/07/24/georgia-tech-helps-advance-genesis-mission-national-effort-transform-scientific)
+* **Georgia Tech:**
+  * [Helps Advance Genesis Mission National Effort](https://news.research.gatech.edu/2026/07/24/georgia-tech-helps-advance-genesis-mission-national-effort-transform-scientific)
+  * [Helps Advance Genesis Mission National Effort (Newswise)](https://www.newswise.com/articles/georgia-tech-helps-advance-genesis-mission-a-national-effort-to-transform-scientific-discovery-through-ai)
 * **Iowa State University:** [Research Projects Selected for Funding](https://www.news.iastate.edu/news/several-iowa-state-research-projects-selected-us-department-energy-genesis-mission)
 * **Lehigh University:** [Researchers Earn 2 DOE Genesis Mission Funding Awards](https://news.lehigh.edu/lehigh-researchers-earn-2-doe-genesis-mission-funding-awards)
 * **Louisiana State University (LSU):** [LSU Researchers Garner DOE Genesis Mission Awards](https://www.lsu.edu/blog/2026/07/genesis-mission-awards.php)
@@ -400,6 +402,7 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
 ## 6. Additional Event Materials & Reference Links
 
 * **U.S. ATLAS Institutional Board:** [March 18, 2026 IB Meeting Intro (PDF)](https://indico.cern.ch/event/1662511/contributions/6989578/attachments/3241191/5781385/2026_03_18%20IB%20mtg%20intro.pdf)
+* **Genesis Mission Presentation:** [Genesis Mission Executive & Technical Overview Video](https://youtu.be/ZbzHbewWEtM)
 
 ## 7. Technical Documents, RFA Guidance & Official Webinars
 * [U.S. Department of Energy: Genesis Mission RFI Analysis (PDF)](https://www.energy.gov/sites/default/files/2026-07/Genesis-Mission-RFI-Analysis.pdf)
@@ -410,11 +413,3 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
 * [DOE Office of Science: DE-FOA-0003612 Amendment 000003 (PDF)](https://science.osti.gov/-/media/grants/pdf/foas/2026/DE-FOA-0003612-000003.pdf)
 * [DOE Office of Science (SCAC): DOE Genesis Mission Launched Presentation (PDF)](https://science.osti.gov/-/media/About/pdf/scac/meetings/2026/DOE-Genesis-Mission-Launched---2026-03-27.pdf)
 * [OSTP: OSTP Genesis Mission Science and Technology Challenges Document](https://www.energy.gov/documents/ostp-genesis-mission-science-and-technology-challenges)
-
-wip:
-
-https://www.eng.auburn.edu/news/2026/08/molaei-genesis-mission.html
-https://news.wisc.edu/5-projects-at-uwmadison-aimed-at-transforming-science-and-energy-with-ai-receive-doe-genesis-mission-funding/
-https://www.newswise.com/articles/georgia-tech-helps-advance-genesis-mission-a-national-effort-to-transform-scientific-discovery-through-ai
-https://news.rpi.edu/2026/07/31/rpi-selected-two-us-department-energy-genesis-mission-projects?hl=en-US
-https://youtu.be/ZbzHbewWEtM?is=QEytXlsgtVHmqKc1
