@@ -1,4 +1,4 @@
-**Version**: 1.4.10
+**Version**: 1.4.11
 
 # The Genesis Mission: Architecture, Strategic Initiatives, and the Multi-Institutional Ecosystem for AI and Quantum-Driven Scientific Discovery
 
@@ -217,7 +217,7 @@ A defining feature of the Genesis Mission is its multi-sector operational model 
 * **LILA:** Strategic partnership and collaborative AI platform integration with the U.S. Department of Energy (DOE) joining the Genesis Mission to deploy open AI infrastructure, multi-institutional scientific collaboration platforms, automated literature synthesis engines, and domain-specialized LLM agent architectures across national laboratories (ORNL, ANL, LBNL) and research universities.
 * **Meta AI:** Deep integration of open models (e.g., Segment Anything, DINO) with LBNL imaging and particle diffraction pipelines.
 * **Microsoft:** Committing $60 Million ($40 Million Azure compute credits + $20 Million dedicated engineering services) under a strategic Memorandum of Understanding (MOU) with the DOE to launch the **SPARK** program office, deploy the **Microsoft Discovery** platform, provision AI materials discovery foundation models (**MatterGen**, **MatterSim**), and integrate topological quantum processors (**Majorana 1** QPU) across DOE National Laboratories (PNNL, ANL, ORNL, LBNL) for hybrid classical-quantum materials synthesis.
-* **NVIDIA:** Strategic Memorandum of Understanding (MOU) with the DOE to power AI infrastructure (**Solstice** and **Equinox** at ANL), co-develop the **NVIDIA Apollo** open science model family, deploy **Omniverse** physical AI digital twins, and accelerate quantum circuit emulation.
+* **NVIDIA:** Strategic Memorandum of Understanding (MOU) with the DOE to power exascale AI supercomputing infrastructure (**Solstice** and **Equinox** liquid-cooled AI supercomputers at ANL ALCF with Oracle), co-develop the **NVIDIA Apollo** open science foundation model family, deploy **Omniverse** physical AI digital twin frameworks and Modulus physics engines across national labs (PPPL fusion, NREL grid, ANL APS beamlines), and accelerate multi-modality quantum circuit emulation via the **cuQuantum** SDK.
 * **OpenAI:** Strategic partnership and Memorandum of Understanding (MOU) with the DOE (*"Advancing the Next Era of National Science"*) establishing secure access to OpenAI frontier reasoning models (including o1 and o3 series) and agentic workflows for all 17 national laboratories.
 * **Oracle:** Provisioning enterprise cloud, high-performance database infrastructure, and scalable compute clusters for DOE national security and clean energy simulations.
 * **SambaNova Systems:** Delivering Reconfigurable Dataflow Architecture (RDA) powered by **Reconfigurable Dataflow Units (RDUs)** across national laboratory compute nodes (ALCF) for high-throughput AI inference.

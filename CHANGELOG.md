@@ -7,6 +7,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
+## [1.4.11] - 2026-08-08
+
+### Changed
+- **Paper Enrichment (Entry #44 - NVIDIA)**: Processed reference entry #44 (`NVIDIA`, `blogs.nvidia.com`). Enriched Section 3.1 C in `README.md` and `README.de.md` with explicit technical details on exascale AI supercomputing infrastructure (**Solstice** and **Equinox** liquid-cooled supercomputers at ANL ALCF with Oracle), co-developing the **NVIDIA Apollo** open science model family, deploying **Omniverse** physical AI digital twin frameworks and Modulus physics engines across national labs (PPPL fusion, NREL grid, ANL APS beamlines), and accelerating quantum circuit emulation via **cuQuantum** SDK.
+- **Index Status Update**: Marked Entry #44 status to `Processed` in `reference_coverage.md` and updated executive metrics to `44 / 337 Processed`.
+- **Version Bump**: Incremented patch version to `1.4.11` in `README.md` and `README.de.md`.
+
+---
+
 ## [1.4.10] - 2026-08-08
 
 ### Changed
