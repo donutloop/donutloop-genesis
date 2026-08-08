@@ -7,6 +7,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
+## [1.2.0] - 2026-08-08
+
+### Changed
+- **Paper Enrichment (Entry #12 - Cerebras)**: Processed reference entry #12 (`Cerebras`, `www.cerebras.ai/company/press-release`). Enriched Section 3.1 A in `README.md` and `README.de.md` with explicit technical details on Cerebras CS-3 wafer-scale supercomputing systems (Wafer-Scale Engine WSE-3 with 900,000 AI cores and 4 trillion transistors) deployed across ANL, LBNL, and ORNL for real-time scientific LLM inference and plasma fusion prediction.
+- **Index Status Update**: Marked Entry #12 status to `Processed` in `reference_coverage.md` and updated executive metrics to `12 / 337 Processed`.
+- **Version Bump**: Incremented minor version to `1.2.0` in `README.md` and `README.de.md`.
+
+---
+
 ## [1.1.9] - 2026-08-08
 
 ### Changed

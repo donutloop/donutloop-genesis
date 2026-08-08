@@ -15,7 +15,7 @@
 | **Official PDF Documents** | **14** | Formal RFA solicitations, webinars, slides, and executive reports |
 | **Web Portals & Press Releases** | **323** | Newsroom features, corporate blog posts, and interactive hubs |
 | **Validation Status** | **100% Validated** | All links canonicalized, formatted, and deduplicated |
-| **Processing Status** | **11 / 337 Processed** | 326 Unprocessed, 11 Processed |
+| **Processing Status** | **12 / 337 Processed** | 325 Unprocessed, 12 Processed |
 
 ---
 
@@ -79,7 +79,7 @@ A complete tabular listing of all 337 indexed reference links:
 | 9 | 2. Collaborators | - | Atom Computing | `atom-computing.com` | Web | [Atom Computing](https://atom-computing.com/) | `Processed` |
 | 10 | 2. Collaborators | - | Atomic Canyon | `www.atomiccanyon.com` | Web | [Atomic Canyon](https://www.atomiccanyon.com/) | `Processed` |
 | 11 | 2. Collaborators | - | AVEVA | `www.aveva.com` | Web | [AVEVA](https://www.aveva.com/) | `Processed` |
-| 12 | 2. Collaborators | - | Cerebras | `www.cerebras.ai` | Web | [Cerebras](https://www.cerebras.ai/company/press-release) | `Unprocessed` |
+| 12 | 2. Collaborators | - | Cerebras | `www.cerebras.ai` | Web | [Cerebras](https://www.cerebras.ai/company/press-release) | `Processed` |
 | 13 | 2. Collaborators | - | Chemspeed | `www.chemspeed.com` | Web | [Chemspeed](https://www.chemspeed.com/) | `Unprocessed` |
 | 14 | 2. Collaborators | - | Collins Aerospace | `www.collinsaerospace.com` | Web | [Collins Aerospace](https://www.collinsaerospace.com/) | `Unprocessed` |
 | 15 | 2. Collaborators | - | ComEd | `www.comed.com` | Web | [ComEd](https://www.comed.com/) | `Unprocessed` |
