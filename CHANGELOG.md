@@ -7,6 +7,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
+## [1.3.1] - 2026-08-08
+
+### Changed
+- **Paper Enrichment (Entry #23 - EPRI)**: Processed reference entry #23 (`EPRI`, `www.epri.com`). Enriched Section 3.1 C in `README.md` and `README.de.md` with explicit technical details on EPRI electric power research coordination, open-source AI grid simulation toolkits (**GridLAB-D** / **OpenDSS** co-simulation), SMR nuclear plant digital twins, and utility grid co-simulation across DOE National Laboratories (NREL ARIES, ANL, INL).
+- **Index Status Update**: Marked Entry #23 status to `Processed` in `reference_coverage.md` and updated executive metrics to `23 / 337 Processed`.
+- **Version Bump**: Incremented patch version to `1.3.1` in `README.md` and `README.de.md`.
+
+---
+
 ## [1.3.0] - 2026-08-08
 
 ### Changed

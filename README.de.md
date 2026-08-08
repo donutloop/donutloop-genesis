@@ -1,4 +1,4 @@
-**Version**: 1.3.0
+**Version**: 1.3.1
 
 # Die Genesis-Mission: Architektur, strategische Initiativen und das multi-institutionelle Ökosystem für KI- und quantengetriebene wissenschaftliche Entdeckungen
 
@@ -250,7 +250,7 @@ Ein bestimmendes Merkmal der Genesis-Mission ist ihr sektorübergreifendes Betri
 * **Cornelis Networks:** Formelle Partnerschaft mit dem Energieministerium (DOE) im Rahmen der Genesis-Mission zur Bereitstellung von hochleistungsfähigen Omni-Path Express (OPX)-Fabric-Interconnect-Architekturen, Host Fabric Interfaces (HFIs), Switches mit ultrianiedriger Latenz und Scale-out-Netzwerken für Exascale-Supercomputing und wissenschaftliche KI-Cluster in Nationalen Laboratorien.
 * **Critical Materials Recycling:** Sekundäre Magnet-Recycling-Technologien, hydrometallurgische Rückgewinnung hochreiner seltener Erden (Nd, Dy, Tb) aus Elektronikschrott und Dekarbonisierung der Lieferkette im Einklang mit dem DOE Critical Materials Innovation Hub (CMI / Ames National Laboratory).
 * **Emerald Cloud Lab (ECL):** Cloud-basierte robotische Laborinfrastruktur für die programmgesteuerte Remote-Ausführung von über 200 analytischen Chemie-, Molekularbiologie- und Syntheseprotokollen über automatisierte API-Schnittstellen (**Emerald Orchestrator**), die autonome geschlossene Labor-Experimente und KI-Agenten-Orchestrierung in DOE National Laboratories (LBNL, ANL, PNNL) ermöglicht.
-* **EPRI (Electric Power Research Institute):** Forschungskoordination im Bereich Elektrizität, Open-Source-Netzsimulations-Toolkits und SMR-Modernisierung.
+* **EPRI (Electric Power Research Institute):** Forschungskoordination im Bereich Elektrizität, Open-Source-KI-Netzsimulations-Toolkits, Übertragungs- und Verteilungs-Co-Simulations-Engines (**GridLAB-D** / **OpenDSS**-Integration) sowie digitale Zwillinge von nuklearen Kleinreaktoren (SMR), die gemeinsam mit DOE National Laboratories (NREL ARIES-Plattform, ANL, INL) und Energieversorgern (ComEd, TVA, ISO New England) entwickelt werden.
 * **Esri (Environmental Systems Research Institute):** Enterprise ArcGIS-Plattformen, GeoAI-Analytics und räumliche digitale Zwillinge für die Erdforschung.
 * **GE Aerospace:** Fortschrittlicher Luft- und Raumfahrtantrieb, Hochtemperatur-Keramikmatrix-Verbundwerkstoffe (CMCs) und Verbrennungs-CFD.
 * **ISO New England:** Regionaler Stromnetz-Dispatch, dynamische Übertragungsstabilität und quantensichere Cybersicherheit.

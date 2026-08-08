@@ -1,4 +1,4 @@
-**Version**: 1.3.0
+**Version**: 1.3.1
 
 # The Genesis Mission: Architecture, Strategic Initiatives, and the Multi-Institutional Ecosystem for AI and Quantum-Driven Scientific Discovery
 
@@ -250,7 +250,7 @@ A defining feature of the Genesis Mission is its multi-sector operational model 
 * **Cornelis Networks:** Formal DOE Genesis Mission partnership delivering high-performance Omni-Path Express (OPX) fabric interconnect architecture, Host Fabric Interfaces (HFIs), ultra-low latency switches, and scale-out networking for exascale supercomputing and scientific AI clusters across national laboratories.
 * **Critical Materials Recycling:** Secondary magnet recycling technologies, hydrometallurgical recovery of high-purity rare earth elements (Nd, Dy, Tb) from electronic scrap, and supply chain decarbonization aligned with the DOE Critical Materials Innovation Hub (CMI / Ames National Laboratory).
 * **Emerald Cloud Lab (ECL):** Cloud-based robotic laboratory infrastructure enabling remote programmatic execution of over 200 analytical chemistry, molecular biology, and materials synthesis protocols via automated API interfaces (**Emerald Orchestrator**), powering closed-loop self-driving laboratory experiments and AI agent orchestration across DOE National Laboratories (LBNL, ANL, PNNL).
-* **EPRI (Electric Power Research Institute):** Electric power research coordination, open-source AI grid simulation toolkits, and nuclear energy SMR modernization.
+* **EPRI (Electric Power Research Institute):** Electric power research coordination, open-source AI grid simulation toolkits, transmission and distribution co-simulation engines (**GridLAB-D** / **OpenDSS** integration), and Small Modular Reactor (SMR) nuclear plant digital twins co-developed with DOE National Laboratories (NREL ARIES platform, ANL, INL) and utility partners (ComEd, TVA, ISO New England) under Genesis.
 * **Esri (Environmental Systems Research Institute):** Enterprise ArcGIS platforms, spatial analytics engines (GeoAI), and spatial digital twins for Earth observation under Genesis.
 * **GE Aerospace:** Advanced aerospace propulsion, high-temperature ceramic matrix composites (CMCs), and exascale combustion computational fluid dynamics (CFD).
 * **ISO New England:** Regional power grid dispatch, dynamic transmission stability co-simulations, and quantum-safe grid cybersecurity.

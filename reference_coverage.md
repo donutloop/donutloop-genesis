@@ -15,7 +15,7 @@
 | **Official PDF Documents** | **14** | Formal RFA solicitations, webinars, slides, and executive reports |
 | **Web Portals & Press Releases** | **323** | Newsroom features, corporate blog posts, and interactive hubs |
 | **Validation Status** | **100% Validated** | All links canonicalized, formatted, and deduplicated |
-| **Processing Status** | **22 / 337 Processed** | 315 Unprocessed, 22 Processed |
+| **Processing Status** | **23 / 337 Processed** | 314 Unprocessed, 23 Processed |
 
 ---
 
@@ -90,7 +90,7 @@ A complete tabular listing of all 337 indexed reference links:
 | 20 | 2. Collaborators | - | Diraq | `diraq.com` | Web | [Diraq](https://diraq.com/) | `Processed` |
 | 21 | 2. Collaborators | - | D-Wave | `www.dwavesys.com` | Web | [D-Wave](https://www.dwavesys.com/) | `Processed` |
 | 22 | 2. Collaborators | - | Emerald Cloud Lab | `www.emeraldcloudlab.com` | Web | [Emerald Cloud Lab](https://www.emeraldcloudlab.com/) | `Processed` |
-| 23 | 2. Collaborators | - | EPRI | `www.epri.com` | Web | [EPRI](https://www.epri.com/) | `Unprocessed` |
+| 23 | 2. Collaborators | - | EPRI | `www.epri.com` | Web | [EPRI](https://www.epri.com/) | `Processed` |
 | 24 | 2. Collaborators | - | Esri | `www.esri.com` | Web | [Esri](https://www.esri.com/) | `Unprocessed` |
 | 25 | 2. Collaborators | - | FutureHouse | `www.futurehouse.org` | Web | [FutureHouse](https://www.futurehouse.org/) | `Unprocessed` |
 | 26 | 2. Collaborators | - | GE Aerospace | `www.geaerospace.com` | Web | [GE Aerospace](https://www.geaerospace.com/) | `Unprocessed` |
