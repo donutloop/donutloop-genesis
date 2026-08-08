@@ -7,6 +7,17 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
+## [1.0.8] - 2026-08-08
+
+### Added
+- **Centralized Release Management Prompt**: Added [`prompts/release_and_tag.md`](file:///home/donutloop/Workspace/donutloop-genesis/prompts/release_and_tag.md) to isolate and standardize Git release tagging (`git tag -a vX.Y.Z`) and remote publishing (`git push origin main vX.Y.Z`).
+
+### Changed
+- **Workflow Prompt Alignment**: Updated all repository workflow prompts ([`prompts/process_reference_index.md`](file:///home/donutloop/Workspace/donutloop-genesis/prompts/process_reference_index.md), [`prompts/discover_new_references.md`](file:///home/donutloop/Workspace/donutloop-genesis/prompts/discover_new_references.md), [`prompts/expand_company_coverage.md`](file:///home/donutloop/Workspace/donutloop-genesis/prompts/expand_company_coverage.md), and [`prompts/format_links.md`](file:///home/donutloop/Workspace/donutloop-genesis/prompts/format_links.md)) to outsource release tagging to `prompts/release_and_tag.md` and explicitly mandate that releases are not executed directly by command during standard prompt execution.
+- **Version Bump**: Incremented patch version to `1.0.8` in `README.md` and `README.de.md`.
+
+---
+
 ## [1.0.7] - 2026-08-08
 
 ### Added

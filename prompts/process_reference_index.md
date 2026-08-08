@@ -40,8 +40,5 @@ Process the next `Unprocessed` entry in `reference_coverage.md` (starting from E
   - The specific paper sections enriched with new technical facts.
   - The updated index status in `reference_coverage.md`.
 
-### 7. Git Release Tag & Publish
-- **Mandatory Tag & Push:** Whenever `CHANGELOG.md` is updated, execute:
-  `git add . && git commit -m "chore(release): bump version to vX.Y.Z..."`
-  `git tag -a vX.Y.Z -m "Release vX.Y.Z: Process reference #N - [Title]"`
-  `git push origin main vX.Y.Z`
+### 7. Release Management Policy
+- **Outsourced Tagging:** Do NOT execute `git tag` or `git push` commands directly during this workflow prompt. Release tagging and publishing are outsourced to [`prompts/release_and_tag.md`](./release_and_tag.md) and should only be performed when a release step is explicitly requested by the user.

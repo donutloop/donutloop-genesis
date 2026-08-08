@@ -31,7 +31,7 @@ Systematically document a target company's technical and strategic role within t
 ### 5. Changelog Update
 - **Changelog Entry:** Update `CHANGELOG.md` under the active release version section to log the newly expanded company profile, status upgrade in `coverage.md`, and corresponding section updates in `README.md`.
 
-### 6. Git Release Tag & Publish
-- **Mandatory Release Tag:** Whenever `CHANGELOG.md` is updated or modified, a corresponding Git release tag matching the updated version string (e.g. `v1.0.3`) MUST be created and published to the remote repository (`git tag -a vX.Y.Z -m "Release vX.Y.Z: ..." && git push origin main vX.Y.Z`).
+### 6. Release Management Policy
+- **Outsourced Tagging:** Do NOT execute `git tag` or `git push` commands directly during this workflow prompt. Release tagging and publishing are outsourced to [`prompts/release_and_tag.md`](./release_and_tag.md) and should only be performed when a release step is explicitly requested by the user.
 
 
