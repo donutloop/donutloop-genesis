@@ -15,7 +15,7 @@
 | **Official PDF Documents** | **14** | Formal RFA solicitations, webinars, slides, and executive reports |
 | **Web Portals & Press Releases** | **323** | Newsroom features, corporate blog posts, and interactive hubs |
 | **Validation Status** | **100% Validated** | All links canonicalized, formatted, and deduplicated |
-| **Processing Status** | **44 / 337 Processed** | 293 Unprocessed, 44 Processed |
+| **Processing Status** | **45 / 337 Processed** | 292 Unprocessed, 45 Processed |
 
 ---
 
@@ -112,7 +112,7 @@ A complete tabular listing of all 337 indexed reference links:
 | 42 | 2. Collaborators | - | Nokia | `www.nokia.com` | Web | [Nokia](https://www.nokia.com/) | `Processed` |
 | 43 | 2. Collaborators | - | Nusano | `nusano.com` | Web | [Nusano](https://nusano.com/) | `Processed` |
 | 44 | 2. Collaborators | - | NVIDIA | `blogs.nvidia.com` | Web | [NVIDIA](https://blogs.nvidia.com/) | `Processed` |
-| 45 | 2. Collaborators | - | OLI Systems | `www.olisystems.com` | Web | [OLI Systems](https://www.olisystems.com/) | `Unprocessed` |
+| 45 | 2. Collaborators | - | OLI Systems | `www.olisystems.com` | Web | [OLI Systems](https://www.olisystems.com/) | `Processed` |
 | 46 | 2. Collaborators | - | OpenAI for Government | `openai.com` | Web | [OpenAI for Government](https://openai.com/) | `Unprocessed` |
 | 47 | 2. Collaborators | - | Oracle | `www.oracle.com` | Web | [Oracle](https://www.oracle.com/) | `Unprocessed` |
 | 48 | 2. Collaborators | - | Phoenix Tailings | `www.phoenixtailings.com` | Web | [Phoenix Tailings](https://www.phoenixtailings.com/) | `Unprocessed` |

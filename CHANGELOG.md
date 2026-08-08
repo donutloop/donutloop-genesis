@@ -7,6 +7,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
+## [1.4.12] - 2026-08-08
+
+### Changed
+- **Paper Enrichment (Entry #45 - OLI Systems)**: Processed reference entry #45 (`OLI Systems`, `www.olisystems.com`). Enriched Section 3.1 C in `README.md` and `README.de.md` with explicit technical details on deploying advanced Mixed-Solvent Electrolyte (MSE) thermodynamic chemistry simulation engines, electrolyte property modeling solvers, and phase equilibrium digital twins integrated with DOE Critical Materials Innovation Hub (CMI / Ames National Laboratory, INL, ORNL) workflows for AI-accelerated hydrometallurgical extraction, solvent purification, and critical mineral recovery.
+- **Index Status Update**: Marked Entry #45 status to `Processed` in `reference_coverage.md` and updated executive metrics to `45 / 337 Processed`.
+- **Version Bump**: Incremented patch version to `1.4.12` in `README.md` and `README.de.md`.
+
+---
+
 ## [1.4.11] - 2026-08-08
 
 ### Changed

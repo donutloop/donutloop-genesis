@@ -1,4 +1,4 @@
-**Version**: 1.4.11
+**Version**: 1.4.12
 
 # Die Genesis-Mission: Architektur, strategische Initiativen und das multi-institutionelle Ökosystem für KI- und quantengetriebene wissenschaftliche Entdeckungen
 
@@ -261,7 +261,7 @@ Ein bestimmendes Merkmal der Genesis-Mission ist ihr sektorübergreifendes Betri
 * **Niron Magnets:** Kommerzialisierung von seltene-erden-freien **Clean Earth Magnet®**-Technologien auf Basis von Eisennitrid ($Fe_{16}N_2$) mit hoher Magnetisierungssättigung, Nutzung von Synchrotron- und Neutronenstreuungs-Strahlrohren der DOE National Laboratories (ANL Advanced Photon Source, ORNL SNS/HFIR) für die atomare Kristallorientierungs-Co-Entwicklung und Anwendung KI-gestützter Sinter-Optimierungsalgorithmen, die gemeinsam mit dem DOE Critical Materials Innovation Hub (CMI / Ames National Laboratory) für die inländische Lieferkettensicherheit von EV-Antrieben und Stromnetzmagneten im Rahmen von Genesis entwickelt werden.
 * **Nokia (Nokia Bell Labs):** Bereitstellung von Terabit-DWDM-optischen Netzverbindungsstrukturen für das föderierte ESnet-Labornetzwerk, missionskritischen privaten 5G/6G-Funk-Telemetriestrukturen für autonome Instrumentierungen in den Nationalen Laboratorien sowie NIST-standardisierter post-quantenkryptografischer (PQC) Transportsicherheit gekoppelt mit Quantum Key Distribution (QKD)-Optiken von Nokia Bell Labs für quantensicheres laborübergreifendes Exascale-Datenstreaming im Rahmen von Genesis.
 * **Nusano:** Einsatz von Schwermetall-Mehrteilchen-Linearbeschleunigerplattformen für die Hochdurchsatz-Produktion therapeutischer und diagnostischer Radioisotope (Actinium-225, Lutetium-177, Astatin-211), Integration KI-gestützter Strahloptimierungsalgorithmen und automatisierter radiochemischer Trennsysteme, die gemeinsam mit den Nationalen Labor-Hubs des DOE Isotope Program (ORNL, LANL, BNL) im Rahmen von Genesis entwickelt werden.
-* **OLI Systems:** Thermodynamische Chemie-Simulations-Engines und Elektrolyt-Modellierungslöser für die Hydrometallurgie.
+* **OLI Systems:** Bereitstellung fortschrittlicher MSE (Mixed-Solvent Electrolyte)-Thermodynamik-Chemie-Simulations-Engines, Elektrolyt-Eigenschaftsmodellierungslösern und Phasengleichgewichts-digitalen-Zwillingen, die in Workflows des DOE Critical Materials Innovation Hub (CMI / Ames National Laboratory, INL, ORNL) für die KI-beschleunigte hydrometallurgische Extraktion, Lösungsmittelreinigung und Rückgewinnung kritischer Mineralien im Rahmen von Genesis integriert sind.
 * **Phoenix Tailings:** Abfallfreie Extraktion kritischer Mineralien aus Bergbau-Rückständen.
 * **PMT Critical Metals:** Verarbeitung von Refraktärmetallen und Metallurgie von Hochtemperaturlegierungen.
 * **Qubit (Qubit Inc.):** Steuerungssoftware für Quantencomputing-Hardware, Puls-Kalibrierung und hybrid-klassisch-quantenmechanische Algorithmen.
