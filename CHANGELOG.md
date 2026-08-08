@@ -7,6 +7,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
+## [1.3.9] - 2026-08-08
+
+### Changed
+- **Paper Enrichment (Entry #31 - IBM)**: Processed reference entry #31 (`IBM`, `www.ibm.com`). Enriched Section 3.1 B in `README.md` and `README.de.md` with explicit technical details on $1 Billion CHIPS and Science Act superconducting quantum foundry commitment, $50 Million in direct compute access (**Heron** 133-qubit and **Nighthawk** QPUs), co-leading Phase I RFA agentic AI quantum discovery awards with ORNL/ANL/BNL, and integrating **Qiskit Runtime** and **Qiskit Serverless** across national laboratory supercomputers.
+- **Index Status Update**: Marked Entry #31 status to `Processed` in `reference_coverage.md` and updated executive metrics to `31 / 337 Processed`.
+- **Version Bump**: Incremented patch version to `1.3.9` in `README.md` and `README.de.md`.
+
+---
+
 ## [1.3.8] - 2026-08-08
 
 ### Changed

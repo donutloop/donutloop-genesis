@@ -1,4 +1,4 @@
-**Version**: 1.3.8
+**Version**: 1.3.9
 
 # Die Genesis-Mission: Architektur, strategische Initiativen und das multi-institutionelle Ökosystem für KI- und quantengetriebene wissenschaftliche Entdeckungen
 
@@ -230,7 +230,7 @@ Ein bestimmendes Merkmal der Genesis-Mission ist ihr sektorübergreifendes Betri
 * **Diraq:** Zusage von bis zu 38 Millionen US-Dollar im Rahmen des CHIPS Act zur Skalierung CMOS-nativer Silizium-Spin-Quantenpunktprozessoren (**Quantum Dot Spin QPU**-Plattformen) in Partnerschaft mit GlobalFoundries bei Kosten von unter einem Dollar pro Qubit unter Nutzung von Standard-Sub-28nm-Halbleitergießereiprozessen und kryogenen Steuerungs-ASICs für die DOE-Quanteninfrastruktur.
 * **D-Wave Quantum:** Zusage von 100 Millionen US-Dollar zur Skalierung kommerzieller Quanten-Annealing-Systeme (**Advantage** / **Advantage2** QPUs mit 5.000+ bis 7.000+ Flux-Qubits) und supraleitender Gatter-Modell-Quantenarchitekturen sowie zur Bereitstellung hybrider klassisch-quantenbasierter Löser-Dienste (**Leap**-Cloud-Dienst), die in DOE National Laboratories (LANL, ORNL, NREL ARIES) zur Stromnetz-Dispatch-Optimierung, Materialentdeckung und komplexen Lieferkettenplanung integriert sind.
 * **GlobalFoundries:** Zusage von 375 Millionen US-Dollar im Rahmen des CHIPS and Science Act und Partnerschaft mit dem DOE über **GF Labs** zur Bereitstellung von Process Design Kits (PDKs), GlobalShuttle™ MPW-Läufen (Multi-Project Wafer), Silizium-Photonik-Plattformen, Sub-28nm-Halbleitergießereiprozessen und kundenspezifischem Mikrochip-Packaging zur Unterstützung kommerzieller Quantenpartner (Diraq, Quantinuum, PsiQuantum) sowie kryogener Quantensteuerungs-ASICs.
-* **IBM / IBM Quantum:** Zusage von 1 Milliarde US-Dollar an CHIPS Act Mitteln für eine inländische supraleitende Quantengießerei, 50 Millionen US-Dollar an Quantenrechenzugang (**Heron**- und **Nighthawk**-Prozessoren).
+* **IBM / IBM Quantum:** Zusage von 1 Milliarde US-Dollar im Rahmen des CHIPS and Science Act für eine inländische supraleitende Quantengießerei, 50 Millionen US-Dollar an direktem Quantenrechenzugang (**Heron** 133-Qubit- und **Nighthawk**-Prozessoren), Co-Leitung von Phase-I-RFA-Preisen für agentische KI-Quantenentdeckungen mit ORNL, ANL und BNL sowie Integration von **Qiskit Runtime** und **Qiskit Serverless** in HPC-Supercomputer nationaler Laboratorien für hybride Quanten-Klassik-Workflows.
 * **Infleqtion:** Zusage von 100 Millionen US-Dollar im Rahmen des CHIPS Act und Ausführung von 3 DOE-Genesis-Preisen (**Sqale** Neutralatom-QPU-Plattform, **Tiqker** Atomuhren, **Superstaq**-Compiler).
 * **PsiQuantum:** Zusage von 100 Millionen US-Dollar im Rahmen des CHIPS Act zum Bau nutzenorientierter photonischer Quantenhardware in der inländischen **PsiFactory**-Anlage in Milpitas, CA.
 * **Quantinuum:** Zusage von 100 Millionen US-Dollar im Rahmen des CHIPS Act zur Skalierung fehlertoleranter Ionenfallen-QPUs mit GlobalFoundries und Monarch Quantum.
