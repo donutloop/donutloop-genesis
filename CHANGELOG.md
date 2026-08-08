@@ -7,6 +7,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
+## [1.4.22] - 2026-08-08
+
+### Changed
+- **Paper Enrichment (Entry #55 - Rigetti)**: Processed reference entry #55 (`Rigetti`, `www.rigetti.com`). Enriched Section 3.1 B in `README.md` and `README.de.md` with explicit technical details on committing up to $100 Million under a CHIPS and Science Act Letter of Intent (LOI) to scale tileable multi-chip superconducting QPUs (**Ankaa-3**, **Novera**, **Lyra** platforms), miniaturized cryogenic control electronics, 3D chip-stacking, and executing DOE grants for quantum simulation of fusion plasma physics co-developed with LLNL and ORNL.
+- **Index Status Update**: Marked Entry #55 status to `Processed` in `reference_coverage.md` and updated executive metrics to `55 / 337 Processed`.
+- **Version Bump**: Incremented patch version to `1.4.22` in `README.md` and `README.de.md`.
+
+---
+
 ## [1.4.21] - 2026-08-08
 
 ### Changed

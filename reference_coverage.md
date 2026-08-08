@@ -15,7 +15,7 @@
 | **Official PDF Documents** | **14** | Formal RFA solicitations, webinars, slides, and executive reports |
 | **Web Portals & Press Releases** | **323** | Newsroom features, corporate blog posts, and interactive hubs |
 | **Validation Status** | **100% Validated** | All links canonicalized, formatted, and deduplicated |
-| **Processing Status** | **54 / 337 Processed** | 283 Unprocessed, 54 Processed |
+| **Processing Status** | **55 / 337 Processed** | 282 Unprocessed, 55 Processed |
 
 ---
 
@@ -122,7 +122,7 @@ A complete tabular listing of all 337 indexed reference links:
 | 52 | 2. Collaborators | - | Qubit | `www.qubit.com` | Web | [Qubit](https://www.qubit.com/) | `Processed` |
 | 53 | 2. Collaborators | - | RadiaSoft | `www.radiasoft.net` | Web | [RadiaSoft](https://www.radiasoft.net/) | `Processed` |
 | 54 | 2. Collaborators | - | Ramaco | `ramacoresources.com` | Web | [Ramaco](https://ramacoresources.com/) | `Processed` |
-| 55 | 2. Collaborators | - | Rigetti | `www.rigetti.com` | Web | [Rigetti](https://www.rigetti.com/) | `Unprocessed` |
+| 55 | 2. Collaborators | - | Rigetti | `www.rigetti.com` | Web | [Rigetti](https://www.rigetti.com/) | `Processed` |
 | 56 | 2. Collaborators | - | RTX | `www.rtx.com` | Web | [RTX](https://www.rtx.com/) | `Unprocessed` |
 | 57 | 2. Collaborators | - | Sambanova | `sambanova.ai` | Web | [Sambanova](https://sambanova.ai/) | `Unprocessed` |
 | 58 | 2. Collaborators | - | Scale AI | `scale.com` | Web | [Scale AI](https://scale.com/) | `Unprocessed` |
