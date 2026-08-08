@@ -1,4 +1,4 @@
-**Version**: 1.1.7
+**Version**: 1.1.8
 
 # The Genesis Mission: Architecture, Strategic Initiatives, and the Multi-Institutional Ecosystem for AI and Quantum-Driven Scientific Discovery
 
@@ -242,7 +242,7 @@ A defining feature of the Genesis Mission is its multi-sector operational model 
 #### C. Industrial Technology, Energy, Materials & Infrastructure Partners
 * **Accenture Federal Services:** Federal AI systems integration, CM2US operating capability, and program management across multi-agency Genesis Mission workflows.
 * **Albemarle:** Direct Lithium Extraction (DLE) chemical technology, high-purity lithium hydroxide and carbonate refining, solid-state battery electrolyte substrate R&D, and critical mineral supply chain security for national grid storage and EV platforms in collaboration with DOE National Laboratories (Ames, NETL, PNNL).
-* **Atomic Canyon:** AI-driven nuclear energy research platforms (**NeutronAI**), regulatory document search, and nuclear knowledge graphs for DOE reactor licensing.
+* **Atomic Canyon:** AI-driven nuclear energy research platforms (**NeutronAI**), specialized nuclear domain AI foundation models, multi-terabyte NRC regulatory document semantic search engines, and nuclear knowledge graphs deployed across INL and ORNL to accelerate SMR (Small Modular Reactor) licensing and advanced reactor safety modeling.
 * **AVEVA:** Enterprise industrial software platforms, SCADA integration, and real-time operational telemetry for clean energy and nuclear research facilities.
 * **Chemspeed Technologies:** Automated chemical synthesis workstation platforms (SWING, ISYNTH) and parallel reaction screening for self-driving laboratories.
 * **Collins Aerospace:** Advanced microelectronics, radiation-hardened avionics computing substrates, and extreme-environment sensor systems.

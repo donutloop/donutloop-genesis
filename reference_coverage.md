@@ -15,7 +15,7 @@
 | **Official PDF Documents** | **14** | Formal RFA solicitations, webinars, slides, and executive reports |
 | **Web Portals & Press Releases** | **323** | Newsroom features, corporate blog posts, and interactive hubs |
 | **Validation Status** | **100% Validated** | All links canonicalized, formatted, and deduplicated |
-| **Processing Status** | **9 / 337 Processed** | 328 Unprocessed, 9 Processed |
+| **Processing Status** | **10 / 337 Processed** | 327 Unprocessed, 10 Processed |
 
 ---
 
@@ -77,7 +77,7 @@ A complete tabular listing of all 337 indexed reference links:
 | 7 | 2. Collaborators | - | Anthropic | `www.anthropic.com` | Web | [Anthropic](https://www.anthropic.com/research/introducing-anthropic-science) | `Processed` |
 | 8 | 2. Collaborators | - | Applied Materials | `www.appliedmaterials.com` | Web | [Applied Materials](https://www.appliedmaterials.com/) | `Processed` |
 | 9 | 2. Collaborators | - | Atom Computing | `atom-computing.com` | Web | [Atom Computing](https://atom-computing.com/) | `Processed` |
-| 10 | 2. Collaborators | - | Atomic Canyon | `www.atomiccanyon.com` | Web | [Atomic Canyon](https://www.atomiccanyon.com/) | `Unprocessed` |
+| 10 | 2. Collaborators | - | Atomic Canyon | `www.atomiccanyon.com` | Web | [Atomic Canyon](https://www.atomiccanyon.com/) | `Processed` |
 | 11 | 2. Collaborators | - | AVEVA | `www.aveva.com` | Web | [AVEVA](https://www.aveva.com/) | `Unprocessed` |
 | 12 | 2. Collaborators | - | Cerebras | `www.cerebras.ai` | Web | [Cerebras](https://www.cerebras.ai/company/press-release) | `Unprocessed` |
 | 13 | 2. Collaborators | - | Chemspeed | `www.chemspeed.com` | Web | [Chemspeed](https://www.chemspeed.com/) | `Unprocessed` |

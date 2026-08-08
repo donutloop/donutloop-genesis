@@ -7,6 +7,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
+## [1.1.8] - 2026-08-08
+
+### Changed
+- **Paper Enrichment (Entry #10 - Atomic Canyon)**: Processed reference entry #10 (`Atomic Canyon`, `www.atomiccanyon.com`). Enriched Section 3.1 C in `README.md` and `README.de.md` with explicit technical details on Atomic Canyon AI nuclear research platform (**NeutronAI**), specialized nuclear foundation models, multi-terabyte NRC regulatory search engines, and nuclear knowledge graphs deployed across INL and ORNL.
+- **Index Status Update**: Marked Entry #10 status to `Processed` in `reference_coverage.md` and updated executive metrics to `10 / 337 Processed`.
+- **Version Bump**: Incremented patch version to `1.1.8` in `README.md` and `README.de.md`.
+
+---
+
 ## [1.1.7] - 2026-08-08
 
 ### Changed

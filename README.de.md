@@ -1,4 +1,4 @@
-**Version**: 1.1.7
+**Version**: 1.1.8
 
 # Die Genesis-Mission: Architektur, strategische Initiativen und das multi-institutionelle Ökosystem für KI- und quantengetriebene wissenschaftliche Entdeckungen
 
@@ -242,7 +242,7 @@ Ein bestimmendes Merkmal der Genesis-Mission ist ihr sektorübergreifendes Betri
 #### C. Industrietechnologie-, Energie-, Material- & Infrastrukturpartner
 * **Accenture Federal Services:** Integration von Bundes-KI-Systemen, CM2US-Betriebsfähigkeit und Programmmanagement.
 * **Albemarle:** Fortschrittliche Verfahren zur direkten Lithiumextraktion (Direct Lithium Extraction, DLE), chemische Raffinationstechnologien für hochreines Lithiumhydroxid und -carbonat, F&E für Festkörperbatterie-Elektrolytsubstrate sowie Sicherung der Lieferkette für kritische Mineralien für nationale Energiespeicher- und Elektro-Mobilitätsinitiativen in Zusammenarbeit mit DOE National Laboratories (Ames, NETL, PNNL).
-* **Atomic Canyon:** KI-gestützte Kernenergieforschungsplattformen (**NeutronAI**) und Wissensgraphen für DOE-Reaktorlizenzierungen.
+* **Atomic Canyon:** KI-gestützte Kernenergieforschungsplattformen (**NeutronAI**), spezialisierte Kernenergie-Basismodelle, semantische Suchmaschinen für Multi-Terabyte-NRC-Regulierungsdokumente und nukleare Wissensgraphen, die am INL und ORNL eingesetzt werden, um die SMR-Lizenzierung (Small Modular Reactor) und die Sicherheitsmodellierung fortschrittlicher Reaktoren zu beschleunigen.
 * **AVEVA:** Industrielle Softwareplattformen für Unternehmen, SCADA-Integration und Echtzeit-Telemetrie.
 * **Chemspeed Technologies:** Automatisierte chemische Synthese-Arbeitsstationen (SWING, ISYNTH) für selbstfahrende Labore.
 * **Collins Aerospace:** Fortschrittliche Mikroelektronik, strahlungsgehärtete Substrate und Sensorsysteme für extreme Umgebungen.
