@@ -15,7 +15,7 @@
 | **Official PDF Documents** | **14** | Formal RFA solicitations, webinars, slides, and executive reports |
 | **Web Portals & Press Releases** | **326** | Newsroom features, corporate blog posts, and interactive hubs |
 | **Validation Status** | **100% Validated** | All links canonicalized, formatted, and deduplicated |
-| **Processing Status** | **0 / 340 Processed** | 340 Unprocessed, 0 Processed (initialized to Unprocessed) |
+| **Processing Status** | **1 / 340 Processed** | 339 Unprocessed, 1 Processed |
 
 ---
 
@@ -68,7 +68,7 @@ A complete tabular listing of all 340 indexed reference links:
 
 | # | Category / Section | Entity / Subject | Title | Domain | Type | Link | Status |
 |---|---|---|---|---|:---:|---|:---:|
-| 1 | 1. Key Presentation Details | Document | Genesis Mission and HEP - LHC (PDF) | `indico.cern.ch` | PDF | [Genesis Mission and HEP - LHC (PDF)](https://indico.cern.ch/event/1662511/contributions/6989580/attachments/3241179/5781542/Genesis%20Mission%20and%20HEP%20-%20LHC.pdf) | `Unprocessed` |
+| 1 | 1. Key Presentation Details | Document | Genesis Mission and HEP - LHC (PDF) | `indico.cern.ch` | PDF | [Genesis Mission and HEP - LHC (PDF)](https://indico.cern.ch/event/1662511/contributions/6989580/attachments/3241179/5781542/Genesis%20Mission%20and%20HEP%20-%20LHC.pdf) | `Processed` |
 | 2 | 1. Key Presentation Details | Event | U.S. ATLAS Institutional Board Meeting | `indico.cern.ch` | Web | [U.S. ATLAS Institutional Board Meeting](https://indico.cern.ch/event/1662511/?view=indico_weeks_view) | `Unprocessed` |
 | 3 | 1. Key Presentation Details > Key People & Audience | Attendees | ATLAS experiment at CERN | `atlas.cern` | Web | [ATLAS experiment at CERN](https://atlas.cern/Discover/Collaboration) | `Unprocessed` |
 | 4 | 2. Collaborators | - | Albemarle | `www.albemarle.com` | Web | [Albemarle](https://www.albemarle.com/) | `Unprocessed` |

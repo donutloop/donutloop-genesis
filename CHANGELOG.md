@@ -7,6 +7,18 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
+## [1.0.7] - 2026-08-08
+
+### Added
+- **Workflow Prompt for Reference Index Processing**: Added [`prompts/process_reference_index.md`](file:///home/donutloop/Workspace/donutloop-genesis/prompts/process_reference_index.md) establishing an iterative reference processing and research paper enrichment workflow.
+
+### Changed
+- **Paper Enrichment (Entry #1 - High Energy Physics)**: Processed reference entry #1 (`Genesis Mission and HEP - LHC (PDF)`) from `indico.cern.ch`. Enriched §2.3 A in `README.md` and `README.de.md` with concrete technical details on High-Luminosity LHC (HL-LHC) compute scaling, High-Level Trigger (HLT) candidate filtering, GNN particle jet reconstruction, and detector digital twin calibration.
+- **Index Status Update**: Marked Entry #1 status to `Processed` in `reference_coverage.md` and updated processing metric to `1 / 340 Processed`.
+- **Version Bump**: Incremented patch version to `1.0.7` in `README.md` and `README.de.md`.
+
+---
+
 ## [1.0.6] - 2026-08-08
 
 ### Added
