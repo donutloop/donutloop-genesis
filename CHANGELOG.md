@@ -7,6 +7,18 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
+## [1.0.3] - 2026-08-08
+
+### Added
+- **Genesis Open Models Integration**: Incorporated explicit architectural references and links to the Argonne National Laboratory **Genesis Open Models** portal (`https://genesisopenmodels.anl.gov/`) across both the English (`README.md`) and German (`README.de.md`) research papers (§2.1, §3.2, and Appendix A.2).
+- **Reference Integration**: Processed raw `WIP` entry for Genesis Open Models into `references.md` under Section 5 (Argonne National Laboratory).
+
+### Changed
+- **Reference Hygiene**: Decommissioned temporary `WIP` scratchpad section in `references.md`.
+- **Version Bump**: Incremented patch version to `1.0.3` in `README.md` and `README.de.md`.
+
+---
+
 ## [1.0.2] - 2026-08-08
 
 ### Added

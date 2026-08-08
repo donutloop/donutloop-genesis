@@ -1,4 +1,4 @@
-**Version**: 1.0.2
+**Version**: 1.0.3
 
 # Die Genesis-Mission: Architektur, strategische Initiativen und das multi-institutionelle Ökosystem für KI- und quantengetriebene wissenschaftliche Entdeckungen
 
@@ -122,6 +122,7 @@ Die Mission integriert führende Supercomputing-Knoten in ein föderiertes Ausf�
   * **Frontier, Aurora und El Capitan (HPE / Cray EX):** Erstklassige Exascale-Supercomputing-Infrastruktur mit wassergekühlten HPE Cray EX-Architekturen und Slingshot-Interconnects für föderiertes KI-Modelltraining und Simulationen im Petabyte-Bereich über ORNL, ANL und LLNL hinweg.
   * **Dell AI Factory & PowerEdge Infrastructure (Dell / DOE):** Enterprise-KI-Fabrik-Deployments mit wassergekühlten Dell PowerEdge GPU-Servern, hochdichten Rechensubstraten und energieeffizienten Rechenzentrumsarchitekturen zur Unterstützung föderierter wissenschaftlicher Berechnungen und KI-Modellausführungen.
   * **SambaNova Dataflow Infrastructure (SambaNova / DOE):** Einsatz der Reconfigurable Dataflow Architecture (RDA), angetrieben von **Reconfigurable Dataflow Units (RDUs)** an Rechenknoten nationaler Laboratorien (einschließlich ANL ALCF), was eine Inferenz mit hohem Durchsatz und die Ausführung multimodaler KI-Modelle für wissenschaftliche Basismodelle ermöglicht.
+  * **Genesis Open Models Portal (ANL / DOE):** Das Argonne National Laboratory hostet die **Genesis Open Models**-Plattform ([`genesisopenmodels.anl.gov`](https://genesisopenmodels.anl.gov/)), die als zentralisiertes Open-Access-Modellregister, Repository für Basismodelle und KI-Inferenzportal für offene wissenschaftliche KI-Modelle dient, die in den 17 Nationalen Laboratorien und bei ausgezeichneten Universitäten eingesetzt werden.
 * **FAIR-Wissenschafts-Datenautobahnen:** Die 83-Millionen-Dollar-Investition der NSF etabliert grundlegende Datenpipelines und standardisierte FAIR-konforme Daten-Repositories (Findable, Accessible, Interoperable, Reusable), die in der Lage sind, experimentelle Datenströme im Petabyte-Bereich in Echtzeit von Synchrotrons (NSLS-II, APS), Teilchenbeschleunigern (LHC, CEBAF) und Fusionsreaktoren (DIII-D, NSTX-U) zu erfassen.
 
 ### 2.2 Quantenführerschaft und CHIPS Act Infrastruktur
@@ -273,7 +274,7 @@ Ein bestimmendes Merkmal der Genesis-Mission ist ihr sektorübergreifendes Betri
 ### 3.2 Nationale Laboratorien (National Laboratories)
 Das DOE Office of Science leitet die Finanzierung über 17 primäre nationale Laborknotenpunkte:
 * **Ames National Laboratory (Ames):** Leitung des Critical Materials Institute (CMI), Legierungsthermodynamik mit hohem Durchsatz und Forschung zum Ersatz seltener Erden.
-* **Argonne National Laboratory (ANL):** Gastgeber der Argonne Leadership Computing Facility (ALCF), Solstice- und Equinox-Supercomputer, Aurora-Exascale-Anwendungen, Advanced Photon Source (APS) Strahlrohre und Infleqtion Quanten-Hubs.
+* **Argonne National Laboratory (ANL):** Gastgeber der Argonne Leadership Computing Facility (ALCF), Solstice- und Equinox-Supercomputer, Aurora-Exascale-Anwendungen, Advanced Photon Source (APS) Strahlrohre, des Infleqtion Quanten-Hubs und Betreiber der **Genesis Open Models**-Plattform ([`genesisopenmodels.anl.gov`](https://genesisopenmodels.anl.gov/)) für das Hosting und die Inferenz offener wissenschaftlicher Modelle.
 * **Brookhaven National Laboratory (BNL):** Leitung des Co-Design Center for Quantum Advantage (C2QA), Betrieb der National Synchrotron Light Source II (NSLS-II) und Einsatz von KI-Basismodellen für die Kernphysik.
 * **Fermi National Accelerator Laboratory (Fermilab):** Leitung des Superconducting Quantum Materials and Systems (SQMS) Center, Betrieb von SRF 3D-Kavitätstestanlagen und Partnerschaft mit xLight.
 * **Idaho National Laboratory (INL):** Pioniere der Kernenergie-KI, digitale Zwillinge kleiner modularer Reaktoren (SMR), AWS/Microsoft Cloud-HPC-Integration und autonome Forschungsreaktorsteuerung.
@@ -410,7 +411,7 @@ Die Genesis-Mission zeichnet sich durch die Breite ihrer sektorübergreifenden K
 | Laboratorium | Abkürzung | Primärer Schwerpunkt in der Genesis-Mission |
 | :--- | :--- | :--- |
 | Ames National Laboratory | Ames | Leitung des Critical Materials Institute (CMI), Legierungsthermodynamik mit hohem Durchsatz |
-| Argonne National Laboratory | ANL | ALCF Solstice/Equinox Supercomputer, Aurora Exascale, APS Synchrotron & Infleqtion QPU-Hub |
+| Argonne National Laboratory | ANL | ALCF Solstice/Equinox Supercomputer, Aurora Exascale, APS Synchrotron, Genesis Open Models Hub & Infleqtion QPU-Hub |
 | Brookhaven National Laboratory | BNL | C2QA Quanten-Co-Design-Zentrum, NSLS-II Synchrotron-Strahlrohre & Schwerionenphysik-KI |
 | Fermi National Accelerator Laboratory | Fermilab | SQMS Quantenzentrum, SRF 3D-Kavitäts-Qubits & xLight EUV FEL CRADA-Partner |
 | Idaho National Laboratory | INL | Kernenergie-KI, SMR-digitale Zwillinge, AWS Cloud HPC & autonome Reaktorsteuerung |
