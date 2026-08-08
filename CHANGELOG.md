@@ -7,6 +7,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
+## [1.4.14] - 2026-08-08
+
+### Changed
+- **Paper Enrichment (Entry #47 - Oracle)**: Processed reference entry #47 (`Oracle`, `www.oracle.com`). Enriched Section 3.1 C in `README.md` and `README.de.md` with explicit technical details on partnering with DOE and NVIDIA to deploy **OCI Supercluster** liquid-cooled AI supercomputing infrastructure (**Solstice** and **Equinox** supercomputers at ANL ALCF), provisioning FedRAMP High and DISA IL5/IL6 sovereign cloud enclaves across national laboratories, and delivering Oracle Autonomous Database and AI vector search data engines for petabyte-scale scientific data management, clean energy simulations, and national security research under Genesis.
+- **Index Status Update**: Marked Entry #47 status to `Processed` in `reference_coverage.md` and updated executive metrics to `47 / 337 Processed`.
+- **Version Bump**: Incremented patch version to `1.4.14` in `README.md` and `README.de.md`.
+
+---
+
 ## [1.4.13] - 2026-08-08
 
 ### Changed

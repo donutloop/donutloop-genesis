@@ -1,4 +1,4 @@
-**Version**: 1.4.13
+**Version**: 1.4.14
 
 # The Genesis Mission: Architecture, Strategic Initiatives, and the Multi-Institutional Ecosystem for AI and Quantum-Driven Scientific Discovery
 
@@ -219,7 +219,7 @@ A defining feature of the Genesis Mission is its multi-sector operational model 
 * **Microsoft:** Committing $60 Million ($40 Million Azure compute credits + $20 Million dedicated engineering services) under a strategic Memorandum of Understanding (MOU) with the DOE to launch the **SPARK** program office, deploy the **Microsoft Discovery** platform, provision AI materials discovery foundation models (**MatterGen**, **MatterSim**), and integrate topological quantum processors (**Majorana 1** QPU) across DOE National Laboratories (PNNL, ANL, ORNL, LBNL) for hybrid classical-quantum materials synthesis.
 * **NVIDIA:** Strategic Memorandum of Understanding (MOU) with the DOE to power exascale AI supercomputing infrastructure (**Solstice** and **Equinox** liquid-cooled AI supercomputers at ANL ALCF with Oracle), co-develop the **NVIDIA Apollo** open science foundation model family, deploy **Omniverse** physical AI digital twin frameworks and Modulus physics engines across national labs (PPPL fusion, NREL grid, ANL APS beamlines), and accelerate multi-modality quantum circuit emulation via the **cuQuantum** SDK.
 * **OpenAI:** Strategic partnership and Memorandum of Understanding (MOU) with the DOE (*"Advancing the Next Era of National Science"*) deploying **OpenAI for Government** FedRAMP-compliant enclaves with zero-data-retention security guarantees across all 17 National Laboratories and NNSA defense sites, provisioning frontier reasoning models for automated mathematical theorem proving, multi-modal scientific data analysis (diffraction imaging, electron microscopy), and agentic workflow orchestration under Genesis.
-* **Oracle:** Provisioning enterprise cloud, high-performance database infrastructure, and scalable compute clusters for DOE national security and clean energy simulations.
+* **Oracle:** Partnering with DOE and NVIDIA to deploy **OCI Supercluster** liquid-cooled AI computing infrastructure (**Solstice** and **Equinox** supercomputers at ANL ALCF), provisioning FedRAMP High and DISA IL5/IL6 sovereign cloud enclaves across national laboratories, and delivering Oracle Autonomous Database and AI vector search data engines for petabyte-scale scientific data management, clean energy simulations, and national security research under Genesis.
 * **SambaNova Systems:** Delivering Reconfigurable Dataflow Architecture (RDA) powered by **Reconfigurable Dataflow Units (RDUs)** across national laboratory compute nodes (ALCF) for high-throughput AI inference.
 * **Scale AI:** Strategic Memorandum of Understanding (MOU) with the DOE to deliver advanced AI data engine infrastructure, scientific data curation, synthetic data generation, and domain-expert RLHF fine-tuning pipelines.
 
