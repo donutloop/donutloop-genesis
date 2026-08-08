@@ -7,6 +7,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
+## [1.4.18] - 2026-08-08
+
+### Changed
+- **Paper Enrichment (Entry #51 - Quantinuum)**: Processed reference entry #51 (`Quantinuum`, `www.quantinuum.com`). Enriched Section 3.1 B in `README.md` and `README.de.md` with explicit technical details on committing $100 Million under a CHIPS and Science Act Letter of Intent (LOI) to scale fault-tolerant Quantum Charge-Coupled Device (QCCD) trapped-ion QPUs (**System Model H1** / **H2** series), integrated optics, surface trap microfabrication, and domestic foundry packaging with GlobalFoundries and Monarch Quantum, while deploying the **InQuanto** quantum chemistry platform across national laboratory HPC supercomputers.
+- **Index Status Update**: Marked Entry #51 status to `Processed` in `reference_coverage.md` and updated executive metrics to `51 / 337 Processed`.
+- **Version Bump**: Incremented patch version to `1.4.18` in `README.md` and `README.de.md`.
+
+---
+
 ## [1.4.17] - 2026-08-08
 
 ### Changed
