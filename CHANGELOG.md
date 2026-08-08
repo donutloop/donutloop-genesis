@@ -7,6 +7,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
+## [1.3.4] - 2026-08-08
+
+### Changed
+- **Paper Enrichment (Entry #26 - GE Aerospace)**: Processed reference entry #26 (`GE Aerospace`, `www.geaerospace.com`). Enriched Section 3.1 C in `README.md` and `README.de.md` with explicit technical details on high-temperature ceramic matrix composites (CMCs), additive manufacturing for extreme thermal environments, exascale combustion computational fluid dynamics (CFD) on **Frontier** and **Aurora**, and sustainable aviation fuel (SAF) thermochemistry modeling across DOE National Laboratories (ORNL, ANL, NREL).
+- **Index Status Update**: Marked Entry #26 status to `Processed` in `reference_coverage.md` and updated executive metrics to `26 / 337 Processed`.
+- **Version Bump**: Incremented patch version to `1.3.4` in `README.md` and `README.de.md`.
+
+---
+
 ## [1.3.3] - 2026-08-08
 
 ### Changed

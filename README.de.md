@@ -1,4 +1,4 @@
-**Version**: 1.3.3
+**Version**: 1.3.4
 
 # Die Genesis-Mission: Architektur, strategische Initiativen und das multi-institutionelle Ökosystem für KI- und quantengetriebene wissenschaftliche Entdeckungen
 
@@ -252,7 +252,7 @@ Ein bestimmendes Merkmal der Genesis-Mission ist ihr sektorübergreifendes Betri
 * **Emerald Cloud Lab (ECL):** Cloud-basierte robotische Laborinfrastruktur für die programmgesteuerte Remote-Ausführung von über 200 analytischen Chemie-, Molekularbiologie- und Syntheseprotokollen über automatisierte API-Schnittstellen (**Emerald Orchestrator**), die autonome geschlossene Labor-Experimente und KI-Agenten-Orchestrierung in DOE National Laboratories (LBNL, ANL, PNNL) ermöglicht.
 * **EPRI (Electric Power Research Institute):** Forschungskoordination im Bereich Elektrizität, Open-Source-KI-Netzsimulations-Toolkits, Übertragungs- und Verteilungs-Co-Simulations-Engines (**GridLAB-D** / **OpenDSS**-Integration) sowie digitale Zwillinge von nuklearen Kleinreaktoren (SMR), die gemeinsam mit DOE National Laboratories (NREL ARIES-Plattform, ANL, INL) und Energieversorgern (ComEd, TVA, ISO New England) entwickelt werden.
 * **Esri (Environmental Systems Research Institute):** Enterprise **ArcGIS Enterprise**-Plattformen, Raumfahrt- und GeoAI-Analytics-Engines (**GeoAI**), Fernerkundungssatelliten-Telemetrie-Integration und hochauflösende georäumliche digitale Zwillinge, die in DOE National Laboratories (ORNL, PNNL, NREL, LBNL) für Klimaresilienzszenarien, Waldbrandvorhersagen, Netzrisikoanalysen und Erdforschung eingesetzt werden.
-* **GE Aerospace:** Fortschrittlicher Luft- und Raumfahrtantrieb, Hochtemperatur-Keramikmatrix-Verbundwerkstoffe (CMCs) und Verbrennungs-CFD.
+* **GE Aerospace:** Fortschrittliche Luft- und Raumfahrtantriebstechnik, Hochtemperatur-Keramikmatrix-Verbundwerkstoffe (CMCs), additive Fertigung für extreme thermische Umgebungen und Exascale-Verbrennungs-CFD (Numerische Strömungsmechanik), die auf DOE-Exascale-Supercomputern (**Frontier** / **Aurora**) in Nationalen Laboratorien (ORNL, ANL, NREL) für die Thermochemie-Modellierung nachhaltiger Luftfahrtkraftstoffe (SAF) simuliert werden.
 * **ISO New England:** Regionaler Stromnetz-Dispatch, dynamische Übertragungsstabilität und quantensichere Cybersicherheit.
 * **Kitware:** Open-Source-Visualisierungsplattformen (ParaView, VTK, CMake) und In-situ-Analytics-Engines (Catalyst).
 * **Micron:** Hochbandbreitenspeicher (HBM3e/HBM4), CXL-Speichererweiterungsmodule und Sub-Nanometer-DRAM-F&E.
