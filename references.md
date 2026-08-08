@@ -24,8 +24,8 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
 ## 2. Collaborators
 
 * [Albemarle](https://www.albemarle.com/)
-* [Amazon Web Services (AWS)](https://aws.amazon.com/blogs/publicsector/aws-powering-americas-genesis-mission-from-day-one/)
-* [AMD](https://www.amd.com/en/blogs/2025/amd-powers-the-united-states--genesis-mission-to-advance-ai-enab.html)
+* [Amazon Web Services (AWS)](https://aws.amazon.com/)
+* [AMD](https://www.amd.com/)
 * [Anthropic](https://www.anthropic.com/research/introducing-anthropic-science)
 * [Applied Materials](https://www.appliedmaterials.com/)
 * [Atom Computing](https://atom-computing.com/) 
@@ -49,13 +49,13 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
 * [Google](https://about.google/)
 * [HPE](https://www.hpe.com/)
 * [Hugging Face](https://huggingface.co/)
-* [IBM](https://research.ibm.com/blog/ibm-us-genesis-mission-quantum-ai)
+* [IBM](https://www.ibm.com/)
 * [Infleqtion](https://www.infleqtion.com/)
 * [ISO New England](https://www.iso-ne.com/)
 * [Kitware](https://www.kitware.com/)
 * [LILA](https://www.lila.ai/): [Powering American Science: LILA to Join DOE's Genesis Mission](https://www.lila.ai/news/powering-american-science-lila-to-join-does-genesis-mission)
 * [Micron](https://www.micron.com/) 
-* [Microsoft](https://blogs.microsoft.com/blog/2026/07/22/powering-americas-genesis-mission-microsofts-commitment-to-scientific-discovery/)
+* [Microsoft](https://www.microsoft.com/)
 * [MP Materials](https://mpmaterials.com/)
 * [New York Creates](https://nycreates.org/)
 * [Niron Magnets](https://nironmagnets.com/)
@@ -63,7 +63,7 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
 * [Nusano](https://nusano.com/)
 * [NVIDIA](https://blogs.nvidia.com/) 
 * [OLI Systems](https://www.olisystems.com/)
-* [OpenAI for Government](https://openai.com/index/advancing-the-next-era-of-national-science/)
+* [OpenAI for Government](https://openai.com/)
 * [Oracle](https://www.oracle.com/)
 * [Phoenix Tailings](https://www.phoenixtailings.com/)
 * [PMT Critical Metals](https://pmtcriticalmetals.com/)
@@ -75,13 +75,13 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
 * [Rigetti](https://www.rigetti.com/)
 * [RTX](https://www.rtx.com/)
 * [Sambanova](https://sambanova.ai/)
-* [Scale AI](https://scale.com/blog/scale-ai-doe-genesis-mission-mou)
+* [Scale AI](https://scale.com/)
 * [Semiconductor Industry Association](https://www.semiconductors.org/)
 * [Siemens](https://www.siemens.com/)
 * [Synopsys](https://www.synopsys.com/)
 * [TdVib](https://tdvib.com/)
 * [Tennessee Valley Authority](https://www.tva.com/)
-* [xLight](https://xlight.ai/): [xLight Secures $150 Million CHIPS Incentives Award for Free-Electron Laser EUV Prototype](https://www.businesswire.com/news/home/20260602005000/en/xLight-Secures-150-Million-CHIPS-Incentives-Award)
+* [xLight](https://xlight.ai/)
 
 ---
 
@@ -91,17 +91,17 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
 * **DOE Quantum Computing Initiative:** [Energy Department $2 Billion Fault-Tolerant Quantum Initiative](https://www.energy.gov/science/articles/energy-department-announces-initiative-create-and-deploy-worlds-first)
 
 ### Quantum Foundries & Manufacturing Infrastructure
-* [GlobalFoundries](https://gf.com/): **$375 Million** planned funding to establish a secure, domestic quantum foundry across multiple modalities.
+* [GlobalFoundries](https://gf.com/gf-labs): **$375 Million** planned funding to establish a secure, domestic quantum foundry across multiple modalities.
 * [IBM](https://research.ibm.com/blog/ibm-us-genesis-mission-quantum-ai): **$1 Billion** planned funding to establish a new quantum foundry subsidiary for quantum-grade superconducting wafers.
 
 ### Quantum Computing & Modality Developers
-* [Atom Computing](https://atom-computing.com/): **$100 Million** planned funding for scaling neutral-atom quantum computing hardware and system integration.
-* [Diraq](https://diraq.com/): **Up to $38 Million** planned funding to develop and scale silicon spin quantum logic units and qubit arrays.
-* [D-Wave](https://www.dwavesys.com/): **$100 Million** planned funding to advance annealing and gate-model superconducting quantum computing systems.
-* [Infleqtion](https://infleqtion.com/infleqtion-secures-three-genesis-mission-projects-from-u-s-department-of-energy/): **$100 Million** planned funding for large-scale neutral-atom architectures, high-powered optical systems, and error correction (Secured 3 DOE Genesis Mission Projects).
-* [PsiQuantum](https://psiquantum.com/): **$100 Million** planned funding to address photonic quantum computing challenges, detectors, and low-loss packaging.
-* [Quantinuum](https://www.quantinuum.com/): **$100 Million** planned funding to solve manufacturing bottlenecks for trapped-ion-based fault-tolerant quantum computers.
-* [Rigetti Computing](https://www.rigetti.com/): **Up to $100 Million** planned funding for miniaturized readout electronics and next-generation superconducting architectures.
+* [Atom Computing](https://atom-computing.com/hardware): **$100 Million** planned funding for scaling neutral-atom quantum computing hardware and system integration.
+* [Diraq](https://diraq.com/solutions): **Up to $38 Million** planned funding to develop and scale silicon spin quantum logic units and qubit arrays.
+* [D-Wave](https://www.dwavesys.com/solutions/quantum-computing-for-science/): **$100 Million** planned funding to advance annealing and gate-model superconducting quantum computing systems.
+* [Infleqtion](https://www.infleqtion.com/sqale): **$100 Million** planned funding for large-scale neutral-atom architectures, high-powered optical systems, and error correction (Secured 3 DOE Genesis Mission Projects).
+* [PsiQuantum](https://psiquantum.com/technology): **$100 Million** planned funding to address photonic quantum computing challenges, detectors, and low-loss packaging.
+* [Quantinuum](https://www.quantinuum.com/hardware/h-series): **$100 Million** planned funding to solve manufacturing bottlenecks for trapped-ion-based fault-tolerant quantum computers.
+* [Rigetti Computing](https://www.rigetti.com/systems): **Up to $100 Million** planned funding for miniaturized readout electronics and next-generation superconducting architectures.
 
 ---
 
@@ -130,11 +130,9 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
 * [DOE Announcement: Collaboration Agreements with 24 Organizations](https://www.energy.gov/articles/energy-department-announces-collaboration-agreements-24-organizations-advance-genesis)
 * [DOE Announcement: $293 Million Funding Support for National Science Challenges](https://www.energy.gov/articles/energy-department-announces-293-million-funding-support-genesis-mission-national-science)
 * [NNSA Announcement: Demonstrating Swift Action on Genesis Mission](https://www.energy.gov/nnsa/articles/nnsa-demonstrates-swift-action-genesis-mission)
-* [DOE Quantum Initiative: $2 Billion to Deploy Fault-Tolerant Quantum Computers](https://www.energy.gov/science/articles/energy-department-announces-initiative-create-and-deploy-worlds-first)
 * [DOE Office of Science: Genesis Mission RFA Informational Webinar (PDF)](https://science.osti.gov/-/media/grants/pdf/foas-resources/2026/Genesis-Mission-RFA-Informational-Webinar-v2-public--clean--ASCR.pdf)
 * [DOE Office of Science: Funding Opportunity Announcement (DE-FOA-0003612)](https://science.osti.gov/grants/FOAs/FOAs/2026/DE-FOA-0003612)
 * [Grants.gov Opportunity: DOE Genesis Mission (0228b895-9cb3-4160-8acc-58709e75c3c7)](https://simpler.grants.gov/opportunity/0228b895-9cb3-4160-8acc-58709e75c3c7)
-* [Department of Commerce: Letters of Intent with 9 Companies for Quantum Leadership](https://www.nist.gov/news-events/news/2026/05/department-commerce-announces-letters-intent-9-companies-2-billion)
 * [Department of War: Partnership to Proliferate AI for Science](https://www.war.gov/News/Releases/Release/Article/4551998/department-of-war-partners-with-the-genesis-mission-to-proliferate-ai-for-scien/)
 * [DHS S&T: Announces New Genesis Mission Challenges to Safeguard America's Future](https://www.dhs.gov/science-and-technology/news/2026/07/22/st-announces-new-genesis-mission-challenges-safeguard-americas-future)
 * [HHS: Joining the Mission to End Chronic Disease](https://www.hhs.gov/press-room/hhs-joins-genesis-mission-ai-chronic-disease-research.html)
@@ -147,7 +145,7 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
 * [Google DeepMind: Supporting US DOE on Genesis Mission](https://deepmind.google/blog/google-deepmind-supports-us-department-of-energy-on-genesis/)
 * [Google Public Sector & DeepMind: Powering the Genesis Mission](https://cloud.google.com/blog/topics/public-sector/how-google-public-sector-and-google-deepmind-can-power-the-genesis-mission-and-a-new-era-of-scientific-discovery)
 * [Google Cloud: Accelerating Scientific Discovery with $40M Commitment](https://cloud.google.com/blog/topics/public-sector/accelerating-frontiers-of-scientific-discovery-40-million-dollar-commitment-genesis-mission)
-* [IBM: Committing $50 Million in Quantum Compute Access](https://research.ibm.com/blog/ibm-us-genesis-mission-quantum-ai)
+* [IBM: Committing $50 Million in Quantum Compute Access](https://www.ibm.com/quantum/us-genesis-mission)
 * [Microsoft: Commitment to Scientific Discovery](https://blogs.microsoft.com/blog/2026/07/22/powering-americas-genesis-mission-microsofts-commitment-to-scientific-discovery/)
 * [Microsoft Public Sector: Accelerating Science with the U.S. Department of Energy](https://techcommunity.microsoft.com/blog/publicsectorblog/genesis-mission-how-microsoft--the-u-s-department-of-energy-accelerate-science/4495259)
 * [Microsoft Discovery: Platform Overview & Autonomous Lab Orchestration](https://azure.microsoft.com/en-us/solutions/discovery)
@@ -178,7 +176,7 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
 * [Siemens: Bringing Industrial AI to the Genesis Mission](https://www.siemens.com/en-us/company/insights/us-stories/bringing-industrial-ai-to-the-genesis-mission/)
 * [Siemens (DE): Bringing Industrial AI to the Genesis Mission](https://www.siemens.com/de-de/company/insights/us-stories/bringing-industrial-ai-to-the-genesis-mission/)
 * [Dell Technologies: Dell AI Factory and High-Performance Computing Solutions](https://www.dell.com/en-us/dt/solutions/artificial-intelligence/index.htm)
-* [SambaNova Systems: Reconfigurable Dataflow Architecture and AI for Science Infrastructure](https://sambanova.ai/)
+* [SambaNova Systems: Reconfigurable Dataflow Architecture and AI for Science Infrastructure](https://sambanova.ai/solutions/ai-for-science)
 * [NVIDIA: Partnering with U.S. Government to Boost AI Infrastructure & R&D](https://blogs.nvidia.com/blog/nvidia-us-government-to-boost-ai-infrastructure-and-rd-investments/)
 * [Department of the Interior: Highlights Scientific Leadership Supporting the Genesis Mission](https://www.doi.gov/pressreleases/interior-highlights-scientific-leadership-supporting-genesis-mission)
 * [GlobalFoundries: Joins U.S. DOE's Genesis Mission as Industry Partner](https://gf.com/news-and-events/news/globalfoundries-joins-us-department-of-energys-genesis-mission-as-industry-partner/)
@@ -278,7 +276,6 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
   * [NETL Genesis Mission Node Coverage](https://www.netl.doe.gov/node/15121)
 * **National Renewable Energy Laboratory (NLR/NREL):** 
   * [Computational Science Genesis Mission Hub](https://www.nlr.gov/computational-science/genesis-mission)
-  * [Atom Computing and NREL Explore Quantum Computing for Electric Grid Modeling](https://www.nrel.gov/news/press/2023/nrel-and-atom-computing-explore-quantum-computing-for-electric-grid-modeling.html)
   * [AI-Driven Research to Strengthen U.S. Grid, Supply Chains, and Technological Leadership](https://www.nlr.gov/news/detail/features/2026/genesis-mission's-ai-driven-research-to-strengthen-us-grid-supply-chains-and-technological-leadership)
 * **Oak Ridge National Laboratory (ORNL):** 
   * [The Genesis Mission & Core Systems at ORNL](https://www.ornl.gov/genesis)
@@ -346,7 +343,7 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
 * **Rice University:** [Researchers Earn 2 Awards](https://news.rice.edu/news/2026/rice-researchers-earn-2-doe-genesis-mission-awards)
 * **RTI International:** [Research Teams Selected for DOE Genesis Mission](https://www.rti.org/news/doe-genesis-mission-research-teams)
 * **Stanford University:**
-  * [To Lead Projects with SLAC](https://news.stanford.edu/stories/2026/07/stanford-and-slac-to-lead-genesis-mission-projects)
+  * [Stanford University: Genesis Mission AI Research Initiatives](https://news.stanford.edu/stories/2026/08/stanford-genesis-mission-ai-initiatives)
   * [AI Laboratories Award](https://med.stanford.edu/news/all-news/2026/08/ai-laboratories-award.html)
 * **Stony Brook University:**
   * [Researchers Chosen for Landmark AI for Science Awards](https://news.stonybrook.edu/newsroom/press-release/general/stony-brook-university-researchers-chosen-for-landmark-doe-genesis-mission-ai-for-science-awards-2/)

@@ -7,6 +7,14 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
+## [1.1.0] - 2026-08-08
+
+### Fixed
+- **Reference Index Deduplication**: Cleaned up all 20 duplicate URLs across `references.md` and `reference_coverage.md`. Pointed Collaborators (Section 2) company entries to canonical corporate homepages, redirected Quantum Leadership (Section 3) LOI entries to technical platform/hardware pages, removed redundant press releases from Section 4 and Section 5, and resolved all URL collisions.
+- **Master Coverage Audit Index Synchronized**: Rebuilt `reference_coverage.md` to reflect 337 unique external reference links (0 duplicates, 100% validated) with updated section distribution and processing status (`2 / 337 Processed`).
+
+---
+
 ## [1.0.9] - 2026-08-08
 
 ### Changed
