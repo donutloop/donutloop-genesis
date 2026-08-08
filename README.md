@@ -1,4 +1,4 @@
-**Version**: 1.4.8
+**Version**: 1.4.9
 
 # The Genesis Mission: Architecture, Strategic Initiatives, and the Multi-Institutional Ecosystem for AI and Quantum-Driven Scientific Discovery
 
@@ -259,7 +259,7 @@ A defining feature of the Genesis Mission is its multi-sector operational model 
 * **MP Materials:** Domestic rare earth mining and refining at Mountain Pass, commercial production of Neodymium-Praseodymium (NdPr) magnet alloys and heavy rare earths (Dy, Tb), hydrometallurgical processing, and AI-driven flotation separation algorithms co-developed with the DOE Critical Materials Innovation Hub (CMI / Ames National Laboratory, ORNL, ANL) for supply chain security under Genesis.
 * **New York Creates (NY CREATES):** Operating North America's premier 300mm semiconductor R&D facility at the Albany NanoTech Complex, hosting the Department of Commerce CHIPS for America $825 Million Extreme Ultraviolet (EUV) Accelerator Center, the National Semiconductor Technology Center (NSTC) Flagship R&D hub, heterogeneous 3D packaging pilot lines, and the **xLight** $150 Million free-electron laser (FEL) prototype facility for next-generation EUV lithography and cryogenic quantum control ASIC microelectronics.
 * **Niron Magnets:** Commercializing rare-earth-free **Clean Earth Magnet®** technology based on high-magnetic-saturation Iron Nitride ($Fe_{16}N_2$), utilizing DOE National Laboratory synchrotrons and neutron scattering beamlines (ANL Advanced Photon Source, ORNL SNS/HFIR) for atomic-scale crystal orientation co-design, and applying AI-driven sintering optimization algorithms co-developed with the DOE Critical Materials Innovation Hub (CMI / Ames National Laboratory) for domestic EV powertrain and energy grid magnet supply chain security under Genesis.
-* **Nokia (Nokia Bell Labs):** Deploying high-speed optical networking backbones, 5G/6G wireless fabrics, and post-quantum cryptographic transport networks.
+* **Nokia (Nokia Bell Labs):** Deploying terabit-scale DWDM optical networking backbones for the ESnet federated laboratory grid, mission-critical private 5G/6G wireless telemetry fabrics for autonomous national laboratory instrumentation, and NIST-standardized post-quantum cryptographic (PQC) transport security coupled with Nokia Bell Labs Quantum Key Distribution (QKD) optics for quantum-safe inter-facility exascale data streaming under Genesis.
 * **Nusano:** Multi-particle linear accelerator platform for high-yield medical and industrial radioisotope production (Actinium-225, Lutetium-177).
 * **OLI Systems:** Thermodynamic chemistry simulation engines and electrolyte modeling solvers for critical mineral hydrometallurgical extraction.
 * **Phoenix Tailings:** Zero-waste critical mineral extraction from mining tailings and low-temperature chemical refining.

@@ -7,6 +7,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
+## [1.4.9] - 2026-08-08
+
+### Changed
+- **Paper Enrichment (Entry #42 - Nokia)**: Processed reference entry #42 (`Nokia`, `www.nokia.com`). Enriched Section 3.1 C in `README.md` and `README.de.md` with explicit technical details on terabit-scale DWDM optical networking backbones for the ESnet federated laboratory grid, mission-critical private 5G/6G wireless telemetry fabrics for autonomous national laboratory instrumentation, and NIST-standardized post-quantum cryptographic (PQC) transport security coupled with Nokia Bell Labs Quantum Key Distribution (QKD) optics.
+- **Index Status Update**: Marked Entry #42 status to `Processed` in `reference_coverage.md` and updated executive metrics to `42 / 337 Processed`.
+- **Version Bump**: Incremented patch version to `1.4.9` in `README.md` and `README.de.md`.
+
+---
+
 ## [1.4.8] - 2026-08-08
 
 ### Changed

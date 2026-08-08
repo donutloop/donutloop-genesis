@@ -15,7 +15,7 @@
 | **Official PDF Documents** | **14** | Formal RFA solicitations, webinars, slides, and executive reports |
 | **Web Portals & Press Releases** | **323** | Newsroom features, corporate blog posts, and interactive hubs |
 | **Validation Status** | **100% Validated** | All links canonicalized, formatted, and deduplicated |
-| **Processing Status** | **41 / 337 Processed** | 296 Unprocessed, 41 Processed |
+| **Processing Status** | **42 / 337 Processed** | 295 Unprocessed, 42 Processed |
 
 ---
 
@@ -109,7 +109,7 @@ A complete tabular listing of all 337 indexed reference links:
 | 39 | 2. Collaborators | - | MP Materials | `mpmaterials.com` | Web | [MP Materials](https://mpmaterials.com/) | `Processed` |
 | 40 | 2. Collaborators | - | New York Creates | `nycreates.org` | Web | [New York Creates](https://nycreates.org/) | `Processed` |
 | 41 | 2. Collaborators | - | Niron Magnets | `nironmagnets.com` | Web | [Niron Magnets](https://nironmagnets.com/) | `Processed` |
-| 42 | 2. Collaborators | - | Nokia | `www.nokia.com` | Web | [Nokia](https://www.nokia.com/) | `Unprocessed` |
+| 42 | 2. Collaborators | - | Nokia | `www.nokia.com` | Web | [Nokia](https://www.nokia.com/) | `Processed` |
 | 43 | 2. Collaborators | - | Nusano | `nusano.com` | Web | [Nusano](https://nusano.com/) | `Unprocessed` |
 | 44 | 2. Collaborators | - | NVIDIA | `blogs.nvidia.com` | Web | [NVIDIA](https://blogs.nvidia.com/) | `Unprocessed` |
 | 45 | 2. Collaborators | - | OLI Systems | `www.olisystems.com` | Web | [OLI Systems](https://www.olisystems.com/) | `Unprocessed` |
