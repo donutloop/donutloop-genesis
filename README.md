@@ -1,4 +1,4 @@
-**Version**: 1.4.14
+**Version**: 1.4.15
 
 # The Genesis Mission: Architecture, Strategic Initiatives, and the Multi-Institutional Ecosystem for AI and Quantum-Driven Scientific Discovery
 
@@ -262,7 +262,7 @@ A defining feature of the Genesis Mission is its multi-sector operational model 
 * **Nokia (Nokia Bell Labs):** Deploying terabit-scale DWDM optical networking backbones for the ESnet federated laboratory grid, mission-critical private 5G/6G wireless telemetry fabrics for autonomous national laboratory instrumentation, and NIST-standardized post-quantum cryptographic (PQC) transport security coupled with Nokia Bell Labs Quantum Key Distribution (QKD) optics for quantum-safe inter-facility exascale data streaming under Genesis.
 * **Nusano:** Deploying heavy-ion multi-particle linear accelerator platforms for high-throughput therapeutic and diagnostic radioisotope production (Actinium-225, Lutetium-177, Astatine-211), integrating AI-driven beam tuning algorithms and automated radiochemical separation systems co-developed with DOE Isotope Program national laboratory hubs (ORNL, LANL, BNL) under Genesis.
 * **OLI Systems:** Deploying advanced Mixed-Solvent Electrolyte (MSE) thermodynamic chemistry simulation engines, electrolyte property modeling solvers, and phase equilibrium digital twins integrated with DOE Critical Materials Innovation Hub (CMI / Ames National Laboratory, INL, ORNL) workflows for AI-accelerated hydrometallurgical extraction, solvent purification, and critical mineral recovery under Genesis.
-* **Phoenix Tailings:** Zero-waste critical mineral extraction from mining tailings and low-temperature chemical refining.
+* **Phoenix Tailings:** Deploying zero-carbon, zero-toxic-waste hydrometallurgical extraction and molten-salt electrolysis refining platforms integrated with AI chemical process modeling and DOE Critical Materials Innovation Hub (CMI / Ames National Laboratory, NETL, ORNL) digital twins for high-purity rare earth element (Nd, Dy, Pr, Tb) and critical metal recovery from industrial tailings under Genesis.
 * **PMT Critical Metals:** Refractory metals processing, strategic mineral supply chain management, and high-temperature alloy metallurgy.
 * **Qubit (Qubit Inc.):** Quantum computing hardware control software, pulse-level QPU calibration, and hybrid classical-quantum algorithms.
 * **RadiaSoft:** Open-source particle accelerator beam dynamics simulation software (Sirepo, Radia, Impact-T) and AI beamline emittance control.

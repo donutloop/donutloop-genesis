@@ -1,4 +1,4 @@
-**Version**: 1.4.14
+**Version**: 1.4.15
 
 # Die Genesis-Mission: Architektur, strategische Initiativen und das multi-institutionelle Ökosystem für KI- und quantengetriebene wissenschaftliche Entdeckungen
 
@@ -262,7 +262,7 @@ Ein bestimmendes Merkmal der Genesis-Mission ist ihr sektorübergreifendes Betri
 * **Nokia (Nokia Bell Labs):** Bereitstellung von Terabit-DWDM-optischen Netzverbindungsstrukturen für das föderierte ESnet-Labornetzwerk, missionskritischen privaten 5G/6G-Funk-Telemetriestrukturen für autonome Instrumentierungen in den Nationalen Laboratorien sowie NIST-standardisierter post-quantenkryptografischer (PQC) Transportsicherheit gekoppelt mit Quantum Key Distribution (QKD)-Optiken von Nokia Bell Labs für quantensicheres laborübergreifendes Exascale-Datenstreaming im Rahmen von Genesis.
 * **Nusano:** Einsatz von Schwermetall-Mehrteilchen-Linearbeschleunigerplattformen für die Hochdurchsatz-Produktion therapeutischer und diagnostischer Radioisotope (Actinium-225, Lutetium-177, Astatin-211), Integration KI-gestützter Strahloptimierungsalgorithmen und automatisierter radiochemischer Trennsysteme, die gemeinsam mit den Nationalen Labor-Hubs des DOE Isotope Program (ORNL, LANL, BNL) im Rahmen von Genesis entwickelt werden.
 * **OLI Systems:** Bereitstellung fortschrittlicher MSE (Mixed-Solvent Electrolyte)-Thermodynamik-Chemie-Simulations-Engines, Elektrolyt-Eigenschaftsmodellierungslösern und Phasengleichgewichts-digitalen-Zwillingen, die in Workflows des DOE Critical Materials Innovation Hub (CMI / Ames National Laboratory, INL, ORNL) für die KI-beschleunigte hydrometallurgische Extraktion, Lösungsmittelreinigung und Rückgewinnung kritischer Mineralien im Rahmen von Genesis integriert sind.
-* **Phoenix Tailings:** Abfallfreie Extraktion kritischer Mineralien aus Bergbau-Rückständen.
+* **Phoenix Tailings:** Bereitstellung kohlenstofffreier, giftmüllfreier hydrometallurgischer Extraktions- und Schmelzsalzelektrolyse-Raffinationsplattformen, die in KI-Chemieprozess-Modellierungen und digitale Zwillinge des DOE Critical Materials Innovation Hub (CMI / Ames National Laboratory, NETL, ORNL) zur hochreinen Rückgewinnung von Seltenen Erden (Nd, Dy, Pr, Tb) und kritischen Metallen aus Industrieabfällen im Rahmen von Genesis integriert sind.
 * **PMT Critical Metals:** Verarbeitung von Refraktärmetallen und Metallurgie von Hochtemperaturlegierungen.
 * **Qubit (Qubit Inc.):** Steuerungssoftware für Quantencomputing-Hardware, Puls-Kalibrierung und hybrid-klassisch-quantenmechanische Algorithmen.
 * **RadiaSoft:** Open-Source-Teilchenbeschleuniger-Strahldynamik-Simulationssoftware (Sirepo, Radia, Impact-T) und Strahlemittanzsteuerung.

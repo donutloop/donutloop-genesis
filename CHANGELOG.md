@@ -7,6 +7,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
+## [1.4.15] - 2026-08-08
+
+### Changed
+- **Paper Enrichment (Entry #48 - Phoenix Tailings)**: Processed reference entry #48 (`Phoenix Tailings`, `www.phoenixtailings.com`). Enriched Section 3.1 C in `README.md` and `README.de.md` with explicit technical details on deploying zero-carbon, zero-toxic-waste hydrometallurgical extraction and molten-salt electrolysis refining platforms integrated with AI chemical process modeling and DOE Critical Materials Innovation Hub (CMI / Ames National Laboratory, NETL, ORNL) digital twins for high-purity rare earth element (Nd, Dy, Pr, Tb) and critical metal recovery from industrial tailings.
+- **Index Status Update**: Marked Entry #48 status to `Processed` in `reference_coverage.md` and updated executive metrics to `48 / 337 Processed`.
+- **Version Bump**: Incremented patch version to `1.4.15` in `README.md` and `README.de.md`.
+
+---
+
 ## [1.4.14] - 2026-08-08
 
 ### Changed

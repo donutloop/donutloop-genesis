@@ -15,7 +15,7 @@
 | **Official PDF Documents** | **14** | Formal RFA solicitations, webinars, slides, and executive reports |
 | **Web Portals & Press Releases** | **323** | Newsroom features, corporate blog posts, and interactive hubs |
 | **Validation Status** | **100% Validated** | All links canonicalized, formatted, and deduplicated |
-| **Processing Status** | **47 / 337 Processed** | 290 Unprocessed, 47 Processed |
+| **Processing Status** | **48 / 337 Processed** | 289 Unprocessed, 48 Processed |
 
 ---
 
@@ -115,7 +115,7 @@ A complete tabular listing of all 337 indexed reference links:
 | 45 | 2. Collaborators | - | OLI Systems | `www.olisystems.com` | Web | [OLI Systems](https://www.olisystems.com/) | `Processed` |
 | 46 | 2. Collaborators | - | OpenAI for Government | `openai.com` | Web | [OpenAI for Government](https://openai.com/) | `Processed` |
 | 47 | 2. Collaborators | - | Oracle | `www.oracle.com` | Web | [Oracle](https://www.oracle.com/) | `Processed` |
-| 48 | 2. Collaborators | - | Phoenix Tailings | `www.phoenixtailings.com` | Web | [Phoenix Tailings](https://www.phoenixtailings.com/) | `Unprocessed` |
+| 48 | 2. Collaborators | - | Phoenix Tailings | `www.phoenixtailings.com` | Web | [Phoenix Tailings](https://www.phoenixtailings.com/) | `Processed` |
 | 49 | 2. Collaborators | - | PMT Critical Metals | `pmtcriticalmetals.com` | Web | [PMT Critical Metals](https://pmtcriticalmetals.com/) | `Unprocessed` |
 | 50 | 2. Collaborators | - | PsiQuantum | `psiquantum.com` | Web | [PsiQuantum](https://psiquantum.com/) | `Unprocessed` |
 | 51 | 2. Collaborators | - | Quantinuum | `www.quantinuum.com` | Web | [Quantinuum](https://www.quantinuum.com/) | `Unprocessed` |
