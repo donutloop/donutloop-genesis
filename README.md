@@ -1,4 +1,4 @@
-**Version**: 1.4.0
+**Version**: 1.4.1
 
 # The Genesis Mission: Architecture, Strategic Initiatives, and the Multi-Institutional Ecosystem for AI and Quantum-Driven Scientific Discovery
 
@@ -253,7 +253,7 @@ A defining feature of the Genesis Mission is its multi-sector operational model 
 * **EPRI (Electric Power Research Institute):** Electric power research coordination, open-source AI grid simulation toolkits, transmission and distribution co-simulation engines (**GridLAB-D** / **OpenDSS** integration), and Small Modular Reactor (SMR) nuclear plant digital twins co-developed with DOE National Laboratories (NREL ARIES platform, ANL, INL) and utility partners (ComEd, TVA, ISO New England) under Genesis.
 * **Esri (Environmental Systems Research Institute):** Enterprise **ArcGIS Enterprise** platforms, spatial analytics engines (**GeoAI**), satellite remote sensing telemetry ingestion, and multi-resolution geospatial digital twins deployed across DOE National Laboratories (ORNL, PNNL, NREL, LBNL) for climate resiliency modeling, wildfire prediction, grid vulnerability analysis, and Earth observation under Genesis.
 * **GE Aerospace:** Advanced aerospace propulsion engineering, high-temperature ceramic matrix composites (CMCs), additive manufacturing for extreme thermal environments, and exascale combustion computational fluid dynamics (CFD) co-simulated on DOE exascale supercomputers (**Frontier** / **Aurora**) across national laboratories (ORNL, ANL, NREL) for sustainable aviation fuel (SAF) thermochemistry modeling.
-* **ISO New England:** Regional power grid dispatch, dynamic transmission stability co-simulations, and quantum-safe grid cybersecurity.
+* **ISO New England:** Regional Transmission Organization (RTO) power grid dispatch optimization, high-frequency Phasor Measurement Unit (PMU) telemetry streaming, real-time multi-state renewable energy integration modeling, Dynamic Line Rating (DLR) thermal capacity co-simulations, and quantum-safe grid cybersecurity architecture co-developed with DOE National Laboratories (NREL ARIES platform, PNNL, ANL) under Genesis.
 * **Kitware:** Open-source scientific visualization platforms (ParaView, VTK, CMake) and in-situ analytics engines (Catalyst) for exascale supercomputers.
 * **Micron:** Advanced high-bandwidth memory (HBM3e/HBM4), CXL memory expansion modules, and sub-nanometer semiconductor memory R&D.
 * **MP Materials:** Domestic rare earth mining (Mountain Pass), NdPr magnet manufacturing, and AI-driven mineral separation algorithms.

@@ -1,4 +1,4 @@
-**Version**: 1.4.0
+**Version**: 1.4.1
 
 # Die Genesis-Mission: Architektur, strategische Initiativen und das multi-institutionelle Ökosystem für KI- und quantengetriebene wissenschaftliche Entdeckungen
 
@@ -253,7 +253,7 @@ Ein bestimmendes Merkmal der Genesis-Mission ist ihr sektorübergreifendes Betri
 * **EPRI (Electric Power Research Institute):** Forschungskoordination im Bereich Elektrizität, Open-Source-KI-Netzsimulations-Toolkits, Übertragungs- und Verteilungs-Co-Simulations-Engines (**GridLAB-D** / **OpenDSS**-Integration) sowie digitale Zwillinge von nuklearen Kleinreaktoren (SMR), die gemeinsam mit DOE National Laboratories (NREL ARIES-Plattform, ANL, INL) und Energieversorgern (ComEd, TVA, ISO New England) entwickelt werden.
 * **Esri (Environmental Systems Research Institute):** Enterprise **ArcGIS Enterprise**-Plattformen, Raumfahrt- und GeoAI-Analytics-Engines (**GeoAI**), Fernerkundungssatelliten-Telemetrie-Integration und hochauflösende georäumliche digitale Zwillinge, die in DOE National Laboratories (ORNL, PNNL, NREL, LBNL) für Klimaresilienzszenarien, Waldbrandvorhersagen, Netzrisikoanalysen und Erdforschung eingesetzt werden.
 * **GE Aerospace:** Fortschrittliche Luft- und Raumfahrtantriebstechnik, Hochtemperatur-Keramikmatrix-Verbundwerkstoffe (CMCs), additive Fertigung für extreme thermische Umgebungen und Exascale-Verbrennungs-CFD (Numerische Strömungsmechanik), die auf DOE-Exascale-Supercomputern (**Frontier** / **Aurora**) in Nationalen Laboratorien (ORNL, ANL, NREL) für die Thermochemie-Modellierung nachhaltiger Luftfahrtkraftstoffe (SAF) simuliert werden.
-* **ISO New England:** Regionaler Stromnetz-Dispatch, dynamische Übertragungsstabilität und quantensichere Cybersicherheit.
+* **ISO New England:** Regionaler Stromnetz-Dispatch (RTO), hochfrequente Phasor Measurement Unit (PMU)-Telemetrieschaltung, Echtzeit-Modellierung der Integration erneuerbarer Energien über mehrere Bundesstaaten, dynamische Übertragungsfähigkeits-Cosimulationen (Dynamic Line Rating, DLR) und quantensichere Netz-Cybersicherheitsarchitektur, die gemeinsam mit DOE National Laboratories (NREL ARIES-Plattform, PNNL, ANL) im Rahmen der Genesis-Mission entwickelt werden.
 * **Kitware:** Open-Source-Visualisierungsplattformen (ParaView, VTK, CMake) und In-situ-Analytics-Engines (Catalyst).
 * **Micron:** Hochbandbreitenspeicher (HBM3e/HBM4), CXL-Speichererweiterungsmodule und Sub-Nanometer-DRAM-F&E.
 * **MP Materials:** Inländischer Abbau seltener Erden (Mountain Pass), NdPr-Magnetherstellung und KI-Mineraltrennungsalgorithmen.

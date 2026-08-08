@@ -7,6 +7,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
+## [1.4.1] - 2026-08-08
+
+### Changed
+- **Paper Enrichment (Entry #33 - ISO New England)**: Processed reference entry #33 (`ISO New England`, `www.iso-ne.com`). Enriched Section 3.1 C in `README.md` and `README.de.md` with explicit technical details on Regional Transmission Organization (RTO) power grid dispatch optimization, high-frequency Phasor Measurement Unit (PMU) telemetry streaming, real-time multi-state renewable energy integration modeling, Dynamic Line Rating (DLR) thermal capacity co-simulations, and quantum-safe grid cybersecurity architecture co-developed with DOE National Laboratories (NREL ARIES platform, PNNL, ANL).
+- **Index Status Update**: Marked Entry #33 status to `Processed` in `reference_coverage.md` and updated executive metrics to `33 / 337 Processed`.
+- **Version Bump**: Incremented patch version to `1.4.1` in `README.md` and `README.de.md`.
+
+---
+
 ## [1.4.0] - 2026-08-08
 
 ### Changed
