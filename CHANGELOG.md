@@ -7,6 +7,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
+## [1.4.7] - 2026-08-08
+
+### Changed
+- **Paper Enrichment (Entry #40 - New York Creates)**: Processed reference entry #40 (`New York Creates`, `nycreates.org`). Enriched Section 3.1 C in `README.md` and `README.de.md` with explicit technical details on North America's premier 300mm semiconductor R&D complex at Albany NanoTech, hosting the DOC CHIPS for America $825 Million EUV Accelerator Center, NSTC Flagship R&D hub, heterogeneous 3D packaging pilot lines, and the **xLight** $150 Million free-electron laser (FEL) prototype facility for next-generation EUV lithography and cryogenic quantum control ASICs.
+- **Index Status Update**: Marked Entry #40 status to `Processed` in `reference_coverage.md` and updated executive metrics to `40 / 337 Processed`.
+- **Version Bump**: Incremented patch version to `1.4.7` in `README.md` and `README.de.md`.
+
+---
+
 ## [1.4.6] - 2026-08-08
 
 ### Changed

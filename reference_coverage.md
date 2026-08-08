@@ -15,7 +15,7 @@
 | **Official PDF Documents** | **14** | Formal RFA solicitations, webinars, slides, and executive reports |
 | **Web Portals & Press Releases** | **323** | Newsroom features, corporate blog posts, and interactive hubs |
 | **Validation Status** | **100% Validated** | All links canonicalized, formatted, and deduplicated |
-| **Processing Status** | **39 / 337 Processed** | 298 Unprocessed, 39 Processed |
+| **Processing Status** | **40 / 337 Processed** | 297 Unprocessed, 40 Processed |
 
 ---
 
@@ -107,7 +107,7 @@ A complete tabular listing of all 337 indexed reference links:
 | 37 | 2. Collaborators | - | Micron | `www.micron.com` | Web | [Micron](https://www.micron.com/) | `Processed` |
 | 38 | 2. Collaborators | - | Microsoft | `www.microsoft.com` | Web | [Microsoft](https://www.microsoft.com/) | `Processed` |
 | 39 | 2. Collaborators | - | MP Materials | `mpmaterials.com` | Web | [MP Materials](https://mpmaterials.com/) | `Processed` |
-| 40 | 2. Collaborators | - | New York Creates | `nycreates.org` | Web | [New York Creates](https://nycreates.org/) | `Unprocessed` |
+| 40 | 2. Collaborators | - | New York Creates | `nycreates.org` | Web | [New York Creates](https://nycreates.org/) | `Processed` |
 | 41 | 2. Collaborators | - | Niron Magnets | `nironmagnets.com` | Web | [Niron Magnets](https://nironmagnets.com/) | `Unprocessed` |
 | 42 | 2. Collaborators | - | Nokia | `www.nokia.com` | Web | [Nokia](https://www.nokia.com/) | `Unprocessed` |
 | 43 | 2. Collaborators | - | Nusano | `nusano.com` | Web | [Nusano](https://nusano.com/) | `Unprocessed` |

@@ -1,4 +1,4 @@
-**Version**: 1.4.6
+**Version**: 1.4.7
 
 # Die Genesis-Mission: Architektur, strategische Initiativen und das multi-institutionelle Ökosystem für KI- und quantengetriebene wissenschaftliche Entdeckungen
 
@@ -257,7 +257,7 @@ Ein bestimmendes Merkmal der Genesis-Mission ist ihr sektorübergreifendes Betri
 * **Kitware:** Open-Source-Softwareentwicklung für die Wissenschaft, Exascale-3D-Visualisierungsplattformen (**ParaView**, **VTK** - Visualization Toolkit), In-situ-Supercomputing-Analyse-Engines (**Catalyst**), plattformübergreifende Build-Automatisierungstools (**CMake**) und KI-Computer-Vision-Frameworks (**KWIVER**), die in DOE National Laboratories (ORNL, ANL, LLNL, LBNL) für Echtzeit-Exascale-Simulationsanalysen im Rahmen von Genesis eingesetzt werden.
 * **Micron:** Zusage von 6,1 Milliarden US-Dollar im Rahmen des CHIPS and Science Act (Absichtserklärung des Handelsministeriums) zur Skalierung inländischer führender Speicherfertigung (Megafabs in Clay, NY und Boise, ID), Bereitstellung von Speicher-Arrays mit ultrahoher Bandbreite (**HBM3e** / **HBM4**), Compute Express Link (**CXL 2.0 / 3.0**)-Speichererweiterungsmodulen und hochdichten Enterprise-SSDs, die in Exascale-Supercomputer-Knoten nationaler Laboratorien (ANL Aurora, ORNL Frontier, LLNL El Capitan) für das Training wissenschaftlicher KI-Basismodelle integriert werden.
 * **MP Materials:** Inländischer Abbau und Verfeinerung seltener Erden in Mountain Pass, kommerzielle Herstellung von Neodym-Praseodym (NdPr)-Magnetlegierungen und schweren seltenen Erden (Dy, Tb), hydrometallurgische Verarbeitung und KI-gestützte Flotations-Trennungsalgorithmen, die gemeinsam mit dem DOE Critical Materials Innovation Hub (CMI / Ames National Laboratory, ORNL, ANL) für die Lieferkettensicherheit im Rahmen von Genesis entwickelt werden.
-* **New York Creates (NY CREATES):** Betreiber des 300mm Albany NanoTech Complex mit dem CHIPS Act EUV Lithography Center.
+* **New York Creates (NY CREATES):** Betreiber der führenden 300mm-Halbleiter-Forschungs- und Entwicklungsanlage Nordamerikas im Albany NanoTech Complex, Standort des 825-Millionen-Dollar-CHIPS-for-America-EUV-Beschleunigungszentrums (Extreme Ultraviolet Lithography) des Handelsministeriums, des Haupt-F&E-Zentrums des National Semiconductor Technology Center (NSTC), heterogener 3D-Verpackungs-Pilotlinien und der **xLight** 150-Millionen-Dollar-Freie-Elektronen-Laser-Prototypanlage (FEL) für EUV-Lithografie der nächsten Generation und kryogene Quantensteuerelektronik-Mikroelektronik im Rahmen von Genesis.
 * **Niron Magnets:** Herstellung von permanenten Magneten ohne seltene Erden ($Fe_{16}N_2$) unter Nutzung von DOE-Strahlrohren.
 * **Nokia (Nokia Bell Labs):** Bereitstellung optischer Hochgeschwindigkeitsnetze, 5G/6G-Strukturen und post-quantenkryptografischer Transportnetze.
 * **Nusano:** Mehrteilchen-Linearbeschleunigerplattform für die Produktion medizinischer und industrieller Radioisotope.
