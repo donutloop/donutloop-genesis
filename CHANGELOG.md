@@ -7,6 +7,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
+## [1.2.1] - 2026-08-08
+
+### Changed
+- **Paper Enrichment (Entry #13 - Chemspeed)**: Processed reference entry #13 (`Chemspeed`, `www.chemspeed.com`). Enriched Section 3.1 C in `README.md` and `README.de.md` with explicit technical details on Chemspeed Technologies automated chemical synthesis workstations (**SWING**, **ISYNTH**), high-throughput parallel reaction screening robotics, and automated liquid/solid dispensing modules for self-driving laboratories across LBNL, ANL, and PNNL.
+- **Index Status Update**: Marked Entry #13 status to `Processed` in `reference_coverage.md` and updated executive metrics to `13 / 337 Processed`.
+- **Version Bump**: Incremented patch version to `1.2.1` in `README.md` and `README.de.md`.
+
+---
+
 ## [1.2.0] - 2026-08-08
 
 ### Changed

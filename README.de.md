@@ -1,4 +1,4 @@
-**Version**: 1.2.0
+**Version**: 1.2.1
 
 # Die Genesis-Mission: Architektur, strategische Initiativen und das multi-institutionelle Ökosystem für KI- und quantengetriebene wissenschaftliche Entdeckungen
 
@@ -244,7 +244,7 @@ Ein bestimmendes Merkmal der Genesis-Mission ist ihr sektorübergreifendes Betri
 * **Albemarle:** Fortschrittliche Verfahren zur direkten Lithiumextraktion (Direct Lithium Extraction, DLE), chemische Raffinationstechnologien für hochreines Lithiumhydroxid und -carbonat, F&E für Festkörperbatterie-Elektrolytsubstrate sowie Sicherung der Lieferkette für kritische Mineralien für nationale Energiespeicher- und Elektro-Mobilitätsinitiativen in Zusammenarbeit mit DOE National Laboratories (Ames, NETL, PNNL).
 * **Atomic Canyon:** KI-gestützte Kernenergieforschungsplattformen (**NeutronAI**), spezialisierte Kernenergie-Basismodelle, semantische Suchmaschinen für Multi-Terabyte-NRC-Regulierungsdokumente und nukleare Wissensgraphen, die am INL und ORNL eingesetzt werden, um die SMR-Lizenzierung (Small Modular Reactor) und die Sicherheitsmodellierung fortschrittlicher Reaktoren zu beschleunigen.
 * **AVEVA:** Industrielle Softwareplattformen für Unternehmen, CONNECT-Industrial-Cloud-Integration, SCADA-Telemetrieinfrastrukturen und digitale Echtzeit-Betriebszwillinge für saubere Energie, Fusionsreaktoren (PPPL) und Kernforschungsanlagen (INL).
-* **Chemspeed Technologies:** Automatisierte chemische Synthese-Arbeitsstationen (SWING, ISYNTH) für selbstfahrende Labore.
+* **Chemspeed Technologies:** Automatisierte chemische Synthese-Arbeitsstationen (**SWING**, **ISYNTH**), Roboterplattformen für Parallelreaktions-Screening mit hohem Durchsatz und automatisierte Dosierungsmodule für flüssige/feste Stoffe zum Antrieb geschlossener selbstfahrender Labore in allen DOE National Laboratories (LBNL, ANL, PNNL).
 * **Collins Aerospace:** Fortschrittliche Mikroelektronik, strahlungsgehärtete Substrate und Sensorsysteme für extreme Umgebungen.
 * **ComEd (Commonwealth Edison):** Intelligente Netzintegration, Quanten-in-the-Loop-Leistungsflusssimulation und urbane digitale Zwillinge.
 * **Cornelis Networks:** Hochleistungs-Omni-Path-Architektur (OPX) und Scale-out-Netzwerke für Exascale-Supercomputing.
