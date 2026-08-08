@@ -1,4 +1,4 @@
-**Version**: 1.4.5
+**Version**: 1.4.6
 
 # The Genesis Mission: Architecture, Strategic Initiatives, and the Multi-Institutional Ecosystem for AI and Quantum-Driven Scientific Discovery
 
@@ -256,7 +256,7 @@ A defining feature of the Genesis Mission is its multi-sector operational model 
 * **ISO New England:** Regional Transmission Organization (RTO) power grid dispatch optimization, high-frequency Phasor Measurement Unit (PMU) telemetry streaming, real-time multi-state renewable energy integration modeling, Dynamic Line Rating (DLR) thermal capacity co-simulations, and quantum-safe grid cybersecurity architecture co-developed with DOE National Laboratories (NREL ARIES platform, PNNL, ANL) under Genesis.
 * **Kitware:** Open-source scientific software engineering, exascale 3D visualization platforms (**ParaView**, **VTK** - Visualization Toolkit), in-situ supercomputing analytics engines (**Catalyst**), cross-platform build automation tools (**CMake**), and AI computer vision frameworks (**KWIVER**) deployed across DOE National Laboratories (ORNL, ANL, LLNL, LBNL) for real-time exascale simulation analytics under Genesis.
 * **Micron:** Committing $6.1 Billion under the CHIPS and Science Act (Department of Commerce preliminary terms) to scale leading-edge domestic memory fabrication (Clay, NY and Boise, ID megafabs), delivering ultra-high-bandwidth memory stacks (**HBM3e** / **HBM4**), Compute Express Link (**CXL 2.0 / 3.0**) memory expansion modules, and high-density enterprise SSDs integrated across DOE National Laboratory exascale supercomputing nodes (ANL Aurora, ORNL Frontier, LLNL El Capitan) for scientific AI foundation model training.
-* **MP Materials:** Domestic rare earth mining (Mountain Pass), NdPr magnet manufacturing, and AI-driven mineral separation algorithms.
+* **MP Materials:** Domestic rare earth mining and refining at Mountain Pass, commercial production of Neodymium-Praseodymium (NdPr) magnet alloys and heavy rare earths (Dy, Tb), hydrometallurgical processing, and AI-driven flotation separation algorithms co-developed with the DOE Critical Materials Innovation Hub (CMI / Ames National Laboratory, ORNL, ANL) for supply chain security under Genesis.
 * **New York Creates (NY CREATES):** Operating the 300mm Albany NanoTech Complex hosting the CHIPS Act EUV Lithography Center and xLight FEL prototype facility.
 * **Niron Magnets:** Manufacturing rare-earth-free permanent magnets ($Fe_{16}N_2$) and utilizing DOE beamlines for microstructure co-design.
 * **Nokia (Nokia Bell Labs):** Deploying high-speed optical networking backbones, 5G/6G wireless fabrics, and post-quantum cryptographic transport networks.

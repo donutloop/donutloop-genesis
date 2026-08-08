@@ -7,6 +7,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
+## [1.4.6] - 2026-08-08
+
+### Changed
+- **Paper Enrichment (Entry #39 - MP Materials)**: Processed reference entry #39 (`MP Materials`, `mpmaterials.com`). Enriched Section 3.1 C in `README.md` and `README.de.md` with explicit technical details on domestic rare earth mining, high-purity NdPr magnet metal refining at Mountain Pass, CA, commercial NdFeB permanent magnet manufacturing, and AI-driven flotation optimization algorithms co-developed with the DOE Critical Materials Innovation Hub (CMI / Ames National Laboratory).
+- **Index Status Update**: Marked Entry #39 status to `Processed` in `reference_coverage.md` and updated executive metrics to `39 / 337 Processed`.
+- **Version Bump**: Incremented patch version to `1.4.6` in `README.md` and `README.de.md`.
+
+---
+
 ## [1.4.5] - 2026-08-08
 
 ### Changed
