@@ -1,4 +1,4 @@
-**Version**: 1.3.2
+**Version**: 1.3.3
 
 # Die Genesis-Mission: Architektur, strategische Initiativen und das multi-institutionelle Ökosystem für KI- und quantengetriebene wissenschaftliche Entdeckungen
 
@@ -213,7 +213,7 @@ Ein bestimmendes Merkmal der Genesis-Mission ist ihr sektorübergreifendes Betri
 * **Google Public Sector & DeepMind:** Zusage von 40 Millionen US-Dollar an KI-Tokens, Cloud-Gutschriften und sicheren Arbeitsplätzen in allen 17 DOE National Laboratories zum Einsatz von Enterprise-Cloud-Infrastruktur und Spitzen-KI-Modellen (**Gemini for Government**, **AI Co-Scientist**, **AlphaEvolve**, **AlphaFold**, **AlphaGenome**, **WeatherNext** und **AlphaEarth Foundations**).
 * **HPE (Hewlett Packard Enterprise):** Lieferant von Exascale-Hochleistungsrechen-Infrastruktur (HPC) und wassergekühlten Supercomputing-Architekturen (**Frontier**, **Aurora**, **El Capitan**) mit Slingshot-Netzwerk.
 * **Hugging Face:** Strategische Partnerschaft und Integration offener Wissenschaftsplattformen mit dem DOE zum Hosten und Verwalten wissenschaftlicher Open-Source-Basismodelle.
-* **FutureHouse:** Strategische Forschungspartnerschaft zum Einsatz wissenschaftlicher KI-Agenten (**PaperQA**, **WikiCrow**, **ChemCrow**) für die automatisierte Literaturanalyse.
+* **FutureHouse:** Strategische gemeinnützige KI-Forschungspartnerschaft zum Einsatz autonomer wissenschaftlicher KI-LLM-Schlussfolgerungsagenten (**PaperQA**, **WikiCrow**, **ChemCrow**, **CrowOmni**) in DOE National Laboratories (LBNL, ANL, PNNL) für automatisierte biomedizinische Literatursynthese, geschlossene Hypothesengenerierung, selbstfahrende Chemie-/Biologielabor-Orchestrierung und agentische Forschungsabläufe.
 * **LILA:** Strategische Partnerschaft und kollaborative KI-Plattformintegration mit dem DOE zur Bereitstellung offener KI-Infrastrukturen.
 * **Meta AI:** Tiefe Integration offener Modelle (z. B. Segment Anything, DINO) in Bildgebungs- und Teilchenbeugungspipelines des LBNL.
 * **Microsoft:** Zusage von 60 Millionen US-Dollar (40 Millionen US-Dollar Rechenguthaben + 20 Millionen US-Dollar Engineering-Services) zur Einrichtung des **SPARK**-Programmbüros, Bereitstellung der **Microsoft Discovery**-Plattform, Bereitstellung von **MatterGen**- und **MatterSim**-Basismodellen und Integration topologischer Majorana-Quantenprozessoren.

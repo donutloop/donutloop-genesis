@@ -7,6 +7,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
+## [1.3.3] - 2026-08-08
+
+### Changed
+- **Paper Enrichment (Entry #25 - FutureHouse)**: Processed reference entry #25 (`FutureHouse`, `www.futurehouse.org`). Enriched Section 3.1 A in `README.md` and `README.de.md` with explicit technical details on autonomous scientific AI LLM reasoning agents (**PaperQA**, **WikiCrow**, **ChemCrow**, **CrowOmni**), closed-loop hypothesis generation, self-driving chemistry/biology lab orchestration, and agentic research workflows across DOE National Laboratories (LBNL, ANL, PNNL).
+- **Index Status Update**: Marked Entry #25 status to `Processed` in `reference_coverage.md` and updated executive metrics to `25 / 337 Processed`.
+- **Version Bump**: Incremented patch version to `1.3.3` in `README.md` and `README.de.md`.
+
+---
+
 ## [1.3.2] - 2026-08-08
 
 ### Changed

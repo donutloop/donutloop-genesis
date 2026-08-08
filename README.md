@@ -1,4 +1,4 @@
-**Version**: 1.3.2
+**Version**: 1.3.3
 
 # The Genesis Mission: Architecture, Strategic Initiatives, and the Multi-Institutional Ecosystem for AI and Quantum-Driven Scientific Discovery
 
@@ -213,7 +213,7 @@ A defining feature of the Genesis Mission is its multi-sector operational model 
 * **Google Public Sector & DeepMind:** Committing $40 Million in AI tokens, cloud credits, and secure seats across all 17 DOE National Laboratories to deploy enterprise cloud infrastructure and frontier AI models (**Gemini for Government**, **AI Co-Scientist**, **AlphaEvolve**, **AlphaFold**, **AlphaGenome**, **WeatherNext**, and **AlphaEarth Foundations**), cutting electron microscope calibration time by 8x at NLR.
 * **HPE (Hewlett Packard Enterprise):** Delivering exascale high-performance computing (HPC) infrastructure and liquid-cooled supercomputing architectures (**Frontier**, **Aurora**, **El Capitan**) integrated with Slingshot networking.
 * **Hugging Face:** Strategic partnership and open-science platform integration with the DOE to host, curate, and distribute open-source scientific foundation models, FAIR-compliant datasets, and model execution environments on the Hugging Face Hub.
-* **FutureHouse:** Strategic research partnership deploying AI scientific agents (**PaperQA**, **WikiCrow**, **ChemCrow**) across national laboratories for automated literature analysis and self-driving chemistry/biology workflows.
+* **FutureHouse:** Strategic non-profit AI research partnership deploying autonomous scientific AI LLM reasoning agents (**PaperQA**, **WikiCrow**, **ChemCrow**, **CrowOmni**) across DOE National Laboratories (LBNL, ANL, PNNL) for automated biomedical literature synthesis, closed-loop hypothesis generation, self-driving chemistry/biology lab orchestration, and agentic research workflows.
 * **LILA:** Strategic partnership and collaborative AI platform integration with the DOE to power open AI infrastructure and multi-institutional scientific collaboration across national laboratories and research universities.
 * **Meta AI:** Deep integration of open models (e.g., Segment Anything, DINO) with LBNL imaging and particle diffraction pipelines.
 * **Microsoft:** Committing $60 Million ($40 Million compute credits + $20 Million engineering services) to launch the **SPARK** program office, deploy the **Microsoft Discovery** platform, provision **MatterGen** and **MatterSim** foundation models, and integrate Majorana topological quantum processors across DOE labs.

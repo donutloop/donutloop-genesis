@@ -15,7 +15,7 @@
 | **Official PDF Documents** | **14** | Formal RFA solicitations, webinars, slides, and executive reports |
 | **Web Portals & Press Releases** | **323** | Newsroom features, corporate blog posts, and interactive hubs |
 | **Validation Status** | **100% Validated** | All links canonicalized, formatted, and deduplicated |
-| **Processing Status** | **24 / 337 Processed** | 313 Unprocessed, 24 Processed |
+| **Processing Status** | **25 / 337 Processed** | 312 Unprocessed, 25 Processed |
 
 ---
 
@@ -92,7 +92,7 @@ A complete tabular listing of all 337 indexed reference links:
 | 22 | 2. Collaborators | - | Emerald Cloud Lab | `www.emeraldcloudlab.com` | Web | [Emerald Cloud Lab](https://www.emeraldcloudlab.com/) | `Processed` |
 | 23 | 2. Collaborators | - | EPRI | `www.epri.com` | Web | [EPRI](https://www.epri.com/) | `Processed` |
 | 24 | 2. Collaborators | - | Esri | `www.esri.com` | Web | [Esri](https://www.esri.com/) | `Processed` |
-| 25 | 2. Collaborators | - | FutureHouse | `www.futurehouse.org` | Web | [FutureHouse](https://www.futurehouse.org/) | `Unprocessed` |
+| 25 | 2. Collaborators | - | FutureHouse | `www.futurehouse.org` | Web | [FutureHouse](https://www.futurehouse.org/) | `Processed` |
 | 26 | 2. Collaborators | - | GE Aerospace | `www.geaerospace.com` | Web | [GE Aerospace](https://www.geaerospace.com/) | `Unprocessed` |
 | 27 | 2. Collaborators | - | GlobalFoundries | `gf.com` | Web | [GlobalFoundries](https://gf.com/) | `Unprocessed` |
 | 28 | 2. Collaborators | - | Google | `about.google` | Web | [Google](https://about.google/) | `Unprocessed` |
