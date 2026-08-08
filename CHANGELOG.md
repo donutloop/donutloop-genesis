@@ -7,6 +7,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
+## [1.3.7] - 2026-08-08
+
+### Changed
+- **Paper Enrichment (Entry #29 - HPE)**: Processed reference entry #29 (`HPE`, `www.hpe.com`). Enriched Section 3.1 A in `README.md` and `README.de.md` with explicit technical details on flagship exascale high-performance computing (HPC) supercomputing architectures (**Frontier** at ORNL, **Aurora** at ANL, **El Capitan** at LLNL), **HPE Cray EX** liquid-cooled systems, **Slingshot 11** high-speed interconnect fabrics, Cray Programming Environment (CPE), and **HPE GreenLake for HPC** AI data storage nodes.
+- **Index Status Update**: Marked Entry #29 status to `Processed` in `reference_coverage.md` and updated executive metrics to `29 / 337 Processed`.
+- **Version Bump**: Incremented patch version to `1.3.7` in `README.md` and `README.de.md`.
+
+---
+
 ## [1.3.6] - 2026-08-08
 
 ### Changed

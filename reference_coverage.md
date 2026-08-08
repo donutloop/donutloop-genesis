@@ -15,7 +15,7 @@
 | **Official PDF Documents** | **14** | Formal RFA solicitations, webinars, slides, and executive reports |
 | **Web Portals & Press Releases** | **323** | Newsroom features, corporate blog posts, and interactive hubs |
 | **Validation Status** | **100% Validated** | All links canonicalized, formatted, and deduplicated |
-| **Processing Status** | **28 / 337 Processed** | 309 Unprocessed, 28 Processed |
+| **Processing Status** | **29 / 337 Processed** | 308 Unprocessed, 29 Processed |
 
 ---
 
@@ -96,7 +96,7 @@ A complete tabular listing of all 337 indexed reference links:
 | 26 | 2. Collaborators | - | GE Aerospace | `www.geaerospace.com` | Web | [GE Aerospace](https://www.geaerospace.com/) | `Processed` |
 | 27 | 2. Collaborators | - | GlobalFoundries | `gf.com` | Web | [GlobalFoundries](https://gf.com/) | `Processed` |
 | 28 | 2. Collaborators | - | Google | `about.google` | Web | [Google](https://about.google/) | `Processed` |
-| 29 | 2. Collaborators | - | HPE | `www.hpe.com` | Web | [HPE](https://www.hpe.com/) | `Unprocessed` |
+| 29 | 2. Collaborators | - | HPE | `www.hpe.com` | Web | [HPE](https://www.hpe.com/) | `Processed` |
 | 30 | 2. Collaborators | - | Hugging Face | `huggingface.co` | Web | [Hugging Face](https://huggingface.co/) | `Unprocessed` |
 | 31 | 2. Collaborators | - | IBM | `www.ibm.com` | Web | [IBM](https://www.ibm.com/) | `Unprocessed` |
 | 32 | 2. Collaborators | - | Infleqtion | `www.infleqtion.com` | Web | [Infleqtion](https://www.infleqtion.com/) | `Unprocessed` |
