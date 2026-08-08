@@ -1,4 +1,4 @@
-**Version**: 1.4.16
+**Version**: 1.4.17
 
 # Die Genesis-Mission: Architektur, strategische Initiativen und das multi-institutionelle Ökosystem für KI- und quantengetriebene wissenschaftliche Entdeckungen
 
@@ -232,7 +232,7 @@ Ein bestimmendes Merkmal der Genesis-Mission ist ihr sektorübergreifendes Betri
 * **GlobalFoundries:** Zusage von 375 Millionen US-Dollar im Rahmen des CHIPS and Science Act und Partnerschaft mit dem DOE über **GF Labs** zur Bereitstellung von Process Design Kits (PDKs), GlobalShuttle™ MPW-Läufen (Multi-Project Wafer), Silizium-Photonik-Plattformen, Sub-28nm-Halbleitergießereiprozessen und kundenspezifischem Mikrochip-Packaging zur Unterstützung kommerzieller Quantenpartner (Diraq, Quantinuum, PsiQuantum) sowie kryogener Quantensteuerungs-ASICs.
 * **IBM / IBM Quantum:** Zusage von 1 Milliarde US-Dollar im Rahmen des CHIPS and Science Act für eine inländische supraleitende Quantengießerei, 50 Millionen US-Dollar an direktem Quantenrechenzugang (**Heron** 133-Qubit- und **Nighthawk**-Prozessoren), Co-Leitung von Phase-I-RFA-Preisen für agentische KI-Quantenentdeckungen mit ORNL, ANL und BNL sowie Integration von **Qiskit Runtime** und **Qiskit Serverless** in HPC-Supercomputer nationaler Laboratorien für hybride Quanten-Klassik-Workflows.
 * **Infleqtion:** Zusage von 100 Millionen US-Dollar im Rahmen des CHIPS and Science Act und Ausführung von 3 DOE-Genesis-Preisen: Skalierung der Neutralatom-Quantenhardwareplattform (**Sqale**), Einsatz hochpräziser optischer Atomuhren (**Tiqker**) zur Stromnetz-Frequenzsynchronisation und RF-Sensorik sowie Optimierung der Quantenschaltkreisausführung über den **Superstaq**-Quantensoftware-Compiler in HPC-Clustern nationaler Laboratorien (ANL, LBNL, ORNL).
-* **PsiQuantum:** Zusage von 100 Millionen US-Dollar im Rahmen des CHIPS Act zum Bau nutzenorientierter photonischer Quantenhardware in der inländischen **PsiFactory**-Anlage in Milpitas, CA.
+* **PsiQuantum:** Zusage von 100 Millionen US-Dollar im Rahmen einer Absichtserklärung (LOI) des CHIPS and Science Act zum Bau nutzenorientierter fehlertoleranter photonischer Quantencomputing-Hardware in der inländischen **PsiFactory**-Anlage in Milpitas, CA, Skalierung hochgeschwindigkeits-Bariumtitanat (BTO)-Optikschalter, hocheffizienter Einzelphotonendetektoren, verlustarmer Faser-zu-Chip-Verpackung und Silizium-Photonik-Fertigung in Partnerschaft mit GlobalFoundries für wissenschaftliche Modellierungen des DOE im Rahmen von Genesis.
 * **Quantinuum:** Zusage von 100 Millionen US-Dollar im Rahmen des CHIPS Act zur Skalierung fehlertoleranter Ionenfallen-QPUs mit GlobalFoundries und Monarch Quantum.
 * **Rigetti Computing:** Zusage von bis zu 100 Millionen US-Dollar im Rahmen des CHIPS Act zur Skalierung kachelbarer supraleitender QPUs (**Ankaa**, **Novera**, **Lyra**) und Ausleseelektronik.
 * **Siemens:** Industrielle KI-Plattformen, Siemens Xcelerator Digital Twin Software und Smart-Grid-Automatisierung.

@@ -1,4 +1,4 @@
-**Version**: 1.4.16
+**Version**: 1.4.17
 
 # The Genesis Mission: Architecture, Strategic Initiatives, and the Multi-Institutional Ecosystem for AI and Quantum-Driven Scientific Discovery
 
@@ -232,7 +232,7 @@ A defining feature of the Genesis Mission is its multi-sector operational model 
 * **GlobalFoundries:** Committing $375 Million under the CHIPS and Science Act and partnering with the DOE via **GF Labs** to provide Process Design Kits (PDKs), GlobalShuttle™ Multi-Project Wafer (MPW) runs, silicon photonics platforms, sub-28nm semiconductor foundry processes, and custom microchip packaging supporting commercial quantum partners (Diraq, Quantinuum, PsiQuantum) and cryogenic quantum control ASICs.
 * **IBM / IBM Quantum:** Committing $1 Billion under the CHIPS and Science Act to establish a domestic superconducting quantum foundry, $50 Million in direct quantum compute access (**Heron** 133-qubit and **Nighthawk** QPUs), co-leading Phase I RFA agentic AI quantum discovery awards with ORNL, ANL, and BNL, and integrating **Qiskit Runtime** and **Qiskit Serverless** across national laboratory HPC supercomputers for hybrid quantum-classical workflows.
 * **Infleqtion:** Committing $100 Million under the CHIPS and Science Act and executing 3 DOE Genesis awards: scaling the neutral-atom quantum computing hardware platform (**Sqale**), deploying ultra-precise optical atomic clocks (**Tiqker**) for grid frequency synchronization and RF sensing, and optimizing quantum circuit execution via the **Superstaq** quantum software compiler across national laboratory HPC clusters (ANL, LBNL, ORNL).
-* **PsiQuantum:** Committing $100 Million under the CHIPS Act to construct utility-scale photonic quantum computing hardware anchored at the domestic **PsiFactory** facility in Milpitas, CA.
+* **PsiQuantum:** Committing $100 Million under a CHIPS and Science Act Letter of Intent (LOI) to construct utility-scale fault-tolerant photonic quantum computing hardware anchored at the domestic **PsiFactory** facility in Milpitas, CA, scaling high-speed Barium Titanate (BTO) optical switches, high-efficiency single-photon detectors, low-loss fiber-to-chip packaging, and silicon photonics manufacturing in partnership with GlobalFoundries for DOE scientific modeling under Genesis.
 * **Quantinuum:** Committing $100 Million under the CHIPS Act to scale fault-tolerant trapped-ion QPUs, integrated optics, and domestic foundry packaging with GlobalFoundries and Monarch Quantum.
 * **Rigetti Computing:** Committing up to $100 Million under the CHIPS Act (with government equity participation) to scale tileable superconducting QPUs (**Ankaa**, **Novera**, **Lyra**) and cryogenic readout electronics.
 * **Siemens:** Industrial AI platforms, Siemens Xcelerator digital twin software, and smart grid automation deployed across DOE clean energy and fusion facilities under a strategic MOU.

@@ -7,6 +7,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
+## [1.4.17] - 2026-08-08
+
+### Changed
+- **Paper Enrichment (Entry #50 - PsiQuantum)**: Processed reference entry #50 (`PsiQuantum`, `psiquantum.com`). Enriched Section 3.1 B in `README.md` and `README.de.md` with explicit technical details on committing $100 Million under a CHIPS and Science Act Letter of Intent (LOI) to construct utility-scale fault-tolerant photonic quantum computing hardware anchored at the domestic **PsiFactory** facility in Milpitas, CA, scaling high-speed Barium Titanate (BTO) optical switches, high-efficiency single-photon detectors, low-loss fiber-to-chip packaging, and silicon photonics manufacturing in partnership with GlobalFoundries for DOE scientific modeling.
+- **Index Status Update**: Marked Entry #50 status to `Processed` in `reference_coverage.md` and updated executive metrics to `50 / 337 Processed`.
+- **Version Bump**: Incremented patch version to `1.4.17` in `README.md` and `README.de.md`.
+
+---
+
 ## [1.4.16] - 2026-08-08
 
 ### Changed
