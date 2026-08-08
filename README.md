@@ -1,4 +1,4 @@
-**Version**: 1.4.22
+**Version**: 1.4.23
 
 # The Genesis Mission: Architecture, Strategic Initiatives, and the Multi-Institutional Ecosystem for AI and Quantum-Driven Scientific Discovery
 
@@ -267,7 +267,7 @@ A defining feature of the Genesis Mission is its multi-sector operational model 
 * **Qubit (Qubit Inc.):** Real-time quantum hardware control software, pulse-level QPU calibration drivers, microwave waveform synthesis engines, and hardware-agnostic compiler middleware integrated across DOE Quantum User Facilities (ORNL QCUP, LBNL NERSC, ANL Q-NEXT) for real-time error mitigation and hybrid classical-quantum execution under Genesis.
 * **RadiaSoft:** Open-source particle accelerator beam dynamics simulation software (**Sirepo**, **Radia**, **Impact-T**, **OPAL**) and AI-driven beamline emittance control algorithms integrated across DOE User Facilities (SLAC LCLS-II, ANL APS-U, BNL EIC, LBNL ALS) for real-time accelerator lattice optimization under Genesis.
 * **Ramaco (Ramaco Resources):** Coal-to-carbon materials manufacturing, synthetic graphite anode production for EV batteries, and AI-accelerated rare earth element (REE) and critical mineral extraction from domestic carbon deposits (**Brook Mine**) co-developed with DOE National Laboratories (NETL, ORNL, Ames CMI) under Genesis.
-* **RTX (Raytheon Technologies):** High-power RF microelectronics, wide-bandgap semiconductors (GaN/SiC), and directed energy quantum sensors.
+* **RTX (Raytheon Technologies):** Deploying high-power RF microelectronics, wide-bandgap semiconductors (GaN/SiC), quantum magnetometry sensors, and quantum communication network architectures (**Raytheon BBN**) co-developed with DOE National Laboratories (SNL, LLNL, ORNL) for extreme-environment defense edge computing under Genesis.
 * **Semiconductor Industry Association (SIA):** Microelectronics policy coordination, workforce development, and supply chain alignment across CHIPS Act initiatives.
 * **TdVib (TdVib LLC):** Smart magnetostrictive materials (Terfenol-D), active vibration dampening transducers, and precision positioning actuators.
 * **Tennessee Valley Authority (TVA):** Small modular reactor (SMR) nuclear deployment (Clinch River site), public power grid decarbonization, and exascale energy co-simulation.

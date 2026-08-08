@@ -7,6 +7,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
+## [1.4.23] - 2026-08-08
+
+### Changed
+- **Paper Enrichment (Entry #56 - RTX)**: Processed reference entry #56 (`RTX`, `www.rtx.com`). Enriched Section 3.1 C in `README.md` and `README.de.md` with explicit technical details on high-power RF microelectronics, wide-bandgap semiconductors (GaN/SiC), quantum magnetometry sensors, and quantum communication network architectures (**Raytheon BBN**) co-developed with DOE National Laboratories (SNL, LLNL, ORNL) for extreme-environment defense edge computing.
+- **Index Status Update**: Marked Entry #56 status to `Processed` in `reference_coverage.md` and updated executive metrics to `56 / 337 Processed`.
+- **Version Bump**: Incremented patch version to `1.4.23` in `README.md` and `README.de.md`.
+
+---
+
 ## [1.4.22] - 2026-08-08
 
 ### Changed
