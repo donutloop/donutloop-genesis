@@ -15,7 +15,7 @@
 | **Official PDF Documents** | **14** | Formal RFA solicitations, webinars, slides, and executive reports |
 | **Web Portals & Press Releases** | **323** | Newsroom features, corporate blog posts, and interactive hubs |
 | **Validation Status** | **100% Validated** | All links canonicalized, formatted, and deduplicated |
-| **Processing Status** | **26 / 337 Processed** | 311 Unprocessed, 26 Processed |
+| **Processing Status** | **27 / 337 Processed** | 310 Unprocessed, 27 Processed |
 
 ---
 
@@ -94,7 +94,7 @@ A complete tabular listing of all 337 indexed reference links:
 | 24 | 2. Collaborators | - | Esri | `www.esri.com` | Web | [Esri](https://www.esri.com/) | `Processed` |
 | 25 | 2. Collaborators | - | FutureHouse | `www.futurehouse.org` | Web | [FutureHouse](https://www.futurehouse.org/) | `Processed` |
 | 26 | 2. Collaborators | - | GE Aerospace | `www.geaerospace.com` | Web | [GE Aerospace](https://www.geaerospace.com/) | `Processed` |
-| 27 | 2. Collaborators | - | GlobalFoundries | `gf.com` | Web | [GlobalFoundries](https://gf.com/) | `Unprocessed` |
+| 27 | 2. Collaborators | - | GlobalFoundries | `gf.com` | Web | [GlobalFoundries](https://gf.com/) | `Processed` |
 | 28 | 2. Collaborators | - | Google | `about.google` | Web | [Google](https://about.google/) | `Unprocessed` |
 | 29 | 2. Collaborators | - | HPE | `www.hpe.com` | Web | [HPE](https://www.hpe.com/) | `Unprocessed` |
 | 30 | 2. Collaborators | - | Hugging Face | `huggingface.co` | Web | [Hugging Face](https://huggingface.co/) | `Unprocessed` |

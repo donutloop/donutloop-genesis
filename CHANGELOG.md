@@ -7,6 +7,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
+## [1.3.5] - 2026-08-08
+
+### Changed
+- **Paper Enrichment (Entry #27 - GlobalFoundries)**: Processed reference entry #27 (`GlobalFoundries`, `gf.com`). Enriched Section 3.1 B in `README.md` and `README.de.md` with explicit technical details on CHIPS and Science Act $375M commitment, **GF Labs** Process Design Kits (PDKs), GlobalShuttle™ Multi-Project Wafer (MPW) runs, silicon photonics platforms, sub-28nm semiconductor foundry processes, and custom microchip packaging supporting commercial quantum partners (Diraq, Quantinuum, PsiQuantum) and cryogenic quantum control ASICs.
+- **Index Status Update**: Marked Entry #27 status to `Processed` in `reference_coverage.md` and updated executive metrics to `27 / 337 Processed`.
+- **Version Bump**: Incremented patch version to `1.3.5` in `README.md` and `README.de.md`.
+
+---
+
 ## [1.3.4] - 2026-08-08
 
 ### Changed

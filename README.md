@@ -1,4 +1,4 @@
-**Version**: 1.3.4
+**Version**: 1.3.5
 
 # The Genesis Mission: Architecture, Strategic Initiatives, and the Multi-Institutional Ecosystem for AI and Quantum-Driven Scientific Discovery
 
@@ -229,7 +229,7 @@ A defining feature of the Genesis Mission is its multi-sector operational model 
 * **Atom Computing:** Committing $100 Million under the CHIPS and Science Act (Department of Commerce LOI) to scale optically trapped neutral-atom quantum computing hardware, manipulate 1,000+ qubit arrays, and deploy open-source "quantum-in-the-loop" interfaces co-simulating power grid stability and feeder line optimization with NREL ARIES.
 * **Diraq:** Committing up to $38 Million under the CHIPS Act to scale CMOS-native silicon spin quantum dot processors (**Quantum Dot Spin QPU** platforms) in partnership with GlobalFoundries at sub-dollar per-qubit economics, leveraging standard sub-28nm semiconductor foundry processes and cryogenic control ASICs for DOE quantum infrastructure.
 * **D-Wave Quantum:** Committing $100 Million to scale commercial quantum annealing systems (**Advantage** / **Advantage2** QPUs with 5,000+ to 7,000+ flux qubits) and gate-model superconducting quantum architectures, providing hybrid classical-quantum solver services (**Leap** cloud service) integrated across DOE National Laboratories (LANL, ORNL, NREL ARIES) for grid dispatch optimization, materials discovery, and complex supply chain scheduling.
-* **GlobalFoundries:** Committing $375 Million under the CHIPS Act and partnering with DOE via **GF Labs** to provide PDKs, GlobalShuttle™ MPW runs, silicon photonics, and custom microchip fabrication for trapped-ion and silicon spin QPUs.
+* **GlobalFoundries:** Committing $375 Million under the CHIPS and Science Act and partnering with the DOE via **GF Labs** to provide Process Design Kits (PDKs), GlobalShuttle™ Multi-Project Wafer (MPW) runs, silicon photonics platforms, sub-28nm semiconductor foundry processes, and custom microchip packaging supporting commercial quantum partners (Diraq, Quantinuum, PsiQuantum) and cryogenic quantum control ASICs.
 * **IBM / IBM Quantum:** Committing $1 Billion in CHIPS Act funding for a domestic superconducting quantum foundry, $50 Million in quantum compute access (**Heron** and **Nighthawk** processors), and co-leading Phase I RFA agentic AI quantum discovery awards.
 * **Infleqtion:** Committing $100 Million under the CHIPS Act and executing 3 DOE Genesis awards (**Sqale** neutral-atom QPU platform, **Tiqker** atomic clocks, **Superstaq** optimizing compiler).
 * **PsiQuantum:** Committing $100 Million under the CHIPS Act to construct utility-scale photonic quantum computing hardware anchored at the domestic **PsiFactory** facility in Milpitas, CA.
