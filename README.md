@@ -1,4 +1,4 @@
-**Version**: 1.3.9
+**Version**: 1.4.0
 
 # The Genesis Mission: Architecture, Strategic Initiatives, and the Multi-Institutional Ecosystem for AI and Quantum-Driven Scientific Discovery
 
@@ -231,7 +231,7 @@ A defining feature of the Genesis Mission is its multi-sector operational model 
 * **D-Wave Quantum:** Committing $100 Million to scale commercial quantum annealing systems (**Advantage** / **Advantage2** QPUs with 5,000+ to 7,000+ flux qubits) and gate-model superconducting quantum architectures, providing hybrid classical-quantum solver services (**Leap** cloud service) integrated across DOE National Laboratories (LANL, ORNL, NREL ARIES) for grid dispatch optimization, materials discovery, and complex supply chain scheduling.
 * **GlobalFoundries:** Committing $375 Million under the CHIPS and Science Act and partnering with the DOE via **GF Labs** to provide Process Design Kits (PDKs), GlobalShuttle™ Multi-Project Wafer (MPW) runs, silicon photonics platforms, sub-28nm semiconductor foundry processes, and custom microchip packaging supporting commercial quantum partners (Diraq, Quantinuum, PsiQuantum) and cryogenic quantum control ASICs.
 * **IBM / IBM Quantum:** Committing $1 Billion under the CHIPS and Science Act to establish a domestic superconducting quantum foundry, $50 Million in direct quantum compute access (**Heron** 133-qubit and **Nighthawk** QPUs), co-leading Phase I RFA agentic AI quantum discovery awards with ORNL, ANL, and BNL, and integrating **Qiskit Runtime** and **Qiskit Serverless** across national laboratory HPC supercomputers for hybrid quantum-classical workflows.
-* **Infleqtion:** Committing $100 Million under the CHIPS Act and executing 3 DOE Genesis awards (**Sqale** neutral-atom QPU platform, **Tiqker** atomic clocks, **Superstaq** optimizing compiler).
+* **Infleqtion:** Committing $100 Million under the CHIPS and Science Act and executing 3 DOE Genesis awards: scaling the neutral-atom quantum computing hardware platform (**Sqale**), deploying ultra-precise optical atomic clocks (**Tiqker**) for grid frequency synchronization and RF sensing, and optimizing quantum circuit execution via the **Superstaq** quantum software compiler across national laboratory HPC clusters (ANL, LBNL, ORNL).
 * **PsiQuantum:** Committing $100 Million under the CHIPS Act to construct utility-scale photonic quantum computing hardware anchored at the domestic **PsiFactory** facility in Milpitas, CA.
 * **Quantinuum:** Committing $100 Million under the CHIPS Act to scale fault-tolerant trapped-ion QPUs, integrated optics, and domestic foundry packaging with GlobalFoundries and Monarch Quantum.
 * **Rigetti Computing:** Committing up to $100 Million under the CHIPS Act (with government equity participation) to scale tileable superconducting QPUs (**Ankaa**, **Novera**, **Lyra**) and cryogenic readout electronics.

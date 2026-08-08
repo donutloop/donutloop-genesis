@@ -15,7 +15,7 @@
 | **Official PDF Documents** | **14** | Formal RFA solicitations, webinars, slides, and executive reports |
 | **Web Portals & Press Releases** | **323** | Newsroom features, corporate blog posts, and interactive hubs |
 | **Validation Status** | **100% Validated** | All links canonicalized, formatted, and deduplicated |
-| **Processing Status** | **31 / 337 Processed** | 306 Unprocessed, 31 Processed |
+| **Processing Status** | **32 / 337 Processed** | 305 Unprocessed, 32 Processed |
 
 ---
 
@@ -99,7 +99,7 @@ A complete tabular listing of all 337 indexed reference links:
 | 29 | 2. Collaborators | - | HPE | `www.hpe.com` | Web | [HPE](https://www.hpe.com/) | `Processed` |
 | 30 | 2. Collaborators | - | Hugging Face | `huggingface.co` | Web | [Hugging Face](https://huggingface.co/) | `Processed` |
 | 31 | 2. Collaborators | - | IBM | `www.ibm.com` | Web | [IBM](https://www.ibm.com/) | `Processed` |
-| 32 | 2. Collaborators | - | Infleqtion | `www.infleqtion.com` | Web | [Infleqtion](https://www.infleqtion.com/) | `Unprocessed` |
+| 32 | 2. Collaborators | - | Infleqtion | `www.infleqtion.com` | Web | [Infleqtion](https://www.infleqtion.com/) | `Processed` |
 | 33 | 2. Collaborators | - | ISO New England | `www.iso-ne.com` | Web | [ISO New England](https://www.iso-ne.com/) | `Unprocessed` |
 | 34 | 2. Collaborators | - | Kitware | `www.kitware.com` | Web | [Kitware](https://www.kitware.com/) | `Unprocessed` |
 | 35 | 2. Collaborators | - | LILA | `www.lila.ai` | Web | [LILA](https://www.lila.ai/) | `Unprocessed` |
