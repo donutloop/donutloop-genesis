@@ -7,6 +7,17 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
+## [1.0.6] - 2026-08-08
+
+### Added
+- **Status Tracking in Coverage Report**: Injected a `Status` column in [`reference_coverage.md`](file:///home/donutloop/Workspace/donutloop-genesis/reference_coverage.md) Section 4 (*Master Reference Link Index Table*), initializing all 340 entries to `Unprocessed` to track integration status across documentation workflows.
+- **Executive Processing Metrics**: Updated Section 1 metrics table in `reference_coverage.md` with real-time processing counters (`0 / 340 Processed`).
+
+### Changed
+- **Version Bump**: Incremented patch version to `1.0.6` in `README.md` and `README.de.md`.
+
+---
+
 ## [1.0.5] - 2026-08-08
 
 ### Added
