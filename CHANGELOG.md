@@ -7,11 +7,22 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
+## [1.0.5] - 2026-08-08
+
+### Added
+- **Reference Coverage Report**: Added [`reference_coverage.md`](file:///home/donutloop/Workspace/donutloop-genesis/reference_coverage.md), providing a comprehensive coverage analysis, section distribution, publisher domain classification (194 domains), resource format taxonomy (326 web portals, 14 PDFs), and full 340-row master audit index of all external links in `references.md`.
+
+### Changed
+- **Version Bump**: Incremented patch version to `1.0.5` in `README.md` and `README.de.md`.
+
+---
+
 ## [1.0.4] - 2026-08-08
 
 ### Changed
 - **Reference Hygiene**: Removed duplicate Meta AI LBNL entry from `references.md` WIP scratchpad following explicit user confirmation (verifying existing indexing at line 146).
 - **Version Bump**: Incremented patch version to `1.0.4` in `README.md` and `README.de.md`.
+
 
 ---
 
