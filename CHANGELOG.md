@@ -7,6 +7,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
+## [1.1.2] - 2026-08-08
+
+### Changed
+- **Paper Enrichment (Entry #3 - ATLAS Experiment at CERN)**: Processed reference entry #3 (`ATLAS experiment at CERN`, `atlas.cern`). Enriched Section 2.3 A in `README.md` and `README.de.md` with explicit technical details on international ATLAS collaboration integration across 44 U.S. universities and DOE National Laboratories (BNL, ANL, LBNL) for HL-LHC computing readiness.
+- **Index Status Update**: Marked Entry #3 status to `Processed` in `reference_coverage.md` and updated executive metrics to `4 / 337 Processed`.
+- **Version Bump**: Incremented patch version to `1.1.2` in `README.md` and `README.de.md`.
+
+---
+
 ## [1.1.1] - 2026-08-08
 
 ### Changed
