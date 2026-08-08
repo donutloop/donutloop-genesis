@@ -7,6 +7,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
+## [1.4.2] - 2026-08-08
+
+### Changed
+- **Paper Enrichment (Entry #34 - Kitware)**: Processed reference entry #34 (`Kitware`, `www.kitware.com`). Enriched Section 3.1 C in `README.md` and `README.de.md` with explicit technical details on exascale 3D visualization platforms (**ParaView**, **VTK**), in-situ supercomputing analytics engines (**Catalyst**), cross-platform build automation tools (**CMake**), and AI computer vision frameworks (**KWIVER**) deployed across DOE National Laboratories (ORNL, ANL, LLNL, LBNL).
+- **Index Status Update**: Marked Entry #34 status to `Processed` in `reference_coverage.md` and updated executive metrics to `34 / 337 Processed`.
+- **Version Bump**: Incremented patch version to `1.4.2` in `README.md` and `README.de.md`.
+
+---
+
 ## [1.4.1] - 2026-08-08
 
 ### Changed

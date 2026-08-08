@@ -15,7 +15,7 @@
 | **Official PDF Documents** | **14** | Formal RFA solicitations, webinars, slides, and executive reports |
 | **Web Portals & Press Releases** | **323** | Newsroom features, corporate blog posts, and interactive hubs |
 | **Validation Status** | **100% Validated** | All links canonicalized, formatted, and deduplicated |
-| **Processing Status** | **33 / 337 Processed** | 304 Unprocessed, 33 Processed |
+| **Processing Status** | **34 / 337 Processed** | 303 Unprocessed, 34 Processed |
 
 ---
 
@@ -101,7 +101,7 @@ A complete tabular listing of all 337 indexed reference links:
 | 31 | 2. Collaborators | - | IBM | `www.ibm.com` | Web | [IBM](https://www.ibm.com/) | `Processed` |
 | 32 | 2. Collaborators | - | Infleqtion | `www.infleqtion.com` | Web | [Infleqtion](https://www.infleqtion.com/) | `Processed` |
 | 33 | 2. Collaborators | - | ISO New England | `www.iso-ne.com` | Web | [ISO New England](https://www.iso-ne.com/) | `Processed` |
-| 34 | 2. Collaborators | - | Kitware | `www.kitware.com` | Web | [Kitware](https://www.kitware.com/) | `Unprocessed` |
+| 34 | 2. Collaborators | - | Kitware | `www.kitware.com` | Web | [Kitware](https://www.kitware.com/) | `Processed` |
 | 35 | 2. Collaborators | - | LILA | `www.lila.ai` | Web | [LILA](https://www.lila.ai/) | `Unprocessed` |
 | 36 | 2. Collaborators | - | Powering American Science: LILA to Join DOE's Genesis Mission | `www.lila.ai` | Web | [Powering American Science: LILA to Join DOE's Genesis Mission](https://www.lila.ai/news/powering-american-science-lila-to-join-does-genesis-mission) | `Unprocessed` |
 | 37 | 2. Collaborators | - | Micron | `www.micron.com` | Web | [Micron](https://www.micron.com/) | `Unprocessed` |
