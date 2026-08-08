@@ -7,6 +7,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
+## [1.2.9] - 2026-08-08
+
+### Changed
+- **Paper Enrichment (Entry #21 - D-Wave)**: Processed reference entry #21 (`D-Wave`, `www.dwavesys.com`). Enriched Section 3.1 B in `README.md` and `README.de.md` with explicit technical details on D-Wave Quantum annealing systems (**Advantage** / **Advantage2** QPUs with 5,000+ to 7,000+ flux qubits), hybrid classical-quantum solver services (**Leap** cloud service), and power grid / supply chain optimization across DOE National Laboratories (LANL, ORNL, NREL ARIES).
+- **Index Status Update**: Marked Entry #21 status to `Processed` in `reference_coverage.md` and updated executive metrics to `21 / 337 Processed`.
+- **Version Bump**: Incremented patch version to `1.2.9` in `README.md` and `README.de.md`.
+
+---
+
 ## [1.2.8] - 2026-08-08
 
 ### Changed
