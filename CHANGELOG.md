@@ -7,6 +7,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
+## [1.3.0] - 2026-08-08
+
+### Changed
+- **Paper Enrichment (Entry #22 - Emerald Cloud Lab)**: Processed reference entry #22 (`Emerald Cloud Lab`, `www.emeraldcloudlab.com`). Enriched Section 3.1 C in `README.md` and `README.de.md` with explicit technical details on cloud-based robotic laboratory infrastructure (**Emerald Orchestrator**), remote execution of over 200 analytical chemistry/biology protocols, closed-loop self-driving labs, and AI agent orchestration across DOE National Laboratories (LBNL, ANL, PNNL).
+- **Index Status Update**: Marked Entry #22 status to `Processed` in `reference_coverage.md` and updated executive metrics to `22 / 337 Processed`.
+- **Version Bump**: Incremented minor version to `1.3.0` in `README.md` and `README.de.md`.
+
+---
+
 ## [1.2.9] - 2026-08-08
 
 ### Changed
