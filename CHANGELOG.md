@@ -7,6 +7,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
+## [1.4.25] - 2026-08-08
+
+### Changed
+- **Paper Enrichment (Entry #58 - Scale AI)**: Processed reference entry #58 (`Scale AI`, `scale.com`). Enriched Section 3.1 A in `README.md` and `README.de.md` with explicit technical details on strategic DOE MOU delivering advanced AI data engine infrastructure (**Scale Data Engine**, **Scale Donovan**), automated annotation pipelines for petabyte-scale synchrotron and microscopy datasets, synthetic data generation for low-data scientific regimes, and domain-expert RLHF fine-tuning pipelines deployed across DOE National Laboratories (ANL, ORNL, LBNL) for frontier scientific foundation model alignment.
+- **Index Status Update**: Marked Entry #58 status to `Processed` in `reference_coverage.md` and updated executive metrics to `58 / 337 Processed`.
+- **Version Bump**: Incremented patch version to `1.4.25` in `README.md` and `README.de.md`.
+
+---
+
 ## [1.4.24] - 2026-08-08
 
 ### Changed
