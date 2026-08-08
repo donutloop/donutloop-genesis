@@ -15,7 +15,7 @@
 | **Official PDF Documents** | **14** | Formal RFA solicitations, webinars, slides, and executive reports |
 | **Web Portals & Press Releases** | **323** | Newsroom features, corporate blog posts, and interactive hubs |
 | **Validation Status** | **100% Validated** | All links canonicalized, formatted, and deduplicated |
-| **Processing Status** | **4 / 337 Processed** | 333 Unprocessed, 4 Processed |
+| **Processing Status** | **5 / 337 Processed** | 332 Unprocessed, 5 Processed |
 
 ---
 
@@ -72,7 +72,7 @@ A complete tabular listing of all 337 indexed reference links:
 | 2 | 1. Key Presentation Details | Event | U.S. ATLAS Institutional Board Meeting | `indico.cern.ch` | Web | [U.S. ATLAS Institutional Board Meeting](https://indico.cern.ch/event/1662511/?view=indico_weeks_view) | `Processed` |
 | 3 | 1. Key Presentation Details | Key People & Audience | ATLAS experiment at CERN | `atlas.cern` | Web | [ATLAS experiment at CERN](https://atlas.cern/Discover/Collaboration) | `Processed` |
 | 4 | 2. Collaborators | - | Albemarle | `www.albemarle.com` | Web | [Albemarle](https://www.albemarle.com/) | `Processed` |
-| 5 | 2. Collaborators | - | Amazon Web Services (AWS) | `aws.amazon.com` | Web | [Amazon Web Services (AWS)](https://aws.amazon.com/) | `Unprocessed` |
+| 5 | 2. Collaborators | - | Amazon Web Services (AWS) | `aws.amazon.com` | Web | [Amazon Web Services (AWS)](https://aws.amazon.com/) | `Processed` |
 | 6 | 2. Collaborators | - | AMD | `www.amd.com` | Web | [AMD](https://www.amd.com/) | `Unprocessed` |
 | 7 | 2. Collaborators | - | Anthropic | `www.anthropic.com` | Web | [Anthropic](https://www.anthropic.com/research/introducing-anthropic-science) | `Unprocessed` |
 | 8 | 2. Collaborators | - | Applied Materials | `www.appliedmaterials.com` | Web | [Applied Materials](https://www.appliedmaterials.com/) | `Unprocessed` |

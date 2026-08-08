@@ -1,4 +1,4 @@
-**Version**: 1.1.2
+**Version**: 1.1.3
 
 # The Genesis Mission: Architecture, Strategic Initiatives, and the Multi-Institutional Ecosystem for AI and Quantum-Driven Scientific Discovery
 
@@ -206,7 +206,7 @@ A defining feature of the Genesis Mission is its multi-sector operational model 
 ### 3.1 Industry, Hyperscale & Hardware Commitments
 
 #### A. Frontier AI, Cloud & Hyperscale Computing
-* **Amazon Web Services (AWS):** Committing $100 Million in federal credits for scientific research, advanced cloud HPC infrastructure, and post-quantum cryptographic security.
+* **Amazon Web Services (AWS):** Committing $100 Million in public sector cloud HPC compute credits, provisioning high-density Graviton4 ARM instances, Trainium2/Inferentia2 AI accelerators, post-quantum cryptographic security protocols (KEM / post-quantum TLS), and cloud-based high-throughput scientific workflow infrastructure (e.g., INL nuclear SMR digital twins and FAIR scientific dataset hosting).
 * **Anthropic:** Strategic partnership and Memorandum of Understanding (MOU) with the U.S. Department of Energy (DOE) to deploy frontier LLM reasoning agents, specialized scientific models (*Anthropic Science*), and autonomous workflow orchestration across national laboratory networks.
 * **Cerebras:** Strategic Memorandum of Understanding (MOU) with the U.S. Department of Energy (DOE) to accelerate the Genesis Mission using wafer-scale AI supercomputing architecture powered by the Wafer-Scale Engine (WSE).
 * **Dell Technologies:** Delivering AI factory infrastructure, liquid-cooled enterprise compute, and high-density HPC server solutions (PowerEdge server platforms) for federal scientific discovery platforms.
