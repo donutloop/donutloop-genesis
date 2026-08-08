@@ -27,3 +27,7 @@ Systematically document a target company's technical and strategic role within t
 
 ### 4. Version Increment
 - **Version Bump:** Increment the patch version string on line 1 of `README.md` (e.g., `**Version**: 0.2.7-alpha` → `**Version**: 0.2.8-alpha`).
+
+### 5. Changelog Update
+- **Changelog Entry:** Update `CHANGELOG.md` under the active release version section to log the newly expanded company profile, status upgrade in `coverage.md`, and corresponding section updates in `README.md`.
+

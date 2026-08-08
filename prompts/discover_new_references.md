@@ -45,3 +45,7 @@ When performing web searches, use targeted domain-restricted and topic-specific 
 
 ### 6. Version Update
 - **Version Bump:** Increment the patch version string on line 1 of `README.md` (e.g., `**Version**: 0.2.9-alpha` → `**Version**: 0.2.10-alpha`) whenever repository documentation is updated.
+
+### 7. Changelog Update
+- **Changelog Entry:** Update `CHANGELOG.md` under the active release version section to log newly discovered official references and any ecosystem coverage extensions.
+
