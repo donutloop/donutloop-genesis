@@ -410,3 +410,11 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
 * [DOE Office of Science: DE-FOA-0003612 Amendment 000003 (PDF)](https://science.osti.gov/-/media/grants/pdf/foas/2026/DE-FOA-0003612-000003.pdf)
 * [DOE Office of Science (SCAC): DOE Genesis Mission Launched Presentation (PDF)](https://science.osti.gov/-/media/About/pdf/scac/meetings/2026/DOE-Genesis-Mission-Launched---2026-03-27.pdf)
 * [OSTP: OSTP Genesis Mission Science and Technology Challenges Document](https://www.energy.gov/documents/ostp-genesis-mission-science-and-technology-challenges)
+
+wip:
+
+https://www.eng.auburn.edu/news/2026/08/molaei-genesis-mission.html
+https://news.wisc.edu/5-projects-at-uwmadison-aimed-at-transforming-science-and-energy-with-ai-receive-doe-genesis-mission-funding/
+https://www.newswise.com/articles/georgia-tech-helps-advance-genesis-mission-a-national-effort-to-transform-scientific-discovery-through-ai
+https://news.rpi.edu/2026/07/31/rpi-selected-two-us-department-energy-genesis-mission-projects?hl=en-US
+https://youtu.be/ZbzHbewWEtM?is=QEytXlsgtVHmqKc1
