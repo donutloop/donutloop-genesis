@@ -1,4 +1,4 @@
-**Version**: 1.2.1
+**Version**: 1.2.2
 
 # Die Genesis-Mission: Architektur, strategische Initiativen und das multi-institutionelle Ökosystem für KI- und quantengetriebene wissenschaftliche Entdeckungen
 
@@ -245,7 +245,7 @@ Ein bestimmendes Merkmal der Genesis-Mission ist ihr sektorübergreifendes Betri
 * **Atomic Canyon:** KI-gestützte Kernenergieforschungsplattformen (**NeutronAI**), spezialisierte Kernenergie-Basismodelle, semantische Suchmaschinen für Multi-Terabyte-NRC-Regulierungsdokumente und nukleare Wissensgraphen, die am INL und ORNL eingesetzt werden, um die SMR-Lizenzierung (Small Modular Reactor) und die Sicherheitsmodellierung fortschrittlicher Reaktoren zu beschleunigen.
 * **AVEVA:** Industrielle Softwareplattformen für Unternehmen, CONNECT-Industrial-Cloud-Integration, SCADA-Telemetrieinfrastrukturen und digitale Echtzeit-Betriebszwillinge für saubere Energie, Fusionsreaktoren (PPPL) und Kernforschungsanlagen (INL).
 * **Chemspeed Technologies:** Automatisierte chemische Synthese-Arbeitsstationen (**SWING**, **ISYNTH**), Roboterplattformen für Parallelreaktions-Screening mit hohem Durchsatz und automatisierte Dosierungsmodule für flüssige/feste Stoffe zum Antrieb geschlossener selbstfahrender Labore in allen DOE National Laboratories (LBNL, ANL, PNNL).
-* **Collins Aerospace:** Fortschrittliche Mikroelektronik, strahlungsgehärtete Substrate und Sensorsysteme für extreme Umgebungen.
+* **Collins Aerospace:** Fortschrittliches Mikroelektronik-Packaging, strahlungsgehärtete Avionik-Rechensubstrate (SiC/GaN), Hochtemperatur-Sensorsysteme für extreme Umgebungen und autonome Luft- und Raumfahrt-Edge-KI-Architekturen, die gemeinsam mit Sandia (SNL) und Lawrence Livermore (LLNL) entwickelt werden.
 * **ComEd (Commonwealth Edison):** Intelligente Netzintegration, Quanten-in-the-Loop-Leistungsflusssimulation und urbane digitale Zwillinge.
 * **Cornelis Networks:** Hochleistungs-Omni-Path-Architektur (OPX) und Scale-out-Netzwerke für Exascale-Supercomputing.
 * **Critical Materials Recycling:** Rückgewinnung seltener Erden aus E-Schrott im Einklang mit den Zielen des Critical Materials Institute des DOE.

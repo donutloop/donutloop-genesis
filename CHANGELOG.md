@@ -7,6 +7,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
+## [1.2.2] - 2026-08-08
+
+### Changed
+- **Paper Enrichment (Entry #14 - Collins Aerospace)**: Processed reference entry #14 (`Collins Aerospace`, `www.collinsaerospace.com`). Enriched Section 3.1 C in `README.md` and `README.de.md` with explicit technical details on Collins Aerospace radiation-hardened avionics computing substrates (SiC/GaN), advanced microelectronics packaging, high-temperature extreme sensors, and autonomous aerospace edge AI architectures co-developed with SNL and LLNL.
+- **Index Status Update**: Marked Entry #14 status to `Processed` in `reference_coverage.md` and updated executive metrics to `14 / 337 Processed`.
+- **Version Bump**: Incremented patch version to `1.2.2` in `README.md` and `README.de.md`.
+
+---
+
 ## [1.2.1] - 2026-08-08
 
 ### Changed

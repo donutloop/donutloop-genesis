@@ -1,4 +1,4 @@
-**Version**: 1.2.1
+**Version**: 1.2.2
 
 # The Genesis Mission: Architecture, Strategic Initiatives, and the Multi-Institutional Ecosystem for AI and Quantum-Driven Scientific Discovery
 
@@ -245,7 +245,7 @@ A defining feature of the Genesis Mission is its multi-sector operational model 
 * **Atomic Canyon:** AI-driven nuclear energy research platforms (**NeutronAI**), specialized nuclear domain AI foundation models, multi-terabyte NRC regulatory document semantic search engines, and nuclear knowledge graphs deployed across INL and ORNL to accelerate SMR (Small Modular Reactor) licensing and advanced reactor safety modeling.
 * **AVEVA:** Enterprise industrial software platforms, CONNECT industrial cloud platform integration, SCADA telemetry infrastructure, and real-time operational digital twins deployed across clean energy, fusion reactors (PPPL), and nuclear research facilities (INL).
 * **Chemspeed Technologies:** Automated chemical synthesis workstation platforms (**SWING**, **ISYNTH**), high-throughput parallel reaction screening robotics, and automated liquid/solid dispensing modules driving closed-loop self-driving laboratories across DOE National Laboratories (LBNL, ANL, PNNL).
-* **Collins Aerospace:** Advanced microelectronics, radiation-hardened avionics computing substrates, and extreme-environment sensor systems.
+* **Collins Aerospace:** Advanced microelectronics packaging, radiation-hardened avionics computing substrates (SiC/GaN), extreme-environment high-temperature sensor systems, and autonomous aerospace edge AI architectures co-developed with Sandia (SNL) and Lawrence Livermore (LLNL).
 * **ComEd (Commonwealth Edison):** Smart grid integration, quantum-in-the-loop power flow simulation, and urban grid utility digital twins co-simulated at ANL and NREL.
 * **Cornelis Networks:** High-performance Omni-Path (OPX) fabric interconnect architecture and scale-out networking for exascale supercomputing and AI clusters.
 * **Critical Materials Recycling:** Secondary recovery of rare earth elements (REEs) from e-waste and industrial scrap aligned with DOE Critical Materials Institute goals.
