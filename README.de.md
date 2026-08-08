@@ -1,4 +1,4 @@
-**Version**: 1.4.26
+**Version**: 1.4.27
 
 # Die Genesis-Mission: Architektur, strategische Initiativen und das multi-institutionelle Ökosystem für KI- und quantengetriebene wissenschaftliche Entdeckungen
 
@@ -235,7 +235,7 @@ Ein bestimmendes Merkmal der Genesis-Mission ist ihr sektorübergreifendes Betri
 * **PsiQuantum:** Zusage von 100 Millionen US-Dollar im Rahmen einer Absichtserklärung (LOI) des CHIPS and Science Act zum Bau nutzenorientierter fehlertoleranter photonischer Quantencomputing-Hardware in der inländischen **PsiFactory**-Anlage in Milpitas, CA, Skalierung hochgeschwindigkeits-Bariumtitanat (BTO)-Optikschalter, hocheffizienter Einzelphotonendetektoren, verlustarmer Faser-zu-Chip-Verpackung und Silizium-Photonik-Fertigung in Partnerschaft mit GlobalFoundries für wissenschaftliche Modellierungen des DOE im Rahmen von Genesis.
 * **Quantinuum:** Zusage von 100 Millionen US-Dollar im Rahmen einer Absichtserklärung (LOI) des CHIPS and Science Act zur Skalierung fehlertoleranter QCCD (Quantum Charge-Coupled Device)-Ionenfallen-QPUs (**System Model H1** / **H2**-Serie), integrierter Optik, Oberflächen-Fallen-Mikrofabrikation und inländischem Gießerei-Packaging mit GlobalFoundries und Monarch Quantum bei gleichzeitiger Bereitstellung der **InQuanto**-Quantenchemieplattform in HPC-Supercomputern nationaler Laboratorien im Rahmen von Genesis.
 * **Rigetti Computing:** Zusage von bis zu 100 Millionen US-Dollar im Rahmen einer Absichtserklärung (LOI) des CHIPS and Science Act zur Skalierung kachelbarer Multi-Chip-supraleitender QPUs (**Ankaa-3**, **Novera**, **Lyra**-Plattformen), miniaturisierter kryogener Steuer- und Ausleseelektronik, 3D-Chip-Stapelung und Durchführung von DOE-Preisen für die Quantensimulation von Fusionsplasmaphysik, die gemeinsam mit LLNL und ORNL im Rahmen von Genesis entwickelt werden.
-* **Siemens:** Industrielle KI-Plattformen, Siemens Xcelerator Digital Twin Software und Smart-Grid-Automatisierung.
+* **Siemens:** Strategische Absichtserklärung (MOU) mit dem DOE zur Bereitstellung industrieller KI-Plattformen, **Siemens Xcelerator** Digital-Twin-Software, **MindSphere** industrieller IoT-Analytik, SCADA-Telemetrieinfrastruktur und Smart-Grid-Automatisierung in DOE-Anlagen für saubere Energie (NREL ARIES), Fusionsreaktoren (PPPL-ITER-Unterstützungssysteme) und Kernforschungseinrichtungen (INL) zur Echtzeit-Betriebsprozessoptimierung im Rahmen von Genesis.
 * **Synopsys:** Electronic Design Automation (EDA) Software-Stacks (DSO.ai, Custom Compiler, TCAD) und IP-Lizenzierung für fortschrittliche KI-Chips und Quantensteuerungs-ASICs.
 * **xLight:** Finalisierter 150-Millionen-Dollar-Preis im Rahmen des CHIPS Act (Juni 2026) und Fermilab-CRADA zum Bau eines Freie-Elektronen-Laser-Prototyps (FEL) bei Albany NanoTech für EUV-Halbleiterlithografie.
 

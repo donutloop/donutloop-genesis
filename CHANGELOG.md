@@ -7,6 +7,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
+## [1.4.27] - 2026-08-08
+
+### Changed
+- **Paper Enrichment (Entry #60 - Siemens)**: Processed reference entry #60 (`Siemens`, `www.siemens.com`). Enriched Section 3.1 B in `README.md` and `README.de.md` with explicit technical details on strategic DOE MOU deploying industrial AI platforms, **Siemens Xcelerator** digital twin software, **MindSphere** industrial IoT analytics, SCADA telemetry infrastructure, and smart grid automation across DOE clean energy facilities (NREL ARIES), fusion reactors (PPPL ITER support systems), and nuclear research facilities (INL) for real-time operational process optimization.
+- **Index Status Update**: Marked Entry #60 status to `Processed` in `reference_coverage.md` and updated executive metrics to `60 / 337 Processed`.
+- **Version Bump**: Incremented patch version to `1.4.27` in `README.md` and `README.de.md`.
+
+---
+
 ## [1.4.26] - 2026-08-08
 
 ### Changed
