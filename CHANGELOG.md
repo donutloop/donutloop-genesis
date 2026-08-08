@@ -7,6 +7,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
+## [1.3.8] - 2026-08-08
+
+### Changed
+- **Paper Enrichment (Entry #30 - Hugging Face)**: Processed reference entry #30 (`Hugging Face`, `huggingface.co`). Enriched Section 3.1 A in `README.md` and `README.de.md` with explicit technical details on hosting, curating, fine-tuning, and distributing open-source scientific foundation models, FAIR-compliant datasets, open benchmarks, and containerized execution environments on the **Hugging Face Hub** and **Inference Endpoints** across all 17 DOE National Laboratories.
+- **Index Status Update**: Marked Entry #30 status to `Processed` in `reference_coverage.md` and updated executive metrics to `30 / 337 Processed`.
+- **Version Bump**: Incremented patch version to `1.3.8` in `README.md` and `README.de.md`.
+
+---
+
 ## [1.3.7] - 2026-08-08
 
 ### Changed
