@@ -1,4 +1,4 @@
-**Version**: 1.4.18
+**Version**: 1.4.19
 
 # The Genesis Mission: Architecture, Strategic Initiatives, and the Multi-Institutional Ecosystem for AI and Quantum-Driven Scientific Discovery
 
@@ -264,7 +264,7 @@ A defining feature of the Genesis Mission is its multi-sector operational model 
 * **OLI Systems:** Deploying advanced Mixed-Solvent Electrolyte (MSE) thermodynamic chemistry simulation engines, electrolyte property modeling solvers, and phase equilibrium digital twins integrated with DOE Critical Materials Innovation Hub (CMI / Ames National Laboratory, INL, ORNL) workflows for AI-accelerated hydrometallurgical extraction, solvent purification, and critical mineral recovery under Genesis.
 * **Phoenix Tailings:** Deploying zero-carbon, zero-toxic-waste hydrometallurgical extraction and molten-salt electrolysis refining platforms integrated with AI chemical process modeling and DOE Critical Materials Innovation Hub (CMI / Ames National Laboratory, NETL, ORNL) digital twins for high-purity rare earth element (Nd, Dy, Pr, Tb) and critical metal recovery from industrial tailings under Genesis.
 * **PMT Critical Metals:** High-purity refractory metals processing (Tungsten, Molybdenum, Tantalum, Niobium), high-temperature superalloy powder metallurgy, and AI-driven alloy composition design co-developed with DOE National Laboratories (ORNL Manufacturing Demonstration Facility, Ames Laboratory, LANL) for strategic defense, nuclear reactor, and fusion energy applications under Genesis.
-* **Qubit (Qubit Inc.):** Quantum computing hardware control software, pulse-level QPU calibration, and hybrid classical-quantum algorithms.
+* **Qubit (Qubit Inc.):** Real-time quantum hardware control software, pulse-level QPU calibration drivers, microwave waveform synthesis engines, and hardware-agnostic compiler middleware integrated across DOE Quantum User Facilities (ORNL QCUP, LBNL NERSC, ANL Q-NEXT) for real-time error mitigation and hybrid classical-quantum execution under Genesis.
 * **RadiaSoft:** Open-source particle accelerator beam dynamics simulation software (Sirepo, Radia, Impact-T) and AI beamline emittance control.
 * **Ramaco (Ramaco Resources):** Coal-to-materials manufacturing, synthetic graphite anode production, and REE extraction from carbon deposits (Brook Mine).
 * **RTX (Raytheon Technologies):** High-power RF microelectronics, wide-bandgap semiconductors (GaN/SiC), and directed energy quantum sensors.

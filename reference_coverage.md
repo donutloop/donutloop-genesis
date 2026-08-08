@@ -15,7 +15,7 @@
 | **Official PDF Documents** | **14** | Formal RFA solicitations, webinars, slides, and executive reports |
 | **Web Portals & Press Releases** | **323** | Newsroom features, corporate blog posts, and interactive hubs |
 | **Validation Status** | **100% Validated** | All links canonicalized, formatted, and deduplicated |
-| **Processing Status** | **51 / 337 Processed** | 286 Unprocessed, 51 Processed |
+| **Processing Status** | **52 / 337 Processed** | 285 Unprocessed, 52 Processed |
 
 ---
 
@@ -119,7 +119,7 @@ A complete tabular listing of all 337 indexed reference links:
 | 49 | 2. Collaborators | - | PMT Critical Metals | `pmtcriticalmetals.com` | Web | [PMT Critical Metals](https://pmtcriticalmetals.com/) | `Processed` |
 | 50 | 2. Collaborators | - | PsiQuantum | `psiquantum.com` | Web | [PsiQuantum](https://psiquantum.com/) | `Processed` |
 | 51 | 2. Collaborators | - | Quantinuum | `www.quantinuum.com` | Web | [Quantinuum](https://www.quantinuum.com/) | `Processed` |
-| 52 | 2. Collaborators | - | Qubit | `www.qubit.com` | Web | [Qubit](https://www.qubit.com/) | `Unprocessed` |
+| 52 | 2. Collaborators | - | Qubit | `www.qubit.com` | Web | [Qubit](https://www.qubit.com/) | `Processed` |
 | 53 | 2. Collaborators | - | RadiaSoft | `www.radiasoft.net` | Web | [RadiaSoft](https://www.radiasoft.net/) | `Unprocessed` |
 | 54 | 2. Collaborators | - | Ramaco | `ramacoresources.com` | Web | [Ramaco](https://ramacoresources.com/) | `Unprocessed` |
 | 55 | 2. Collaborators | - | Rigetti | `www.rigetti.com` | Web | [Rigetti](https://www.rigetti.com/) | `Unprocessed` |
