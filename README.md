@@ -1,4 +1,4 @@
-**Version**: 1.4.30
+**Version**: 1.4.31
 
 # The Genesis Mission: Architecture, Strategic Initiatives, and the Multi-Institutional Ecosystem for AI and Quantum-Driven Scientific Discovery
 
@@ -270,7 +270,7 @@ A defining feature of the Genesis Mission is its multi-sector operational model 
 * **RTX (Raytheon Technologies):** Deploying high-power RF microelectronics, wide-bandgap semiconductors (GaN/SiC), quantum magnetometry sensors, and quantum communication network architectures (**Raytheon BBN**) co-developed with DOE National Laboratories (SNL, LLNL, ORNL) for extreme-environment defense edge computing under Genesis.
 * **Semiconductor Industry Association (SIA):** Coordinating domestic microelectronics policy across CHIPS and Science Act implementation, leading the **NSTC** (National Semiconductor Technology Center) workforce development pipeline, semiconductor supply chain resilience mapping, and strategic alignment of commercial foundry capacity (GlobalFoundries, Intel, TSMC Arizona) with DOE quantum hardware and AI chip manufacturing requirements under Genesis.
 * **TdVib (TdVib LLC):** World-leading supplier and manufacturer of **Terfenol-D** (Tb$_x$Dy$_{1-x}$Fe$_2$) giant magnetostrictive alloy — the highest room-temperature magnetostrictive material known — originally co-developed with **Ames National Laboratory** (DOE). TdVib provides custom-engineered magnetostrictive transducer elements, high-force linear actuators, and electromagnetic actuation systems for DOE National Laboratory instrumentation, including radiation-tolerant structural health monitoring (SHM) sensors for prototypic nuclear reactor environments at INL, precision sub-micron positioning actuators for synchrotron beamline optics alignment (ANL APS, SLAC LCLS-II, BNL NSLS-II), active vibration dampening isolation platforms for cryogenic quantum processor (QPU) enclosures, and high-power ultrasonic machining transducers for advanced materials processing under Genesis.
-* **Tennessee Valley Authority (TVA):** Small modular reactor (SMR) nuclear deployment (Clinch River site), public power grid decarbonization, and exascale energy co-simulation.
+* **Tennessee Valley Authority (TVA):** The nation's largest public power utility, providing grid-scale electricity to the ORNL campus and all Oak Ridge DOE facilities. TVA supplies the high-voltage power infrastructure energizing the **Frontier** exascale supercomputer (24.6 MW operational draw) and the planned **Discovery** system at OLCF. In December 2023, DOE and TVA signed a landmark **Memorandum of Understanding (MOU)** to deliver **100% locally supplied carbon pollution-free electricity (CFE)** to ORNL and the Y-12 National Security Complex by 2030. TVA is the designated site operator for the **Clinch River SMR** nuclear demonstration and collaborates with ORNL on advanced nuclear reactor computational modeling executed on exascale HPC platforms, 3D-printed reactor component deployment (Browns Ferry Nuclear Plant), and the **Bull Run Energy Complex** high-heat-flux fusion materials test facility established with the University of Tennessee and Type One Energy for validating plasma-facing materials under Genesis.
 
 ### 3.2 National Laboratories
 The DOE Office of Science directed funding across 17 primary national laboratory nodes, serving as federated compute, experimental, and co-design hubs:
@@ -506,7 +506,7 @@ Industry contributors span cloud and AI hyperscalers, semiconductor manufacturer
 | ComEd | Smart grid integration, quantum-in-the-loop power flow simulation & urban grid digital twins |
 | EPRI | Electric power research coordination, AI grid simulation toolkits & nuclear SMR licensing |
 | ISO New England | Regional power grid dispatch, dynamic transmission stability & quantum-safe grid cybersecurity |
-| Tennessee Valley Authority (TVA) | Federal power utility, Clinch River SMR nuclear demonstration & exascale grid co-simulation |
+| Tennessee Valley Authority (TVA) | Largest US public power utility, ORNL/Y-12 CFE MOU (100% carbon-free by 2030), Clinch River SMR, Frontier power supply, Bull Run fusion materials test facility & exascale reactor co-simulation |
 | GE Aerospace | Advanced aerospace propulsion, high-temperature ceramic matrix composites (CMCs) & combustion CFD |
 | MP Materials | Mountain Pass rare earth mining, NdPr magnet manufacturing & AI mineral separation |
 | Phoenix Tailings | Zero-waste critical mineral extraction from mining tailings & low-temperature clean refining |

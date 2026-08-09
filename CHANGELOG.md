@@ -7,6 +7,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
+## [1.4.31] - 2026-08-09
+
+### Changed
+- **Paper Enrichment (Entry #63 - Tennessee Valley Authority)**: Processed reference entry #63 (`Tennessee Valley Authority`, `www.tva.com`). Enriched Section 3.1 C and Appendix A in `README.md` and `README.de.md` with comprehensive technical details on TVA's role as the nation's largest public power utility providing grid-scale electricity to the ORNL campus and Frontier exascale supercomputer (24.6 MW), the December 2023 DOE–TVA **Memorandum of Understanding (MOU)** for 100% carbon pollution-free electricity (CFE) to ORNL and Y-12 by 2030, Clinch River SMR nuclear demonstration site operations, 3D-printed reactor component deployment at Browns Ferry Nuclear Plant, and the Bull Run Energy Complex high-heat-flux fusion materials test facility (University of Tennessee / Type One Energy).
+- **Index Status Update**: Marked Entry #63 status to `Processed` in `reference_coverage.md` and updated executive metrics to `63 / 351 Processed`.
+- **Version Bump**: Incremented patch version to `1.4.31` in `README.md` and `README.de.md`.
+
+---
+
 ## [1.4.30] - 2026-08-09
 
 ### Changed

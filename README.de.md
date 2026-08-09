@@ -1,4 +1,4 @@
-**Version**: 1.4.30
+**Version**: 1.4.31
 
 # Die Genesis-Mission: Architektur, strategische Initiativen und das multi-institutionelle Ökosystem für KI- und quantengetriebene wissenschaftliche Entdeckungen
 
@@ -270,7 +270,7 @@ Ein bestimmendes Merkmal der Genesis-Mission ist ihr sektorübergreifendes Betri
 * **RTX (Raytheon Technologies):** Bereitstellung von Hochleistungs-RF-Mikroelektronik, Halbleitern mit breiter Bandlücke (GaN/SiC), Quantenmagnetometriesensoren und Quantenkommunikationsnetzwerk-Architekturen (**Raytheon BBN**), die gemeinsam mit DOE National Laboratories (SNL, LLNL, ORNL) für Defense Edge Computing in extremen Umgebungen im Rahmen von Genesis entwickelt werden.
 * **Semiconductor Industry Association (SIA):** Koordination der inländischen Mikroelektronik-Politik im Rahmen der CHIPS and Science Act-Umsetzung, Leitung der **NSTC**-Arbeitskräfteentwicklungspipeline (National Semiconductor Technology Center), Kartierung der Halbleiter-Lieferkettenresilienz und strategische Abstimmung kommerzieller Gießereikapazitäten (GlobalFoundries, Intel, TSMC Arizona) mit den Anforderungen des DOE an Quantenhardware- und KI-Chip-Fertigung im Rahmen von Genesis.
 * **TdVib (TdVib LLC):** Weltweit führender Lieferant und Hersteller der **Terfenol-D**-Legierung (Tb$_x$Dy$_{1-x}$Fe$_2$) — dem Material mit der höchsten bekannten Magnetostriktion bei Raumtemperatur — ursprünglich gemeinsam mit dem **Ames National Laboratory** (DOE) entwickelt. TdVib liefert maßgeschneiderte magnetostriktive Wandlerelemente, Hochkraft-Linearaktuatoren und elektromagnetische Betätigungssysteme für die Instrumentierung der DOE National Laboratories, darunter strahlungstolerante Strukturgesundheitsüberwachungssensoren (SHM) für prototypische Kernreaktorumgebungen am INL, Präzisions-Sub-Mikrometer-Positionierungsaktuatoren für die Ausrichtung von Synchrotron-Strahlrohr-Optiken (ANL APS, SLAC LCLS-II, BNL NSLS-II), aktive Schwingungsdämpfungs-Isolationsplattformen für kryogene Quantenprozessor-Gehäuse (QPU) und Hochleistungs-Ultraschallbearbeitungswandler für fortschrittliche Materialverarbeitung im Rahmen von Genesis.
-* **Tennessee Valley Authority (TVA):** Einsatz kleiner modularer Reaktoren (SMR) (Standort Clinch River) und Netz-Dekarbonisierung.
+* **Tennessee Valley Authority (TVA):** Das größte öffentliche Energieversorgungsunternehmen der USA, das die Netzstromversorgung für den ORNL-Campus und alle DOE-Einrichtungen in Oak Ridge bereitstellt. TVA liefert die Hochspannungs-Energieinfrastruktur für den Betrieb des **Frontier**-Exascale-Supercomputers (24,6 MW Betriebsleistung) und des geplanten **Discovery**-Systems am OLCF. Im Dezember 2023 unterzeichneten DOE und TVA ein wegweisendes **Memorandum of Understanding (MOU)** zur Lieferung von **100 % lokal erzeugtem kohlenstofffreiem Strom (CFE)** an ORNL und den Y-12 National Security Complex bis 2030. TVA ist der designierte Standortbetreiber für die **Clinch River SMR**-Nukleardemonstration und kooperiert mit ORNL an der computergestützten Modellierung fortschrittlicher Kernreaktoren auf Exascale-HPC-Plattformen, dem Einsatz 3D-gedruckter Reaktorkomponenten (Kernkraftwerk Browns Ferry) sowie der Hochtemperatur-Fusionsmaterial-Testanlage am **Bull Run Energy Complex**, die gemeinsam mit der University of Tennessee und Type One Energy zur Validierung plasmabelasteter Materialien im Rahmen von Genesis eingerichtet wurde.
 
 ### 3.2 Nationale Laboratorien (National Laboratories)
 Das DOE Office of Science leitet die Finanzierung über 17 primäre nationale Laborknotenpunkte:
@@ -481,7 +481,7 @@ Die Genesis-Mission zeichnet sich durch die Breite ihrer sektorübergreifenden K
 | ComEd | Smart-Grid-Integration, Quanten-in-the-Loop-Leistungsflusssimulation & urbane digitale Netzzwillinge |
 | EPRI | Elektrizitätsforschungskoordination, KI-Netzsimulations-Toolkits & SMR-Kernreaktorlizenzierung |
 | ISO New England | Regionaler Stromnetz-Dispatch, dynamische Übertragungsstabilität & quantensichere Cybersicherheit |
-| Tennessee Valley Authority (TVA) | Bundes-Energieversorger, Clinch River SMR-Demonstration & Exascale-Netz-Co-Simulation |
+| Tennessee Valley Authority (TVA) | Größter öffentlicher US-Energieversorger, ORNL/Y-12 CFE-MOU (100 % kohlenstofffrei bis 2030), Clinch River SMR, Frontier-Stromversorgung, Bull Run Fusionsmaterial-Testanlage & Exascale-Reaktor-Co-Simulation |
 | GE Aerospace | Fortschrittlicher Luft- und Raumfahrtantrieb, Keramikmatrix-Verbundwerkstoffe (CMCs) & Verbrennungs-CFD |
 | MP Materials | Abbau seltener Erden (Mountain Pass), NdPr-Magnetherstellung & KI-Mineraltrennung |
 | Phoenix Tailings | Abfallfreie Extraktion kritischer Mineralien aus Bergbau-Rückständen & saubere Raffination |
