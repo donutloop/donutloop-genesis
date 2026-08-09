@@ -431,3 +431,4 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
 wip: 
 
 https://www.nsf.gov/news/new-nsf-initiative-aims-unlock-dataset-value-ai-enabled
+https://www.usda.gov/about-usda/news/press-releases/2026/07/22/usda-asks-partners-develop-ai-solutions-accelerate-crop-innovation
