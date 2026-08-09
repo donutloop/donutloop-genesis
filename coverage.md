@@ -75,7 +75,7 @@
 | 35 | RTX | ✅ Full Profile | §3.1, A.3 | RF microelectronics, wide-bandgap semiconductors, quantum sensing & aerospace multi-physics CFD |
 | 36 | Semiconductor Industry Association | ✅ Full Profile | §3.1, A.3 | CHIPS Act microelectronics policy coordination, workforce development & supply chain strategy |
 | 37 | Siemens | ✅ Full Profile | §3.1, A.3 | Industrial AI software, Xcelerator digital twins, DOE strategic MOU & smart grid automation |
-| 38 | Synopsys | ✅ Full Profile | §3.1, A.3 | Electronic design automation (EDA) tooling, AI-driven DSO.ai chip optimization & TCAD physics solvers |
+| 38 | Synopsys | ✅ Full Profile | §3.1, A.3 | Synopsys.ai EDA platform (DSO.ai, VSO.ai, TSO.ai, AgentEngineer™), Custom Compiler, TCAD, PrimeTime & HAV emulation for AI chips and quantum control ASICs |
 | 39 | xLight | ✅ Full Profile | §3.1, A.3 | $150M CHIPS Act; FEL EUV lithography; Fermilab CRADA |
 
 ---

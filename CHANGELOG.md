@@ -7,6 +7,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
+## [1.4.29] - 2026-08-09
+
+### Changed
+- **Paper Enrichment (Entry #61 - Synopsys)**: Processed reference entry #61 (`Synopsys`, `www.synopsys.com`). Enriched Section 3.1 B in `README.md` and `README.de.md` with explicit technical details on the **Synopsys.ai** unified electronic design automation (EDA) platform encompassing **DSO.ai** (Design Space Optimization) for autonomous PPA exploration, **VSO.ai** (Verification Space Optimization) for AI-driven coverage convergence, **TSO.ai** (Test Space Optimization) for automated test program generation, and **AgentEngineer™** fully autonomous agentic RTL design/debug workflows, alongside **Custom Compiler** analog/mixed-signal layout environments for cryogenic quantum control ASIC design, **TCAD** process/device physics simulators, **PrimeTime** static timing analysis engines, and software-defined hardware-assisted verification (HAV) emulation platforms deployed across CHIPS Act quantum foundries (GlobalFoundries, IBM Quantum) and DOE National Laboratory microelectronics R&D pipelines (SNL, Fermilab, ANL).
+- **Index Status Update**: Marked Entry #61 status to `Processed` in `reference_coverage.md` and updated executive metrics to `61 / 351 Processed`.
+- **Version Bump**: Incremented patch version to `1.4.29` in `README.md` and `README.de.md`.
+
+---
+
 ## [1.4.28] - 2026-08-09
 
 ### Changed

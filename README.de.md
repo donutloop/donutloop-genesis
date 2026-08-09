@@ -1,4 +1,4 @@
-**Version**: 1.4.28
+**Version**: 1.4.29
 
 # Die Genesis-Mission: Architektur, strategische Initiativen und das multi-institutionelle Ökosystem für KI- und quantengetriebene wissenschaftliche Entdeckungen
 
@@ -236,7 +236,7 @@ Ein bestimmendes Merkmal der Genesis-Mission ist ihr sektorübergreifendes Betri
 * **Quantinuum:** Zusage von 100 Millionen US-Dollar im Rahmen einer Absichtserklärung (LOI) des CHIPS and Science Act zur Skalierung fehlertoleranter QCCD (Quantum Charge-Coupled Device)-Ionenfallen-QPUs (**System Model H1** / **H2**-Serie), integrierter Optik, Oberflächen-Fallen-Mikrofabrikation und inländischem Gießerei-Packaging mit GlobalFoundries und Monarch Quantum bei gleichzeitiger Bereitstellung der **InQuanto**-Quantenchemieplattform in HPC-Supercomputern nationaler Laboratorien im Rahmen von Genesis.
 * **Rigetti Computing:** Zusage von bis zu 100 Millionen US-Dollar im Rahmen einer Absichtserklärung (LOI) des CHIPS and Science Act zur Skalierung kachelbarer Multi-Chip-supraleitender QPUs (**Ankaa-3**, **Novera**, **Lyra**-Plattformen), miniaturisierter kryogener Steuer- und Ausleseelektronik, 3D-Chip-Stapelung und Durchführung von DOE-Preisen für die Quantensimulation von Fusionsplasmaphysik, die gemeinsam mit LLNL und ORNL im Rahmen von Genesis entwickelt werden.
 * **Siemens:** Strategische Absichtserklärung (MOU) mit dem DOE zur Bereitstellung industrieller KI-Plattformen, **Siemens Xcelerator** Digital-Twin-Software, **MindSphere** industrieller IoT-Analytik, SCADA-Telemetrieinfrastruktur und Smart-Grid-Automatisierung in DOE-Anlagen für saubere Energie (NREL ARIES), Fusionsreaktoren (PPPL-ITER-Unterstützungssysteme) und Kernforschungseinrichtungen (INL) zur Echtzeit-Betriebsprozessoptimierung im Rahmen von Genesis.
-* **Synopsys:** Electronic Design Automation (EDA) Software-Stacks (DSO.ai, Custom Compiler, TCAD) und IP-Lizenzierung für fortschrittliche KI-Chips und Quantensteuerungs-ASICs.
+* **Synopsys:** Einsatz der einheitlichen **Synopsys.ai** Electronic Design Automation (EDA)-Plattform in den Halbleiter-Design-Pipelines der Genesis-Mission, bestehend aus **DSO.ai** (Design Space Optimization) für autonome Leistungs-Flächen-Stromverbrauch-Exploration (PPA) mit bis zu 25% Verbesserung der Chipdesign-Metriken, **VSO.ai** (Verification Space Optimization) für KI-gesteuerte Coverage-Konvergenz und Ursachenanalyse mit bis zu 20% zusätzlicher Verifikationsabdeckung, **TSO.ai** (Test Space Optimization) für automatisierte Testprogrammgenerierung zur Maximierung der Fehlererkennungsrate und **AgentEngineer™** vollautonome agentische Arbeitsabläufe mit bis zu 50-fach schnellerer Zeit bis zu validiertem RTL und 20–40% Reduzierung der Debug-Zykluszeiten. Ergänzende Werkzeuge umfassen **Custom Compiler** Analog/Mixed-Signal-Layoutumgebungen für die präzise Entwicklung kryogener Quantensteuerungs-ASICs, **TCAD** (Technology CAD) Prozess- und Bauelement-Physiksimulatoren für Sub-Nanometer-Transistormodellierung, **PrimeTime** statische Timing-Analyse-Engines und softwaregesteuerte Hardware-Assisted Verification (HAV)-Emulationsplattformen für Milliarden-Gate-KI-Chiparchitekturen. Synopsys IP-Lizenzierung und siliziumgeprüfte Designblöcke untermauern fortschrittliche Node-Tape-Outs bei CHIPS-Act-Quantengießereien (GlobalFoundries, IBM Quantum) und F&E-Pipelines für Mikroelektronik der DOE National Laboratories (SNL, Fermilab, ANL) im Rahmen von Genesis.
 * **xLight:** Finalisierter 150-Millionen-Dollar-Preis im Rahmen des CHIPS Act (Juni 2026) und Fermilab-CRADA zum Bau eines Freie-Elektronen-Laser-Prototyps (FEL) bei Albany NanoTech für EUV-Halbleiterlithografie.
 
 #### C. Industrietechnologie-, Energie-, Material- & Infrastrukturpartner
@@ -461,7 +461,7 @@ Die Genesis-Mission zeichnet sich durch die Breite ihrer sektorübergreifenden K
 | :--- | :--- |
 | GlobalFoundries | 375M$ Quantengießerei; GF Labs; GlobalShuttle™ MPW; Silizium-Photonik |
 | Applied Materials | Geräte zur Herstellung von Halbleiter-Wafern, Materialtechnik, 3D-Verpackung & Quantenmaterialabscheidung |
-| Synopsys | Electronic Design Automation (EDA) Tools, KI-gestützte DSO.ai Chip-Optimierung & TCAD-Physiklöser |
+| Synopsys | Synopsys.ai EDA-Plattform (DSO.ai, VSO.ai, TSO.ai, AgentEngineer™), Custom Compiler, TCAD, PrimeTime & HAV-Emulation für KI-Chips und Quantensteuerungs-ASICs |
 | Siemens | Industrielle KI-Software, Xcelerator digitale Zwillinge, strategische DOE-Absichtserklärung & Smart-Grid-Automatisierung |
 | Micron | Speicher mit hoher Bandbreite (HBM3e/HBM4), CXL-Speichermodule & DRAM-F&E |
 | Nokia | Optische Netzwerk-Backbones, kritische 5G/6G-Drahtlosinfrastruktur & Bell Labs Quantenoptik |
