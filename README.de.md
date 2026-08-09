@@ -1,4 +1,4 @@
-**Version**: 1.4.32
+**Version**: 1.4.33
 
 # Die Genesis-Mission: Architektur, strategische Initiativen und das multi-institutionelle Ökosystem für KI- und quantengetriebene wissenschaftliche Entdeckungen
 
@@ -126,7 +126,7 @@ Die Mission integriert führende Supercomputing-Knoten in ein föderiertes Ausf�
 * **FAIR-Wissenschafts-Datenautobahnen:** Die 83-Millionen-Dollar-Investition der NSF etabliert grundlegende Datenpipelines und standardisierte FAIR-konforme Daten-Repositories (Findable, Accessible, Interoperable, Reusable), die in der Lage sind, experimentelle Datenströme im Petabyte-Bereich in Echtzeit von Synchrotrons (NSLS-II, APS), Teilchenbeschleunigern (LHC, CEBAF) und Fusionsreaktoren (DIII-D, NSTX-U) zu erfassen.
 
 ### 2.2 Quantenführerschaft und CHIPS Act Infrastruktur
-Um die Quantenüberlegenheit in fehlertoleranten Regimes zu etablieren, hat das DOE **2 Milliarden US-Dollar für den Einsatz fehlertoleranter Quantencomputer** bereitgestellt, ergänzt durch **2 Milliarden US-Dollar an Absichtserklärungen (LOIs) des Handelsministeriums (NIST)** im Rahmen des CHIPS and Science Act.
+Um die Quantenüberlegenheit in fehlertoleranten Regimes zu etablieren, hat das DOE **2 Milliarden US-Dollar für den Einsatz fehlertoleranter Quantencomputer** bereitgestellt, ergänzt durch **2,013 Milliarden US-Dollar an Absichtserklärungen (Letters of Intent) des Handelsministeriums** mit 9 Unternehmen, angekündigt vom **NIST am 21. Mai 2026** im Rahmen des CHIPS and Science Act **CHIPS Xcelerate 2X**-Programms. Die Bundesinvestition zielt auf 2 Quantengießereien (IBM, GlobalFoundries) und 7 Quantencomputing-Unternehmen ab, die supraleitende, Ionenfallen-, photonische, Neutralatom- und Silizium-Spin-Modalitäten abdecken. Im Rahmen der LOI-Bedingungen sichert sich das Handelsministerium eine **Minderheits-Eigenkapitalbeteiligung ohne Kontrolle** an jedem der 7 Quantencomputing-Empfänger. Zwei ergänzende **Executive Orders** vom 22. Juni 2026 beschleunigen den Einsatz fehlertoleranter Quantencomputer für wissenschaftliche Anwendungen und verordnen nationale Vorsorge gegen quantengestützte kryptografische Bedrohungen.
 
 | Organisation / Unternehmen | Geplante Finanzierung / LOI | Primärer strategischer Umfang & technische Modalität |
 | :--- | :--- | :--- |
