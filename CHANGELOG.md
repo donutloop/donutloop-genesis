@@ -7,6 +7,23 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
+## [1.4.28] - 2026-08-09
+
+### Changed
+- **WIP Reference Integration**: Processed all 21 raw links from the `references.md` WIP scratchpad section. Integrated 19 valid entries into their correct sections; skipped 2 duplicates.
+- **New References Integrated**:
+  - **Section 4 (Executive & Partner Announcements):** Added [Domino Data Lab: Domino Joins Genesis Mission Consortium](https://domino.ai/press-releases/genesis-consortium).
+  - **Section 5 (Universities — New Entries):** Added **George Mason University** and **Oklahoma State University** as new university entries.
+  - **Section 5 (Universities — Expanded Entries):** Extended **University of Maine** (+1 MAFES link), **University of Wisconsin–Madison** (+1 engineering link), and **University of Utah** (+9 new links covering College of Science, Price Engineering, SCI, RAI Aurora Cloud Lab, AtTheU, and research funding items).
+- **Deduplication Results (2 Skipped)**:
+  - `https://www.research.utah.edu/funding-item/genesis-mission-a-major-new-doe-initiative-to-watch/` — duplicate of existing entry at University of Utah (line 392).
+  - `https://www.research.utah.edu/research-impact/university-of-utah-selected-for-multiple-u-s-department-of-energy-genesis-mission-awards/` — duplicate of existing entry at University of Utah (line 391).
+- **Scratchpad Decommissioned**: Cleared the temporary `WIP` section from `references.md`.
+- **Version Bump**: Incremented patch version to `1.4.28` in `README.md` and `README.de.md`.
+- **Coverage Tracker Extended**: Added 3 new entities to `coverage.md` as `❌ Not Covered`: **Domino Data Lab** (Industry Partners), **George Mason University** and **Oklahoma State University** (Universities). Updated entity totals (148→151), summary tables, and coverage percentages (100%→98%).
+
+---
+
 ## [1.4.27] - 2026-08-08
 
 ### Changed

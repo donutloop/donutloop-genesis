@@ -1,9 +1,9 @@
 # Genesis Mission — Full Ecosystem Coverage Tracker
 
 > **Scope & Coverage Definition:**
-> - **Flagship Consortium Scope:** Tracks **all 148 primary flagship participants**—lead contractors, federal agencies, national laboratories, awardee universities, and strategic industrial partners—explicitly profiled in the Genesis Mission paper (`README.md`).
+> - **Flagship Consortium Scope:** Tracks **all 151 primary flagship participants**—lead contractors, federal agencies, national laboratories, awardee universities, and strategic industrial partners—explicitly profiled or referenced in the Genesis Mission paper (`README.md`) and reference index.
 > - **Broader National Awardee Network Context:** Under solicitation DE-FOA-0003612 and interagency challenges, the broader national initiative encompasses **342 total participating institutions** (157 companies, 142 universities, 16 national labs, 13 non-profits, 14 other entities across 278 projects).
-> - **Coverage Status:** **148 / 148 (100%)** of the primary flagship consortium entities have dedicated, detailed technical profiles.
+> - **Coverage Status:** **148 / 151 (98%)** of the tracked consortium entities have dedicated, detailed technical profiles. 3 newly referenced entities await full profile integration.
 
 **Legend:**
 - ✅ **Full Profile** — Dedicated section with detailed technical write-up (Sections 2.2 / 3.1 / 3.2 / 3.3 / 3.4 / 3.5)
@@ -27,6 +27,7 @@
 | 9 | NVIDIA | ✅ Full Profile | §2.1, §3.1 | Solstice/Equinox; Apollo models; Omniverse; edge AI |
 | 10 | Oracle | ✅ Full Profile | §3.1 | Enterprise cloud; HPC database infrastructure |
 | 11 | SambaNova Systems | ✅ Full Profile | §2.1, §3.1, A.3 | Reconfigurable Dataflow Architecture (RDUs); high-throughput AI inference; ALCF deployment |
+| 12 | Domino Data Lab | ❌ Not Covered | — | Genesis Mission Consortium member; enterprise MLOps data science platform (reference only) |
 
 ---
 
@@ -216,6 +217,8 @@
 | 142 | University of Wisconsin–Madison | ✅ Full Profile | §3.3, A.5 | Fusion plasma stellarator physics, quantum dot QPU architectures & clean energy AI |
 | 143 | Virginia Tech | ✅ Full Profile | §3.3, A.5 | Cyber-physical power grid security, high-temperature composite materials & SciML |
 | 144 | Yale University | ✅ Full Profile | §3.3, A.5 | Superconducting cavity QED quantum architecture, QIS error mitigation & molecular AI |
+| 145 | George Mason University | ❌ Not Covered | — | DOE Genesis award for breakthrough AI-HPC research (reference only) |
+| 146 | Oklahoma State University | ❌ Not Covered | — | Selected for DOE Genesis Mission initiative (reference only) |
 
 ---
 
@@ -223,10 +226,10 @@
 
 | # | Organization | Coverage | Paper Section | Notes |
 |---|-------------|----------|---------------|-------|
-| 145 | AI Tennessee Initiative | ✅ Full Profile | §3.5, A.5 | Statewide AI research coordination (UT System / ORNL), Frontier exascale AI workforce & AgTech AI |
-| 146 | RTI International | ✅ Full Profile | §3.5, A.5 | Environmental risk AI modeling, carbon capture technology scaling & life-cycle assessment engines |
-| 147 | Cleveland Clinic | ✅ Full Profile | §2.3B, §3.1, §3.5, A.5 | ORNL–Cleveland Clinic–IBM FLiBe fusion quantum chemistry pipeline & biomedical AI discovery |
-| 148 | Johns Hopkins University APL (JHU APL) | ✅ Full Profile | §3.1, §3.5, A.5 | Autonomous self-driving materials synthesis labs (MSFT Discovery partner) & defense alloys |
+| 147 | AI Tennessee Initiative | ✅ Full Profile | §3.5, A.5 | Statewide AI research coordination (UT System / ORNL), Frontier exascale AI workforce & AgTech AI |
+| 148 | RTI International | ✅ Full Profile | §3.5, A.5 | Environmental risk AI modeling, carbon capture technology scaling & life-cycle assessment engines |
+| 149 | Cleveland Clinic | ✅ Full Profile | §2.3B, §3.1, §3.5, A.5 | ORNL–Cleveland Clinic–IBM FLiBe fusion quantum chemistry pipeline & biomedical AI discovery |
+| 150 | Johns Hopkins University APL (JHU APL) | ✅ Full Profile | §3.1, §3.5, A.5 | Autonomous self-driving materials synthesis labs (MSFT Discovery partner) & defense alloys |
 
 ---
 
@@ -236,20 +239,20 @@
 
 | Entity Type | Total | ✅ Full | 📋 Brief | ❌ Not Covered |
 |:---|:---:|:---:|:---:|:---:|
-| Industry Partners | 61 | 61 | 0 | 0 |
+| Industry Partners | 62 | 61 | 0 | 1 |
 | Federal Agencies | 9 | 9 | 0 | 0 |
 | National Laboratories | 17 | 17 | 0 | 0 |
-| Universities | 57 | 57 | 0 | 0 |
+| Universities | 59 | 57 | 0 | 2 |
 | Additional Research Orgs | 4 | 4 | 0 | 0 |
-| **Total** | **148** | **148** | **0** | **0** |
+| **Total** | **151** | **148** | **0** | **3** |
 
 ### By Coverage Level
 
 | Coverage Level | Count | Percentage |
 |:---|:---:|:---:|
-| ✅ Full Profile | 148 | 100% |
+| ✅ Full Profile | 148 | 98% |
 | 📋 Brief Mention | 0 | 0% |
-| ❌ Not Covered | 0 | 0% |
-| **Total Entities** | **148** | **100%** |
+| ❌ Not Covered | 3 | 2% |
+| **Total Entities** | **151** | **100%** |
 
-> **Note:** All 148 primary flagship Genesis Mission ecosystem participants—representing 100% of the lead industrial signatories, federal agencies, national laboratories, awardee research universities, and specialized institutes in our reference directory—have dedicated, detailed technical write-ups. The broader sub-grantee network of 342 participating institutions represents secondary academic and sub-contractor nodes across the 278 national project awards.
+> **Note:** 148 of 151 tracked Genesis Mission ecosystem participants have dedicated, detailed technical write-ups. 3 newly referenced entities (Domino Data Lab, George Mason University, Oklahoma State University) have been indexed via `references.md` and await full profile integration into the README papers. The broader sub-grantee network of 342 participating institutions represents secondary academic and sub-contractor nodes across the 278 national project awards.

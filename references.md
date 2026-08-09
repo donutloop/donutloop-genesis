@@ -211,6 +211,7 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
 * [DOE Office of Science: Genesis Mission RFA Awards List (PDF)](https://science.osti.gov/-/media/funding/pdf/Awards-Lists/2026/GM-RFA-Awards-List.pdf)
 * [House Committee on Science, Space, and Technology: Ranking Member Ross Opening Statement at Hearing on the Genesis Mission](https://democrats-science.house.gov/news/press-releases/ranking-member-ross-opening-statement-at-hearing-on-the-genesis-mission)
 * DOE Interactive Portal: [Genesis Mission Official Interactive Demonstration Hub](https://www.energy.gov/genesis-mission-demonstration)
+* [Domino Data Lab: Domino Joins Genesis Mission Consortium](https://domino.ai/press-releases/genesis-consortium)
   
 ---
 
@@ -368,7 +369,9 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
 * **University of Florida:** [Receives Genesis Mission Grant](https://news.ufl.edu/2026/07/genesis-mission-grant/)
 * **University of Illinois Urbana-Champaign:** [Illinois-Led Team Selected for Award](https://news.illinois.edu/illinois-led-team-selected-for-doe-genesis-mission-award/)
 * **University of Kentucky:** [6 UK Researchers Selected for Historic Mission](https://uknow.uky.edu/research/6-uk-researchers-selected-historic-doe-genesis-mission)
-* **University of Maine:** [Team Selected to Advance AI in Underground Science](https://umaine.edu/news/2026/07/umaine-led-team-selected-for-inaugural-doe-genesis-mission-to-advance-ai-in-underground-science/)
+* **University of Maine:**
+  * [Team Selected to Advance AI in Underground Science](https://umaine.edu/news/2026/07/umaine-led-team-selected-for-inaugural-doe-genesis-mission-to-advance-ai-in-underground-science/)
+  * [MAFES: UMaine-Led Team Selected for Inaugural DOE Genesis Mission](https://umaine.edu/mafes/2026/08/03/umaine-led-team-selected-for-inaugural-doe-genesis-mission-to-advance-ai-in-underground-science/)
 * **University of Michigan:**
   * [Selected for Department of Energy Genesis Mission Initiative](https://news.umich.edu/u-m-selected-for-department-of-energy-genesis-mission-initiative/)
   * [The University Record: U-M Selected for Department of Energy Genesis Mission Initiative](https://record.umich.edu/articles/u-m-selected-for-department-of-energy-genesis-mission-initiative/)
@@ -390,7 +393,20 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
 * **University of Utah:**
   * [Selected for Multiple DOE Genesis Mission Awards](https://www.research.utah.edu/research-impact/university-of-utah-selected-for-multiple-u-s-department-of-energy-genesis-mission-awards/)
   * [Genesis Mission: A Major New DOE Initiative to Watch](https://www.research.utah.edu/funding-item/genesis-mission-a-major-new-doe-initiative-to-watch/)
-* **University of Wisconsin–Madison:** [5 Projects Receive Funding](https://news.wisc.edu/5-projects-at-uwmadison-aimed-at-transforming-science-and-energy-with-ai-receive-doe-genesis-mission-funding/)
+  * [College of Science: Researchers Selected for Multiple DOE Genesis Mission Awards](https://science.utah.edu/faculty/u-researchers-selected-for-multiple-doe-genesis-mission-awards/)
+  * [Price Engineering Researchers Among First Class of Genesis Mission Awardees](https://www.price.utah.edu/2026/07/22/price-engineering-researchers-among-first-class-of-genesis-mission-awardees)
+  * [SCI: Price Engineering Researchers Among First Class of Genesis Mission Awardees](https://sci.utah.edu/price-engineering-researchers-among-first-class-of-genesis-mission-awardees/)
+  * [Genesis Mission Call for Proposals](https://www.research.utah.edu/funding-item/genesis-call/)
+  * [U Selected for Elite National Network of AI-Driven Cloud Laboratories](https://attheu.utah.edu/science-technology/u-selected-for-elite-national-network-of-ai-driven-cloud-laboratories/)
+  * [From Parallel Play to True Collaboration: Where Funding Is Headed](https://www.research.utah.edu/funding-item/from-parallel-play-to-true-collaboration-where-funding-is-headed/)
+  * [College of Science: Aurora Project Faculty Research](https://science.utah.edu/faculty/faculty-research/aurora-project/)
+  * [RAI: Aurora Cloud Lab](https://rai.utah.edu/aurora-cloud-lab/)
+  * [Price Engineering: University of Utah Selected for Elite National Network of AI-Driven Cloud Laboratories](https://www.price.utah.edu/2026/07/22/university-of-utah-selected-for-elite-national-network-of-ai-driven-cloud-laboratories)
+* **George Mason University:** [Computer Scientist Receives DOE Genesis Award for Breakthrough AI-HPC Research](https://www.gmu.edu/news/2026-08/george-mason-computer-scientist-receives-doe-genesis-award-breakthrough-ai-hpc)
+* **Oklahoma State University:** [Selected for U.S. Department of Energy's Genesis Mission Initiative](https://news.okstate.edu/articles/engineering-architecture-technology/2026/oklahoma-state-university-selected-for-u.s.-department-of-energys-genesis-mission-initiative)
+* **University of Wisconsin–Madison:**
+  * [5 Projects Receive Funding](https://news.wisc.edu/5-projects-at-uwmadison-aimed-at-transforming-science-and-energy-with-ai-receive-doe-genesis-mission-funding/)
+  * [With DOE Genesis Mission Award, David Smith Is Making Real-Time Plasma Control Possible](https://engineering.wisc.edu/news/with-doe-genesis-mission-award-david-smith-is-making-real-time-plasma-control-possible/)
 * **Virginia Tech:** [Research Projects Selected for Genesis Mission](https://news.vt.edu/articles/2026/07/research-genesis-mission.html)
 * **Yale University:** [Researchers Receive Awards to Pursue AI Advances](https://news.yale.edu/2026/07/22/yale-researchers-receive-genesis-mission-awards-pursue-ai-advances)
 
@@ -412,28 +428,3 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
 * [DOE Office of Science (SCAC): DOE Genesis Mission Launched Presentation (PDF)](https://science.osti.gov/-/media/About/pdf/scac/meetings/2026/DOE-Genesis-Mission-Launched---2026-03-27.pdf)
 * [OSTP: OSTP Genesis Mission Science and Technology Challenges Document](https://www.energy.gov/documents/ostp-genesis-mission-science-and-technology-challenges)
 
-
-WIP:
-
-https://domino.ai/press-releases/genesis-consortium
-
-https://umaine.edu/mafes/2026/08/03/umaine-led-team-selected-for-inaugural-doe-genesis-mission-to-advance-ai-in-underground-science/
-
-https://engineering.wisc.edu/news/with-doe-genesis-mission-award-david-smith-is-making-real-time-plasma-control-possible/
-
-https://www.gmu.edu/news/2026-08/george-mason-computer-scientist-receives-doe-genesis-award-breakthrough-ai-hpc
-
-https://news.okstate.edu/articles/engineering-architecture-technology/2026/oklahoma-state-university-selected-for-u.s.-department-of-energys-genesis-mission-initiative
-
-
-https://www.research.utah.edu/funding-item/genesis-mission-a-major-new-doe-initiative-to-watch/
-https://science.utah.edu/faculty/u-researchers-selected-for-multiple-doe-genesis-mission-awards/
-https://www.price.utah.edu/2026/07/22/price-engineering-researchers-among-first-class-of-genesis-mission-awardees
-https://www.research.utah.edu/research-impact/university-of-utah-selected-for-multiple-u-s-department-of-energy-genesis-mission-awards/
-https://sci.utah.edu/price-engineering-researchers-among-first-class-of-genesis-mission-awardees/
-https://www.research.utah.edu/funding-item/genesis-call/
-https://attheu.utah.edu/science-technology/u-selected-for-elite-national-network-of-ai-driven-cloud-laboratories/
-https://www.research.utah.edu/funding-item/from-parallel-play-to-true-collaboration-where-funding-is-headed/
-https://science.utah.edu/faculty/faculty-research/aurora-project/
-https://rai.utah.edu/aurora-cloud-lab/
-https://www.price.utah.edu/2026/07/22/university-of-utah-selected-for-elite-national-network-of-ai-driven-cloud-laboratories
