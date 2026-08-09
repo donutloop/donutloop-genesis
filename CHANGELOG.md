@@ -7,6 +7,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
+## [1.4.35] - 2026-08-09
+
+### Changed
+- **Paper Enrichment (Entry #67 - GlobalFoundries)**: Processed reference entry #67 (GlobalFoundries, gf.com). Enriched Section 2.2 and Appendix A in README.md and README.de.md with comprehensive details on GlobalFoundries' new **Quantum Technology Solutions** business unit (May 2026), the **FDX platform** supporting 5 qubit modalities (superconducting, trapped-ion, silicon photonic, topological, silicon spin), expanded facility footprint (Malta NY + Essex Junction VT), cryogenic CMOS and superconducting heterogeneous interconnects, active engagements with Google Quantum AI/Microsoft/NVIDIA/PsiQuantum/Quantinuum/Diraq/Quantum Motion/Equal1, approximately **1% non-controlling DOC equity stake**, and the separate **$1.5 billion** CHIPS Act manufacturing expansion award.
+- **Index Status Update**: Marked Entry #67 status to Processed in reference_coverage.md and updated executive metrics to 67 / 351 Processed.
+- **Version Bump**: Incremented patch version to 1.4.35 in README.md and README.de.md.
+
+---
+
 ## [1.4.34] - 2026-08-09
 
 ### Changed
