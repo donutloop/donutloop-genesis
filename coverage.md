@@ -112,7 +112,7 @@
 | 58 | OLI Systems | ✅ Full Profile | §3.1, A.3 | Thermodynamic chemistry simulation engines, electrolyte modeling & hydrometallurgical extraction solvers |
 | 59 | Qubit | ✅ Full Profile | §3.1, A.3 | Quantum computing control software, pulse-level QPU calibration & hybrid classical-quantum algorithms |
 | 60 | RadiaSoft | ✅ Full Profile | §3.1, A.3 | Open-source particle accelerator simulation software (Sirepo, Radia), cloud GUIs & AI beamline control |
-| 61 | TdVib | ✅ Full Profile | §3.1, A.3 | Smart magnetostrictive materials, Terfenol-D transducers & dynamic vibration suppression for precision instruments |
+| 61 | TdVib | ✅ Full Profile | §3.1, A.3 | Terfenol-D giant magnetostrictive alloy (Ames Lab co-development), radiation-tolerant SHM sensors, precision beamline actuators & QPU vibration isolation |
 
 ---
 

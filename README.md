@@ -1,4 +1,4 @@
-**Version**: 1.4.29
+**Version**: 1.4.30
 
 # The Genesis Mission: Architecture, Strategic Initiatives, and the Multi-Institutional Ecosystem for AI and Quantum-Driven Scientific Discovery
 
@@ -269,7 +269,7 @@ A defining feature of the Genesis Mission is its multi-sector operational model 
 * **Ramaco (Ramaco Resources):** Coal-to-carbon materials manufacturing, synthetic graphite anode production for EV batteries, and AI-accelerated rare earth element (REE) and critical mineral extraction from domestic carbon deposits (**Brook Mine**) co-developed with DOE National Laboratories (NETL, ORNL, Ames CMI) under Genesis.
 * **RTX (Raytheon Technologies):** Deploying high-power RF microelectronics, wide-bandgap semiconductors (GaN/SiC), quantum magnetometry sensors, and quantum communication network architectures (**Raytheon BBN**) co-developed with DOE National Laboratories (SNL, LLNL, ORNL) for extreme-environment defense edge computing under Genesis.
 * **Semiconductor Industry Association (SIA):** Coordinating domestic microelectronics policy across CHIPS and Science Act implementation, leading the **NSTC** (National Semiconductor Technology Center) workforce development pipeline, semiconductor supply chain resilience mapping, and strategic alignment of commercial foundry capacity (GlobalFoundries, Intel, TSMC Arizona) with DOE quantum hardware and AI chip manufacturing requirements under Genesis.
-* **TdVib (TdVib LLC):** Smart magnetostrictive materials (Terfenol-D), active vibration dampening transducers, and precision positioning actuators.
+* **TdVib (TdVib LLC):** World-leading supplier and manufacturer of **Terfenol-D** (Tb$_x$Dy$_{1-x}$Fe$_2$) giant magnetostrictive alloy — the highest room-temperature magnetostrictive material known — originally co-developed with **Ames National Laboratory** (DOE). TdVib provides custom-engineered magnetostrictive transducer elements, high-force linear actuators, and electromagnetic actuation systems for DOE National Laboratory instrumentation, including radiation-tolerant structural health monitoring (SHM) sensors for prototypic nuclear reactor environments at INL, precision sub-micron positioning actuators for synchrotron beamline optics alignment (ANL APS, SLAC LCLS-II, BNL NSLS-II), active vibration dampening isolation platforms for cryogenic quantum processor (QPU) enclosures, and high-power ultrasonic machining transducers for advanced materials processing under Genesis.
 * **Tennessee Valley Authority (TVA):** Small modular reactor (SMR) nuclear deployment (Clinch River site), public power grid decarbonization, and exascale energy co-simulation.
 
 ### 3.2 National Laboratories
@@ -525,7 +525,7 @@ Industry contributors span cloud and AI hyperscalers, semiconductor manufacturer
 | RadiaSoft | Open-source particle accelerator simulation software (Sirepo, Radia), cloud GUIs & AI beamline control |
 | Atomic Canyon | AI-driven nuclear energy research platforms, regulatory document search (NeutronAI) & nuclear knowledge graphs |
 | Qubit | Quantum computing control software, pulse-level QPU calibration & hybrid classical-quantum algorithms |
-| TdVib | Smart magnetostrictive materials, Terfenol-D transducers & dynamic vibration suppression for precision instruments |
+| TdVib | Terfenol-D giant magnetostrictive alloy (Ames Lab co-development), radiation-tolerant SHM sensors, precision beamline actuators & QPU vibration isolation |
 | Esri | Enterprise GIS platforms, spatial analytics engines & spatial digital twins for Earth observation |
 | Accenture Federal Services | CM2US operating capability, federal AI systems integration & multi-agency program management |
 

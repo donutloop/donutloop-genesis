@@ -7,6 +7,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
+## [1.4.30] - 2026-08-09
+
+### Changed
+- **Paper Enrichment (Entry #62 - TdVib)**: Processed reference entry #62 (`TdVib`, `tdvib.com`). Enriched Section 3.1 C in `README.md` and `README.de.md` with explicit technical details on **Terfenol-D** (Tb$_x$Dy$_{1-x}$Fe$_2$) giant magnetostrictive alloy — the highest room-temperature magnetostrictive material known — originally co-developed with **Ames National Laboratory** (DOE), custom-engineered magnetostrictive transducer elements, high-force linear actuators, radiation-tolerant structural health monitoring (SHM) sensors for prototypic nuclear reactor environments (INL), precision sub-micron positioning actuators for synchrotron beamline optics alignment (ANL APS, SLAC LCLS-II, BNL NSLS-II), active vibration dampening isolation platforms for cryogenic QPU enclosures, and high-power ultrasonic machining transducers for advanced materials processing.
+- **Index Status Update**: Marked Entry #62 status to `Processed` in `reference_coverage.md` and updated executive metrics to `62 / 351 Processed`.
+- **Version Bump**: Incremented patch version to `1.4.30` in `README.md` and `README.de.md`.
+
+---
+
 ## [1.4.29] - 2026-08-09
 
 ### Changed

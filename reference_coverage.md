@@ -15,7 +15,7 @@
 | **Official PDF Documents** | **14** | Formal RFA solicitations, webinars, slides, and executive reports |
 | **Web Portals & Press Releases** | **337** | Newsroom features, corporate blog posts, and interactive hubs |
 | **Validation Status** | **100% Validated** | All links canonicalized, formatted, and deduplicated |
-| **Processing Status** | **61 / 351 Processed** | 290 Unprocessed, 61 Processed |
+| **Processing Status** | **62 / 351 Processed** | 289 Unprocessed, 62 Processed |
 
 ---
 
@@ -129,7 +129,7 @@ A complete tabular listing of all 351 indexed reference links:
 | 59 | 2. Collaborators | - | Semiconductor Industry Association | `www.semiconductors.org` | Web | [Semiconductor Industry Association](https://www.semiconductors.org/) | `Processed` |
 | 60 | 2. Collaborators | - | Siemens | `www.siemens.com` | Web | [Siemens](https://www.siemens.com/) | `Processed` |
 | 61 | 2. Collaborators | - | Synopsys | `www.synopsys.com` | Web | [Synopsys](https://www.synopsys.com/) | `Processed` |
-| 62 | 2. Collaborators | - | TdVib | `tdvib.com` | Web | [TdVib](https://tdvib.com/) | `Unprocessed` |
+| 62 | 2. Collaborators | - | TdVib | `tdvib.com` | Web | [TdVib](https://tdvib.com/) | `Processed` |
 | 63 | 2. Collaborators | - | Tennessee Valley Authority | `www.tva.com` | Web | [Tennessee Valley Authority](https://www.tva.com/) | `Unprocessed` |
 | 64 | 2. Collaborators | - | xLight | `xlight.ai` | Web | [xLight](https://xlight.ai/) | `Unprocessed` |
 | 65 | 3. Quantum Leadership & CHIPS Act Initiatives | - | Department of Commerce $2 Billion Letters of Intent Announcement (NIST) | `www.nist.gov` | Web | [Department of Commerce $2 Billion Letters of Intent Announcement (NIST)](https://www.nist.gov/news-events/news/2026/05/department-commerce-announces-letters-intent-9-companies-2-billion) | `Unprocessed` |

@@ -1,4 +1,4 @@
-**Version**: 1.4.29
+**Version**: 1.4.30
 
 # Die Genesis-Mission: Architektur, strategische Initiativen und das multi-institutionelle Ökosystem für KI- und quantengetriebene wissenschaftliche Entdeckungen
 
@@ -269,7 +269,7 @@ Ein bestimmendes Merkmal der Genesis-Mission ist ihr sektorübergreifendes Betri
 * **Ramaco (Ramaco Resources):** Kohle-zu-Kohlenstoff-Materialienherstellung, synthetische Graphitanodenproduktion für EV-Batterien und KI-beschleunigte Extraktion seltener Erden (REE) und kritischer Mineralien aus inländischen Kohlenstofflagerstätten (**Brook Mine**), die gemeinsam mit DOE National Laboratories (NETL, ORNL, Ames CMI) im Rahmen von Genesis entwickelt werden.
 * **RTX (Raytheon Technologies):** Bereitstellung von Hochleistungs-RF-Mikroelektronik, Halbleitern mit breiter Bandlücke (GaN/SiC), Quantenmagnetometriesensoren und Quantenkommunikationsnetzwerk-Architekturen (**Raytheon BBN**), die gemeinsam mit DOE National Laboratories (SNL, LLNL, ORNL) für Defense Edge Computing in extremen Umgebungen im Rahmen von Genesis entwickelt werden.
 * **Semiconductor Industry Association (SIA):** Koordination der inländischen Mikroelektronik-Politik im Rahmen der CHIPS and Science Act-Umsetzung, Leitung der **NSTC**-Arbeitskräfteentwicklungspipeline (National Semiconductor Technology Center), Kartierung der Halbleiter-Lieferkettenresilienz und strategische Abstimmung kommerzieller Gießereikapazitäten (GlobalFoundries, Intel, TSMC Arizona) mit den Anforderungen des DOE an Quantenhardware- und KI-Chip-Fertigung im Rahmen von Genesis.
-* **TdVib (TdVib LLC):** Intelligente magnetostriktive Materialien (Terfenol-D), aktive Schwingungsdämpfungswandler und Präzisionsaktuatoren.
+* **TdVib (TdVib LLC):** Weltweit führender Lieferant und Hersteller der **Terfenol-D**-Legierung (Tb$_x$Dy$_{1-x}$Fe$_2$) — dem Material mit der höchsten bekannten Magnetostriktion bei Raumtemperatur — ursprünglich gemeinsam mit dem **Ames National Laboratory** (DOE) entwickelt. TdVib liefert maßgeschneiderte magnetostriktive Wandlerelemente, Hochkraft-Linearaktuatoren und elektromagnetische Betätigungssysteme für die Instrumentierung der DOE National Laboratories, darunter strahlungstolerante Strukturgesundheitsüberwachungssensoren (SHM) für prototypische Kernreaktorumgebungen am INL, Präzisions-Sub-Mikrometer-Positionierungsaktuatoren für die Ausrichtung von Synchrotron-Strahlrohr-Optiken (ANL APS, SLAC LCLS-II, BNL NSLS-II), aktive Schwingungsdämpfungs-Isolationsplattformen für kryogene Quantenprozessor-Gehäuse (QPU) und Hochleistungs-Ultraschallbearbeitungswandler für fortschrittliche Materialverarbeitung im Rahmen von Genesis.
 * **Tennessee Valley Authority (TVA):** Einsatz kleiner modularer Reaktoren (SMR) (Standort Clinch River) und Netz-Dekarbonisierung.
 
 ### 3.2 Nationale Laboratorien (National Laboratories)
@@ -500,7 +500,7 @@ Die Genesis-Mission zeichnet sich durch die Breite ihrer sektorübergreifenden K
 | RadiaSoft | Open-Source-Teilchenbeschleuniger-Simulationssoftware (Sirepo, Radia), Cloud-GUIs & Strahlemittanzsteuerung |
 | Atomic Canyon | KI-gestützte Kernenergieforschungsplattformen, Suche in Regulierungsdokumenten (**NeutronAI**) & Wissensgraphen |
 | Qubit | Steuerungssoftware für Quantencomputing, Puls-Kalibrierung & hybrid-klassisch-quantenmechanische Algorithmen |
-| TdVib | Intelligente magnetostriktive Materialien, Terfenol-D-Wandler & schwingungsdämpfende Aktuatoren |
+| TdVib | Terfenol-D Riesen-Magnetostriktionslegierung (Ames-Lab-Co-Entwicklung), strahlungstolerante SHM-Sensoren, Präzisions-Strahlrohr-Aktuatoren & QPU-Schwingungsisolation |
 | Esri | Enterprise GIS-Plattformen, räumliche Analytics-Engines & räumliche digitale Zwillinge für die Erdforschung |
 | Accenture Federal Services | CM2US-Betriebsfähigkeit, Bundes-KI-Systemintegration & behördenübergreifendes Programmmanagement |
 
