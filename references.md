@@ -432,3 +432,4 @@ wip:
 
 https://www.nsf.gov/news/new-nsf-initiative-aims-unlock-dataset-value-ai-enabled
 https://www.usda.gov/about-usda/news/press-releases/2026/07/22/usda-asks-partners-develop-ai-solutions-accelerate-crop-innovation
+https://www.eng.auburn.edu/news/2026/08/molaei-genesis-mission.html
