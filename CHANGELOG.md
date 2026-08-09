@@ -7,6 +7,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
+## [1.4.32] - 2026-08-09
+
+### Changed
+- **Paper Enrichment (Entry #64 - xLight)**: Processed reference entry #64 (`xLight`, `xlight.ai`). Enriched Section 3.1 C and Appendix A in `README.md` and `README.de.md` with comprehensive technical details on xLight's next-generation **Free-Electron Laser (FEL)** technology for utility-scale EUV lithography replacing LPP light source bottlenecks, the finalized **$150 Million CHIPS and Science Act award** (DOC/NIST, June 2026) with U.S. government equity participation, the **Albany NanoTech Complex** FEL prototype (2028 target), the long-term **Fermilab CRADA** leveraging SRF cavity and cryomodule accelerator expertise, multi-scanner fab-scale FEL architecture with potential wafer throughput doubling, **Pat Gelsinger** (former Intel CEO) executive chairmanship, and **$40M Series B** (Playground Global).
+- **Index Status Update**: Marked Entry #64 status to `Processed` in `reference_coverage.md` and updated executive metrics to `64 / 351 Processed`.
+- **Version Bump**: Incremented patch version to `1.4.32` in `README.md` and `README.de.md`.
+
+---
+
 ## [1.4.31] - 2026-08-09
 
 ### Changed

@@ -15,7 +15,7 @@
 | **Official PDF Documents** | **14** | Formal RFA solicitations, webinars, slides, and executive reports |
 | **Web Portals & Press Releases** | **337** | Newsroom features, corporate blog posts, and interactive hubs |
 | **Validation Status** | **100% Validated** | All links canonicalized, formatted, and deduplicated |
-| **Processing Status** | **63 / 351 Processed** | 288 Unprocessed, 63 Processed |
+| **Processing Status** | **64 / 351 Processed** | 287 Unprocessed, 64 Processed |
 
 ---
 
@@ -131,7 +131,7 @@ A complete tabular listing of all 351 indexed reference links:
 | 61 | 2. Collaborators | - | Synopsys | `www.synopsys.com` | Web | [Synopsys](https://www.synopsys.com/) | `Processed` |
 | 62 | 2. Collaborators | - | TdVib | `tdvib.com` | Web | [TdVib](https://tdvib.com/) | `Processed` |
 | 63 | 2. Collaborators | - | Tennessee Valley Authority | `www.tva.com` | Web | [Tennessee Valley Authority](https://www.tva.com/) | `Processed` |
-| 64 | 2. Collaborators | - | xLight | `xlight.ai` | Web | [xLight](https://xlight.ai/) | `Unprocessed` |
+| 64 | 2. Collaborators | - | xLight | `xlight.ai` | Web | [xLight](https://xlight.ai/) | `Processed` |
 | 65 | 3. Quantum Leadership & CHIPS Act Initiatives | - | Department of Commerce $2 Billion Letters of Intent Announcement (NIST) | `www.nist.gov` | Web | [Department of Commerce $2 Billion Letters of Intent Announcement (NIST)](https://www.nist.gov/news-events/news/2026/05/department-commerce-announces-letters-intent-9-companies-2-billion) | `Unprocessed` |
 | 66 | 3. Quantum Leadership & CHIPS Act Initiatives | - | Energy Department $2 Billion Fault-Tolerant Quantum Initiative | `www.energy.gov` | Web | [Energy Department $2 Billion Fault-Tolerant Quantum Initiative](https://www.energy.gov/science/articles/energy-department-announces-initiative-create-and-deploy-worlds-first) | `Unprocessed` |
 | 67 | 3. Quantum Leadership & CHIPS Act Initiatives | Quantum Foundries & Manufacturing Infrastructure | GlobalFoundries | `gf.com` | Web | [GlobalFoundries](https://gf.com/gf-labs) | `Unprocessed` |
