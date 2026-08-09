@@ -425,4 +425,15 @@ https://www.gmu.edu/news/2026-08/george-mason-computer-scientist-receives-doe-ge
 
 https://news.okstate.edu/articles/engineering-architecture-technology/2026/oklahoma-state-university-selected-for-u.s.-department-of-energys-genesis-mission-initiative
 
-https://www.utah.edu/search/index.php?q=Mission+genesis&gcse_action=campus#gsc.tab=0&gsc.q=Mission%20genesis&gsc.page=1
+
+https://www.research.utah.edu/funding-item/genesis-mission-a-major-new-doe-initiative-to-watch/
+https://science.utah.edu/faculty/u-researchers-selected-for-multiple-doe-genesis-mission-awards/
+https://www.price.utah.edu/2026/07/22/price-engineering-researchers-among-first-class-of-genesis-mission-awardees
+https://www.research.utah.edu/research-impact/university-of-utah-selected-for-multiple-u-s-department-of-energy-genesis-mission-awards/
+https://sci.utah.edu/price-engineering-researchers-among-first-class-of-genesis-mission-awardees/
+https://www.research.utah.edu/funding-item/genesis-call/
+https://attheu.utah.edu/science-technology/u-selected-for-elite-national-network-of-ai-driven-cloud-laboratories/
+https://www.research.utah.edu/funding-item/from-parallel-play-to-true-collaboration-where-funding-is-headed/
+https://science.utah.edu/faculty/faculty-research/aurora-project/
+https://rai.utah.edu/aurora-cloud-lab/
+https://www.price.utah.edu/2026/07/22/university-of-utah-selected-for-elite-national-network-of-ai-driven-cloud-laboratories
