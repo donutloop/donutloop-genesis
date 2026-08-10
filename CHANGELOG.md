@@ -7,6 +7,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
+## [1.5.5] - 2026-08-10
+
+### Changed
+- **Paper Enrichment (Entry #96 - DOE Announcement: 26 Genesis Mission S&T Projects)**: Processed reference entry #96 (DOE Announcement: 26 Genesis Mission Science and Technology Projects, www.energy.gov/undersecretaryforscience/articles/energy-department-announces-26-genesis-mission-science-and). Enriched Section 1.1 in README.md and README.de.md with initial challenge project details: establishing the initial 26 (expanded to 33) National Science and Technology Challenges as strategic focus areas for AI-driven discovery across nuclear energy, fusion, critical materials, and biotechnology.
+- **Index Status Update**: Marked Entry #96 status to Processed in reference_coverage.md and updated executive metrics to 96 / 355 Processed.
+- **Version Bump**: Incremented patch version to 1.5.5 in README.md and README.de.md.
+
+---
+
 ## [1.5.4] - 2026-08-10
 
 ### Changed
