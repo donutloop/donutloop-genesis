@@ -7,6 +7,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
+## [1.5.4] - 2026-08-10
+
+### Changed
+- **Paper Enrichment (Entry #95 - DOE Announcement: Over $800 Million Partner Support)**: Processed reference entry #95 (DOE Announcement: Over $800 Million to Partner with Scientific Community, July 22, 2026 Summit, www.energy.gov/undersecretaryforscience/articles/us-department-energy-announces-more-800-million-partner). Enriched Section 1.1 in README.md and README.de.md with partner support details: securing over **$800 Million** in committed partner support (compute credits, AI model access, cloud infrastructure, research capital) across 41 industry, non-profit, and philanthropic members of the **Genesis Mission Consortium**.
+- **Index Status Update**: Marked Entry #95 status to Processed in reference_coverage.md and updated executive metrics to 95 / 355 Processed.
+- **Version Bump**: Incremented patch version to 1.5.4 in README.md and README.de.md.
+
+---
+
 ## [1.5.3] - 2026-08-10
 
 ### Changed
