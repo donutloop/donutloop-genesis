@@ -15,7 +15,7 @@
 | **Official PDF Documents** | **14** | Formal RFA solicitations, webinars, slides, and executive reports |
 | **Web Portals & Press Releases** | **345** | Newsroom features, corporate blog posts, and interactive hubs |
 | **Validation Status** | **100% Validated** | All links canonicalized, formatted, and deduplicated |
-| **Processing Status** | **361 / 362 Processed** | 1 Unprocessed, 361 Processed |
+| **Processing Status** | **362 / 362 Processed** | 0 Unprocessed, 362 Processed |
 
 ---
 
@@ -393,7 +393,7 @@ A complete tabular listing of all 362 indexed reference links:
 | 323 | 5. National Labs & University Coverage | Universities & Research Institutions | Receives DOE Genesis Mission Funding to Advance AI Breakthroughs | `twin-cities.umn.edu` | Web | [Receives DOE Genesis Mission Funding to Advance AI Breakthroughs](https://twin-cities.umn.edu/news-events/university-minnesota-receives-doe-genesis-mission-funding-advance-ai-breakthroughs) | `Processed` |
 | 324 | 5. National Labs & University Coverage | Universities & Research Institutions | Mizzou Engineering-Led Team Selected for Inaugural Mission | `engineering.missouri.edu` | Web | [Mizzou Engineering-Led Team Selected for Inaugural Mission](https://engineering.missouri.edu/2026/mizzou-led-team-selected-for-u-s-department-of-energys-inaugural-genesis-mission/) | `Processed` |
 | 325 | 5. National Labs & University Coverage | Universities & Research Institutions | Show Me Mizzou Feature Coverage | `showme.missouri.edu` | Web | [Show Me Mizzou Feature Coverage](https://showme.missouri.edu/2026/mizzou-led-team-selected-for-u-s-department-of-energys-inaugural-genesis-mission/) | `Processed` |
-| 326 | 5. National Labs & University Coverage | Universities & Research Institutions | Husker-Led Project Receives Genesis Mission Funding to Advance AI & 6G | `news.unl.edu` | Web | [Husker-Led Project Receives Genesis Mission Funding to Advance AI & 6G](https://news.unl.edu/article/husker-led-project-receives-genesis-mission-funding-to-advance-ai-6g) | `Unprocessed` |
+| 326 | 5. National Labs & University Coverage | Universities & Research Institutions | Husker-Led Project Receives Genesis Mission Funding to Advance AI & 6G | `news.unl.edu` | Web | [Husker-Led Project Receives Genesis Mission Funding to Advance AI & 6G](https://news.unl.edu/article/husker-led-project-receives-genesis-mission-funding-to-advance-ai-6g) | `Processed` |
 | 327 | 5. National Labs & University Coverage | Universities & Research Institutions | Researchers Selected for Mission | `news.unm.edu` | Web | [Researchers Selected for Mission](https://news.unm.edu/news/unm-researchers-selected-for-u-s-does-genesis-mission) | `Processed` |
 | 328 | 5. National Labs & University Coverage | Universities & Research Institutions | Selected for Inaugural U.S. Department of Energy Genesis Mission Project | `blogs.und.edu` | Web | [Selected for Inaugural U.S. Department of Energy Genesis Mission Project](https://blogs.und.edu/und-today/2026/07/und-selected-for-inaugural-u-s-department-of-energy-genesis-mission-project/) | `Processed` |
 | 329 | 5. National Labs & University Coverage | Universities & Research Institutions | Selected for Inaugural U.S. Department of Energy Genesis Mission Project (ULetter) | `blogs.und.edu` | Web | [Selected for Inaugural U.S. Department of Energy Genesis Mission Project (ULetter)](https://blogs.und.edu/uletter/2026/08/und-selected-for-inaugural-u-s-department-of-energy-genesis-mission-project/) | `Processed` |

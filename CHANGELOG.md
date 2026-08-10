@@ -4,6 +4,16 @@ All notable changes to the Genesis Mission documentation repository will be docu
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
+## [2.1.8] - 2026-08-10
+
+### Changed
+- **Reference Index Processing & Research Paper Enrichment (Entry #326)**: Processed master reference index link #326 (*Husker-Led Project Receives Genesis Mission Funding to Advance AI & 6G*, `news.unl.edu`).
+- **Research Paper Updates (`README.md` & `README.de.md`)**: Enriched §3.3 Academic Consortiums profile with technical details on the University of Nebraska–Lincoln's (UNL) Genesis project led by Mehmet Can Vuran and Santosh Pitla in collaboration with BNL, ALPEMI Consulting, and HPE: developing an **AI-driven "autopilot" co-designer for 6G Radio Access Networks (RAN)** to compress 6G network design iteration cycles from months to days and dynamically offload AI compute from field sensors/robots to DOE HPC supercomputers via sub-millisecond low-latency wireless links.
+- **Coverage Trackers (`coverage.md` & `reference_coverage.md`)**: Updated UNL status to `Full Profile` in `coverage.md` and Entry #326 to `Processed` in `reference_coverage.md`. **Achieved 100% Master Reference Coverage Milestone (362 / 362 Processed, 0 Unprocessed)**.
+- **Version Bump**: Incremented patch version string to `2.1.8` in `README.md` and `README.de.md`.
+
+---
+
 ## [2.1.7] - 2026-08-10
 
 ### Changed

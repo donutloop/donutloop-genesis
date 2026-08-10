@@ -223,7 +223,7 @@
 | 149 | Yale University | ✅ Full Profile | §3.3, A.5 | Superconducting cavity QED quantum architecture, QIS error mitigation & molecular AI |
 | 150 | George Mason University | ❌ Not Covered | — | DOE Genesis award for breakthrough AI-HPC research (reference only) |
 | 151 | Oklahoma State University | ❌ Not Covered | — | Selected for DOE Genesis Mission initiative (reference only) |
-| 152 | University of Nebraska–Lincoln | ❌ Not Covered | — | Husker-led project for AI & 6G wireless research (reference only) |
+| 152 | University of Nebraska–Lincoln | ✅ Full Profile | §3.3, A.5 | AI-driven "autopilot" co-designer for 6G Radio Access Networks (RAN) |
 
 ---
 
