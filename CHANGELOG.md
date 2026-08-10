@@ -4,6 +4,16 @@ All notable changes to the Genesis Mission documentation repository will be docu
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
+## [2.1.13] - 2026-08-10
+
+### Changed
+- **Comprehensive Clickable Link Standardization Across Repository**: Converted all un-hyperlinked organization names, entity titles, inline backticked URLs, and table rows into standardized, clickable Markdown links (`[Name / Title](https://...)`):
+  - **Ecosystem Coverage Tracker (`coverage.md`)**: Updated all 175 entity rows across 10 sections so every company, agency, national lab, university, and foundation name links directly to its canonical official web domain.
+  - **Research Papers (`README.md` & `README.de.md`)**: Standardized all section organization headers (e.g. `* [Company Name](URL):`) and converted inline backticked article/portal URLs into hyperlinked Markdown titles. Updated column 1 of all Appendix A tables to clickable Markdown links.
+  - **Version Bump**: Incremented patch version string to `2.1.13` in `README.md` and `README.de.md`.
+
+---
+
 ## [2.1.12] - 2026-08-10
 
 ### Changed
