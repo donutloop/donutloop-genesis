@@ -7,6 +7,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
+## [1.5.9] - 2026-08-10
+
+### Changed
+- **Paper Enrichment (Entry #100 - NNSA Announcement: Swift Action on Genesis Mission)**: Processed reference entry #100 (NNSA Announcement: Demonstrating Swift Action on Genesis Mission, www.energy.gov/nnsa/articles/nnsa-demonstrates-swift-action-genesis-mission). Enriched Section 1.1 in README.md and README.de.md with NNSA national defense deployment details: mobilizing defense labs (LANL, LLNL, SNL, NNSS, KCNSC), issuing the *Transformational AI Capabilities for National Security* RFI, fielding the **Aires Tide** AI-manufactured test flight vehicle (7x faster, 15x cheaper), deploying the Secret/Restricted Data (S/RD) Enterprise Cloud with AWS, and commissioning LANL's *Mission* and *Vision* supercomputers.
+- **Index Status Update**: Marked Entry #100 status to Processed in reference_coverage.md and updated executive metrics to 100 / 355 Processed.
+- **Version Bump**: Incremented patch version to 1.5.9 in README.md and README.de.md.
+
+---
+
 ## [1.5.8] - 2026-08-10
 
 ### Changed
