@@ -15,7 +15,7 @@
 | **Official PDF Documents** | **14** | Formal RFA solicitations, webinars, slides, and executive reports |
 | **Web Portals & Press Releases** | **337** | Newsroom features, corporate blog posts, and interactive hubs |
 | **Validation Status** | **100% Validated** | All links canonicalized, formatted, and deduplicated |
-| **Processing Status** | **91 / 355 Processed** | 264 Unprocessed, 91 Processed |
+| **Processing Status** | **92 / 355 Processed** | 263 Unprocessed, 92 Processed |
 
 ---
 
@@ -159,7 +159,7 @@ A complete tabular listing of all 351 indexed reference links:
 | 89 | 4. Executive, Federal & Partner Announcements | - | DOE Overview: Building the World's Most Powerful Scientific Platform | `www.energy.gov` | Web | [DOE Overview: Building the World's Most Powerful Scientific Platform](https://www.energy.gov/undersecretaryforscience/genesis-mission/genesis-mission) | `Processed` |
 | 90 | 4. Executive, Federal & Partner Announcements | - | DOE Overview: American Science and Security Platform | `www.energy.gov` | Web | [DOE Overview: American Science and Security Platform](https://www.energy.gov/undersecretaryforscience/genesis-mission/american-science-and-security-platform) | `Processed` |
 | 91 | 4. Executive, Federal & Partner Announcements | - | DOE Overview: Genesis Mission Collaborations | `www.energy.gov` | Web | [DOE Overview: Genesis Mission Collaborations](https://www.energy.gov/undersecretaryforscience/genesis-mission/genesis-mission-collaboration) | `Processed` |
-| 92 | 4. Executive, Federal & Partner Announcements | - | DOE Overview: National Science and Technology Challenges | `www.energy.gov` | Web | [DOE Overview: National Science and Technology Challenges](https://www.energy.gov/undersecretaryforscience/genesis-mission/genesis-mission-national-science-and-technology-challenges) | `Unprocessed` |
+| 92 | 4. Executive, Federal & Partner Announcements | - | DOE Overview: National Science and Technology Challenges | `www.energy.gov` | Web | [DOE Overview: National Science and Technology Challenges](https://www.energy.gov/undersecretaryforscience/genesis-mission/genesis-mission-national-science-and-technology-challenges) | `Processed` |
 | 93 | 4. Executive, Federal & Partner Announcements | - | DOE Document: Genesis Mission National Science & Technology Challenges (PDF) | `www.energy.gov` | PDF | [DOE Document: Genesis Mission National Science & Technology Challenges (PDF)](https://www.energy.gov/documents/genesis-mission-national-science-technology-challenges) | `Unprocessed` |
 | 94 | 4. Executive, Federal & Partner Announcements | - | DOE Announcement: Secretary Chris Wright Announces First Projects Selected to Accelerate AI-Driven Scientific Discovery | `www.energy.gov` | Web | [DOE Announcement: Secretary Chris Wright Announces First Projects Selected to Accelerate AI-Driven Scientific Discovery](https://www.energy.gov/articles/secretary-energy-chris-wright-announces-first-genesis-mission-projects-selected-accelerate) | `Unprocessed` |
 | 95 | 4. Executive, Federal & Partner Announcements | - | DOE Announcement: Over $800 Million to Partner with Scientific Community | `www.energy.gov` | Web | [DOE Announcement: Over $800 Million to Partner with Scientific Community](https://www.energy.gov/undersecretaryforscience/articles/us-department-energy-announces-more-800-million-partner) | `Unprocessed` |

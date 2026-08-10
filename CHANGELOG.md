@@ -7,6 +7,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
+## [1.5.1] - 2026-08-10
+
+### Changed
+- **Paper Enrichment (Entry #92 - DOE Overview: National Science and Technology Challenges)**: Processed reference entry #92 (DOE Overview: National Science and Technology Challenges, www.energy.gov/undersecretaryforscience/genesis-mission/genesis-mission-national-science-and-technology-challenges). Enriched Section 1.1 in README.md and README.de.md with official challenge taxonomy details: defining the 33 National Science and Technology Challenges serving as stress tests for the **American Science and Security Platform** across three strategic pillars (Energy Dominance, Discovery Science, National Security).
+- **Index Status Update**: Marked Entry #92 status to Processed in reference_coverage.md and updated executive metrics to 92 / 355 Processed.
+- **Version Bump**: Incremented patch version to 1.5.1 in README.md and README.de.md.
+
+---
+
 ## [1.5.0] - 2026-08-10
 
 ### Changed
