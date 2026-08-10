@@ -1,4 +1,4 @@
-**Version**: 1.4.54
+**Version**: 1.4.55
 
 # Die Genesis-Mission: Architektur, strategische Initiativen und das multi-institutionelle Ökosystem für KI- und quantengetriebene wissenschaftliche Entdeckungen
 
@@ -36,6 +36,7 @@ Die Genesis-Mission wird in erster Linie vom **U.S. Department of Energy (DOE) O
 * **Department of War (U.S. DOD):** Treibt Dual-Use-Anwendungen für die nationale Verteidigung, numerische Strömungsmechanik (CFD) in der Hyperschallforschung, strahlungsgehärtete Mikroelektronik und die Resilienz sicherer Lieferketten voran.
 * **Department of Homeland Security (DHS S&T):** Integriert KI-Modelle für die Sicherheit kritischer Energieinfrastrukturen, die Überwachung von Stromnetzbedrohungen und Resilienzanalysen.
 * **Department of the Interior (DOI / USGS):** Leitet die Bewertung kritischer Mineralressourcen, die hydrologische Kartierung und die Umweltverwaltung öffentlicher Ländereien.
+* **U.S. Department of Agriculture (USDA / AgARDA):** Treibt landwirtschaftliche KI-Innovationen voran und arbeitet im Rahmen der Genesis-Mission (`www.usda.gov/about-usda/news/press-releases/2026/07/22/usda-asks-partners-develop-ai-solutions-accelerate-crop-innovation`) mit Land-Grant-Universitäten und Forschungs-Hubs zusammen, um multimodale Merkmalsvorhersagemodelle, Computervision für Keimplasma-Analysen und klimaresiliente Pflanzenzüchtungspipelines zu entwickeln, die in die **American Science and Security Platform** integriert sind.
 
 ### 1.2 Systemarchitektur & Strategischer Ablauf
 

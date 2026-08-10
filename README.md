@@ -1,4 +1,4 @@
-**Version**: 1.4.54
+**Version**: 1.4.55
 
 # The Genesis Mission: Architecture, Strategic Initiatives, and the Multi-Institutional Ecosystem for AI and Quantum-Driven Scientific Discovery
 
@@ -36,6 +36,7 @@ Managed primarily by the **U.S. Department of Energy (DOE) Office of Science**, 
 * **Department of War (U.S. DOD):** Drives dual-use national defense applications, hypersonics computational fluid dynamics (CFD), radiation-hardened microelectronics, and secure supply chain resilience.
 * **Department of Homeland Security (DHS S&T):** Integrates AI models for critical energy infrastructure security, power grid threat monitoring, and resilience analytics.
 * **Department of the Interior (DOI / USGS):** Directs critical mineral resource assessments, hydrological mapping, and public land environmental stewardship.
+* **U.S. Department of Agriculture (USDA / AgARDA):** Drives agricultural AI innovation, partnering with land-grant universities and research hubs under the Genesis Mission (`www.usda.gov/about-usda/news/press-releases/2026/07/22/usda-asks-partners-develop-ai-solutions-accelerate-crop-innovation`) to develop multimodal trait prediction models, computer vision for germplasm analysis, and climate-resilient crop breeding pipelines integrated into the **American Science and Security Platform**.
 
 ### 1.2 System Architecture & Strategic Flow
 
