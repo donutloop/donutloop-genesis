@@ -7,6 +7,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
+## [1.5.43] - 2026-08-10
+
+### Changed
+- **Paper Enrichment (Entries #238, #239, #240, #241, #242, #243, #244 & #245 - PNNL Molten Salt Reactor AI, PPPL ECH Fusion Heating Operator & Sandia Agent Bayes Releases)**: Processed reference entries #238 (PNNL GM Portal), #239 (PPPL AI Operator for Fusion Heating), #240 (PPPL AI4Fusion Project), #241 (PPPL AI Operator Newswise), #242 (PPPL GM Launch), #243 (PPPL Fusion Energy Event), #244 (Sandia Leads 6 Projects), and #245 (Sandia Lab News Feature). Enriched Section 2.2 and 2.3 in README.md and README.de.md with Pacific Northwest National Lab (PNNL) molten salt nuclear reactor AI digital twins, Princeton Plasma Physics Lab (PPPL) Electron Cyclotron Heating (ECH) autonomous AI operator, STELLAR-AI, and Fusion-FM model, and Sandia National Labs (SNL) Agent Bayes foundation model for Bayesian scientific reasoning and uncertainty quantification.
+- **Index Status Update**: Marked Entries #238 through #245 status to Processed in reference_coverage.md and updated executive metrics to 245 / 355 Processed.
+- **Version Bump**: Incremented patch version to 1.5.43 in README.md and README.de.md.
+
+---
+
 ## [1.5.42] - 2026-08-10
 
 ### Changed
