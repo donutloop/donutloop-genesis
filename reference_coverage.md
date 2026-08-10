@@ -15,7 +15,7 @@
 | **Official PDF Documents** | **14** | Formal RFA solicitations, webinars, slides, and executive reports |
 | **Web Portals & Press Releases** | **337** | Newsroom features, corporate blog posts, and interactive hubs |
 | **Validation Status** | **100% Validated** | All links canonicalized, formatted, and deduplicated |
-| **Processing Status** | **76 / 351 Processed** | 275 Unprocessed, 76 Processed |
+| **Processing Status** | **77 / 351 Processed** | 274 Unprocessed, 77 Processed |
 
 ---
 
@@ -144,7 +144,7 @@ A complete tabular listing of all 351 indexed reference links:
 | 74 | 3. Quantum Leadership & CHIPS Act Initiatives | Quantum Computing & Modality Developers | Quantinuum | `www.quantinuum.com` | Web | [Quantinuum](https://www.quantinuum.com/hardware/h-series) | `Processed` |
 | 75 | 3. Quantum Leadership & CHIPS Act Initiatives | Quantum Computing & Modality Developers | Rigetti Computing | `www.rigetti.com` | Web | [Rigetti Computing](https://www.rigetti.com/systems) | `Processed` |
 | 76 | 4. Executive, Federal & Partner Announcements | - | White House OSTP: Office of Science and Technology Policy Overview | `www.whitehouse.gov` | Web | [White House OSTP: Office of Science and Technology Policy Overview](https://www.whitehouse.gov/science/) | `Processed` |
-| 77 | 4. Executive, Federal & Partner Announcements | - | Genesis Mission Consortium: Our Members Directory | `www.genesismissionconsortium.org` | Web | [Genesis Mission Consortium: Our Members Directory](https://www.genesismissionconsortium.org/our-members) | `Unprocessed` |
+| 77 | 4. Executive, Federal & Partner Announcements | - | Genesis Mission Consortium: Our Members Directory | `www.genesismissionconsortium.org` | Web | [Genesis Mission Consortium: Our Members Directory](https://www.genesismissionconsortium.org/our-members) | `Processed` |
 | 78 | 4. Executive, Federal & Partner Announcements | - | White House OSTP: 2025 Historic Wins Report (PDF) | `www.whitehouse.gov` | PDF | [White House OSTP: 2025 Historic Wins Report (PDF)](https://www.whitehouse.gov/wp-content/uploads/2026/01/WHOSTP-2025-Wins.pdf) | `Unprocessed` |
 | 79 | 4. Executive, Federal & Partner Announcements | - | White House Executive Action: Launching the Genesis Mission | `www.whitehouse.gov` | Web | [White House Executive Action: Launching the Genesis Mission](https://www.whitehouse.gov/presidential-actions/2025/11/launching-the-genesis-mission/) | `Unprocessed` |
 | 80 | 4. Executive, Federal & Partner Announcements | - | White House Announcement: President Trump Launches the Genesis Mission | `www.whitehouse.gov` | Web | [White House Announcement: President Trump Launches the Genesis Mission](https://www.whitehouse.gov/releases/2025/11/president-trump-launches-the-genesis-mission-to-accelerate-ai-for-scientific-discovery/) | `Unprocessed` |

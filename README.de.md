@@ -1,4 +1,4 @@
-**Version**: 1.4.44
+**Version**: 1.4.45
 
 # Die Genesis-Mission: Architektur, strategische Initiativen und das multi-institutionelle Ökosystem für KI- und quantengetriebene wissenschaftliche Entdeckungen
 
@@ -330,7 +330,7 @@ Das DOE Office of Science leitet die Finanzierung über 17 primäre nationale La
 * **Cleveland Clinic:** Co-Leiter der bahnbrechenden Fusions-Quantenchemie-Pipeline von ORNL–Cleveland Clinic–IBM für FLiBe-Schmelzsalz-Fusionsreaktoren unter Nutzung von IBM Quantum System One Assets für biomedizinische KI.
 * **Johns Hopkins University Applied Physics Laboratory (JHU APL):** Partnerschaft mit Microsoft Discovery und nationalen Laboren zum Betrieb autonomer selbstfahrender Syntheselaboratorien für Hochtemperatursupraleiter und verteidigungskritische Legierungen.
 * **AI Tennessee Initiative:** Koordination der bundesweiten KI-Forschung im gesamten System der University of Tennessee und am Oak Ridge National Laboratory.
-* **RTI International:** Bereitstellung KI-gestützter Umweltrisikomodellierung, techno-ökonomischer Analysen (TEA) für die Skalierung der Kohlenstoffabscheidung und Lebenszyklusanalysen für nachhaltige Materialien.
+* **RTI International (TechWerx) & Genesis Mission Consortium:** Verwaltet das **Genesis Mission Consortium** (`www.genesismissionconsortium.org`) im Auftrag des US-Energieministeriums (DOE). Das Konsortium dient als primäres öffentlich-privates Partnerschaftsnetzwerk, das die **17 DOE National Laboratories** mit kommerziellen Tech-Hyperscalern und KI-Führern (**AWS**, **Microsoft** mit 60 Mio. $-Zusage und SPARK-Hub, **AMD**, **Cerebras Systems**, **HPE**, **Scale AI**, **Accenture Federal Services**, **Arcee AI**, **Astera Institute**), Quantengießereien (IBM, GlobalFoundries, Quantinuum, PsiQuantum, Atom, Infleqtion, Rigetti, Diraq, D-Wave) und führenden akademischen Institutionen (MIT, Lehigh, CU Boulder, JHU APL) verbindet. Das Konsortium organisiert kollaborative F&E über vier spezialisierte Arbeitsgruppen: (1) **ModCon** (Transformational AI Models Consortium) für KI-Modellentwicklung und Validierung; (2) **Datenintegration und Standards** für FAIR-Datenschemata; (3) **American Science Cloud & HPC-Infrastruktur**; und (4) **Robotik und Automatisierung** für selbstfahrende Syntheselabore. Bis Mitte 2026 hat das Konsortium über **500 Millionen US-Dollar** an privaten Mitgliedsbeiträgen gesichert und verwaltet hunderte kooperative Forschungsprojekte über nationale Wissenschaftsherausforderungen hinweg. RTI stellt zudem KI-gestützte Umweltrisikomodellierung, techno-ökonomische Analysen (TEA) für die Skalierung der Kohlenstoffabscheidung und Lebenszyklusanalysen bereit.
 
 ---
 
