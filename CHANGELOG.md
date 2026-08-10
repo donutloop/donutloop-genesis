@@ -4,6 +4,16 @@ All notable changes to the Genesis Mission documentation repository will be docu
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
+## [2.1.6] - 2026-08-10
+
+### Changed
+- **Reference Index Processing & Research Paper Enrichment (Entry #213)**: Processed master reference index link #213 (*How a Machine Learning Pipeline Could Accelerate Innovation*, `newscenter.lbl.gov`).
+- **Research Paper Updates (`README.md` & `README.de.md`)**: Enriched §3.2 LBNL National Laboratory profile with technical details on **SYNAPS-I** (SYnergistic Neutron and Photon Science – Intelligence) led by Alex Hexemer across 7 DOE light & neutron user facilities (LBNL ALS/ALS-U, ANL APS, BNL NSLS-II, ORNL SNS, SLAC LCLS/SSRL), embedding automated ML pipelines directly into X-ray microscopy, ptychography, and neutron scattering for real-time beamline image segmentation and 2D/3D atomic defect tracking in energy materials.
+- **Master Reference Coverage Report Sync (`reference_coverage.md`)**: Updated status of Entry #213 to `Processed` (recalculated totals: **360 / 362 Processed**, 2 Unprocessed).
+- **Version Bump**: Incremented patch version string to `2.1.6` in `README.md` and `README.de.md`.
+
+---
+
 ## [2.1.5] - 2026-08-10
 
 ### Changed
