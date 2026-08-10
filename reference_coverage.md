@@ -15,7 +15,7 @@
 | **Official PDF Documents** | **14** | Formal RFA solicitations, webinars, slides, and executive reports |
 | **Web Portals & Press Releases** | **337** | Newsroom features, corporate blog posts, and interactive hubs |
 | **Validation Status** | **100% Validated** | All links canonicalized, formatted, and deduplicated |
-| **Processing Status** | **109 / 355 Processed** | 246 Unprocessed, 109 Processed |
+| **Processing Status** | **111 / 355 Processed** | 244 Unprocessed, 111 Processed |
 
 ---
 
@@ -177,8 +177,8 @@ A complete tabular listing of all 351 indexed reference links:
 | 107 | 4. Executive, Federal & Partner Announcements | - | NIH: Bio Genesis Mission Overview | `www.nih.gov` | Web | [NIH: Bio Genesis Mission Overview](https://www.nih.gov/bio-genesismission) | `Processed` |
 | 108 | 4. Executive, Federal & Partner Announcements | - | NIH Director Statement: Launch of Bio Genesis Mission (NIH Component) | `www.nih.gov` | Web | [NIH Director Statement: Launch of Bio Genesis Mission (NIH Component)](https://www.nih.gov/about-nih/nih-director/statements/statement-launch-bio-genesis-mission-nihs-component-national-genesis-mission) | `Processed` |
 | 109 | 4. Executive, Federal & Partner Announcements | - | NASA: Joining to Accelerate AI-Driven Discovery | `www.nasa.gov` | Web | [NASA: Joining to Accelerate AI-Driven Discovery](https://www.nasa.gov/news-release/nasa-joins-genesis-mission-to-accelerate-ai-driven-discovery/) | `Processed` |
-| 110 | 4. Executive, Federal & Partner Announcements | - | NSF: $83M Investment in Integrated Data Systems | `www.nsf.gov` | Web | [NSF: $83M Investment in Integrated Data Systems](https://www.nsf.gov/news/nsf-announces-83m-investment-integrated-data-systems) | `Unprocessed` |
-| 111 | 4. Executive, Federal & Partner Announcements | - | NSF Statement: Chief of Staff Brian Stone on Genesis Mission Integration | `www.nsf.gov` | Web | [NSF Statement: Chief of Staff Brian Stone on Genesis Mission Integration](https://www.nsf.gov/news/statement-nsf-chief-staff-brian-stone-performing-duties-nsf-1) | `Unprocessed` |
+| 110 | 4. Executive, Federal & Partner Announcements | - | NSF: $83M Investment in Integrated Data Systems | `www.nsf.gov` | Web | [NSF: $83M Investment in Integrated Data Systems](https://www.nsf.gov/news/nsf-announces-83m-investment-integrated-data-systems) | `Processed` |
+| 111 | 4. Executive, Federal & Partner Announcements | - | NSF Statement: Chief of Staff Brian Stone on Genesis Mission Integration | `www.nsf.gov` | Web | [NSF Statement: Chief of Staff Brian Stone on Genesis Mission Integration](https://www.nsf.gov/news/statement-nsf-chief-staff-brian-stone-performing-duties-nsf-1) | `Processed` |
 | 112 | 4. Executive, Federal & Partner Announcements | - | Meta AI: Genesis Mission Partnership with LBNL (Segment Anything & DINO) | `ai.meta.com` | Web | [Meta AI: Genesis Mission Partnership with LBNL (Segment Anything & DINO)](https://ai.meta.com/blog/genesis-mission-lawrence-berkeley-national-laboratory-segment-anything-dino/) | `Unprocessed` |
 | 113 | 4. Executive, Federal & Partner Announcements | - | Google DeepMind: Supporting US DOE on Genesis Mission | `deepmind.google` | Web | [Google DeepMind: Supporting US DOE on Genesis Mission](https://deepmind.google/blog/google-deepmind-supports-us-department-of-energy-on-genesis/) | `Unprocessed` |
 | 114 | 4. Executive, Federal & Partner Announcements | - | Google Public Sector & DeepMind: Powering the Genesis Mission | `cloud.google.com` | Web | [Google Public Sector & DeepMind: Powering the Genesis Mission](https://cloud.google.com/blog/topics/public-sector/how-google-public-sector-and-google-deepmind-can-power-the-genesis-mission-and-a-new-era-of-scientific-discovery) | `Unprocessed` |

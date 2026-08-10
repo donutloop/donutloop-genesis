@@ -7,6 +7,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
+## [1.5.18] - 2026-08-10
+
+### Changed
+- **Paper Enrichment (Entries #110 & #111 - NSF $83M IDSS Release & Brian Stone Statement)**: Processed reference entries #110 (NSF: $83M Investment in Integrated Data Systems, www.nsf.gov/news/nsf-announces-83m-investment-integrated-data-systems) and #111 (NSF Statement: Chief of Staff Brian Stone on Genesis Mission Integration, www.nsf.gov/news/statement-nsf-chief-staff-brian-stone-performing-duties-nsf-1). Enriched Section 1.1 in README.md and README.de.md with NSF integration details: allocating **$83 Million** through the Integrated Data Systems and Services (IDSS) program and AI Datasets initiative (*Unlocking Dataset Value for AI-Enabled Scientific Discovery*) to build a FAIR-compliant data backbone feeding NAIRR and the **American Science and Security Platform**.
+- **Index Status Update**: Marked Entries #110 and #111 status to Processed in reference_coverage.md and updated executive metrics to 111 / 355 Processed.
+- **Version Bump**: Incremented patch version to 1.5.18 in README.md and README.de.md.
+
+---
+
 ## [1.5.17] - 2026-08-10
 
 ### Changed
