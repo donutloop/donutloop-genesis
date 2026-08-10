@@ -7,6 +7,14 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
+## [2.0.1] - 2026-08-10
+
+### Changed
+- **Format Links Workflow Execution & Verification**: Audited `references.md` against all formatting, deduplication, and coverage rules defined in `prompts/format_links.md`:
+  - Verified `references.md` contains 355 canonical reference links with zero pending WIP entries and zero duplicate URLs.
+  - Confirmed synchronization across `coverage.md` (152 total tracked entities) and `reference_coverage.md` (355 master reference link index rows).
+  - Version bumped patch release to `v2.0.1`.
+
 ## [2.0.0] - 2026-08-10
 
 ### Major Release 2.0.0 — Complete Reference Citation Processing, Architectural Topology & Agentic Science Benchmark
