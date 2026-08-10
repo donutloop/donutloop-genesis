@@ -5,6 +5,23 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [2.0.2] - 2026-08-10
+
+### Changed
+- **WIP Reference Integration & Deduplication**: Processed 9 raw URLs from the `WIP` scratchpad section in `references.md`:
+  - Integrated 7 valid, non-duplicate links into their target sections across `references.md` (Groq in §2; SHINE Technologies, Everstar, and RTI/TECHWERX in §4; LBNL machine learning pipeline, Stony Brook University mobilization, and University of Nebraska–Lincoln in §5).
+  - Identified and skipped 2 duplicate link entries (Lehigh University and Missouri S&T).
+  - Fully decommissioned the `WIP` scratchpad section in `references.md`.
+- **Ecosystem Coverage Tracker Sync (`coverage.md`)**:
+  - Added 4 newly introduced entities to `coverage.md` with status `❌ Not Covered` (Groq in *Cloud, AI & Compute Infrastructure*; Everstar in *Frontier AI & Data Platforms*; SHINE Technologies in *Energy, Utilities & Critical Materials*; University of Nebraska–Lincoln in *Research Universities*).
+  - Renumbered all 156 tracked ecosystem entities sequentially across 10 category tables.
+  - Updated all summary metrics (148 / 156 full profiles, 95% coverage level, 8 entities awaiting full profile write-ups).
+- **Master Reference Coverage Report Sync (`reference_coverage.md`)**:
+  - Added 7 new master index rows with status `Unprocessed` across Sections 2, 4, and 5.
+  - Renumbered all 361 master reference links sequentially across 7 thematic sections.
+  - Updated executive metrics (361 total reference links, 203 unique target domains, 344 web portals/press releases, 354 / 361 processed status ratio).
+- **Version Bump**: Incremented patch version to `2.0.2` in `README.md` and `README.de.md`.
+
 ---
 
 ## [2.0.0] - 2026-08-10

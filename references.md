@@ -47,6 +47,7 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
 * [GE Aerospace](https://www.geaerospace.com/)
 * [GlobalFoundries](https://gf.com/)
 * [Google](https://about.google/)
+* [Groq](https://groq.com/): [Groq Partners with U.S. Department of Energy to Advance AI Inference and Next-Generation Computing Infrastructure](https://groq.com/newsroom/groq-partners-with-us-department-of-energy-to-advance-ai-inference-and-next-generation-computing-infrastructure)
 * [HPE](https://www.hpe.com/)
 * [Hugging Face](https://huggingface.co/)
 * [IBM](https://www.ibm.com/)
@@ -214,6 +215,9 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
 * [Domino Data Lab: Domino Joins Genesis Mission Consortium](https://domino.ai/press-releases/genesis-consortium)
 * [NSF: New NSF Initiative Aims to Unlock Dataset Value for AI-Enabled Research](https://www.nsf.gov/news/new-nsf-initiative-aims-unlock-dataset-value-ai-enabled)
 * [U.S. Department of Agriculture (USDA): USDA Asks Partners to Develop AI Solutions to Accelerate Crop Innovation](https://www.usda.gov/about-usda/news/press-releases/2026/07/22/usda-asks-partners-develop-ai-solutions-accelerate-crop-innovation)
+* [SHINE Technologies: Selected for Two DOE Genesis Mission Projects Advancing AI in Nuclear Fuel Recycling](https://www.prnewswire.com/news-releases/shine-selected-for-two-doe-genesis-mission-projects-advancing-ai-in-nuclear-fuel-recycling-302841934.html)
+* [Everstar: Announces Collaboration with DOE National Laboratories and Microsoft](https://www.prnewswire.com/news-releases/everstar-announces-collaboration-with-doe-national-laboratories-and-microsoft--marking-its-first-major-milestone-in-the-genesis-mission-302726497.html)
+* [RTI International: DOE Partners with RTI International to Administer Newly Launched Genesis Mission Consortium via TECHWERX](https://www.prnewswire.com/news-releases/doe-partners-with-rti-international-to-administer-newly-launched-genesis-mission-consortium-via-techwerx-302682875.html)
   
 ---
 
@@ -248,6 +252,7 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
   * [Takes Major Step Toward Doudna with Delivery of Early Access System, Cech](https://newscenter.lbl.gov/2026/03/17/berkeley-lab-takes-major-step-toward-doudna-with-delivery-of-early-access-system-cech/)
   * [Connecting Data, Computing, and AI for Scientific Discovery](https://newscenter.lbl.gov/2026/08/05/connecting-data-computing-and-ai-for-scientific-discovery/)
   * [How the Genesis Mission's American Science Cloud Advances Innovation](https://newscenter.lbl.gov/2026/07/15/how-the-genesis-missions-american-science-cloud-advances-innovation/)
+  * [How a Machine Learning Pipeline Could Accelerate Innovation](https://newscenter.lbl.gov/2026/02/02/how-a-machine-learning-pipeline-could-accelerate-innovation/)
 * **Brookhaven National Laboratory (BNL):** 
   * [Genesis Mission Coverage & Research Leadership](https://www.bnl.gov/newsroom/news.php?a=123041)
   * [BNL Highlights Strategic Genesis Mission Projects](https://www.bnl.gov/newsroom/news.php?a=122827)
@@ -352,6 +357,7 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
 * **Stony Brook University:**
   * [Researchers Chosen for Landmark AI for Science Awards](https://news.stonybrook.edu/newsroom/press-release/general/stony-brook-university-researchers-chosen-for-landmark-doe-genesis-mission-ai-for-science-awards-2/)
   * [University Coverage: AI for Science Awards](https://news.stonybrook.edu/university/stony-brook-university-researchers-chosen-for-landmark-doe-genesis-mission-ai-for-science-awards/)
+  * [Stony Brook Mobilizes for National AI Research Mission](https://news.stonybrook.edu/university/stony-brook-mobilizes-for-national-ai-research-mission/)
 * **Texas A&M University:** [Texas A&M Joins the Genesis Mission to Transform Science Using AI](https://stories.tamu.edu/news/2026/07/27/texas-am-university-joins-the-genesis-mission-to-transform-science-using-artificial-intelligence/)
 * **Texas State University:** [DOE Genesis Mission Awards Coverage](https://news.txst.edu/research-and-innovation/2026/doe-genesis-mission.html)
 * **Tulane University:** [Team Selected to Discover Next Generation Materials Using AI](https://news.tulane.edu/pr/department-energys-genesis-mission-selects-tulane-team-using-ai-discover-next-generation)
@@ -383,6 +389,7 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
 * **University of Missouri (Mizzou):**
   * [Mizzou Engineering-Led Team Selected for Inaugural Mission](https://engineering.missouri.edu/2026/mizzou-led-team-selected-for-u-s-department-of-energys-inaugural-genesis-mission/)
   * [Show Me Mizzou Feature Coverage](https://showme.missouri.edu/2026/mizzou-led-team-selected-for-u-s-department-of-energys-inaugural-genesis-mission/)
+* **University of Nebraska–Lincoln:** [Husker-Led Project Receives Genesis Mission Funding to Advance AI & 6G](https://news.unl.edu/article/husker-led-project-receives-genesis-mission-funding-to-advance-ai-6g)
 * **University of New Mexico (UNM):** [Researchers Selected for Mission](https://news.unm.edu/news/unm-researchers-selected-for-u-s-does-genesis-mission)
 * **University of North Dakota (UND):**
   * [Selected for Inaugural U.S. Department of Energy Genesis Mission Project](https://blogs.und.edu/und-today/2026/07/und-selected-for-inaugural-u-s-department-of-energy-genesis-mission-project/)
@@ -431,15 +438,4 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
 * [DOE Office of Science (SCAC): DOE Genesis Mission Launched Presentation (PDF)](https://science.osti.gov/-/media/About/pdf/scac/meetings/2026/DOE-Genesis-Mission-Launched---2026-03-27.pdf)
 * [OSTP: OSTP Genesis Mission Science and Technology Challenges Document](https://www.energy.gov/documents/ostp-genesis-mission-science-and-technology-challenges)
 * [U.S. Department of Energy: ModCon — Transformational AI and Data Overview](https://www.energy.gov/undersecretaryforscience/genesis-mission/modcon-transformational-ai-and-data)
-
-WIP:
-https://www.prnewswire.com/news-releases/shine-selected-for-two-doe-genesis-mission-projects-advancing-ai-in-nuclear-fuel-recycling-302841934.html
-https://news.lehigh.edu/lehigh-researchers-earn-two-doe-genesis-mission-funding-awards
-https://news.mst.edu/research/st-researchers-earn-doe-genesis-mission-award/
-https://news.unl.edu/article/husker-led-project-receives-genesis-mission-funding-to-advance-ai-6g
-https://news.stonybrook.edu/university/stony-brook-mobilizes-for-national-ai-research-mission/
-https://groq.com/newsroom/groq-partners-with-us-department-of-energy-to-advance-ai-inference-and-next-generation-computing-infrastructure
-https://newscenter.lbl.gov/2026/02/02/how-a-machine-learning-pipeline-could-accelerate-innovation/
-https://www.prnewswire.com/news-releases/doe-partners-with-rti-international-to-administer-newly-launched-genesis-mission-consortium-via-techwerx-302682875.html
-https://www.prnewswire.com/news-releases/everstar-announces-collaboration-with-doe-national-laboratories-and-microsoft--marking-its-first-major-milestone-in-the-genesis-mission-302726497.html
 
