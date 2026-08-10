@@ -7,6 +7,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
+## [1.4.38] - 2026-08-10
+
+### Changed
+- **Paper Enrichment (Entry #70 - Diraq)**: Processed reference entry #70 (Diraq, diraq.com). Enriched Section 2.2 in README.md and README.de.md with comprehensive Diraq details: **300mm wafer** CMOS-native silicon quantum dot fabrication, target of **millions of qubits per chip** at **<$1 per physical qubit**, operation at approximately **1 Kelvin** (significantly warmer than millikelvin superconducting systems, simplifying cryogenic infrastructure), rack-deployable data center form factors, and DARPA QBI **Stage B** selection with utility-scale validation target by 2033.
+- **Index Status Update**: Marked Entry #70 status to Processed in reference_coverage.md and updated executive metrics to 70 / 351 Processed.
+- **Version Bump**: Incremented patch version to 1.4.38 in README.md and README.de.md.
+
+---
+
 ## [1.4.37] - 2026-08-10
 
 ### Changed

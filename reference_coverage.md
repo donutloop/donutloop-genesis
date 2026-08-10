@@ -15,7 +15,7 @@
 | **Official PDF Documents** | **14** | Formal RFA solicitations, webinars, slides, and executive reports |
 | **Web Portals & Press Releases** | **337** | Newsroom features, corporate blog posts, and interactive hubs |
 | **Validation Status** | **100% Validated** | All links canonicalized, formatted, and deduplicated |
-| **Processing Status** | **69 / 351 Processed** | 282 Unprocessed, 69 Processed |
+| **Processing Status** | **70 / 351 Processed** | 281 Unprocessed, 70 Processed |
 
 ---
 
@@ -137,7 +137,7 @@ A complete tabular listing of all 351 indexed reference links:
 | 67 | 3. Quantum Leadership & CHIPS Act Initiatives | Quantum Foundries & Manufacturing Infrastructure | GlobalFoundries | `gf.com` | Web | [GlobalFoundries](https://gf.com/gf-labs) | `Processed` |
 | 68 | 3. Quantum Leadership & CHIPS Act Initiatives | Quantum Foundries & Manufacturing Infrastructure | IBM | `research.ibm.com` | Web | [IBM](https://research.ibm.com/blog/ibm-us-genesis-mission-quantum-ai) | `Processed` |
 | 69 | 3. Quantum Leadership & CHIPS Act Initiatives | Quantum Computing & Modality Developers | Atom Computing | `atom-computing.com` | Web | [Atom Computing](https://atom-computing.com/hardware) | `Processed` |
-| 70 | 3. Quantum Leadership & CHIPS Act Initiatives | Quantum Computing & Modality Developers | Diraq | `diraq.com` | Web | [Diraq](https://diraq.com/solutions) | `Unprocessed` |
+| 70 | 3. Quantum Leadership & CHIPS Act Initiatives | Quantum Computing & Modality Developers | Diraq | `diraq.com` | Web | [Diraq](https://diraq.com/solutions) | `Processed` |
 | 71 | 3. Quantum Leadership & CHIPS Act Initiatives | Quantum Computing & Modality Developers | D-Wave | `www.dwavesys.com` | Web | [D-Wave](https://www.dwavesys.com/solutions/quantum-computing-for-science/) | `Unprocessed` |
 | 72 | 3. Quantum Leadership & CHIPS Act Initiatives | Quantum Computing & Modality Developers | Infleqtion | `www.infleqtion.com` | Web | [Infleqtion](https://www.infleqtion.com/sqale) | `Unprocessed` |
 | 73 | 3. Quantum Leadership & CHIPS Act Initiatives | Quantum Computing & Modality Developers | PsiQuantum | `psiquantum.com` | Web | [PsiQuantum](https://psiquantum.com/technology) | `Unprocessed` |
