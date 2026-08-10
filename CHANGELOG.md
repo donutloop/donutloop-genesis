@@ -7,6 +7,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
+## [1.4.44] - 2026-08-10
+
+### Changed
+- **Paper Enrichment (Entry #76 - White House OSTP Overview)**: Processed reference entry #76 (White House OSTP Overview, www.whitehouse.gov). Enriched Section 1.3 and Section 3.4 in README.md and README.de.md with comprehensive OSTP leadership details: Director Michael Kratsios executive leadership, interagency alignment across 15+ federal executive agencies (DOE, NSF, NIST, NIH, DOD, DHS S&T, NASA), governance of **33 National Science and Technology Challenges**, the **American Science and Security Platform**, over **$5 Billion** in federal commitments (July 2026), the landmark policy report *Science: A New Golden Age* (July 2026), and the NIH-co-led **Bio Genesis Mission** for biomedical discovery.
+- **Index Status Update**: Marked Entry #76 status to Processed in reference_coverage.md and updated executive metrics to 76 / 351 Processed.
+- **Version Bump**: Incremented patch version to 1.4.44 in README.md and README.de.md.
+
+---
+
 ## [1.4.43] - 2026-08-10
 
 ### Changed

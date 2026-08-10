@@ -1,4 +1,4 @@
-**Version**: 1.4.43
+**Version**: 1.4.44
 
 # Die Genesis-Mission: Architektur, strategische Initiativen und das multi-institutionelle Ökosystem für KI- und quantengetriebene wissenschaftliche Entdeckungen
 
@@ -27,7 +27,7 @@ Um diese Engpässe bei der Entdeckung zu durchbrechen und die nationale technolo
 ### 1.1 Führung des Bundes & Behördenübergreifende Governance
 Die Genesis-Mission wird in erster Linie vom **U.S. Department of Energy (DOE) Office of Science** verwaltet und orchestriert ein gesamtstaatliches Mandat, das die 17 Nationalen Laboratorien des DOE mit den wichtigsten politischen, wissenschaftlichen und verteidigungspolitischen Bundesorganen verbindet:
 
-* **White House Office of Science and Technology Policy (OSTP):** Steuert nationale Wissenschafts- & Technologieprioritäten, behördenübergreifende Ausrichtung und die Aufsicht der Exekutive für KI-für-Wissenschaft-Mandate.
+* **White House Office of Science and Technology Policy (OSTP):** Steuert nationale Wissenschafts- & Technologieprioritäten, behördenübergreifende Ausrichtung über 15+ Bundesbehörden und die Aufsicht der Exekutive für KI-für-Wissenschaft-Mandate. Unter Direktor Michael Kratsios orchestriert das OSTP die **Genesis-Mission** (gestartet per Executive Order im November 2025), um die wissenschaftliche Produktivität der USA innerhalb eines Jahrzehnts zu verdoppeln. Das OSTP beaufsichtigt **33 Nationale Wissenschafts- und Technologieherausforderungen**, die **American Science and Security Platform**, über **5 Milliarden US-Dollar** an Bundeszusagen (angekündigt im Juli 2026) und verfasste den wegweisenden Bericht *Science: A New Golden Age* (Juli 2026) zur Umstrukturierung des Bundes-F&E-Unternehmens.
 * **U.S. Department of Energy (DOE) — Office of Science:** Leitet die Gesamtausführung der Mission, Finanzierungsaufforderungen (z. B. DE-FOA-0003612), die Orchestrierung von Exascale-Rechenanlagen und den Betrieb der nationalen Labor-Hubs.
 * **U.S. Department of Commerce (DOC) — NIST / CHIPS R&D Office:** Führt Absichtserklärungen (LOIs) im Wert von über 2 Milliarden US-Dollar im Rahmen des CHIPS and Science Act für Quantengießereien, Halbleiterverpackungen und Messstandards aus.
 * **National Science Foundation (NSF):** Stellt 83 Millionen US-Dollar für integrierte wissenschaftliche Datenpipelines, FAIR-Daten-Repositories und die Förderung akademischer MINT-Arbeitskräfte bereit.
@@ -316,7 +316,7 @@ Das DOE Office of Science leitet die Finanzierung über 17 primäre nationale La
   * **University of Arizona, University of Michigan & UND:** Einsatz von KI-Erdforschungsmodellen (AlphaEarth), präziser hydrologischer Kartierung und Überwachung von Kohlenstoffabscheidungsprozessen im Rahmen von NETL-Partnerschaften.
 
 ### 3.4 Bundesbehörden & Politische Gremien
-* **White House Office of Science and Technology Policy (OSTP):** Executive Direction, behördenübergreifende Koordination und nationale S&T-Prioritätensetzung unter Exekutivverordnungen für KI und Quantenführerschaft.
+* **White House Office of Science and Technology Policy (OSTP):** Executive Direction, behördenübergreifende Koordination über 15+ Bundesbehörden (DOE, NSF, NIST, NIH, DOD, DHS S&T, NASA) und nationale S&T-Prioritätensetzung unter Exekutivverordnungen für KI- und Quantenführerschaft. Unter der Leitung von Direktor Michael Kratsios steuert das OSTP die **33 Nationalen Wissenschafts- und Technologieherausforderungen**, verwaltet die **American Science and Security Platform**, verfasste die politische Roadmap *Science: A New Golden Age* (Juli 2026) und koordiniert die **Bio Genesis Mission** mit den NIH für KI-gestützte biomedizinische Entdeckungen.
 * **U.S. Department of Energy (DOE) — Office of Science:** Primäre Missionsleitung und Förderbehörde (Ausschreibung DE-FOA-0003612), die Exascale-Supercomputing-Assets, 17 nationale Laboratorien und multi-institutionelle KI-für-Wissenschaft-Projekte orchestriert.
 * **U.S. Department of Commerce (DOC) — NIST / CHIPS R&D Office:** Ausführung von Absichtserklärungen des CHIPS and Science Act, Verwaltung von über 2 Milliarden US-Dollar an Anreizen für die Quantenhalbleiterfertigung und Festlegung nationaler Mess- und Quantenstandards.
 * **National Science Foundation (NSF):** Koordination von 83 Millionen US-Dollar für integrierte Datensysteme und nationale KI-Forschungsinstitute.
