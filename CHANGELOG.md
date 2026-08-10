@@ -7,6 +7,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
+## [1.4.46] - 2026-08-10
+
+### Changed
+- **Paper Enrichment (Entry #78 - White House OSTP 2025 Historic Wins Report PDF)**: Processed reference entry #78 (White House OSTP: 2025 Historic Wins Report PDF, `WHOSTP-2025-Wins.pdf`, www.whitehouse.gov). Enriched Section 4.2 in README.md and README.de.md with comprehensive report findings: official document title (*2025 Trump Administration Science & Technology Highlights*, Jan 2026), the **Four Strategic Pillars** of national S&T policy, launching the **Quantum Computer for Application Development and Discovery Science (QC-ADDS)** initiative integrating QPUs with exascale supercomputing, 90-day mandate for agency action plans and FY2028 OMB budget submissions, and alignment with the policy framework *Science: A New Golden Age*.
+- **Index Status Update**: Marked Entry #78 status to Processed in reference_coverage.md and updated executive metrics to 78 / 351 Processed.
+- **Version Bump**: Incremented patch version to 1.4.46 in README.md and README.de.md.
+
+---
+
 ## [1.4.45] - 2026-08-10
 
 ### Changed

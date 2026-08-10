@@ -1,4 +1,4 @@
-**Version**: 1.4.45
+**Version**: 1.4.46
 
 # The Genesis Mission: Architecture, Strategic Initiatives, and the Multi-Institutional Ecosystem for AI and Quantum-Driven Scientific Discovery
 
@@ -377,7 +377,7 @@ The financial infrastructure of the Genesis Mission integrates four distinct cap
 
 Executive governance coordinates policies across 9 federal agencies under executive orders prioritizing American leadership in AI, quantum information science, and domestic semiconductor manufacturing:
 
-* **White House OSTP:** Sets national Strategic S&T Priorities, coordinates interagency policy, and reviews national security classification guidelines for dual-use AI and quantum technologies.
+* **White House OSTP:** Sets national Strategic S&T Priorities, coordinates interagency policy across 15+ agencies, and published the landmark **2025 Historic Wins Report** (*2025 Trump Administration Science & Technology Highlights*, PDF reference `WHOSTP-2025-Wins.pdf`, Jan 2026) alongside the policy framework *Science: A New Golden Age* (July 2026). OSTP established the **Four Strategic Pillars** of national S&T: (1) Revitalize the U.S. S&T enterprise and agile X-Labs; (2) Secure U.S. dominance in critical and emerging technologies; (3) Launch a new Golden Age powered by AI for Science; and (4) Ensure S&T betters the lives of all Americans. OSTP launched the **Quantum Computer for Application Development and Discovery Science (QC-ADDS)** initiative integrating QPUs with exascale supercomputing, mandated agency action plans and FY2028 OMB budget submissions within 90 days, and enforces national security classification guidelines for dual-use AI and quantum technologies.
 * **DOE Office of Science:** Serves as the primary operational execution agency, managing the 17 National Laboratories, federal user facilities, and the DE-FOA-0003612 award administration.
 * **DOC NIST / CHIPS Office:** Oversees microelectronics supply chain security, executes CHIPS Act funding agreements, and establishes national measurement standards for quantum hardware benchmarking.
 * **Interagency FAIR Data & Cybersecurity Governance:** Enforces strict adherence to FAIR (Findable, Accessible, Interoperable, Reusable) data principles across all national lab data pipelines while implementing Zero-Trust Architecture (ZTA) and GSA OneGov security protocols for cloud LLM access.

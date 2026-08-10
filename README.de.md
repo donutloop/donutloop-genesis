@@ -1,4 +1,4 @@
-**Version**: 1.4.45
+**Version**: 1.4.46
 
 # Die Genesis-Mission: Architektur, strategische Initiativen und das multi-institutionelle Ökosystem für KI- und quantengetriebene wissenschaftliche Entdeckungen
 
@@ -364,6 +364,8 @@ Die Finanzinfrastruktur der Genesis-Mission integriert vier verschiedene Kapital
 
 ### 4.2 Behördenübergreifende Governance & Ausrichtung der Bundespolitik
 Die Governance der Exekutive koordiniert die Politik von 9 Bundesbehörden auf der Grundlage von Verordnungen, die der US-Führungsrolle bei KI, Quanteninformationswissenschaften und inländischer Halbleiterfertigung Priorität einräumen.
+
+* **White House OSTP:** Legt nationale strategische S&T-Prioritäten fest, koordiniert die behördenübergreifende Politik über 15+ Behörden und veröffentlichte den wegweisenden **2025 Historic Wins Report** (*2025 Trump Administration Science & Technology Highlights*, PDF-Referenz `WHOSTP-2025-Wins.pdf`, Jan. 2026) zusammen mit der politischen Rahmenplanung *Science: A New Golden Age* (Juli 2026). Das OSTP etablierte die **Vier Strategischen Säulen** der nationalen S&T: (1) Wiederbelebung des US-S&T-Unternehmens und agiler X-Labs; (2) Sicherung der US-Dominanz in kritischen und aufstrebenden Technologien; (3) Start eines neuen Goldenen Zeitalters, angetrieben von KI für Wissenschaft; und (4) Sicherstellung, dass S&T das Leben aller Amerikaner verbessert. Das OSTP startete die **Quantum Computer for Application Development and Discovery Science (QC-ADDS)**-Initiative zur Integration von QPUs mit Exascale-Supercomputing, ordnete Aktionspläne der Behörden und FY2028-OMB-Budgetanträge innerhalb von 90 Tagen an und setzt nationale Sicherheitsklassifizierungsrichtlinien für Dual-Use-KI- und Quantentechnologien durch.
 
 ### 4.3 Strategische Implikationen & Nationale Technologische Souveränität
 Die Genesis-Mission stellt einen grundlegenden Wandel in der wissenschaftlichen Strategie des Bundes dar – weg von passiver, computergestützter Forschung hin zu **aktiver, agentischer wissenschaftlicher Entdeckung**:
