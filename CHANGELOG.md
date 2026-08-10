@@ -7,6 +7,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
+## [1.5.21] - 2026-08-10
+
+### Changed
+- **Paper Enrichment (Entry #116 - IBM $50M Quantum Compute Access Release)**: Processed reference entry #116 (IBM: Committing $50 Million in Quantum Compute Access, www.ibm.com/quantum/us-genesis-mission). Enriched Section 3.1 B in README.md and README.de.md with IBM Quantum details: committing **$50 Million** in utility-scale quantum compute access over 5 years (**Heron** 156-qubit and **Nighthawk** 120-qubit QPUs), co-leading Phase I RFA agentic AI quantum discovery awards with ORNL, ANL, and BNL using an "algorithm-first" AI assistant, and integrating **Qiskit Runtime** and **Qiskit Serverless** across national lab supercomputers.
+- **Index Status Update**: Marked Entry #116 status to Processed in reference_coverage.md and updated executive metrics to 116 / 355 Processed.
+- **Version Bump**: Incremented patch version to 1.5.21 in README.md and README.de.md.
+
+---
+
 ## [1.5.20] - 2026-08-10
 
 ### Changed

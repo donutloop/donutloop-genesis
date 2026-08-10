@@ -15,7 +15,7 @@
 | **Official PDF Documents** | **14** | Formal RFA solicitations, webinars, slides, and executive reports |
 | **Web Portals & Press Releases** | **337** | Newsroom features, corporate blog posts, and interactive hubs |
 | **Validation Status** | **100% Validated** | All links canonicalized, formatted, and deduplicated |
-| **Processing Status** | **115 / 355 Processed** | 240 Unprocessed, 115 Processed |
+| **Processing Status** | **116 / 355 Processed** | 239 Unprocessed, 116 Processed |
 
 ---
 
@@ -183,7 +183,7 @@ A complete tabular listing of all 351 indexed reference links:
 | 113 | 4. Executive, Federal & Partner Announcements | - | Google DeepMind: Supporting US DOE on Genesis Mission | `deepmind.google` | Web | [Google DeepMind: Supporting US DOE on Genesis Mission](https://deepmind.google/blog/google-deepmind-supports-us-department-of-energy-on-genesis/) | `Processed` |
 | 114 | 4. Executive, Federal & Partner Announcements | - | Google Public Sector & DeepMind: Powering the Genesis Mission | `cloud.google.com` | Web | [Google Public Sector & DeepMind: Powering the Genesis Mission](https://cloud.google.com/blog/topics/public-sector/how-google-public-sector-and-google-deepmind-can-power-the-genesis-mission-and-a-new-era-of-scientific-discovery) | `Processed` |
 | 115 | 4. Executive, Federal & Partner Announcements | - | Google Cloud: Accelerating Scientific Discovery with $40M Commitment | `cloud.google.com` | Web | [Google Cloud: Accelerating Scientific Discovery with $40M Commitment](https://cloud.google.com/blog/topics/public-sector/accelerating-frontiers-of-scientific-discovery-40-million-dollar-commitment-genesis-mission) | `Processed` |
-| 116 | 4. Executive, Federal & Partner Announcements | - | IBM: Committing $50 Million in Quantum Compute Access | `www.ibm.com` | Web | [IBM: Committing $50 Million in Quantum Compute Access](https://www.ibm.com/quantum/us-genesis-mission) | `Unprocessed` |
+| 116 | 4. Executive, Federal & Partner Announcements | - | IBM: Committing $50 Million in Quantum Compute Access | `www.ibm.com` | Web | [IBM: Committing $50 Million in Quantum Compute Access](https://www.ibm.com/quantum/us-genesis-mission) | `Processed` |
 | 117 | 4. Executive, Federal & Partner Announcements | - | Microsoft: Commitment to Scientific Discovery | `blogs.microsoft.com` | Web | [Microsoft: Commitment to Scientific Discovery](https://blogs.microsoft.com/blog/2026/07/22/powering-americas-genesis-mission-microsofts-commitment-to-scientific-discovery/) | `Unprocessed` |
 | 118 | 4. Executive, Federal & Partner Announcements | - | Microsoft Public Sector: Accelerating Science with the U.S. Department of Energy | `techcommunity.microsoft.com` | Web | [Microsoft Public Sector: Accelerating Science with the U.S. Department of Energy](https://techcommunity.microsoft.com/blog/publicsectorblog/genesis-mission-how-microsoft--the-u-s-department-of-energy-accelerate-science/4495259) | `Unprocessed` |
 | 119 | 4. Executive, Federal & Partner Announcements | - | Microsoft Discovery: Platform Overview & Autonomous Lab Orchestration | `azure.microsoft.com` | Web | [Microsoft Discovery: Platform Overview & Autonomous Lab Orchestration](https://azure.microsoft.com/en-us/solutions/discovery) | `Unprocessed` |
