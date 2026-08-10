@@ -7,6 +7,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
+## [1.5.41] - 2026-08-10
+
+### Changed
+- **Paper Enrichment (Entries #218, #219, #220, #221, #222, #223, #224, #225, #226, #227 & #228 - INL Project Prometheus SMR Licensing, LLNL 10 Projects & LANL 7 Projects Releases)**: Processed reference entries #218 (INL Nuclear Deployment with NVIDIA AI), #219 (INL Nuclear AI Innovation), #220 (INL Nuclear Projects with AWS Cloud), #221 (INL Project Prometheus Accelerated Nuclear Reactor Licensing), #222 (LLNL Selected to Lead 10 Projects), #223 (LLNL Big Ideas Lab Podcast), #224 (LANL 7 Projects Funding), #225 (LANL 7 Projects Release), #226 (LANL AI Computing Revolution), #227 (LANL UC AI Summit), and #228 (LANL 1663 Magazine QUBITS). Enriched Section 2.2 and 2.3 in README.md and README.de.md with Idaho National Lab (INL) Project Prometheus 32-partner $60M Phase II award for SMR nuclear reactor licensing with NVIDIA & AWS, Lawrence Livermore National Lab (LLNL) 10 Genesis projects & Big Ideas Lab podcast, and Los Alamos National Lab (LANL) 7 Genesis projects, quantum error correction / logical qubits, and 1663 Magazine feature.
+- **Index Status Update**: Marked Entries #218 through #228 status to Processed in reference_coverage.md and updated executive metrics to 228 / 355 Processed.
+- **Version Bump**: Incremented patch version to 1.5.41 in README.md and README.de.md.
+
+---
+
 ## [1.5.40] - 2026-08-10
 
 ### Changed
