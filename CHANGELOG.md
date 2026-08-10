@@ -7,6 +7,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
+## [1.5.40] - 2026-08-10
+
+### Changed
+- **Paper Enrichment (Entries #208, #209, #210, #211, #212, #213, #214, #215, #216 & #217 - BNL WANDA 2024 & Fermilab AXESS Extreme Environment Chips Releases)**: Processed reference entries #208 (BNL GM Leadership), #209 (BNL Strategic Projects), #210 (BNL Inaugural Initiatives), #211 (BNL Computing Breakthroughs), #212 (BNL NNDC WANDA 2024 Proceedings PDF), #213 (Fermilab AI Discovery), #214 (Fermilab GM Progress), #215 (Fermilab AXESS Extreme Environment Chips), #216 (Fermilab GM Launch), and #217 (Fermilab FDP Storage Infrastructure). Enriched Section 2.1 in README.md and README.de.md with Brookhaven National Lab (BNL) NNDC WANDA 2024 proceedings PDF link, agentic AI autonomous labs, and Fermi National Accelerator Lab (Fermilab) AXESS (Accelerating eXtreme Environment Specs-to-Silicon) radiation-hardened chip design initiative and Fermi Data Platform (FDP) petabyte storage infrastructure.
+- **Index Status Update**: Marked Entries #208 through #217 status to Processed in reference_coverage.md and updated executive metrics to 217 / 355 Processed.
+- **Version Bump**: Incremented patch version to 1.5.40 in README.md and README.de.md.
+
+---
+
 ## [1.5.39] - 2026-08-10
 
 ### Changed
