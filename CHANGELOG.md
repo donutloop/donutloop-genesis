@@ -7,6 +7,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
+## [1.5.36] - 2026-08-10
+
+### Changed
+- **Paper Enrichment (Entries #176, #177, #178, #179, #180, #181 & #182 - NVIDIA Blogs, DOE RFA PDF List, Interactive Hub, House Science Hearing & Domino Data Lab Releases)**: Processed reference entries #176 (NVIDIA Sec Wright & Ian Buck Discussion), #177 (NVIDIA National Quantum Initiative), #178 (NVIDIA Japan Ecosystem 2026 AI for Science), #179 (DOE GM-RFA Awards List PDF), #180 (House Science Ranking Member Ross Statement), #181 (DOE Genesis Interactive Demonstration Hub), and #182 (Domino Data Lab Consortium Join). Enriched Section 3.1 A, 3.2, and 4.2 in README.md and README.de.md with NVIDIA National Quantum Initiative and Japan AI for Science blog links, DOE 278 GM-RFA awards list PDF link, DOE Interactive Demo Hub link, House Science Committee Ranking Member Ross hearing opening statement link, and Domino Enterprise AI Platform data science orchestration.
+- **Index Status Update**: Marked Entries #176 through #182 status to Processed in reference_coverage.md and updated executive metrics to 182 / 355 Processed.
+- **Version Bump**: Incremented patch version to 1.5.36 in README.md and README.de.md.
+
+---
+
 ## [1.5.35] - 2026-08-10
 
 ### Changed
