@@ -7,6 +7,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
+## [1.5.49] - 2026-08-10
+
+### Changed
+- **Paper Enrichment (Entries #291, #292, #293, #294, #295, #296, #297, #298, #299 & #300 - Stony Brook 6 Awards, Texas A&M, Texas State, Tulane, UC Berkeley Chemistry, UC Davis, UCSB & UNC Charlotte Releases)**: Processed reference entries #291/#292 (Stony Brook 6 Landmark AI Awards), #293 (Texas A&M Biomining & AI), #294 (Texas State OPTIX SciML Model), #295 (Tulane Next-Gen Materials AI), #296 (UC Berkeley Chemistry Small-Data Catalyst AI), #297 (UC Davis Landmark Awards), #298 (UCSB 2 Projects), and #299/#300 (UNC Charlotte Cohort & Student LLM Fellows). Enriched Section 3.3 in README.md and README.de.md with Stony Brook University, Texas A&M University, Texas State University, Tulane University, University of California Berkeley (College of Chemistry), University of California Davis, University of California Santa Barbara (UCSB), and University of North Carolina at Charlotte (UNC Charlotte).
+- **Index Status Update**: Marked Entries #291 through #300 status to Processed in reference_coverage.md and updated executive metrics to 300 / 355 Processed.
+- **Version Bump**: Incremented patch version to 1.5.49 in README.md and README.de.md.
+
+---
+
 ## [1.5.48] - 2026-08-10
 
 ### Changed
