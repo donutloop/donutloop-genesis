@@ -1,4 +1,4 @@
-**Version**: 1.4.46
+**Version**: 1.4.47
 
 # Die Genesis-Mission: Architektur, strategische Initiativen und das multi-institutionelle Ökosystem für KI- und quantengetriebene wissenschaftliche Entdeckungen
 
@@ -22,7 +22,7 @@ Die angestrebten wissenschaftlichen Domänen reichen von der Hochenergiephysik (
 
 Das traditionelle Paradigma wissenschaftlicher Entdeckungen – iterative Hypothesenformulierung, manuelle experimentelle Durchführung und isolierte computergestützte Modellierung – wird zunehmend durch das astronomische kombinatorische Ausmaß hochdimensionaler Forschungsbereiche gehemmt. Ob bei der Synthese von Raumtemperatur-Supraleitern, der Erforschung des unübersetzten menschlichen Proteoms, der Eindämmung von Fusionsplasmastörungen oder der Kartierung subatomarer Quark-Gluon-Plasmen: Physikalische Parameterräume übersteigen bei Weitem die Kapazität menschlicher Intuition und klassischer Brute-Force-Simulationen.
 
-Um diese Engpässe bei der Entdeckung zu durchbrechen und die nationale technologische Führungsrolle zu sichern, hat die US-Bundesregierung im Jahr 2026 die **Genesis-Mission** ins Leben gerufen. Die Mission wurde durch Exekutivdirektiven ins Leben gerufen und durch milliardenschwere behördenübergreifende Zusagen unterstützt. Sie baut eine nationale Infrastruktur für wissenschaftliche Entdeckungen auf, indem sie Exascale-Hochleistungsrechnen (HPC), fehlertolerante Quantencomputing-Geräte und domänenspezifische Basismodelle der künstlichen Intelligenz (KI) zu einem einheitlichen Ausführungssubstrat zusammenschließt.
+Um diese Engpässe bei der Entdeckung zu durchbrechen und die nationale technologische Führungsrolle zu sichern, unterzeichnete Präsident Donald J. Trump am 24. November 2025 **Executive Order 14363** (*Launching the Genesis Mission*) und etablierte die **Genesis-Mission** als gesamtstaatliches Mandat. Unterstützt durch milliardenschwere behördenübergreifende Zusagen baut die Exekutivverordnung eine nationale Infrastruktur für wissenschaftliche Entdeckungen auf, indem sie Exascale-Hochleistungsrechnen (HPC), fehlertolerante Quantencomputing-Geräte über 7 Hardware-Modalitäten und domänenspezifische Basismodelle der künstlichen Intelligenz (KI) auf der einheitlichen **American Science and Security Platform** zusammenschließt. Die Richtlinie zielt darauf ab, die amerikanische Produktivität in Wissenschaft und Ingenieurwesen innerhalb eines Jahrzehnts zu verdoppeln, mit Priorität auf Kernenergie, Biotechnologie, fortschrittlicher Fertigung, Halbleitern und Quanteninformationswissenschaft.
 
 ### 1.1 Führung des Bundes & Behördenübergreifende Governance
 Die Genesis-Mission wird in erster Linie vom **U.S. Department of Energy (DOE) Office of Science** verwaltet und orchestriert ein gesamtstaatliches Mandat, das die 17 Nationalen Laboratorien des DOE mit den wichtigsten politischen, wissenschaftlichen und verteidigungspolitischen Bundesorganen verbindet:

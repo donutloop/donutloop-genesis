@@ -7,6 +7,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
+## [1.4.47] - 2026-08-10
+
+### Changed
+- **Paper Enrichment (Entry #79 - White House Executive Action Launching the Genesis Mission)**: Processed reference entry #79 (White House Executive Action: Launching the Genesis Mission, `Executive Order 14363`, Nov 24, 2025, www.whitehouse.gov). Enriched Section 1.1 in README.md and README.de.md with official legal directive details: Presidential Executive Order 14363 signed by President Donald J. Trump, whole-of-government mandate establishing the **American Science and Security Platform**, goal to double U.S. scientific and engineering productivity within a decade, and focus areas across nuclear energy, biotechnology, advanced manufacturing, semiconductors, and quantum information science.
+- **Index Status Update**: Marked Entry #79 status to Processed in reference_coverage.md and updated executive metrics to 79 / 351 Processed.
+- **Version Bump**: Incremented patch version to 1.4.47 in README.md and README.de.md.
+
+---
+
 ## [1.4.46] - 2026-08-10
 
 ### Changed

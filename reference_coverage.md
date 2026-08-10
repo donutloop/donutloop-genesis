@@ -15,7 +15,7 @@
 | **Official PDF Documents** | **14** | Formal RFA solicitations, webinars, slides, and executive reports |
 | **Web Portals & Press Releases** | **337** | Newsroom features, corporate blog posts, and interactive hubs |
 | **Validation Status** | **100% Validated** | All links canonicalized, formatted, and deduplicated |
-| **Processing Status** | **78 / 351 Processed** | 273 Unprocessed, 78 Processed |
+| **Processing Status** | **79 / 351 Processed** | 272 Unprocessed, 79 Processed |
 
 ---
 
@@ -146,7 +146,7 @@ A complete tabular listing of all 351 indexed reference links:
 | 76 | 4. Executive, Federal & Partner Announcements | - | White House OSTP: Office of Science and Technology Policy Overview | `www.whitehouse.gov` | Web | [White House OSTP: Office of Science and Technology Policy Overview](https://www.whitehouse.gov/science/) | `Processed` |
 | 77 | 4. Executive, Federal & Partner Announcements | - | Genesis Mission Consortium: Our Members Directory | `www.genesismissionconsortium.org` | Web | [Genesis Mission Consortium: Our Members Directory](https://www.genesismissionconsortium.org/our-members) | `Processed` |
 | 78 | 4. Executive, Federal & Partner Announcements | - | White House OSTP: 2025 Historic Wins Report (PDF) | `www.whitehouse.gov` | PDF | [White House OSTP: 2025 Historic Wins Report (PDF)](https://www.whitehouse.gov/wp-content/uploads/2026/01/WHOSTP-2025-Wins.pdf) | `Processed` |
-| 79 | 4. Executive, Federal & Partner Announcements | - | White House Executive Action: Launching the Genesis Mission | `www.whitehouse.gov` | Web | [White House Executive Action: Launching the Genesis Mission](https://www.whitehouse.gov/presidential-actions/2025/11/launching-the-genesis-mission/) | `Unprocessed` |
+| 79 | 4. Executive, Federal & Partner Announcements | - | White House Executive Action: Launching the Genesis Mission | `www.whitehouse.gov` | Web | [White House Executive Action: Launching the Genesis Mission](https://www.whitehouse.gov/presidential-actions/2025/11/launching-the-genesis-mission/) | `Processed` |
 | 80 | 4. Executive, Federal & Partner Announcements | - | White House Announcement: President Trump Launches the Genesis Mission | `www.whitehouse.gov` | Web | [White House Announcement: President Trump Launches the Genesis Mission](https://www.whitehouse.gov/releases/2025/11/president-trump-launches-the-genesis-mission-to-accelerate-ai-for-scientific-discovery/) | `Unprocessed` |
 | 81 | 4. Executive, Federal & Partner Announcements | - | White House Fact Sheet: President Donald J. Trump Unveils the Genesis Mission | `www.whitehouse.gov` | Web | [White House Fact Sheet: President Donald J. Trump Unveils the Genesis Mission](https://www.whitehouse.gov/fact-sheets/2025/11/fact-sheet-president-donald-j-trump-unveils-the-genesis-missionto-accelerate-ai-for-scientific-discovery/) | `Unprocessed` |
 | 82 | 4. Executive, Federal & Partner Announcements | - | White House Release: 2026 Genesis Mission Updates | `www.whitehouse.gov` | Web | [White House Release: 2026 Genesis Mission Updates](https://www.whitehouse.gov/releases/2026/07/45502/) | `Unprocessed` |

@@ -1,4 +1,4 @@
-**Version**: 1.4.46
+**Version**: 1.4.47
 
 # The Genesis Mission: Architecture, Strategic Initiatives, and the Multi-Institutional Ecosystem for AI and Quantum-Driven Scientific Discovery
 
@@ -22,7 +22,7 @@ The scientific domains targeted span high-energy physics (HEP-LHC ATLAS trigger 
 
 The traditional paradigm of scientific discovery—iterative hypothesis formulation, manual experimental execution, and isolated computational modeling—is increasingly bottlenecked by the staggering combinatorial scale of high-dimensional research domains. Whether synthesizing room-temperature superconductors, exploring the untranslated human proteome, containing fusion plasma disruptions, or mapping subatomic quark-gluon plasma, physical parameter spaces far exceed the capacity of human intuition and classical brute-force simulation.
 
-To shatter these discovery bottlenecks and secure national technological leadership, the U.S. federal government launched the **Genesis Mission** in 2026. Established through executive directives and backed by multi-billion-dollar interagency commitments, the mission constructs a national scientific discovery infrastructure by federating exascale high-performance computing (HPC), fault-tolerant quantum computing devices, and domain-specialized artificial intelligence (AI) foundation models into a unified, closed-loop execution substrate.
+To shatter these discovery bottlenecks and secure national technological leadership, President Donald J. Trump signed **Executive Order 14363** (*Launching the Genesis Mission*, November 24, 2025), establishing the **Genesis Mission** as a whole-of-government mandate. Backed by multi-billion-dollar interagency commitments, the Executive Order constructs a national scientific discovery infrastructure by federating exascale high-performance computing (HPC), fault-tolerant quantum computing devices across 7 hardware modalities, and domain-specialized artificial intelligence (AI) foundation models into the unified **American Science and Security Platform**. The directive aims to double American scientific and engineering productivity within a decade, prioritizing nuclear energy, biotechnology, advanced manufacturing, semiconductors, and quantum information science.
 
 ### 1.1 Federal Leadership & Interagency Governance
 Managed primarily by the **U.S. Department of Energy (DOE) Office of Science**, the Genesis Mission orchestrates a whole-of-government mandate linking DOE's 17 National Laboratories with key federal policy, scientific, and defense bodies:
