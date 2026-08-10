@@ -7,6 +7,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
+## [1.5.29] - 2026-08-10
+
+### Changed
+- **Paper Enrichment (Entries #137, #138, #139 & #140 - PsiQuantum, Quantinuum & Rigetti CHIPS Act $100M LOIs & DOE Fusion Releases)**: Processed reference entries #137 (PsiQuantum $100M CHIPS Act LOI), #138 (Quantinuum $100M CHIPS Act LOI), #139 (Rigetti Computing $100M CHIPS Act LOI), and #140 (Rigetti DOE Fusion Energy Quantum Simulation Award). Enriched Section 3.1 B in README.md and README.de.md with PsiQuantum photonic quantum hardware (BTO optical switches, PsiFactory, GlobalFoundries Omega silicon photonics), Quantinuum trapped-ion QCCD (98-qubit Helios processor, InQuanto chemistry platform), and Rigetti multi-chip superconducting QPUs (84-qubit Ankaa-3, LLNL/CU Boulder nonlinear fusion plasma simulation).
+- **Index Status Update**: Marked Entries #137, #138, #139, and #140 status to Processed in reference_coverage.md and updated executive metrics to 140 / 355 Processed.
+- **Version Bump**: Incremented patch version to 1.5.29 in README.md and README.de.md.
+
+---
+
 ## [1.5.28] - 2026-08-10
 
 ### Changed
