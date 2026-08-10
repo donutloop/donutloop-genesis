@@ -7,6 +7,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
+## [1.5.42] - 2026-08-10
+
+### Changed
+- **Paper Enrichment (Entries #229, #230, #231, #232, #233, #234, #235, #236 & #237 - NETL CCUS, NREL Kestrel / NLR Hub & ORNL 9 Genesis Projects Releases)**: Processed reference entries #229 (NETL Grid & Supply Chain AI), #230 (NETL Genesis Node), #231 (NLR Computational Science Hub), #232 (NLR Grid AI Research), #233 (ORNL Genesis Core Systems), #234 (ORNL Portal), #235 (ORNL Leads 9 Genesis Projects), #236 (ORNL Genesis Projects Hub), and #237 (ORNL Qubit Engineering Neuro-Grid Tool). Enriched Section 2.1 and 2.3 in README.md and README.de.md with National Energy Technology Lab (NETL) subterranean CCUS and critical material recovery, National Renewable Energy Lab (NREL / NLR) Kestrel supercomputer & ARIES computational hub, and Oak Ridge National Lab (ORNL) 9 flagship Genesis projects and Qubit Engineering Neuro-Grid power grid tool.
+- **Index Status Update**: Marked Entries #229 through #237 status to Processed in reference_coverage.md and updated executive metrics to 237 / 355 Processed.
+- **Version Bump**: Incremented patch version to 1.5.42 in README.md and README.de.md.
+
+---
+
 ## [1.5.41] - 2026-08-10
 
 ### Changed
