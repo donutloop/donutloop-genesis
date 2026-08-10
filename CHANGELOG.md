@@ -7,6 +7,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
+## [1.5.33] - 2026-08-10
+
+### Changed
+- **Paper Enrichment (Entries #156, #157, #158, #159, #160 & #161 - NSF Micron/GF, IBM Cleveland Clinic Fusion & Diraq $38M CHIPS LOI Releases)**: Processed reference entries #156 (Windows Forum MSFT $60M Release), #157 (NSF Micron & GlobalFoundries Workforce Development), #158 (IBM ORNL Cleveland Clinic Fusion Material Computations), #159 (IBM Quantum Molten Salts Fusion Modeling), #160 (Diraq $38M CHIPS Act LOI), and #161 (Diraq CMOS Silicon Spin Technology Architecture). Enriched Section 1.1, 3.1, and 3.5 in README.md and README.de.md with NSF Micron/GlobalFoundries MSI semiconductor workforce funding, IBM Heron 156-qubit quantum-centric supercomputing for FLiBe fusion reactor molten salt chemistry, and Diraq 100,000+ spin-qubit 300mm silicon quantum dot architecture.
+- **Index Status Update**: Marked Entries #156 through #161 status to Processed in reference_coverage.md and updated executive metrics to 161 / 355 Processed.
+- **Version Bump**: Incremented patch version to 1.5.33 in README.md and README.de.md.
+
+---
+
 ## [1.5.32] - 2026-08-10
 
 ### Changed
