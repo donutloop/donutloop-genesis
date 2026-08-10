@@ -7,6 +7,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
+## [1.5.11] - 2026-08-10
+
+### Changed
+- **Paper Enrichment (Entry #102 - DOE Office of Science FOA DE-FOA-0003612 Portal)**: Processed reference entry #102 (DOE Office of Science: Funding Opportunity Announcement DE-FOA-0003612, science.osti.gov/grants/FOAs/FOAs/2026/DE-FOA-0003612). Enriched Section 1.1 in README.md and README.de.md with official FOA portal details: administering Funding Opportunity Announcement DE-FOA-0003612 (*The Genesis Mission: Transforming Science and Energy with AI*) across ASCR, BES, BER, FES, HEP, and NP program offices, managing Phase I ($500k–$750k 9-month exploratory) and Phase II ($6M–$15M 3-year scale-up) grants linked with exascale supercomputers (*Frontier*, *Aurora*, *El Capitan*, *Solstice*, *Equinox*) and the **American Science Cloud (AmSC)**.
+- **Index Status Update**: Marked Entry #102 status to Processed in reference_coverage.md and updated executive metrics to 102 / 355 Processed.
+- **Version Bump**: Incremented patch version to 1.5.11 in README.md and README.de.md.
+
+---
+
 ## [1.5.10] - 2026-08-10
 
 ### Changed

@@ -15,7 +15,7 @@
 | **Official PDF Documents** | **14** | Formal RFA solicitations, webinars, slides, and executive reports |
 | **Web Portals & Press Releases** | **337** | Newsroom features, corporate blog posts, and interactive hubs |
 | **Validation Status** | **100% Validated** | All links canonicalized, formatted, and deduplicated |
-| **Processing Status** | **101 / 355 Processed** | 254 Unprocessed, 101 Processed |
+| **Processing Status** | **102 / 355 Processed** | 253 Unprocessed, 102 Processed |
 
 ---
 
@@ -169,7 +169,7 @@ A complete tabular listing of all 351 indexed reference links:
 | 99 | 4. Executive, Federal & Partner Announcements | - | DOE Announcement: $293 Million Funding Support for National Science Challenges | `www.energy.gov` | Web | [DOE Announcement: $293 Million Funding Support for National Science Challenges](https://www.energy.gov/articles/energy-department-announces-293-million-funding-support-genesis-mission-national-science) | `Processed` |
 | 100 | 4. Executive, Federal & Partner Announcements | - | NNSA Announcement: Demonstrating Swift Action on Genesis Mission | `www.energy.gov` | Web | [NNSA Announcement: Demonstrating Swift Action on Genesis Mission](https://www.energy.gov/nnsa/articles/nnsa-demonstrates-swift-action-genesis-mission) | `Processed` |
 | 101 | 4. Executive, Federal & Partner Announcements | - | DOE Office of Science: Genesis Mission RFA Informational Webinar (PDF) | `science.osti.gov` | PDF | [DOE Office of Science: Genesis Mission RFA Informational Webinar (PDF)](https://science.osti.gov/-/media/grants/pdf/foas-resources/2026/Genesis-Mission-RFA-Informational-Webinar-v2-public--clean--ASCR.pdf) | `Processed` |
-| 102 | 4. Executive, Federal & Partner Announcements | - | DOE Office of Science: Funding Opportunity Announcement (DE-FOA-0003612) | `science.osti.gov` | Web | [DOE Office of Science: Funding Opportunity Announcement (DE-FOA-0003612)](https://science.osti.gov/grants/FOAs/FOAs/2026/DE-FOA-0003612) | `Unprocessed` |
+| 102 | 4. Executive, Federal & Partner Announcements | - | DOE Office of Science: Funding Opportunity Announcement (DE-FOA-0003612) | `science.osti.gov` | Web | [DOE Office of Science: Funding Opportunity Announcement (DE-FOA-0003612)](https://science.osti.gov/grants/FOAs/FOAs/2026/DE-FOA-0003612) | `Processed` |
 | 103 | 4. Executive, Federal & Partner Announcements | - | Grants.gov Opportunity: DOE Genesis Mission (0228b895-9cb3-4160-8acc-58709e75c3c7) | `simpler.grants.gov` | Web | [Grants.gov Opportunity: DOE Genesis Mission (0228b895-9cb3-4160-8acc-58709e75c3c7)](https://simpler.grants.gov/opportunity/0228b895-9cb3-4160-8acc-58709e75c3c7) | `Unprocessed` |
 | 104 | 4. Executive, Federal & Partner Announcements | - | Department of War: Partnership to Proliferate AI for Science | `www.war.gov` | Web | [Department of War: Partnership to Proliferate AI for Science](https://www.war.gov/News/Releases/Release/Article/4551998/department-of-war-partners-with-the-genesis-mission-to-proliferate-ai-for-scien/) | `Unprocessed` |
 | 105 | 4. Executive, Federal & Partner Announcements | - | DHS S&T: Announces New Genesis Mission Challenges to Safeguard America's Future | `www.dhs.gov` | Web | [DHS S&T: Announces New Genesis Mission Challenges to Safeguard America's Future](https://www.dhs.gov/science-and-technology/news/2026/07/22/st-announces-new-genesis-mission-challenges-safeguard-americas-future) | `Unprocessed` |
