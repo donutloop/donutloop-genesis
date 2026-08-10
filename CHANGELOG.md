@@ -7,6 +7,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
+## [1.5.17] - 2026-08-10
+
+### Changed
+- **Paper Enrichment (Entry #109 - NASA AI-Driven Discovery Release)**: Processed reference entry #109 (NASA: Joining to Accelerate AI-Driven Discovery, www.nasa.gov/news-release/nasa-joins-genesis-mission-to-accelerate-ai-driven-discovery/). Enriched Section 1.1 in README.md and README.de.md with NASA integration details: integrating over **150 Petabytes** of Earth observation, heliophysics, and deep-space data into the **American Science and Security Platform**, co-developing climate digital twins (AlphaEarth), solar flare prediction systems, and autonomous spacecraft navigation software.
+- **Index Status Update**: Marked Entry #109 status to Processed in reference_coverage.md and updated executive metrics to 109 / 355 Processed.
+- **Version Bump**: Incremented patch version to 1.5.17 in README.md and README.de.md.
+
+---
+
 ## [1.5.16] - 2026-08-10
 
 ### Changed

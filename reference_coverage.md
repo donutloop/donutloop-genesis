@@ -15,7 +15,7 @@
 | **Official PDF Documents** | **14** | Formal RFA solicitations, webinars, slides, and executive reports |
 | **Web Portals & Press Releases** | **337** | Newsroom features, corporate blog posts, and interactive hubs |
 | **Validation Status** | **100% Validated** | All links canonicalized, formatted, and deduplicated |
-| **Processing Status** | **108 / 355 Processed** | 247 Unprocessed, 108 Processed |
+| **Processing Status** | **109 / 355 Processed** | 246 Unprocessed, 109 Processed |
 
 ---
 
@@ -176,7 +176,7 @@ A complete tabular listing of all 351 indexed reference links:
 | 106 | 4. Executive, Federal & Partner Announcements | - | HHS: Joining the Mission to End Chronic Disease | `www.hhs.gov` | Web | [HHS: Joining the Mission to End Chronic Disease](https://www.hhs.gov/press-room/hhs-joins-genesis-mission-ai-chronic-disease-research.html) | `Processed` |
 | 107 | 4. Executive, Federal & Partner Announcements | - | NIH: Bio Genesis Mission Overview | `www.nih.gov` | Web | [NIH: Bio Genesis Mission Overview](https://www.nih.gov/bio-genesismission) | `Processed` |
 | 108 | 4. Executive, Federal & Partner Announcements | - | NIH Director Statement: Launch of Bio Genesis Mission (NIH Component) | `www.nih.gov` | Web | [NIH Director Statement: Launch of Bio Genesis Mission (NIH Component)](https://www.nih.gov/about-nih/nih-director/statements/statement-launch-bio-genesis-mission-nihs-component-national-genesis-mission) | `Processed` |
-| 109 | 4. Executive, Federal & Partner Announcements | - | NASA: Joining to Accelerate AI-Driven Discovery | `www.nasa.gov` | Web | [NASA: Joining to Accelerate AI-Driven Discovery](https://www.nasa.gov/news-release/nasa-joins-genesis-mission-to-accelerate-ai-driven-discovery/) | `Unprocessed` |
+| 109 | 4. Executive, Federal & Partner Announcements | - | NASA: Joining to Accelerate AI-Driven Discovery | `www.nasa.gov` | Web | [NASA: Joining to Accelerate AI-Driven Discovery](https://www.nasa.gov/news-release/nasa-joins-genesis-mission-to-accelerate-ai-driven-discovery/) | `Processed` |
 | 110 | 4. Executive, Federal & Partner Announcements | - | NSF: $83M Investment in Integrated Data Systems | `www.nsf.gov` | Web | [NSF: $83M Investment in Integrated Data Systems](https://www.nsf.gov/news/nsf-announces-83m-investment-integrated-data-systems) | `Unprocessed` |
 | 111 | 4. Executive, Federal & Partner Announcements | - | NSF Statement: Chief of Staff Brian Stone on Genesis Mission Integration | `www.nsf.gov` | Web | [NSF Statement: Chief of Staff Brian Stone on Genesis Mission Integration](https://www.nsf.gov/news/statement-nsf-chief-staff-brian-stone-performing-duties-nsf-1) | `Unprocessed` |
 | 112 | 4. Executive, Federal & Partner Announcements | - | Meta AI: Genesis Mission Partnership with LBNL (Segment Anything & DINO) | `ai.meta.com` | Web | [Meta AI: Genesis Mission Partnership with LBNL (Segment Anything & DINO)](https://ai.meta.com/blog/genesis-mission-lawrence-berkeley-national-laboratory-segment-anything-dino/) | `Unprocessed` |
