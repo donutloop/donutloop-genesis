@@ -438,4 +438,5 @@ https://news.lehigh.edu/lehigh-researchers-earn-two-doe-genesis-mission-funding-
 https://news.mst.edu/research/st-researchers-earn-doe-genesis-mission-award/
 https://news.unl.edu/article/husker-led-project-receives-genesis-mission-funding-to-advance-ai-6g
 https://news.stonybrook.edu/university/stony-brook-mobilizes-for-national-ai-research-mission/
+https://groq.com/newsroom/groq-partners-with-us-department-of-energy-to-advance-ai-inference-and-next-generation-computing-infrastructure
 
