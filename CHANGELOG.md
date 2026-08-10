@@ -7,6 +7,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
+## [1.5.10] - 2026-08-10
+
+### Changed
+- **Paper Enrichment (Entry #101 - DOE Office of Science Genesis Mission RFA Webinar PDF)**: Processed reference entry #101 (DOE Office of Science: Genesis Mission RFA Informational Webinar PDF, science.osti.gov/-/media/grants/pdf/foas-resources/2026/Genesis-Mission-RFA-Informational-Webinar-v2-public--clean--ASCR.pdf). Enriched Section 1.1 in README.md and README.de.md with official ASCR webinar slide details: outlining application rules, team eligibility, merit criteria, and exascale HPC allocation mechanisms for DE-FOA-0003612 across ASCR, BES, BER, FES, HEP, and NP program offices.
+- **Index Status Update**: Marked Entry #101 status to Processed in reference_coverage.md and updated executive metrics to 101 / 355 Processed.
+- **Version Bump**: Incremented patch version to 1.5.10 in README.md and README.de.md.
+
+---
+
 ## [1.5.9] - 2026-08-10
 
 ### Changed
