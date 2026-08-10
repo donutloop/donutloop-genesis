@@ -7,6 +7,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
+## [1.5.14] - 2026-08-10
+
+### Changed
+- **Paper Enrichment (Entry #105 - DHS S&T Genesis Mission Challenges Release)**: Processed reference entry #105 (DHS S&T: Announces New Genesis Mission Challenges to Safeguard America's Future, July 22, 2026, www.dhs.gov/science-and-technology/news/2026/07/22/st-announces-new-genesis-mission-challenges-safeguard-americas-future). Enriched Section 1.1 in README.md and README.de.md with DHS security challenge details: establishing initiatives in *Software Understanding for National Security* (agentic AI and formal verification) and *Early Detection and Attribution of Biological Threats*, integrated into the **American Science and Security Platform**.
+- **Index Status Update**: Marked Entry #105 status to Processed in reference_coverage.md and updated executive metrics to 105 / 355 Processed.
+- **Version Bump**: Incremented patch version to 1.5.14 in README.md and README.de.md.
+
+---
+
 ## [1.5.13] - 2026-08-10
 
 ### Changed
