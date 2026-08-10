@@ -7,6 +7,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
+## [1.5.30] - 2026-08-10
+
+### Changed
+- **Paper Enrichment (Entries #141, #142, #143, #144, #145 & #146 - Cerebras, Scale AI, Siemens & Dell Technologies Releases)**: Processed reference entries #141 (Cerebras MOU), #142 (Scale AI MOU), #143 (Siemens AI-Ready Infrastructure), #144 (Siemens Industrial AI US), #145 (Siemens Industrial AI DE), and #146 (Dell AI Factory). Enriched Section 3.1 A in README.md and README.de.md with Cerebras CS-3 WSE-3 wafer-scale AI supercomputing, Dell AI Factory PowerEdge XE9680 liquid-cooled compute, Scale AI Data Engine & Scale Donovan data bottleneck curation, and Siemens Xcelerator physics-informed digital twins & SCADA automation across NREL ARIES, PPPL, and INL.
+- **Index Status Update**: Marked Entries #141 through #146 status to Processed in reference_coverage.md and updated executive metrics to 146 / 355 Processed.
+- **Version Bump**: Incremented patch version to 1.5.30 in README.md and README.de.md.
+
+---
+
 ## [1.5.29] - 2026-08-10
 
 ### Changed
