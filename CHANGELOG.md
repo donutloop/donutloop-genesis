@@ -7,6 +7,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
+## [1.5.32] - 2026-08-10
+
+### Changed
+- **Paper Enrichment (Entries #153, #154 & #155 - Genesis Mission Consortium, NISS Analysis & Microsoft SPARK Releases)**: Processed reference entries #153 (Genesis Mission Consortium Overview), #154 (NISS Analysis on U.S. AI Leadership Platform), and #155 (Microsoft SPARK Release). Enriched Section 3.1, 3.5, and 4.3 in README.md and README.de.md with Genesis Mission Consortium public-private network details ($500M+ member commitments, 4 working groups: ModCon, Data Integration, American Science Cloud, Robotics & Automation), NISS strategic evaluation of US AI sovereignty, and Microsoft SPARK $60M commitment URL additions.
+- **Index Status Update**: Marked Entries #153, #154, and #155 status to Processed in reference_coverage.md and updated executive metrics to 155 / 355 Processed.
+- **Version Bump**: Incremented patch version to 1.5.32 in README.md and README.de.md.
+
+---
+
 ## [1.5.31] - 2026-08-10
 
 ### Changed
