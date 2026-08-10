@@ -4,6 +4,16 @@ All notable changes to the Genesis Mission documentation repository will be docu
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
+## [2.1.16] - 2026-08-11
+
+### Changed
+- **Reference Index Processing & Research Paper Enrichment (Entry #91)**: Processed master reference index link #91 (*CoreWeave: Joins U.S. Department of Energy's Genesis Mission to Advance Research and Innovation*, `www.coreweave.com`).
+- **Research Paper Updates (`README.md` & `README.de.md`)**: Enriched §3.1 industrial partner profiles with formal details on CoreWeave's partnership with the U.S. Department of Energy (DOE) provisioning high-density NVIDIA HGX/Blackwell AI clusters, low-latency InfiniBand interconnect fabrics, and scalable sovereign cloud compute enclaves across national laboratory and university research teams to accelerate scientific foundation model training and inference under Genesis. Ensured complete German paper parity (`README.de.md`) in Section 3.1 and Appendix A.3 table.
+- **Master Reference Coverage Report (`reference_coverage.md`)**: Updated entry #91 status to `Processed`. Recalculated executive summary metrics (363 / 367 processed, 4 unprocessed).
+- **Version Bump**: Incremented patch version string to `2.1.16` in `README.md` and `README.de.md`.
+
+---
+
 ## [2.1.15] - 2026-08-11
 
 ### Changed
