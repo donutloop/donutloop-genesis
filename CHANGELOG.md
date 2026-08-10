@@ -7,6 +7,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
+## [1.5.15] - 2026-08-10
+
+### Changed
+- **Paper Enrichment (Entry #106 - HHS Chronic Disease Research Release)**: Processed reference entry #106 (HHS: Joining the Mission to End Chronic Disease, July 22, 2026, www.hhs.gov/press-room/hhs-joins-genesis-mission-ai-chronic-disease-research.html). Enriched Section 1.1 in README.md and README.de.md with HHS/NIH biomedical details: unifying NIH, CDC, FDA, and ARPA-H under the "Make America Healthy Again" (MAHA) research framework to target the root causes of chronic disease and pediatric oncology via the **Bio Genesis Mission** on the **American Science and Security Platform**.
+- **Index Status Update**: Marked Entry #106 status to Processed in reference_coverage.md and updated executive metrics to 106 / 355 Processed.
+- **Version Bump**: Incremented patch version to 1.5.15 in README.md and README.de.md.
+
+---
+
 ## [1.5.14] - 2026-08-10
 
 ### Changed
