@@ -4,7 +4,7 @@ All notable changes to the Genesis Mission documentation repository will be docu
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
-## [2.0.3] - 2026-08-10
+## [2.1.0] - 2026-08-10
 
 ### Changed
 - **Company Coverage Expansion & Profile Integration**: Systematically expanded company profiles across `README.md` and `README.de.md` for **Domino Data Lab**, **Groq**, **Everstar**, and **SHINE Technologies**:
@@ -12,11 +12,16 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
   - *Everstar*: Added technical profile covering agentic AI molecular design models, multi-agent biopharma discovery engines, and Microsoft Discovery platform (MatterGen/MatterSim) integration for closed-loop therapeutic target screening and biosecurity resilience.
   - *SHINE Technologies*: Added technical profile detailing physics-informed AI modeling for aqueous radiochemical separation, medical radioisotope production (Mo-99, Lu-177), and fusion-driven neutron source physics under two DOE Genesis project awards with SRNL, INL, and ANL.
   - *Domino Data Lab*: Integrated profile and Appendix A.3 table entry detailing the Domino Enterprise AI Platform for unified MLOps data science orchestration, experiment tracking, and FedRAMP High enclaves.
+- **Cross-Sectional Research Integration & Node Metric Sync (`README.md` & `README.de.md`)**:
+  - *Section 1.2 (Federated Orchestration Layer)*: Updated public-private-academic core node count from 148 to **152** and integrated Groq, Domino Data Lab, Everstar, and SHINE Technologies into the federated partner fabric.
+  - *Section 2.1 (HPC & AI Infrastructure)*: Added Groq deterministic LPU silicon accelerators (ANL ALCF, LBNL NERSC, ORNL OLCF) to specialized hardware substrates, and added Domino Enterprise AI Platform (ANL, ORNL, LLNL) to model repositories & MLOps orchestration.
+  - *Section 2.3 (Closed-Loop Workflows & Domain Applications)*: Integrated Everstar multi-agent biopharma discovery engines into §2.3.C self-driving laboratories, and integrated SHINE Technologies physics-informed radiochemical AI models for spent nuclear fuel recycling into §2.3.D.
+  - *Section 3 (Multi-Sector Consortium Ecosystem)*: Synchronized overall ecosystem text and ASCII topology diagram metrics to **152 Core Flagship Nodes** (up from 148) and **65 Industry & Hyperscale Entities** (up from 61, achieving 100% Industry Full Profile coverage).
 - **Ecosystem Coverage Tracker Sync (`coverage.md`)**:
   - Upgraded coverage status for Domino Data Lab, Groq, Everstar, and SHINE Technologies from `❌ Not Covered` to `✅ Full Profile` (`§3.1, A.3`).
   - Achieved **100% Full Profile Coverage for all 65 Industry Partners** (65 / 65 Full Profile).
   - Recalculated ecosystem summary metrics: **152 / 156 (97%)** total consortium entities with dedicated technical write-ups (152 Full Profile, 0 Brief Mention, 4 Not Covered).
-- **Version Bump**: Incremented patch version string to `2.0.3` in `README.md` and `README.de.md`.
+- **Version Bump**: Incremented minor version string to `2.1.0` in `README.md` and `README.de.md`.
 
 ---
 
