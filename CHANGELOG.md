@@ -7,6 +7,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
+## [1.5.13] - 2026-08-10
+
+### Changed
+- **Paper Enrichment (Entry #104 - Department of War Partnership Release)**: Processed reference entry #104 (Department of War: Partnership to Proliferate AI for Science, www.war.gov/News/Releases/Release/Article/4551998/department-of-war-partners-with-the-genesis-mission-to-proliferate-ai-for-scien/). Enriched Section 1.1 in README.md and README.de.md with defense commitment details: committing **$200 Million in FY2026** and **$1.3+ Billion in FY2027**, launching the **Digital Biosecurity Forge (DB-FORGE)** with LLNL, and integrating defense sensor/aeronautic datasets into the **American Science and Security Platform**.
+- **Index Status Update**: Marked Entry #104 status to Processed in reference_coverage.md and updated executive metrics to 104 / 355 Processed.
+- **Version Bump**: Incremented patch version to 1.5.13 in README.md and README.de.md.
+
+---
+
 ## [1.5.12] - 2026-08-10
 
 ### Changed
