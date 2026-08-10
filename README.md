@@ -1,4 +1,4 @@
-**Version**: 1.4.49
+**Version**: 1.4.50
 
 # The Genesis Mission: Architecture, Strategic Initiatives, and the Multi-Institutional Ecosystem for AI and Quantum-Driven Scientific Discovery
 
@@ -27,7 +27,7 @@ To shatter these discovery bottlenecks and secure national technological leaders
 ### 1.1 Federal Leadership & Interagency Governance
 Managed primarily by the **U.S. Department of Energy (DOE) Office of Science**, the Genesis Mission orchestrates a whole-of-government mandate linking DOE's 17 National Laboratories with key federal policy, scientific, and defense bodies:
 
-* **White House Office of Science and Technology Policy (OSTP):** Directs national Science & Technology priorities, interagency alignment across 15+ federal executive agencies, and executive oversight for AI-for-science mandates. Under Director Michael Kratsios, OSTP orchestrates the **Genesis Mission** (launched via Executive Order in November 2025) to double U.S. scientific productivity within a decade. OSTP oversees **33 National Science and Technology Challenges**, the **American Science and Security Platform**, over **$5 Billion** in federal commitments (announced July 2026), and authored the landmark policy foundation report *Science: A New Golden Age* (July 2026) restructuring the federal R&D enterprise.
+* **White House Office of Science and Technology Policy (OSTP):** Directs national Science & Technology priorities, interagency alignment across 15+ federal executive agencies, and executive oversight for AI-for-science mandates. Under Director Michael Kratsios, OSTP hosted the **Genesis Mission 2026 Summit** (July 22, 2026) and published the official White House update release (`www.whitehouse.gov/releases/2026/07/45502/`), expanding the mission to over **$5 Billion** in combined federal commitments across 15+ agencies. The release highlighted DOE's award selection of **278 research projects** under DE-FOA-0003612 (the largest response in department history), the launch of the **Bio Genesis Mission** with NIH, expansion of **33 National Science and Technology Challenges**, the **American Science and Security Platform**, a $1 Billion U.S.-Japan scientific AI agreement, and authored the landmark policy foundation report *Science: A New Golden Age* (July 2026) restructuring the federal R&D enterprise.
 * **U.S. Department of Energy (DOE) — Office of Science:** Leads overall mission execution, funding solicitations (e.g., DE-FOA-0003612), exascale computing facility orchestration, and national lab hub operations.
 * **U.S. Department of Commerce (DOC) — NIST / CHIPS R&D Office:** Executes over $2 Billion in CHIPS and Science Act Letters of Intent (LOIs) for quantum foundries, semiconductor packaging, and measurement standards.
 * **National Science Foundation (NSF):** Allocates $83 Million for integrated scientific data pipelines, FAIR data repositories, and academic STEM workforce cultivation.

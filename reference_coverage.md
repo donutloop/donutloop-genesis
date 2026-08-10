@@ -15,7 +15,7 @@
 | **Official PDF Documents** | **14** | Formal RFA solicitations, webinars, slides, and executive reports |
 | **Web Portals & Press Releases** | **337** | Newsroom features, corporate blog posts, and interactive hubs |
 | **Validation Status** | **100% Validated** | All links canonicalized, formatted, and deduplicated |
-| **Processing Status** | **81 / 351 Processed** | 270 Unprocessed, 81 Processed |
+| **Processing Status** | **82 / 351 Processed** | 269 Unprocessed, 82 Processed |
 
 ---
 
@@ -149,7 +149,7 @@ A complete tabular listing of all 351 indexed reference links:
 | 79 | 4. Executive, Federal & Partner Announcements | - | White House Executive Action: Launching the Genesis Mission | `www.whitehouse.gov` | Web | [White House Executive Action: Launching the Genesis Mission](https://www.whitehouse.gov/presidential-actions/2025/11/launching-the-genesis-mission/) | `Processed` |
 | 80 | 4. Executive, Federal & Partner Announcements | - | White House Announcement: President Trump Launches the Genesis Mission | `www.whitehouse.gov` | Web | [White House Announcement: President Trump Launches the Genesis Mission](https://www.whitehouse.gov/releases/2025/11/president-trump-launches-the-genesis-mission-to-accelerate-ai-for-scientific-discovery/) | `Processed` |
 | 81 | 4. Executive, Federal & Partner Announcements | - | White House Fact Sheet: President Donald J. Trump Unveils the Genesis Mission | `www.whitehouse.gov` | Web | [White House Fact Sheet: President Donald J. Trump Unveils the Genesis Mission](https://www.whitehouse.gov/fact-sheets/2025/11/fact-sheet-president-donald-j-trump-unveils-the-genesis-missionto-accelerate-ai-for-scientific-discovery/) | `Processed` |
-| 82 | 4. Executive, Federal & Partner Announcements | - | White House Release: 2026 Genesis Mission Updates | `www.whitehouse.gov` | Web | [White House Release: 2026 Genesis Mission Updates](https://www.whitehouse.gov/releases/2026/07/45502/) | `Unprocessed` |
+| 82 | 4. Executive, Federal & Partner Announcements | - | White House Release: 2026 Genesis Mission Updates | `www.whitehouse.gov` | Web | [White House Release: 2026 Genesis Mission Updates](https://www.whitehouse.gov/releases/2026/07/45502/) | `Processed` |
 | 83 | 4. Executive, Federal & Partner Announcements | - | U.S. House of Representatives Committee Event: Hearing on the Genesis Mission (119th Congress) | `www.congress.gov` | Web | [U.S. House of Representatives Committee Event: Hearing on the Genesis Mission (119th Congress)](https://www.congress.gov/event/119th-congress/house-event/118728) | `Unprocessed` |
 | 84 | 4. Executive, Federal & Partner Announcements | - | Federal Register: Presidential Document - Launching the Genesis Mission | `www.federalregister.gov` | Web | [Federal Register: Presidential Document - Launching the Genesis Mission](https://www.federalregister.gov/documents/2025/11/28/2025-21665/launching-the-genesis-mission) | `Unprocessed` |
 | 85 | 4. Executive, Federal & Partner Announcements | - | U.S. Department of Energy: Artificial Intelligence Topics & Initiatives | `www.energy.gov` | Web | [U.S. Department of Energy: Artificial Intelligence Topics & Initiatives](https://www.energy.gov/topics/artificial-intelligence) | `Unprocessed` |
