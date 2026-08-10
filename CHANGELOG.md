@@ -7,6 +7,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
+## [1.5.2] - 2026-08-10
+
+### Changed
+- **Paper Enrichment (Entry #93 - DOE Document: Genesis Mission National Science & Technology Challenges PDF)**: Processed reference entry #93 (DOE Document: Genesis Mission National Science & Technology Challenges PDF, www.energy.gov/documents/genesis-mission-national-science-technology-challenges). Enriched Section 1.1 in README.md and README.de.md with official technical PDF report details: codifying technical problem formulations, computational baselines, and evaluation matrices for 33 National Science & Technology Challenges across Energy Dominance, Discovery Science, and National Security.
+- **Index Status Update**: Marked Entry #93 status to Processed in reference_coverage.md and updated executive metrics to 93 / 355 Processed.
+- **Version Bump**: Incremented patch version to 1.5.2 in README.md and README.de.md.
+
+---
+
 ## [1.5.1] - 2026-08-10
 
 ### Changed
