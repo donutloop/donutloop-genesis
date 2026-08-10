@@ -7,6 +7,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
+## [1.5.22] - 2026-08-10
+
+### Changed
+- **Paper Enrichment (Entries #117, #118 & #119 - Microsoft $60M SPARK & Microsoft Discovery Release)**: Processed reference entries #117 (Microsoft: Commitment to Scientific Discovery), #118 (Microsoft Public Sector: Accelerating Science), and #119 (Microsoft Discovery Platform Overview). Enriched Section 3.1 in README.md and README.de.md with Microsoft commitment details: committing **$60 Million** ($40M Azure credits + $20M engineering), establishing the **SPARK** program office, and deploying **Microsoft Discovery**, **MatterGen**, **MatterSim**, and **Majorana 1 / 2** topological quantum QPUs across all 17 DOE National Laboratories.
+- **Index Status Update**: Marked Entries #117, #118, and #119 status to Processed in reference_coverage.md and updated executive metrics to 119 / 355 Processed.
+- **Version Bump**: Incremented patch version to 1.5.22 in README.md and README.de.md.
+
+---
+
 ## [1.5.21] - 2026-08-10
 
 ### Changed
