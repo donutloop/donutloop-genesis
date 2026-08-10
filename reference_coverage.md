@@ -15,7 +15,7 @@
 | **Official PDF Documents** | **14** | Formal RFA solicitations, webinars, slides, and executive reports |
 | **Web Portals & Press Releases** | **337** | Newsroom features, corporate blog posts, and interactive hubs |
 | **Validation Status** | **100% Validated** | All links canonicalized, formatted, and deduplicated |
-| **Processing Status** | **83 / 351 Processed** | 268 Unprocessed, 83 Processed |
+| **Processing Status** | **84 / 351 Processed** | 267 Unprocessed, 84 Processed |
 
 ---
 
@@ -151,7 +151,7 @@ A complete tabular listing of all 351 indexed reference links:
 | 81 | 4. Executive, Federal & Partner Announcements | - | White House Fact Sheet: President Donald J. Trump Unveils the Genesis Mission | `www.whitehouse.gov` | Web | [White House Fact Sheet: President Donald J. Trump Unveils the Genesis Mission](https://www.whitehouse.gov/fact-sheets/2025/11/fact-sheet-president-donald-j-trump-unveils-the-genesis-missionto-accelerate-ai-for-scientific-discovery/) | `Processed` |
 | 82 | 4. Executive, Federal & Partner Announcements | - | White House Release: 2026 Genesis Mission Updates | `www.whitehouse.gov` | Web | [White House Release: 2026 Genesis Mission Updates](https://www.whitehouse.gov/releases/2026/07/45502/) | `Processed` |
 | 83 | 4. Executive, Federal & Partner Announcements | - | U.S. House of Representatives Committee Event: Hearing on the Genesis Mission (119th Congress) | `www.congress.gov` | Web | [U.S. House of Representatives Committee Event: Hearing on the Genesis Mission (119th Congress)](https://www.congress.gov/event/119th-congress/house-event/118728) | `Processed` |
-| 84 | 4. Executive, Federal & Partner Announcements | - | Federal Register: Presidential Document - Launching the Genesis Mission | `www.federalregister.gov` | Web | [Federal Register: Presidential Document - Launching the Genesis Mission](https://www.federalregister.gov/documents/2025/11/28/2025-21665/launching-the-genesis-mission) | `Unprocessed` |
+| 84 | 4. Executive, Federal & Partner Announcements | - | Federal Register: Presidential Document - Launching the Genesis Mission | `www.federalregister.gov` | Web | [Federal Register: Presidential Document - Launching the Genesis Mission](https://www.federalregister.gov/documents/2025/11/28/2025-21665/launching-the-genesis-mission) | `Processed` |
 | 85 | 4. Executive, Federal & Partner Announcements | - | U.S. Department of Energy: Artificial Intelligence Topics & Initiatives | `www.energy.gov` | Web | [U.S. Department of Energy: Artificial Intelligence Topics & Initiatives](https://www.energy.gov/topics/artificial-intelligence) | `Unprocessed` |
 | 86 | 4. Executive, Federal & Partner Announcements | - | DOE Office of Science: Under Secretary Gil's Letter to the Community | `www.energy.gov` | Web | [DOE Office of Science: Under Secretary Gil's Letter to the Community](https://www.energy.gov/science/articles/under-secretary-gils-letter-community) | `Unprocessed` |
 | 87 | 4. Executive, Federal & Partner Announcements | - | DOE Overview: Building the World's Most Powerful Scientific Platform | `www.energy.gov` | Web | [DOE Overview: Building the World's Most Powerful Scientific Platform](https://www.energy.gov/undersecretaryforscience/genesis-mission/genesis-mission) | `Unprocessed` |

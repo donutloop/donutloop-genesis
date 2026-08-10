@@ -7,6 +7,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
+## [1.4.52] - 2026-08-10
+
+### Changed
+- **Paper Enrichment (Entry #84 - Federal Register Presidential Document EO 14363)**: Processed reference entry #84 (Federal Register: Presidential Document - Launching the Genesis Mission, Executive Order 14363, Nov 28, 2025, 90 FR 55035, Doc. 2025-21665, www.federalregister.gov). Enriched Section 1.1 in README.md and README.de.md with Federal Register publication details: official legal citation (90 FR 55035, CFR Title 3 codification), whole-of-government mandating integration into the **American Science and Security Platform**, 90-day OMB/OSTP action plan submissions, ITAR/EAR export controls, and Zero-Trust cybersecurity protocols.
+- **Index Status Update**: Marked Entry #84 status to Processed in reference_coverage.md and updated executive metrics to 84 / 351 Processed.
+- **Version Bump**: Incremented patch version to 1.4.52 in README.md and README.de.md.
+
+---
+
 ## [1.4.51] - 2026-08-10
 
 ### Changed
