@@ -432,7 +432,9 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
 * [OSTP: OSTP Genesis Mission Science and Technology Challenges Document](https://www.energy.gov/documents/ostp-genesis-mission-science-and-technology-challenges)
 
 
-WIP: 
+WIP:
 https://www.prnewswire.com/news-releases/shine-selected-for-two-doe-genesis-mission-projects-advancing-ai-in-nuclear-fuel-recycling-302841934.html
+https://news.lehigh.edu/lehigh-researchers-earn-two-doe-genesis-mission-funding-awards
+https://news.mst.edu/research/st-researchers-earn-doe-genesis-mission-award/
 * [U.S. Department of Energy: ModCon — Transformational AI and Data Overview](https://www.energy.gov/undersecretaryforscience/genesis-mission/modcon-transformational-ai-and-data)
 
