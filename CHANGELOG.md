@@ -7,6 +7,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
+## [1.5.46] - 2026-08-10
+
+### Changed
+- **Paper Enrichment (Entries #261, #262, #263, #264, #265, #266, #267, #268, #269 & #270 - CSU, Columbia, Cornell, Emory, FSU, Georgia Tech, Iowa State, Lehigh & LSU Genesis Releases)**: Processed reference entries #261 (CSU 2 Projects), #262 (Columbia Genesis Projects), #263 (Cornell SciML Awards), #264 (Emory AI Biomining & Plasma), #265 (FSU High-Temp Superconductors & MagLab), #266/#267 (Georgia Tech 7 Awards), #268 (Iowa State Projects), #269 (Lehigh 2 Grants), and #270 (LSU Nuclear Data AI). Enriched Section 3.3 in README.md and README.de.md with Colorado State University (CSU), Columbia University, Cornell University, Emory University, Florida State University (FSU), Georgia Institute of Technology (Georgia Tech), Iowa State University, Lehigh University, and Louisiana State University (LSU).
+- **Index Status Update**: Marked Entries #261 through #270 status to Processed in reference_coverage.md and updated executive metrics to 270 / 355 Processed.
+- **Version Bump**: Incremented patch version to 1.5.46 in README.md and README.de.md.
+
+---
+
 ## [1.5.45] - 2026-08-10
 
 ### Changed
