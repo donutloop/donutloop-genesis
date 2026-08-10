@@ -7,6 +7,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
+## [1.5.8] - 2026-08-10
+
+### Changed
+- **Paper Enrichment (Entry #99 - DOE Announcement: $293 Million Funding Support)**: Processed reference entry #99 (DOE Announcement: $293 Million Funding Support for National Science Challenges, March 17, 2026, www.energy.gov/articles/energy-department-announces-293-million-funding-support-genesis-mission-national-science). Enriched Section 1.1 in README.md and README.de.md with official funding RFA details: launching the **$293 Million** solicitation DE-FOA-0003612 (*The Genesis Mission: Transforming Science and Energy with AI*) structured into Phase I ($500k–$750k 9-month feasibility) and Phase II ($6M–$15M 3-year scale-up) award tiers.
+- **Index Status Update**: Marked Entry #99 status to Processed in reference_coverage.md and updated executive metrics to 99 / 355 Processed.
+- **Version Bump**: Incremented patch version to 1.5.8 in README.md and README.de.md.
+
+---
+
 ## [1.5.7] - 2026-08-10
 
 ### Changed

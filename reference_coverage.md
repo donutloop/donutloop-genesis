@@ -15,7 +15,7 @@
 | **Official PDF Documents** | **14** | Formal RFA solicitations, webinars, slides, and executive reports |
 | **Web Portals & Press Releases** | **337** | Newsroom features, corporate blog posts, and interactive hubs |
 | **Validation Status** | **100% Validated** | All links canonicalized, formatted, and deduplicated |
-| **Processing Status** | **98 / 355 Processed** | 257 Unprocessed, 98 Processed |
+| **Processing Status** | **99 / 355 Processed** | 256 Unprocessed, 99 Processed |
 
 ---
 
@@ -166,7 +166,7 @@ A complete tabular listing of all 351 indexed reference links:
 | 96 | 4. Executive, Federal & Partner Announcements | - | DOE Announcement: 26 Genesis Mission Science and Technology Projects | `www.energy.gov` | Web | [DOE Announcement: 26 Genesis Mission Science and Technology Projects](https://www.energy.gov/undersecretaryforscience/articles/energy-department-announces-26-genesis-mission-science-and) | `Processed` |
 | 97 | 4. Executive, Federal & Partner Announcements | - | DOE Announcement: Launching the Genesis Mission Consortium | `www.energy.gov` | Web | [DOE Announcement: Launching the Genesis Mission Consortium](https://www.energy.gov/articles/energy-department-launches-genesis-mission-consortium-accelerate-ai-driven-scientific) | `Processed` |
 | 98 | 4. Executive, Federal & Partner Announcements | - | DOE Announcement: Collaboration Agreements with 24 Organizations | `www.energy.gov` | Web | [DOE Announcement: Collaboration Agreements with 24 Organizations](https://www.energy.gov/articles/energy-department-announces-collaboration-agreements-24-organizations-advance-genesis) | `Processed` |
-| 99 | 4. Executive, Federal & Partner Announcements | - | DOE Announcement: $293 Million Funding Support for National Science Challenges | `www.energy.gov` | Web | [DOE Announcement: $293 Million Funding Support for National Science Challenges](https://www.energy.gov/articles/energy-department-announces-293-million-funding-support-genesis-mission-national-science) | `Unprocessed` |
+| 99 | 4. Executive, Federal & Partner Announcements | - | DOE Announcement: $293 Million Funding Support for National Science Challenges | `www.energy.gov` | Web | [DOE Announcement: $293 Million Funding Support for National Science Challenges](https://www.energy.gov/articles/energy-department-announces-293-million-funding-support-genesis-mission-national-science) | `Processed` |
 | 100 | 4. Executive, Federal & Partner Announcements | - | NNSA Announcement: Demonstrating Swift Action on Genesis Mission | `www.energy.gov` | Web | [NNSA Announcement: Demonstrating Swift Action on Genesis Mission](https://www.energy.gov/nnsa/articles/nnsa-demonstrates-swift-action-genesis-mission) | `Unprocessed` |
 | 101 | 4. Executive, Federal & Partner Announcements | - | DOE Office of Science: Genesis Mission RFA Informational Webinar (PDF) | `science.osti.gov` | PDF | [DOE Office of Science: Genesis Mission RFA Informational Webinar (PDF)](https://science.osti.gov/-/media/grants/pdf/foas-resources/2026/Genesis-Mission-RFA-Informational-Webinar-v2-public--clean--ASCR.pdf) | `Unprocessed` |
 | 102 | 4. Executive, Federal & Partner Announcements | - | DOE Office of Science: Funding Opportunity Announcement (DE-FOA-0003612) | `science.osti.gov` | Web | [DOE Office of Science: Funding Opportunity Announcement (DE-FOA-0003612)](https://science.osti.gov/grants/FOAs/FOAs/2026/DE-FOA-0003612) | `Unprocessed` |
