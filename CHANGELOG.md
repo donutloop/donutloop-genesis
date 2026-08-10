@@ -4,6 +4,16 @@ All notable changes to the Genesis Mission documentation repository will be docu
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
+## [2.1.4] - 2026-08-10
+
+### Changed
+- **Reference Index Processing & Research Paper Enrichment (Entry #89)**: Processed master reference index link #89 (*Everstar Announces Collaboration with DOE National Laboratories and Microsoft*, `www.prnewswire.com`).
+- **Research Paper Updates (`README.md` & `README.de.md`)**: Enriched §3.1 company profiles with technical details on Everstar's nuclear AI partnership with DOE, INL, ANL, and Microsoft under Genesis: deploying the **Gordian AI** platform to convert DOE safety analysis documents into NRC licensing application sections in 1 day (vs. 4–6 weeks for human experts) and compressing nuclear licensing, design, manufacturing, and operations toward 300 GW of new U.S. nuclear capacity.
+- **Master Reference Coverage Report Sync (`reference_coverage.md`)**: Updated status of Entry #89 to `Processed` (recalculated totals: **358 / 362 Processed**, 4 Unprocessed).
+- **Version Bump**: Incremented patch version string to `2.1.4` in `README.md` and `README.de.md`.
+
+---
+
 ## [2.1.3] - 2026-08-10
 
 ### Changed
