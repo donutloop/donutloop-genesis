@@ -1,4 +1,4 @@
-**Version**: 1.4.48
+**Version**: 1.4.49
 
 # Die Genesis-Mission: Architektur, strategische Initiativen und das multi-institutionelle Ökosystem für KI- und quantengetriebene wissenschaftliche Entdeckungen
 
@@ -336,7 +336,7 @@ Das DOE Office of Science leitet die Finanzierung über 17 primäre nationale La
 
 ## 4. Politik, behördenübergreifende Governance & Strategische Finanzmechanismen
 
-Die Genesis-Mission arbeitet unter einem zentralisierten exekutiven Politikrahmen, der darauf ausgelegt ist, milliardenschwere Bundesinvestitionen, privates Industriekapital und behördenübergreifende Governance in eine kohärente nationale wissenschaftliche Kapazität einzubinden.
+Die Genesis-Mission arbeitet unter einem zentralisierten exekutiven Politikrahmen, der durch das offizielle **Fact Sheet des Weißen Hauses** (*President Donald J. Trump Unveils the Genesis Mission to Accelerate AI for Scientific Discovery*, 24. November 2025) etabliert wurde. Entwickelt, um milliardenschwere Bundesinvestitionen, privates Industriekapital und behördenübergreifende Governance in eine kohärente nationale wissenschaftliche Kapazität einzubinden, definiert das Fact Sheet vier strategische operative Säulen: (1) **Gesundheit & Biomedizin** — Ko-Leitung der NIH/HHS *Bio Genesis Mission* für Therapeutika gegen chronische Krankheiten, pädiatrische Onkologie und KI-Strukturbiologie; (2) **Energie & Saubere Infrastruktur** — KI-gestützte digitale Netz-Zwillinge (NREL ARIES), automatisierte SMR-Kernenergielizenzierung (INL) und Tokamak-Fusionsdisruptionssteuerung (PPPL AI4Fusion); (3) **Nationale Sicherheit & Mikroelektronik** — Hyperschall-CFD, strahlungsgehärtete Chips und Widerstandsfähigkeit der Verteidigungslieferkette; und (4) **Materialien & Quanteninfrastruktur** — autonome selbstfahrende Syntheselabore und 7-Modalitäten-Quantengießereien.
 
 ### 4.1 Mehrstufige Finanzallokationen und -mechanismen
 

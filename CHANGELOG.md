@@ -7,6 +7,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
+## [1.4.49] - 2026-08-10
+
+### Changed
+- **Paper Enrichment (Entry #81 - White House Fact Sheet: President Donald J. Trump Unveils the Genesis Mission)**: Processed reference entry #81 (White House Fact Sheet: President Donald J. Trump Unveils the Genesis Mission, Nov 24, 2025, www.whitehouse.gov). Enriched Section 4 opening in README.md and README.de.md with official White House Fact Sheet details: defining the four strategic operational pillars — (1) Health & Biomedical Science (NIH/HHS *Bio Genesis Mission*); (2) Energy & Clean Infrastructure (NREL ARIES grid twins, INL SMRs, PPPL fusion); (3) National Security & Microelectronics (hypersonics CFD, radiation-hardened chips); and (4) Materials & Quantum Infrastructure (autonomous self-driving synthesis labs and 7-modality QPUs).
+- **Index Status Update**: Marked Entry #81 status to Processed in reference_coverage.md and updated executive metrics to 81 / 351 Processed.
+- **Version Bump**: Incremented patch version to 1.4.49 in README.md and README.de.md.
+
+---
+
 ## [1.4.48] - 2026-08-10
 
 ### Changed

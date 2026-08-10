@@ -1,4 +1,4 @@
-**Version**: 1.4.48
+**Version**: 1.4.49
 
 # The Genesis Mission: Architecture, Strategic Initiatives, and the Multi-Institutional Ecosystem for AI and Quantum-Driven Scientific Discovery
 
@@ -338,7 +338,7 @@ Specialized non-profit research institutes and healthcare centers drive cross-di
 
 ## 4. Policy, Interagency Governance & Strategic Financial Mechanics
 
-The Genesis Mission operates under a centralized executive policy framework designed to align multi-billion-dollar federal investments, private industrial capital, and interagency governance into a cohesive national scientific capability.
+The Genesis Mission operates under a centralized executive policy framework established by the official **White House Fact Sheet** (*President Donald J. Trump Unveils the Genesis Mission to Accelerate AI for Scientific Discovery*, November 24, 2025). Designed to align multi-billion-dollar federal investments, private industrial capital, and interagency governance into a cohesive national scientific capability, the Fact Sheet defines four strategic operational pillars: (1) **Health & Biomedical Science** — co-leading the NIH/HHS *Bio Genesis Mission* for chronic disease therapeutics, pediatric oncology, and AI structural biology; (2) **Energy & Clean Infrastructure** — AI digital grid twins (NREL ARIES), automated SMR nuclear licensing (INL), and tokamak fusion disruption control (PPPL AI4Fusion); (3) **National Security & Microelectronics** — hypersonics CFD, radiation-hardened chips, and defense supply chain resilience; and (4) **Materials & Quantum Infrastructure** — autonomous self-driving synthesis labs and 7-modality quantum foundries.
 
 ### 4.1 Multi-Tiered Financial Allocations and Mechanics
 
