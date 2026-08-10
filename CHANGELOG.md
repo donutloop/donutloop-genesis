@@ -7,6 +7,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
+## [1.5.25] - 2026-08-10
+
+### Changed
+- **Paper Enrichment (Entries #126 & #127 - OpenAI & Oracle Genesis Mission Collaboration Releases)**: Processed reference entries #126 (OpenAI: Advancing the Next Era of National Science, openai.com/index/advancing-the-next-era-of-national-science/) and #127 (Oracle: Collaboration with US DOE to Accelerate AI Initiatives, www.oracle.com/news/announcement/oracle-and-the-us-department-of-energy-collaborate-to-accelerate-ai-initiatives-2025-12-18/). Enriched Section 3.1 A in README.md and README.de.md with OpenAI "OpenAI for Science" initiative details and Oracle OCI Supercluster / FedRAMP High / DISA IL5/IL6 sovereign cloud enclave details across all 17 DOE National Laboratories.
+- **Index Status Update**: Marked Entries #126 and #127 status to Processed in reference_coverage.md and updated executive metrics to 127 / 355 Processed.
+- **Version Bump**: Incremented patch version to 1.5.25 in README.md and README.de.md.
+
+---
+
 ## [1.5.24] - 2026-08-10
 
 ### Changed
