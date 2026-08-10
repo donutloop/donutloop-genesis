@@ -15,7 +15,7 @@
 | **Official PDF Documents** | **14** | Formal RFA solicitations, webinars, slides, and executive reports |
 | **Web Portals & Press Releases** | **337** | Newsroom features, corporate blog posts, and interactive hubs |
 | **Validation Status** | **100% Validated** | All links canonicalized, formatted, and deduplicated |
-| **Processing Status** | **93 / 355 Processed** | 262 Unprocessed, 93 Processed |
+| **Processing Status** | **94 / 355 Processed** | 261 Unprocessed, 94 Processed |
 
 ---
 
@@ -161,7 +161,7 @@ A complete tabular listing of all 351 indexed reference links:
 | 91 | 4. Executive, Federal & Partner Announcements | - | DOE Overview: Genesis Mission Collaborations | `www.energy.gov` | Web | [DOE Overview: Genesis Mission Collaborations](https://www.energy.gov/undersecretaryforscience/genesis-mission/genesis-mission-collaboration) | `Processed` |
 | 92 | 4. Executive, Federal & Partner Announcements | - | DOE Overview: National Science and Technology Challenges | `www.energy.gov` | Web | [DOE Overview: National Science and Technology Challenges](https://www.energy.gov/undersecretaryforscience/genesis-mission/genesis-mission-national-science-and-technology-challenges) | `Processed` |
 | 93 | 4. Executive, Federal & Partner Announcements | - | DOE Document: Genesis Mission National Science & Technology Challenges (PDF) | `www.energy.gov` | PDF | [DOE Document: Genesis Mission National Science & Technology Challenges (PDF)](https://www.energy.gov/documents/genesis-mission-national-science-technology-challenges) | `Processed` |
-| 94 | 4. Executive, Federal & Partner Announcements | - | DOE Announcement: Secretary Chris Wright Announces First Projects Selected to Accelerate AI-Driven Scientific Discovery | `www.energy.gov` | Web | [DOE Announcement: Secretary Chris Wright Announces First Projects Selected to Accelerate AI-Driven Scientific Discovery](https://www.energy.gov/articles/secretary-energy-chris-wright-announces-first-genesis-mission-projects-selected-accelerate) | `Unprocessed` |
+| 94 | 4. Executive, Federal & Partner Announcements | - | DOE Announcement: Secretary Chris Wright Announces First Projects Selected to Accelerate AI-Driven Scientific Discovery | `www.energy.gov` | Web | [DOE Announcement: Secretary Chris Wright Announces First Projects Selected to Accelerate AI-Driven Scientific Discovery](https://www.energy.gov/articles/secretary-energy-chris-wright-announces-first-genesis-mission-projects-selected-accelerate) | `Processed` |
 | 95 | 4. Executive, Federal & Partner Announcements | - | DOE Announcement: Over $800 Million to Partner with Scientific Community | `www.energy.gov` | Web | [DOE Announcement: Over $800 Million to Partner with Scientific Community](https://www.energy.gov/undersecretaryforscience/articles/us-department-energy-announces-more-800-million-partner) | `Unprocessed` |
 | 96 | 4. Executive, Federal & Partner Announcements | - | DOE Announcement: 26 Genesis Mission Science and Technology Projects | `www.energy.gov` | Web | [DOE Announcement: 26 Genesis Mission Science and Technology Projects](https://www.energy.gov/undersecretaryforscience/articles/energy-department-announces-26-genesis-mission-science-and) | `Unprocessed` |
 | 97 | 4. Executive, Federal & Partner Announcements | - | DOE Announcement: Launching the Genesis Mission Consortium | `www.energy.gov` | Web | [DOE Announcement: Launching the Genesis Mission Consortium](https://www.energy.gov/articles/energy-department-launches-genesis-mission-consortium-accelerate-ai-driven-scientific) | `Unprocessed` |

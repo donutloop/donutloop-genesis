@@ -7,6 +7,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
+## [1.5.3] - 2026-08-10
+
+### Changed
+- **Paper Enrichment (Entry #94 - DOE Announcement: Secretary Chris Wright Announces First Selected Projects)**: Processed reference entry #94 (DOE Announcement: Secretary Chris Wright Announces First Projects Selected to Accelerate AI-Driven Scientific Discovery, July 22, 2026 Summit, www.energy.gov/articles/secretary-energy-chris-wright-announces-first-genesis-mission-projects-selected-accelerate). Enriched Section 1.1 in README.md and README.de.md with official award breakdown details: selection of **278 research project awards** spanning 342 institutions across all 50 states (87 National Lab-led, 168 University-led, 19 Industry-led, 4 Non-profit-led) under DE-FOA-0003612—the largest scientific R&D response in DOE history.
+- **Index Status Update**: Marked Entry #94 status to Processed in reference_coverage.md and updated executive metrics to 94 / 355 Processed.
+- **Version Bump**: Incremented patch version to 1.5.3 in README.md and README.de.md.
+
+---
+
 ## [1.5.2] - 2026-08-10
 
 ### Changed
