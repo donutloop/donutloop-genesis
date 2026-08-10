@@ -7,6 +7,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
+## [1.5.31] - 2026-08-10
+
+### Changed
+- **Paper Enrichment (Entries #147, #148, #149, #150, #151 & #152 - SambaNova, NVIDIA, DOI, GlobalFoundries, Benton Institute & IFP Releases)**: Processed reference entries #147 (SambaNova AI for Science), #148 (NVIDIA US Government Partnership), #149 (Department of the Interior Scientific Leadership), #150 (GlobalFoundries Industry Partner), #151 (Benton Institute Overview), and #152 (Institute for Progress Challenge Analysis). Enriched Section 1.1, 3.1, and Section 4 in README.md and README.de.md with DOI/USGS 3DEP hyperspectral mineral mapping, SambaNova RDU dataflow architecture, NVIDIA US Govt AI R&D, GlobalFoundries MPW quantum foundry partnership, and IFP / Benton Institute policy analysis.
+- **Index Status Update**: Marked Entries #147 through #152 status to Processed in reference_coverage.md and updated executive metrics to 152 / 355 Processed.
+- **Version Bump**: Incremented patch version to 1.5.31 in README.md and README.de.md.
+
+---
+
 ## [1.5.30] - 2026-08-10
 
 ### Changed
