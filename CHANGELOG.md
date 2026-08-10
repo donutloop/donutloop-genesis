@@ -7,6 +7,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
+## [1.5.39] - 2026-08-10
+
+### Changed
+- **Paper Enrichment (Entries #199, #200, #201, #202, #203, #204, #205, #206 & #207 - LBNL NERSC Doudna Supercomputer, Cech EAS Pilot System & 13 AI Projects Releases)**: Processed reference entries #199 (LBNL GM Hub), #200 (LBNL GM Projects Directory), #201 (LBNL Leading 13 New AI Projects), #202 (LBNL ModCon Q&A), #203 (LBNL Elements Feature), #204 (LBNL ATAP Particle Accelerator AI Team), #205 (LBNL Cech Early Access System for Doudna), #206 (LBNL Connecting Data, Computing & AI), and #207 (LBNL American Science Cloud Innovation). Enriched Section 2.1 in README.md and README.de.md with Lawrence Berkeley National Lab (LBNL) NERSC flagship **Doudna** supercomputer (powered by Dell & NVIDIA Vera Rubin architecture), **Cech** Pilot Early Access System (EAS), 13 new Genesis AI projects led by Berkeley Lab, ATAP particle accelerator AI control systems, and ModCon co-leadership.
+- **Index Status Update**: Marked Entries #199 through #207 status to Processed in reference_coverage.md and updated executive metrics to 207 / 355 Processed.
+- **Version Bump**: Incremented patch version to 1.5.39 in README.md and README.de.md.
+
+---
+
 ## [1.5.38] - 2026-08-10
 
 ### Changed

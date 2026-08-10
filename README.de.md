@@ -1,4 +1,4 @@
-**Version**: 1.5.38
+**Version**: 1.5.39
 
 # Die Genesis-Mission: Architektur, strategische Initiativen und das multi-institutionelle Ökosystem für KI- und quantengetriebene wissenschaftliche Entdeckungen
 
@@ -52,7 +52,7 @@ Die Genesis-Mission wird in erster Linie vom **U.S. Department of Energy (DOE) O
 +------------v------------------------------+                   +----------------------------v-----------------+
 |    QUANTENFÜHRUNG & GIESSEREI-INFRASTRUKTUR|                   |    KI FÜR WISSENSCHAFT & HOCHLEISTUNGSRECHNEN|
 |  - $2B DOE Quantenführungsprogramm        |                   |  - DE-FOA-0003612 ($800M+ Erstförderung)     |
-|  - $2B DOC CHIPS Act Gießerei-LOIs        |                   |  - Exascale HPC (Frontier, Aurora, El Capitan)|
+* **Lawrence Berkeley National Laboratory (LBNL):** Verwaltet das **National Energy Research Scientific Computing Center (NERSC)**, betreibt **Perlmutter** (NVIDIA A100 GPU-Cluster) und den Supercomputer der nächsten Generation **Doudna** (angetrieben von Dell Technologies und NVIDIA Vera Rubin Architektur), unterstützt durch das **Cech** Pilot Early Access System (EAS), das Anfang 2026 ausgeliefert wurde im Rahmen seiner offiziellen Bekanntgaben (*Berkeley Lab Takes Major Step Toward Doudna with Delivery of Cech*, `newscenter.lbl.gov/2026/03/17/berkeley-lab-takes-major-step-toward-doudna-with-delivery-of-early-access-system-cech/`, *Berkeley Lab to Lead 13 New AI Projects*, `newscenter.lbl.gov/2026/07/22/berkeley-lab-to-lead-13-new-genesis-mission-ai-projects/`, *Genesis Mission Hub*, `www.lbl.gov/genesis-mission/`, `www.lbl.gov/genesis-mission-projects/`, *Connecting Data, Computing, and AI*, `newscenter.lbl.gov/2026/08/05/connecting-data-computing-and-ai-for-scientific-discovery/`, *Supporting DOE's Genesis Mission*, `elements.lbl.gov/news/supporting-does-genesis-mission/` und *How the American Science Cloud Advances Innovation*, `newscenter.lbl.gov/2026/07/15/how-the-genesis-missions-american-science-cloud-advances-innovation/`). Das LBNL leitet 13 neue Genesis-KI-Projekte und ist Partner in über 30 weiteren, betreibt die Synchrotron-Strahlungsquelle **Advanced Light Source (ALS)**, treibt ATAP-Teilchenbeschleuniger-KI-Steuerungen (`atap.lbl.gov/news/the-multi-office-particle-accelerator-team-using-ai-to-enhance-the-capabilities-of-current-and-future-particle-accelerators/`) voran und ko-leitet **ModCon** (`newscenter.lbl.gov/2026/07/23/qa-accelerating-scientific-discovery-with-the-genesis-missions-modcon/`).
 |  - Gießereien: GF, IBM, Atom, D-Wave,     |                   |  - KI-Supercomputing: Solstice, Equinox, Lux, |
 |    Infleqtion, PsiQuantum, Quantinuum,    |                   |    Discovery, Dell AI Factory, SambaNova    |
 |    Rigetti, Diraq                         |                   |  - FAIR-Datenautobahnen ($83M NSF Stream)    |
