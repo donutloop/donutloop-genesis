@@ -7,6 +7,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
+## [1.4.37] - 2026-08-10
+
+### Changed
+- **Paper Enrichment (Entry #69 - Atom Computing)**: Processed reference entry #69 (Atom Computing, atom-computing.com). Enriched Section 2.2 and Section 3.1 B in README.md and README.de.md with comprehensive Atom Computing details: **strontium-87** neutral-atom architecture using optical tweezers, nuclear spin-state qubit encoding, **~40-second coherence times**, native all-to-all qubit connectivity, **1,225 physical qubits** in second-generation system (late 2023, first gate-based platform exceeding 1,000 qubits), over **$300 million** total venture capital raised (June 2026), DARPA QBI Stage B performance, and NREL ARIES quantum-in-the-loop grid co-simulation.
+- **Index Status Update**: Marked Entry #69 status to Processed in reference_coverage.md and updated executive metrics to 69 / 351 Processed.
+- **Version Bump**: Incremented patch version to 1.4.37 in README.md and README.de.md.
+
+---
+
 ## [1.4.36] - 2026-08-10
 
 ### Changed
