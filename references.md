@@ -220,6 +220,10 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
 * [SHINE Technologies: Selected for Two DOE Genesis Mission Projects Advancing AI in Nuclear Fuel Recycling](https://www.prnewswire.com/news-releases/shine-selected-for-two-doe-genesis-mission-projects-advancing-ai-in-nuclear-fuel-recycling-302841934.html)
 * [Everstar: Announces Collaboration with DOE National Laboratories and Microsoft](https://www.prnewswire.com/news-releases/everstar-announces-collaboration-with-doe-national-laboratories-and-microsoft--marking-its-first-major-milestone-in-the-genesis-mission-302726497.html)
 * [RTI International: DOE Partners with RTI International to Administer Newly Launched Genesis Mission Consortium via TECHWERX](https://www.prnewswire.com/news-releases/doe-partners-with-rti-international-to-administer-newly-launched-genesis-mission-consortium-via-techwerx-302682875.html)
+* [CoreWeave: Joins U.S. Department of Energy's Genesis Mission to Advance Research and Innovation](https://www.coreweave.com/news/coreweave-joins-department-of-energys-genesis-mission-to-advance-u-s-research-and-innovation)
+* [Databricks: Securing America's Scientific Future with Databricks & Accenture](https://www.databricks.com/dataaisummit/session/sponsored-accenture-securing-americas-scientific-future)
+* [Dataera.ai: Dataera.ai Collaborates with U.S. Department of Energy on Genesis Mission](https://www.dataerai.com/doe-genesis-partnership.html)
+* [Veritone: Joins Genesis Mission Consortium to Advance U.S. Department of Energy's National AI Initiatives](https://investors.veritone.com/news-events/press-releases/detail/429/veritone-joins-genesis-mission-consortium-to-advance-u-s-department-of-energys-national-ai-initiatives)
   
 ---
 
@@ -440,12 +444,3 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
 * [DOE Office of Science (SCAC): DOE Genesis Mission Launched Presentation (PDF)](https://science.osti.gov/-/media/About/pdf/scac/meetings/2026/DOE-Genesis-Mission-Launched---2026-03-27.pdf)
 * [OSTP: OSTP Genesis Mission Science and Technology Challenges Document](https://www.energy.gov/documents/ostp-genesis-mission-science-and-technology-challenges)
 * [U.S. Department of Energy: ModCon — Transformational AI and Data Overview](https://www.energy.gov/undersecretaryforscience/genesis-mission/modcon-transformational-ai-and-data)
-
-
-
-WIP: 
-
-https://www.coreweave.com/news/coreweave-joins-department-of-energys-genesis-mission-to-advance-u-s-research-and-innovation
-https://www.databricks.com/dataaisummit/session/sponsored-accenture-securing-americas-scientific-future
-https://www.dataerai.com/doe-genesis-partnership.html
-https://investors.veritone.com/news-events/press-releases/detail/429/veritone-joins-genesis-mission-consortium-to-advance-u-s-department-of-energys-national-ai-initiatives

@@ -4,6 +4,22 @@ All notable changes to the Genesis Mission documentation repository will be docu
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
+## [2.1.15] - 2026-08-11
+
+### Changed
+- **WIP Reference Integration & Link Formatting**: Processed 4 new reference links from the temporary `WIP` scratchpad in `references.md`:
+  - **Integrated Links**:
+    - `[CoreWeave: Joins U.S. Department of Energy's Genesis Mission to Advance Research and Innovation](https://www.coreweave.com/news/coreweave-joins-department-of-energys-genesis-mission-to-advance-u-s-research-and-innovation)`
+    - `[Databricks: Securing America's Scientific Future with Databricks & Accenture](https://www.databricks.com/dataaisummit/session/sponsored-accenture-securing-americas-scientific-future)`
+    - `[Dataera.ai: Dataera.ai Collaborates with U.S. Department of Energy on Genesis Mission](https://www.dataerai.com/doe-genesis-partnership.html)`
+    - `[Veritone: Joins Genesis Mission Consortium to Advance U.S. Department of Energy's National AI Initiatives](https://investors.veritone.com/news-events/press-releases/detail/429/veritone-joins-genesis-mission-consortium-to-advance-u-s-department-of-energys-national-ai-initiatives)`
+  - **Scratchpad Decommissioning**: Cleared and decommissioned the temporary `WIP` section in `references.md`.
+- **Master Reference Coverage Report (`reference_coverage.md`)**: Indexed new entries #91–94 in Section 4 (`4. Executive, Federal & Partner Announcements`) with `Unprocessed` status. Renumbered all master reference table rows (total indexed references expanded to **367**; unique target domains **207**; web portals & press releases **350**).
+- **Ecosystem Coverage Sync (`coverage.md`)**: Verified entity coverage—`CoreWeave`, `Databricks`, `Dataera.ai`, and `Veritone` are already fully profiled with `✅ Full Profile` status in `coverage.md`.
+- **Version Bump**: Incremented patch version string to `2.1.15` in `README.md` and `README.de.md`.
+
+---
+
 ## [2.1.14] - 2026-08-10
 
 ### Fixed
