@@ -7,6 +7,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
+## [1.4.54] - 2026-08-10
+
+### Changed
+- **Paper Enrichment (Entry #85 - NSF Dataset Value & IDSS Program)**: Processed reference entry #85 (NSF: New NSF Initiative Aims to Unlock Dataset Value for AI-Enabled Research, www.nsf.gov). Enriched Section 1.1 in README.md and README.de.md with NSF program details: **$83 Million Integrated Data Systems and Services (IDSS)** program and companion *"Unlocking Dataset Value for AI-Enabled Scientific Discovery"* (**AI Datasets**) funding solicitation, developing automated feature extraction, AI metadata generation, and FAIR data backbones connecting NAIRR, university STEM labs, and the **American Science and Security Platform**.
+- **Index Status Update**: Marked Entry #85 status to Processed in reference_coverage.md and updated executive metrics to 85 / 355 Processed.
+- **Version Bump**: Incremented patch version to 1.4.54 in README.md and README.de.md.
+
+---
+
 ## [1.4.53] - 2026-08-10
 
 ### Changed
