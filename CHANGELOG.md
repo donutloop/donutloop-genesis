@@ -7,6 +7,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
+## [1.5.47] - 2026-08-10
+
+### Changed
+- **Paper Enrichment (Entries #271, #272, #273, #274, #275, #276, #277, #278, #279 & #280 - MSU FRIB, Michigan Tech, Mississippi State, Missouri S&T, MIT Physics/Climate/PSFC Fusion AI, NJIT & NMSU Genesis Releases)**: Processed reference entries #271 (MSU FRIB Award), #272 (Michigan Tech Atmospheric Science), #273 (Mississippi State ORD), #274 (Missouri S&T Award), #275 (MIT General Award), #276 (MIT Physics Award), #277 (MIT Climate Award), #278 (MIT PSFC Fusion AI led by Cristina Rea), #279 (NJIT Genesis Mission), and #280 (NMSU $800M Initiative Team). Enriched Section 3.3 in README.md and README.de.md with Michigan State University (MSU FRIB heavy-ion accelerator digital twins), Michigan Tech, Mississippi State University, Missouri S&T (HALEU nuclear fuel performance), Massachusetts Institute of Technology (MIT Physics, Climate & PSFC fusion AI plasma disruption algorithms led by Cristina Rea), New Jersey Institute of Technology (NJIT), and New Mexico State University (NMSU).
+- **Index Status Update**: Marked Entries #271 through #280 status to Processed in reference_coverage.md and updated executive metrics to 280 / 355 Processed.
+- **Version Bump**: Incremented patch version to 1.5.47 in README.md and README.de.md.
+
+---
+
 ## [1.5.46] - 2026-08-10
 
 ### Changed
