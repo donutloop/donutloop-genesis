@@ -7,6 +7,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
+## [1.5.28] - 2026-08-10
+
+### Changed
+- **Paper Enrichment (Entries #133, #134, #135 & #136 - Atom Computing & Infleqtion CHIPS Act & DOE Genesis Mission Releases)**: Processed reference entries #133 (Atom Computing $100M CHIPS Act LOI), #134 (Atom Computing & NREL Electric Grid Modeling), #135 (Infleqtion Secures 3 Genesis Mission Projects), and #136 (Infleqtion $100M CHIPS Act LOI). Enriched Section 3.1 B in README.md and README.de.md with Atom Computing strontium-87 neutral-atom QPU (1,225+ qubits, NREL ARIES grid co-simulation) and Infleqtion 3 DOE Genesis projects (ANL AI quantum circuit design, BNL agentic AI sensing, LLNL/CU Boulder fusion plasma ML simulation, **Sqale** QPU, **Tiqker** atomic clocks, **Superstaq** compiler).
+- **Index Status Update**: Marked Entries #133, #134, #135, and #136 status to Processed in reference_coverage.md and updated executive metrics to 136 / 355 Processed.
+- **Version Bump**: Incremented patch version to 1.5.28 in README.md and README.de.md.
+
+---
+
 ## [1.5.27] - 2026-08-10
 
 ### Changed
