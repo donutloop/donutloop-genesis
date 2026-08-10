@@ -4,6 +4,18 @@ All notable changes to the Genesis Mission documentation repository will be docu
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
+## [2.1.1] - 2026-08-10
+
+### Changed
+- **WIP Reference Integration & Decommissioning**: Processed and integrated raw WIP reference for the U.S. Department of Energy (Office of Nuclear Energy / NE) AI reactor licensing initiative (`https://www.energy.gov/ne/articles/department-energy-unleashes-ai-reduce-reactor-licensing-timelines`) into Section 4 (`Executive, Federal & Partner Announcements`) of `references.md`.
+- **Scratchpad Decommissioning**: Decommissioned and cleared the temporary `WIP` scratchpad section in `references.md`.
+- **Master Reference Coverage Report Sync (`reference_coverage.md`)**:
+  - Extended master index to include the newly integrated DOE NE AI reactor licensing announcement.
+  - Recalculated reference distribution metrics: **362 total reference links** (111 in Section 4, representing 30.7% of all repository references) and **345 web portals & press releases**.
+- **Version Bump**: Incremented version string to `2.1.1` in `README.md` and `README.de.md`.
+
+---
+
 ## [2.1.0] - 2026-08-10
 
 ### Changed
