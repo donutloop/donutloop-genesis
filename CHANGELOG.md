@@ -7,6 +7,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
+## [1.5.27] - 2026-08-10
+
+### Changed
+- **Paper Enrichment (Entries #131 & #132 - AMD Lux/Discovery Supercomputers & Anthropic Science Releases)**: Processed reference entries #131 (AMD: Partnering to Accelerate AI-Driven Scientific Leadership) and #132 (Anthropic: Introducing Anthropic Science & Genesis Partnership). Enriched Section 3.1 in README.md and README.de.md with AMD **Lux** (MI355X GPUs at ORNL) and 2028 **Discovery** exascale supercomputer details, as well as Anthropic **Claude 3.5/3.7 Sonnet**, **Anthropic Science** model family, and MCP server deployments across all 17 DOE National Laboratories.
+- **Index Status Update**: Marked Entries #131 and #132 status to Processed in reference_coverage.md and updated executive metrics to 132 / 355 Processed.
+- **Version Bump**: Incremented patch version to 1.5.27 in README.md and README.de.md.
+
+---
+
 ## [1.5.26] - 2026-08-10
 
 ### Changed
