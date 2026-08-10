@@ -4,6 +4,21 @@ All notable changes to the Genesis Mission documentation repository will be docu
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
+## [2.0.3] - 2026-08-10
+
+### Changed
+- **Company Coverage Expansion & Profile Integration**: Systematically expanded company profiles across `README.md` and `README.de.md` for **Domino Data Lab**, **Groq**, **Everstar**, and **SHINE Technologies**:
+  - *Groq*: Added detailed technical profile detailing Language Processing Unit (**LPU**) single-core deterministic tensor streaming architectures, GroqRack/GroqNode deployment across ANL ALCF, LBNL NERSC, and ORNL OLCF, and ultra-low-latency real-time LLM inference (500+ tokens/sec/user) and fast neural surrogate modeling.
+  - *Everstar*: Added technical profile covering agentic AI molecular design models, multi-agent biopharma discovery engines, and Microsoft Discovery platform (MatterGen/MatterSim) integration for closed-loop therapeutic target screening and biosecurity resilience.
+  - *SHINE Technologies*: Added technical profile detailing physics-informed AI modeling for aqueous radiochemical separation, medical radioisotope production (Mo-99, Lu-177), and fusion-driven neutron source physics under two DOE Genesis project awards with SRNL, INL, and ANL.
+  - *Domino Data Lab*: Integrated profile and Appendix A.3 table entry detailing the Domino Enterprise AI Platform for unified MLOps data science orchestration, experiment tracking, and FedRAMP High enclaves.
+- **Ecosystem Coverage Tracker Sync (`coverage.md`)**:
+  - Upgraded coverage status for Domino Data Lab, Groq, Everstar, and SHINE Technologies from `❌ Not Covered` to `✅ Full Profile` (`§3.1, A.3`).
+  - Achieved **100% Full Profile Coverage for all 65 Industry Partners** (65 / 65 Full Profile).
+  - Recalculated ecosystem summary metrics: **152 / 156 (97%)** total consortium entities with dedicated technical write-ups (152 Full Profile, 0 Brief Mention, 4 Not Covered).
+- **Version Bump**: Incremented patch version string to `2.0.3` in `README.md` and `README.de.md`.
+
+---
 
 ## [2.0.2] - 2026-08-10
 

@@ -3,7 +3,7 @@
 > **Scope & Coverage Definition:**
 > - **Flagship Consortium Scope:** Tracks **all 156 primary flagship participants**—lead contractors, federal agencies, national laboratories, awardee universities, and strategic industrial partners—explicitly profiled or referenced in the Genesis Mission paper (`README.md`) and reference index.
 > - **Broader National Awardee Network Context:** Under solicitation DE-FOA-0003612 and interagency challenges, the broader national initiative encompasses **342 total participating institutions** (157 companies, 142 universities, 16 national labs, 13 non-profits, 14 other entities across 278 projects).
-> - **Coverage Status:** **148 / 156 (95%)** of the tracked consortium entities have dedicated, detailed technical profiles. 8 newly referenced entities await full profile integration.
+> - **Coverage Status:** **152 / 156 (97%)** of the tracked consortium entities have dedicated, detailed technical profiles. 4 newly referenced entities (USDA, GMU, OSU, UNL) await full profile integration.
 
 **Legend:**
 - ✅ **Full Profile** — Dedicated section with detailed technical write-up (Sections 2.2 / 3.1 / 3.2 / 3.3 / 3.4 / 3.5)
@@ -27,8 +27,8 @@
 | 9 | NVIDIA | ✅ Full Profile | §2.1, §3.1 | Solstice/Equinox; Apollo models; Omniverse; edge AI |
 | 10 | Oracle | ✅ Full Profile | §3.1 | Enterprise cloud; HPC database infrastructure |
 | 11 | SambaNova Systems | ✅ Full Profile | §2.1, §3.1, A.3 | Reconfigurable Dataflow Architecture (RDUs); high-throughput AI inference; ALCF deployment |
-| 12 | Domino Data Lab | ❌ Not Covered | — | Genesis Mission Consortium member; enterprise MLOps data science platform (reference only) |
-| 13 | Groq | ❌ Not Covered | — | AI inference hardware & LPUs; next-generation compute infrastructure partner (reference only) |
+| 12 | Domino Data Lab | ✅ Full Profile | §3.1, A.3 | Genesis Mission Consortium member; enterprise MLOps AI platform & FedRAMP High enclaves |
+| 13 | Groq | ✅ Full Profile | §3.1, A.3 | Language Processing Units (LPUs); deterministic ultra-low latency AI inference & GroqRack clusters |
 
 ---
 
@@ -43,7 +43,7 @@
 | 18 | Meta AI | ✅ Full Profile | §3.1 | Segment Anything & DINO with LBNL |
 | 19 | OpenAI | ✅ Full Profile | §3.1, A.3 | Frontier reasoning LLM agents; OpenAI for Government; DOE MOU & national science collaboration |
 | 20 | Scale AI | ✅ Full Profile | §3.1, A.3 | Scientific data curation engines, synthetic data generation, domain-expert RLHF & DOE MOU |
-| 21 | Everstar | ❌ Not Covered | — | AI biopharma & multi-agent scientific discovery partner (reference only) |
+| 21 | Everstar | ✅ Full Profile | §3.1, A.3 | AI biopharma & multi-agent scientific discovery partner; protein design & MSFT Discovery integration |
 
 ---
 
@@ -99,7 +99,7 @@
 | 53 | PMT Critical Metals | ✅ Full Profile | §3.1, A.3 | Refractory metals processing, strategic minerals supply chain management & high-temperature metallurgy |
 | 54 | Ramaco | ✅ Full Profile | §3.1, A.3 | Coal-to-materials manufacturing, synthetic graphite battery anode production & Brook Mine REE extraction |
 | 55 | Tennessee Valley Authority | ✅ Full Profile | §3.1, A.3 | Federal power utility, Clinch River SMR nuclear demonstration & exascale grid co-simulation |
-| 56 | SHINE Technologies | ❌ Not Covered | — | Nuclear fuel recycling AI & isotope technology partner (reference only) |
+| 56 | SHINE Technologies | ✅ Full Profile | §3.1, A.3 | Nuclear fuel recycling AI & radioisotope production; 2 DOE Genesis project awards |
 
 ---
 
@@ -244,20 +244,20 @@
 
 | Entity Type | Total | ✅ Full | 📋 Brief | ❌ Not Covered |
 |:---|:---:|:---:|:---:|:---:|
-| Industry Partners | 65 | 61 | 0 | 4 |
+| Industry Partners | 65 | 65 | 0 | 0 |
 | Federal Agencies | 10 | 9 | 0 | 1 |
 | National Laboratories | 17 | 17 | 0 | 0 |
 | Universities | 60 | 57 | 0 | 3 |
 | Additional Research Orgs | 4 | 4 | 0 | 0 |
-| **Total** | **156** | **148** | **0** | **8** |
+| **Total** | **156** | **152** | **0** | **4** |
 
 ### By Coverage Level
 
 | Coverage Level | Count | Percentage |
 |:---|:---:|:---:|
-| ✅ Full Profile | 148 | 95% |
+| ✅ Full Profile | 152 | 97% |
 | 📋 Brief Mention | 0 | 0% |
-| ❌ Not Covered | 8 | 5% |
+| ❌ Not Covered | 4 | 3% |
 | **Total Entities** | **156** | **100%** |
 
-> **Note:** 148 of 156 tracked Genesis Mission ecosystem participants have dedicated, detailed technical write-ups. 8 newly referenced entities (Domino Data Lab, Groq, Everstar, SHINE Technologies, USDA, George Mason University, Oklahoma State University, University of Nebraska–Lincoln) have been indexed via `references.md` and await full profile integration into the README papers. The broader sub-grantee network of 342 participating institutions represents secondary academic and sub-contractor nodes across the 278 national project awards.
+> **Note:** 152 of 156 tracked Genesis Mission ecosystem participants have dedicated, detailed technical write-ups (including 100% of all 65 industry partners). 4 newly referenced entities (USDA, George Mason University, Oklahoma State University, University of Nebraska–Lincoln) have been indexed via `references.md` and await full profile integration into the README papers. The broader sub-grantee network of 342 participating institutions represents secondary academic and sub-contractor nodes across the 278 national project awards.
