@@ -7,6 +7,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
+## [1.4.39] - 2026-08-10
+
+### Changed
+- **Paper Enrichment (Entry #71 - D-Wave Quantum)**: Processed reference entry #71 (D-Wave Quantum, www.dwavesys.com). Enriched Section 2.2 and Section 3.1 B in README.md and README.de.md with comprehensive D-Wave Quantum details: **$100M CHIPS Act LOI** (Department of Commerce equity stake of $100M common stock), dual-platform strategy scaling **Advantage2** quantum annealing (**Zephyr topology**, 20-way connectivity, 5,000+ to 7,000+ flux qubits, 100,000-qubit roadmap) and **dual-rail superconducting flux qubits** with hardware error detection (targeting 100 logical qubits by 2032), R&D facility expansion across New Haven CT, Burnaby BC, and Boca Raton FL, and **Leap™** hybrid solvers integrated across DOE National Laboratories (LANL, ORNL, NREL ARIES).
+- **Index Status Update**: Marked Entry #71 status to Processed in reference_coverage.md and updated executive metrics to 71 / 351 Processed.
+- **Version Bump**: Incremented patch version to 1.4.39 in README.md and README.de.md.
+
+---
+
 ## [1.4.38] - 2026-08-10
 
 ### Changed
