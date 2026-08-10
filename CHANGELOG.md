@@ -7,6 +7,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
+## [1.5.50] - 2026-08-10
+
+### Changed
+- **Paper Enrichment (Entries #301, #302, #303, #304, #305, #306, #307, #308, #309 & #310 - UBuffalo AI, U of A 5 Prime Projects, UC System, UCF, CU Boulder / Infleqtion 3 Projects, UConn, UF, UIUC & UKentucky 6 Researchers Releases)**: Processed reference entries #301 (UBuffalo AI Research), #302 (U of A 5 Prime Research Projects), #303 (UC System Energy Partnership), #304 (UCF AI Discovery Support), #305/#306 (CU Boulder & Infleqtion 3 Projects), #307 (UConn Award), #308 (UF Grant), #309 (UIUC Award), and #310 (University of Kentucky 6 Researchers). Enriched Section 3.3 in README.md and README.de.md with University at Buffalo, University of Arizona (5 prime projects), University of California System, University of Central Florida (UCF), University of Colorado Boulder / Infleqtion (3 projects), University of Connecticut (UConn), University of Florida (UF), University of Illinois Urbana-Champaign (UIUC), and University of Kentucky (6 researchers).
+- **Index Status Update**: Marked Entries #301 through #310 status to Processed in reference_coverage.md and updated executive metrics to 310 / 355 Processed.
+- **Version Bump**: Incremented patch version to 1.5.50 in README.md and README.de.md.
+
+---
+
 ## [1.5.49] - 2026-08-10
 
 ### Changed
