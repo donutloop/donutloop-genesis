@@ -7,6 +7,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
+## [1.5.45] - 2026-08-10
+
+### Changed
+- **Paper Enrichment (Entries #253, #254, #255, #256, #257, #258, #259 & #260 - SLAC ISDCI Portal, Jefferson Lab AI Femtography & University Genesis Projects Releases)**: Processed reference entries #253 (Stanford & SLAC Genesis Projects), #254 (SLAC ISDCI Genesis Portal), #255 (Jefferson Lab AI Nuclear Femtography), #256 (AI Tennessee Initiative), #257 (Auburn Molaei Research), #258 (ASU Electrical Grid Reliability Grant), #259 (Caltech 2 Genesis Projects), and #260 (Carnegie Mellon 3 AI Genesis Awards). Enriched Section 2.3 and 3.3 in README.md and README.de.md with SLAC LCLS-II ISDCI portal, Thomas Jefferson National Accelerator Facility (TJNAF / Jefferson Lab) 3D nuclear femtography, UT Knoxville AI Tennessee initiative, Auburn University Molaei research, ASU grid reliability grant, Caltech 2 projects, and Carnegie Mellon University (CMU) 3 AI projects.
+- **Index Status Update**: Marked Entries #253 through #260 status to Processed in reference_coverage.md and updated executive metrics to 260 / 355 Processed.
+- **Version Bump**: Incremented patch version to 1.5.45 in README.md and README.de.md.
+
+---
+
 ## [1.5.44] - 2026-08-10
 
 ### Changed
