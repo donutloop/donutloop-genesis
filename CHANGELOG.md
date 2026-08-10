@@ -7,6 +7,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
+## [1.4.51] - 2026-08-10
+
+### Changed
+- **Paper Enrichment (Entry #83 - U.S. House Science Committee Hearing on the Genesis Mission)**: Processed reference entry #83 (U.S. House of Representatives Committee Event: Hearing on the Genesis Mission, 119th Congress, House Event 118728, www.congress.gov). Enriched Section 4.2 in README.md and README.de.md with Congressional legislative oversight details: House Science, Space, and Technology Committee hearings (*The Genesis Mission: Prioritizing American Science and Technology Leadership*), bipartisan review of $5B+ federal R&D budget allocations across 15+ agencies, evaluation of DOE DE-FOA-0003612 (278 project awards) and CHIPS Act quantum foundry LOIs, and authorizing legislation for the **American Science and Security Platform**, exascale HPC facilities, and onshore semiconductor/quantum supply chains.
+- **Index Status Update**: Marked Entry #83 status to Processed in reference_coverage.md and updated executive metrics to 83 / 351 Processed.
+- **Version Bump**: Incremented patch version to 1.4.51 in README.md and README.de.md.
+
+---
+
 ## [1.4.50] - 2026-08-10
 
 ### Changed

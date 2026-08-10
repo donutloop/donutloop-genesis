@@ -1,4 +1,4 @@
-**Version**: 1.4.50
+**Version**: 1.4.51
 
 # Die Genesis-Mission: Architektur, strategische Initiativen und das multi-institutionelle Ökosystem für KI- und quantengetriebene wissenschaftliche Entdeckungen
 
@@ -366,6 +366,7 @@ Die Finanzinfrastruktur der Genesis-Mission integriert vier verschiedene Kapital
 Die Governance der Exekutive koordiniert die Politik von 9 Bundesbehörden auf der Grundlage von Verordnungen, die der US-Führungsrolle bei KI, Quanteninformationswissenschaften und inländischer Halbleiterfertigung Priorität einräumen.
 
 * **White House OSTP:** Legt nationale strategische S&T-Prioritäten fest, koordiniert die behördenübergreifende Politik über 15+ Behörden und veröffentlichte den wegweisenden **2025 Historic Wins Report** (*2025 Trump Administration Science & Technology Highlights*, PDF-Referenz `WHOSTP-2025-Wins.pdf`, Jan. 2026) zusammen mit der politischen Rahmenplanung *Science: A New Golden Age* (Juli 2026). Das OSTP etablierte die **Vier Strategischen Säulen** der nationalen S&T: (1) Wiederbelebung des US-S&T-Unternehmens und agiler X-Labs; (2) Sicherung der US-Dominanz in kritischen und aufstrebenden Technologien; (3) Start eines neuen Goldenen Zeitalters, angetrieben von KI für Wissenschaft; und (4) Sicherstellung, dass S&T das Leben aller Amerikaner verbessert. Das OSTP startete die **Quantum Computer for Application Development and Discovery Science (QC-ADDS)**-Initiative zur Integration von QPUs mit Exascale-Supercomputing, ordnete Aktionspläne der Behörden und FY2028-OMB-Budgetanträge innerhalb von 90 Tagen an und setzt nationale Sicherheitsklassifizierungsrichtlinien für Dual-Use-KI- und Quantentechnologien durch.
+* **Ausschuss für Wissenschaft, Raumfahrt und Technologie des US-Repräsentantenhauses (119. Kongress):** Führt parteiübergreifende gesetzgeberische Aufsicht und Anhörungen zur Genesis-Mission durch (*The Genesis Mission: Prioritizing American Science and Technology Leadership*, House Event 118728). Der Ausschuss überprüft milliardenschwere F&E-Budgetallokationen des Bundes (über 5 Milliarden US-Dollar über 15+ Behörden), bewertet die Projektauswahl des DOE im Rahmen von DE-FOA-0003612 (278 Forschungspreise) und die Absichtserklärungen (LOIs) des CHIPS R&D Office für Quantengießereien und treibt Gesetzgebungsverfahren voran, um langfristige Mittel für die **American Science and Security Platform**, Exascale-HPC-Supercomputer, 7-Modalitäten-QPUs und inländische Mikroelektronik-Lieferketten zu sichern.
 
 ### 4.3 Strategische Implikationen & Nationale Technologische Souveränität
 Die Genesis-Mission stellt einen grundlegenden Wandel in der wissenschaftlichen Strategie des Bundes dar – weg von passiver, computergestützter Forschung hin zu **aktiver, agentischer wissenschaftlicher Entdeckung**:
