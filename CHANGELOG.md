@@ -4,6 +4,16 @@ All notable changes to the Genesis Mission documentation repository will be docu
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
+## [2.1.7] - 2026-08-10
+
+### Changed
+- **Reference Index Processing & Research Paper Enrichment (Entry #299)**: Processed master reference index link #299 (*Stony Brook Mobilizes for National AI Research Mission*, `news.stonybrook.edu`).
+- **Research Paper Updates (`README.md` & `README.de.md`)**: Enriched §3.3 Academic Consortiums profile with institutional response details on Stony Brook University's mobilization under President Andrea Goldsmith, Interim VP for Research Mónica Bugallo, and the Office for Research and Innovation (ORI): submitting **89 Genesis Mission proposals** (40 SBU-led Phase I applications across 16 Genesis topic areas and 49 partner non-lead applications; 38% led by first-time DOE PIs), partnering with BNL (28 proposals), 9 other DOE National Labs, and industry partners including AWS, Dominion Energy, Eversource, GE Vernova, IBM Quantum/Research, and NVIDIA.
+- **Master Reference Coverage Report Sync (`reference_coverage.md`)**: Updated status of Entry #299 to `Processed` (recalculated totals: **361 / 362 Processed**, 1 Unprocessed).
+- **Version Bump**: Incremented patch version string to `2.1.7` in `README.md` and `README.de.md`.
+
+---
+
 ## [2.1.6] - 2026-08-10
 
 ### Changed

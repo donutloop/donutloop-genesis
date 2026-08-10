@@ -15,7 +15,7 @@
 | **Official PDF Documents** | **14** | Formal RFA solicitations, webinars, slides, and executive reports |
 | **Web Portals & Press Releases** | **345** | Newsroom features, corporate blog posts, and interactive hubs |
 | **Validation Status** | **100% Validated** | All links canonicalized, formatted, and deduplicated |
-| **Processing Status** | **360 / 362 Processed** | 2 Unprocessed, 360 Processed |
+| **Processing Status** | **361 / 362 Processed** | 1 Unprocessed, 361 Processed |
 
 ---
 
@@ -366,7 +366,7 @@ A complete tabular listing of all 362 indexed reference links:
 | 296 | 5. National Labs & University Coverage | Universities & Research Institutions | AI Laboratories Award | `med.stanford.edu` | Web | [AI Laboratories Award](https://med.stanford.edu/news/all-news/2026/08/ai-laboratories-award.html) | `Processed` |
 | 297 | 5. National Labs & University Coverage | Universities & Research Institutions | Researchers Chosen for Landmark AI for Science Awards | `news.stonybrook.edu` | Web | [Researchers Chosen for Landmark AI for Science Awards](https://news.stonybrook.edu/newsroom/press-release/general/stony-brook-university-researchers-chosen-for-landmark-doe-genesis-mission-ai-for-science-awards-2/) | `Processed` |
 | 298 | 5. National Labs & University Coverage | Universities & Research Institutions | University Coverage: AI for Science Awards | `news.stonybrook.edu` | Web | [University Coverage: AI for Science Awards](https://news.stonybrook.edu/university/stony-brook-university-researchers-chosen-for-landmark-doe-genesis-mission-ai-for-science-awards/) | `Processed` |
-| 299 | 5. National Labs & University Coverage | Universities & Research Institutions | Stony Brook Mobilizes for National AI Research Mission | `news.stonybrook.edu` | Web | [Stony Brook Mobilizes for National AI Research Mission](https://news.stonybrook.edu/university/stony-brook-mobilizes-for-national-ai-research-mission/) | `Unprocessed` |
+| 299 | 5. National Labs & University Coverage | Universities & Research Institutions | Stony Brook Mobilizes for National AI Research Mission | `news.stonybrook.edu` | Web | [Stony Brook Mobilizes for National AI Research Mission](https://news.stonybrook.edu/university/stony-brook-mobilizes-for-national-ai-research-mission/) | `Processed` |
 | 300 | 5. National Labs & University Coverage | Universities & Research Institutions | Texas A&M Joins the Genesis Mission to Transform Science Using AI | `stories.tamu.edu` | Web | [Texas A&M Joins the Genesis Mission to Transform Science Using AI](https://stories.tamu.edu/news/2026/07/27/texas-am-university-joins-the-genesis-mission-to-transform-science-using-artificial-intelligence/) | `Processed` |
 | 301 | 5. National Labs & University Coverage | Universities & Research Institutions | DOE Genesis Mission Awards Coverage | `news.txst.edu` | Web | [DOE Genesis Mission Awards Coverage](https://news.txst.edu/research-and-innovation/2026/doe-genesis-mission.html) | `Processed` |
 | 302 | 5. National Labs & University Coverage | Universities & Research Institutions | Team Selected to Discover Next Generation Materials Using AI | `news.tulane.edu` | Web | [Team Selected to Discover Next Generation Materials Using AI](https://news.tulane.edu/pr/department-energys-genesis-mission-selects-tulane-team-using-ai-discover-next-generation) | `Processed` |
