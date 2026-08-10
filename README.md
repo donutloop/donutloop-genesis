@@ -1,4 +1,4 @@
-**Version**: 1.5.36
+**Version**: 1.5.37
 
 # The Genesis Mission: Architecture, Strategic Initiatives, and the Multi-Institutional Ecosystem for AI and Quantum-Driven Scientific Discovery
 
@@ -53,7 +53,7 @@ Managed primarily by the **U.S. Department of Energy (DOE) Office of Science**, 
 |    QUANTUM LEADERSHIP & FOUNDRY INFRA.    |                   |    AI FOR SCIENCE & HIGH-PERFORMANCE COMPUTING|
 |  - $2B DOE Quantum Leadership Program     |                   |  - DE-FOA-0003612 ($800M+ Initial Grants)    |
 |  - $2B Commerce CHIPS Act Foundry LOIs    |                   |  - Exascale HPC (Frontier, Aurora, El Capitan)|
-|  - Foundries: GF, IBM, Atom, D-Wave,      |                   |  - AI Supercomputing: Solstice, Equinox, Lux, |
+* **Argonne National Laboratory (ANL):** Hosts the **Argonne Leadership Computing Facility (ALCF)**, operating **Aurora** (1.012 Exaflops Rmax exascale supercomputer) and liquid-cooled AI supercomputers (**Solstice** and **Equinox** with Oracle and NVIDIA), alongside the **Advanced Photon Source (APS)** 6-GeV storage ring light source under its official releases (*Energy Department Launches Genesis Mission*, `www.anl.gov/article/energy-department-launches-genesis-mission-to-transform-american-science-and-innovation-through-the`, *Argonne to Lead AI Research Projects*, `www.anl.gov/article/argonne-to-lead-ai-research-projects-under-the-department-of-energys-genesis-mission`, and *Genesis Mission Overview & ALCF Integration*, `www.anl.gov/genesis-mission`). ANL leads **ModCon** (Transformational AI and Data) and launches the nation's first large-scale AI inference service for open science.
 |    Infleqtion, PsiQuantum, Quantinuum,   |                   |    Discovery, Dell AI Factory, SambaNova    |
 |    Rigetti, Diraq                         |                   |  - FAIR Data Highways ($83M NSF Stream Ingest)|
 +------------+------------------------------+                   +----------------------------+-----------------+
@@ -137,7 +137,7 @@ To establish quantum supremacy in error-corrected and fault-tolerant regimes, th
 | **Diraq** | Up to $38 Million | CMOS-native silicon spin qubit logic arrays and quantum processor scaling. |
 | **D-Wave Quantum** | $100 Million | Quantum annealing and gate-model superconducting architectures for grid/HPC optimization. |
 | **Infleqtion** | $100 Million | Neutral-atom architectures, high-powered optical systems (3 DOE Genesis awards). |
-| **PsiQuantum** | $100 Million | Photonic quantum computing, low-loss optical packaging, domestic PsiFactory silicon photonics. |
+* **Ames National Laboratory:** Directs critical minerals supply chain security and AI-driven permanent magnet design under its official releases (*Energy Department Launches Historic Genesis Mission*, `www.ameslab.gov/news/energy-department-launches-historic-genesis-mission-to-drive-ai-powered-scientific-revolution`, *AI-Powered National Lab Collaboration Launches to Secure U.S. Critical Minerals Supply*, `www.ameslab.gov/news/ai-powered-national-lab-collaboration-launches-to-secure-u-s-critical-minerals-supply`, and *Ames Lab Scientist Provides AI-Driven Roadmap for Future Permanent Magnet Design*, `www.ameslab.gov/news/ames-lab-scientist-provides-ai-driven-roadmap-for-future-permanent-magnet-design`). Ames leads the **AIM-MAG** (AI-Guided Manufacturing of High-Performance Heavy Rare-Earth-Free Magnets) project, utilizing physics-informed AI models to discover neodymium-iron-boron alternatives, predict Curie temperatures, and eliminate heavy rare-earth dependencies for national security and clean energy.
 | **Quantinuum** | $100 Million | Trapped-ion fault-tolerant architectures, integrated photonics, and hardware packaging. |
 | **Rigetti Computing** | Up to $100 Million | 3D multi-chip tileable superconducting QPUs, cryogenic readout packaging, and fusion sims. |
 

@@ -7,6 +7,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
+## [1.5.37] - 2026-08-10
+
+### Changed
+- **Paper Enrichment (Entries #183, #184, #185, #186, #187 & #188 - Ames Lab AIM-MAG & Argonne National Lab Releases)**: Processed reference entries #183 (Ames Lab Genesis Mission Launch), #184 (Ames Lab Critical Minerals AI Collaboration), #185 (Ames Lab Permanent Magnet AI Roadmap), #186 (ANL Genesis Mission Launch), #187 (ANL Leading AI Research Projects), and #188 (ANL Genesis Mission & ALCF Integration). Enriched Section 2.1 and 2.3 in README.md and README.de.md with Ames Lab AIM-MAG heavy-rare-earth-free neodymium-iron-boron magnet design project and Argonne National Lab ALCF ModCon leadership, Solstice/Equinox supercomputers, and open-science AI inference service.
+- **Index Status Update**: Marked Entries #183 through #188 status to Processed in reference_coverage.md and updated executive metrics to 188 / 355 Processed.
+- **Version Bump**: Incremented patch version to 1.5.37 in README.md and README.de.md.
+
+---
+
 ## [1.5.36] - 2026-08-10
 
 ### Changed
