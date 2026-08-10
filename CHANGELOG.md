@@ -4,6 +4,16 @@ All notable changes to the Genesis Mission documentation repository will be docu
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
+## [2.1.5] - 2026-08-10
+
+### Changed
+- **Reference Index Processing & Research Paper Enrichment (Entry #90)**: Processed master reference index link #90 (*DOE Partners with RTI International to Administer Newly Launched Genesis Mission Consortium via TECHWERX*, `www.prnewswire.com`).
+- **Research Paper Updates (`README.md` & `README.de.md`)**: Enriched §3.5 Consortium profiles with formal details on the administration of the Genesis Mission Consortium (`genesismissionconsortium.org`) by RTI International via **TechWerx** (`techwerx.org`), a DOE Partnership Intermediary hub, organizing collaborative multi-sector R&D across four facilitated technical working groups: (1) AI model development & validation, (2) data integration & standards, (3) HPC & cloud infrastructure, and (4) robotics & automation.
+- **Master Reference Coverage Report Sync (`reference_coverage.md`)**: Updated status of Entry #90 to `Processed` (recalculated totals: **359 / 362 Processed**, 3 Unprocessed).
+- **Version Bump**: Incremented patch version string to `2.1.5` in `README.md` and `README.de.md`.
+
+---
+
 ## [2.1.4] - 2026-08-10
 
 ### Changed
