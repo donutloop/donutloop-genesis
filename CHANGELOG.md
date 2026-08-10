@@ -7,6 +7,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
+## [1.5.12] - 2026-08-10
+
+### Changed
+- **Paper Enrichment (Entry #103 - Grants.gov Opportunity DOE Genesis Mission 0228b895)**: Processed reference entry #103 (Grants.gov Opportunity: DOE Genesis Mission 0228b895-9cb3-4160-8acc-58709e75c3c7, simpler.grants.gov/opportunity/0228b895-9cb3-4160-8acc-58709e75c3c7). Enriched Section 1.1 in README.md and README.de.md with Grants.gov portal details: referencing Assistance Listing 81.049 for Funding Opportunity Announcement DE-FOA-0003612 (*The Genesis Mission: Transforming Science and Energy with AI*), managing Phase I ($500k–$750k) and Phase II ($6M–$15M) grants linked with exascale supercomputing and the **American Science Cloud (AmSC)**.
+- **Index Status Update**: Marked Entry #103 status to Processed in reference_coverage.md and updated executive metrics to 103 / 355 Processed.
+- **Version Bump**: Incremented patch version to 1.5.12 in README.md and README.de.md.
+
+---
+
 ## [1.5.11] - 2026-08-10
 
 ### Changed
