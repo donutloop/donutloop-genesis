@@ -7,6 +7,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
+## [1.4.36] - 2026-08-10
+
+### Changed
+- **Paper Enrichment (Entry #68 - IBM)**: Processed reference entry #68 (IBM, research.ibm.com). Enriched Section 2.2 and Section 3.1 B in README.md and README.de.md with comprehensive IBM Quantum foundry details: **Anderon** — the new standalone pure-play **300mm quantum wafer foundry** headquartered in Albany NY (first of its kind in the US), **$1B federal + $1B IBM cash** match plus IBM IP/assets/workforce contribution, open foundry model serving third-party quantum hardware providers, **Nighthawk** processor details (120 qubits, square lattice, 218 couplers, ~30% more circuit complexity than Heron), quantum advantage target by end 2026, and fault-tolerant computing target by 2029 with the planned **Starling** system.
+- **Index Status Update**: Marked Entry #68 status to Processed in reference_coverage.md and updated executive metrics to 68 / 351 Processed.
+- **Version Bump**: Incremented patch version to 1.4.36 in README.md and README.de.md.
+
+---
+
 ## [1.4.35] - 2026-08-09
 
 ### Changed
