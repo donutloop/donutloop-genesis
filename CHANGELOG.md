@@ -7,6 +7,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
+## [1.5.0] - 2026-08-10
+
+### Changed
+- **Paper Enrichment (Entry #91 - DOE Overview: Genesis Mission Collaborations)**: Processed reference entry #91 (DOE Overview: Genesis Mission Collaborations, www.energy.gov/undersecretaryforscience/genesis-mission/genesis-mission-collaboration). Enriched Section 1.1 in README.md and README.de.md with official collaboration framework details: orchestrating the **Genesis Mission Consortium**, securing over **$800 Million** in committed partner support (compute resources, AI models, R&D funding), and launching the **Genesis Open Models Initiative** (producing open-weight scientific foundation models like *Genesis-Science-1*).
+- **Index Status Update**: Marked Entry #91 status to Processed in reference_coverage.md and updated executive metrics to 91 / 355 Processed.
+- **Version Bump**: Incremented minor version to 1.5.0 in README.md and README.de.md per user directive.
+
+---
+
 ## [1.4.59] - 2026-08-10
 
 ### Changed
