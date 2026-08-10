@@ -15,7 +15,7 @@
 | **Official PDF Documents** | **14** | Formal RFA solicitations, webinars, slides, and executive reports |
 | **Web Portals & Press Releases** | **337** | Newsroom features, corporate blog posts, and interactive hubs |
 | **Validation Status** | **100% Validated** | All links canonicalized, formatted, and deduplicated |
-| **Processing Status** | **72 / 351 Processed** | 279 Unprocessed, 72 Processed |
+| **Processing Status** | **73 / 351 Processed** | 278 Unprocessed, 73 Processed |
 
 ---
 
@@ -140,7 +140,7 @@ A complete tabular listing of all 351 indexed reference links:
 | 70 | 3. Quantum Leadership & CHIPS Act Initiatives | Quantum Computing & Modality Developers | Diraq | `diraq.com` | Web | [Diraq](https://diraq.com/solutions) | `Processed` |
 | 71 | 3. Quantum Leadership & CHIPS Act Initiatives | Quantum Computing & Modality Developers | D-Wave | `www.dwavesys.com` | Web | [D-Wave](https://www.dwavesys.com/solutions/quantum-computing-for-science/) | `Processed` |
 | 72 | 3. Quantum Leadership & CHIPS Act Initiatives | Quantum Computing & Modality Developers | Infleqtion | `www.infleqtion.com` | Web | [Infleqtion](https://www.infleqtion.com/sqale) | `Processed` |
-| 73 | 3. Quantum Leadership & CHIPS Act Initiatives | Quantum Computing & Modality Developers | PsiQuantum | `psiquantum.com` | Web | [PsiQuantum](https://psiquantum.com/technology) | `Unprocessed` |
+| 73 | 3. Quantum Leadership & CHIPS Act Initiatives | Quantum Computing & Modality Developers | PsiQuantum | `psiquantum.com` | Web | [PsiQuantum](https://psiquantum.com/technology) | `Processed` |
 | 74 | 3. Quantum Leadership & CHIPS Act Initiatives | Quantum Computing & Modality Developers | Quantinuum | `www.quantinuum.com` | Web | [Quantinuum](https://www.quantinuum.com/hardware/h-series) | `Unprocessed` |
 | 75 | 3. Quantum Leadership & CHIPS Act Initiatives | Quantum Computing & Modality Developers | Rigetti Computing | `www.rigetti.com` | Web | [Rigetti Computing](https://www.rigetti.com/systems) | `Unprocessed` |
 | 76 | 4. Executive, Federal & Partner Announcements | - | White House OSTP: Office of Science and Technology Policy Overview | `www.whitehouse.gov` | Web | [White House OSTP: Office of Science and Technology Policy Overview](https://www.whitehouse.gov/science/) | `Unprocessed` |

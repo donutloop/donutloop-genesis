@@ -7,6 +7,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
+## [1.4.41] - 2026-08-10
+
+### Changed
+- **Paper Enrichment (Entry #73 - PsiQuantum)**: Processed reference entry #73 (PsiQuantum, psiquantum.com). Enriched Section 2.2 and Section 3.1 B in README.md and README.de.md with comprehensive PsiQuantum details: **$100M CHIPS Act LOI**, **$125M DARPA QBI agreement** (July 2026), leadership under CEO Victor Peng, domestic **PsiFactory** facility in Milpitas CA, scaling **Barium Titanate (BTO)** high-speed optical switches, high-efficiency single-photon detectors, chip-to-fiber optical packaging, **"Omega"** silicon photonic quantum chip fabrication with **GlobalFoundries** (Fab 8, Malta NY 300mm wafer processes), and utility-scale deployment sites in Chicago IL and Moreton Bay, Australia.
+- **Index Status Update**: Marked Entry #73 status to Processed in reference_coverage.md and updated executive metrics to 73 / 351 Processed.
+- **Version Bump**: Incremented patch version to 1.4.41 in README.md and README.de.md.
+
+---
+
 ## [1.4.40] - 2026-08-10
 
 ### Changed
