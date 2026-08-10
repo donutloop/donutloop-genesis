@@ -7,6 +7,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
+## [1.5.38] - 2026-08-10
+
+### Changed
+- **Paper Enrichment (Entries #189, #190, #191, #192, #193, #194, #195, #196, #197 & #198 - Argonne SPOTTER-AI, RIKEN/Fujitsu/NVIDIA Partnership & Open Models Releases)**: Processed reference entries #189 (ANL GM Awarded Projects List), #190 (ANL AI Inference Service), #191 (ANL Real-Time AI Imaging Engine), #192 (ANL DOE AI Funding), #193 (ANL RIKEN Fujitsu NVIDIA Partnership), #194 (ANL GM National Science Challenges), #195 (ALCF GM Platform), #196 (ALCF GM Launch), #197 (ANL SPOTTER-AI Scientific Provenance Threat Tracing), and #198 (Argonne Genesis Open Models Platform). Enriched Section 2.1 in README.md and README.de.md with Argonne SPOTTER-AI provenance threat tracing & data-poisoning attribution, RIKEN / Fujitsu / NVIDIA international AI for science (FugakuNEXT) partnership, ALCF open models repository (`genesisopenmodels.anl.gov`), and APS real-time AI imaging engines.
+- **Index Status Update**: Marked Entries #189 through #198 status to Processed in reference_coverage.md and updated executive metrics to 198 / 355 Processed.
+- **Version Bump**: Incremented patch version to 1.5.38 in README.md and README.de.md.
+
+---
+
 ## [1.5.37] - 2026-08-10
 
 ### Changed
