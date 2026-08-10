@@ -7,6 +7,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
+## [1.5.20] - 2026-08-10
+
+### Changed
+- **Paper Enrichment (Entries #113, #114 & #115 - Google DeepMind & Google Cloud $40M Genesis Commitment)**: Processed reference entries #113 (Google DeepMind: Supporting US DOE on Genesis Mission), #114 (Google Public Sector & DeepMind: Powering the Genesis Mission), and #115 (Google Cloud: Accelerating Scientific Discovery with $40M Commitment). Enriched Section 3.1 in README.md and README.de.md with Google commitment details: committing **$40 Million** in GCP credits, TPU v5p/v6e accelerators, and AI tokens across all 17 DOE National Laboratories, deploying Gemini 1.5 Pro/Ultra, AI Co-Scientist, AlphaEvolve, AlphaFold 3, AlphaGenome, WeatherNext, and AlphaEarth Foundations to cut microscope calibration times by **8x**.
+- **Index Status Update**: Marked Entries #113, #114, and #115 status to Processed in reference_coverage.md and updated executive metrics to 115 / 355 Processed.
+- **Version Bump**: Incremented patch version to 1.5.20 in README.md and README.de.md.
+
+---
+
 ## [1.5.19] - 2026-08-10
 
 ### Changed
