@@ -436,4 +436,5 @@ WIP:
 https://www.prnewswire.com/news-releases/shine-selected-for-two-doe-genesis-mission-projects-advancing-ai-in-nuclear-fuel-recycling-302841934.html
 https://news.lehigh.edu/lehigh-researchers-earn-two-doe-genesis-mission-funding-awards
 https://news.mst.edu/research/st-researchers-earn-doe-genesis-mission-award/
+https://news.unl.edu/article/husker-led-project-receives-genesis-mission-funding-to-advance-ai-6g
 
