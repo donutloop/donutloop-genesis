@@ -4,6 +4,14 @@ All notable changes to the Genesis Mission documentation repository will be docu
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
+## [2.1.14] - 2026-08-10
+
+### Fixed
+- **IQMP Domain Canonicalization**: Updated Illinois Quantum & Microelectronics Park (IQMP) URL from legacy/inactive portal to active official domain (`https://iqmp.org/`) across `README.md` (§3.5 & Appendix A.4) and `coverage.md` (Row #171).
+- **Version Bump**: Incremented patch version string to `2.1.14` in `README.md` and `README.de.md`.
+
+---
+
 ## [2.1.13] - 2026-08-10
 
 ### Changed

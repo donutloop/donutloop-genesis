@@ -249,7 +249,7 @@
 | 168 | [Astera Institute](https://astera.org/) | ✅ Full Profile | §3.1, §3.4, A.4 | Non-profit open-science foundation, open AI model development & biosecurity governance |
 | 169 | [Cleveland Clinic](https://my.clevelandclinic.org/) | ✅ Full Profile | §2.3B, §3.1, §3.5, A.5 | ORNL–Cleveland Clinic–IBM FLiBe fusion quantum chemistry pipeline & biomedical AI discovery |
 | 170 | [Foundation for Energy Security and Innovation (FESI)](https://fesi.org/) | ✅ Full Profile | §3.4, A.4 | DOE statutory non-profit foundation, public-private partnership acceleration & technology transfer |
-| 171 | [Illinois Quantum & Microelectronics Park (IQMP)](https://www.quantummicroelectronicspark.illinois.gov/) | ✅ Full Profile | §3.5, A.4 | Regional quantum co-design testbed, microelectronics campus & PsiQuantum QPU deployment site |
+| 171 | [Illinois Quantum & Microelectronics Park (IQMP)](https://iqmp.org/) | ✅ Full Profile | §3.5, A.4 | Regional quantum co-design testbed, microelectronics campus & PsiQuantum QPU deployment site |
 | 172 | [Johns Hopkins University APL (JHU APL)](https://www.jhuapl.edu/) | ✅ Full Profile | §3.1, §3.5, A.5 | Autonomous self-driving materials synthesis labs (MSFT Discovery partner) & defense alloys |
 | 173 | [Renaissance Philanthropy](https://www.renaissancephilanthropy.org/) | ✅ Full Profile | §3.4, A.4 | Catalytic scientific philanthropy, venture research grants & AI for Science acceleration |
 | 174 | [RTI International](https://www.rti.org/) | ✅ Full Profile | §3.5, A.5 | Environmental risk AI modeling, carbon capture technology scaling & life-cycle assessment engines |

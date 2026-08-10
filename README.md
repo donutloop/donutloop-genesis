@@ -1,4 +1,4 @@
-**Version**: 2.1.12
+**Version**: 2.1.14
 
 # The Genesis Mission: Architecture, Strategic Initiatives, and the Multi-Institutional Ecosystem for AI and Quantum-Driven Scientific Discovery
 
@@ -383,7 +383,7 @@ Executive oversight, funding solicitation execution, and interagency alignment a
 
 ### 3.5 Specialized Research & Healthcare Institutions
 Specialized non-profit research institutes, healthcare centers, and regional hubs drive cross-disciplinary innovation across the Genesis Mission ecosystem:
-* **Illinois Quantum & Microelectronics Park (IQMP):** Regional quantum co-design testbed and 150-acre microelectronics campus in Chicago, IL hosting cryogenic QPU testing facilities, silicon photonics pilot lines, and utility-scale quantum hardware deployments (PsiQuantum) under Genesis.
+* [Illinois Quantum & Microelectronics Park (IQMP)](https://iqmp.org/): Regional quantum co-design testbed and 150-acre microelectronics campus in Chicago, IL hosting cryogenic QPU testing facilities, silicon photonics pilot lines, and utility-scale quantum hardware deployments (PsiQuantum) under Genesis.
 * **Cleveland Clinic:** Co-leading the landmark ORNL–Cleveland Clinic–IBM quantum chemistry pipeline for FLiBe molten salt fusion reactors under its official announcements (*First-Known Computations of Fusion Materials on a Quantum Computer*, [newsroom.ibm.com/2026-07-06-oak-ridge-national-lab,-cleveland-clinic,-and-ibm-achieve-first-known-computations-of-fusion-materials-on-a-quantum-computer](https://newsroom.ibm.com/2026-07-06-oak-ridge-national-lab,-cleveland-clinic,-and-ibm-achieve-first-known-computations-of-fusion-materials-on-a-quantum-computer) and [www.ibm.com/quantum/blog/molten-salts-fusion-quantum](https://www.ibm.com/quantum/blog/molten-salts-fusion-quantum)), utilizing IBM Heron 156-qubit QPUs and quantum-centric supercomputing to model tritium breeding and lithium-fluorine-beryllium chemistry under Genesis, while deploying IBM Quantum System One assets for biomedical AI and therapeutic discovery.
 * **Johns Hopkins University Applied Physics Laboratory (JHU APL):** Drives AI-assisted robotics and autonomous materials discovery under its official release (*Artificial Intelligence to Advance Robotics, Materials Discovery*, [www.jhuapl.edu/news/news-releases/250402-artificial-intelligence-advance-robotics-materials-discovery](https://www.jhuapl.edu/news/news-releases/250402-artificial-intelligence-advance-robotics-materials-discovery)), partnering with Microsoft under the **MatterGen** Research Access Program to predict, synthesize, and evaluate novel oxide superconducting materials and eliminate rare-earth dependencies. JHU APL develops multi-agent generative AI autonomous robot teaming for complex extreme environments (disaster response, battlefield scenarios, hypersonics) and operates self-driving synthesis labs integrated into the **American Science and Security Platform**.
 * **AI Tennessee Initiative:** Coordinating statewide AI research across the University of Tennessee System and Oak Ridge National Laboratory, leveraging Frontier exascale compute for regional workforce development and smart grid AI.
@@ -700,7 +700,7 @@ Over 58 research universities receive competitive project awards under DE-FOA-00
 | [Foundation for Energy Security and Innovation (FESI)](https://fesi.org/) | DOE statutory non-profit foundation, public-private partnership acceleration & technology transfer |
 | [Renaissance Philanthropy](https://www.renaissancephilanthropy.org/) | Catalytic scientific philanthropy, venture research grants & AI for Science acceleration |
 | [Schmidt Sciences](https://www.schmidtsciences.org/) | Non-profit research foundation, AI for Science fellowships & open scientific model grants |
-| [Illinois Quantum & Microelectronics Park (IQMP)](https://www.quantummicroelectronicspark.illinois.gov/) | Regional quantum co-design testbed, microelectronics campus & PsiQuantum QPU deployment site |
+| [Illinois Quantum & Microelectronics Park (IQMP)](https://iqmp.org/) | Regional quantum co-design testbed, microelectronics campus & PsiQuantum QPU deployment site |
 | [Kansas City National Security Campus (KCNSC)](https://kcnsc.doe.gov/) | NNSA microelectronics manufacturing, AI quality assurance & stockpile component digital twins |
 | [Nevada National Security Sites (NNSS)](https://www.nnss.gov/) | Subcritical nuclear experiment diagnostics, high-speed optical sensors & physics AI modeling |
 | [Pantex Plant](https://pantex.energy.gov/) | NNSA nuclear component assembly, high-explosive manufacturing & stockpile stewardship AI |
