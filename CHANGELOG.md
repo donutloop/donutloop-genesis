@@ -4,6 +4,16 @@ All notable changes to the Genesis Mission documentation repository will be docu
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
+## [2.1.20] - 2026-08-11
+
+### Changed
+- **Reference Index Processing & Research Paper Enrichment (Entry #163 - 100% Index Completion)**: Processed final master reference index link #163 (*Genesis Mission Consortium: Membership Overview*, `genesismissionconsortium.org`).
+- **Research Paper Updates (`README.md` & `README.de.md`)**: Enriched §3.3 regional research hub profiles with formal details on the Genesis Mission Consortium membership overview, multi-tiered institutional membership structure, technical working group governance (ModCon, Data Integration, American Science Cloud, Robotics & Automation), and $500M+ private-sector member commitments under RTI International and TechWerx. Ensured complete German paper parity (`README.de.md`).
+- **Master Reference Coverage Report (`reference_coverage.md`)**: Updated entry #163 status to `Processed`. Achieved **100% Reference Index Processing Completion** (367 / 367 processed, 0 unprocessed).
+- **Version Bump**: Incremented patch version string to `2.1.20` in `README.md` and `README.de.md`.
+
+---
+
 ## [2.1.19] - 2026-08-11
 
 ### Changed

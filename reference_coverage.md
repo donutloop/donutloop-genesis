@@ -15,7 +15,7 @@
 | **Official PDF Documents** | **14** | Formal RFA solicitations, webinars, slides, and executive reports |
 | **Web Portals & Press Releases** | **350** | Newsroom features, corporate blog posts, and interactive hubs |
 | **Validation Status** | **100% Validated** | All links canonicalized, formatted, and deduplicated |
-| **Processing Status** | **366 / 367 Processed** | 1 Unprocessed, 366 Processed |
+| **Processing Status** | **367 / 367 Processed** | 0 Unprocessed, 367 Processed |
 
 ---
 
@@ -230,7 +230,7 @@ A complete tabular listing of all 363 indexed reference links:
 | 160 | 4. Executive, Federal & Partner Announcements | - | Benton Institute: Launching the Genesis Mission Overview | `www.benton.org` | Web | [Benton Institute: Launching the Genesis Mission Overview](https://www.benton.org/headlines/launching-genesis-mission) | `Processed` |
 | 161 | 4. Executive, Federal & Partner Announcements | - | Institute for Progress (IFP): Picking the Right Challenges for the Genesis Mission | `ifp.org` | Web | [Institute for Progress (IFP): Picking the Right Challenges for the Genesis Mission](https://ifp.org/picking-the-right-challenges-for-genesis-mission/) | `Processed` |
 | 162 | 4. Executive, Federal & Partner Announcements | - | Genesis Mission Consortium: Uniting Science, Government, and Industry Leadership | `genesismissionconsortium.org` | Web | [Genesis Mission Consortium: Uniting Science, Government, and Industry Leadership](https://genesismissionconsortium.org/) | `Processed` |
-| 163 | 4. Executive, Federal & Partner Announcements | - | Genesis Mission Consortium: Membership Overview | `genesismissionconsortium.org` | Web | [Genesis Mission Consortium: Membership Overview](https://genesismissionconsortium.org/membership) | `Unprocessed` |
+| 163 | 4. Executive, Federal & Partner Announcements | - | Genesis Mission Consortium: Membership Overview | `genesismissionconsortium.org` | Web | [Genesis Mission Consortium: Membership Overview](https://genesismissionconsortium.org/membership) | `Processed` |
 | 164 | 4. Executive, Federal & Partner Announcements | - | NISS Analysis: Genesis Mission Platform and Prospects for U.S. AI Leadership | `niss.gov.ua` | Web | [NISS Analysis: Genesis Mission Platform and Prospects for U.S. AI Leadership](https://niss.gov.ua/en/doslidzhennya/nacionalna-bezpeka/genesis-mission-platform-and-prospects-united-states-ai-leadership) | `Processed` |
 | 165 | 4. Executive, Federal & Partner Announcements | - | Microsoft Public Sector: Microsoft SPARK: Powering America's Genesis Mission for Scientific Discovery | `techcommunity.microsoft.com` | Web | [Microsoft Public Sector: Microsoft SPARK: Powering America's Genesis Mission for Scientific Discovery](https://techcommunity.microsoft.com/blog/publicsectorblog/microsoft-spark-powering-america%E2%80%99s-genesis-mission-for-scientific-discovery/4531069) | `Processed` |
 | 166 | 4. Executive, Federal & Partner Announcements | - | Windows Forum News: Microsoft Invests $60 Million in DOE Genesis Mission AI Science | `windowsforum.com` | Web | [Windows Forum News: Microsoft Invests $60 Million in DOE Genesis Mission AI Science](https://windowsforum.com/windows-news.4/microsoft-invests-60-million-in-doe-genesis-mission-ai-science.439994/) | `Processed` |
