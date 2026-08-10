@@ -7,6 +7,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
+## [1.4.40] - 2026-08-10
+
+### Changed
+- **Paper Enrichment (Entry #72 - Infleqtion)**: Processed reference entry #72 (Infleqtion, www.infleqtion.com). Enriched Section 2.2 in README.md and README.de.md with comprehensive Infleqtion details: **$100M CHIPS Act LOI** (CHIPS R&D Office, milestone-based, $100M Infleqtion equity at 15% discount), NYSE ticker (INFQ), operating without cryogenic deep-freeze requirements, **Sqale** fault-tolerant neutral-atom hardware line, **Tiqker** optical atomic clocks for GPS-denied navigation, **Superstaq** quantum software compiler, and 3 specific DOE Genesis Mission project awards (July 2026) across **ANL** (circuit design for nuclear physics), **BNL** (deployable Agentic AI quantum sensing), and **LLNL** / CU Boulder (quantum ML fusion plasma dynamics simulation).
+- **Index Status Update**: Marked Entry #72 status to Processed in reference_coverage.md and updated executive metrics to 72 / 351 Processed.
+- **Version Bump**: Incremented patch version to 1.4.40 in README.md and README.de.md.
+
+---
+
 ## [1.4.39] - 2026-08-10
 
 ### Changed
