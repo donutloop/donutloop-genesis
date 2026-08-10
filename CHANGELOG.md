@@ -4,6 +4,16 @@ All notable changes to the Genesis Mission documentation repository will be docu
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
+## [2.1.2] - 2026-08-10
+
+### Changed
+- **Reference Index Processing & Research Paper Enrichment (Entry #29)**: Processed master reference index link #29 (*Groq Partners with U.S. Department of Energy to Advance AI Inference*, `groq.com`).
+- **Research Paper Updates (`README.md` & `README.de.md`)**: Enriched §3.1 company profiles with official DOE–Groq Memorandum of Understanding (MOU) details announced at the White House Genesis Mission summit, outlining four core collaboration pillars: (1) low-latency AI inference for agent-driven closed-loop science, (2) LPU energy efficiency and domestic supply chain resilience, (3) joint benchmarking standards for deterministic inference reproducibility, throughput, latency, and power performance, and (4) mission application alignment for global deployment of the American AI stack.
+- **Master Reference Coverage Report Sync (`reference_coverage.md`)**: Updated status of Entry #29 to `Processed` (recalculated totals: **356 / 362 Processed**, 6 Unprocessed).
+- **Version Bump**: Incremented patch version string to `2.1.2` in `README.md` and `README.de.md`.
+
+---
+
 ## [2.1.1] - 2026-08-10
 
 ### Changed

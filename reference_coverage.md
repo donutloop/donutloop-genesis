@@ -15,7 +15,7 @@
 | **Official PDF Documents** | **14** | Formal RFA solicitations, webinars, slides, and executive reports |
 | **Web Portals & Press Releases** | **345** | Newsroom features, corporate blog posts, and interactive hubs |
 | **Validation Status** | **100% Validated** | All links canonicalized, formatted, and deduplicated |
-| **Processing Status** | **355 / 362 Processed** | 7 Unprocessed, 354 Processed |
+| **Processing Status** | **356 / 362 Processed** | 6 Unprocessed, 356 Processed |
 
 ---
 
@@ -96,7 +96,7 @@ A complete tabular listing of all 362 indexed reference links:
 | 26 | 2. Collaborators | - | GE Aerospace | `www.geaerospace.com` | Web | [GE Aerospace](https://www.geaerospace.com/) | `Processed` |
 | 27 | 2. Collaborators | - | GlobalFoundries | `gf.com` | Web | [GlobalFoundries](https://gf.com/) | `Processed` |
 | 28 | 2. Collaborators | - | Google | `about.google` | Web | [Google](https://about.google/) | `Processed` |
-| 29 | 2. Collaborators | - | Groq Partners with U.S. Department of Energy to Advance AI Inference and Next-Generation Computing Infrastructure | `groq.com` | Web | [Groq Partners with U.S. Department of Energy to Advance AI Inference and Next-Generation Computing Infrastructure](https://groq.com/newsroom/groq-partners-with-us-department-of-energy-to-advance-ai-inference-and-next-generation-computing-infrastructure) | `Unprocessed` |
+| 29 | 2. Collaborators | - | Groq Partners with U.S. Department of Energy to Advance AI Inference and Next-Generation Computing Infrastructure | `groq.com` | Web | [Groq Partners with U.S. Department of Energy to Advance AI Inference and Next-Generation Computing Infrastructure](https://groq.com/newsroom/groq-partners-with-us-department-of-energy-to-advance-ai-inference-and-next-generation-computing-infrastructure) | `Processed` |
 | 30 | 2. Collaborators | - | HPE | `www.hpe.com` | Web | [HPE](https://www.hpe.com/) | `Processed` |
 | 31 | 2. Collaborators | - | Hugging Face | `huggingface.co` | Web | [Hugging Face](https://huggingface.co/) | `Processed` |
 | 32 | 2. Collaborators | - | IBM | `www.ibm.com` | Web | [IBM](https://www.ibm.com/) | `Processed` |
