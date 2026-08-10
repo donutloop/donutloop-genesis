@@ -4,6 +4,16 @@ All notable changes to the Genesis Mission documentation repository will be docu
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
+## [2.1.9] - 2026-08-10
+
+### Changed
+- **Ecosystem & Metric Synchronization for University of Nebraska–Lincoln (UNL)**: Scanned and updated all repository sections following UNL's full profile integration:
+  - **Research Papers (`README.md` & `README.de.md`)**: Updated total Core Flagship Nodes count from 152 to **153** (in §1 Abstract, §1.2, §3 introduction, §3 topology diagram, and §5 Conclusion) and total awardee research universities count from 57 to **58**. Added University of Nebraska–Lincoln (UNL) row to Appendix A.5 (*Research Universities & Academic Institutions*) table.
+  - **Full Ecosystem Coverage Tracker (`coverage.md`)**: Updated total Full Profile count from 152 to **153 / 156 (98%)** (58 universities), reduced unprofiled entities to 3 (USDA, GMU, OSU), and synchronized summary tables and footnotes.
+- **Version Bump**: Incremented patch version string to `2.1.9` in `README.md` and `README.de.md`.
+
+---
+
 ## [2.1.8] - 2026-08-10
 
 ### Changed

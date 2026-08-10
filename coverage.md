@@ -3,7 +3,7 @@
 > **Scope & Coverage Definition:**
 > - **Flagship Consortium Scope:** Tracks **all 156 primary flagship participants**—lead contractors, federal agencies, national laboratories, awardee universities, and strategic industrial partners—explicitly profiled or referenced in the Genesis Mission paper (`README.md`) and reference index.
 > - **Broader National Awardee Network Context:** Under solicitation DE-FOA-0003612 and interagency challenges, the broader national initiative encompasses **342 total participating institutions** (157 companies, 142 universities, 16 national labs, 13 non-profits, 14 other entities across 278 projects).
-> - **Coverage Status:** **152 / 156 (97%)** of the tracked consortium entities have dedicated, detailed technical profiles. 4 newly referenced entities (USDA, GMU, OSU, UNL) await full profile integration.
+> - **Coverage Status:** **153 / 156 (98%)** of the tracked consortium entities have dedicated, detailed technical profiles. 3 newly referenced entities (USDA, GMU, OSU) await full profile integration.
 
 **Legend:**
 - ✅ **Full Profile** — Dedicated section with detailed technical write-up (Sections 2.2 / 3.1 / 3.2 / 3.3 / 3.4 / 3.5)
@@ -247,17 +247,17 @@
 | Industry Partners | 65 | 65 | 0 | 0 |
 | Federal Agencies | 10 | 9 | 0 | 1 |
 | National Laboratories | 17 | 17 | 0 | 0 |
-| Universities | 60 | 57 | 0 | 3 |
+| Universities | 60 | 58 | 0 | 2 |
 | Additional Research Orgs | 4 | 4 | 0 | 0 |
-| **Total** | **156** | **152** | **0** | **4** |
+| **Total** | **156** | **153** | **0** | **3** |
 
 ### By Coverage Level
 
 | Coverage Level | Count | Percentage |
 |:---|:---:|:---:|
-| ✅ Full Profile | 152 | 97% |
+| ✅ Full Profile | 153 | 98% |
 | 📋 Brief Mention | 0 | 0% |
-| ❌ Not Covered | 4 | 3% |
+| ❌ Not Covered | 3 | 2% |
 | **Total Entities** | **156** | **100%** |
 
-> **Note:** 152 of 156 tracked Genesis Mission ecosystem participants have dedicated, detailed technical write-ups (including 100% of all 65 industry partners). 4 newly referenced entities (USDA, George Mason University, Oklahoma State University, University of Nebraska–Lincoln) have been indexed via `references.md` and await full profile integration into the README papers. The broader sub-grantee network of 342 participating institutions represents secondary academic and sub-contractor nodes across the 278 national project awards.
+> **Note:** 153 of 156 tracked Genesis Mission ecosystem participants have dedicated, detailed technical write-ups (including 100% of all 65 industry partners). 3 newly referenced entities (USDA, George Mason University, Oklahoma State University) have been indexed via `references.md` and await full profile integration into the README papers. The broader sub-grantee network of 342 participating institutions represents secondary academic and sub-contractor nodes across the 278 national project awards.
