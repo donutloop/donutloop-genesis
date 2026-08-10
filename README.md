@@ -1,4 +1,4 @@
-**Version**: 2.1.18
+**Version**: 2.1.19
 
 # The Genesis Mission: Architecture, Strategic Initiatives, and the Multi-Institutional Ecosystem for AI and Quantum-Driven Scientific Discovery
 
@@ -265,7 +265,7 @@ A defining feature of the Genesis Mission is its multi-sector operational model 
 * [Edison Scientific](https://www.edisonscientific.com): Developing **AI Co-Scientist** foundation models, multi-agent reasoning frameworks, and automated scientific hypothesis generation engines for closed-loop discovery across chemistry and materials science.
 * [Periodic Labs](https://www.periodiclabs.com): Autonomous AI materials discovery agents, automated high-throughput inorganic synthesis orchestration platforms, and AI-driven crystal structure prediction tools integrated with national laboratory user facilities.
 * [Reflection AI](https://www.reflection.ai): Advanced AI reasoning architectures and open scientific LLMs optimized for multi-step mathematical theorem proving, scientific literature synthesis, and complex physical code refactoring.
-* [Veritone](https://www.veritone.com): Enterprise AI platform (**Veritone aiWARE**) delivering automated multi-modal data ingestion, semantic search engines, and workflow automation across national laboratory scientific research databases.
+* **Veritone:** Joins the Genesis Mission Consortium under its official announcement (*Veritone Joins Genesis Mission Consortium to Advance U.S. Department of Energy's National AI Initiatives*, [investors.veritone.com/news-events/press-releases/detail/429/veritone-joins-genesis-mission-consortium-to-advance-u-s-department-of-energys-national-ai-initiatives](https://investors.veritone.com/news-events/press-releases/detail/429/veritone-joins-genesis-mission-consortium-to-advance-u-s-department-of-energys-national-ai-initiatives)), deploying its enterprise AI operating system (**Veritone aiWARE**), automated multi-modal data ingestion engines, cognitive processing models, and AI semantic search engines across national laboratory scientific databases to support energy research and national security AI workflows under Genesis.
 
 #### B. Quantum Developers & Semiconductor Foundries
 * **AMD:** Strategic partnership with the DOE under its official release (*AMD Powers the United States Genesis Mission to Advance AI-Enabled Scientific Discovery*, [www.amd.com/en/blogs/2025/amd-powers-the-united-states--genesis-mission-to-advance-ai-enab.html](https://www.amd.com/en/blogs/2025/amd-powers-the-united-states--genesis-mission-to-advance-ai-enab.html)), delivering the inaugural operational Genesis AI supercomputer **Lux** at ORNL (powered by AMD Instinct MI355X GPUs, EPYC CPUs, and Pensando DPU intelligent networking fabrics) and the planned 2028 exascale supercomputer **Discovery** (featuring 6th Gen EPYC processors and Instinct MI430X accelerators), alongside nationwide ROCm open software stack ecosystem expansion for national laboratory AI foundation models.
