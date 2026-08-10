@@ -15,7 +15,7 @@
 | **Official PDF Documents** | **14** | Formal RFA solicitations, webinars, slides, and executive reports |
 | **Web Portals & Press Releases** | **337** | Newsroom features, corporate blog posts, and interactive hubs |
 | **Validation Status** | **100% Validated** | All links canonicalized, formatted, and deduplicated |
-| **Processing Status** | **124 / 355 Processed** | 231 Unprocessed, 124 Processed |
+| **Processing Status** | **125 / 355 Processed** | 230 Unprocessed, 125 Processed |
 
 ---
 
@@ -190,7 +190,7 @@ A complete tabular listing of all 351 indexed reference links:
 | 120 | 4. Executive, Federal & Partner Announcements | - | Microsoft Quantum: Majorana 2 Scalable Quantum Processor Roadmap | `quantum.microsoft.com` | Web | [Microsoft Quantum: Majorana 2 Scalable Quantum Processor Roadmap](https://quantum.microsoft.com/en-us/insights/blogs/majorana-2-scalable-quantum-processor) | `Processed` |
 | 121 | 4. Executive, Federal & Partner Announcements | - | PNNL: Pacific Northwest National Laboratory & Microsoft Collaboration on Energy Materials | `www.pnnl.gov` | Web | [PNNL: Pacific Northwest National Laboratory & Microsoft Collaboration on Energy Materials](https://www.pnnl.gov/pnnl-microsoft-collaboration) | `Processed` |
 | 122 | 4. Executive, Federal & Partner Announcements | - | LLNL: Lawrence Livermore National Laboratory & Microsoft AI Biosecurity Partnership | `bioresilience.llnl.gov` | Web | [LLNL: Lawrence Livermore National Laboratory & Microsoft AI Biosecurity Partnership](https://bioresilience.llnl.gov/about) | `Processed` |
-| 123 | 4. Executive, Federal & Partner Announcements | - | JHU APL: Autonomous Materials Discovery & AI Robotics Partnership | `www.jhuapl.edu` | Web | [JHU APL: Autonomous Materials Discovery & AI Robotics Partnership](https://www.jhuapl.edu/news/news-releases/250402-artificial-intelligence-advance-robotics-materials-discovery) | `Unprocessed` |
+| 123 | 4. Executive, Federal & Partner Announcements | - | JHU APL: Autonomous Materials Discovery & AI Robotics Partnership | `www.jhuapl.edu` | Web | [JHU APL: Autonomous Materials Discovery & AI Robotics Partnership](https://www.jhuapl.edu/news/news-releases/250402-artificial-intelligence-advance-robotics-materials-discovery) | `Processed` |
 | 124 | 4. Executive, Federal & Partner Announcements | - | Idaho National Laboratory: INL & Microsoft Streamline Nuclear Permitting with AI | `inl.gov` | Web | [Idaho National Laboratory: INL & Microsoft Streamline Nuclear Permitting with AI](https://inl.gov/news-release/idaho-national-laboratory-collaborates-with-microsoft-to-streamline-nuclear-licensing/) | `Processed` |
 | 125 | 4. Executive, Federal & Partner Announcements | - | Idaho National Laboratory: Remote Autonomous Power Control of Research Reactor | `inl.gov` | Web | [Idaho National Laboratory: Remote Autonomous Power Control of Research Reactor](https://inl.gov/news-release/researchers-achieve-remote-autonomous-power-control-of-a-research-reactor-in-real-time/) | `Processed` |
 | 126 | 4. Executive, Federal & Partner Announcements | - | OpenAI: Advancing the Next Era of National Science | `openai.com` | Web | [OpenAI: Advancing the Next Era of National Science](https://openai.com/index/advancing-the-next-era-of-national-science/) | `Unprocessed` |

@@ -7,6 +7,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
+## [1.5.24] - 2026-08-10
+
+### Changed
+- **Paper Enrichment (Entry #123 - JHU APL Autonomous Materials Discovery & AI Robotics Release)**: Processed reference entry #123 (JHU APL: Autonomous Materials Discovery & AI Robotics Partnership, www.jhuapl.edu/news/news-releases/250402-artificial-intelligence-advance-robotics-materials-discovery). Enriched Section 2.3 in README.md and README.de.md with JHU APL integration details: partnering with Microsoft under **MatterGen** to predict/synthesize oxide superconductors, developing multi-agent generative AI autonomous robot teaming for extreme environments (disaster response, battlefield, hypersonics), and operating self-driving synthesis labs on the **American Science and Security Platform**.
+- **Index Status Update**: Marked Entry #123 status to Processed in reference_coverage.md and updated executive metrics to 125 / 355 Processed.
+- **Version Bump**: Incremented patch version to 1.5.24 in README.md and README.de.md.
+
+---
+
 ## [1.5.23] - 2026-08-10
 
 ### Changed
