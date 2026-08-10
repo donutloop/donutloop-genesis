@@ -4,6 +4,24 @@ All notable changes to the Genesis Mission documentation repository will be docu
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
+## [2.1.12] - 2026-08-10
+
+### Changed
+- **Ecosystem Expansion & Genesis Mission Consortium Member Integration**: Extracted and integrated 15 missing member entities from the official Genesis Mission Consortium directory (`https://genesismissionconsortium.org/our-members`) across research papers (`README.md`, `README.de.md`) and ecosystem coverage tracker (`coverage.md`):
+  - **Cloud, AI & Compute Infrastructure (§3.1 & A.3)**: Integrated technical profiles for `CoreWeave` (cloud GPU infrastructure & InfiniBand networks), `Databricks` (Data Intelligence Platform & Delta Lake enclaves), `Dataera.ai` (AI data infrastructure), and `Veritone` (aiWARE enterprise multi-modal platform).
+  - **Frontier AI & Science Models (§3.1 & A.3)**: Integrated `Edison Scientific` (AI Co-Scientist foundation models), `Periodic Labs` (AI materials discovery agents & inorganic synthesis), and `Reflection AI` (scientific LLM reasoning architectures).
+  - **NNSA & National Security Sites (§3.2 & A.4)**: Expanded NNSA defense site coverage detailing `Kansas City National Security Campus (KCNSC)` (microelectronics manufacturing), `Nevada National Security Sites (NNSS)` (subcritical nuclear diagnostics), `Pantex Plant` (high-explosive & nuclear component assembly), and `Savannah River Site (SRS)` (Center for AI-Accelerated Innovation & ALTEMIS environmental AI).
+  - **Philanthropy & Interagency Foundations (§3.4 & A.4)**: Integrated `Foundation for Energy Security and Innovation (FESI)` (DOE statutory foundation), `Renaissance Philanthropy` (catalytic scientific AI research grants), and `Schmidt Sciences` (AI for Science fellowships & model grants).
+  - **Quantum & Regional Hubs (§3.5 & A.4)**: Integrated `Illinois Quantum & Microelectronics Park (IQMP)` (regional quantum co-design testbed & 150-acre microelectronics campus).
+- **Full Ecosystem Coverage Tracker (`coverage.md`)**:
+  - Expanded total tracked flagship consortium entities from **156** to **175** (174 with Full Profile / **99.4% coverage**).
+  - Upgraded coverage status for `George Mason University` and `Oklahoma State University` to `✅ Full Profile`.
+  - Renumbered all 175 table rows sequentially across all 10 ecosystem categories.
+  - Recalculated summary tables ("By Entity Type" and "By Coverage Level").
+- **Version Bump**: Incremented patch version string to `2.1.12` in `README.md` and `README.de.md`.
+
+---
+
 ## [2.1.11] - 2026-08-10
 
 ### Changed
