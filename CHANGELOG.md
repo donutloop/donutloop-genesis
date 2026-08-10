@@ -7,6 +7,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
+## [1.5.26] - 2026-08-10
+
+### Changed
+- **Paper Enrichment (Entries #128, #129 & #130 - AWS $100M Federal Credits & Genesis Mission Releases)**: Processed reference entries #128 (AWS: Powering America's Genesis Mission from Day One), #129 (AWS: $100 Million in Federal Credits for National Security & Scientific Missions), and #130 (AWS: Helping Federal Agencies Lead in Quantum Computing and Post-Quantum Security). Enriched Section 3.1 A in README.md and README.de.md with AWS $100M credit breakdown ($50M Genesis Accelerator + $50M Warfighter Accelerator), Graviton4 ARM, Trainium2/Inferentia2 AI accelerators, and FIPS 140-3 PQC key establishment & signature protocols.
+- **Index Status Update**: Marked Entries #128, #129, and #130 status to Processed in reference_coverage.md and updated executive metrics to 130 / 355 Processed.
+- **Version Bump**: Incremented patch version to 1.5.26 in README.md and README.de.md.
+
+---
+
 ## [1.5.25] - 2026-08-10
 
 ### Changed
