@@ -4,6 +4,16 @@ All notable changes to the Genesis Mission documentation repository will be docu
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
+## [2.1.18] - 2026-08-11
+
+### Changed
+- **Reference Index Processing & Research Paper Enrichment (Entry #93)**: Processed master reference index link #93 (*Dataera.ai: Dataera.ai Collaborates with U.S. Department of Energy on Genesis Mission*, `www.dataerai.com`).
+- **Research Paper Updates (`README.md` & `README.de.md`)**: Enriched §3.1 industrial partner profiles with formal details on Dataera.ai's strategic collaboration with the U.S. Department of Energy (DOE) provisioning automated dataset curation engines, synthetic scientific data generation modules, and high-velocity FAIR data pipelines across national laboratory supercomputing facilities to accelerate scientific foundation model pre-training and multi-modal AI research under Genesis. Ensured complete German paper parity (`README.de.md`) in Section 3.1 and Appendix A.3 table.
+- **Master Reference Coverage Report (`reference_coverage.md`)**: Updated entry #93 status to `Processed`. Recalculated executive summary metrics (365 / 367 processed, 2 unprocessed).
+- **Version Bump**: Incremented patch version string to `2.1.18` in `README.md` and `README.de.md`.
+
+---
+
 ## [2.1.17] - 2026-08-11
 
 ### Changed
