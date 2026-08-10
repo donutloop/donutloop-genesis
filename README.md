@@ -1,4 +1,4 @@
-**Version**: 1.5.53
+**Version**: 1.5.54
 
 # The Genesis Mission: Architecture, Strategic Initiatives, and the Multi-Institutional Ecosystem for AI and Quantum-Driven Scientific Discovery
 
@@ -40,48 +40,59 @@ Managed primarily by the **U.S. Department of Energy (DOE) Office of Science**, 
 
 ### 1.2 System Architecture & Strategic Flow
 
+The Genesis Mission operates through a four-tiered architectural topology that translates high-level executive directives into continuous physical and computational scientific discovery:
+
 ```
                       +-------------------------------------------------------------+
                       |             EXECUTIVE & INTERAGENCY GOVERNANCE              |
                       |    White House OSTP  |  DOE  |  DOC  |  NSF  |  NIH/HHS     |
-                      |        DOD (Dept of War)  |  DHS S&T  |  NASA  |  DOI       |
+                      |   DOD (Dept of War)  |  DHS S&T  |  NASA  |  DOI  |  USDA   |
                       +------------------------------+------------------------------+
                                                      |
              +---------------------------------------+---------------------------------------+
              |                                                                               |
 +------------v------------------------------+                   +----------------------------v-----------------+
-|    QUANTUM LEADERSHIP & FOUNDRY INFRA.    |                   |    AI FOR SCIENCE & HIGH-PERFORMANCE COMPUTING|
-|  - $2B DOE Quantum Leadership Program     |                   |  - DE-FOA-0003612 ($800M+ Initial Grants)    |
-* **Lawrence Berkeley National Laboratory (LBNL):** Manages the **National Energy Research Scientific Computing Center (NERSC)**, operating **Perlmutter** (NVIDIA A100 GPU cluster) and the next-generation **Doudna** supercomputer (powered by Dell Technologies and NVIDIA Vera Rubin architecture), supported by the **Cech** Pilot Early Access System (EAS) delivered in early 2026 under its official announcements (*Berkeley Lab Takes Major Step Toward Doudna with Delivery of Cech*, `newscenter.lbl.gov/2026/03/17/berkeley-lab-takes-major-step-toward-doudna-with-delivery-of-early-access-system-cech/`, *Berkeley Lab to Lead 13 New AI Projects*, `newscenter.lbl.gov/2026/07/22/berkeley-lab-to-lead-13-new-genesis-mission-ai-projects/`, *Genesis Mission Hub*, `www.lbl.gov/genesis-mission/`, `www.lbl.gov/genesis-mission-projects/`, *Connecting Data, Computing, and AI*, `newscenter.lbl.gov/2026/08/05/connecting-data-computing-and-ai-for-scientific-discovery/`, *Supporting DOE's Genesis Mission*, `elements.lbl.gov/news/supporting-does-genesis-mission/`, and *How the American Science Cloud Advances Innovation*, `newscenter.lbl.gov/2026/07/15/how-the-genesis-missions-american-science-cloud-advances-innovation/`). LBNL leads 13 new Genesis AI projects and partners on 30+, operates the **Advanced Light Source (ALS)** 3.0-GeV synchrotron, drives ATAP particle accelerator AI control (`atap.lbl.gov/news/the-multi-office-particle-accelerator-team-using-ai-to-enhance-the-capabilities-of-current-and-future-particle-accelerators/`), and co-leads **ModCon** (`newscenter.lbl.gov/2026/07/23/qa-accelerating-scientific-discovery-with-the-genesis-missions-modcon/`).
-* **Argonne National Laboratory (ANL):** Hosts the **Argonne Leadership Computing Facility (ALCF)** (`www.alcf.anl.gov/genesis-mission`), operating **Aurora** (1.012 Exaflops Rmax exascale supercomputer) and liquid-cooled AI supercomputers (**Solstice** and **Equinox** with Oracle and NVIDIA), alongside the **Advanced Photon Source (APS)** 6-GeV storage ring light source under its official releases (*Energy Department Launches Genesis Mission*, `www.anl.gov/article/energy-department-launches-genesis-mission-to-transform-american-science-and-innovation-through-the`, `www.alcf.anl.gov/news/energy-department-launches-genesis-mission-transform-american-science-and-innovation-through`, *Argonne to Lead AI Research Projects*, `www.anl.gov/article/argonne-to-lead-ai-research-projects-under-the-department-of-energys-genesis-mission`, `www.anl.gov/genesis-mission`, `www.anl.gov/genesis-mission/projects`, and `www.anl.gov/genesis-mission/national-challenges`). ANL leads **ModCon** (Transformational AI and Data), operates the **Genesis Open Models Platform & Scientific Model Repository** (`genesisopenmodels.anl.gov`), deploys **SPOTTER-AI** (`www.anl.gov/genesis-mission/projects/spotter-ai-scientific-provenance-oriented-threat-tracing-and-attribution-for-genesis-workflows`) for AI scientific provenance-oriented threat tracing and data-poisoning attribution, partners with **RIKEN**, Fujitsu, and NVIDIA (`www.anl.gov/article/argonne-partners-with-riken-fujitsu-and-nvidia-to-advance-ai-for-science-and-nextgeneration`) for international AI for science (FugakuNEXT co-design), launches the nation's first large-scale AI inference service for open science (`www.anl.gov/article/argonne-launches-first-largescale-ai-inference-service-for-open-science`), and deploys real-time AI engines for APS light source imaging (`www.anl.gov/article/realtime-ai-engine-poised-to-revolutionize-largescale-imaging-data-at-national-labs`).
-|    Infleqtion, PsiQuantum, Quantinuum,   |                   |    Discovery, Dell AI Factory, SambaNova    |
-|    Rigetti, Diraq                         |                   |  - FAIR Data Highways ($83M NSF Stream Ingest)|
+|   QUANTUM LEADERSHIP & FOUNDRY INFRA.     |                   |  AI FOR SCIENCE & HIGH-PERFORMANCE COMPUTING  |
+| - $2B DOE Quantum Genesis Initiative      |                   | - DE-FOA-0003612 ($293M FOA / $800M+ Match)   |
+| - $2.013B CHIPS Act LOIs (7 Modalities)   |                   | - Exascale HPC: Frontier, Aurora, El Capitan |
+| - Onshore Foundries: IBM Anderon 300mm,   |                   | - AI Supercomputers: Lux, Solstice, Doudna    |
+|   GF QTS, xLight FEL EUV Prototype        |                   | - FAIR Data Highways ($83M NSF Stream Ingest)|
 +------------+------------------------------+                   +----------------------------+-----------------+
              |                                                                               |
              +---------------------------------------+---------------------------------------+
                                                      |
                       +------------------------------v------------------------------+
                       |         FEDERATED INTERAGENCY ORCHESTRATION LAYER           |
-                      |  - American Science Cloud & Security Platform               |
-                      |  - Autonomous Agentic Scientific Workflows (LLMs/SURROGs)   |
-                      |  - Real-Time Synchrotron / Tokamak / Sensor Data Ingestion  |
+                      | - American Science Cloud & Security Platform (AmSC)         |
+                      | - Transformational AI Models Consortium (ModCon)            |
+                      | - Genesis Open Models Registry (genesisopenmodels.anl.gov)  |
+                      | - SPOTTER-AI Scientific Provenance Threat Attribution Engine|
+                      | - Real-Time Synchrotron / Tokamak / Sensor Data Ingestion   |
                       +------------------------------+------------------------------+
                                                      |
                       +------------------------------v------------------------------+
                       |             PUBLIC-PRIVATE-ACADEMIC EXECUTION NODES         |
-                      |  - 17 DOE National Laboratories (ANL, LBNL, ORNL, LLNL, etc)|
-                      |  - Hyperscalers & Cloud (AWS, Google, Microsoft, Oracle, IBM)|
-                      |  - Frontier AI & Data (Anthropic, OpenAI, Meta, Scale, etc) |
-                      |  - Industrial & EDA (Siemens, Synopsys, Applied Materials)   |
-                      |  - 57 Awardee Research Universities & Specialized Institutes |
+                      | - 17 DOE National Laboratories (ANL, LBNL, ORNL, LLNL, INL) |
+                      | - Hyperscalers & Cloud (AWS, Google, Microsoft, Oracle, IBM)|
+                      | - Frontier AI & Data (Anthropic, OpenAI, Meta, Scale, etc.) |
+                      | - Industrial & EDA (Siemens, Synopsys, Micron, Cornelis)    |
+                      | - 57 Awardee Research Universities & Self-Driving Labs      |
                       +-------------------------------------------------------------+
 ```
 
+Strategic direction originates from the White House OSTP and the Interagency Council, which flow directly into twin technical foundries:
+1. **Quantum Leadership & Microelectronics Foundries:** Manages the $2 Billion DOE Quantum Genesis Initiative (targeting 150–250 logical qubits by 2028 via the DOE Q Competition and QC-ADDS), $2.013 Billion in Department of Commerce CHIPS Act Letters of Intent (LOIs) across 7 QPU modalities, domestic 300mm wafer foundries (IBM Anderon in Albany NY, GlobalFoundries Quantum Technology Solutions in Malta NY and Essex Junction VT), and next-generation lithography (xLight's free-electron laser EUV prototype at Albany NanoTech with NIST & Fermilab SRF cryomodules).
+2. **AI for Science & High-Performance Computing Grid:** Directs DE-FOA-0003612 awards ($293 Million solicitation / $800 Million+ match) across exascale supercomputers (*Frontier* at ORNL, *Aurora* at ANL, *El Capitan* at LLNL), specialized AI nodes (*Lux* with AMD MI355X, *Solstice* and *Equinox* with NVIDIA/OCI, *Doudna* and *Cech* at LBNL, *Crossroads*, *Mission*, and *Vision* at LANL), wafer-scale processors (Cerebras WSE-3), reconfigurable dataflow units (SambaNova SN40L), and $83 Million in NSF FAIR scientific data highways.
+
+These foundries converge into the **Federated Interagency Orchestration Layer**, powered by the **American Science Cloud & Security Platform (AmSC)**, the **Transformational AI Models Consortium (ModCon)**, the **Genesis Open Models** repository ([`genesisopenmodels.anl.gov`](https://genesisopenmodels.anl.gov/)), and **SPOTTER-AI** threat-tracing architecture. Execution is carried out across 148 public-private-academic nodes spanning 17 DOE National Laboratories, 5 NNSA defense sites, commercial hyperscalers (AWS, Google Public Sector, Microsoft SPARK, Oracle Cloud, IBM), frontier AI developers (Anthropic, OpenAI, Meta AI, Scale AI, Hugging Face, FutureHouse, LILA), EDA/chipmakers (Synopsys, Micron, Siemens), and 57 awardee universities operating self-driving cloud laboratories (e.g., University of Utah Price Engineering **AURORA Cloud Lab**, Emerald Cloud Lab, JHU APL).
+
 ### 1.3 Strategic Mission Objectives
-1. **Convergent Heterogeneous Compute:** Unify exascale GPUs, TPUs, RDUs, and quantum processing units (QPUs) across all 17 national laboratories into a single high-throughput execution fabric.
-2. **Closed-Loop Agentic Scientific Discovery:** Deploy autonomous AI agents capable of formulating hypotheses, generating material candidates, scheduling quantum simulations, and executing physical lab synthesis without manual intervention.
-3. **Domestic Microelectronics & Quantum Supply Chain:** Re-shore advanced semiconductor manufacturing, quantum qubit foundries, and EUV lithography infrastructure through CHIPS Act incentives and national lab partnerships.
-4. **National Security & Economic Resilience:** Accelerate breakthroughs in clean energy grid stabilization, nuclear fusion plasma control, critical mineral substitutes, biosecurity defense, and chronic disease therapeutics.
+
+1. **Convergent Heterogeneous Compute Substrate & Federated Grid:** Unify premier exascale supercomputers (*Frontier*, *Aurora*, *El Capitan*), high-density AI nodes (*Lux*, *Solstice*, *Equinox*, *Doudna*, *Crossroads*, *Mission*, *Vision*), reconfigurable dataflow units (SambaNova SN40L), wafer-scale systems (Cerebras WSE-3 CS-3), high-bandwidth memory (Micron HBM3e/HBM4), and 7-modality quantum processing units (superconducting IBM Heron/Nighthawk & Anderon 300mm foundry, Rigetti tileable 84-qubit Ankaa-3, D-Wave Advantage2 Zephyr 5,000+ flux qubit; trapped-ion Quantinuum 98-qubit Helios QCCD; photonic PsiQuantum PsiFactory BTO switches; neutral-atom Atom Computing 1,225+ qubit strontium-87 & Infleqtion Sqale/Tiqker; silicon spin Diraq CMOS-native <$1/qubit arrays; GlobalFoundries QTS) across 17 National Laboratories, 5 NNSA sites, and commercial cloud hyperscalers into a single federated execution fabric.
+2. **Closed-Loop Agentic Scientific Discovery & Self-Driving Automation:** Deploy autonomous multi-agent AI networks (integrating Google Gemini/AI Co-Scientist/AlphaFold 3/AlphaEarth, Microsoft Discovery/MatterGen/MatterSim, Anthropic Claude 3.7 Sonnet/MCP, OpenAI FedRAMP enclaves, Meta SAM 3 & DINOv3, FutureHouse PaperQA/ChemCrow, LILA) capable of generating hypotheses, analyzing literature, synthesizing domain surrogates, scheduling quantum simulations, and executing physical robotic wet labs and automated device fabrication without human intervention across self-driving cloud laboratories (e.g., University of Utah Price Engineering **AURORA Cloud Lab**, Emerald Cloud Lab, JHU APL, Cleveland Clinic FLiBe pipeline).
+3. **Domestic Microelectronics, Quantum & Advanced Manufacturing Sovereignty:** Re-shore advanced semiconductor manufacturing, 300mm quantum qubit foundries (IBM Anderon in Albany NY, GlobalFoundries Quantum Technology Solutions), and extreme ultraviolet lithography (xLight $150M free-electron laser EUV prototype at Albany NanoTech with NIST & Fermilab SRF cryomodules) backed by $2.013 Billion in CHIPS Act LOIs and the $2 Billion DOE Quantum Genesis Initiative (targeting 150–250 logical qubits by 2028), securing 2nm domestic chip sovereignty, radiation-hardened defense microelectronics (Fermilab AXESS, Synopsys.ai 50x RTL acceleration), and high-bandwidth memory supply chains (Micron $6.1B expansion).
+4. **National Security, Defense Biosecurity & Geopolitical Leadership:** Safeguard critical national security assets through Department of War ($200M FY26 / $1.3B+ FY27) DB-FORGE biosecurity, NNSA Secret/Restricted Data Enterprise Cloud with AWS (LANL *Crossroads*, *Mission*, *Vision*), NNSA *Aires Tide* AI-manufactured flight vehicle (7x faster, 15x cheaper), DHS S&T critical infrastructure software verification and bio-threat attribution, and ANL SPOTTER-AI scientific provenance threat tracing.
+5. **Energy Independence, Biomedical Breakthroughs & Critical Material Resilience:** Drive domain-specific breakthroughs: clean energy grid stabilization (NREL ARIES + Atom Computing quantum-in-the-loop co-simulation, Qubit Engineering Neuro-Grid, TVA 100% CFE MOU), Small Modular Reactor licensing (INL Project Prometheus 50% licensing/cost reduction, NRAD remote control, Clinch River SMR), tokamak fusion plasma disruption control (PPPL AI4Fusion autonomous ECH control, UW-Madison real-time plasma control, FLiBe tritium breeding), environmental cleanup (SRNL VITA-SCALE vitrification cutting $150B+ cleanup liabilities), biomedical discovery (NIH/HHS $1.2B Bio Genesis Mission across 6 National S&T Challenges cutting discovery timelines by 50%), critical mineral independence (Ames AIM-MAG rare-earth-free magnets, Albemarle DLE lithium refining, Niron Clean Earth Magnets $Fe_{16}N_2$, Ramaco coal-to-graphite, Accenture CM2US), and agricultural AI (USDA trait prediction models).
 
 ---
 
