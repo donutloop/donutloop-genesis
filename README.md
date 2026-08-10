@@ -344,36 +344,44 @@ The Genesis Mission operates under a centralized executive policy framework esta
 
 ### 4.1 Multi-Tiered Financial Allocations and Mechanics
 
-The financial infrastructure of the Genesis Mission integrates four distinct capital and resource streams totaling over **$3.5 Billion** in combined federal grants, CHIPS Act incentives, and commercial hyperscaler commitments:
+The financial architecture of the Genesis Mission integrates five distinct capital and resource streams totaling **over $5 Billion** in combined federal appropriations, interagency challenge grants, CHIPS and Science Act incentives, and commercial hyperscaler commitments:
 
 ```
-+-----------------------------------------------------------------------------------+
-|                        GENESIS MISSION CAPITAL ARCHITECTURE                       |
-+------------------------------------------+----------------------------------------+
-                                           |
-    +------------------+-------------------+-------------------+------------------+
-    |                  |                   |                   |                  |
-+---v--------------+ +-v-----------------+ +-v-----------------+ +-v----------------+
-|  DOE Office of   | | National Security | |  CHIPS Act & DOC  | | Private Industry |
-|   Science FOA    | |  & Energy Grid    | |  Quantum LOIs   | |  Hyperscaler     |
-| (DE-FOA-0003612) | |   Challenges      | |  (DOC / NIST)   | |  Commitments    |
-|   >$800 Million  | |  $293 Million     | |   >$2 Billion     | |  >$400 Million   |
-+------------------+ +-------------------+ +-------------------+ +------------------+
++---------------------------------------------------------------------------------------------------+
+|                               GENESIS MISSION CAPITAL ARCHITECTURE                                |
++-------------------------------------------------+-------------------------------------------------+
+                                                  |
+     +-----------------+--------------------------+--------------------------+-----------------+
+     |                 |                          |                          |                 |
++----v-------------+ +-v----------------------+ +-v----------------------+ +-v---------------+
+|  DOE Office of   | | Interagency Challenge  | |  CHIPS Act & DOC LOIs  | | Private Industry|
+|   Science FOA    | |  & Multi-Year Funds    | |  (DOC NIST / CHIPS R&D)| |   Hyperscaler   |
+| (DE-FOA-0003612) | |  (NIH, DOD, DOE Q, NSF)| |  (Quantum & Litho LOIs)| |   Commitments   |
+|  $293M Direct /  | |   >$3.5 Billion        | |   >$2.013 Billion      | |  >$500 Million  |
+|  >$800M Partner  | |                        | |   (+$8.1B Co-Match)    | |  Compute/Tokens |
++------------------+ +------------------------+ +------------------------+ +-----------------+
 ```
 
-1. **DE-FOA-0003612 (DOE Office of Science Direct Awards):** Over **$800 Million** in competitive federal awards distributed across 26 flagship multi-institutional project initiatives spanning exascale AI, quantum co-design, and foundational materials science.
-2. **National Security & Energy Grid Challenges Funding:** **$293 Million** targeted specifically at high-priority national imperatives, including smart grid resilience, small modular reactor (SMR) licensing, nuclear weapons stockpile stewardship, and critical mineral recovery.
-3. **CHIPS and Science Act & DOC Quantum LOIs:** Over **$2 Billion** in Letters of Intent (LOIs) and federal matching incentives managed by the U.S. Department of Commerce (NIST / CHIPS R&D Office). These commitments fund domestic semiconductor foundries and 7-modality quantum manufacturing platforms, including:
-   * **IBM Quantum:** $1 Billion LOI for domestic superconducting quantum wafer fabrication.
-   * **GlobalFoundries:** $375 Million LOI for 300mm quantum silicon foundries and photonic MPW runs.
-   * **xLight:** $150 Million CHIPS Act award for the free-electron laser (FEL) EUV lithography prototype at Albany NanoTech.
-   * **Quantinuum, PsiQuantum, Atom Computing, Infleqtion, Rigetti, Diraq:** Combined $500+ Million in CHIPS Act LOIs for trapped-ion, photonic, neutral-atom, superconducting, and silicon spin QPUs.
-4. **Hyperscaler & Industry Resource Capital:** Over **$400 Million** in direct non-dilutive cloud compute credits, AI token allocations, hardware installations, and specialized engineering enablement services provided by private technology leaders:
-   * **AWS:** $100 Million in cloud HPC credits and post-quantum security infrastructure.
-   * **Microsoft:** $60 Million ($40M compute credits + $20M engineering enablement) for the SPARK Program Office.
-   * **Google Public Sector & DeepMind:** $40 Million in Gemini tokens, TPU access, and enterprise licenses.
+1. **DE-FOA-0003612 (DOE Office of Science Direct Grants & Partner Support):** The flagship solicitation DE-FOA-0003612 (*The Genesis Mission: Transforming Science and Energy with AI*, Assistance Listing 81.049) provides **$293 Million** in direct DOE funding, awarding **278 research project awards** (spanning 342 institutions across all 50 states: 87 National Lab-led, 168 University-led, 19 Industry-led, 4 Non-profit-led) across Phase I ($500k–$750k 9-month exploratory) and Phase II ($6M–$15M 3-year scale-up) grants. This federal baseline catalyzed **over $800 Million** in committed partner support across 41 Genesis Mission Consortium members.
+2. **Interagency & Federal S&T Challenge Allocations:** Over **$3.5 Billion** in dedicated multi-year federal funding spanning participating executive agencies:
+   * **DOE Quantum Genesis Initiative:** **$2 Billion** (announced June 2026) to build and deploy scientifically relevant, fault-tolerant quantum supercomputers by 2028 via the DOE Q Competition (150–250 logical qubits), National Quantum Supercomputing User Facility, and QC-ADDS.
+   * **NIH / HHS Bio Genesis Mission:** Over **$1.2 Billion** in FY2026/2027 allocations across 6 biomedical challenges (Predicting Living Systems, Scaling Biomanufacturing, Biosecurity, Pediatric Cancer, Drug Discovery, Chronic Disease).
+   * **Department of War (DOD):** **$200 Million in FY2026** and projected **$1.3+ Billion in FY2027** for dual-use defense science, DB-FORGE, hypersonics CFD, and radiation-hardened microelectronics.
+   * **National Science Foundation (NSF):** **$83 Million** in FAIR scientific data highways and NAIRR pilot expansion ($100M+ interagency expansion).
+   * **INL Project Prometheus & Nuclear S&T:** **$60 Million Phase II award** (+ $200M+ industry cost-share with NVIDIA, AWS, X-energy, Oklo, TerraPower) for nuclear reactor licensing & digital twins.
+   * **DOE Office of Critical Minerals (CMEI):** **$134 Million** in targeted allocations for AIM-MAG and critical mineral supply chain recovery.
+3. **CHIPS and Science Act & DOC Quantum LOIs (DOC NIST / CHIPS R&D Office):** **$2.013 Billion** in Letters of Intent (LOIs) under the **CHIPS Xcelerate 2X** program across 9 companies (with the U.S. Department of Commerce securing minority, non-controlling equity stakes in 7 QPU recipients), backed by over **$8.1 Billion** in private matching capital and related CHIPS Act expansion awards:
+   * **IBM Quantum:** $1 Billion LOI + $1 Billion IBM cash match to construct **Anderon** (Albany NY 300mm quantum wafer foundry).
+   * **GlobalFoundries:** $375 Million LOI (Quantum Technology Solutions unit, FDX platform, GF Labs, Malta NY and Essex Junction VT foundries, GlobalShuttle MPW runs, ~1% equity stake) + separate $1.5 Billion CHIPS manufacturing expansion award.
+   * **xLight:** $150 Million CHIPS Act award (+ $150M private match) for the free-electron laser (FEL) EUV lithography prototype at Albany NanoTech.
+   * **Micron:** $6.1 Billion CHIPS Act award for domestic leading-edge HBM3e/HBM4 and CXL memory fabrication.
+   * **Quantinuum, PsiQuantum, Atom Computing, Infleqtion, Rigetti, D-Wave, Diraq:** Combined $500+ Million in CHIPS Act LOIs and milestone agreements (e.g., PsiQuantum’s $125M DARPA QBI agreement) for trapped-ion, photonic, neutral-atom, superconducting, and silicon spin QPUs.
+4. **Hyperscaler, Industry Member & Cloud Resource Capital:** Over **$500 Million** in private-sector member commitments managed via the Genesis Mission Consortium (administered by RTI International) and over **$400 Million** in non-dilutive cloud compute credits, AI token allocations, hardware installations, and specialized engineering enablement services provided by commercial technology leaders:
+   * **AWS:** $100 Million ($50M AWS Genesis Accelerator + $50M AWS Warfighter Capability Accelerator).
+   * **Microsoft:** $60 Million ($40M Azure HPC compute credits + $20M engineering enablement for the SPARK hub).
    * **IBM Quantum:** $50 Million in 5-year utility-scale QPU compute access across national laboratories.
-   * **NVIDIA, AMD, Dell, HPE, Oracle, SambaNova, Anthropic, OpenAI, Scale AI:** Direct hardware allocations, wafer-scale systems, and custom model fine-tuning support.
+   * **Google Public Sector & DeepMind:** $40 Million in Gemini tokens, GCP credits, TPU v5p/v6e access, and Gemini for Government licenses.
+   * **NVIDIA, AMD, Dell Technologies, HPE, Oracle, SambaNova, Anthropic, OpenAI, Scale AI, Cerebras, Siemens, Synopsys, Accenture Federal Services:** Direct hardware allocations (MI355X/MI430X, CS-3 WSE-3, SN40L RDUs, PowerEdge XE9680), wafer-scale systems, EDA software licenses, enterprise storage fabrics, and domain-expert fine-tuning pipelines.
 
 ### 4.2 Interagency Governance & Federal Policy Alignment
 
