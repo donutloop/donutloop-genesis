@@ -440,3 +440,12 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
 * [DOE Office of Science (SCAC): DOE Genesis Mission Launched Presentation (PDF)](https://science.osti.gov/-/media/About/pdf/scac/meetings/2026/DOE-Genesis-Mission-Launched---2026-03-27.pdf)
 * [OSTP: OSTP Genesis Mission Science and Technology Challenges Document](https://www.energy.gov/documents/ostp-genesis-mission-science-and-technology-challenges)
 * [U.S. Department of Energy: ModCon — Transformational AI and Data Overview](https://www.energy.gov/undersecretaryforscience/genesis-mission/modcon-transformational-ai-and-data)
+
+
+
+WIP: 
+
+https://www.coreweave.com/news/coreweave-joins-department-of-energys-genesis-mission-to-advance-u-s-research-and-innovation
+https://www.databricks.com/dataaisummit/session/sponsored-accenture-securing-americas-scientific-future
+https://www.dataerai.com/doe-genesis-partnership.html
+https://investors.veritone.com/news-events/press-releases/detail/429/veritone-joins-genesis-mission-consortium-to-advance-u-s-department-of-energys-national-ai-initiatives
