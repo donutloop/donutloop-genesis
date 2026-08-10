@@ -7,6 +7,22 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
+## [1.4.53] - 2026-08-10
+
+### Changed
+- **WIP References Processing & Decommissioning**: Integrated non-duplicate entries from the `wip:` scratchpad into `references.md`:
+  - Added NSF dataset initiative press release to Section 4.
+  - Added USDA crop innovation AI press release to Section 4.
+  - Added SRNL environmental cleanup AI article to Section 5 under Savannah River National Laboratory.
+  - Added DOE ModCon overview link to Section 7.
+  - Decommissioned and removed `wip:` section from `references.md`.
+- **Deduplication Audit**: Skipped 1 duplicate entry (`https://www.eng.auburn.edu/news/2026/08/molaei-genesis-mission.html`), which was already indexed under Auburn University in Section 5.
+- **Coverage Index Synchronization**: Updated `coverage.md` to add **U.S. Department of Agriculture (USDA)** under Federal Agencies & Policy Bodies (`❌ Not Covered (reference only)`), incrementing total entity coverage scope from 148 to 149 entities and renumbering all subsequent rows.
+- **Reference Coverage Index Expansion**: Extended `reference_coverage.md` with 4 newly integrated links, renumbering master index rows to 355 total entries and updating executive metrics.
+- **Version Bump**: Incremented patch version to 1.4.53 in README.md and README.de.md.
+
+---
+
 ## [1.4.52] - 2026-08-10
 
 ### Changed

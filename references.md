@@ -212,6 +212,8 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
 * [House Committee on Science, Space, and Technology: Ranking Member Ross Opening Statement at Hearing on the Genesis Mission](https://democrats-science.house.gov/news/press-releases/ranking-member-ross-opening-statement-at-hearing-on-the-genesis-mission)
 * DOE Interactive Portal: [Genesis Mission Official Interactive Demonstration Hub](https://www.energy.gov/genesis-mission-demonstration)
 * [Domino Data Lab: Domino Joins Genesis Mission Consortium](https://domino.ai/press-releases/genesis-consortium)
+* [NSF: New NSF Initiative Aims to Unlock Dataset Value for AI-Enabled Research](https://www.nsf.gov/news/new-nsf-initiative-aims-unlock-dataset-value-ai-enabled)
+* [U.S. Department of Agriculture (USDA): USDA Asks Partners to Develop AI Solutions to Accelerate Crop Innovation](https://www.usda.gov/about-usda/news/press-releases/2026/07/22/usda-asks-partners-develop-ai-solutions-accelerate-crop-innovation)
   
 ---
 
@@ -301,6 +303,7 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
   * [SRNL Awarded AI-Powered Cleanup Projects Through DOE's Genesis Mission](https://www.energy.gov/em/articles/srnl-awarded-ai-powered-cleanup-projects-through-does-genesis-mission)
   * [Supporting Genesis Mission: SRS Center for AI-Accelerated Innovation](https://www.energy.gov/em/articles/supporting-genesis-mission-srs-center-ai-accelerated-innovation)
   * [SRNL Contributes Key Expertise to DOE's New Genesis Mission](https://www.energy.gov/em/articles/srnl-contributes-key-expertise-does-new-genesis-mission)
+  * [SRNL Harnesses AI to Tackle Environmental Challenges and Cut Cleanup Costs](https://www.energy.gov/em/articles/srnl-harnesses-ai-tackle-environmental-challenges-cut-cleanup-costs)
 * **SLAC National Accelerator Laboratory:** 
   * [Leading Projects Alongside Stanford](https://news.stanford.edu/stories/2026/07/stanford-and-slac-to-lead-genesis-mission-projects)
   * [SLAC ISDCI Genesis Portal](https://isdci.slac.stanford.edu/genesis)
@@ -427,11 +430,5 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
 * [DOE Office of Science: DE-FOA-0003612 Amendment 000003 (PDF)](https://science.osti.gov/-/media/grants/pdf/foas/2026/DE-FOA-0003612-000003.pdf)
 * [DOE Office of Science (SCAC): DOE Genesis Mission Launched Presentation (PDF)](https://science.osti.gov/-/media/About/pdf/scac/meetings/2026/DOE-Genesis-Mission-Launched---2026-03-27.pdf)
 * [OSTP: OSTP Genesis Mission Science and Technology Challenges Document](https://www.energy.gov/documents/ostp-genesis-mission-science-and-technology-challenges)
+* [U.S. Department of Energy: ModCon — Transformational AI and Data Overview](https://www.energy.gov/undersecretaryforscience/genesis-mission/modcon-transformational-ai-and-data)
 
-wip: 
-
-https://www.nsf.gov/news/new-nsf-initiative-aims-unlock-dataset-value-ai-enabled
-https://www.usda.gov/about-usda/news/press-releases/2026/07/22/usda-asks-partners-develop-ai-solutions-accelerate-crop-innovation
-https://www.eng.auburn.edu/news/2026/08/molaei-genesis-mission.html
-https://www.energy.gov/em/articles/srnl-harnesses-ai-tackle-environmental-challenges-cut-cleanup-costs
-https://www.energy.gov/undersecretaryforscience/genesis-mission/modcon-transformational-ai-and-data
