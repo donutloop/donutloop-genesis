@@ -7,6 +7,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
+## [1.4.59] - 2026-08-10
+
+### Changed
+- **Paper Enrichment (Entry #90 - DOE Overview: American Science and Security Platform)**: Processed reference entry #90 (DOE Overview: American Science and Security Platform, www.energy.gov/undersecretaryforscience/genesis-mission/american-science-and-security-platform). Enriched Section 1.1 in README.md and README.de.md with official Platform technical details: integrating the **American Science Cloud (AmSC)** for AI-ready dataset federation, the **Transformational AI Models Consortium (ModCon)** for specialized scientific foundation models, GSA OneGov secure authentication, ITAR/EAR export controls, and Zero-Trust Architecture across 17 National Laboratories and 32 user facilities.
+- **Index Status Update**: Marked Entry #90 status to Processed in reference_coverage.md and updated executive metrics to 90 / 355 Processed.
+- **Version Bump**: Incremented patch version to 1.4.59 in README.md and README.de.md.
+
+---
+
 ## [1.4.58] - 2026-08-10
 
 ### Changed
