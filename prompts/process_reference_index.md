@@ -8,8 +8,10 @@ Process the next `Unprocessed` entry in `reference_coverage.md` (starting from E
 
 ## Execution Rules
 
-### 1. Strict Single-Link Execution Limits
-- **Single Link Limit:** Exactly **one (1)** link/entry must be processed per execution prompt—never two or more at a time—even if this instructions prompt is executed in a continuous loop.
+### 1. Strict Content Manipulation Policy
+- **Merge and Extend Only:** NEVER overwrite, wipe out, or completely replace existing document content.
+- **Additive Updates:** Seamlessly integrate and append extracted insights into the existing structure while preserving all current facts and context.
+- **Strict Single-Link Limit:** Process strictly **one (1)** link/entry per execution prompt—never two or more at a time—even if this instructions prompt is executed in a continuous loop.
 - **Single Commit Rule:** Exactly **one (1)** Git commit per processed link, regardless of multiple prompt triggers.
 - **Prohibited Phrasing:** Never write the exact string `- extension` anywhere in commit messages, version tags, changelogs, or documentation updates.
 
@@ -27,7 +29,7 @@ Process the next `Unprocessed` entry in `reference_coverage.md` (starting from E
   - Federal funding amounts, agency MOUs, CHIPS Act incentives, or strategic executive directives.
 
 ### 4. Enrich Research Papers (`README.md` & `README.de.md`)
-- **English Paper (`README.md`):** Integrate the extracted insights into the relevant section (e.g., `§2 Technical Architecture`, `§3 Institutional Framework`, `§4 Governance & Permitting`, or `Appendix A`).
+- **English Paper (`README.md`):** Merge extracted insights into the relevant section (e.g., `§2 Technical Architecture`, `§3 Institutional Framework`, `§4 Governance & Permitting`, or `Appendix A`).
 - **German Parity (`README.de.md`):** Apply identical structural and technical updates to `README.de.md` to ensure complete language parity.
 - **Quality Standard:** Only add meaningful, factual technical and strategic details. Avoid generic prose or placeholder text.
 
