@@ -4,6 +4,19 @@ All notable changes to the Genesis Mission documentation repository will be docu
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
+## [2.1.11] - 2026-08-10
+
+### Changed
+- **WIP Reference Integration & Link Formatting**: Processed temporary `WIP` scratchpad entries from `references.md`:
+  - **Integrated Link**: Integrated `[Genesis Mission Consortium: Membership Overview](https://genesismissionconsortium.org/membership)` into Section 4 (*Executive, Federal & Partner Announcements*).
+  - **Deduplication Results**: Identified and skipped duplicate link `https://genesismissionconsortium.org/our-members` (already indexed at line 112 as `[Genesis Mission Consortium: Our Members Directory](https://www.genesismissionconsortium.org/our-members)`).
+  - **Scratchpad Decommissioning**: Cleared and decommissioned the temporary `WIP` section in `references.md`.
+- **Master Reference Coverage Report (`reference_coverage.md`)**: Indexed new entry #159 (`Genesis Mission Consortium: Membership Overview`, `genesismissionconsortium.org`) with `Unprocessed` status in Section 4. Renumbered subsequent master reference table rows (total references expanded to **363**; unique target domains **203**; web portals & press releases **346**).
+- **Ecosystem Coverage Sync (`coverage.md`)**: Verified entity coverage—Genesis Mission Consortium / RTI International already fully profiled as Core Flagship Entity #154.
+- **Version Bump**: Incremented patch version string to `2.1.11` in `README.md` and `README.de.md`.
+
+---
+
 ## [2.1.10] - 2026-08-10
 
 ### Changed

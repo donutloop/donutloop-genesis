@@ -184,6 +184,7 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
 * [Benton Institute: Launching the Genesis Mission Overview](https://www.benton.org/headlines/launching-genesis-mission)
 * [Institute for Progress (IFP): Picking the Right Challenges for the Genesis Mission](https://ifp.org/picking-the-right-challenges-for-genesis-mission/)
 * [Genesis Mission Consortium: Uniting Science, Government, and Industry Leadership](https://genesismissionconsortium.org/)
+* [Genesis Mission Consortium: Membership Overview](https://genesismissionconsortium.org/membership)
 * [NISS Analysis: Genesis Mission Platform and Prospects for U.S. AI Leadership](https://niss.gov.ua/en/doslidzhennya/nacionalna-bezpeka/genesis-mission-platform-and-prospects-united-states-ai-leadership)
 * [Microsoft Public Sector: Microsoft SPARK: Powering America's Genesis Mission for Scientific Discovery](https://techcommunity.microsoft.com/blog/publicsectorblog/microsoft-spark-powering-america%E2%80%99s-genesis-mission-for-scientific-discovery/4531069)
 * [Windows Forum News: Microsoft Invests $60 Million in DOE Genesis Mission AI Science](https://windowsforum.com/windows-news.4/microsoft-invests-60-million-in-doe-genesis-mission-ai-science.439994/)
@@ -439,11 +440,3 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
 * [DOE Office of Science (SCAC): DOE Genesis Mission Launched Presentation (PDF)](https://science.osti.gov/-/media/About/pdf/scac/meetings/2026/DOE-Genesis-Mission-Launched---2026-03-27.pdf)
 * [OSTP: OSTP Genesis Mission Science and Technology Challenges Document](https://www.energy.gov/documents/ostp-genesis-mission-science-and-technology-challenges)
 * [U.S. Department of Energy: ModCon — Transformational AI and Data Overview](https://www.energy.gov/undersecretaryforscience/genesis-mission/modcon-transformational-ai-and-data)
-
-
-WIP: 
-https://genesismissionconsortium.org/membership
-https://genesismissionconsortium.org/our-members
-
-
-
