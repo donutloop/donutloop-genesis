@@ -7,6 +7,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
+## [1.4.42] - 2026-08-10
+
+### Changed
+- **Paper Enrichment (Entry #74 - Quantinuum)**: Processed reference entry #74 (Quantinuum, www.quantinuum.com). Enriched Section 2.2 and Section 3.1 B in README.md and README.de.md with comprehensive Quantinuum details: **$100M CHIPS Act LOI**, June 2026 IPO (ticker: **QNT**), 98-qubit **Helios** trapped-ion processor using **QCCD** architecture with 2D junction shuttling, **System Model H1 / H2** series, surface ion trap microfabrication with Sandia National Laboratories (SNL), **GlobalFoundries** Quantum Technology Solutions partnership, **Monarch Quantum** integrated **Quantum Light Engines** replacing bulk optics, and national laboratory deployment of the **InQuanto** computational quantum chemistry platform.
+- **Index Status Update**: Marked Entry #74 status to Processed in reference_coverage.md and updated executive metrics to 74 / 351 Processed.
+- **Version Bump**: Incremented patch version to 1.4.42 in README.md and README.de.md.
+
+---
+
 ## [1.4.41] - 2026-08-10
 
 ### Changed
