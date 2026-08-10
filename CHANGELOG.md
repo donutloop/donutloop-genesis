@@ -7,6 +7,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
+## [1.5.16] - 2026-08-10
+
+### Changed
+- **Paper Enrichment (Entries #107 & #108 - NIH Bio Genesis Mission Overview & Director Statement)**: Processed reference entries #107 (NIH: Bio Genesis Mission Overview, www.nih.gov/bio-genesismission) and #108 (NIH Director Statement: Launch of Bio Genesis Mission, www.nih.gov/about-nih/nih-director/statements/statement-launch-bio-genesis-mission-nihs-component-national-genesis-mission). Enriched Section 1.1 in README.md and README.de.md with NIH commitment details: committing **$1.2+ Billion** in FY2026/2027 funding across 6 biomedical National S&T Challenges to **cut discovery timelines by 50%**, deploying biological foundation models and multiomics pipelines on the **American Science and Security Platform**.
+- **Index Status Update**: Marked Entries #107 and #108 status to Processed in reference_coverage.md and updated executive metrics to 108 / 355 Processed.
+- **Version Bump**: Incremented patch version to 1.5.16 in README.md and README.de.md.
+
+---
+
 ## [1.5.15] - 2026-08-10
 
 ### Changed
