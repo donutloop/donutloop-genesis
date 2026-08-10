@@ -7,6 +7,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
+## [1.5.23] - 2026-08-10
+
+### Changed
+- **Paper Enrichment (Entries #120, #121, #122, #124, #125 - Microsoft Majorana 2 & National Lab Partnerships: PNNL, LLNL, INL)**: Processed reference entries #120 (Microsoft Quantum Majorana 2 Roadmap), #121 (PNNL & Microsoft Energy Materials), #122 (LLNL & Microsoft AI Biosecurity), #124 (INL & Microsoft Nuclear Licensing AI), and #125 (INL Autonomous Research Reactor Control). Enriched Section 3.1 in README.md and README.de.md with Microsoft National Lab integration details: deploying **Majorana 2** topological QPUs (1,000x reliability, 2029 fault-tolerance target), screening 32M battery materials in 80h at PNNL, deploying LLNL AI biosecurity threat modeling, automating INL nuclear permitting, and achieving real-time autonomous NRAD reactor power control.
+- **Index Status Update**: Marked Entries #120, #121, #122, #124, and #125 status to Processed in reference_coverage.md and updated executive metrics to 124 / 355 Processed.
+- **Version Bump**: Incremented patch version to 1.5.23 in README.md and README.de.md.
+
+---
+
 ## [1.5.22] - 2026-08-10
 
 ### Changed
