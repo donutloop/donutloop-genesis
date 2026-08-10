@@ -440,4 +440,5 @@ https://news.unl.edu/article/husker-led-project-receives-genesis-mission-funding
 https://news.stonybrook.edu/university/stony-brook-mobilizes-for-national-ai-research-mission/
 https://groq.com/newsroom/groq-partners-with-us-department-of-energy-to-advance-ai-inference-and-next-generation-computing-infrastructure
 https://newscenter.lbl.gov/2026/02/02/how-a-machine-learning-pipeline-could-accelerate-innovation/
+https://www.prnewswire.com/news-releases/doe-partners-with-rti-international-to-administer-newly-launched-genesis-mission-consortium-via-techwerx-302682875.html
 
