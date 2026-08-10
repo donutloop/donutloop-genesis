@@ -7,6 +7,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
+## [1.5.35] - 2026-08-10
+
+### Changed
+- **Paper Enrichment (Entries #169, #170, #171, #172, #173, #174 & #175 - DOE CMEI $134M Critical Minerals, OLI Systems & OpenAI DOE Releases)**: Processed reference entries #169 (DOE Advances AI for Science), #170 (DOE Launches Genesis Mission), #171 (DOE Securing Critical Minerals), #172 (DOE CMEI $134M Critical Minerals Funding), #173 (OpenAI DOE Collaboration), #174 (OLI Systems Genesis Collaboration), and #175 (OLI Systems Chemistry Grounding for AI). Enriched Section 3.1 A, 3.1 B, and 3.2 in README.md and README.de.md with DOE CMEI $134 Million NOFO for rare earth element recovery from bauxite red mud tailings (Colorado School of Mines, Phoenix Tailings), OLI Systems thermodynamic chemical intelligence modeling for critical material extraction, and OpenAI DOE collaboration release links.
+- **Index Status Update**: Marked Entries #169 through #175 status to Processed in reference_coverage.md and updated executive metrics to 175 / 355 Processed.
+- **Version Bump**: Incremented patch version to 1.5.35 in README.md and README.de.md.
+
+---
+
 ## [1.5.34] - 2026-08-10
 
 ### Changed
