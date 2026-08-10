@@ -7,6 +7,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
+## [1.4.43] - 2026-08-10
+
+### Changed
+- **Paper Enrichment (Entry #75 - Rigetti Computing)**: Processed reference entry #75 (Rigetti Computing, www.rigetti.com). Enriched Section 2.2 and Section 3.1 B in README.md and README.de.md with comprehensive Rigetti Computing details: **up to $100M CHIPS Act LOI** over 3 years (Department of Commerce minority equity stake), 84-qubit **Ankaa-3** processor (square qubit lattice, tunable couplers, >99.3% gate fidelity), **Novera** 9-qubit on-premises QPU testbed, modular **Lyra** architecture, 3D interposer chip integration using through-silicon vias (TSVs) with bonded superconducting caps, and landmark 2026 *Physical Review Applied* publication with **Lawrence Livermore National Laboratory (LLNL)** and University of Colorado Boulder simulating nonlinear quantum plasma dynamics and plasma wave dispersion for fusion energy under Genesis.
+- **Index Status Update**: Marked Entry #75 status to Processed in reference_coverage.md and updated executive metrics to 75 / 351 Processed.
+- **Version Bump**: Incremented patch version to 1.4.43 in README.md and README.de.md.
+
+---
+
 ## [1.4.42] - 2026-08-10
 
 ### Changed
