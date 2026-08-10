@@ -7,6 +7,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
+## [1.4.56] - 2026-08-10
+
+### Changed
+- **Paper Enrichment (Entry #87 - DOE Artificial Intelligence Topics & Initiatives Portal)**: Processed reference entry #87 (U.S. Department of Energy: Artificial Intelligence Topics & Initiatives, www.energy.gov/topics/artificial-intelligence). Enriched Section 1.1 in README.md and README.de.md with official DOE AI portfolio details: coordinating **Genesis Mission**, **VoltAIc** and **PermitAI** (automated environmental licensing), **ChatGrid** (generative AI power grid control), **AI4Fusion**, and **ModCon**, federating the 17 National Laboratories and 32 user facilities into the **American Science and Security Platform**.
+- **Index Status Update**: Marked Entry #87 status to Processed in reference_coverage.md and updated executive metrics to 87 / 355 Processed.
+- **Version Bump**: Incremented patch version to 1.4.56 in README.md and README.de.md.
+
+---
+
 ## [1.4.55] - 2026-08-10
 
 ### Changed

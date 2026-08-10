@@ -15,7 +15,7 @@
 | **Official PDF Documents** | **14** | Formal RFA solicitations, webinars, slides, and executive reports |
 | **Web Portals & Press Releases** | **337** | Newsroom features, corporate blog posts, and interactive hubs |
 | **Validation Status** | **100% Validated** | All links canonicalized, formatted, and deduplicated |
-| **Processing Status** | **86 / 355 Processed** | 269 Unprocessed, 86 Processed |
+| **Processing Status** | **87 / 355 Processed** | 268 Unprocessed, 87 Processed |
 
 ---
 
@@ -154,7 +154,7 @@ A complete tabular listing of all 351 indexed reference links:
 | 84 | 4. Executive, Federal & Partner Announcements | - | Federal Register: Presidential Document - Launching the Genesis Mission | `www.federalregister.gov` | Web | [Federal Register: Presidential Document - Launching the Genesis Mission](https://www.federalregister.gov/documents/2025/11/28/2025-21665/launching-the-genesis-mission) | `Processed` |
 | 85 | 4. Executive, Federal & Partner Announcements | - | NSF: New NSF Initiative Aims to Unlock Dataset Value for AI-Enabled Research | `www.nsf.gov` | Web | [NSF: New NSF Initiative Aims to Unlock Dataset Value for AI-Enabled Research](https://www.nsf.gov/news/new-nsf-initiative-aims-unlock-dataset-value-ai-enabled) | `Processed` |
 | 86 | 4. Executive, Federal & Partner Announcements | - | U.S. Department of Agriculture (USDA): USDA Asks Partners to Develop AI Solutions to Accelerate Crop Innovation | `www.usda.gov` | Web | [U.S. Department of Agriculture (USDA): USDA Asks Partners to Develop AI Solutions to Accelerate Crop Innovation](https://www.usda.gov/about-usda/news/press-releases/2026/07/22/usda-asks-partners-develop-ai-solutions-accelerate-crop-innovation) | `Processed` |
-| 87 | 4. Executive, Federal & Partner Announcements | - | U.S. Department of Energy: Artificial Intelligence Topics & Initiatives | `www.energy.gov` | Web | [U.S. Department of Energy: Artificial Intelligence Topics & Initiatives](https://www.energy.gov/topics/artificial-intelligence) | `Unprocessed` |
+| 87 | 4. Executive, Federal & Partner Announcements | - | U.S. Department of Energy: Artificial Intelligence Topics & Initiatives | `www.energy.gov` | Web | [U.S. Department of Energy: Artificial Intelligence Topics & Initiatives](https://www.energy.gov/topics/artificial-intelligence) | `Processed` |
 | 88 | 4. Executive, Federal & Partner Announcements | - | DOE Office of Science: Under Secretary Gil's Letter to the Community | `www.energy.gov` | Web | [DOE Office of Science: Under Secretary Gil's Letter to the Community](https://www.energy.gov/science/articles/under-secretary-gils-letter-community) | `Unprocessed` |
 | 89 | 4. Executive, Federal & Partner Announcements | - | DOE Overview: Building the World's Most Powerful Scientific Platform | `www.energy.gov` | Web | [DOE Overview: Building the World's Most Powerful Scientific Platform](https://www.energy.gov/undersecretaryforscience/genesis-mission/genesis-mission) | `Unprocessed` |
 | 90 | 4. Executive, Federal & Partner Announcements | - | DOE Overview: American Science and Security Platform | `www.energy.gov` | Web | [DOE Overview: American Science and Security Platform](https://www.energy.gov/undersecretaryforscience/genesis-mission/american-science-and-security-platform) | `Unprocessed` |
