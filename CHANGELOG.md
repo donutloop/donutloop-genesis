@@ -4,6 +4,16 @@ All notable changes to the Genesis Mission documentation repository will be docu
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
+## [2.1.3] - 2026-08-10
+
+### Changed
+- **Reference Index Processing & Research Paper Enrichment (Entry #88)**: Processed master reference index link #88 (*SHINE Selected for Two DOE Genesis Mission Projects Advancing AI in Nuclear Fuel Recycling*, `www.prnewswire.com`).
+- **Research Paper Updates (`README.md` & `README.de.md`)**: Enriched §3.1 company profiles with technical details on SHINE Technologies' two DOE Genesis Mission awards: (1) leading the Phase I *"AI-Guided Fuel Cycle Facility Optimization"* project alongside Argonne National Laboratory (ANL) integrating AI with legacy simulation tools (**AMUSE** and **ARTEMIS**) to optimize spent nuclear fuel recycling across 95,000 metric tons of domestic waste, and (2) contributing operational radiochemistry data to **Project Prometheus** (INL-led Phase II nuclear AI consortium).
+- **Master Reference Coverage Report Sync (`reference_coverage.md`)**: Updated status of Entry #88 to `Processed` (recalculated totals: **357 / 362 Processed**, 5 Unprocessed).
+- **Version Bump**: Incremented patch version string to `2.1.3` in `README.md` and `README.de.md`.
+
+---
+
 ## [2.1.2] - 2026-08-10
 
 ### Changed
