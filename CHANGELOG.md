@@ -7,6 +7,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
+## [1.4.58] - 2026-08-10
+
+### Changed
+- **Paper Enrichment (Entry #89 - DOE Overview: Building the World's Most Powerful Scientific Platform)**: Processed reference entry #89 (DOE Overview: Building the World's Most Powerful Scientific Platform, www.energy.gov/undersecretaryforscience/genesis-mission/genesis-mission). Enriched Section 1.1 in README.md and README.de.md with official DOE overview details: Department strategy to construct the **"world's most powerful scientific platform"** by federating exascale supercomputing, 7-modality QPUs, and AI foundation models across 17 National Laboratories, 5 NNSA defense sites, and 32 user facilities into the **American Science and Security Platform**.
+- **Index Status Update**: Marked Entry #89 status to Processed in reference_coverage.md and updated executive metrics to 89 / 355 Processed.
+- **Version Bump**: Incremented patch version to 1.4.58 in README.md and README.de.md.
+
+---
+
 ## [1.4.57] - 2026-08-10
 
 ### Changed

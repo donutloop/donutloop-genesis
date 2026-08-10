@@ -15,7 +15,7 @@
 | **Official PDF Documents** | **14** | Formal RFA solicitations, webinars, slides, and executive reports |
 | **Web Portals & Press Releases** | **337** | Newsroom features, corporate blog posts, and interactive hubs |
 | **Validation Status** | **100% Validated** | All links canonicalized, formatted, and deduplicated |
-| **Processing Status** | **88 / 355 Processed** | 267 Unprocessed, 88 Processed |
+| **Processing Status** | **89 / 355 Processed** | 266 Unprocessed, 89 Processed |
 
 ---
 
@@ -156,7 +156,7 @@ A complete tabular listing of all 351 indexed reference links:
 | 86 | 4. Executive, Federal & Partner Announcements | - | U.S. Department of Agriculture (USDA): USDA Asks Partners to Develop AI Solutions to Accelerate Crop Innovation | `www.usda.gov` | Web | [U.S. Department of Agriculture (USDA): USDA Asks Partners to Develop AI Solutions to Accelerate Crop Innovation](https://www.usda.gov/about-usda/news/press-releases/2026/07/22/usda-asks-partners-develop-ai-solutions-accelerate-crop-innovation) | `Processed` |
 | 87 | 4. Executive, Federal & Partner Announcements | - | U.S. Department of Energy: Artificial Intelligence Topics & Initiatives | `www.energy.gov` | Web | [U.S. Department of Energy: Artificial Intelligence Topics & Initiatives](https://www.energy.gov/topics/artificial-intelligence) | `Processed` |
 | 88 | 4. Executive, Federal & Partner Announcements | - | DOE Office of Science: Under Secretary Gil's Letter to the Community | `www.energy.gov` | Web | [DOE Office of Science: Under Secretary Gil's Letter to the Community](https://www.energy.gov/science/articles/under-secretary-gils-letter-community) | `Processed` |
-| 89 | 4. Executive, Federal & Partner Announcements | - | DOE Overview: Building the World's Most Powerful Scientific Platform | `www.energy.gov` | Web | [DOE Overview: Building the World's Most Powerful Scientific Platform](https://www.energy.gov/undersecretaryforscience/genesis-mission/genesis-mission) | `Unprocessed` |
+| 89 | 4. Executive, Federal & Partner Announcements | - | DOE Overview: Building the World's Most Powerful Scientific Platform | `www.energy.gov` | Web | [DOE Overview: Building the World's Most Powerful Scientific Platform](https://www.energy.gov/undersecretaryforscience/genesis-mission/genesis-mission) | `Processed` |
 | 90 | 4. Executive, Federal & Partner Announcements | - | DOE Overview: American Science and Security Platform | `www.energy.gov` | Web | [DOE Overview: American Science and Security Platform](https://www.energy.gov/undersecretaryforscience/genesis-mission/american-science-and-security-platform) | `Unprocessed` |
 | 91 | 4. Executive, Federal & Partner Announcements | - | DOE Overview: Genesis Mission Collaborations | `www.energy.gov` | Web | [DOE Overview: Genesis Mission Collaborations](https://www.energy.gov/undersecretaryforscience/genesis-mission/genesis-mission-collaboration) | `Unprocessed` |
 | 92 | 4. Executive, Federal & Partner Announcements | - | DOE Overview: National Science and Technology Challenges | `www.energy.gov` | Web | [DOE Overview: National Science and Technology Challenges](https://www.energy.gov/undersecretaryforscience/genesis-mission/genesis-mission-national-science-and-technology-challenges) | `Unprocessed` |
