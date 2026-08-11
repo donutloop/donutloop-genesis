@@ -5,6 +5,15 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [2.4.31] - 2026-08-11
+
+### Changed
+- **Reference Integration & Master Processing (`references.md` & `reference_coverage.md`)**: Formatted and integrated Savannah River National Laboratory's *MATTER* Magazine article ([`Savannah River National Laboratory (MATTER Magazine): SRNL Pioneers the Next Generation of Computing`](https://www.srnl.gov/matter_magazine/srnl-pioneers-the-next-generation-of-computing/), `www.srnl.gov`) into Section 5 under Savannah River National Laboratory, registering it as Master Index Entry #299 and processing its status to `Processed` (**413 / 413 Processed, 100% Complete**).
+- **Research Paper Enrichment (`README.md` & `README.de.md`)**: Enriched §3.2 (SRNL national laboratory profile) in both English and German paper editions with details on SRNL's quantum-AI integration platform for power grid cyber attack detection, severe weather/hurricane trajectory forecasting, and quantum workforce training.
+- **Version Bump**: Incremented patch version string to `2.4.31` in `README.md` and `README.de.md`.
+
+---
+
 ## [2.4.30] - 2026-08-11
 
 ### Changed
