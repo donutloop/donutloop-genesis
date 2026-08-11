@@ -305,6 +305,7 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
   * [AI-Enabled Discovery of Rare Earth Elements](https://www.ornl.gov/project/ai-enabled-discovery-rare-earth-elements)
   * [AI Long-Range Water Prediction](https://www.ornl.gov/project/ai-long-range-water-prediction)
   * [AI Next-Generation Fusion Materials Development](https://www.ornl.gov/project/ai-next-generation-fusion-materials-development)
+  * [AI-Enabled Subsurface Biogeochemical Modeling](https://www.ornl.gov/project/ai-enabled-subsurface-biogeochemical-modeling)
 * **Pacific Northwest National Laboratory (PNNL):** [Genesis Mission Project Portal](https://www.pnnl.gov/projects/genesis-mission)
 * **Princeton Plasma Physics Laboratory (PPPL):** 
   * [PPPL to Lead Genesis Mission Project to Create an AI Operator for Fusion Heating](https://www.pppl.gov/news/2026/pppl-lead-genesis-mission-project-create-ai-operator-crucial-fusion-energy-heating-system)
@@ -457,10 +458,3 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
 * [OSTP: OSTP Genesis Mission Science and Technology Challenges Document](https://www.energy.gov/documents/ostp-genesis-mission-science-and-technology-challenges)
 * [U.S. Department of Energy: ModCon — Transformational AI and Data Overview](https://www.energy.gov/undersecretaryforscience/genesis-mission/modcon-transformational-ai-and-data)
 * [U.S. Department of Energy: Data Team Fact Sheet](https://www.energy.gov/documents/data-team-fact-sheet)
-
-
-WIP:
-
-https://www.ornl.gov/project/ai-enabled-subsurface-biogeochemical-modeling
-https://www.ornl.gov/project/ai-long-range-water-prediction
-https://www.ornl.gov/project/ai-next-generation-fusion-materials-development

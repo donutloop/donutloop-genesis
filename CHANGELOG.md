@@ -5,6 +5,17 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [2.2.10] - 2026-08-11
+
+### Changed
+- **WIP Reference Integration (`references.md`)**: Audited and integrated 3 scratchpad links from `references.md` WIP section:
+  - Integrated 1 new project link into Section 5 (National Laboratories -> Oak Ridge National Laboratory): [`AI-Enabled Subsurface Biogeochemical Modeling`](https://www.ornl.gov/project/ai-enabled-subsurface-biogeochemical-modeling).
+  - Identified and skipped 2 duplicate WIP entries: `https://www.ornl.gov/project/ai-long-range-water-prediction` (existing Entry #254) and `https://www.ornl.gov/project/ai-next-generation-fusion-materials-development` (existing Entry #255). Decommissioned WIP scratchpad block.
+- **Master Reference Coverage Extension (`reference_coverage.md`)**: Extended master index table to 379 links by registering Entry #256 (`AI-Enabled Subsurface Biogeochemical Modeling`) as `Unprocessed` under Section 5 (`National Laboratories`), renumbered all subsequent master rows (257–379), and updated domain metrics (`www.ornl.gov` -> 12 links). Total processing status updated to **378 / 379 Processed** (1 Unprocessed link remaining).
+- **Version Bump**: Incremented patch version string to `2.2.10` in `README.md` and `README.de.md`.
+
+---
+
 ## [2.2.9] - 2026-08-11
 
 ### Changed
