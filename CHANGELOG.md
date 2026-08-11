@@ -5,6 +5,15 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [2.4.22] - 2026-08-11
+
+### Changed
+- **Reference Integration & Master Processing (`references.md` & `reference_coverage.md`)**: Formatted and integrated DOE Predicting U.S. Water for Energy National Challenge overview ([`DOE Overview: Predicting U.S. Water for Energy`](https://www.energy.gov/undersecretaryforscience/genesis-mission/predicting-us-water-energy), `www.energy.gov`) into Section 4 under Department of Energy (DOE) Official Announcements, registering it as Master Index Entry #110 and processing its status to `Processed` (**404 / 404 Processed, 100% Complete**).
+- **Research Paper Enrichment (`README.md` & `README.de.md`)**: Enriched §4.3 Vector 3 (Energy Security, Grid Resilience & Nuclear Sovereignty) in both English and German paper editions with details on the *Predicting U.S. Water for Energy* National Challenge under the Energy Dominance pillar, coupling Energy Exascale Earth System Modeling (E3SM) with multi-scale AI neural surrogates for cloud microphysics, surface hydrology, and aquifer flow to secure power plant cooling and hydroelectric generation at 1,000x lower compute cost.
+- **Version Bump**: Incremented patch version string to `2.4.22` in `README.md` and `README.de.md`.
+
+---
+
 ## [2.4.21] - 2026-08-11
 
 ### Changed

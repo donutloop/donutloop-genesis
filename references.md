@@ -129,6 +129,7 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
 * [DOE Overview: Scaling Grid Power for the American Economy](https://www.energy.gov/undersecretaryforscience/genesis-mission/scaling-grid-power-american-economy)
 * [DOE Overview: Scaling the Biotechnology Revolution](https://www.energy.gov/undersecretaryforscience/genesis-mission/scaling-biotechnology-revolution)
 * [DOE Overview: Reenvisioning Advanced Manufacturing and Industrial Productivity](https://www.energy.gov/undersecretaryforscience/genesis-mission/reenvisioning-advanced-manufacturing-and-industrial)
+* [DOE Overview: Predicting U.S. Water for Energy](https://www.energy.gov/undersecretaryforscience/genesis-mission/predicting-us-water-energy)
 * [DOE Document: Genesis Mission National Science & Technology Challenges (PDF)](https://www.energy.gov/documents/genesis-mission-national-science-technology-challenges)
 * [DOE Announcement: Secretary Chris Wright Announces First Projects Selected to Accelerate AI-Driven Scientific Discovery](https://www.energy.gov/articles/secretary-energy-chris-wright-announces-first-genesis-mission-projects-selected-accelerate)
 * [DOE Announcement: Over $800 Million to Partner with Scientific Community](https://www.energy.gov/undersecretaryforscience/articles/us-department-energy-announces-more-800-million-partner)
