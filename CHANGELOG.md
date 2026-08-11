@@ -4,6 +4,16 @@ All notable changes to the Genesis Mission documentation repository will be docu
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
+## [2.1.26] - 2026-08-11
+
+### Changed
+- **Ecosystem Coverage Expansion (U.S. Department of Agriculture — USDA)**: Upgraded **U.S. Department of Agriculture (USDA)** from `❌ Not Covered` to `✅ Full Profile` under Section 3.4 (`Federal Agencies & Policy Bodies`) in `README.md` and `README.de.md`.
+- **Research Paper Updates (`README.md` & `README.de.md`)**: Enriched §3.4 federal agency profiles with technical details on USDA's **Agricultural National Science & Technology Challenge** under the Genesis Mission framework ([www.usda.gov/about-usda/news/press-releases/2026/07/22/usda-asks-partners-develop-ai-solutions-accelerate-crop-innovation](https://www.usda.gov/about-usda/news/press-releases/2026/07/22/usda-asks-partners-develop-ai-solutions-accelerate-crop-innovation)), deploying AI foundation models and computer vision to analyze national germplasm seed banks, combining high-throughput plant imaging, molecular genomics, field trial observations, and soil data on the **American Science and Security Platform** for climate-resilient crop discovery. Ensured complete German paper parity (`README.de.md`).
+- **Ecosystem Coverage Tracker (`coverage.md`)**: Upgraded USDA status to `✅ Full Profile`. Recalculated executive summary metrics (100% of all 10 federal agencies covered, 176 / 177 overall full profiles, 99.4% ecosystem coverage ratio).
+- **Version Bump**: Incremented patch version string to `2.1.26` in `README.md` and `README.de.md`.
+
+---
+
 ## [2.1.25] - 2026-08-11
 
 ### Added

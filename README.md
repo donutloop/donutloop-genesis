@@ -1,4 +1,4 @@
-**Version**: 2.1.25
+**Version**: 2.1.26
 
 # The Genesis Mission: Architecture, Strategic Initiatives, and the Multi-Institutional Ecosystem for AI and Quantum-Driven Scientific Discovery
 
@@ -232,7 +232,7 @@ A defining feature of the Genesis Mission is its multi-sector operational model 
              |                                                                               |
 +------------v----------------------------------+   +----------------------------------------v-----------------+
 |    FEDERAL AGENCIES & POLICY BODIES           |   |    SPECIALIZED INSTITUTES & HEALTHCARE               |
-|            (9 Executive Bodies)               |   |               (4 Specialized Hubs)                       |
+|            (10 Executive Bodies)               |   |               (4 Specialized Hubs)                       |
 | White House OSTP, DOE, DOC NIST, NSF, NIH/HHS |   | Cleveland Clinic, Johns Hopkins APL,                     |
 | NASA, Dept of War (DOD), DHS S&T, DOI         |   | AI Tennessee Initiative, RTI International               |
 +-----------------------------------------------+   +----------------------------------------------------------+
@@ -378,6 +378,7 @@ Executive oversight, funding solicitation execution, and interagency alignment a
 * **Department of War (U.S. Department of Defense / DOD):** Driving dual-use scientific AI applications, radiation-hardened microelectronics, hypersonics computational fluid dynamics (CFD), and defense-critical materials supply chain resilience under national security directives.
 * **Department of Homeland Security (DHS) — Science & Technology Directorate:** Integrating AI-driven critical infrastructure resilience models, supply chain threat analytics, smart grid cybersecurity protocols, and emergency response optimization systems under federal Genesis resilience challenges.
 * **Department of the Interior (DOI):** Directing scientific AI leadership in critical mineral resource assessment (USGS), watershed and hydrological modeling, public land environmental stewardship, and clean energy siting analytics.
+* **U.S. Department of Agriculture (USDA):** Directs agricultural AI innovation and crop biotechnology under its official release (*USDA Asks Partners to Develop AI Solutions to Accelerate Crop Innovation*, [www.usda.gov/about-usda/news/press-releases/2026/07/22/usda-asks-partners-develop-ai-solutions-accelerate-crop-innovation](https://www.usda.gov/about-usda/news/press-releases/2026/07/22/usda-asks-partners-develop-ai-solutions-accelerate-crop-innovation)), hosting the **Agricultural National Science & Technology Challenge** under the Genesis Mission framework. USDA leverages AI foundation models and automated computer vision to analyze national germplasm seed bank collections, combining high-throughput plant imaging, molecular genomics, field trial observations, and environmental soil data on the **American Science and Security Platform** to accelerate the discovery of climate-resilient, disease-resistant, and high-yield crop varieties for national food security.
 * **Foundation for Energy Security and Innovation (FESI):** The official statutory non-profit foundation of the U.S. Department of Energy (established under the CHIPS and Science Act), facilitating high-impact public-private partnerships, philanthropic capital deployment, and rapid commercialization of Genesis Mission scientific breakthroughs.
 * **Renaissance Philanthropy:** Strategic scientific philanthropy hub providing targeted catalytic grant funding, venture philanthropy capital, and high-risk/high-reward research acceleration for Genesis Mission AI for Science initiatives.
 * **Schmidt Sciences:** Non-profit research foundation providing direct grant funding, AI for Science research fellowships, and open-access scientific foundation model tooling across academic and national laboratory research teams under Genesis.

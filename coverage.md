@@ -266,19 +266,19 @@
 | Entity Type | Total | ✅ Full | 📋 Brief | ❌ Not Covered |
 |:---|:---:|:---:|:---:|:---:|
 | Industry Partners | 75 | 75 | 0 | 0 |
-| Federal Agencies | 10 | 9 | 0 | 1 |
+| Federal Agencies | 10 | 10 | 0 | 0 |
 | National Laboratories & Defense Sites | 22 | 22 | 0 | 0 |
 | Universities | 61 | 60 | 0 | 1 |
 | Philanthropy & Regional Hubs | 9 | 9 | 0 | 0 |
-| **Total** | **177** | **175** | **0** | **2** |
+| **Total** | **177** | **176** | **0** | **1** |
 
 ### By Coverage Level
 
 | Coverage Level | Count | Percentage |
 |:---|:---:|:---:|
-| ✅ Full Profile | 175 | 98.9% |
+| ✅ Full Profile | 176 | 99.4% |
 | 📋 Brief Mention | 0 | 0.0% |
-| ❌ Not Covered | 2 | 1.1% |
+| ❌ Not Covered | 1 | 0.6% |
 | **Total Entities** | **177** | **100%** |
 
-> **Note:** 175 of 177 tracked Genesis Mission ecosystem participants have dedicated, detailed technical write-ups (including 100% of all 75 industry partners and 60 research universities). 2 newly referenced entities (USDA, University of Texas at Arlington) have been indexed via `references.md` and await full profile integration into the README papers. The broader sub-grantee network of 342 participating institutions represents secondary academic and sub-contractor nodes across the 278 national project awards.
+> **Note:** 176 of 177 tracked Genesis Mission ecosystem participants have dedicated, detailed technical write-ups (including 100% of all 75 industry partners, 22 national lab/defense sites, and 10 federal agencies). 1 newly referenced entity (University of Texas at Arlington) has been indexed via `references.md` and awaits full profile integration into the README papers. The broader sub-grantee network of 342 participating institutions represents secondary academic and sub-contractor nodes across the 278 national project awards.
