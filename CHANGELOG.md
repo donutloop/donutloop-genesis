@@ -5,6 +5,15 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [2.4.47] - 2026-08-11
+
+### Changed
+- **Reference Integration & Master Processing (`references.md` & `reference_coverage.md`)**: Formatted and integrated High Performance Data Facility's official user facility portal ([`High Performance Data Facility (HPDF) Official User Facility Portal`](https://www.hpdf.science/), `www.hpdf.science`) into Section 5 under Thomas Jefferson National Accelerator Facility (TJNAF / Jefferson Lab), registering it as Master Index Entry #322 and processing its status to `Processed` (**429 / 429 Processed, 100% Complete**).
+- **Research Paper Enrichment (`README.md` & `README.de.md`)**: Enriched §3.2 (TJNAF / Jefferson Lab / HPDF profile) in both English and German paper editions with details on HPDF hosting the Jefferson Lab Data Center (JLDC) in Newport News, VA as the long-term home for Genesis Mission data services.
+- **Version Bump**: Incremented patch version string to `2.4.47` in `README.md` and `README.de.md`.
+
+---
+
 ## [2.4.46] - 2026-08-11
 
 ### Changed
