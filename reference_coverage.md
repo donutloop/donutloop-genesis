@@ -15,7 +15,7 @@
 | **Official PDF Documents** | **14** | Formal RFA solicitations, webinars, slides, and executive reports |
 | **Web Portals & Press Releases** | **354** | Newsroom features, corporate blog posts, and interactive hubs |
 | **Validation Status** | **100% Validated** | All links canonicalized, formatted, and deduplicated |
-| **Processing Status** | **370 / 371 Processed** | 1 Unprocessed, 370 Processed |
+| **Processing Status** | **371 / 371 Processed** | 0 Unprocessed, 371 Processed |
 
 ---
 
@@ -409,7 +409,7 @@ A complete tabular listing of all 363 indexed reference links:
 | 339 | 5. National Labs & University Coverage | Universities & Research Institutions | USC Leads National AI Research Project | `today.usc.edu` | Web | [USC Leads National AI Research Project](https://today.usc.edu/usc-leads-national-ai-research-project-to-accelerate-scientific-discovery/) | `Processed` |
 | 340 | 5. National Labs & University Coverage | Universities & Research Institutions | Multiple USC-Led Projects Receive Awards to Advance AI | `today.usc.edu` | Web | [Multiple USC-Led Projects Receive Awards to Advance AI](https://today.usc.edu/multiple-usc-led-projects-receive-u-s-department-of-energy-genesis-mission-awards-to-advance-ai/) | `Processed` |
 | 341 | 5. National Labs & University Coverage | Universities & Research Institutions | USC Stevens Center: USC Leads National AI Research Project | `stevens.usc.edu` | Web | [USC Stevens Center: USC Leads National AI Research Project](https://stevens.usc.edu/news/genesis-mission-usc-leads-national-ai-research-project-to-accelerate-scientific-discovery/) | `Processed` |
-| 342 | 5. National Labs & University Coverage | Universities & Research Institutions | UTA Lands DOE Genesis Mission Award to Keep AI Honest in Scientific Research | `dallasinnovates.com` | Web | [UTA Lands DOE Genesis Mission Award to Keep AI Honest in Scientific Research](https://dallasinnovates.com/uta-lands-doe-genesis-mission-award-to-keep-ai-honest-in-scientific-research/) | `Unprocessed` |
+| 342 | 5. National Labs & University Coverage | Universities & Research Institutions | UTA Lands DOE Genesis Mission Award to Keep AI Honest in Scientific Research | `dallasinnovates.com` | Web | [UTA Lands DOE Genesis Mission Award to Keep AI Honest in Scientific Research](https://dallasinnovates.com/uta-lands-doe-genesis-mission-award-to-keep-ai-honest-in-scientific-research/) | `Processed` |
 | 343 | 5. National Labs & University Coverage | Universities & Research Institutions | Awards Funding to 5 UT Research Projects | `news.utexas.edu` | Web | [Awards Funding to 5 UT Research Projects](https://news.utexas.edu/2026/07/22/department-of-energys-new-ai-for-science-genesis-mission-awards-funding-to-5-ut-research-projects/) | `Processed` |
 | 344 | 5. National Labs & University Coverage | Universities & Research Institutions | Selected for Multiple DOE Genesis Mission Awards | `www.research.utah.edu` | Web | [Selected for Multiple DOE Genesis Mission Awards](https://www.research.utah.edu/research-impact/university-of-utah-selected-for-multiple-u-s-department-of-energy-genesis-mission-awards/) | `Processed` |
 | 345 | 5. National Labs & University Coverage | Universities & Research Institutions | Genesis Mission: A Major New DOE Initiative to Watch | `www.research.utah.edu` | Web | [Genesis Mission: A Major New DOE Initiative to Watch](https://www.research.utah.edu/funding-item/genesis-mission-a-major-new-doe-initiative-to-watch/) | `Processed` |
