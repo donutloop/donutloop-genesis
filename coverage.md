@@ -1,9 +1,9 @@
 # Genesis Mission — Full Ecosystem Coverage Tracker
 
 > **Scope & Coverage Definition:**
-> - **Flagship Consortium Scope:** Tracks **all 175 primary flagship participants**—lead contractors, federal agencies, national laboratories, awardee universities, strategic industrial partners, and philanthropic foundations—explicitly profiled or referenced in the Genesis Mission paper (`README.md`) and reference index.
+> - **Flagship Consortium Scope:** Tracks **all 176 primary flagship participants**—lead contractors, federal agencies, national laboratories, awardee universities, strategic industrial partners, and philanthropic foundations—explicitly profiled or referenced in the Genesis Mission paper (`README.md`) and reference index.
 > - **Broader National Awardee Network Context:** Under solicitation DE-FOA-0003612 and interagency challenges, the broader national initiative encompasses **342 total participating institutions** (157 companies, 142 universities, 16 national labs, 13 non-profits, 14 other entities across 278 projects).
-> - **Coverage Status:** **174 / 175 (99%)** of the tracked consortium entities have dedicated, detailed technical profiles. 1 newly referenced agency (USDA) awaits full profile integration.
+> - **Coverage Status:** **174 / 176 (99%)** of the tracked consortium entities have dedicated, detailed technical profiles. 2 newly referenced entities (USDA, University of Texas at Arlington) await full profile integration.
 
 **Legend:**
 - ✅ **Full Profile** — Dedicated section with detailed technical write-up (Sections 2.2 / 3.1 / 3.2 / 3.3 / 3.4 / 3.5)
@@ -233,11 +233,12 @@
 | 159 | [University of North Dakota (UND)](https://und.edu/) | ✅ Full Profile | §3.3, A.5 | 2 Genesis awards: rare earth mineral extraction from coal ash & autonomous energy AI |
 | 160 | [University of Pittsburgh](https://www.pitt.edu/) | ✅ Full Profile | §3.3, A.5 | Computational drug discovery foundation models, vascular bio-foundries & SciML |
 | 161 | [University of Southern California (USC)](https://usc.edu/) | ✅ Full Profile | §3.3, A.5 | Quantum annealing algorithms, microelectronics reliability & autonomous AI agents |
-| 162 | [University of Texas at Austin](https://www.utexas.edu/) | ✅ Full Profile | §3.3, A.5 | Microelectronics lithography modeling, exascale AI model optimization & power grid AI |
-| 163 | [University of Utah](https://www.utah.edu/) | ✅ Full Profile | §3.3, A.5 | Geothermal energy reservoir simulation, net-zero carbon fuels & materials informatics |
-| 164 | [University of Wisconsin–Madison](https://www.wisc.edu/) | ✅ Full Profile | §3.3, A.5 | Fusion plasma stellarator physics, quantum dot QPU architectures & clean energy AI |
-| 165 | [Virginia Tech](https://www.vt.edu/) | ✅ Full Profile | §3.3, A.5 | Cyber-physical power grid security, high-temperature composite materials & SciML |
-| 166 | [Yale University](https://www.yale.edu/) | ✅ Full Profile | §3.3, A.5 | Superconducting cavity QED quantum architecture, QIS error mitigation & molecular AI |
+| 162 | [University of Texas at Arlington](https://www.uta.edu/) | ❌ Not Covered | - | DOE Genesis Mission award for scientific AI trustworthiness (reference only) |
+| 163 | [University of Texas at Austin](https://www.utexas.edu/) | ✅ Full Profile | §3.3, A.5 | Microelectronics lithography modeling, exascale AI model optimization & power grid AI |
+| 164 | [University of Utah](https://www.utah.edu/) | ✅ Full Profile | §3.3, A.5 | Geothermal energy reservoir simulation, net-zero carbon fuels & materials informatics |
+| 165 | [University of Wisconsin–Madison](https://www.wisc.edu/) | ✅ Full Profile | §3.3, A.5 | Fusion plasma stellarator physics, quantum dot QPU architectures & clean energy AI |
+| 166 | [Virginia Tech](https://www.vt.edu/) | ✅ Full Profile | §3.3, A.5 | Cyber-physical power grid security, high-temperature composite materials & SciML |
+| 167 | [Yale University](https://www.yale.edu/) | ✅ Full Profile | §3.3, A.5 | Superconducting cavity QED quantum architecture, QIS error mitigation & molecular AI |
 
 ---
 
@@ -245,15 +246,15 @@
 
 | # | Organization | Coverage | Paper Section | Notes |
 |---|-------------|----------|---------------|-------|
-| 167 | [AI Tennessee Initiative](https://www.aitennessee.ai/) | ✅ Full Profile | §3.5, A.5 | Statewide AI research coordination (UT System / ORNL), Frontier exascale AI workforce & AgTech AI |
-| 168 | [Astera Institute](https://astera.org/) | ✅ Full Profile | §3.1, §3.4, A.4 | Non-profit open-science foundation, open AI model development & biosecurity governance |
-| 169 | [Cleveland Clinic](https://my.clevelandclinic.org/) | ✅ Full Profile | §2.3B, §3.1, §3.5, A.5 | ORNL–Cleveland Clinic–IBM FLiBe fusion quantum chemistry pipeline & biomedical AI discovery |
-| 170 | [Foundation for Energy Security and Innovation (FESI)](https://fesi.org/) | ✅ Full Profile | §3.4, A.4 | DOE statutory non-profit foundation, public-private partnership acceleration & technology transfer |
-| 171 | [Illinois Quantum & Microelectronics Park (IQMP)](https://iqmp.org/) | ✅ Full Profile | §3.5, A.4 | Regional quantum co-design testbed, microelectronics campus & PsiQuantum QPU deployment site |
-| 172 | [Johns Hopkins University APL (JHU APL)](https://www.jhuapl.edu/) | ✅ Full Profile | §3.1, §3.5, A.5 | Autonomous self-driving materials synthesis labs (MSFT Discovery partner) & defense alloys |
-| 173 | [Renaissance Philanthropy](https://www.renaissancephilanthropy.org/) | ✅ Full Profile | §3.4, A.4 | Catalytic scientific philanthropy, venture research grants & AI for Science acceleration |
-| 174 | [RTI International](https://www.rti.org/) | ✅ Full Profile | §3.5, A.5 | Environmental risk AI modeling, carbon capture technology scaling & life-cycle assessment engines |
-| 175 | [Schmidt Sciences](https://www.schmidtsciences.org/) | ✅ Full Profile | §3.4, A.4 | Non-profit research foundation, AI for Science fellowships & open scientific model grants |
+| 168 | [AI Tennessee Initiative](https://www.aitennessee.ai/) | ✅ Full Profile | §3.5, A.5 | Statewide AI research coordination (UT System / ORNL), Frontier exascale AI workforce & AgTech AI |
+| 169 | [Astera Institute](https://astera.org/) | ✅ Full Profile | §3.1, §3.4, A.4 | Non-profit open-science foundation, open AI model development & biosecurity governance |
+| 170 | [Cleveland Clinic](https://my.clevelandclinic.org/) | ✅ Full Profile | §2.3B, §3.1, §3.5, A.5 | ORNL–Cleveland Clinic–IBM FLiBe fusion quantum chemistry pipeline & biomedical AI discovery |
+| 171 | [Foundation for Energy Security and Innovation (FESI)](https://fesi.org/) | ✅ Full Profile | §3.4, A.4 | DOE statutory non-profit foundation, public-private partnership acceleration & technology transfer |
+| 172 | [Illinois Quantum & Microelectronics Park (IQMP)](https://iqmp.org/) | ✅ Full Profile | §3.5, A.4 | Regional quantum co-design testbed, microelectronics campus & PsiQuantum QPU deployment site |
+| 173 | [Johns Hopkins University APL (JHU APL)](https://www.jhuapl.edu/) | ✅ Full Profile | §3.1, §3.5, A.5 | Autonomous self-driving materials synthesis labs (MSFT Discovery partner) & defense alloys |
+| 174 | [Renaissance Philanthropy](https://www.renaissancephilanthropy.org/) | ✅ Full Profile | §3.4, A.4 | Catalytic scientific philanthropy, venture research grants & AI for Science acceleration |
+| 175 | [RTI International](https://www.rti.org/) | ✅ Full Profile | §3.5, A.5 | Environmental risk AI modeling, carbon capture technology scaling & life-cycle assessment engines |
+| 176 | [Schmidt Sciences](https://www.schmidtsciences.org/) | ✅ Full Profile | §3.4, A.4 | Non-profit research foundation, AI for Science fellowships & open scientific model grants |
 
 ---
 
@@ -266,17 +267,17 @@
 | Industry Partners | 74 | 74 | 0 | 0 |
 | Federal Agencies | 10 | 9 | 0 | 1 |
 | National Laboratories & Defense Sites | 22 | 22 | 0 | 0 |
-| Universities | 60 | 60 | 0 | 0 |
+| Universities | 61 | 60 | 0 | 1 |
 | Philanthropy & Regional Hubs | 9 | 9 | 0 | 0 |
-| **Total** | **175** | **174** | **0** | **1** |
+| **Total** | **176** | **174** | **0** | **2** |
 
 ### By Coverage Level
 
 | Coverage Level | Count | Percentage |
 |:---|:---:|:---:|
-| ✅ Full Profile | 174 | 99.4% |
+| ✅ Full Profile | 174 | 98.9% |
 | 📋 Brief Mention | 0 | 0.0% |
-| ❌ Not Covered | 1 | 0.6% |
-| **Total Entities** | **175** | **100%** |
+| ❌ Not Covered | 2 | 1.1% |
+| **Total Entities** | **176** | **100%** |
 
-> **Note:** 174 of 175 tracked Genesis Mission ecosystem participants have dedicated, detailed technical write-ups (including 100% of all 74 industry partners and 60 research universities). 1 newly referenced entity (USDA) has been indexed via `references.md` and awaits full profile integration into the README papers. The broader sub-grantee network of 342 participating institutions represents secondary academic and sub-contractor nodes across the 278 national project awards.
+> **Note:** 174 of 176 tracked Genesis Mission ecosystem participants have dedicated, detailed technical write-ups (including 100% of all 74 industry partners and 60 research universities). 2 newly referenced entities (USDA, University of Texas at Arlington) have been indexed via `references.md` and await full profile integration into the README papers. The broader sub-grantee network of 342 participating institutions represents secondary academic and sub-contractor nodes across the 278 national project awards.

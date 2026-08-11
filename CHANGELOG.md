@@ -4,6 +4,23 @@ All notable changes to the Genesis Mission documentation repository will be docu
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
+## [2.1.21] - 2026-08-11
+
+### Changed
+- **WIP Reference Integration & Link Formatting**: Processed 5 raw links from the temporary `WIP` scratchpad section in `references.md`:
+  - **Integrated Links**:
+    - `[NSF: Dear Colleague Letter on Unleashing a New Age of AI-Enabled Scientific Discovery](https://www.nsf.gov/funding/information/dcl-unleashing-new-age-ai-enabled-scientific-discovery-through)` integrated under Section 4 (`4. Executive, Federal & Partner Announcements`).
+    - `[SRNL Makes Strong Showing at 2026 AI Expo](https://www.energy.gov/em/articles/savannah-river-national-laboratory-makes-strong-showing-2026-ai-expo)` integrated under Section 5 (`5. National Labs & University Coverage` -> `Savannah River National Laboratory (SRNL)`).
+    - `[Penn State Engineering Genesis Mission Projects](https://news.engr.psu.edu/2026/coe-genesis-mission-projects-2026.aspx)` integrated under Section 5 (`5. National Labs & University Coverage` -> `Penn State University`).
+    - `[UTA Lands DOE Genesis Mission Award to Keep AI Honest in Scientific Research](https://dallasinnovates.com/uta-lands-doe-genesis-mission-award-to-keep-ai-honest-in-scientific-research/)` integrated under Section 5 (`5. National Labs & University Coverage` -> `University of Texas at Arlington`).
+  - **Deduplication & Skip Policy**: Skipped 1 duplicate link: `https://news.lehigh.edu/lehigh-researchers-earn-two-doe-genesis-mission-funding-awards` (duplicate of existing line 338: `https://news.lehigh.edu/lehigh-researchers-earn-2-doe-genesis-mission-funding-awards`).
+  - **Scratchpad Decommissioning**: Cleared and decommissioned the temporary `WIP` scratchpad section in `references.md`.
+- **Ecosystem Coverage Sync (`coverage.md`)**: Checked integrated entries for ecosystem coverage. Added new awardee entity `University of Texas at Arlington` with status `❌ Not Covered` (`(reference only)`). Renumbered subsequent rows (tracked consortium entities expanded from 175 to **176**; research universities expanded from 60 to **61**). Updated all summary tables and status headers.
+- **Master Reference Coverage Report (`reference_coverage.md`)**: Indexed the 4 newly added reference links with `Unprocessed` status across master reference tables. Recalculated executive summary metrics (total indexed references expanded from 367 to **371** across 7 primary sections; unique target domains expanded to **209**; web portals & press releases expanded to **354**; processing status updated to **367 / 371 Processed**).
+- **Version Bump**: Incremented patch version string to `2.1.21` in `README.md` and `README.de.md`.
+
+---
+
 ## [2.1.20] - 2026-08-11
 
 ### Changed

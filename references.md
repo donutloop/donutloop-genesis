@@ -216,6 +216,7 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
 * DOE Interactive Portal: [Genesis Mission Official Interactive Demonstration Hub](https://www.energy.gov/genesis-mission-demonstration)
 * [Domino Data Lab: Domino Joins Genesis Mission Consortium](https://domino.ai/press-releases/genesis-consortium)
 * [NSF: New NSF Initiative Aims to Unlock Dataset Value for AI-Enabled Research](https://www.nsf.gov/news/new-nsf-initiative-aims-unlock-dataset-value-ai-enabled)
+* [NSF: Dear Colleague Letter on Unleashing a New Age of AI-Enabled Scientific Discovery](https://www.nsf.gov/funding/information/dcl-unleashing-new-age-ai-enabled-scientific-discovery-through)
 * [U.S. Department of Agriculture (USDA): USDA Asks Partners to Develop AI Solutions to Accelerate Crop Innovation](https://www.usda.gov/about-usda/news/press-releases/2026/07/22/usda-asks-partners-develop-ai-solutions-accelerate-crop-innovation)
 * [SHINE Technologies: Selected for Two DOE Genesis Mission Projects Advancing AI in Nuclear Fuel Recycling](https://www.prnewswire.com/news-releases/shine-selected-for-two-doe-genesis-mission-projects-advancing-ai-in-nuclear-fuel-recycling-302841934.html)
 * [Everstar: Announces Collaboration with DOE National Laboratories and Microsoft](https://www.prnewswire.com/news-releases/everstar-announces-collaboration-with-doe-national-laboratories-and-microsoft--marking-its-first-major-milestone-in-the-genesis-mission-302726497.html)
@@ -315,6 +316,7 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
   * [Supporting Genesis Mission: SRS Center for AI-Accelerated Innovation](https://www.energy.gov/em/articles/supporting-genesis-mission-srs-center-ai-accelerated-innovation)
   * [SRNL Contributes Key Expertise to DOE's New Genesis Mission](https://www.energy.gov/em/articles/srnl-contributes-key-expertise-does-new-genesis-mission)
   * [SRNL Harnesses AI to Tackle Environmental Challenges and Cut Cleanup Costs](https://www.energy.gov/em/articles/srnl-harnesses-ai-tackle-environmental-challenges-cut-cleanup-costs)
+  * [SRNL Makes Strong Showing at 2026 AI Expo](https://www.energy.gov/em/articles/savannah-river-national-laboratory-makes-strong-showing-2026-ai-expo)
 * **SLAC National Accelerator Laboratory:** 
   * [Leading Projects Alongside Stanford](https://news.stanford.edu/stories/2026/07/stanford-and-slac-to-lead-genesis-mission-projects)
   * [SLAC ISDCI Genesis Portal](https://isdci.slac.stanford.edu/genesis)
@@ -350,7 +352,9 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
 * **New Mexico State University (NMSU):** [NMSU-Led Team Selected for $800M Initiative](https://newsroom.nmsu.edu/news/nmsu-led-team-among-those-selected-for--800-million-doe-genesis-mission/s/16c85a82-19d1-45ea-922e-6aba73e11383)
 * **New York University (NYU):** [Faculty Drive Three U.S. Department of Energy Genesis Mission Projects](https://www.nyu.edu/about/news-publications/news/2026/july/nyu-faculty-drive-three-us-department-of-energy-genesis-mission-.html?challenge=d06e90d7-4d8f-4b88-9d8c-10b73beb60f1)
 * **Northwestern University:** [Projects Receive Funding](https://news.northwestern.edu/stories/2026/07/northwestern-projects-receive-genesis-mission-funding)
-* **Penn State University:** [Scientists to Lead Three Projects](https://www.psu.edu/news/research/story/penn-state-scientists-lead-three-genesis-mission-projects)
+* **Penn State University:**
+  * [Scientists to Lead Three Projects](https://www.psu.edu/news/research/story/penn-state-scientists-lead-three-genesis-mission-projects)
+  * [Penn State Engineering Genesis Mission Projects](https://news.engr.psu.edu/2026/coe-genesis-mission-projects-2026.aspx)
 * **Princeton University:**
   * [Researchers Awarded Grants to Lead AI Projects](https://www.princeton.edu/news/2026/07/22/princeton-researchers-awarded-genesis-mission-grants-department-energy-accelerate)
   * [Princeton Researchers Awarded Genesis Mission Grants](https://research.princeton.edu/news/princeton-researchers-awarded-genesis-mission-grants-department-energy-accelerate-ai-use-0)
@@ -405,6 +409,7 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
   * [USC Leads National AI Research Project](https://today.usc.edu/usc-leads-national-ai-research-project-to-accelerate-scientific-discovery/)
   * [Multiple USC-Led Projects Receive Awards to Advance AI](https://today.usc.edu/multiple-usc-led-projects-receive-u-s-department-of-energy-genesis-mission-awards-to-advance-ai/)
   * [USC Stevens Center: USC Leads National AI Research Project](https://stevens.usc.edu/news/genesis-mission-usc-leads-national-ai-research-project-to-accelerate-scientific-discovery/)
+* **University of Texas at Arlington:** [UTA Lands DOE Genesis Mission Award to Keep AI Honest in Scientific Research](https://dallasinnovates.com/uta-lands-doe-genesis-mission-award-to-keep-ai-honest-in-scientific-research/)
 * **University of Texas at Austin:** [Awards Funding to 5 UT Research Projects](https://news.utexas.edu/2026/07/22/department-of-energys-new-ai-for-science-genesis-mission-awards-funding-to-5-ut-research-projects/)
 * **University of Utah:**
   * [Selected for Multiple DOE Genesis Mission Awards](https://www.research.utah.edu/research-impact/university-of-utah-selected-for-multiple-u-s-department-of-energy-genesis-mission-awards/)
@@ -444,17 +449,3 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
 * [DOE Office of Science (SCAC): DOE Genesis Mission Launched Presentation (PDF)](https://science.osti.gov/-/media/About/pdf/scac/meetings/2026/DOE-Genesis-Mission-Launched---2026-03-27.pdf)
 * [OSTP: OSTP Genesis Mission Science and Technology Challenges Document](https://www.energy.gov/documents/ostp-genesis-mission-science-and-technology-challenges)
 * [U.S. Department of Energy: ModCon — Transformational AI and Data Overview](https://www.energy.gov/undersecretaryforscience/genesis-mission/modcon-transformational-ai-and-data)
-
-
-wip:
-
-
-https://www.nsf.gov/funding/information/dcl-unleashing-new-age-ai-enabled-scientific-discovery-through
-
-https://news.lehigh.edu/lehigh-researchers-earn-two-doe-genesis-mission-funding-awards
-
-https://www.energy.gov/em/articles/savannah-river-national-laboratory-makes-strong-showing-2026-ai-expo
-
-https://dallasinnovates.com/uta-lands-doe-genesis-mission-award-to-keep-ai-honest-in-scientific-research/
-
-https://news.engr.psu.edu/2026/coe-genesis-mission-projects-2026.aspx
