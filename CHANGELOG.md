@@ -5,6 +5,15 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [2.4.12] - 2026-08-11
+
+### Changed
+- **Reference Integration & Master Processing (`references.md` & `reference_coverage.md`)**: Formatted and integrated Nextgov/FCW Argonne AI inference service article ([`Nextgov/FCW: Argonne Launches High-Performance Computing-Backed AI Research Service`](https://www.nextgov.com/artificial-intelligence/2026/05/argonne-launches-high-performance-computing-backed-ai-research-service/413798/), `www.nextgov.com`) into Section 4 under Executive, Federal & Partner Announcements, registering it as Master Index Entry #199 and processing its status to `Processed` (**394 / 394 Processed, 100% Complete**).
+- **Research Paper Enrichment (`README.md` & `README.de.md`)**: Enriched §3.2 Argonne National Laboratory (ANL) profiles in both English and German paper editions with details on Nextgov/FCW's coverage of the ALCF Large-Scale AI Inference Service led by Michael Papka and Venkat Vishwanath, deploying pre-trained commercial LLMs, open-weight models, and scientific foundation models across all 17 DOE National Laboratories, powered by Aurora exascale supercomputing, the NVIDIA DGX A100 *Sophia* cluster, and the SambaNova SN40L *Metis* chip cluster.
+- **Version Bump**: Incremented patch version string to `2.4.12` in `README.md` and `README.de.md`.
+
+---
+
 ## [2.4.11] - 2026-08-11
 
 ### Changed

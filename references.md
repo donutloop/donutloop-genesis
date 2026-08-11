@@ -229,6 +229,7 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
 * [Dataera.ai: Dataera.ai Collaborates with U.S. Department of Energy on Genesis Mission](https://www.dataerai.com/doe-genesis-partnership.html)
 * [Veritone: Joins Genesis Mission Consortium to Advance U.S. Department of Energy's National AI Initiatives](https://investors.veritone.com/news-events/press-releases/detail/429/veritone-joins-genesis-mission-consortium-to-advance-u-s-department-of-energys-national-ai-initiatives)
 * [Association of American Universities (AAU): Responds to DOE RFI on Mobilizing Academic Talent for Genesis Mission](https://www.aau.edu/resource-library/aau-responds-doe-rfi-mobilizing-talent-genesis-mission)
+* [Nextgov/FCW: Argonne Launches High-Performance Computing-Backed AI Research Service](https://www.nextgov.com/artificial-intelligence/2026/05/argonne-launches-high-performance-computing-backed-ai-research-service/413798/)
   
 ---
 
