@@ -5,6 +5,16 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.0.52] - 2026-08-12
+
+### Added
+- **Processed Newswise DESI 2D Map of Universe Reference**: Processed reference link `https://www.newswise.com/articles/scientists-release-biggest-2d-map-of-the-universe2` (*Scientists Release Biggest 2D Map of the Universe*), adding entry to [`references.md`](file:///home/donutloop/Workspace/donutloop-genesis/references.md#L241) Section 4 under Executive, Federal & Partner Announcements.
+- **Master Index Audit**: Registered Master Index Entry `#95` in [`reference_coverage.md`](file:///home/donutloop/Workspace/donutloop-genesis/reference_coverage.md) (updating total metrics to **475 / 475 Processed**, 100% Complete across 224 unique target domains with 458 Web/News items) and renumbered downstream index rows `#96` to `#475`.
+- **Enriched Section 3.2 in English & German Papers**: Integrated Newswise syndication of LBNL/NOIRLab's 5.6-trillion-pixel DESI Legacy Imaging Surveys celestial map release in [`README.md`](file:///home/donutloop/Workspace/donutloop-genesis/README.md#L608) and [`README.de.md`](file:///home/donutloop/Workspace/donutloop-genesis/README.de.md#L603).
+- **Version Bump**: Incremented version string to `3.0.52` across [`README.md`](file:///home/donutloop/Workspace/donutloop-genesis/README.md) and [`README.de.md`](file:///home/donutloop/Workspace/donutloop-genesis/README.de.md).
+
+---
+
 ## [3.0.51] - 2026-08-12
 
 ### Added
