@@ -457,3 +457,10 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
 * [OSTP: OSTP Genesis Mission Science and Technology Challenges Document](https://www.energy.gov/documents/ostp-genesis-mission-science-and-technology-challenges)
 * [U.S. Department of Energy: ModCon — Transformational AI and Data Overview](https://www.energy.gov/undersecretaryforscience/genesis-mission/modcon-transformational-ai-and-data)
 * [U.S. Department of Energy: Data Team Fact Sheet](https://www.energy.gov/documents/data-team-fact-sheet)
+
+
+WIP:
+
+https://www.ornl.gov/project/ai-enabled-subsurface-biogeochemical-modeling
+https://www.ornl.gov/project/ai-long-range-water-prediction
+https://www.ornl.gov/project/ai-next-generation-fusion-materials-development
