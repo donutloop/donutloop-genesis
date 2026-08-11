@@ -5,6 +5,20 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [2.3.6] - 2026-08-11
+
+### Added
+- **Research Paper Section Enrichment (`README.md` & `README.de.md`)**: Integrated a comprehensive research paper section, **Section 2.4: Flagship Projects and Domain Initiatives Enabled by the Genesis Mission** (and its German equivalent *Section 2.4: Flaggschiff-Projekte und Domänen-Initiativen im Rahmen der Genesis-Mission*). Synthesized flagship Genesis Mission research awards, interagency grants (DOE DE-FOA-0003612, NSF 26-023, NIH $1.2B Bio Genesis pool, CHIPS Act microelectronics awards), and domain breakthroughs across 5 primary scientific domains:
+  1. *Advanced Nuclear Energy, Autonomous Reactor Operations & Regulatory Compliance* (Project Prometheus, Gordian AI, SHINE AMUSE/ARTEMIS PINN fuel recycling).
+  2. *Fusion Plasma Physics & Quantum-Centric Reactor Material Discovery* (AI4Fusion disruption control, ORNL-IBM Quantum FLiBe molten salt calculations).
+  3. *Autonomous Self-Driving Laboratories, Physical AI & Edge Resilience* (Utah AURORA Cloud Lab, UT Arlington sub-millisecond EPICS trust layer, closed-loop synthesis pipelines).
+  4. *Particle Acceleration, High Energy Physics & Quantum Infrastructure* (ATLAS GNN trigger grid, NREL neutral-atom Quantum-in-the-Loop power grid, UNL 6G RAN autopilot co-designer, xLight EUV FEL lithography source).
+  5. *Environmental Remediation, Critical Minerals & Agri-Genomics* (SRNL VITA-SCALE nuclear waste vitrification AI, Ames AIM-MAG rare-earth-free magnets, USDA germplasm AI, Arcee AI GS1 open-weight model family).
+- **Flagship Project Benchmark Matrix**: Integrated a detailed 10-column quantitative benchmark summary matrix mapping lead institutions, funding mechanisms, technical innovations, and impact metrics across both English and German paper editions.
+- **Version Bump**: Incremented patch version string to `2.3.6` in `README.md` and `README.de.md`.
+
+---
+
 ## [2.3.5] - 2026-08-11
 
 ### Changed
