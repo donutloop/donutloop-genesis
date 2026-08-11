@@ -5,6 +5,15 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [2.3.2] - 2026-08-11
+
+### Changed
+- **Reference Index Processing (Entry #84 - White House NSPM-11 Executive Action)**: Processed master reference index Entry #84 ([www.whitehouse.gov/presidential-actions/2026/06/national-security-presidential-memorandum-nspm-11/](https://www.whitehouse.gov/presidential-actions/2026/06/national-security-presidential-memorandum-nspm-11/)). Enriched **White House OSTP / Executive Office** profiles in Section 3.4 of `README.md` and `README.de.md` with technical details on National Security Presidential Memorandum NSPM-11, establishing dual-use scientific AI export controls, biosecurity verification, supply chain threat monitoring, and supercomputing security protocols across DOE exascale infrastructure.
+- **Master Reference Coverage Complete (`reference_coverage.md`)**: Updated Entry #84 status from `Unprocessed` to `Processed` in `reference_coverage.md`, achieving **100% processing status** across all master reference index entries (**383 / 383 Processed**).
+- **Version Bump**: Incremented patch version string to `2.3.2` in `README.md` and `README.de.md`.
+
+---
+
 ## [2.3.1] - 2026-08-11
 
 ### Changed

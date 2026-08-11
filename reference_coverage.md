@@ -15,7 +15,7 @@
 | **Official PDF Documents** | **15** | Formal RFA solicitations, webinars, slides, and executive reports |
 | **Web Portals & Press Releases** | **365** | Newsroom features, corporate blog posts, and interactive hubs |
 | **Validation Status** | **100% Validated** | All links canonicalized, formatted, and deduplicated |
-| **Processing Status** | **382 / 383 Processed** | 1 Unprocessed, 382 Processed |
+| **Processing Status** | **383 / 383 Processed** | 0 Unprocessed, 383 Processed (100% Complete) |
 
 ---
 
@@ -152,7 +152,7 @@ A complete tabular listing of all 363 indexed reference links:
 | 81 | 4. Executive, Federal & Partner Announcements | - | White House Announcement: President Trump Launches the Genesis Mission | `www.whitehouse.gov` | Web | [White House Announcement: President Trump Launches the Genesis Mission](https://www.whitehouse.gov/releases/2025/11/president-trump-launches-the-genesis-mission-to-accelerate-ai-for-scientific-discovery/) | `Processed` |
 | 82 | 4. Executive, Federal & Partner Announcements | - | White House Fact Sheet: President Donald J. Trump Unveils the Genesis Mission | `www.whitehouse.gov` | Web | [White House Fact Sheet: President Donald J. Trump Unveils the Genesis Mission](https://www.whitehouse.gov/fact-sheets/2025/11/fact-sheet-president-donald-j-trump-unveils-the-genesis-missionto-accelerate-ai-for-scientific-discovery/) | `Processed` |
 | 83 | 4. Executive, Federal & Partner Announcements | - | White House Release: 2026 Genesis Mission Updates | `www.whitehouse.gov` | Web | [White House Release: 2026 Genesis Mission Updates](https://www.whitehouse.gov/releases/2026/07/45502/) | `Processed` |
-| 84 | 4. Executive, Federal & Partner Announcements | - | White House Executive Action: National Security Presidential Memorandum NSPM-11 | `www.whitehouse.gov` | Web | [White House Executive Action: National Security Presidential Memorandum NSPM-11](https://www.whitehouse.gov/presidential-actions/2026/06/national-security-presidential-memorandum-nspm-11/) | `Unprocessed` |
+| 84 | 4. Executive, Federal & Partner Announcements | - | White House Executive Action: National Security Presidential Memorandum NSPM-11 | `www.whitehouse.gov` | Web | [White House Executive Action: National Security Presidential Memorandum NSPM-11](https://www.whitehouse.gov/presidential-actions/2026/06/national-security-presidential-memorandum-nspm-11/) | `Processed` |
 | 85 | 4. Executive, Federal & Partner Announcements | - | U.S. House of Representatives Committee Event: Hearing on the Genesis Mission (119th Congress) | `www.congress.gov` | Web | [U.S. House of Representatives Committee Event: Hearing on the Genesis Mission (119th Congress)](https://www.congress.gov/event/119th-congress/house-event/118728) | `Processed` |
 | 86 | 4. Executive, Federal & Partner Announcements | - | Federal Register: Presidential Document - Launching the Genesis Mission | `www.federalregister.gov` | Web | [Federal Register: Presidential Document - Launching the Genesis Mission](https://www.federalregister.gov/documents/2025/11/28/2025-21665/launching-the-genesis-mission) | `Processed` |
 | 87 | 4. Executive, Federal & Partner Announcements | - | NSF: New NSF Initiative Aims to Unlock Dataset Value for AI-Enabled Research | `www.nsf.gov` | Web | [NSF: New NSF Initiative Aims to Unlock Dataset Value for AI-Enabled Research](https://www.nsf.gov/news/new-nsf-initiative-aims-unlock-dataset-value-ai-enabled) | `Processed` |
