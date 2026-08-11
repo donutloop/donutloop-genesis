@@ -15,7 +15,7 @@
 | **Official PDF Documents** | **14** | Formal RFA solicitations, webinars, slides, and executive reports |
 | **Web Portals & Press Releases** | **361** | Newsroom features, corporate blog posts, and interactive hubs |
 | **Validation Status** | **100% Validated** | All links canonicalized, formatted, and deduplicated |
-| **Processing Status** | **371 / 378 Processed** | 7 Unprocessed, 371 Processed |
+| **Processing Status** | **372 / 378 Processed** | 6 Unprocessed, 372 Processed |
 
 ---
 
@@ -317,7 +317,7 @@ A complete tabular listing of all 363 indexed reference links:
 | 247 | 5. National Labs & University Coverage | National Laboratories | DOE Selects ORNL to Lead Nine Genesis Mission Projects | `www.ornl.gov` | Web | [DOE Selects ORNL to Lead Nine Genesis Mission Projects](https://www.ornl.gov/news/department-energy-selects-ornl-lead-nine-genesis-mission-projects) | `Processed` |
 | 248 | 5. National Labs & University Coverage | National Laboratories | ORNL Genesis Mission Projects Hub | `www.ornl.gov` | Web | [ORNL Genesis Mission Projects Hub](https://www.ornl.gov/node/111486) | `Processed` |
 | 249 | 5. National Labs & University Coverage | National Laboratories | QUBIT Engineering Debuts AI-Powered Tool to Analyze Modern Power Grid | `www.ornl.gov` | Web | [QUBIT Engineering Debuts AI-Powered Tool to Analyze Modern Power Grid](https://www.ornl.gov/organization-news/qubit-engineering-debuts-ai-powered-tool-analyze-modern-power-grid) | `Processed` |
-| 250 | 5. National Labs & University Coverage | National Laboratories | AI-Assisted Fusion Power Plant Designs | `www.ornl.gov` | Web | [AI-Assisted Fusion Power Plant Designs](https://www.ornl.gov/project/ai-assisted-fusion-power-plant-designs) | `Unprocessed` |
+| 250 | 5. National Labs & University Coverage | National Laboratories | AI-Assisted Fusion Power Plant Designs | `www.ornl.gov` | Web | [AI-Assisted Fusion Power Plant Designs](https://www.ornl.gov/project/ai-assisted-fusion-power-plant-designs) | `Processed` |
 | 251 | 5. National Labs & University Coverage | National Laboratories | Low-Energy AI Scientific Discovery | `www.ornl.gov` | Web | [Low-Energy AI Scientific Discovery](https://www.ornl.gov/project/low-energy-ai-scientific-discovery) | `Unprocessed` |
 | 252 | 5. National Labs & University Coverage | National Laboratories | AI-Accelerated Materials Development and Advanced Manufacturing Applications | `www.ornl.gov` | Web | [AI-Accelerated Materials Development and Advanced Manufacturing Applications](https://www.ornl.gov/project/ai-accelerated-materials-development-and-advanced-manufacturing-applications) | `Unprocessed` |
 | 253 | 5. National Labs & University Coverage | National Laboratories | AI-Enabled Discovery of Rare Earth Elements | `www.ornl.gov` | Web | [AI-Enabled Discovery of Rare Earth Elements](https://www.ornl.gov/project/ai-enabled-discovery-rare-earth-elements) | `Unprocessed` |

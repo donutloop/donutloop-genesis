@@ -5,6 +5,15 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [2.2.3] - 2026-08-11
+
+### Changed
+- **Reference Index Processing (Entry #250 - ORNL AI-Assisted Fusion Power Plant Designs)**: Processed master reference index Entry #250 ([www.ornl.gov/project/ai-assisted-fusion-power-plant-designs](https://www.ornl.gov/project/ai-assisted-fusion-power-plant-designs)). Enriched **Oak Ridge National Laboratory (ORNL)** profiles in Section 3.2 of `README.md` and `README.de.md` with technical details on ORNL's AI-driven multiphysics digital twin framework for commercial fusion power plant design optimization, leveraging surrogate neural operators and Frontier exascale compute to accelerate tokamak magnetic confinement geometry, divertor thermal dissipation, and blanket tritium breeding co-design.
+- **Master Reference Coverage Update (`reference_coverage.md`)**: Updated Entry #250 status from `Unprocessed` to `Processed` in `reference_coverage.md`, raising total processing status metric to **372 / 378 Processed** (6 Unprocessed links remaining).
+- **Version Bump**: Incremented patch version string to `2.2.3` in `README.md` and `README.de.md`.
+
+---
+
 ## [2.2.2] - 2026-08-11
 
 ### Changed
