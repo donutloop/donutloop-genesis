@@ -1,4 +1,4 @@
-**Version**: 3.0.3
+**Version**: 3.0.4
 
 # Die Genesis-Mission: Architektur, strategische Initiativen und das multi-institutionelle Ökosystem für KI- und quantengetriebene wissenschaftliche Entdeckungen
 
@@ -697,141 +697,151 @@ Während die Genesis-Mission reift, erfordert der langfristige Erfolg eine konti
 
 ## Anhang A: Institutionelle Mitwirkende & Partner
 
-Die Genesis-Mission zeichnet sich durch die Breite ihrer sektorübergreifenden Koalition aus. Der folgende Anhang führt alle identifizierten institutionellen Mitwirkenden auf, geordnet nach Funktionskategorien.
+Die Genesis-Mission zeichnet sich durch die Breite ihrer sektorübergreifenden Koalition aus. Der folgende Anhang führt alle identifizierten institutionellen Mitwirkenden auf, geordnet nach Funktionskategorien. Detaillierte technische Profile für Quantencomputing und ausgewählte Industriepartner finden Sie in den Abschnitten 2.2, 3.1 und 3.2 des Haupttextes.
 
 ### A.1 Bundesbehörden & Politische Gremien
 
 | Behörde / Organ | Primäre Rolle in der Genesis-Mission |
 | :--- | :--- |
-| White House Office of Science and Technology Policy (OSTP) | Exekutive Leitung, Koordination nationaler S&T-Herausforderungen & KI/Quantenpolitik |
-| U.S. Department of Energy (DOE) — Office of Science | Führende Förderbehörde (DE-FOA-0003612), Exascale-Labornetzwerk-Leitung & KI-Hub |
-| U.S. Department of Commerce — NIST / CHIPS R&D Office | CHIPS Act LOI-Ausführung, 2B$ Quantenhalbleiter-Anreize & NIST-Messstandards |
-| National Science Foundation (NSF) | 83M$ integrierte Datensysteme, KI-Forschungsinstitute & MINT-Arbeitskräfteentwicklung |
-| National Institutes of Health (NIH) / HHS | Co-Leiter der Bio Genesis Mission, biomedizinische KI & Strukturbiologie-Basismodelle |
-| National Aeronautics and Space Administration (NASA) | KI-Erdforschungs-Basismodelle (AlphaEarth), extrem-resistente Materialien & Weltraum-KI |
-| Department of War | Dual-Use wissenschaftliche KI, Hyperschall-CFD, strahlungsgehärtete Elektronik & Lieferketten |
-| Department of Homeland Security (DHS) — S&T | KI-digitale Zwillinge für kritische Infrastrukturen, Lieferkettenanalysen & Netzresilienz |
-| Department of the Interior (DOI) | USGS-KI-Kartierung kritischer Mineralvorkommen, hydrologische Modellierung & Umweltverwaltung |
+| [White House Office of Science and Technology Policy (OSTP)](https://www.whitehouse.gov/ostp/) | Exekutive Leitung, Koordination nationaler S&T-Herausforderungen & behördenübergreifende KI/Quantenpolitik |
+| U.S. Department of Energy (DOE) — Office of Science | Führende Förderbehörde (DE-FOA-0003612), Exascale-Labornetzwerk-Leitung & nationaler KI-für-die-Wissenschaft-Hub |
+| U.S. Department of Commerce — NIST / CHIPS R&D Office | CHIPS Act LOI-Ausführung, 2 Mrd. $ Quantenhalbleiter-Anreize & NIST-Messstandards |
+| [National Science Foundation (NSF)](https://www.nsf.gov/) | 83 Mio. $ integrierte Datensysteme, KI-Forschungsinstitute & Mikroelektronik-Arbeitskräfteentwicklung |
+| [National Institutes of Health (NIH) / HHS](https://www.nih.gov/) | Co-Leiter der Bio Genesis Mission, biomedizinische KI, Strukturbiologie-Basismodelle & therapeutisches Screening |
+| [National Aeronautics and Space Administration (NASA)](https://www.nasa.gov/) | KI-Erdforschungs-Basismodelle (AlphaEarth), extrem-resistente Materialien & Weltraum-KI-Nutzlasten |
+| [Department of War](https://www.defense.gov/) | Dual-Use wissenschaftliche KI, Hyperschall-CFD, strahlungsgehärtete Mikroelektronik & Verteidigungslieferketten |
+| [Department of Homeland Security (DHS) — S&T](https://www.dhs.gov/science-and-technology) | Digitale KI-Zwillinge für kritische Infrastrukturen, Lieferkettenanalysen & Stromnetzresilienz |
+| [Department of the Interior (DOI)](https://www.doi.gov/) | USGS-KI-Kartierung kritischer Mineralvorkommen, hydrologische Modellierung & Saubere-Energie-Standortvergabe |
 | [Association of American Universities (AAU)](https://www.aau.edu/) | RFI-Stellungnahme zur akademischen Talentmobilisierung, Graduiertenstipendien & IP/CRADA-Strukturen |
 
 ### A.2 DOE National Laboratories
 
+Die 17 Nationalen Laboratorien des DOE dienen als primäre Ausführungsknoten für die Forschung der Genesis-Mission und fungieren jeweils als föderierte Rechen-, Experimentier- und Koordinationszentren.
+
 | Laboratorium | Abkürzung | Primärer Schwerpunkt in der Genesis-Mission |
 | :--- | :--- | :--- |
-| Ames National Laboratory | Ames | Leitung des Critical Materials Institute (CMI), Legierungsthermodynamik mit hohem Durchsatz |
-| Argonne National Laboratory | ANL | ALCF Solstice/Equinox Supercomputer, Aurora Exascale, APS Synchrotron, Genesis Open Models Hub, GridMind KI-Netzsteuerung & Infleqtion QPU-Hub |
-| Brookhaven National Laboratory | BNL | C2QA Quanten-Co-Design-Zentrum, NSLS-II Synchrotron-Strahlrohre & Schwerionenphysik-KI |
+| [Ames National Laboratory](https://www.ameslab.gov/) | Ames | Leitung des Critical Materials Institute (CMI), Ersetzung seltener Erden & Legierungsthermodynamik mit hohem Durchsatz |
+| [Argonne National Laboratory](https://www.anl.gov/) | ANL | ALCF Solstice/Equinox Supercomputer, Aurora Exascale, APS Synchrotron, Genesis Open Models Hub, GridMind KI-Netzsteuerung & Infleqtion QPU-Hub |
+| [Brookhaven National Laboratory](https://www.bnl.gov/) | BNL | C2QA Quanten-Co-Design-Zentrum, NSLS-II Synchrotron-Strahlrohre & Schwerionenphysik-KI |
 | Fermi National Accelerator Laboratory | Fermilab | SQMS Quantenzentrum, SRF 3D-Kavitäts-Qubits & xLight EUV FEL CRADA-Partner |
-| Idaho National Laboratory | INL | Kernenergie-KI, SMR-digitale Zwillinge, AWS Cloud HPC & autonome Reaktorsteuerung |
-| Lawrence Berkeley National Laboratory | LBNL | Leitung von 13 KI-Projekten, ModCon-Plattform, NERSC Supercomputing & Materials Project |
+| Idaho National Laboratory | INL | Kernenergie-KI, digitale SMR-Zwillinge, AWS Cloud HPC & autonome Reaktorsteuerung |
+| Lawrence Berkeley National Laboratory | LBNL | Leitung von 13 Flaggschiff-KI-Projekten, ModCon-Plattform, NERSC Supercomputing & Materials Project KI-Integration |
 | Lawrence Livermore National Laboratory | LLNL | NIF-Laserfusions-KI (10 Projekte), Rigetti Fusionsquantensimulation & MSFT Bioseicherheitsmodelle |
 | Los Alamos National Laboratory | LANL | Waffenhydrodynamik (7 Projekte), Plutoniumalterungsphysik & Bioseicherheitsrobotik |
-| National Energy Technology Laboratory | NETL | Stromnetzinstabilitäts-KI, Kohlenstoffabscheidung & Ramaco Kohle-zu-Graphit-Synthetikmaterialien |
-| National Renewable Energy Laboratory | NREL | ARIES-Plattform, Atom Computing Quanten-in-the-Loop-Netzsimulation & Energiezwillingsmodelle |
+| National Energy Technology Laboratory | NETL | Stromnetzinstabilitäts-KI, Kohlenstoffabscheidungsoptimierung & Ramaco Kohle-zu-Graphit-Synthetikmaterialien |
+| National Renewable Energy Laboratory | NREL | ARIES-Plattform, Atom Computing Quanten-in-the-Loop-Netzsimulation & digitale Energiezwillingsmodelle |
 | Oak Ridge National Laboratory | ORNL | Frontier Exascale Supercomputer (9 Projekte), FLiBe-Schmelzsalz-Quantenchemie & SNS-Neutronenstreuung |
 | Pacific Northwest National Laboratory | PNNL | Microsoft Discovery Festkörperbatterie-KI, Klima-Atmosphärenmodellierung & chemische Katalyse |
-| Princeton Plasma Physics Laboratory | PPPL | AI4Fusion autonome Tokamak-Plasmasteuerung & Niedertemperatur-Plasmaätz-CFD |
-| Sandia National Laboratories | SNL | Strahlungshärtung von Mikroelektronik (6 Projekte, 17 Co-PI), Ionenfallen-QPU-Fertigung |
-| Savannah River National Laboratory | SRNL | Radiochemische Trennungsfließbilder, nukleare Sicherheitsmaßnahmen-KI, Tritiumverarbeitung |
-| SLAC National Accelerator Laboratory | SLAC | LCLS-II Attosekunden-Röntgenlaser, Deep-RL-Strahlemittanzoptimierung & SRF-Kavitäten |
-| Thomas Jefferson National Accelerator Facility | TJNAF | CEBAF-Beschleuniger, KI-gestützte nukleare Femtografie & Subatomarphysik-KI |
+| Princeton Plasma Physics Laboratory | PPPL | AI4Fusion autonome Tokamak-Plasmasteuerung & Niedertemperatur-Plasmaätz-CFD für Mikroelektronik |
+| Sandia National Laboratories | SNL | Strahlungshärtung von Mikroelektronik (6 Projekte, 17 Co-PI), Ionenfallen-QPU-Fertigung & Hyperschall-CFD |
+| Savannah River National Laboratory | SRNL | Radiochemische Trennungsfließbilder, nukleare Sicherheitsmaßnahmen-KI, Tritiumverarbeitung & Wasserstoffspeicherung |
+| [SLAC National Accelerator Laboratory](https://www.slac.stanford.edu/) | SLAC | LCLS-II Attosekunden-Röntgenlaser, Deep-RL-Strahlemittanzoptimierung & SRF-Beschleunigerkavitäten |
+| Thomas Jefferson National Accelerator Facility | TJNAF | CEBAF-Beschleuniger, KI-gestützte nukleare Femtografie, SRF-Kavitätstuning & Subatomarphysik-KI |
 
 ### A.3 Industrie- & Technologiepartner
+
+Industrielle Mitwirkende umfassen Cloud- und KI-Hyperscaler, Halbleiterhersteller, führende KI-Laboratorien, industrielle Automatisierungsanbieter, Energieversorger und Unternehmen für kritische Materialien.
 
 #### Cloud, KI & Compute Infrastruktur
 | Organisation | Primärer Beitrag |
 | :--- | :--- |
-| Amazon Web Services (AWS) | 100M$ Bundessystem-Gutschriften; Cloud-HPC; Post-Quanten-Sicherheit |
-| Google / Google DeepMind / Google Public Sector | 40M$ Zusage; Gemini for Government; AI Co-Scientist; AlphaFold 3; AlphaGenome; AlphaEarth |
-| Microsoft | 60M$ SPARK-Programm; Microsoft Discovery; MatterGen/MatterSim; Majorana-Quantenprozessoren |
-| NVIDIA | Solstice & Equinox Supercomputer; Apollo-Modelle; Omniverse digitale Zwillinge; Edge-KI |
-| AMD | Lux & Discovery Supercomputer; Instinct MI355X/MI430X; EPYC; Pensando; ROCm |
-| Oracle | Enterprise Cloud und HPC-Datenbankinfrastruktur |
-| HPE | Hochleistungsrechensysteme (HPC) |
-| Dell Technologies | KI-Fabrikinfrastruktur; PowerEdge wassergekühlte HPC-Server; Enterprise-Computing |
-| Cerebras | Wafer-Scale KI-Beschleuniger; DOE MOU |
-| SambaNova Systems | Reconfigurable Dataflow Architecture (SN40L RDU); KI-Inferenz mit hohem Durchsatz; ALCF Deployment |
-| Domino Data Lab | Domino Enterprise AI Platform; vereinheitlichte Datenwissenschafts-Orchestrierung, Experimentverfolgung & FedRAMP High-Enklaven |
-| Groq | Language Processing Units (LPUs); deterministische KI-Inferenzchips ultraniedriger Latenz & GroqRack/GroqNode-Cluster-Einsatz |
+| [Amazon Web Services (AWS)](https://aws.amazon.com/) | 100 Mio. $ Bundessystem-Gutschriften; Cloud-HPC; Post-Quanten-Sicherheit |
+| Google / Google DeepMind / Google Public Sector | 40 Mio. $ Zusage; Gemini for Government; AI Co-Scientist; AlphaFold 3; AlphaGenome; AlphaEarth |
+| [Microsoft](https://www.microsoft.com/) | 60 Mio. $ SPARK-Programm; Microsoft Discovery; MatterGen/MatterSim; Majorana-Quantenprozessoren |
+| [NVIDIA](https://www.nvidia.com/) | Solstice & Equinox Supercomputer; Apollo-Modelle; Omniverse digitale Zwillinge; Edge-KI |
+| [AMD](https://www.amd.com/) | Lux & Discovery Supercomputer; Instinct MI355X/MI430X; EPYC; Pensando; ROCm |
+| [Oracle](https://www.oracle.com/) | Enterprise Cloud und HPC-Datenbankinfrastruktur |
+| [HPE](https://www.hpe.com/) | Hochleistungsrechensysteme (HPC) |
+| [Dell Technologies](https://www.dell.com/) | KI-Fabrikinfrastruktur; PowerEdge wassergekühlte HPC-Server; Enterprise-Computing |
+| [Cerebras](https://www.cerebras.ai/) | Wafer-Scale KI-Beschleuniger; DOE MOU |
+| [SambaNova Systems](https://sambanova.ai/) | Reconfigurable Dataflow Architecture (SN40L RDU); KI-Inferenz mit hohem Durchsatz; ALCF Deployment |
+| [Domino Data Lab](https://domino.ai/) | Enterprise MLOps KI-Plattform; vereinheitlichte Datenwissenschafts-Orchestrierung, Experimentverfolgung & FedRAMP High-Enklaven |
+| [Groq](https://groq.com/) | Language Processing Units (LPUs); deterministische KI-Inferenzchips ultraniedriger Latenz & GroqRack/GroqNode-Cluster-Einsatz |
 
 #### Führende KI & Datenplattformen
 | Organisation | Primärer Beitrag |
 | :--- | :--- |
-| Anthropic | Spitzen-LLM-Schlussfolgerungsagenten; Anthropic Science Division; automatisierte wissenschaftliche Arbeitsabläufe |
-| OpenAI | Spitzen-Schlussfolgerungs-LLM-Agenten; OpenAI for Government; DOE MOU & nationale Wissenschaftskooperation |
-| Meta AI | Offene Modelle (Segment Anything, DINO) mit LBNL-Bildgebungspipelines |
-| Scale AI | Engines für wissenschaftliche Datenkuratierung, synthetische Datengenerierung, RLHF & DOE MOU |
-| Hugging Face | Open-Source Modell-Hosting, FAIR-Datensatz-Repository, Modellregister & Feintuning-Infrastruktur |
-| FutureHouse | KI-gestützte wissenschaftliche Forschungsautomatisierung, PaperQA-Literaturagenten & autonome Labor-Tools |
-| LILA | Kollaborative KI-Plattform für wissenschaftliche Entdeckungen; multi-institutioneller Hub & agentische Arbeitsabläufe |
-| Everstar | KI-Biopharma & multi-agentische wissenschaftliche Entdeckungsplattform; Proteindesign & MSFT Discovery-Integration |
+| [Anthropic](https://www.anthropic.com/) | Spitzen-LLM-Schlussfolgerungsagenten; Anthropic Science Division; automatisierte wissenschaftliche Arbeitsabläufe & agentische Ausführung |
+| [OpenAI](https://openai.com/) | Spitzen-Schlussfolgerungs-LLM-Agenten; OpenAI for Government; DOE MOU & nationale Wissenschaftskooperation |
+| [Meta AI](https://ai.meta.com/) | Offene Modelle (Segment Anything, DINO) mit LBNL-Bildgebungspipelines |
+| [Scale AI](https://scale.com/) | Engines für wissenschaftliche Datenkuratierung, synthetische Datengenerierung, Fachexperten-RLHF & DOE MOU |
+| [Hugging Face](https://huggingface.co/) | Open-Source Modell-Hosting, FAIR-Datensatz-Repository, Modellregister & Feintuning-Infrastruktur |
+| [FutureHouse](https://www.futurehouse.org/) | KI-gestützte wissenschaftliche Forschungsautomatisierung, PaperQA-Literaturagenten & autonome Labor-Tools |
+| [LILA](https://www.lila.ai/) | Kollaborative KI-Plattform für wissenschaftliche Entdeckungen; multi-institutioneller Hub & agentische Arbeitsabläufe |
+| [Everstar](https://www.everstar.ai/) | KI-Biopharma & multi-agentische wissenschaftliche Entdeckungsplattform; Proteindesign & MSFT Discovery-Integration |
+| [Arcee AI](https://arcee.ai/) | Genesis-Science-1 (GS1) Open-Weight wissenschaftliche KI-Modellfamilie Co-Entwicklung, Datensatzkuratierung & verwaltete Arbeitsumgebungen |
 
 #### Halbleiter, EDA & Industriepartner
 | Organisation | Primärer Beitrag |
 | :--- | :--- |
-| GlobalFoundries | 375M$ Quantum Technology Solutions-Gießerei (FDX-Plattform), GF Labs, GlobalShuttle MPW, Silizium-Photonik, Kryo-CMOS, ~1% Regierungsbeteiligung & 1,5 Mrd.$ separate CHIPS-Expansion |
-| Applied Materials | Geräte zur Herstellung von Halbleiter-Wafern, Materialtechnik, 3D-Verpackung & Quantenmaterialabscheidung |
-| Synopsys | Synopsys.ai EDA-Plattform (DSO.ai, VSO.ai, TSO.ai, AgentEngineer™), Custom Compiler, TCAD, PrimeTime & HAV-Emulation für KI-Chips und Quantensteuerungs-ASICs |
-| Siemens | Industrielle KI-Software, Xcelerator digitale Zwillinge, strategische DOE-Absichtserklärung & Smart-Grid-Automatisierung |
-| Micron | Speicher mit hoher Bandbreite (HBM3e/HBM4), CXL-Speichermodule & DRAM-F&E |
-| Nokia | Optische Netzwerk-Backbones, kritische 5G/6G-Drahtlosinfrastruktur & Bell Labs Quantenoptik |
-| Collins Aerospace | Strahlungsgehärtete Mikroelektronik, Avionik-Compute & Edge-KI-Sensorplattformen |
-| RTX | RF-Mikroelektronik, Halbleiter mit breiter Bandlücke, Quantensensorik & Luft- und Raumfahrt-CFD |
-| Semiconductor Industry Association | CHIPS Act Mikroelektronik-Politikkoordination, Arbeitskräfteentwicklung & Lieferkettenstrategie |
-| New York Creates | Albany NanoTech 300mm F&E-Hub, CHIPS Act EUV Lithographiezentrum & 3D-Verpackungspilotlinien |
-| Kitware | Open-Source wissenschaftliche Visualisierung (ParaView, VTK, CMake), In-situ HPC-Analytics & FAIR Computer Vision |
-| AVEVA | Industrielle Software für Unternehmen, SCADA-Integration, betriebliche Telemetrie & digitale Energiezwillingsmodelle |
-| Cornelis Networks | Next-Gen Omni-Path (OPX) Hochleistungs-Interconnects & Exascale-KI-Netzwerke |
-| xLight | 150M$ CHIPS Act FEL-basierte EUV-Lithografie (Ziel 2028), Fermilab SRF/Kryomodul-CRADA, Albany NanoTech Prototyp, versorgungsskalige Multi-Scanner-FEL-Architektur & Pat Gelsinger Vorstandsleitung |
+| [GlobalFoundries](https://gf.com/) | 375 Mio. $ Quantum Technology Solutions-Gießerei (FDX-Plattform), GF Labs, GlobalShuttle MPW, Silizium-Photonik, Kryo-CMOS, ~1% Regierungsbeteiligung & 1,5 Mrd. $ separate CHIPS-Expansion |
+| [Applied Materials](https://www.appliedmaterials.com/) | Geräte zur Herstellung von Halbleiter-Wafern, Materialtechnik, 3D-Verpackung & Quantenmaterialabscheidung |
+| [Synopsys](https://www.synopsys.com/) | Synopsys.ai EDA-Plattform (DSO.ai, VSO.ai, TSO.ai, AgentEngineer™), Custom Compiler, TCAD, PrimeTime & HAV-Emulation für KI-Chips und Quantensteuerungs-ASICs |
+| [Siemens](https://www.siemens.com/) | Industrielle KI-Software, Xcelerator digitale Zwillinge, strategische DOE-Absichtserklärung & Smart-Grid-Automatisierung |
+| [Micron](https://www.micron.com/) | Speicher mit hoher Bandbreite (HBM3e/HBM4), CXL-Speichermodule & Sub-Nanometer-DRAM-F&E |
+| [Nokia](https://www.nokia.com/) | Optische Netzwerk-Backbones, kritische 5G/6G-Drahtlosinfrastruktur & Bell Labs Quantenoptik |
+| [Collins Aerospace](https://www.collinsaerospace.com/) | Strahlungsgehärtete Mikroelektronik, Avionik-Compute & Edge-KI-Sensorplattformen |
+| [RTX](https://www.rtx.com/) | RF-Mikroelektronik, Halbleiter mit breiter Bandlücke, Quantensensorik & Luft- und Raumfahrt-Multaphysik-CFD |
+| [Semiconductor Industry Association](https://www.semiconductors.org/) | CHIPS Act Mikroelektronik-Politikkoordination, Arbeitskräfteentwicklung & Lieferkettenstrategie |
+| [New York Creates](https://nycreates.org/) | Albany NanoTech 300mm F&E-Hub, CHIPS Act EUV-Lithografiezentrum & 3D-Verpackungspilotlinien |
+| [Kitware](https://www.kitware.com/) | Open-Source wissenschaftliche Visualisierung (ParaView, VTK, CMake), In-situ HPC-Analytics & FAIR Computer Vision |
+| [AVEVA](https://www.aveva.com/) | Industrielle Software für Unternehmen, SCADA-Integration, betriebliche Telemetrie & digitale Energiezwillingsmodelle |
+| [Cornelis Networks](https://www.cornelisnetworks.com/) | Next-Gen Omni-Path (OPX) Hochleistungs-Interconnects & Exascale-KI-Netzwerke |
+| [xLight](https://xlight.inc/) | 150 Mio. $ CHIPS Act FEL-basierte EUV-Lithografie (Ziel 2028), Fermilab SRF/Kryomodul-CRADA, Albany NanoTech Prototyp, versorgungsskalige Multi-Scanner-FEL-Architektur & Pat Gelsinger Vorstandsleitung |
 
 #### Energie, Versorgungsunternehmen & Kritische Materialien
 | Organisation | Primärer Beitrag |
 | :--- | :--- |
-| Albemarle | Lithiumextraktion, Raffinationstechnologien, Festkörperbatteriematerial-F&E & Lieferkettensicherheit |
-| ComEd | Smart-Grid-Integration, Quanten-in-the-Loop-Leistungsflusssimulation & urbane digitale Netzzwillinge |
-| EPRI | Elektrizitätsforschungskoordination, KI-Netzsimulations-Toolkits & SMR-Kernreaktorlizenzierung |
-| ISO New England | Regionaler Stromnetz-Dispatch, dynamische Übertragungsstabilität & quantensichere Cybersicherheit |
-| Tennessee Valley Authority (TVA) | Größter öffentlicher US-Energieversorger, ORNL/Y-12 CFE-MOU (100 % kohlenstofffrei bis 2030), Clinch River SMR, Frontier-Stromversorgung, Bull Run Fusionsmaterial-Testanlage & Exascale-Reaktor-Co-Simulation |
-| GE Aerospace | Fortschrittlicher Luft- und Raumfahrtantrieb, Keramikmatrix-Verbundwerkstoffe (CMCs) & Verbrennungs-CFD |
-| MP Materials | Abbau seltener Erden (Mountain Pass), NdPr-Magnetherstellung & KI-Mineraltrennung |
-| Phoenix Tailings | Abfallfreie Extraktion kritischer Mineralien aus Bergbau-Rückständen & saubere Raffination |
-| PMT Critical Metals | Verarbeitung von Refraktärmetallen, Lieferkettenmanagement strategischer Mineralien & Metallurgie |
-| Critical Materials Recycling | Rückgewinnung seltener Erden, geschlossener Mineralienkreislauf & E-Schrott-Recycling |
-| Niron Magnets | Magnetherstellung ohne seltene Erden ($Fe_{16}N_2$) & Material-Co-Design |
-| Ramaco | Kohle-zu-Materialien-Herstellung, synthetische Graphitanodenproduktion & REE-Extraktion (Brook Mine) |
-| Nusano | Mehrteilchen-Linearbeschleunigerplattform für medizinische & industrielle Radioisotopenproduktion |
-| SHINE Technologies | Kernbrennstoff-Recycling-KI & medizinische Radioisotopenproduktion; wässrige radiochemische Trennung & Fusions-Neutronenquellen |
+| [Albemarle](https://www.albemarle.com/) | Lithiumextraktion, Raffinationstechnologien, Festkörperbatteriematerial-F&E & Lieferkettensicherheit |
+| [ComEd](https://www.comed.com/) | Smart-Grid-Integration, Quanten-in-the-Loop-Leistungsflusssimulation & urbane digitale Netzzwillinge |
+| [EPRI](https://www.epri.com/) | Elektrizitätsforschungskoordination, KI-Netzsimulations-Toolkits & SMR-Kernreaktorlizenzierung |
+| [ISO New England](https://www.iso-ne.com/) | Regionaler Stromnetz-Dispatch, dynamische Übertragungsstabilität & quantensichere Cybersicherheit |
+| [Tennessee Valley Authority (TVA)](https://www.tva.gov/) | Größter öffentlicher US-Energieversorger, ORNL/Y-12 CFE-MOU (100 % kohlenstofffrei bis 2030), Clinch River SMR, Frontier-Stromversorgung, Bull Run Fusionsmaterial-Testanlage & Exascale-Reaktor-Co-Simulation |
+| [GE Aerospace](https://www.geaerospace.com/) | Fortschrittlicher Luft- und Raumfahrtantrieb, Keramikmatrix-Verbundwerkstoffe (CMCs) & Verbrennungs-CFD |
+| [MP Materials](https://mpmaterials.com/) | Abbau seltener Erden (Mountain Pass), NdPr-Magnetherstellung & KI-Mineraltrennung |
+| [Phoenix Tailings](https://www.phoenixtailings.com/) | Abfallfreie Extraktion kritischer Mineralien aus Bergbau-Rückständen & saubere Raffination |
+| [PMT Critical Metals](https://www.pmtmetals.com/) | Verarbeitung von Refraktärmetallen, Lieferkettenmanagement strategischer Mineralien & Metallurgie |
+| [Critical Materials Recycling](https://criticalmaterialsrecycling.com/) | Rückgewinnung seltener Erden, geschlossener Mineralienkreislauf & E-Schrott-Recycling |
+| [Niron Magnets](https://nironmagnets.com/) | Magnetherstellung ohne seltene Erden ($\text{Fe}_{16}\text{N}_2$) & Material-Co-Design |
+| [Ramaco](https://ramacoresources.com/) | Kohle-zu-Materialien-Herstellung, synthetische Graphitanodenproduktion & REE-Extraktion (Brook Mine) |
+| [Nusano](https://nusano.com/) | Mehrteilchen-Linearbeschleunigerplattform für medizinische & industrielle Radioisotopenproduktion |
+| [SHINE Technologies](https://shinetechnologies.com/) | Kernbrennstoff-Recycling-KI & medizinische Radioisotopenproduktion; wässrige radiochemische Trennung & Fusions-Neutronenquellen |
 
 #### Laborautomatisierung & Spezialtechnologie
 | Organisation | Primärer Beitrag |
 | :--- | :--- |
-| Emerald Cloud Lab | Cloud-basierte robotische Laborautomatisierung, Remote-API-gestützte Experimentausführung & FAIR-Datensätze |
-| Chemspeed | Automatisierte chemische Syntheseplattformen, robotische Dosierung & geschlossene KI-Experimente |
-| OLI Systems | Thermodynamische Chemie-Simulations-Engines, Elektrolytmodellierung & Hydrometallurgie-Löser |
-| RadiaSoft | Open-Source-Teilchenbeschleuniger-Simulationssoftware (Sirepo, Radia), Cloud-GUIs & Strahlemittanzsteuerung |
-| Atomic Canyon | KI-gestützte Kernenergieforschungsplattformen, Suche in Regulierungsdokumenten (**NeutronAI**) & Wissensgraphen |
-| Qubit | Steuerungssoftware für Quantencomputing, Puls-Kalibrierung & hybrid-klassisch-quantenmechanische Algorithmen |
-| TdVib | Terfenol-D Riesen-Magnetostriktionslegierung (Ames-Lab-Co-Entwicklung), strahlungstolerante SHM-Sensoren, Präzisions-Strahlrohr-Aktuatoren & QPU-Schwingungsisolation |
-| Esri | Enterprise GIS-Plattformen, räumliche Analytics-Engines & räumliche digitale Zwillinge für die Erdforschung |
-| Accenture Federal Services | CM2US-Betriebsfähigkeit, Bundes-KI-Systemintegration & behördenübergreifendes Programmmanagement |
-| CoreWeave | Spezialisierte Cloud-GPU-Infrastruktur, hochdichte KI-Cluster & InfiniBand-Netzwerkstrukturen |
-| Databricks | Databricks Data Intelligence Platform, Delta-Lake-Enklaven & FAIR-Daten-Lakehouse-Pipelines |
-| Dataera.ai | KI-Dateninfrastrukturplattform, automatisierte Datensatzkurationsmotoren & synthetische Datenpipelines |
-| Veritone | Enterprise KI-Plattform (aiWARE), multimodale Datenerfassung & semantische Suchmaschinen |
+| [Emerald Cloud Lab](https://www.emeraldcloudlab.com/) | Cloud-basierte robotische Laborautomatisierung, Remote-API-gestützte Experimentausführung & FAIR-Datensätze |
+| [Chemspeed](https://www.chemspeed.com/) | Automatisierte chemische Syntheseplattformen, robotische Dosierung & geschlossene KI-Experimente |
+| [OLI Systems](https://olisystems.com/) | Thermodynamische Chemie-Simulations-Engines, Elektrolytmodellierung & Hydrometallurgie-Löser |
+| [RadiaSoft](https://www.radiasoft.net/) | Open-Source-Teilchenbeschleuniger-Simulationssoftware (Sirepo, Radia), Cloud-GUIs & KI-Strahlemittanzsteuerung |
+| [Atomic Canyon](https://www.atomiccanyon.com/) | KI-gestützte Kernenergieforschungsplattformen, Suche in Regulierungsdokumenten (NeutronAI) & Wissensgraphen |
+| [Qubit](https://qubit.com/) | Steuerungssoftware für Quantencomputing, Puls-Kalibrierung & hybrid-klassisch-quantenmechanische Algorithmen |
+| [TdVib](https://www.tdvib.com/) | Terfenol-D Riesen-Magnetostriktionslegierung (Ames-Lab-Co-Entwicklung), strahlungstolerante SHM-Sensoren, Präzisions-Strahlrohr-Aktuatoren & QPU-Schwingungsisolation |
+| [Esri](https://www.esri.com/) | Enterprise GIS-Plattformen, räumliche Analytics-Engines & räumliche digitale Zwillinge für die Erdforschung |
+| [Accenture Federal Services](https://www.accenture.com/) | CM2US-Betriebsfähigkeit, Bundes-KI-Systemintegration & behördenübergreifendes Programmmanagement |
+| [CoreWeave](https://www.coreweave.com/) | Spezialisierte Cloud-GPU-Infrastruktur, hochdichte KI-Cluster & InfiniBand-Netzwerkstrukturen |
+| [Databricks](https://www.databricks.com/) | Databricks Data Intelligence Platform, Delta-Lake-Enklaven & FAIR-Daten-Lakehouse-Pipelines |
+| [Dataera.ai](https://dataera.ai/) | KI-Dateninfrastrukturplattform, automatisierte Datensatzkurationsmotoren & synthetische Datenpipelines |
+| [Edison Scientific](https://www.edisonscientific.com/) | AI Co-Scientist Basismodelle, Multi-Agenten-Schlussfolgerung & automatisierte Hypothesengenerierung |
+| [Periodic Labs](https://www.periodiclabs.com/) | KI-gestützte Materialentdeckungsagenten & automatisierte anorganische Synthese mit hohem Durchsatz |
+| [Reflection AI](https://www.reflection.ai/) | Fortschrittliche KI-Schlussfolgerungsarchitekturen & offene wissenschaftliche LLMs |
+| [Veritone](https://www.veritone.com/) | Enterprise KI-Plattform (aiWARE), multimodale Datenerfassung & semantische Suchmaschinen |
 
 ### A.4 Quantencomputing- & Modalitätsentwickler
 
+Diese Organisationen verfügen über CHIPS Act Absichtserklärungen und/oder DOE-Quantenforschungsförderungen, die gemeinsam sieben verschiedene Qubit-Modalitäten abdecken. Detaillierte technische Profile finden Sie in den Abschnitten 2.2 und 3.1.
+
 | Organisation | Modalität | CHIPS Act LOI |
 | :--- | :--- | :--- |
-| IBM / IBM Quantum | Supraleitend (Transmon) | 1 Milliarde US-Dollar |
-| Rigetti Computing | Supraleitend (kachelbar Multi-Chip) | Bis zu 100 Millionen US-Dollar |
-| D-Wave Quantum | Supraleitend (Annealing + Gatter-Modell) | 100 Millionen US-Dollar |
-| Quantinuum | Ionenfallen | 100 Millionen US-Dollar |
-| PsiQuantum | Photonisch | 100 Millionen US-Dollar |
-| Atom Computing | Neutrale Atome | 100 Millionen US-Dollar |
-| Infleqtion | Neutrale Atome | 100 Millionen US-Dollar |
-| Diraq | Silizium-Spin (CMOS Quantenpunkt) | Bis zu 38 Millionen US-Dollar |
-| GlobalFoundries | Modalitätsübergreifende Gießerei | 375 Millionen US-Dollar |
+| [IBM / IBM Quantum](https://www.ibm.com/quantum) | Supraleitend (Transmon) | 1 Milliarde US-Dollar |
+| [Rigetti Computing](https://www.rigetti.com/) | Supraleitend (kachelbar Multi-Chip) | Bis zu 100 Millionen US-Dollar |
+| [D-Wave Quantum](https://www.dwavesys.com/) | Supraleitend (Annealing + Gatter-Modell) | 100 Millionen US-Dollar |
+| [Quantinuum](https://www.quantinuum.com/) | Ionenfallen | 100 Millionen US-Dollar |
+| [PsiQuantum](https://psiquantum.com/) | Photonisch | 100 Millionen US-Dollar |
+| [Atom Computing](https://atom-computing.com/) | Neutrale Atome | 100 Millionen US-Dollar |
+| [Infleqtion](https://www.infleqtion.com/) | Neutrale Atome | 100 Millionen US-Dollar |
+| [Diraq](https://www.diraq.com/) | Silizium-Spin (CMOS Quantenpunkt) | Bis zu 38 Millionen US-Dollar |
+| [GlobalFoundries](https://gf.com/) | Modalitätsübergreifende Gießerei | 375 Millionen US-Dollar |
 
 ### A.5 Forschungsuniversitäten & Akademische Institutionen
 
@@ -903,10 +913,18 @@ Die Genesis-Mission zeichnet sich durch die Breite ihrer sektorübergreifenden K
 
 | Organisation | Primärer Beitrag zur Genesis-Mission |
 | :--- | :--- |
-| AI Tennessee Initiative | Bundesweite KI-Forschungskoordination (UT System / ORNL), Exascale-KI-Arbeitskräfteentwicklung & AgTech-KI |
-| RTI International | Umweltrisiko-KI-Modellierung, Skalierung von Technologien zur Kohlenstoffabscheidung & Lebenszyklusanalysen |
-| Cleveland Clinic | ORNL–Cleveland Clinic–IBM FLiBe-Fusionsquantenchemie-Pipeline, Quanten-Gesundheits-KI & Bio-Entdeckungen |
-| Johns Hopkins University APL (JHU APL) | Autonome selbstfahrende Materialsyntheselabore (MSFT Discovery Partner), Legierungen & Verteidigungswissenschaft |
+| [AI Tennessee Initiative](https://www.aitennessee.ai/) | Bundesweite KI-Forschungskoordination (UT System / ORNL), Exascale-KI-Arbeitskräfteentwicklung & AgTech-KI |
+| [RTI International](https://www.rti.org/) | Umweltrisiko-KI-Modellierung, Skalierung von Technologien zur Kohlenstoffabscheidung, Lebenszyklusanalysen & Bereitstellung sauberer Energie |
+| [Cleveland Clinic](https://my.clevelandclinic.org/) | ORNL–Cleveland Clinic–IBM FLiBe-Fusionsquantenchemie-Pipeline, Quanten-Gesundheits-KI & biomedizinische Entdeckungen |
+| [Johns Hopkins University APL (JHU APL)](https://www.jhuapl.edu/) | Autonome selbstfahrende Materialsyntheselabore (MSFT Discovery Partner), Legierungen für extreme Umgebungen & Verteidigungswissenschaft |
+| [Foundation for Energy Security and Innovation (FESI)](https://fesi.org/) | Gesetzlich festgelegte gemeinnützige DOE-Stiftung, Beschleunigung öffentlich-privater Partnerschaften & Technologietransfer |
+| [Renaissance Philanthropy](https://www.renaissancephilanthropy.org/) | Katalytische wissenschaftliche Philanthropie, Venture-Forschungsstipendien & KI-für-die-Wissenschaft-Beschleunigung |
+| [Schmidt Sciences](https://www.schmidtsciences.org/) | Gemeinnützige Forschungsstipendienstiftung, KI-für-die-Wissenschaft-Fellowships & offene wissenschaftliche Modell-Grants |
+| [Illinois Quantum & Microelectronics Park (IQMP)](https://iqmp.org/) | Regionales Quanten-Co-Design-Testfeld, Mikroelektronik-Campus & PsiQuantum QPU-Einsatzort |
+| [Kansas City National Security Campus (KCNSC)](https://kcnsc.doe.gov/) | NNSA-Mikroelektronikfertigung, KI-Qualitätssicherung & digitale Zwillinge für Lagerstättenkomponenten |
+| [Nevada National Security Sites (NNSS)](https://www.nnss.gov/) | Subkritische Nuklearexperiment-Diagnostik, Hochgeschwindigkeits-Optiksensoren & Physik-KI-Modellierung |
+| [Pantex Plant](https://pantex.energy.gov/) | NNSA-Nuklearkomponentenmontage, Hochprengstofffertigung & Stockpile-Stewardship-KI |
+| [Savannah River Site (SRS)](https://www.srs.gov/) | NNSA-Nuklearmaterial-Campus, Zentrum für KI-beschleunigte Innovation & ALTEMIS Umwelt-KI |
 
 ---
 
