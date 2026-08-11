@@ -325,6 +325,7 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
   * [LANL Joining the AI Computing Revolution](https://www.lanl.gov/media/news/1124-ai-computing-revolution)
   * [UC AI Summit Coverage](https://www.lanl.gov/media/news/0708-uc-ai-summit)
   * [1663 Magazine: What Next for QUBITS?](https://www.lanl.gov/media/publications/1663/0624-what-next-for-qubits)
+  * [Los Alamos National Laboratory About Portal](https://www.lanl.gov/about)
 * **National Energy Technology Laboratory (NETL):** 
   * [AI-Driven Research to Strengthen Grid, Supply Chains, and Tech Leadership](https://www.netl.doe.gov/newsroom/news-releases/news-details?id=28828854-4fb0-4660-8fdd-b2861e695be2)
   * [NETL Genesis Mission Node Coverage](https://www.netl.doe.gov/node/15121)

@@ -5,6 +5,15 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [2.4.51] - 2026-08-11
+
+### Changed
+- **Reference Integration & Master Processing (`references.md` & `reference_coverage.md`)**: Formatted and integrated Los Alamos National Laboratory's official About portal ([`Los Alamos National Laboratory About Portal`](https://www.lanl.gov/about), `www.lanl.gov`) into Section 5 under Los Alamos National Laboratory, registering it as Master Index Entry #281 and processing its status to `Processed` (**433 / 433 Processed, 100% Complete**).
+- **Research Paper Enrichment (`README.md` & `README.de.md`)**: Enriched §3.2 (Los Alamos National Laboratory profile) in both English and German paper editions with details on operating the U.S.'s sole full-capability plutonium facility (PF-4), Crossroads exascale compute, and Triad National Security, LLC NNSA management.
+- **Version Bump**: Incremented patch version string to `2.4.51` in `README.md` and `README.de.md`.
+
+---
+
 ## [2.4.50] - 2026-08-11
 
 ### Changed
