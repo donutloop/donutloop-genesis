@@ -255,6 +255,7 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
   * [Argonne National Laboratory: Genesis Open Models Platform & Scientific Model Repository](https://genesisopenmodels.anl.gov/)
   * [GridMind: Powering the Control Room of the Future with AI Agents](https://www.anl.gov/article/gridmind-powering-the-control-room-of-the-future-with-ai-agents)
   * [Data Analysis at the Speed of Light Source Experiments](https://www.anl.gov/article/data-analysis-at-the-speed-of-light-source-experiments)
+  * [Argonne Researchers to Develop Learning-Based Robots as Step Toward a Scientific Assistant](https://www.anl.gov/article/argonne-researchers-to-develop-learningbased-robots-as-step-toward-a-scientific-assistant)
 * **Berkeley Lab (LBNL):** 
   * [Genesis Mission Hub & Scientific Strategy](https://www.lbl.gov/genesis-mission/)
   * [Genesis Mission Projects Directory](https://www.lbl.gov/genesis-mission-projects/)
