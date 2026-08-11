@@ -234,7 +234,7 @@
 | 160 | [University of North Dakota (UND)](https://und.edu/) | ✅ Full Profile | §3.3, A.5 | 2 Genesis awards: rare earth mineral extraction from coal ash & autonomous energy AI |
 | 161 | [University of Pittsburgh](https://www.pitt.edu/) | ✅ Full Profile | §3.3, A.5 | Computational drug discovery foundation models, vascular bio-foundries & SciML |
 | 162 | [University of Southern California (USC)](https://usc.edu/) | ✅ Full Profile | §3.3, A.5 | Quantum annealing algorithms, microelectronics reliability & autonomous AI agents |
-| 163 | [University of Texas at Arlington](https://www.uta.edu/) | ❌ Not Covered | - | DOE Genesis Mission award for scientific AI trustworthiness (reference only) |
+| 163 | [University of Texas at Arlington](https://www.uta.edu/) | ✅ Full Profile | §3.3, A.5 | DOE Genesis Mission award for real-time AI trust & resilience in EPICS control workflows (LANL partner) |
 | 164 | [University of Texas at Austin](https://www.utexas.edu/) | ✅ Full Profile | §3.3, A.5 | Microelectronics lithography modeling, exascale AI model optimization & power grid AI |
 | 165 | [University of Utah](https://www.utah.edu/) | ✅ Full Profile | §3.3, A.5 | Geothermal energy reservoir simulation, net-zero carbon fuels & materials informatics |
 | 166 | [University of Wisconsin–Madison](https://www.wisc.edu/) | ✅ Full Profile | §3.3, A.5 | Fusion plasma stellarator physics, quantum dot QPU architectures & clean energy AI |
@@ -268,17 +268,17 @@
 | Industry Partners | 75 | 75 | 0 | 0 |
 | Federal Agencies | 10 | 10 | 0 | 0 |
 | National Laboratories & Defense Sites | 22 | 22 | 0 | 0 |
-| Universities | 61 | 60 | 0 | 1 |
+| Universities | 61 | 61 | 0 | 0 |
 | Philanthropy & Regional Hubs | 9 | 9 | 0 | 0 |
-| **Total** | **177** | **176** | **0** | **1** |
+| **Total** | **177** | **177** | **0** | **0** |
 
 ### By Coverage Level
 
 | Coverage Level | Count | Percentage |
 |:---|:---:|:---:|
-| ✅ Full Profile | 176 | 99.4% |
+| ✅ Full Profile | 177 | 100% |
 | 📋 Brief Mention | 0 | 0.0% |
-| ❌ Not Covered | 1 | 0.6% |
+| ❌ Not Covered | 0 | 0.0% |
 | **Total Entities** | **177** | **100%** |
 
-> **Note:** 176 of 177 tracked Genesis Mission ecosystem participants have dedicated, detailed technical write-ups (including 100% of all 75 industry partners, 22 national lab/defense sites, and 10 federal agencies). 1 newly referenced entity (University of Texas at Arlington) has been indexed via `references.md` and awaits full profile integration into the README papers. The broader sub-grantee network of 342 participating institutions represents secondary academic and sub-contractor nodes across the 278 national project awards.
+> **Note:** All 177 tracked Genesis Mission ecosystem participants have dedicated, detailed technical write-ups (achieving 100% full profile coverage across all 75 industry partners, 22 national lab/defense sites, 61 research universities, 10 federal agencies, and 9 philanthropy/regional hubs). The broader sub-grantee network of 342 participating institutions represents secondary academic and sub-contractor nodes across the 278 national project awards.

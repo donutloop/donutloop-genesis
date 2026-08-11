@@ -4,6 +4,16 @@ All notable changes to the Genesis Mission documentation repository will be docu
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
+## [2.1.27] - 2026-08-11
+
+### Changed
+- **Ecosystem Coverage Milestone (100% Full Profile Coverage Achieved)**: Upgraded **University of Texas at Arlington (UTA)** (Row 163) from `❌ Not Covered` to `✅ Full Profile` under Section 3.3 (`Research Universities & Academic Partners`) in `README.md` and `README.de.md`.
+- **Research Paper Updates (`README.md` & `README.de.md`)**: Enriched §3.3 academic profiles with technical details on UT Arlington's $750,000 DOE Genesis Mission award under DE-FOA-0003612 (*"Real-Time Trust and Resilience for AI-Driven EPICS Scientific Workflows"*, led by Dr. Habeeb Olufowobi with Los Alamos National Laboratory, UCCS, WSU, and Metro State), constructing a real-time trust and resilience monitoring layer for the EPICS platform across DOE scientific user facilities to detect and mitigate corrupted AI control outputs in sub-millisecond execution loops. Ensured complete German paper parity (`README.de.md`).
+- **Ecosystem Coverage Tracker (`coverage.md`)**: Upgraded UT Arlington status to `✅ Full Profile`. **Achieved 100% Full Profile Coverage** across all 177 tracked Genesis Mission consortium entities (75 industry partners, 22 national lab/defense sites, 61 research universities, 10 federal agencies, and 9 philanthropy/regional hubs).
+- **Version Bump**: Incremented patch version string to `2.1.27` in `README.md` and `README.de.md`.
+
+---
+
 ## [2.1.26] - 2026-08-11
 
 ### Changed
