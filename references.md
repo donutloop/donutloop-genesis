@@ -234,6 +234,7 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
 * DOE Interactive Portal: [Genesis Mission Official Interactive Demonstration Hub](https://www.energy.gov/genesis-mission-demonstration)
 * [Domino Data Lab: Domino Joins Genesis Mission Consortium](https://domino.ai/press-releases/genesis-consortium)
 * [NSF: New NSF Initiative Aims to Unlock Dataset Value for AI-Enabled Research](https://www.nsf.gov/news/new-nsf-initiative-aims-unlock-dataset-value-ai-enabled)
+* [NSF: Unlocking Dataset Value for AI-Enabled Scientific Discovery (AI Datasets)](https://www.nsf.gov/funding/opportunities/ai-datasets-unlocking-dataset-value-ai-enabled-scientific-discovery)
 * [NSF: Dear Colleague Letter on Unleashing a New Age of AI-Enabled Scientific Discovery](https://www.nsf.gov/funding/information/dcl-unleashing-new-age-ai-enabled-scientific-discovery-through)
 * [NSF Science Matters: NSF in 2025: Keeping U.S. Scientific Research and Innovation on the Cutting Edge](https://www.nsf.gov/science-matters/nsf-2025-keeping-us-scientific-research-innovation-cutting)
 * [Granted AI: NSF's Genesis Mission (Phase I) (2026)](https://grantedai.com/grants/nsf-s-genesis-mission-phase-i-u-s-department-of-energy-doe-b40c5a53)

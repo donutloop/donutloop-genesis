@@ -5,6 +5,16 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.0.48] - 2026-08-12
+
+### Added
+- **Processed NSF AI Datasets Funding Opportunity Reference**: Processed reference link `https://www.nsf.gov/funding/opportunities/ai-datasets-unlocking-dataset-value-ai-enabled-scientific-discovery` (*Unlocking Dataset Value for AI-Enabled Scientific Discovery (AI Datasets)*), adding entry to [`references.md`](file:///home/donutloop/Workspace/donutloop-genesis/references.md#L237) Section 4 under Executive, Federal & Partner Announcements.
+- **Master Index Audit**: Registered Master Index Entry `#91` in [`reference_coverage.md`](file:///home/donutloop/Workspace/donutloop-genesis/reference_coverage.md) (updating total metrics to **471 / 471 Processed**, 100% Complete across 222 unique target domains with 454 Web/News items) and renumbered downstream index rows `#92` to `#471`.
+- **Enriched Section 1.3 in English & German Papers**: Integrated NSF AI Datasets funding opportunity details for AI-based feature extraction, metadata generation, and data pipelines connecting with the Genesis Mission platform in [`README.md`](file:///home/donutloop/Workspace/donutloop-genesis/README.md#L78) and [`README.de.md`](file:///home/donutloop/Workspace/donutloop-genesis/README.de.md#L76).
+- **Version Bump**: Incremented version string to `3.0.48` across [`README.md`](file:///home/donutloop/Workspace/donutloop-genesis/README.md) and [`README.de.md`](file:///home/donutloop/Workspace/donutloop-genesis/README.de.md).
+
+---
+
 ## [3.0.47] - 2026-08-12
 
 ### Added
