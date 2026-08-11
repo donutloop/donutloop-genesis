@@ -5,6 +5,15 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [2.2.4] - 2026-08-11
+
+### Changed
+- **Reference Index Processing (Entry #251 - ORNL Low-Energy AI Scientific Discovery)**: Processed master reference index Entry #251 ([www.ornl.gov/project/low-energy-ai-scientific-discovery](https://www.ornl.gov/project/low-energy-ai-scientific-discovery)). Enriched **Oak Ridge National Laboratory (ORNL)** profiles in Section 3.2 of `README.md` and `README.de.md` with technical details on ORNL's ultra-low-power scientific AI discovery framework, co-designing energy-aware neural architecture pruning, spiking neural models, and neuromorphic edge acceleration to minimize energy consumption during exascale foundation model inference and autonomous lab workflows.
+- **Master Reference Coverage Update (`reference_coverage.md`)**: Updated Entry #251 status from `Unprocessed` to `Processed` in `reference_coverage.md`, raising total processing status metric to **373 / 378 Processed** (5 Unprocessed links remaining).
+- **Version Bump**: Incremented patch version string to `2.2.4` in `README.md` and `README.de.md`.
+
+---
+
 ## [2.2.3] - 2026-08-11
 
 ### Changed
