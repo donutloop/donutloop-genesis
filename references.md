@@ -464,6 +464,7 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
   * [Selected for Department of Energy Genesis Mission Initiative](https://news.umich.edu/u-m-selected-for-department-of-energy-genesis-mission-initiative/)
   * [The University Record: U-M Selected for Department of Energy Genesis Mission Initiative](https://record.umich.edu/articles/u-m-selected-for-department-of-energy-genesis-mission-initiative/)
   * [U-M Researchers to Develop AI Tools for Real-Time 3D X-Ray Imaging Under Genesis Mission](https://news.umich.edu/u-m-researchers-to-develop-ai-tools-for-real-time-3d-xray-imaging-under-genesis-mission/)
+  * [University of Michigan Office of Research: Genesis Mission Portal](https://research.umich.edu/office-of-national-labs/genesis-mission/)
 * **University of Minnesota:** [Receives DOE Genesis Mission Funding to Advance AI Breakthroughs](https://twin-cities.umn.edu/news-events/university-minnesota-receives-doe-genesis-mission-funding-advance-ai-breakthroughs)
 * **University of Missouri (Mizzou):**
   * [Mizzou Engineering-Led Team Selected for Inaugural Mission](https://engineering.missouri.edu/2026/mizzou-led-team-selected-for-u-s-department-of-energys-inaugural-genesis-mission/)
