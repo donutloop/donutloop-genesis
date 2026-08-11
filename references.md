@@ -238,6 +238,7 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
 * [NSF: Dear Colleague Letter on Unleashing a New Age of AI-Enabled Scientific Discovery](https://www.nsf.gov/funding/information/dcl-unleashing-new-age-ai-enabled-scientific-discovery-through)
 * [NSF Science Matters: NSF in 2025: Keeping U.S. Scientific Research and Innovation on the Cutting Edge](https://www.nsf.gov/science-matters/nsf-2025-keeping-us-scientific-research-innovation-cutting)
 * [National Science Board (NSB): Extraordinary Possibility — Next Generation NSF & Genesis Mission Strategic Partnership](https://www.nsf.gov/nsb/updates/extraordinary-possibility)
+* [NSF: New NSF State and Regional AI Infrastructure Hubs Will Power AI-Enabled Scientific Research Across the Country ($100M Initiative)](https://www.nsf.gov/news/new-nsf-state-regional-ai-infrastructure-hubs-will-power-ai)
 * [NSF NOIRLab: Scientists Release Biggest 2D Map of the Universe (DESI Legacy Imaging Surveys)](https://noirlab.edu/public/news/noirlab2620/)
 * [Newswise: Scientists Release Biggest 2D Map of the Universe (DESI Legacy Imaging Surveys)](https://www.newswise.com/articles/scientists-release-biggest-2d-map-of-the-universe2)
 * [Granted AI: NSF's Genesis Mission (Phase I) (2026)](https://grantedai.com/grants/nsf-s-genesis-mission-phase-i-u-s-department-of-energy-doe-b40c5a53)
