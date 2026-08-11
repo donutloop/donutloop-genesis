@@ -1,4 +1,4 @@
-**Version**: 2.4.53
+**Version**: 2.4.54
 
 # Die Genesis-Mission: Architektur, strategische Initiativen und das multi-institutionelle Ökosystem für KI- und quantengetriebene wissenschaftliche Entdeckungen
 
@@ -132,8 +132,13 @@ Die Genesis-Mission arbeitet über eine vierstufige Architekturtopologie, die ho
                       +-------------------------------------------------------------+
 ```
 
-Die strategische Ausrichtung geht vom White House OSTP und dem Interagency Council aus und fließt direkt in zwei primäre technische Gießereien:
+Die strategische Ausrichtung geht von exekutiven Entscheidungsgremien aus und fließt durch vier operative Ebenen:
 
+#### Stufe 1: Exekutiv- & Behördenübergreifende Governance-Schicht
+* **Politikmandat & Ausrichtung**: Geleitet vom White House OSTP und dem DOE, unter Koordination von 15+ Bundesbehörden (DOC/NIST, NSF, NIH/HHS, Verteidigungsministerium/DOD, DHS S&T, NASA, DOI, USDA, AAU).
+* **Ausführungsrichtlinien**: Setzt 90-Tage-Aktionspläne bei OMB/OSTP, sicheres GSA OneGov Single-Sign-On, Zero-Trust-Cybersicherheit, ITAR/EAR-Exportkontrollen und behördenübergreifende Ressourcenföderation durch.
+
+#### Stufe 2: Zweifache Gießereien & Recheninfrastruktur-Substrat
 1. **Quantenführung & Mikroelektronik-Gießereien:**
    - *Quantenmandat & Grants*: Verwaltet die 2-Milliarden-Dollar-Quanteninitiative des DOE (Ziel: 150–250 logische Qubits bis 2028 über den DOE Q Wettbewerb und QC-ADDS).
    - *CHIPS Act LOIs & Gießereien*: Verwaltet 2,013 Milliarden US-Dollar an CHIPS Act LOIs über 7 QPU-Modalitäten für heimische 300mm-Quantenwafer-Gießereien (IBM Anderon in Albany NY, GlobalFoundries Quantum Technology Solutions in Malta NY und Essex Junction VT).
@@ -141,16 +146,24 @@ Die strategische Ausrichtung geht vom White House OSTP und dem Interagency Counc
 
 2. **KI für Wissenschaft & Hochleistungsrechnen-Netz:**
    - *Ausschreibung & Erstförderung*: Steuert DE-FOA-0003612-Förderungen (293 Mio. $ Ausschreibung / 800 Mio. $+ Partner-Match).
-   - *Exascale-Supercomputing-Struktur*: Orchestriert Exascale-Supercomputer (*Frontier*, *Aurora*, *El Capitan*) und spezialisierte KI-Knoten (*Lux* mit AMD MI355X; *Solstice* und *Equinox* mit NVIDIA/OCI; *Doudna* und *Cech* am LBNL; *Crossroads*, *Mission* und *Vision* am LANL).
+   - *Exascale-Supercomputing-Struktur*: Orchestriert Exascale-Supercomputer (*Frontier*, *Aurora*, *El Capitan*).
+   - *Hochdichte KI-Knoten*: Betreibt spezialisierte KI-Supercomputer (*Lux* mit AMD MI355X; *Solstice* und *Equinox* mit NVIDIA/OCI; *Doudna* und *Cech* am LBNL; *Crossroads*, *Mission* und *Vision* am LANL).
    - *Beschleuniger & Datenautobahnen*: Wafer-Scale-Prozessoren (Cerebras WSE-3), rekombinierbare Datenfluss-Einheiten (SambaNova SN40L), deterministische LPU-Siliziumbeschleuniger (Groq LPU), Speicher mit hoher Bandbreite (Micron HBM3e/HBM4) und 83 Mio. $ an NSF FAIR-Datenautobahnen.
 
-Diese Gießereien konvergieren in der **Föderierten behördenübergreifenden Orchestrierungsschicht**, angetrieben durch:
-- **American Science Cloud & Security Platform (AmSC)** (`amsc.energy.gov`): Föderierte Datenplattform.
-- **Transformational AI Models Consortium (ModCon)**: Nationales Leitungsgremium für wissenschaftliche Basismodelle.
-- **Genesis Open Models Repository** ([`genesisopenmodels.anl.gov`](https://genesisopenmodels.anl.gov/)): Zentrales offenes Modell- und Inferenzregister am Argonne National Laboratory.
-- **SPOTTER-AI Bedrohungsverfolgungsarchitektur**: System für wissenschaftliche Provenienz und Bedrohungszuordnung.
+#### Stufe 3: Föderierte behördenübergreifende Orchestrierungsschicht
+* **American Science Cloud & Security Platform (AmSC)** ([amsc.energy.gov](https://amsc.energy.gov/)): Föderierte Zero-Trust-Datenzugriffs- und Identitätsplattform für 32 wissenschaftliche Nutzeranlagen.
+* **Transformational AI Models Consortium (ModCon)**: Nationales Leitungsgremium für wissenschaftliche KI-Basismodelle.
+* **High Performance Data Facility (HPDF)**: Leitender Daten-Hub (TJNAF/LBNL) zur Echtzeit-Erfassung von Synchrotrons (NSLS-II, LCLS-II), Tokamaks (DIII-D, NSTX-U) und Teilchenbeschleunigern (LHC ATLAS).
+* **Orchestrated Platform for Autonomous Laboratories (OPAL)**: Multi-Labor-Experimentsteuerung über ORNL, LBNL, ANL und PNNL.
+* **Genesis Open Models Repository** ([`genesisopenmodels.anl.gov`](https://genesisopenmodels.anl.gov/)): Zentrales offenes Modell- und Inferenzregister am Argonne National Laboratory.
+* **SPOTTER-AI Bedrohungsverfolgungsarchitektur**: System für automatisierte wissenschaftliche Herkunfts- und Bedrohungsverfolgung.
 
-Die Ausführung erfolgt über **153 öffentlich-private-akademische Knoten** in 17 nationalen Laboratorien des DOE, 5 NNSA-Standorten, kommerziellen Cloud-Hyperscalern, Spitzen-KI-Entwicklern, EDA-/Chipherstellern und 58 ausgezeichneten Forschungsuniversitäten, die selbstfahrende Cloud-Laboratorien betreiben (z. B. University of Utah Price Engineering **AURORA Cloud Lab**, Emerald Cloud Lab, JHU APL).
+#### Stufe 4: Öffentlich-Private-Akademische Ausführungsknoten (153 Kernknoten)
+* **DOE Nationale Laboratorien & Verteidigungsstandorte (22 Knoten)**: 17 DOE National Labs (ANL, LBNL, ORNL, LLNL, INL, PNNL, BNL, SLAC, TJNAF, FNAL, Ames, NETL, NREL, PPPL, SRNL, LANL, SNL) + 5 NNSA-Verteidigungsstandorte (NNSS, KCNSC, Pantex, Y-12, WIPP).
+* **Cloud-Hyperscaler & Enterprise-IT (7 Knoten)**: AWS, Google Public Sector, Microsoft SPARK, Oracle Cloud, IBM, Groq, Domino Data Lab.
+* **Spitzen-KI-Entwickler (8 Knoten)**: Anthropic, OpenAI, Meta AI, Scale AI, Hugging Face, FutureHouse, LILA, Everstar.
+* **Industrie & Halbleiterführer (6 Knoten)**: Synopsys, Micron, Siemens, SHINE Technologies, Cornelis Networks, Albemarle.
+* **Akademische & Cloud Selbstfahrende Laboratorien (58 Knoten)**: 58 ausgezeichnete Forschungsuniversitäten, die autonome Cloud-Testbeds betreiben (z. B. University of Utah Price Engineering **AURORA Cloud Lab**, Emerald Cloud Lab, JHU APL, Cleveland Clinic FLiBe Pipeline).
 
 ### 1.3 Strategische Missionsziele
 

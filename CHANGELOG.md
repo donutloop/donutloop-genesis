@@ -5,6 +5,18 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [2.4.54] - 2026-08-11
+
+### Changed
+- **System Architecture Multi-Tier Redraft (`README.md` & `README.de.md`)**: Redrew and expanded Section 1.2 ("System Architecture & Strategic Flow" / "Systemarchitektur & Strategischer Ablauf") into an explicit 4-Tier structured layout matching the 4-tiered ASCII topology diagram:
+  - **Tier 1 (Executive & Interagency Governance Layer)**: Outlined policy directives, OSTP/DOE alignment across 15+ agencies, 90-day OMB/OSTP action plans, GSA OneGov SSO, and Zero-Trust protocols.
+  - **Tier 2 (Dual Foundries & Compute Infrastructure Substrate)**: Structured Foundries 1 & 2 into sub-bulleted breakdowns for DOE Quantum Genesis Initiative ($2B), CHIPS Act LOIs ($2.013B), IBM Anderon & GF QTS 300mm foundries, xLight EUV lithography, DE-FOA-0003612 ($293M / $800M+), exascale fabric (*Frontier*, *Aurora*, *El Capitan*), high-density AI nodes (*Lux*, *Solstice*, *Equinox*, *Doudna*, *Crossroads*, *Mission*, *Vision*), and hardware accelerators (Cerebras WSE-3, SambaNova SN40L, Groq LPU, Micron HBM3e/4, NSF $83M FAIR highways).
+  - **Tier 3 (Federated Interagency Orchestration Layer)**: Formatted core orchestration platforms into dedicated sub-bullets (**AmSC**, **ModCon**, **HPDF**, **OPAL**, **Genesis Open Models** `genesisopenmodels.anl.gov`, and **SPOTTER-AI**).
+  - **Tier 4 (Public-Private-Academic Execution Nodes)**: Categorized the 153 core nodes across 22 DOE/NNSA labs & defense sites, 7 hyperscalers/cloud platforms, 8 frontier AI developers, 6 industrial/EDA leaders, and 58 research universities operating self-driving cloud laboratories (**AURORA Cloud Lab**, Emerald Cloud Lab, JHU APL, Cleveland Clinic FLiBe).
+- **Version Bump**: Incremented patch version string to `2.4.54` in `README.md` and `README.de.md`.
+
+---
+
 ## [2.4.53] - 2026-08-11
 
 ### Changed

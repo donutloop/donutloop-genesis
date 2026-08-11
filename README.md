@@ -1,4 +1,4 @@
-**Version**: 2.4.53
+**Version**: 2.4.54
 
 # The Genesis Mission: Architecture, Strategic Initiatives, and the Multi-Institutional Ecosystem for AI and Quantum-Driven Scientific Discovery
 
@@ -133,25 +133,38 @@ The Genesis Mission operates through a four-tiered architectural topology that t
                       +-------------------------------------------------------------+
 ```
 
-Strategic direction originates from the White House OSTP and the Interagency Council, which flow directly into twin technical foundries:
+Strategic direction originates from executive policy bodies and flows down through four operational layers:
 
+#### Tier 1: Executive & Interagency Governance Layer
+* **Policy Mandate & Alignment**: Led by the White House OSTP and DOE, coordinating 15+ federal executive agencies (DOC/NIST, NSF, NIH/HHS, Department of War/DOD, DHS S&T, NASA, DOI, USDA, AAU).
+* **Execution Directives**: Enforces 90-day agency action plan submissions to OMB/OSTP, GSA OneGov secure single sign-on, Zero-Trust cybersecurity, ITAR/EAR export controls, and interagency resource federation.
+
+#### Tier 2: Dual Foundries & Compute Infrastructure Substrate
 1. **Quantum Leadership & Microelectronics Foundries:**
-   - *Quantum Mandate & Grants*: Manages the $2 Billion DOE Quantum Genesis Initiative (targeting 150–250 logical qubits by 2028 via the DOE Q Competition and QC-ADDS).
-   - *CHIPS Act LOIs & Onshore Wafer Foundries*: Administers $2.013 Billion in Department of Commerce CHIPS Act Letters of Intent (LOIs) across 7 QPU modalities, establishing domestic 300mm quantum wafer foundries (IBM Anderon in Albany, NY; GlobalFoundries Quantum Technology Solutions in Malta, NY and Essex Junction, VT).
-   - *EUV Lithography Sovereignty*: Deploys next-generation lithography via xLight's free-electron laser EUV prototype at Albany NanoTech with NIST & Fermilab SRF cryomodules.
+   - *Quantum Mandate & Grants*: Manages the $2 Billion DOE Quantum Genesis Initiative targeting 150–250 logical qubits by 2028 via the DOE Q Competition and QC-ADDS.
+   - *CHIPS Act LOIs & Onshore Foundries*: Administers $2.013 Billion in Department of Commerce CHIPS Act Letters of Intent (LOIs) across 7 QPU modalities, establishing domestic 300mm quantum wafer foundries (IBM Anderon in Albany, NY; GlobalFoundries Quantum Technology Solutions in Malta, NY and Essex Junction, VT).
+   - *Next-Gen EUV Lithography*: Deploys xLight's $150M free-electron laser EUV prototype at Albany NanoTech backed by NIST & Fermilab SRF cryomodules.
 
 2. **AI for Science & High-Performance Computing Grid:**
-   - *Solicitation & Match*: Directs DE-FOA-0003612 awards ($293 Million solicitation / $800 Million+ match).
-   - *Exascale Supercomputing Fabric*: Orchestrates exascale supercomputers (*Frontier* at ORNL, *Aurora* at ANL, *El Capitan* at LLNL) and specialized high-density AI supercomputing nodes (*Lux* with AMD MI355X; *Solstice* and *Equinox* with NVIDIA/OCI; *Doudna* and *Cech* at LBNL; *Crossroads*, *Mission*, and *Vision* at LANL).
-   - *Accelerators & Data Highways*: Integrates wafer-scale processors (Cerebras WSE-3), reconfigurable dataflow units (SambaNova SN40L), deterministic LPU silicon accelerators (Groq LPU), high-bandwidth memory (Micron HBM3e/HBM4), and $83 Million in NSF FAIR scientific data highways.
+   - *Solicitations & Co-Investment*: Directs DE-FOA-0003612 awards ($293 Million solicitation / $800 Million+ match).
+   - *Exascale Supercomputing Fabric*: Orchestrates premier exascale supercomputers (*Frontier* at ORNL, *Aurora* at ANL, *El Capitan* at LLNL).
+   - *High-Density AI Nodes*: Deploys specialized AI supercomputers (*Lux* with AMD MI355X; *Solstice* and *Equinox* with NVIDIA/OCI; *Doudna* and *Cech* at LBNL; *Crossroads*, *Mission*, and *Vision* at LANL).
+   - *Accelerators & Scientific Highways*: Integrates wafer-scale processors (Cerebras WSE-3), reconfigurable dataflow units (SambaNova SN40L), deterministic LPU silicon accelerators (Groq LPU), high-bandwidth memory (Micron HBM3e/HBM4), and $83 Million in NSF FAIR scientific data highways.
 
-These foundries converge into the **Federated Interagency Orchestration Layer**, powered by:
-- **American Science Cloud & Security Platform (AmSC)** (`amsc.energy.gov`): Federated data access platform.
-- **Transformational AI Models Consortium (ModCon)**: National scientific foundation model governing body.
-- **Genesis Open Models Repository** ([`genesisopenmodels.anl.gov`](https://genesisopenmodels.anl.gov/)): Central open scientific model and inference registry at Argonne National Laboratory.
-- **SPOTTER-AI Threat-Tracing Engine**: Scientific provenance and attribution architecture.
+#### Tier 3: Federated Interagency Orchestration Layer
+* **American Science Cloud & Security Platform (AmSC)** ([amsc.energy.gov](https://amsc.energy.gov/)): Zero-Trust interagency data access and identity federation platform linking 32 scientific user facilities.
+* **Transformational AI Models Consortium (ModCon)**: National governing body orchestrating domain-specialized scientific AI foundation models.
+* **High Performance Data Facility (HPDF)**: Lead data hub (TJNAF/LBNL) for real-time ingestion from synchrotrons (NSLS-II, LCLS-II), tokamaks (DIII-D, NSTX-U), and particle colliders (LHC ATLAS).
+* **Orchestrated Platform for Autonomous Laboratories (OPAL)**: Multi-lab experiment steering engine uniting ORNL, LBNL, ANL, and PNNL.
+* **Genesis Open Models Repository** ([`genesisopenmodels.anl.gov`](https://genesisopenmodels.anl.gov/)): Central open scientific model weights and inference registry hosted at Argonne National Laboratory.
+* **SPOTTER-AI Threat-Tracing Engine**: Automated scientific provenance, digital watermarking, and biosecurity threat attribution architecture.
 
-Execution is carried out across **153 public-private-academic nodes** spanning 17 DOE National Laboratories, 5 NNSA defense sites, commercial cloud hyperscalers (AWS, Google Public Sector, Microsoft SPARK, Oracle Cloud, IBM, Groq, Domino Data Lab), frontier AI developers (Anthropic, OpenAI, Meta AI, Scale AI, Hugging Face, FutureHouse, LILA, Everstar), EDA/chipmakers/industrial partners (Synopsys, Micron, Siemens, SHINE Technologies), and 58 awardee universities operating self-driving cloud laboratories (e.g., University of Utah Price Engineering **AURORA Cloud Lab**, Emerald Cloud Lab, JHU APL).
+#### Tier 4: Public-Private-Academic Execution Nodes (153 Core Nodes)
+* **DOE National Laboratories & Defense Sites (22 Nodes)**: 17 DOE National Labs (ANL, LBNL, ORNL, LLNL, INL, PNNL, BNL, SLAC, TJNAF, FNAL, Ames, NETL, NREL, PPPL, SRNL, LANL, SNL) + 5 NNSA defense sites (NNSS, KCNSC, Pantex, Y-12, WIPP).
+* **Cloud Hyperscalers & Enterprise IT (7 Nodes)**: AWS, Google Public Sector, Microsoft SPARK, Oracle Cloud, IBM, Groq, Domino Data Lab.
+* **Frontier AI Developers (8 Nodes)**: Anthropic, OpenAI, Meta AI, Scale AI, Hugging Face, FutureHouse, LILA, Everstar.
+* **Industrial & Semiconductor Leaders (6 Nodes)**: Synopsys, Micron, Siemens, SHINE Technologies, Cornelis Networks, Albemarle.
+* **Academic & Cloud Self-Driving Laboratories (58 Nodes)**: 58 awardee research universities operating autonomous cloud testbeds (e.g., University of Utah Price Engineering **AURORA Cloud Lab**, Emerald Cloud Lab, JHU APL, Cleveland Clinic FLiBe pipeline).
 
 ### 1.3 Strategic Mission Objectives
 
