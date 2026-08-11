@@ -5,6 +5,16 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.0.33] - 2026-08-11
+
+### Added
+- **Processed ORNL Real-Time AI Water Intelligence Research Highlight Reference**: Processed reference link `https://www.ornl.gov/research-highlight/real-time-ai-based-water-intelligence-us-energy-systems` (*Real-Time AI-Based Water Intelligence for US Energy Systems*), adding entry to [`references.md`](file:///home/donutloop/Workspace/donutloop-genesis/references.md) Section 5 under Oak Ridge National Laboratory (ORNL).
+- **Master Index Audit**: Registered Master Index Entry `#317` in [`reference_coverage.md`](file:///home/donutloop/Workspace/donutloop-genesis/reference_coverage.md) (updating total metrics to 458 / 458 Processed, 100% Complete across 221 unique target domains with 441 Web/News items) and renumbered downstream index rows `#318` to `#458`.
+- **Enriched Section 3.2 in English & German Papers**: Integrated ORNL Real-Time AI Water Intelligence research highlight citation in [`README.md`](file:///home/donutloop/Workspace/donutloop-genesis/README.md#L581) and [`README.de.md`](file:///home/donutloop/Workspace/donutloop-genesis/README.de.md#L576).
+- **Version Bump**: Incremented version string to `3.0.33` across [`README.md`](file:///home/donutloop/Workspace/donutloop-genesis/README.md) and [`README.de.md`](file:///home/donutloop/Workspace/donutloop-genesis/README.de.md).
+
+---
+
 ## [3.0.32] - 2026-08-11
 
 ### Added
