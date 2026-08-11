@@ -5,6 +5,15 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [2.4.32] - 2026-08-11
+
+### Changed
+- **Reference Integration & Master Processing (`references.md` & `reference_coverage.md`)**: Formatted and integrated Department of Energy's official Savannah River Site overview portal ([`DOE Portal: Savannah River Site (SRS) Official Overview`](https://www.energy.gov/srs/savannah-river-site), `www.energy.gov`) into Section 4 under Department of Energy Official Announcements, registering it as Master Index Entry #116 and processing its status to `Processed` (**414 / 414 Processed, 100% Complete**).
+- **Research Paper Enrichment (`README.md` & `README.de.md`)**: Enriched §3.2 (SRNL national laboratory profile) in both English and German paper editions with details on the 310 sq. mile Savannah River Site (SRS) complex, including **H Canyon** ( sole production-scale radiologically shielded chemical separations plant in the U.S.) and **K Area Complex (KAC)** plutonium storage.
+- **Version Bump**: Incremented patch version string to `2.4.32` in `README.md` and `README.de.md`.
+
+---
+
 ## [2.4.31] - 2026-08-11
 
 ### Changed
