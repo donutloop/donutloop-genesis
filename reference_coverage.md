@@ -15,7 +15,7 @@
 | **Official PDF Documents** | **14** | Formal RFA solicitations, webinars, slides, and executive reports |
 | **Web Portals & Press Releases** | **361** | Newsroom features, corporate blog posts, and interactive hubs |
 | **Validation Status** | **100% Validated** | All links canonicalized, formatted, and deduplicated |
-| **Processing Status** | **378 / 378 Processed** | 0 Unprocessed, 371 Processed |
+| **Processing Status** | **378 / 378 Processed** | 0 Unprocessed, 378 Processed |
 
 ---
 
