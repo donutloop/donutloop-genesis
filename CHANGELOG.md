@@ -5,6 +5,16 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.0.28] - 2026-08-11
+
+### Added
+- **Processed PR Newswire Domino Unveils New Capabilities Reference**: Processed reference link `https://www.prnewswire.com/news-releases/domino-unveils-new-capabilities-to-take-ai-from-model-to-mission-critical-application-302775592.html` (*PR Newswire Release: Domino Unveils New Capabilities to Take AI from Model to Mission-Critical Application*), adding entry to [`references.md`](file:///home/donutloop/Workspace/donutloop-genesis/references.md) Section 4.
+- **Master Index Audit**: Registered Master Index Entry `#211` in [`reference_coverage.md`](file:///home/donutloop/Workspace/donutloop-genesis/reference_coverage.md) (updating total metrics to 453 / 453 Processed, 100% Complete across 221 unique target domains with 436 Web/News items) and renumbered downstream index rows `#212` to `#453`.
+- **Enriched Section 3.1 in English & German Papers**: Integrated Domino Data Lab PR Newswire announcement citation in [`README.md`](file:///home/donutloop/Workspace/donutloop-genesis/README.md#L520) and [`README.de.md`](file:///home/donutloop/Workspace/donutloop-genesis/README.de.md#L516).
+- **Version Bump**: Incremented version string to `3.0.28` across [`README.md`](file:///home/donutloop/Workspace/donutloop-genesis/README.md) and [`README.de.md`](file:///home/donutloop/Workspace/donutloop-genesis/README.de.md).
+
+---
+
 ## [3.0.27] - 2026-08-11
 
 ### Added
