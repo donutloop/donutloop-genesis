@@ -5,6 +5,15 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [2.4.27] - 2026-08-11
+
+### Changed
+- **Reference Integration & Master Processing (`references.md` & `reference_coverage.md`)**: Formatted and integrated official DOE American Science Cloud portal ([`DOE Portal: American Science Cloud (AmSC)`](https://amsc.energy.gov/), `amsc.energy.gov`) into Section 4 under Department of Energy (DOE) Official Announcements, registering it as Master Index Entry #115 and processing its status to `Processed` (**409 / 409 Processed, 100% Complete**).
+- **Research Paper Enrichment (`README.md` & `README.de.md`)**: Enriched §1.1 and Executive Summaries in both English and German paper editions with official portal links for the **American Science Cloud (AmSC)** (`amsc.energy.gov`), highlighting its federated data, model, and AI compute services across all 17 DOE National Laboratories and 32 user facilities.
+- **Version Bump**: Incremented patch version string to `2.4.27` in `README.md` and `README.de.md`.
+
+---
+
 ## [2.4.26] - 2026-08-11
 
 ### Changed
