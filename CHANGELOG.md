@@ -5,6 +5,15 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [2.4.36] - 2026-08-11
+
+### Changed
+- **Reference Integration & Master Processing (`references.md` & `reference_coverage.md`)**: Formatted and integrated Fermilab's official news feature ([`Using AI, Fermilab Researcher Probes How Transistors Behave in Extreme Cold`](https://news.fnal.gov/2026/05/using-ai-fermilab-researcher-probes-how-transistors-behave-in-extreme-cold/), `news.fnal.gov`) into Section 5 under Fermi National Accelerator Laboratory, registering it as Master Index Entry #261 and processing its status to `Processed` (**418 / 418 Processed, 100% Complete**).
+- **Research Paper Enrichment (`README.md` & `README.de.md`)**: Enriched §3.2 (Fermilab national laboratory profile) in both English and German paper editions with details on **AXESS** cryogenic microelectronics modeling led by researcher Olivia Seidel, deploying AI neural operators to predict threshold voltage shifts and carrier freeze-out below 4 K for quantum readout and DUNE cryostat ASICs.
+- **Version Bump**: Incremented patch version string to `2.4.36` in `README.md` and `README.de.md`.
+
+---
+
 ## [2.4.35] - 2026-08-11
 
 ### Changed
