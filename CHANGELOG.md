@@ -5,6 +5,24 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [2.4.3] - 2026-08-11
+
+### Changed
+- **Master Reference Processing (`reference_coverage.md`)**: Processed Entry #213 ([`GridMind: Powering the Control Room of the Future with AI Agents`](https://www.anl.gov/article/gridmind-powering-the-control-room-of-the-future-with-ai-agents), `www.anl.gov`), updating its status from `Unprocessed` to `Processed` (**388 / 388 Processed, 100% Complete**).
+- **Research Paper Enrichment (`README.md` & `README.de.md`)**: Enriched §3.2 Argonne National Laboratory (ANL) profiles, §2.4C physical AI & grid resilience sections, and Appendix A.2 summary tables in both English and German paper editions with technical details on ANL's GridMind platform, deploying multi-agent reinforcement learning architectures and agentic LLMs for sub-second power grid control room automation, transmission line congestion monitoring, dynamic clean generation dispatch, and real-time contingency rerouting under Genesis.
+- **Version Bump**: Incremented patch version string to `2.4.3` in `README.md` and `README.de.md`.
+
+---
+
+## [2.4.2] - 2026-08-11
+
+### Changed
+- **WIP Reference Link Integration (`references.md`)**: Formatted and integrated ANL GridMind article ([`GridMind: Powering the Control Room of the Future with AI Agents`](https://www.anl.gov/article/gridmind-powering-the-control-room-of-the-future-with-ai-agents)) into Section 5 under Argonne National Laboratory (ANL), decommissioning the `WIP` scratchpad section.
+- **Master Reference Index Registration (`reference_coverage.md`)**: Registered new GridMind link as index entry #213 with `Unprocessed` status, renumbered all subsequent master index rows (388 total links), and updated executive summary metrics (**387 / 388 Processed, 1 Unprocessed remaining**).
+- **Version Bump**: Incremented patch version string to `2.4.2` in `README.md` and `README.de.md`.
+
+---
+
 ## [2.4.1] - 2026-08-11
 
 ### Changed

@@ -253,6 +253,7 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
   * [Energy Department Launches Genesis Mission to Transform American Science and Innovation Through AI](https://www.alcf.anl.gov/news/energy-department-launches-genesis-mission-transform-american-science-and-innovation-through)
   * [SPOTTER: AI Scientific Provenance-Oriented Threat Tracing and Attribution for Genesis Workflows](https://www.anl.gov/genesis-mission/projects/spotter-ai-scientific-provenance-oriented-threat-tracing-and-attribution-for-genesis-workflows)
   * [Argonne National Laboratory: Genesis Open Models Platform & Scientific Model Repository](https://genesisopenmodels.anl.gov/)
+  * [GridMind: Powering the Control Room of the Future with AI Agents](https://www.anl.gov/article/gridmind-powering-the-control-room-of-the-future-with-ai-agents)
 * **Berkeley Lab (LBNL):** 
   * [Genesis Mission Hub & Scientific Strategy](https://www.lbl.gov/genesis-mission/)
   * [Genesis Mission Projects Directory](https://www.lbl.gov/genesis-mission-projects/)
@@ -468,8 +469,3 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
 * [U.S. Department of Energy: Data Team Fact Sheet](https://www.energy.gov/documents/data-team-fact-sheet)
 * [U.S. Department of Defense: Artificial Intelligence Strategy for the Department of War (PDF)](https://media.defense.gov/2026/Jan/12/2003855671/-1/-1/0/ARTIFICIAL-INTELLIGENCE-STRATEGY-FOR-THE-DEPARTMENT-OF-WAR.PDF)
 
-
-
-  WIP:
-
-  https://www.anl.gov/article/gridmind-powering-the-control-room-of-the-future-with-ai-agents
