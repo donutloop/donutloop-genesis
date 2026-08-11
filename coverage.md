@@ -142,7 +142,7 @@
 | 82 | [Department of War](https://www.defense.gov/) | ✅ Full Profile | §1, §3.4, A.1 | Dual-use scientific AI, hypersonics CFD, radiation-hardened microelectronics & defense supply chains |
 | 83 | [Department of Homeland Security (DHS) — S&T](https://www.dhs.gov/science-and-technology) | ✅ Full Profile | §3.4, A.1 | Critical infrastructure AI digital twins, supply chain threat analytics & smart grid resilience |
 | 84 | [Department of the Interior (DOI)](https://www.doi.gov/) | ✅ Full Profile | §3.4, A.1 | USGS critical mineral deposit AI mapping, hydrological modeling & public land clean energy siting |
-| 85 | [U.S. Department of Agriculture (USDA)](https://www.usda.gov/) | ❌ Not Covered | - | AI solutions for crop innovation & agricultural biotechnology (reference only) |
+| 85 | [U.S. Department of Agriculture (USDA)](https://www.usda.gov/) | ✅ Full Profile | §1.1, §3.4, A.4 | Agricultural National Science & Technology Challenge, AI germplasm analysis & crop innovation |
 
 ---
 
