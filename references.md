@@ -363,6 +363,7 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
 * **Sandia National Laboratories:** 
   * [Selected to Lead 6 Projects, Partner on 17 Others](https://newsreleases.sandia.gov/sandia-selected-to-lead-six-genesis-mission-projects-partner-on-17-others/)
   * [DOE Launches Genesis Mission (Lab News Feature)](https://www.sandia.gov/labnews/2025/12/04/doe-launches-genesis-mission-to-transform-american-science-and-innovation-through-ai-computing-revolution/)
+  * [Sandia Selected to Lead Six Genesis Mission Projects, Partner on 17 Others (Lab News Feature)](https://www.sandia.gov/labnews/2026/07/30/sandia-selected-to-lead-six-genesis-mission-projects-partner-on-17-others/)
 * **Savannah River National Laboratory (SRNL):**
   * [Energy Department Launches Genesis Mission Release](https://www.srnl.gov/news-releases/energy-department-launches-genesis-mission-to-transform-american-science-and-innovation-through-the-ai-computing-revolution/)
   * [SRNL Genesis Mission Portal](https://www.srnl.gov/genesis-mission/)

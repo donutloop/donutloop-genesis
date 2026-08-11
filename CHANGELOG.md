@@ -5,6 +5,16 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.0.17] - 2026-08-11
+
+### Added
+- **Processed Sandia Lab News Genesis Feature Reference**: Processed reference link `https://www.sandia.gov/labnews/2026/07/30/sandia-selected-to-lead-six-genesis-mission-projects-partner-on-17-others/` (*Sandia Selected to Lead Six Genesis Mission Projects, Partner on 17 Others*), adding entry to [`references.md`](file:///home/donutloop/Workspace/donutloop-genesis/references.md) Section 5 under Sandia National Laboratories.
+- **Master Index Audit**: Registered Master Index Entry `#313` in [`reference_coverage.md`](file:///home/donutloop/Workspace/donutloop-genesis/reference_coverage.md) (updating total metrics to 442 / 442 Processed, 100% Complete across 217 unique target domains with 425 Web/News items) and renumbered downstream index rows `#314` to `#442`.
+- **Enriched Section 3.2 in English & German Papers**: Integrated second Sandia official news link in [`README.md`](file:///home/donutloop/Workspace/donutloop-genesis/README.md#L584) and [`README.de.md`](file:///home/donutloop/Workspace/donutloop-genesis/README.de.md#L579).
+- **Version Bump**: Incremented version string to `3.0.17` across [`README.md`](file:///home/donutloop/Workspace/donutloop-genesis/README.md) and [`README.de.md`](file:///home/donutloop/Workspace/donutloop-genesis/README.de.md).
+
+---
+
 ## [3.0.16] - 2026-08-11
 
 ### Added
