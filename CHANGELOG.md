@@ -5,6 +5,15 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [2.2.13] - 2026-08-11
+
+### Changed
+- **Reference Index Processing (Entry #258 - ORNL AI Foundation Model Development for Water Forecasting)**: Integrated and processed master reference index Entry #258 ([www.ornl.gov/project/ai-foundation-model-development-water-forecasting](https://www.ornl.gov/project/ai-foundation-model-development-water-forecasting)). Enriched **Oak Ridge National Laboratory (ORNL)** profiles in Section 3.2 of `README.md` and `README.de.md` with technical details on ORNL's hydrological foundation modeling project, building physics-informed neural operators on Frontier to assimilate multi-decadal streamflow and satellite hydrology for continental-scale water availability and flood/drought forecasting.
+- **Master Reference Coverage Complete (`reference_coverage.md`)**: Registered and processed Entry #258 in `reference_coverage.md`, renumbering all subsequent master rows (259–381) and maintaining **100% processing status** (**381 / 381 Processed**).
+- **Version Bump**: Incremented patch version string to `2.2.13` in `README.md` and `README.de.md`.
+
+---
+
 ## [2.2.12] - 2026-08-11
 
 ### Changed
