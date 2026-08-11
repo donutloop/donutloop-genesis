@@ -5,6 +5,15 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [2.4.20] - 2026-08-11
+
+### Changed
+- **Reference Integration & Master Processing (`references.md` & `reference_coverage.md`)**: Formatted and integrated DOE Scaling the Biotechnology Revolution National Challenge overview ([`DOE Overview: Scaling the Biotechnology Revolution`](https://www.energy.gov/undersecretaryforscience/genesis-mission/scaling-biotechnology-revolution), `www.energy.gov`) into Section 4 under Department of Energy (DOE) Official Announcements, registering it as Master Index Entry #108 and processing its status to `Processed` (**402 / 402 Processed, 100% Complete**).
+- **Research Paper Enrichment (`README.md` & `README.de.md`)**: Enriched §4.3 Vector 4 (Biosecurity, Critical Minerals & Supply Chain Decarbonization) in both English and German paper editions with details on the *Scaling the Biotechnology Revolution* National Challenge under the Discovery Science pillar, integrating multi-modal genomics, multi-omics, structural imaging, and cellular phenomics to establish genotype-to-phenotype causal control points for autonomous biomanufacturing and "biology on demand."
+- **Version Bump**: Incremented patch version string to `2.4.20` in `README.md` and `README.de.md`.
+
+---
+
 ## [2.4.19] - 2026-08-11
 
 ### Changed
