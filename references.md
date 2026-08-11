@@ -246,6 +246,7 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
 * [Orchestrated Platform for Autonomous Laboratories (OPAL) Official Portal: Energy Department Launches Genesis Mission Release](https://opal-doe.org/2025/11/24/energy-department-launches-genesis-mission-to-transform-american-science-and-innovation-through-the-ai-computing-revolution/)
 * [RIKEN: Message from President Gonokami Regarding the New Japan-US Strategic Partnership on "AI for Science"](https://www.riken.jp/en/news_pubs/news/2026/20260605_1/index.html)
 * [RIKEN: Official News Release on International AI for Science Infrastructure & Research Collaboration](https://www.riken.jp/en/news_pubs/news/2026/20260127_1/index.html)
+* [RIKEN: President's Office & Leadership Overview (Makoto Gonokami)](https://www.riken.jp/en/about/president/)
 * [The American Presidency Project: White House Press Release — President Trump Launches the Genesis Mission to Accelerate AI for Science](https://www.presidency.ucsb.edu/documents/white-house-press-release-president-trump-launches-the-genesis-mission-accelerate-ai-for)
   
 ---
