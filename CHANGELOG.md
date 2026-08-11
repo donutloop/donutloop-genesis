@@ -5,6 +5,16 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.0.22] - 2026-08-11
+
+### Added
+- **Processed RIKEN News Release Reference**: Processed reference link `https://www.riken.jp/en/news_pubs/news/2026/20260127_1/index.html` (*RIKEN Official News Release on International AI for Science Infrastructure & Research Collaboration*), adding entry to [`references.md`](file:///home/donutloop/Workspace/donutloop-genesis/references.md) Section 4.
+- **Master Index Audit**: Registered Master Index Entry `#215` in [`reference_coverage.md`](file:///home/donutloop/Workspace/donutloop-genesis/reference_coverage.md) (updating total metrics to 447 / 447 Processed, 100% Complete across 219 unique target domains with 430 Web/News items) and renumbered downstream index rows `#216` to `#447`.
+- **Enriched Section 3.5 in English & German Papers**: Integrated RIKEN news release citation in [`README.md`](file:///home/donutloop/Workspace/donutloop-genesis/README.md#L640) and [`README.de.md`](file:///home/donutloop/Workspace/donutloop-genesis/README.de.md#L625).
+- **Version Bump**: Incremented version string to `3.0.22` across [`README.md`](file:///home/donutloop/Workspace/donutloop-genesis/README.md) and [`README.de.md`](file:///home/donutloop/Workspace/donutloop-genesis/README.de.md).
+
+---
+
 ## [3.0.21] - 2026-08-11
 
 ### Added
