@@ -15,7 +15,7 @@
 | **Official PDF Documents** | **14** | Formal RFA solicitations, webinars, slides, and executive reports |
 | **Web Portals & Press Releases** | **354** | Newsroom features, corporate blog posts, and interactive hubs |
 | **Validation Status** | **100% Validated** | All links canonicalized, formatted, and deduplicated |
-| **Processing Status** | **368 / 371 Processed** | 3 Unprocessed, 368 Processed |
+| **Processing Status** | **369 / 371 Processed** | 2 Unprocessed, 369 Processed |
 
 ---
 
@@ -332,7 +332,7 @@ A complete tabular listing of all 363 indexed reference links:
 | 262 | 5. National Labs & University Coverage | National Laboratories | Supporting Genesis Mission: SRS Center for AI-Accelerated Innovation | `www.energy.gov` | Web | [Supporting Genesis Mission: SRS Center for AI-Accelerated Innovation](https://www.energy.gov/em/articles/supporting-genesis-mission-srs-center-ai-accelerated-innovation) | `Processed` |
 | 263 | 5. National Labs & University Coverage | National Laboratories | SRNL Contributes Key Expertise to DOE's New Genesis Mission | `www.energy.gov` | Web | [SRNL Contributes Key Expertise to DOE's New Genesis Mission](https://www.energy.gov/em/articles/srnl-contributes-key-expertise-does-new-genesis-mission) | `Processed` |
 | 264 | 5. National Labs & University Coverage | National Laboratories | SRNL: Harnesses AI to Tackle Environmental Challenges and Cut Cleanup Costs | `www.energy.gov` | Web | [SRNL: Harnesses AI to Tackle Environmental Challenges and Cut Cleanup Costs](https://www.energy.gov/em/articles/srnl-harnesses-ai-tackle-environmental-challenges-cut-cleanup-costs) | `Processed` |
-| 265 | 5. National Labs & University Coverage | National Laboratories | SRNL Makes Strong Showing at 2026 AI Expo | `www.energy.gov` | Web | [SRNL Makes Strong Showing at 2026 AI Expo](https://www.energy.gov/em/articles/savannah-river-national-laboratory-makes-strong-showing-2026-ai-expo) | `Unprocessed` |
+| 265 | 5. National Labs & University Coverage | National Laboratories | SRNL Makes Strong Showing at 2026 AI Expo | `www.energy.gov` | Web | [SRNL Makes Strong Showing at 2026 AI Expo](https://www.energy.gov/em/articles/savannah-river-national-laboratory-makes-strong-showing-2026-ai-expo) | `Processed` |
 | 266 | 5. National Labs & University Coverage | National Laboratories | Leading Projects Alongside Stanford | `news.stanford.edu` | Web | [Leading Projects Alongside Stanford](https://news.stanford.edu/stories/2026/07/stanford-and-slac-to-lead-genesis-mission-projects) | `Processed` |
 | 267 | 5. National Labs & University Coverage | National Laboratories | SLAC ISDCI Genesis Portal | `isdci.slac.stanford.edu` | Web | [SLAC ISDCI Genesis Portal](https://isdci.slac.stanford.edu/genesis) | `Processed` |
 | 268 | 5. National Labs & University Coverage | National Laboratories | Jefferson Lab AI-Driven Nuclear Femtography & Accelerator Optimization | `www.jlab.org` | Web | [Jefferson Lab AI-Driven Nuclear Femtography & Accelerator Optimization](https://www.jlab.org/news/releases/ai-science-genesis-mission) | `Processed` |

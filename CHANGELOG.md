@@ -4,6 +4,16 @@ All notable changes to the Genesis Mission documentation repository will be docu
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
+## [2.1.23] - 2026-08-11
+
+### Changed
+- **Reference Index Processing & Research Paper Enrichment (Entry #265)**: Processed master reference index link #265 (*SRNL Makes Strong Showing at 2026 AI Expo*, `www.energy.gov`).
+- **Research Paper Updates (`README.md` & `README.de.md`)**: Enriched §3.2 National Laboratory profiles with formal details on Savannah River National Laboratory's (SRNL) presentations at the 2026 AI+ Expo for National Competitiveness in Washington D.C., highlighting the **SCOPE** project (AI, chemistry, and physics-informed modeling led by Tom Danielson for radioactive liquid waste behavior prediction), AI-enabled manufacturing and critical materials recovery platforms (Zachary Tener, Vincent DiNova), and AI-driven environmental remediation systems (**ALTEMIS** and **AI-ASSET** led by Eric Pierce) across the SRS Center for AI-Accelerated Innovation. Ensured complete German paper parity (`README.de.md`).
+- **Master Reference Coverage Report (`reference_coverage.md`)**: Updated entry #265 status to `Processed`. Recalculated executive summary metrics (369 / 371 processed, 2 unprocessed).
+- **Version Bump**: Incremented patch version string to `2.1.23` in `README.md` and `README.de.md`.
+
+---
+
 ## [2.1.22] - 2026-08-11
 
 ### Changed
