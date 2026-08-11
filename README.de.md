@@ -1,4 +1,4 @@
-**Version**: 3.0.6
+**Version**: 3.0.7
 
 # Die Genesis-Mission: Architektur, strategische Initiativen und das multi-institutionelle Ökosystem für KI- und quantengetriebene wissenschaftliche Entdeckungen
 
@@ -202,18 +202,21 @@ Die Architektur der Genesis-Mission basiert auf drei voneinander abhängigen tec
            |                                      |                                      |
 +----------v----------+                +----------v----------+                +----------v----------+
 |   HETEROGENES HPC   |                |   QUANTEN-QPU-NETZ  |                | AGENTISCHE ABLÄUFE  |
-|  - Exascale GPUs    |                |  - Supraleitend     |                |  - Physik-Surrogate |
-|  - Datenfluss-RDUs  |                |  - Ionenfallen      |                |  - Generative Modelle|
-|  - FAIR-Datenstream |                |  - Neutrale Atome   |                |  - Selbstf. Labore  |
-|  (HPE, AMD, NVIDIA, |                |  - Silizium-Spin    |                |  (Gemini, Discovery,|
-|   Dell, SambaNova)  |                |  - Photonisch       |                |   PaperQA, AlphaFold)|
+|  - Exascale-GPUs    |                |  - Supraleitend     |                |  - Physik-Surrogate |
+|  - Datenfluss-RDUs  |                |  - Ionenfallen      |                |  - Generat. Modelle |
+|  - Wafer-Scale WSE  |                |  - Neutrale Atome   |                |  - Offene Mod. (GS1)|
+|  - Determinst. LPUs |                |  - Silizium-Spin    |                |  - Selbstf. Labore  |
+|  - FAIR-Datenstream |                |  - Photonisch       |                |  (Gemini, Discovery,|
+|  (HPE, AMD, NVIDIA, |                |  - Cross-Modali-Gieß|                |   PaperQA, AlphaFold|
+|   Dell, SambaNova,  |                |  - FEL-EUV-Prototyp |                |   SPOTTER-AI, AmSC) |
+|   Cerebras, Groq)   |                |  (IBM, Rigetti, GF) |                |                     |
 +----------+----------+                +----------+----------+                +----------+----------+
            |                                      |                                      |
            +--------------------------------------+--------------------------------------+
                                                   |
 +-------------------------------------------------v-------------------------------------------------+
 |                                 GESCHLOSSENER ENTDECKUNGSAUSFÜHRER                                |
-|   Sensoren (NSLS-II/LCLS-II/LHC) -> KI-Inferenz -> QPU-Energielöser -> Roboter-Nasslaborsynthese  |
+|  Sensoren (NSLS-II/LCLS-II/LHC) -> KI-Modelle -> QPU-Löser -> Autonome Nasslabors (OPAL/HPDF/AmSC)|
 +---------------------------------------------------------------------------------------------------+
 ```
 

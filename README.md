@@ -1,4 +1,4 @@
-**Version**: 3.0.6
+**Version**: 3.0.7
 
 # The Genesis Mission: Architecture, Strategic Initiatives, and the Multi-Institutional Ecosystem for AI and Quantum-Driven Scientific Discovery
 
@@ -205,16 +205,19 @@ The Genesis Mission architecture is founded upon three interdependent technical 
 |  HETEROGENEOUS HPC  |                |   QUANTUM QPU GRID   |                |  AGENTIC WORKFLOWS  |
 |  - Exascale GPUs    |                |  - Superconducting  |                |  - Physics Surrogates|
 |  - Dataflow RDUs    |                |  - Trapped-Ion      |                |  - Generative Models|
-|  - FAIR Data Stream |                |  - Neutral-Atom     |                |  - Self-Driving Labs|
-|  (HPE, AMD, NVIDIA, |                |  - Silicon Spin     |                |  (Gemini, Discovery,|
-|   Dell, SambaNova)  |                |  - Photonic         |                |   PaperQA, AlphaFold)|
+|  - Wafer-Scale WSE  |                |  - Neutral-Atom     |                |  - Open Models (GS1)|
+|  - Deterministic LPU|                |  - Silicon Spin     |                |  - Self-Driving Labs|
+|  - FAIR Data Stream |                |  - Photonic         |                |  (Gemini, Discovery,|
+|  (HPE, AMD, NVIDIA, |                |  - Cross-Modality   |                |   PaperQA, AlphaFold|
+|   Dell, SambaNova,  |                |  - FEL EUV Foundry  |                |   SPOTTER-AI, AmSC) |
+|   Cerebras, Groq)   |                |  (IBM, Rigetti, GF) |                |                     |
 +----------+----------+                +----------+----------+                +----------+----------+
            |                                      |                                      |
            +--------------------------------------+--------------------------------------+
                                                   |
 +-------------------------------------------------v-------------------------------------------------+
-|                                 CLOSED-LOOP DISCOVERY EXECUTOR                                    |
-|   Sensors (NSLS-II/LCLS-II/LHC) -> AI Inference -> QPU Energy Solver -> Robotic Wet Lab Synthesis  |
+|                                  CLOSED-LOOP DISCOVERY EXECUTOR                                   |
+|  Sensors (NSLS-II/LCLS-II/LHC) -> AI Models -> QPU Solver -> Autonomous Wet Labs (OPAL/HPDF/AmSC) |
 +---------------------------------------------------------------------------------------------------+
 ```
 

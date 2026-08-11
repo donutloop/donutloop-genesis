@@ -5,6 +5,14 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.0.7] - 2026-08-11
+
+### Fixed
+- **Convergent Technical Grid Diagram Update (§2)**: Updated the ASCII Technical Grid diagram in Section 2 across [`README.md`](file:///home/donutloop/Workspace/donutloop-genesis/README.md) and [`README.de.md`](file:///home/donutloop/Workspace/donutloop-genesis/README.de.md) to include wafer-scale WSE (Cerebras) & Groq LPUs in Heterogeneous HPC, cross-modality foundries & FEL EUV prototypes across all 7 QPU modalities in Quantum QPU Grid, Open Models (GS1) & SPOTTER-AI in Agentic Workflows, and OPAL/HPDF/AmSC autonomous lab execution hubs in Closed-Loop Discovery.
+- **Version Bump**: Incremented version string to `3.0.7` across [`README.md`](file:///home/donutloop/Workspace/donutloop-genesis/README.md) and [`README.de.md`](file:///home/donutloop/Workspace/donutloop-genesis/README.de.md).
+
+---
+
 ## [3.0.6] - 2026-08-11
 
 ### Fixed
