@@ -5,6 +5,16 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.0.16] - 2026-08-11
+
+### Added
+- **Processed American Presidency Project White House Press Release Reference**: Processed reference link `https://www.presidency.ucsb.edu/documents/white-house-press-release-president-trump-launches-the-genesis-mission-accelerate-ai-for` (*White House Press Release — President Trump Launches the Genesis Mission to Accelerate AI for Science*), adding entry to [`references.md`](file:///home/donutloop/Workspace/donutloop-genesis/references.md) Section 4.
+- **Master Index Audit**: Registered Master Index Entry `#215` in [`reference_coverage.md`](file:///home/donutloop/Workspace/donutloop-genesis/reference_coverage.md) (updating total metrics to 441 / 441 Processed, 100% Complete across 217 unique target domains with 424 Web/News items) and renumbered downstream index rows `#216` to `#441`.
+- **Enriched Section 1.1 in English & German Papers**: Detailed the official White House presidential press release launch archived on *The American Presidency Project* at UC Santa Barbara (`presidency.ucsb.edu`) under OSTP in [`README.md`](file:///home/donutloop/Workspace/donutloop-genesis/README.md#L61) and [`README.de.md`](file:///home/donutloop/Workspace/donutloop-genesis/README.de.md#L59).
+- **Version Bump**: Incremented version string to `3.0.16` across [`README.md`](file:///home/donutloop/Workspace/donutloop-genesis/README.md) and [`README.de.md`](file:///home/donutloop/Workspace/donutloop-genesis/README.de.md).
+
+---
+
 ## [3.0.15] - 2026-08-11
 
 ### Added

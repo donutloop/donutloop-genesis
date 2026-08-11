@@ -1,4 +1,4 @@
-**Version**: 3.0.15
+**Version**: 3.0.16
 
 # Die Genesis-Mission: Architektur, strategische Initiativen und das multi-institutionelle Ökosystem für KI- und quantengetriebene wissenschaftliche Entdeckungen
 
@@ -56,7 +56,8 @@ Unterstützt durch milliardenschwere behördenübergreifende Zusagen baut das Pr
 
 Die Genesis-Mission wird in erster Linie vom **U.S. Department of Energy (DOE) Office of Science** verwaltet und orchestriert ein gesamtstaatliches Mandat, das die 17 Nationalen Laboratorien des DOE mit den wichtigsten politischen, wissenschaftlichen und verteidigungspolitischen Bundesorganen verbindet:
 
-* **White House Office of Science and Technology Policy (OSTP):** Steuert nationale Wissenschafts- & Technologieprioritäten, behördenübergreifende Ausrichtung über 15+ Bundesbehörden und die Aufsicht der Exekutive für KI-für-Wissenschaft-Mandate. Unter Direktor Michael Kratsios veranstaltete das OSTP den **Genesis Mission 2026 Summit** (22. Juli 2026) und veröffentlichte die Pressemitteilung des Weißen Hauses ([www.whitehouse.gov/releases/2026/07/45502/](https://www.whitehouse.gov/releases/2026/07/45502/)), die die Mission auf über **5 Milliarden US-Dollar** erweiterte:
+* **White House Office of Science and Technology Policy (OSTP):** Steuert nationale Wissenschafts- & Technologieprioritäten, behördenübergreifende Ausrichtung über 15+ Bundesbehörden und die Aufsicht der Exekutive für KI-für-Wissenschaft-Mandate. Wie im *American Presidency Project* ([`presidency.ucsb.edu`](https://www.presidency.ucsb.edu/documents/white-house-press-release-president-trump-launches-the-genesis-mission-accelerate-ai-for)) archiviert, startete Präsident Trump die Genesis-Mission zur Beschleunigung der KI-gestützten wissenschaftlichen Entdeckung an nationalen Laboratorien, Universitäten und in der Industrie. Unter Direktor Michael Kratsios veranstaltete das OSTP den **Genesis Mission 2026 Summit** (22. Juli 2026) und veröffentlichte die Pressemitteilung des Weißen Hauses ([www.whitehouse.gov/releases/2026/07/45502/](https://www.whitehouse.gov/releases/2026/07/45502/)), die die Mission auf über **5 Milliarden US-Dollar** erweiterte:
+  - *Exekutiver Start & Rechtsmandate*: Pressemitteilung des Präsidenten und Executive Order 14363 zur Kodifizierung der gesamtstaatlichen wissenschaftlichen KI-Integration.
   - *Förderung & Ausschreibungen*: Auswahl von **278 Forschungsprojekten** im Rahmen von DE-FOA-0003612.
   - *Erweiterungen*: Start der **Bio Genesis Mission** mit den NIH und Erweiterung auf **33 Nationale S&T-Herausforderungen**.
   - *Internationale Abkommen*: **American Science and Security Platform**, 1-Milliarde-$-KI-Wissenschaftsabkommen mit Japan und Veröffentlichung des Berichts *Science: A New Golden Age* (Juli 2026).
