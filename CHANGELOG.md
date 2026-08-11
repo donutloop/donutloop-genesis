@@ -5,6 +5,15 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [2.4.38] - 2026-08-11
+
+### Changed
+- **Reference Integration & Master Processing (`references.md` & `reference_coverage.md`)**: Formatted and integrated Fermilab's official 2025 accomplishments feature article ([`Fermilab's Accomplishments Highlight Discovery and Innovation in 2025`](https://news.fnal.gov/2025/12/fermilabs-accomplishments-highlight-discovery-and-innovation-in-2025/), `news.fnal.gov`) into Section 5 under Fermi National Accelerator Laboratory, registering it as Master Index Entry #263 and processing its status to `Processed` (**420 / 420 Processed, 100% Complete**).
+- **Research Paper Enrichment (`README.md` & `README.de.md`)**: Enriched §3.2 (Fermilab national laboratory profile) in both English and German paper editions with details on Muon g-2 final precision measurement ($127\text{ ppb}$), DUNE SURF cryostat cavern outfitting with 3,000+ tons of steel, and the dedication of the Helen Edwards Integrated Engineering Research Center (IERC).
+- **Version Bump**: Incremented patch version string to `2.4.38` in `README.md` and `README.de.md`.
+
+---
+
 ## [2.4.37] - 2026-08-11
 
 ### Changed

@@ -304,6 +304,7 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
   * [Fermilab AI Portal: Collaborative Project Opportunities for the Genesis Mission](https://artificialintelligence.fnal.gov/collaborative-project-opportunities-genesis-mission/)
   * [Using AI, Fermilab Researcher Probes How Transistors Behave in Extreme Cold](https://news.fnal.gov/2026/05/using-ai-fermilab-researcher-probes-how-transistors-behave-in-extreme-cold/)
   * [Fermilab Researchers Develop AI Tools to Advance the Future of Particle Accelerators](https://news.fnal.gov/2026/04/fermilab-researchers-develop-ai-tools-to-advance-the-future-of-particle-accelerators/)
+  * [Fermilab's Accomplishments Highlight Discovery and Innovation in 2025](https://news.fnal.gov/2025/12/fermilabs-accomplishments-highlight-discovery-and-innovation-in-2025/)
 * **Idaho National Laboratory (INL):** 
   * [Accelerating Nuclear Energy Deployment with NVIDIA AI](https://inl.gov/news-release/idaho-national-laboratory-to-accelerate-nuclear-energy-deployment-with-nvidia-ai-through-the-genesis-mission/)
   * [Genesis Mission Funds AI Innovation for Nuclear Energy](https://inl.gov/news-release/genesis-mission-funds-ai-innovation-to-speed-up-safe-affordable-nuclear-energy/)
