@@ -1,4 +1,4 @@
-**Version**: 2.2.1
+**Version**: 2.2.2
 
 # Die Genesis-Mission: Architektur, strategische Initiativen und das multi-institutionelle Ökosystem für KI- und quantengetriebene wissenschaftliche Entdeckungen
 

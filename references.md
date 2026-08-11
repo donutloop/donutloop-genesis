@@ -299,6 +299,12 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
   * [DOE Selects ORNL to Lead Nine Genesis Mission Projects](https://www.ornl.gov/news/department-energy-selects-ornl-lead-nine-genesis-mission-projects)
   * [ORNL Genesis Mission Projects Hub](https://www.ornl.gov/node/111486)
   * [QUBIT Engineering Debuts AI-Powered Tool to Analyze Modern Power Grid](https://www.ornl.gov/organization-news/qubit-engineering-debuts-ai-powered-tool-analyze-modern-power-grid)
+  * [AI-Assisted Fusion Power Plant Designs](https://www.ornl.gov/project/ai-assisted-fusion-power-plant-designs)
+  * [Low-Energy AI Scientific Discovery](https://www.ornl.gov/project/low-energy-ai-scientific-discovery)
+  * [AI-Accelerated Materials Development and Advanced Manufacturing Applications](https://www.ornl.gov/project/ai-accelerated-materials-development-and-advanced-manufacturing-applications)
+  * [AI-Enabled Discovery of Rare Earth Elements](https://www.ornl.gov/project/ai-enabled-discovery-rare-earth-elements)
+  * [AI Long-Range Water Prediction](https://www.ornl.gov/project/ai-long-range-water-prediction)
+  * [AI Next-Generation Fusion Materials Development](https://www.ornl.gov/project/ai-next-generation-fusion-materials-development)
 * **Pacific Northwest National Laboratory (PNNL):** [Genesis Mission Project Portal](https://www.pnnl.gov/projects/genesis-mission)
 * **Princeton Plasma Physics Laboratory (PPPL):** 
   * [PPPL to Lead Genesis Mission Project to Create an AI Operator for Fusion Heating](https://www.pppl.gov/news/2026/pppl-lead-genesis-mission-project-create-ai-operator-crucial-fusion-energy-heating-system)
@@ -450,13 +456,4 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
 * [DOE Office of Science (SCAC): DOE Genesis Mission Launched Presentation (PDF)](https://science.osti.gov/-/media/About/pdf/scac/meetings/2026/DOE-Genesis-Mission-Launched---2026-03-27.pdf)
 * [OSTP: OSTP Genesis Mission Science and Technology Challenges Document](https://www.energy.gov/documents/ostp-genesis-mission-science-and-technology-challenges)
 * [U.S. Department of Energy: ModCon — Transformational AI and Data Overview](https://www.energy.gov/undersecretaryforscience/genesis-mission/modcon-transformational-ai-and-data)
-
-WIP: 
-https://www.energy.gov/documents/data-team-fact-sheet
-https://www.ornl.gov/project/ai-assisted-fusion-power-plant-designs
-https://www.ornl.gov/project/low-energy-ai-scientific-discovery
-https://www.ornl.gov/project/ai-accelerated-materials-development-and-advanced-manufacturing-applications
-https://www.ornl.gov/project/ai-enabled-discovery-rare-earth-elements
-https://www.ornl.gov/project/ai-long-range-water-prediction
-https://www.ornl.gov/project/ai-next-generation-fusion-materials-development
-----
+* [U.S. Department of Energy: Data Team Fact Sheet](https://www.energy.gov/documents/data-team-fact-sheet)

@@ -4,6 +4,17 @@ All notable changes to the Genesis Mission documentation repository will be docu
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
+
+## [2.2.2] - 2026-08-11
+
+### Changed
+- **WIP Reference Integration & Deduplication**: Processed all 7 entries from the `WIP` scratchpad section into `references.md` (6 ORNL AI project links integrated under Oak Ridge National Laboratory in Section 5 and 1 DOE Data Team Fact Sheet integrated into Section 7). Checked all 7 links against existing repository entries; **0 duplicate links were detected**, resulting in 7 successful new integrations and 0 skipped entries. Decommissioned the temporary `WIP` scratchpad block.
+- **Master Reference Coverage Audit (`reference_coverage.md`)**: Extended `reference_coverage.md` with all 7 newly processed reference links, updating master index metrics to **378 total reference links** across all 7 repository sections (100% processed status ratio), renumbering sequential index rows (1 to 378), and updating publisher domain distribution counts (`www.ornl.gov` to 11, `www.energy.gov` to 27).
+- **Ecosystem Coverage Audit (`coverage.md`)**: Verified 100% synchronization of `coverage.md` (all integrated links belong to existing fully-profiled entities DOE and ORNL; 177 total consortium entities, 100% full profile coverage).
+- **Version Bump**: Incremented patch version string to `2.2.2` in `README.md` and `README.de.md`.
+
+---
+
 ## [2.2.1] - 2026-08-11
 
 ### Changed
