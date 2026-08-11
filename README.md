@@ -887,67 +887,67 @@ Over 58 research universities receive competitive project awards under DE-FOA-00
 
 | Institution | Primary Genesis Mission Research Domain |
 | :--- | :--- |
-| Arizona State University (ASU) | Power grid reliability AI, smart energy infrastructure & NREL ARIES co-simulation |
-| Auburn University | Advanced additive manufacturing, extreme thermal materials & defense engineering |
-| Caltech | Quantum optics, photonic QPU co-design, computational physics & AI foundation models |
-| Carnegie Mellon University (CMU) | Autonomous scientific AI agents, robotics, SciML & materials discovery algorithms |
-| Colorado State University | Atmospheric modeling, climate AI foundation models & high-power laser physics |
-| Columbia University | Quantum materials science, strongly correlated electronic models & SciML algorithms |
-| Cornell University | Accelerator physics, synchrotron x-ray characterization (CHESS) & materials co-design |
-| Emory University | Bio Genesis Mission, structural biology AI foundation models & therapeutic screening |
-| Florida State University | High-magnetic-field physics (MagLab), superconductor materials & cryogenic testing |
-| George Mason University | Breakthrough AI-HPC research, scalable scientific machine learning & exascale supercomputing optimization |
-| Georgia Institute of Technology | High-throughput chemical synthesis automation, microelectronics packaging & robotics |
-| Iowa State University | Critical minerals thermodynamics, bio-based materials & Ames National Lab alignment |
-| Lehigh University | Structural alloy corrosion modeling, materials informatics & industrial AI digital twins |
-| Louisiana State University (LSU) | Coastal climate modeling, heavy-ion nuclear physics & petascale CFD algorithms |
-| Michigan State University (FRIB) | Rare isotope beam physics (FRIB), AI nuclear structure models & heavy-ion dynamics |
-| Michigan Technological University | Extreme environment material sensors, critical mineral refining & power electronics |
-| Mississippi State University | Computational fluid dynamics (CFD), autonomous systems & agricultural remote sensing |
-| Missouri S&T | High-temperature ceramics, pyrometallurgical critical material recovery & mining AI |
-| MIT | Superconducting & trapped-ion QPU algorithms, quantum error correction & nuclear AI |
-| New Jersey Institute of Technology (NJIT) | Solar physics AI models, materials informatics & dynamic network optimization |
-| New Mexico State University (NMSU) | High-energy nuclear physics, desert hydrology modeling & space payload sensors |
-| New York University (NYU) | 3 flagship SciML awards, partial differential equation (PDE) neural operators & Bio AI |
-| Northwestern University | High-throughput inorganic crystal discovery, catalyst screening & automated robotics |
-| Oklahoma State University | AI-driven energy systems, advanced manufacturing & CEAT sustainable engineering research |
-| Penn State University | Extreme-environment materials, 2D semiconductors & nuclear reactor digital twins |
-| Princeton University | Tokamak fusion plasma physics (PPPL), quantum information theory & SciML operators |
-| Rensselaer Polytechnic Institute (RPI) | Particle accelerator beam dynamics simulation (Sirepo), quantum algorithms & HPC |
-| Rice University | Carbon nanotube synthesis, nanostructured energy materials & quantum chemistry |
-| Stanford University | Synchrotron beamlines (SLAC), AI foundation models, quantum optics & biosecurity |
-| Stony Brook University | Relativistic heavy-ion physics (BNL RHIC), nuclear structure AI & high-performance compute |
-| Texas A&M University | Nuclear materials degradation modeling, cyber-physical grid security & hypersonics CFD |
-| Texas State University | Next-generation semiconductor lithography materials & microelectronics fabrication |
-| Tulane University | Generative AI design agents coupled with robotic wet labs (Emerald Cloud Lab) |
-| UC Berkeley | 13 LBNL project co-investigations, ModCon platform, SciML algorithms & quantum QIS |
-| UC Davis | Sustainable agriculture AI models, environmental bio-foundries & energy storage chemistry |
-| UC Santa Barbara (UCSB) | Quantum materials, topological insulator synthesis & cryogenic QPU control electronics |
-| UNC Charlotte | Precision optical manufacturing, smart grid power distribution & AI machine vision |
-| University at Buffalo | Computational materials design, battery electrolyte discovery & AI molecular screening |
-| University of Arizona | 5 Genesis awards: Earth science AI (AlphaEarth), water resources & planetary modeling |
-| University of California System | Systemwide AI-for-science coordination, national lab co-management & STEM pipelines |
-| University of Central Florida (UCF) | Attosecond laser physics, space payload optics & quantum sensing instrumentation |
-| University of Colorado Boulder | Infleqtion quantum sensing project, neutral-atom QPUs & Rigetti fusion plasma co-sims |
-| University of Connecticut (UConn) | High-temperature alloy synthesis, smart grid cybersecurity & materials informatics |
-| University of Florida | High-performance computing AI workloads, agricultural genomics & materials screening |
-| University of Illinois Urbana-Champaign | Petascale AI model training, open-source model registry platforms & semiconductor PDKs |
-| University of Kentucky | Coal byproduct mineral extraction (NETL), battery recycling & bio-energy materials |
-| University of Maine | Large-scale bio-composite additive manufacturing & offshore floating wind AI models |
-| University of Michigan | 2 Genesis awards: autonomous materials discovery, microelectronics & nuclear engineering |
-| University of Minnesota | Chemical catalysis foundation models, spintronics materials & computational biology |
-| University of Missouri | Radioisotope production accelerators, nuclear medicine R&D & plant phenomics AI |
-| University of Nebraska–Lincoln (UNL) | AI-driven "autopilot" co-designer for 6G Radio Access Networks (RAN), BNL & HPE partnership |
-| University of New Mexico | Quantum information science, optics fabrication & Sandia/Los Alamos national lab co-R&D |
-| University of North Dakota (UND) | 2 Genesis awards: rare earth mineral extraction from coal ash & autonomous energy AI |
-| University of Pittsburgh | Computational drug discovery foundation models, vascular bio-foundries & SciML |
-| University of Southern California (USC) | Quantum annealing algorithms, microelectronics reliability & autonomous AI agents |
-| University of Texas at Arlington (UTA) | Real-time AI trust & resilience for EPICS scientific control systems & LANL partner |
-| University of Texas at Austin | Microelectronics lithography modeling, exascale AI model optimization & power grid AI |
-| University of Utah | AURORA Cloud Lab ($20M self-driving lab network with MonArk Quantum Foundry), geothermal energy & net-zero fuels |
-| University of Wisconsin–Madison | 5 Genesis projects, real-time fusion plasma control (David Smith award), stellarator physics & quantum dots |
-| Virginia Tech | Cyber-physical power grid security, high-temperature composite materials & SciML |
-| Yale University | Superconducting cavity QED quantum architecture, QIS error mitigation & molecular AI |
+| [Arizona State University (ASU)](https://www.asu.edu/about) | Power grid reliability AI, smart energy infrastructure & NREL ARIES co-simulation |
+| [Auburn University](https://www.auburn.edu/about/) | Advanced additive manufacturing, extreme thermal materials & defense engineering |
+| [Caltech](https://www.caltech.edu/about) | Quantum optics, photonic QPU co-design, computational physics & AI foundation models |
+| [Carnegie Mellon University (CMU)](https://www.cmu.edu/about/) | Autonomous scientific AI agents, robotics, SciML & materials discovery algorithms |
+| [Colorado State University](https://www.colostate.edu/about/) | Atmospheric modeling, climate AI foundation models & high-power laser physics |
+| [Columbia University](https://www.columbia.edu/content/about-columbia) | Quantum materials science, strongly correlated electronic models & SciML algorithms |
+| [Cornell University](https://www.cornell.edu/about/) | Accelerator physics, synchrotron x-ray characterization (CHESS) & materials co-design |
+| [Emory University](https://www.emory.edu/about/index.html) | Bio Genesis Mission, structural biology AI foundation models & therapeutic screening |
+| [Florida State University](https://www.fsu.edu/about/) | High-magnetic-field physics (MagLab), superconductor materials & cryogenic testing |
+| [George Mason University](https://www.gmu.edu/about) | Breakthrough AI-HPC research, scalable scientific machine learning & exascale supercomputing optimization |
+| [Georgia Institute of Technology](https://www.gatech.edu/about) | High-throughput chemical synthesis automation, microelectronics packaging & robotics |
+| [Iowa State University](https://www.iastate.edu/about) | Critical minerals thermodynamics, bio-based materials & Ames National Lab alignment |
+| [Lehigh University](https://www.lehigh.edu/about) | Structural alloy corrosion modeling, materials informatics & industrial AI digital twins |
+| [Louisiana State University (LSU)](https://www.lsu.edu/about/) | Coastal climate modeling, heavy-ion nuclear physics & petascale CFD algorithms |
+| [Michigan State University (FRIB)](https://msu.edu/about) | Rare isotope beam physics (FRIB), AI nuclear structure models & heavy-ion dynamics |
+| [Michigan Technological University](https://www.mtu.edu/about/) | Extreme environment material sensors, critical mineral refining & power electronics |
+| [Mississippi State University](https://www.msstate.edu/about) | Computational fluid dynamics (CFD), autonomous systems & agricultural remote sensing |
+| [Missouri S&T](https://www.mst.edu/about/) | High-temperature ceramics, pyrometallurgical critical material recovery & mining AI |
+| [MIT](https://www.mit.edu/about/) | Superconducting & trapped-ion QPU algorithms, quantum error correction & nuclear AI |
+| [New Jersey Institute of Technology (NJIT)](https://www.njit.edu/about) | Solar physics AI models, materials informatics & dynamic network optimization |
+| [New Mexico State University (NMSU)](https://nmsu.edu/about.html) | High-energy nuclear physics, desert hydrology modeling & space payload sensors |
+| [New York University (NYU)](https://www.nyu.edu/about.html) | 3 flagship SciML awards, partial differential equation (PDE) neural operators & Bio AI |
+| [Northwestern University](https://www.northwestern.edu/about/) | High-throughput inorganic crystal discovery, catalyst screening & automated robotics |
+| [Oklahoma State University](https://go.okstate.edu/about-osu/) | AI-driven energy systems, advanced manufacturing & CEAT sustainable engineering research |
+| [Penn State University](https://www.psu.edu/about/) | Extreme-environment materials, 2D semiconductors & nuclear reactor digital twins |
+| [Princeton University](https://www.princeton.edu/meet-princeton) | Tokamak fusion plasma physics (PPPL), quantum information theory & SciML operators |
+| [Rensselaer Polytechnic Institute (RPI)](https://www.rpi.edu/about/) | Particle accelerator beam dynamics simulation (Sirepo), quantum algorithms & HPC |
+| [Rice University](https://www.rice.edu/about) | Carbon nanotube synthesis, nanostructured energy materials & quantum chemistry |
+| [Stanford University](https://www.stanford.edu/about/) | Synchrotron beamlines (SLAC), AI foundation models, quantum optics & biosecurity |
+| [Stony Brook University](https://www.stonybrook.edu/about/) | Relativistic heavy-ion physics (BNL RHIC), nuclear structure AI & high-performance compute |
+| [Texas A&M University](https://www.tamu.edu/about/) | Nuclear materials degradation modeling, cyber-physical grid security & hypersonics CFD |
+| [Texas State University](https://www.txst.edu/about.html) | Next-generation semiconductor lithography materials & microelectronics fabrication |
+| [Tulane University](https://tulane.edu/about) | Generative AI design agents coupled with robotic wet labs (Emerald Cloud Lab) |
+| [UC Berkeley](https://www.berkeley.edu/about/) | 13 LBNL project co-investigations, ModCon platform, SciML algorithms & quantum QIS |
+| [UC Davis](https://www.ucdavis.edu/about) | Sustainable agriculture AI models, environmental bio-foundries & energy storage chemistry |
+| [UC Santa Barbara (UCSB)](https://www.ucsb.edu/about) | Quantum materials, topological insulator synthesis & cryogenic QPU control electronics |
+| [UNC Charlotte](https://www.charlotte.edu/about) | Precision optical manufacturing, smart grid power distribution & AI machine vision |
+| [University at Buffalo](https://www.buffalo.edu/aboutub.html) | Computational materials design, battery electrolyte discovery & AI molecular screening |
+| [University of Arizona](https://www.arizona.edu/about) | 5 Genesis awards: Earth science AI (AlphaEarth), water resources & planetary modeling |
+| [University of California System](https://www.universityofcalifornia.edu/about-us) | Systemwide AI-for-science coordination, national lab co-management & STEM pipelines |
+| [University of Central Florida (UCF)](https://www.ucf.edu/about-ucf/) | Attosecond laser physics, space payload optics & quantum sensing instrumentation |
+| [University of Colorado Boulder](https://www.colorado.edu/about) | Infleqtion quantum sensing project, neutral-atom QPUs & Rigetti fusion plasma co-sims |
+| [University of Connecticut (UConn)](https://uconn.edu/about-us/) | High-temperature alloy synthesis, smart grid cybersecurity & materials informatics |
+| [University of Florida](https://www.ufl.edu/about/) | High-performance computing AI workloads, agricultural genomics & materials screening |
+| [University of Illinois Urbana-Champaign](https://illinois.edu/about/) | Petascale AI model training, open-source model registry platforms & semiconductor PDKs |
+| [University of Kentucky](https://www.uky.edu/about/) | Coal byproduct mineral extraction (NETL), battery recycling & bio-energy materials |
+| [University of Maine](https://umaine.edu/about/) | Large-scale bio-composite additive manufacturing & offshore floating wind AI models |
+| [University of Michigan](https://umich.edu/about/) | 2 Genesis awards: autonomous materials discovery, microelectronics & nuclear engineering |
+| [University of Minnesota](https://twin-cities.umn.edu/about-us) | Chemical catalysis foundation models, spintronics materials & computational biology |
+| [University of Missouri](https://missouri.edu/about) | Radioisotope production accelerators, nuclear medicine R&D & plant phenomics AI |
+| [University of Nebraska–Lincoln (UNL)](https://www.unl.edu/about/) | AI-driven "autopilot" co-designer for 6G Radio Access Networks (RAN), BNL & HPE partnership |
+| [University of New Mexico](https://www.unm.edu/about/) | Quantum information science, optics fabrication & Sandia/Los Alamos national lab co-R&D |
+| [University of North Dakota (UND)](https://und.edu/about/) | 2 Genesis awards: rare earth mineral extraction from coal ash & autonomous energy AI |
+| [University of Pittsburgh](https://www.pitt.edu/about) | Computational drug discovery foundation models, vascular bio-foundries & SciML |
+| [University of Southern California (USC)](https://about.usc.edu/) | Quantum annealing algorithms, microelectronics reliability & autonomous AI agents |
+| [University of Texas at Arlington (UTA)](https://www.uta.edu/about) | Real-time AI trust & resilience for EPICS scientific control systems & LANL partner |
+| [University of Texas at Austin](https://www.utexas.edu/about) | Microelectronics lithography modeling, exascale AI model optimization & power grid AI |
+| [University of Utah](https://www.utah.edu/about/) | AURORA Cloud Lab ($20M self-driving lab network with MonArk Quantum Foundry), geothermal energy & net-zero fuels |
+| [University of Wisconsin–Madison](https://www.wisc.edu/about/) | 5 Genesis projects, real-time fusion plasma control (David Smith award), stellarator physics & quantum dots |
+| [Virginia Tech](https://www.vt.edu/about.html) | Cyber-physical power grid security, high-temperature composite materials & SciML |
+| [Yale University](https://www.yale.edu/about-yale) | Superconducting cavity QED quantum architecture, QIS error mitigation & molecular AI |
 
 #### Additional Academic & Research Organizations
 

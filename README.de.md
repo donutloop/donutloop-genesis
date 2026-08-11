@@ -837,66 +837,67 @@ Die Genesis-Mission zeichnet sich durch die Breite ihrer sektorübergreifenden K
 
 | Institution | Primäre Forschungsdomäne in der Genesis-Mission |
 | :--- | :--- |
-| Arizona State University (ASU) | Zuverlässigkeits-KI für Stromnetze, smarte Energieinfrastruktur & NREL ARIES Co-Simulation |
-| Auburn University | Fortschrittliche additive Fertigung, extrem-thermische Materialien & Verteidigungstechnik |
-| Caltech | Quantenoptik, photonisches QPU-Co-Design, Computermethoden der Physik & KI-Basismodelle |
-| Carnegie Mellon University (CMU) | Autonome wissenschaftliche KI-Agenten, Robotik, SciML & Algorithmen zur Materialentdeckung |
-| Colorado State University | Atmosphärenmodellierung, Klima-KI-Basismodelle & Hochleistungslaserphysik |
-| Columbia University | Quantenmaterialwissenschaft, stark korrelierte elektronische Modelle & SciML-Algorithmen |
-| Cornell University | Beschleunigerphysik, Synchrotron-Röntgencharakterisierung (CHESS) & Material-Co-Design |
-| Emory University | Bio-Genesis-Mission, strukturbiologische KI-Basismodelle & therapeutisches Screening |
-| Florida State University | Hochmagnetfeldphysik (MagLab), Supraleitermaterialien & Kryotesten |
-| George Mason University | Bahnbrechende KI-HPC-Forschung, skalierbares Scientific Machine Learning & Exascale-Optimierung |
-| Georgia Institute of Technology | Automatisierung chemischer Synthese mit hohem Durchsatz, Mikroelektronik-Verpackung & Robotik |
-| Iowa State University | Thermodynamik kritischer Mineralien, biobasierte Materialien & Ausrichtung am Ames National Lab |
-| Lehigh University | Korrosionsmodellierung von Strukturlegierungen, Materialinformatik & industrielle KI-Zwillinge |
-| Louisiana State University (LSU) | Küstenklimamodellierung, Schwerionen-Kernphysik & Petascale-CFD-Algorithmen |
-| Michigan State University (FRIB) | Physik seltener Isotopenstrahlen (FRIB), KI-Kernstrukturmodelle & Schwerionendynamik |
-| Michigan Technological University | Materialsensoren für extreme Umgebungen, Raffination kritischer Mineralien & Leistungselektronik |
-| Mississippi State University | Numerische Strömungsmechanik (CFD), autonome Systeme & landwirtschaftliche Fernerkundung |
-| Missouri S&T | Hochtemperaturkeramik, pyrometallurgische Rückgewinnung kritischer Materialien & Bergbau-KI |
-| MIT | Supraleitende & Ionenfallen-QPU-Algorithmen, Quantenfehlerkorrektur & Kernphysik-KI |
-| New Jersey Institute of Technology (NJIT) | Sonnenphysik-KI-Modelle, Materialinformatik & dynamische Netzwerkoptimierung |
-| New Mexico State University (NMSU) | Hochenergie-Kernphysik, Wüstenhydrologiemodellierung & Weltraumsensoren |
-| New York University (NYU) | 3 Flaggschiff-SciML-Preise, neuronale Operatoren für partielle Differentialgleichungen (PDEs) & Bio-KI |
-| Northwestern University | Anorganische Kristallstrukturentdeckung mit hohem Durchsatz, Katalysatorscreening & Robotik |
-| Oklahoma State University | KI-gestützte Energiesysteme, fortschrittliche Fertigung & nachhaltige Ingenieurforschung |
-| Penn State University | Materialien für extreme Umgebungen, 2D-Halbleiter & digitale Zwillinge für Kernreaktoren |
-| Princeton University | Tokamak-Fusionsplasmaphysik (PPPL), Quanteninformationstheorie & SciML-Operatoren |
-| Rensselaer Polytechnic Institute (RPI) | Teilchenbeschleuniger-Strahldynamiksimulation (Sirepo), Quantenalgorithmen & HPC |
-| Rice University | Kohlenstoffnanoröhrensynthese, nanostrukturierte Energiematerialien & Quantenchemie |
-| Stanford University | Synchrotron-Strahlrohre (SLAC), KI-Basismodelle, Quantenoptik & Bioseicherheit |
-| Stony Brook University | Relativistische Schwerionenphysik (BNL RHIC), Kernstruktur-KI & Hochleistungsrechnen |
-| Texas A&M University | Modellierung der Alterung nuklearer Materialien, cyber-physikalische Netzsicherheit & Hyperschall-CFD |
-| Texas State University | Halbleiterlithografiematerialien der nächsten Generation & Mikroelektronikfertigung |
-| Tulane University | Generative KI-Design-Agenten gekoppelt mit robotischen Nasslaboren (Emerald Cloud Lab) |
-| UC Berkeley | 13 LBNL-Projektkooperationen, ModCon-Plattform, SciML-Algorithmen & Quanten-QIS |
-| UC Davis | Nachhaltige Landwirtschafts-KI-Modelle, Umwelt-Bio-Gießereien & Energiespeicherchemie |
-| UC Santa Barbara (UCSB) | Quantenmaterialien, Synthese topologischer Isolatoren & kryogene QPU-Steuerelektronik |
-| UNC Charlotte | Optische Präzisionsfertigung, Smart-Grid-Stromverteilung & KI-Maschinensehen |
-| University at Buffalo | Computergestütztes Materialdesign, Batterieelektrolytentdeckung & molekulares KI-Screening |
-| University of Arizona | 5 Genesis-Preise: Erdwissenschafts-KI (AlphaEarth), Wasserressourcen & Planetenmodellierung |
-| University of California System | Systemweite KI-für-die-Wissenschaft-Koordination, Co-Management nationaler Labore & MINT-Pipelines |
-| University of Central Florida (UCF) | Attosekundenlaserphysik, Optik für Weltraumnutzlasten & Quantensensorik-Instrumentierung |
-| University of Colorado Boulder | Infleqtion-Quantensensorikprojekt, Neutralatom-QPUs & Rigetti-Fusionsplasma-Co-Simulationen |
-| University of Connecticut (UConn) | Synthese von Hochtemperaturlegierungen, Smart-Grid-Cybersicherheit & Materialinformatik |
-| University of Florida | Hochleistungsrechnen-KI-Workloads, Agrargenomik & Materialscreening |
-| University of Illinois Urbana-Champaign | Petascale-KI-Modelltraining, Open-Source-Modellregisterplattformen & Halbleiter-PDKs |
-| University of Kentucky | Mineralextraktion aus Kohlenebenprodukten (NETL), Batterierecycling & Bioenergiematerialien |
-| University of Maine | Bio-Verbundwerkstoff-Additive Fertigung im großen Maßstab & Offshore-Schwimmwind-KI-Modelle |
-| University of Michigan | 2 Genesis-Preise: autonome Materialentdeckung, Mikroelektronik & Kerntechnik |
-| University of Minnesota | Basismodelle für chemische Katalyse, Spintronikmaterialien & Computerbiologie |
-| University of Missouri | Beschleuniger für die Radioisotopenproduktion, Nuklearmedizin-F&E & Pflanzenphänomik-KI |
-| University of Nebraska–Lincoln (UNL) | KI-gestützter „Autopilot“-Co-Designer für 6G-Radio-Access-Networks (RAN), BNL- & HPE-Partnerschaft |
-| University of New Mexico | Quanteninformationswissenschaft, Optikfertigung & Co-F&E mit Sandia/Los Alamos |
-| University of North Dakota (UND) | 2 Genesis-Preise: Extraktion seltener Erden aus Kohleasche & autonome Energie-KI |
-| University of Pittsburgh | Computergestützte Wirkstoffentdeckungs-Basismodelle, vaskuläre Bio-Gießereien & SciML |
-| University of Southern California (USC) | Quanten-Annealing-Algorithmen, Mikroelektronik-Zuverlässigkeit & autonome KI-Agenten |
-| University of Texas at Austin | Mikroelektronik-Lithografiemodellierung, Exascale-KI-Modelloptimierung & Stromnetz-KI |
-| University of Utah | AURORA Cloud Lab (20-Mio.-$-Labornetzwerk mit MonArk Quantum Foundry), Geothermie-Reservoirsimulation & klimaneutrale Kraftstoffe |
-| University of Wisconsin–Madison | 5 Genesis-Projekte, Echtzeit-Plasmasteuerung (David-Smith-Preis), Fusionsplasma-Stellaratorphysik & Quantenpunkte |
-| Virginia Tech | Cyber-physikalische Stromnetzsicherheit, Hochtemperatur-Verbundwerkstoffe & SciML |
-| Yale University | Supraleitende Hohlraum-QED-Quantenarchitektur, QIS-Fehlerminderung & Molekular-KI |
+| [Arizona State University (ASU)](https://www.asu.edu/about) | Zuverlässigkeits-KI für Stromnetze, smarte Energieinfrastruktur & NREL ARIES Co-Simulation |
+| [Auburn University](https://www.auburn.edu/about/) | Fortschrittliche additive Fertigung, extrem-thermische Materialien & Verteidigungstechnik |
+| [Caltech](https://www.caltech.edu/about) | Quantenoptik, photonisches QPU-Co-Design, Computermethoden der Physik & KI-Basismodelle |
+| [Carnegie Mellon University (CMU)](https://www.cmu.edu/about/) | Autonome wissenschaftliche KI-Agenten, Robotik, SciML & Algorithmen zur Materialentdeckung |
+| [Colorado State University](https://www.colostate.edu/about/) | Atmosphärenmodellierung, Klima-KI-Basismodelle & Hochleistungslaserphysik |
+| [Columbia University](https://www.columbia.edu/content/about-columbia) | Quantenmaterialwissenschaft, stark korrelierte elektronische Modelle & SciML-Algorithmen |
+| [Cornell University](https://www.cornell.edu/about/) | Beschleunigerphysik, Synchrotron-Röntgencharakterisierung (CHESS) & Material-Co-Design |
+| [Emory University](https://www.emory.edu/about/index.html) | Bio-Genesis-Mission, strukturbiologische KI-Basismodelle & therapeutisches Screening |
+| [Florida State University](https://www.fsu.edu/about/) | Hochmagnetfeldphysik (MagLab), Supraleitermaterialien & Kryotesten |
+| [George Mason University](https://www.gmu.edu/about) | Bahnbrechende KI-HPC-Forschung, skalierbares Scientific Machine Learning & Exascale-Optimierung |
+| [Georgia Institute of Technology](https://www.gatech.edu/about) | Automatisierung chemischer Synthese mit hohem Durchsatz, Mikroelektronik-Verpackung & Robotik |
+| [Iowa State University](https://www.iastate.edu/about) | Thermodynamik kritischer Mineralien, biobasierte Materialien & Ausrichtung am Ames National Lab |
+| [Lehigh University](https://www.lehigh.edu/about) | Korrosionsmodellierung von Strukturlegierungen, Materialinformatik & industrielle KI-Zwillinge |
+| [Louisiana State University (LSU)](https://www.lsu.edu/about/) | Küstenklimamodellierung, Schwerionen-Kernphysik & Petascale-CFD-Algorithmen |
+| [Michigan State University (FRIB)](https://msu.edu/about) | Physik seltener Isotopenstrahlen (FRIB), KI-Kernstrukturmodelle & Schwerionendynamik |
+| [Michigan Technological University](https://www.mtu.edu/about/) | Materialsensoren für extreme Umgebungen, Raffination kritischer Mineralien & Leistungselektronik |
+| [Mississippi State University](https://www.msstate.edu/about) | Numerische Strömungsmechanik (CFD), autonome Systeme & landwirtschaftliche Fernerkundung |
+| [Missouri S&T](https://www.mst.edu/about/) | Hochtemperaturkeramik, pyrometallurgische Rückgewinnung kritischer Materialien & Bergbau-KI |
+| [MIT](https://www.mit.edu/about/) | Supraleitende & Ionenfallen-QPU-Algorithmen, Quantenfehlerkorrektur & Kernphysik-KI |
+| [New Jersey Institute of Technology (NJIT)](https://www.njit.edu/about) | Sonnenphysik-KI-Modelle, Materialinformatik & dynamische Netzwerkoptimierung |
+| [New Mexico State University (NMSU)](https://nmsu.edu/about.html) | Hochenergie-Kernphysik, Wüstenhydrologiemodellierung & Weltraumsensoren |
+| [New York University (NYU)](https://www.nyu.edu/about.html) | 3 Flaggschiff-SciML-Preise, neuronale Operatoren für partielle Differentialgleichungen (PDEs) & Bio-KI |
+| [Northwestern University](https://www.northwestern.edu/about/) | Anorganische Kristallstrukturentdeckung mit hohem Durchsatz, Katalysatorscreening & Robotik |
+| [Oklahoma State University](https://go.okstate.edu/about-osu/) | KI-gestützte Energiesysteme, fortschrittliche Fertigung & nachhaltige Ingenieurforschung |
+| [Penn State University](https://www.psu.edu/about/) | Materialien für extreme Umgebungen, 2D-Halbleiter & digitale Zwillinge für Kernreaktoren |
+| [Princeton University](https://www.princeton.edu/meet-princeton) | Tokamak-Fusionsplasmaphysik (PPPL), Quanteninformationstheorie & SciML-Operatoren |
+| [Rensselaer Polytechnic Institute (RPI)](https://www.rpi.edu/about/) | Teilchenbeschleuniger-Strahldynamiksimulation (Sirepo), Quantenalgorithmen & HPC |
+| [Rice University](https://www.rice.edu/about) | Kohlenstoffnanoröhrensynthese, nanostrukturierte Energiematerialien & Quantenchemie |
+| [Stanford University](https://www.stanford.edu/about/) | Synchrotron-Strahlrohre (SLAC), KI-Basismodelle, Quantenoptik & Bioseicherheit |
+| [Stony Brook University](https://www.stonybrook.edu/about/) | Relativistische Schwerionenphysik (BNL RHIC), Kernstruktur-KI & Hochleistungsrechnen |
+| [Texas A&M University](https://www.tamu.edu/about/) | Modellierung der Alterung nuklearer Materialien, cyber-physikalische Netzsicherheit & Hyperschall-CFD |
+| [Texas State University](https://www.txst.edu/about.html) | Halbleiterlithografiematerialien der nächsten Generation & Mikroelektronikfertigung |
+| [Tulane University](https://tulane.edu/about) | Generative KI-Design-Agenten gekoppelt mit robotischen Nasslaboren (Emerald Cloud Lab) |
+| [UC Berkeley](https://www.berkeley.edu/about/) | 13 LBNL-Projektkooperationen, ModCon-Plattform, SciML-Algorithmen & Quanten-QIS |
+| [UC Davis](https://www.ucdavis.edu/about) | Nachhaltige Landwirtschafts-KI-Modelle, Umwelt-Bio-Gießereien & Energiespeicherchemie |
+| [UC Santa Barbara (UCSB)](https://www.ucsb.edu/about) | Quantenmaterialien, Synthese topologischer Isolatoren & kryogene QPU-Steuerelektronik |
+| [UNC Charlotte](https://www.charlotte.edu/about) | Optische Präzisionsfertigung, Smart-Grid-Stromverteilung & KI-Maschinensehen |
+| [University at Buffalo](https://www.buffalo.edu/aboutub.html) | Computergestütztes Materialdesign, Batterieelektrolytentdeckung & molekulares KI-Screening |
+| [University of Arizona](https://www.arizona.edu/about) | 5 Genesis-Preise: Erdwissenschafts-KI (AlphaEarth), Wasserressourcen & Planetenmodellierung |
+| [University of California System](https://www.universityofcalifornia.edu/about-us) | Systemweite KI-für-die-Wissenschaft-Koordination, Co-Management nationaler Labore & MINT-Pipelines |
+| [University of Central Florida (UCF)](https://www.ucf.edu/about-ucf/) | Attosekundenlaserphysik, Optik für Weltraumnutzlasten & Quantensensorik-Instrumentierung |
+| [University of Colorado Boulder](https://www.colorado.edu/about) | Infleqtion-Quantensensorikprojekt, Neutralatom-QPUs & Rigetti-Fusionsplasma-Co-Simulationen |
+| [University of Connecticut (UConn)](https://uconn.edu/about-us/) | Synthese von Hochtemperaturlegierungen, Smart-Grid-Cybersicherheit & Materialinformatik |
+| [University of Florida](https://www.ufl.edu/about/) | Hochleistungsrechnen-KI-Workloads, Agrargenomik & Materialscreening |
+| [University of Illinois Urbana-Champaign](https://illinois.edu/about/) | Petascale-KI-Modelltraining, Open-Source-Modellregisterplattformen & Halbleiter-PDKs |
+| [University of Kentucky](https://www.uky.edu/about/) | Mineralextraktion aus Kohlenebenprodukten (NETL), Batterierecycling & Bioenergiematerialien |
+| [University of Maine](https://umaine.edu/about/) | Bio-Verbundwerkstoff-Additive Fertigung im großen Maßstab & Offshore-Schwimmwind-KI-Modelle |
+| [University of Michigan](https://umich.edu/about/) | 2 Genesis-Preise: autonome Materialentdeckung, Mikroelektronik & Kerntechnik |
+| [University of Minnesota](https://twin-cities.umn.edu/about-us) | Basismodelle für chemische Katalyse, Spintronikmaterialien & Computerbiologie |
+| [University of Missouri](https://missouri.edu/about) | Beschleuniger für die Radioisotopenproduktion, Nuklearmedizin-F&E & Pflanzenphänomik-KI |
+| [University of Nebraska–Lincoln (UNL)](https://www.unl.edu/about/) | KI-gestützter „Autopilot“-Co-Designer für 6G-Radio-Access-Networks (RAN), BNL- & HPE-Partnerschaft |
+| [University of New Mexico](https://www.unm.edu/about/) | Quanteninformationswissenschaft, Optikfertigung & Co-F&E mit Sandia/Los Alamos |
+| [University of North Dakota (UND)](https://und.edu/about/) | 2 Genesis-Preise: Extraktion seltener Erden aus Kohleasche & autonome Energie-KI |
+| [University of Pittsburgh](https://www.pitt.edu/about) | Computergestützte Wirkstoffentdeckungs-Basismodelle, vaskuläre Bio-Gießereien & SciML |
+| [University of Southern California (USC)](https://about.usc.edu/) | Quanten-Annealing-Algorithmen, Mikroelektronik-Zuverlässigkeit & autonome KI-Agenten |
+| [University of Texas at Arlington (UTA)](https://www.uta.edu/about) | Echtzeit-KI-Vertrauen & Resilienz für EPICS-Steuerungssysteme & LANL-Partner |
+| [University of Texas at Austin](https://www.utexas.edu/about) | Mikroelektronik-Lithografiemodellierung, Exascale-KI-Modelloptimierung & Stromnetz-KI |
+| [University of Utah](https://www.utah.edu/about/) | AURORA Cloud Lab (20-Mio.-$-Labornetzwerk mit MonArk Quantum Foundry), Geothermie-Reservoirsimulation & klimaneutrale Kraftstoffe |
+| [University of Wisconsin–Madison](https://www.wisc.edu/about/) | 5 Genesis-Projekte, Echtzeit-Plasmasteuerung (David-Smith-Preis), Fusionsplasma-Stellaratorphysik & Quantenpunkte |
+| [Virginia Tech](https://www.vt.edu/about.html) | Cyber-physikalische Stromnetzsicherheit, Hochtemperatur-Verbundwerkstoffe & SciML |
+| [Yale University](https://www.yale.edu/about-yale) | Supraleitende Hohlraum-QED-Quantenarchitektur, QIS-Fehlerminderung & Molekular-KI |
 
 #### Zusätzliche Akademische & Forschungsorganisationen
 
