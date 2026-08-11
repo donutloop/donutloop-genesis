@@ -5,6 +5,16 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.0.49] - 2026-08-12
+
+### Added
+- **Processed Dakota State University (DSU) Argonne Quantum Project Reference**: Processed reference link `https://dsu.edu/news/2026/peng-guo-argonne.html` (*DSU’s Dr. Peng Guo joins Argonne-led quantum computing project*), adding entry to [`references.md`](file:///home/donutloop/Workspace/donutloop-genesis/references.md#L424) Section 5 under National Labs & University Coverage.
+- **Master Index & Ecosystem Coverage Audit**: Registered Master Index Entry `#368` in [`reference_coverage.md`](file:///home/donutloop/Workspace/donutloop-genesis/reference_coverage.md) (updating total metrics to **472 / 472 Processed**, 100% Complete across 223 unique target domains with 455 Web/News items), registered Dakota State University as entry `#116` in [`coverage.md`](file:///home/donutloop/Workspace/donutloop-genesis/coverage.md#L190) (**181 / 181 Consortium Entities Profiled**), and renumbered downstream index rows `#369` to `#472`.
+- **Enriched Section 3.6 & Appendix A.6 in English & German Papers**: Integrated Dakota State University theoretical physics co-PI Dr. Peng Guo's Argonne-led quantum circuit design optimization project for nuclear physics in [`README.md`](file:///home/donutloop/Workspace/donutloop-genesis/README.md#L696) and [`README.de.md`](file:///home/donutloop/Workspace/donutloop-genesis/README.de.md#L689).
+- **Version Bump**: Incremented version string to `3.0.49` across [`README.md`](file:///home/donutloop/Workspace/donutloop-genesis/README.md) and [`README.de.md`](file:///home/donutloop/Workspace/donutloop-genesis/README.de.md).
+
+---
+
 ## [3.0.48] - 2026-08-12
 
 ### Added
