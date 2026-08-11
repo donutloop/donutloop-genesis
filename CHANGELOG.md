@@ -5,6 +5,16 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.0.14] - 2026-08-11
+
+### Added
+- **Processed PNNL Genesis AI for Science News Release**: Processed reference link `https://www.pnnl.gov/news-media/pnnl-powers-biotechnology-grid-operations-nuclear-science-through-genesis-ai-science` (*PNNL Powers Biotechnology, Grid Operations, Nuclear Science Through Genesis AI for Science Mission*), adding entry to [`references.md`](file:///home/donutloop/Workspace/donutloop-genesis/references.md) Section 5.
+- **Master Index Audit**: Registered Master Index Entry `#303` in [`reference_coverage.md`](file:///home/donutloop/Workspace/donutloop-genesis/reference_coverage.md) (updating total metrics to 439 / 439 Processed, 100% Complete) and confirmed **Pacific Northwest National Laboratory** (entity `#99`) in [`coverage.md`](file:///home/donutloop/Workspace/donutloop-genesis/coverage.md) maintaining 100.0% full profile coverage.
+- **Enriched Section 3.2 in English & German Papers**: Detailed PNNL's OPAL (Orchestrated Platform for Autonomous Laboratories) 4-lab network with EMSL & AMP2, national power grid control room AI platform (with NLR), and NNSA nuclear material science AI agentic framework (4x electron microscopy throughput boost) in [`README.md`](file:///home/donutloop/Workspace/donutloop-genesis/README.md#L580) and [`README.de.md`](file:///home/donutloop/Workspace/donutloop-genesis/README.de.md#L576).
+- **Version Bump**: Incremented version string to `3.0.14` across [`README.md`](file:///home/donutloop/Workspace/donutloop-genesis/README.md) and [`README.de.md`](file:///home/donutloop/Workspace/donutloop-genesis/README.de.md).
+
+---
+
 ## [3.0.13] - 2026-08-11
 
 ### Added
