@@ -26,7 +26,7 @@
 | 8 | [Domino Data Lab](https://domino.ai/) | ✅ Full Profile | §3.1, A.3 | Genesis Mission Consortium member; enterprise MLOps AI platform & FedRAMP High enclaves |
 | 9 | [Google / DeepMind / Public Sector](https://deepmind.google/) | ✅ Full Profile | §3.1 | $40M; Gemini; AI Co-Scientist; AlphaFold; AlphaGenome |
 | 10 | [Groq](https://groq.com/) | ✅ Full Profile | §3.1, A.3 | Language Processing Units (LPUs); deterministic ultra-low latency AI inference & GroqRack clusters |
-| 11 | [HPE](https://www.hpe.com/) | ✅ Full Profile | §3.1, A.3 | Exascale HPC substrate; HPE Cray EX & Slingshot; Frontier/Aurora/El Capitan |
+| 11 | [HPE](https://www.hpe.com/) | ✅ Full Profile | §3.1, A.3 | Exascale HPC substrate; HPE Cray EX & Slingshot; Frontier/Aurora/El Capitan; Lux AI supercomputer (ORNL); 6 Genesis R&D awards |
 | 12 | [IBM / IBM Quantum](https://www.ibm.com/quantum) | ✅ Full Profile | §2.2, §3.1, §2.3B | $1B foundry LOI; $50M compute; Heron/Nighthawk; FLiBe fusion |
 | 13 | [Microsoft](https://www.microsoft.com/) | ✅ Full Profile | §3.1 | $60M SPARK; Discovery platform; MatterGen/MatterSim; Majorana |
 | 14 | [NVIDIA](https://www.nvidia.com/) | ✅ Full Profile | §2.1, §3.1 | Solstice/Equinox; Apollo models; Omniverse; edge AI |

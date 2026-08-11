@@ -5,6 +5,15 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [2.4.29] - 2026-08-11
+
+### Changed
+- **Reference Integration & Master Processing (`references.md` & `reference_coverage.md`)**: Formatted and integrated Hewlett Packard Enterprise's official Genesis Mission R&D press release ([`HPE Press Release: Selected for R&D Projects for U.S. DOE-Led Genesis Mission to Advance AI-Driven Innovation and Scientific Discovery`](https://www.hpe.com/us/en/newsroom/press-release/2026/07/hpe-selected-for-rd-projects-for-us-doe-led-genesis-mission-to-advance-ai-driven-innovation-and-scientific-discovery.html), `www.hpe.com`) into Section 4 under Corporate & Industry Announcements, registering it as Master Index Entry #157 and processing its status to `Processed` (**411 / 411 Processed, 100% Complete**).
+- **Research Paper Enrichment (`README.md`, `README.de.md` & `coverage.md`)**: Enriched §3.1 (HPE infrastructure commitments) in both English and German paper editions with details on HPE Labs' 6 strategic DOE Genesis R&D awards, delivery of **Lux** (the first dedicated AI supercomputer for Genesis deployed at ORNL with AMD), and the 2028 **Discovery** exascale system.
+- **Version Bump**: Incremented patch version string to `2.4.29` in `README.md` and `README.de.md`.
+
+---
+
 ## [2.4.28] - 2026-08-11
 
 ### Changed
