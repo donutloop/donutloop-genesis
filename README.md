@@ -1,4 +1,4 @@
-**Version**: 3.0.5
+**Version**: 3.0.6
 
 # The Genesis Mission: Architecture, Strategic Initiatives, and the Multi-Institutional Ecosystem for AI and Quantum-Driven Scientific Discovery
 
@@ -94,43 +94,45 @@ Managed primarily by the **U.S. Department of Energy (DOE) Office of Science**, 
 The Genesis Mission operates through a four-tiered architectural topology that translates high-level executive directives into continuous physical and computational scientific discovery:
 
 ```
-                      +-------------------------------------------------------------+
-                      |             EXECUTIVE & INTERAGENCY GOVERNANCE              |
-                      |    White House OSTP  |  DOE  |  DOC  |  NSF  |  NIH/HHS     |
-                      |   DOD (Dept of War)  |  DHS S&T  |  NASA  |  DOI  |  USDA   |
-                      +------------------------------+------------------------------+
-                                                     |
-             +---------------------------------------+---------------------------------------+
-             |                                                                               |
-+------------v------------------------------+                   +----------------------------v-----------------+
-|   QUANTUM LEADERSHIP & FOUNDRY INFRA.     |                   |  AI FOR SCIENCE & HIGH-PERFORMANCE COMPUTING  |
-| - $2B DOE Quantum Genesis Initiative      |                   | - DE-FOA-0003612 ($293M FOA / $800M+ Match)   |
-| - $2.013B CHIPS Act LOIs (7 Modalities)   |                   | - Exascale HPC: Frontier, Aurora, El Capitan |
-| - Onshore Foundries: IBM Anderon 300mm,   |                   | - AI Supercomputers: Lux, Solstice, Doudna    |
-|   GF QTS, xLight FEL EUV Prototype        |                   | - FAIR Data Highways ($83M NSF Stream Ingest)|
-+------------+------------------------------+                   +----------------------------+-----------------+
-             |                                                                               |
-             +---------------------------------------+---------------------------------------+
-                                                     |
-                      +------------------------------v------------------------------+
-                      |         FEDERATED INTERAGENCY ORCHESTRATION LAYER           |
-                      | - American Science Cloud & Security Platform (AmSC)         |
-                      | - Transformational AI Models Consortium (ModCon)            |
-                      | - High Performance Data Facility (HPDF) Data Backbone       |
-                      | - Orchestrated Platform for Autonomous Labs (OPAL)          |
-                      | - Genesis Open Models Registry (genesisopenmodels.anl.gov)  |
-                      | - SPOTTER-AI Scientific Provenance Threat Attribution Engine|
-                      | - Real-Time Synchrotron / Tokamak / Sensor Data Ingestion   |
-                      +------------------------------+------------------------------+
-                                                     |
-                      +------------------------------v------------------------------+
-                      |             PUBLIC-PRIVATE-ACADEMIC EXECUTION NODES         |
-                      | - 17 DOE National Laboratories (ANL, LBNL, ORNL, LLNL, INL) |
-                      | - Hyperscalers & Cloud (AWS, Google, Microsoft, Oracle, IBM)|
-                      | - Frontier AI & Data (Anthropic, OpenAI, Meta, Scale, etc.) |
-                      | - Industrial & EDA (Siemens, Synopsys, Micron, Cornelis)    |
-                      | - 58 Awardee Research Universities & Self-Driving Labs      |
-                      +-------------------------------------------------------------+
+                       +-------------------------------------------------------------+
+                       |             EXECUTIVE & INTERAGENCY GOVERNANCE              |
+                       |   White House OSTP  |  DOE  |  DOC  |  NSF  |  NIH/HHS  |   |
+                       |  DOD (Dept of War)  |  DHS S&T | NASA | DOI | USDA | AAU    |
+                       +------------------------------+------------------------------+
+                                                      |
+              +---------------------------------------+---------------------------------------+
+              |                                                                               |
+ +------------v------------------------------+                   +----------------------------v-----------------+
+ |   QUANTUM LEADERSHIP & FOUNDRY INFRA.     |                   |  AI FOR SCIENCE & HIGH-PERFORMANCE COMPUTING  |
+ | - $2B DOE Quantum Genesis Initiative      |                   | - DE-FOA-0003612 ($293M FOA / $800M+ Match)   |
+ | - $2.013B CHIPS Act LOIs (7 Modalities)   |                   | - Exascale HPC: Frontier, Aurora, El Capitan |
+ | - Foundries: IBM Anderon 300mm, GF QTS,   |                   | - AI Compute: Lux, Solstice, Doudna, Mission  |
+ |   xLight FEL EUV Lithography Prototype    |                   | - Accelerators: Cerebras, SambaNova, Groq    |
+ | - 7 QPU Modalities: Superconducting,      |                   | - FAIR Data Highways ($83M NSF Stream Ingest)|
+ |   Trapped-Ion, Photonic, Neutral-Atom, etc|                   | - HBM3e/4 Memory & PQC Optical Interconnects |
+ +------------+------------------------------+                   +----------------------------+-----------------+
+              |                                                                               |
+              +---------------------------------------+---------------------------------------+
+                                                      |
+                       +------------------------------v------------------------------+
+                       |         FEDERATED INTERAGENCY ORCHESTRATION LAYER           |
+                       | - American Science Cloud & Security Platform (AmSC)         |
+                       | - Transformational AI Models Consortium (ModCon)            |
+                       | - High Performance Data Facility (HPDF) Data Backbone       |
+                       | - Orchestrated Platform for Autonomous Labs (OPAL)          |
+                       | - Genesis Open Models Registry (genesisopenmodels.anl.gov)  |
+                       | - SPOTTER-AI Scientific Provenance Threat Attribution Engine|
+                       | - Real-Time Synchrotron / Tokamak / Sensor Data Ingestion   |
+                       +------------------------------+------------------------------+
+                                                      |
+                       +------------------------------v------------------------------+
+                       |          PUBLIC-PRIVATE-ACADEMIC EXECUTION NODES            |
+                       | - 17 DOE National Labs + 5 NNSA Sites (22 Nodes total)      |
+                       | - Cloud & Enterprise IT: AWS, Google, MSFT, Oracle, IBM (7) |
+                       | - Frontier AI: Anthropic, OpenAI, Meta, Scale, Arcee, etc (9)|
+                       | - Industrial & EDA: Synopsys, Micron, Siemens, SHINE (6)    |
+                       | - 58 Awardee Universities & Cloud Labs (AURORA, ECL, JHU)   |
+                       +-------------------------------------------------------------+
 ```
 
 Strategic direction originates from executive policy bodies and flows down through four operational layers:

@@ -5,6 +5,14 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.0.6] - 2026-08-11
+
+### Fixed
+- **System Architecture Topology Diagram Update (§1.2)**: Expanded and synchronized the ASCII system architecture topology diagram across [`README.md`](file:///home/donutloop/Workspace/donutloop-genesis/README.md) and [`README.de.md`](file:///home/donutloop/Workspace/donutloop-genesis/README.de.md) to include AAU in Executive Governance, wafer-scale/LPU accelerators (Cerebras, SambaNova, Groq) and HBM3e/4 memory in HPC substrate, 7 QPU modalities in Quantum substrate, 5 NNSA sites + 22 node categories in Execution Nodes, and fixed right-border line overflow formatting in `README.de.md`.
+- **Version Bump**: Incremented version string to `3.0.6` across [`README.md`](file:///home/donutloop/Workspace/donutloop-genesis/README.md) and [`README.de.md`](file:///home/donutloop/Workspace/donutloop-genesis/README.de.md).
+
+---
+
 ## [3.0.5] - 2026-08-11
 
 ### Fixed

@@ -1,4 +1,4 @@
-**Version**: 3.0.5
+**Version**: 3.0.6
 
 # Die Genesis-Mission: Architektur, strategische Initiativen und das multi-institutionelle Ökosystem für KI- und quantengetriebene wissenschaftliche Entdeckungen
 
@@ -93,43 +93,45 @@ Die Genesis-Mission wird in erster Linie vom **U.S. Department of Energy (DOE) O
 Die Genesis-Mission arbeitet über eine vierstufige Architekturtopologie, die hochrangige exekutive Richtlinien in eine kontinuierliche physikalische und rechnerische wissenschaftliche Entdeckung übersetzt:
 
 ```
-                      +-------------------------------------------------------------+
-                      |          EXEKUTIV- & BEHÖRDENÜBERGREIFENDE GOVERNANCE       |
-                      |    White House OSTP  |  DOE  |  DOC  |  NSF  |  NIH/HHS     |
-                      |   DOD (Dept of War)  |  DHS S&T  |  NASA  |  DOI  |  USDA   |
-                      +------------------------------+------------------------------+
-                                                     |
-             +---------------------------------------+---------------------------------------+
-             |                                                                               |
-+------------v------------------------------+                   +----------------------------v-----------------+
-|   QUANTENFÜHRUNG & GIESSEREI-INFRASTRUKTUR|                   |  KI FÜR WISSENSCHAFT & HOCHLEISTUNGSRECHNEN  |
-| - $2B DOE Quantenführungsprogramm         |                   | - DE-FOA-0003612 ($293M FOA / $800M+ Erstf.)  |
-| - $2,013B CHIPS Act LOIs (7 Modalitäten)  |                   | - Exascale HPC: Frontier, Aurora, El Capitan |
-| - Heimische Gießereien: IBM Anderon 300mm,|                   | - KI-Supercomputer: Lux, Solstice, Doudna     |
-|   GF QTS, xLight FEL EUV Prototyp         |                   | - FAIR-Datenautobahnen ($83M NSF Stream)     |
-+------------+------------------------------+                   +----------------------------+-----------------+
-             |                                                                               |
-             +---------------------------------------+---------------------------------------+
-                                                     |
-                      +------------------------------v------------------------------+
-                      |       FÖDERIERTE BEHÖRDENÜBERGREIFENDE ORCHESTRIERUNGSSCHICHT |
-                      | - American Science Cloud & Security Platform (AmSC)         |
-                      | - Transformational AI Models Consortium (ModCon)            |
-                      | - High Performance Data Facility (HPDF) Datenrückgrat       |
-                      | - Orchestrated Platform for Autonomous Laboratories (OPAL)          |
-                      | - Genesis Open Models Registry (genesisopenmodels.anl.gov)  |
-                      | - SPOTTER-AI Wissenschaftliche Herkunfts-Bedrohungsverfolgung|
-                      | - Synchrotron- / Tokamak- / Sensordaten-Echtzeiterfassung   |
-                      +------------------------------+------------------------------+
-                                                     |
-                      +------------------------------v------------------------------+
-                      |         ÖFFENTLICH-PRIVATE-AKADEMISCHE AUSFÜHRUNGSKNOTEN    |
-                      | - 17 DOE National Laboratories (ANL, LBNL, ORNL, LLNL, INL) |
-                      | - Hyperscaler & Cloud (AWS, Google, Microsoft, Oracle, IBM) |
-                      | - Spitzen-KI & Daten (Anthropic, OpenAI, Meta, Scale etc.)  |
-                      | - Industrie & EDA (Siemens, Synopsys, Micron, Cornelis)     |
-                      | - 58 Ausgezeichnete Forschungsuniversitäten & Cloud-Labs    |
-                      +-------------------------------------------------------------+
+                       +-------------------------------------------------------------+
+                       |          EXEKUTIV- & BEHÖRDENÜBERGREIFENDE GOVERNANCE       |
+                       |   White House OSTP  |  DOE  |  DOC  |  NSF  |  NIH/HHS  |   |
+                       |  DOD (Dept of War)  |  DHS S&T | NASA | DOI | USDA | AAU    |
+                       +------------------------------+------------------------------+
+                                                      |
+              +---------------------------------------+---------------------------------------+
+              |                                                                               |
+ +------------v------------------------------+                   +----------------------------v-----------------+
+ |   QUANTENFÜHRUNG & GIESSEREI-INFRASTRUKTUR|                   |  KI FÜR WISSENSCHAFT & HOCHLEISTUNGSRECHNEN  |
+ | - 2 Mrd. $ DOE Quanteninitiative          |                   | - DE-FOA-0003612 (293M$ FOA / 800M$+ Erstf.)  |
+ | - 2,013 Mrd. $ CHIPS Act LOIs (7 Mod.)    |                   | - Exascale HPC: Frontier, Aurora, El Capitan |
+ | - Gießereien: IBM Anderon 300mm, GF QTS,  |                   | - KI-Supercomputer: Lux, Solstice, Doudna    |
+ |   xLight FEL EUV-Lithografie-Prototyp     |                   | - Beschleuniger: Cerebras, SambaNova, Groq   |
+ | - 7 QPU-Modalitäten: Supraleitend,        |                   | - FAIR-Datenautobahnen (83M$ NSF Stream)     |
+ |   Ionenfallen, Photonisch, Neutrale Atome |                   | - HBM3e/4 Speicher & PQC-Optik-Interconnects |
+ +------------+------------------------------+                   +----------------------------+-----------------+
+              |                                                                               |
+              +---------------------------------------+---------------------------------------+
+                                                      |
+                       +------------------------------v------------------------------+
+                       |       FÖDERIERTE BEHÖRDENÜBERGREIFENDE ORCHESTRIERUNGSSCHICHT |
+                       | - American Science Cloud & Security Platform (AmSC)         |
+                       | - Transformational AI Models Consortium (ModCon)            |
+                       | - High Performance Data Facility (HPDF) Datenrückgrat       |
+                       | - Orchestrated Platform for Autonomous Labs (OPAL)          |
+                       | - Genesis Open Models Registry (genesisopenmodels.anl.gov)  |
+                       | - SPOTTER-AI Herkunfts- & Bedrohungsverfolgungsmotor         |
+                       | - Synchrotron- / Tokamak- / Sensordaten-Echtzeiterfassung   |
+                       +------------------------------+------------------------------+
+                                                      |
+                       +------------------------------v------------------------------+
+                       |         ÖFFENTLICH-PRIVATE-AKADEMISCHE AUSFÜHRUNGSKNOTEN    |
+                       | - 17 DOE National Labs + 5 NNSA-Standorte (22 Knoten ges.)  |
+                       | - Cloud & Enterprise-IT: AWS, Google, MSFT, Oracle, IBM (7) |
+                       | - Spitzen-KI: Anthropic, OpenAI, Meta, Scale, Arcee etc (9) |
+                       | - Industrie & EDA: Synopsys, Micron, Siemens, SHINE (6)     |
+                       | - 58 Ausgezeichnete Universitäten & Cloud-Labs (AURORA, ECL)|
+                       +-------------------------------------------------------------+
 ```
 
 Die strategische Ausrichtung geht von exekutiven Entscheidungsgremien aus und fließt durch vier operative Ebenen:
