@@ -5,6 +5,15 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [2.4.50] - 2026-08-11
+
+### Changed
+- **Reference Integration & Master Processing (`references.md` & `reference_coverage.md`)**: Formatted and integrated Orchestrated Platform for Autonomous Laboratories' official portal ([`Orchestrated Platform for Autonomous Laboratories (OPAL) Official Portal: Energy Department Launches Genesis Mission Release`](https://opal-doe.org/2025/11/24/energy-department-launches-genesis-mission-to-transform-american-science-and-innovation-through-the-ai-computing-revolution/), `opal-doe.org`) into Section 4 under Executive, Federal & Partner Announcements, registering it as Master Index Entry #213 and processing its status to `Processed` (**432 / 432 Processed, 100% Complete**).
+- **Research Paper Enrichment (`README.md` & `README.de.md`)**: Enriched §3.1 (Autonomous Laboratory Platforms) in both English and German paper editions with details on OPAL uniting ORNL, LBNL, ANL, and PNNL for autonomous bio-engineering, protein design, and Frontier exascale experiment steering.
+- **Version Bump**: Incremented patch version string to `2.4.50` in `README.md` and `README.de.md`.
+
+---
+
 ## [2.4.49] - 2026-08-11
 
 ### Changed
