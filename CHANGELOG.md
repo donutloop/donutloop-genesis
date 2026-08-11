@@ -4,6 +4,16 @@ All notable changes to the Genesis Mission documentation repository will be docu
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
+## [2.1.22] - 2026-08-11
+
+### Changed
+- **Reference Index Processing & Research Paper Enrichment (Entry #87)**: Processed master reference index link #87 (*NSF: Dear Colleague Letter on Unleashing a New Age of AI-Enabled Scientific Discovery*, `www.nsf.gov`).
+- **Research Paper Updates (`README.md` & `README.de.md`)**: Enriched §1.1 federal agency profiles with formal details on NSF Dear Colleague Letter NSF 26-023 (*Unleashing a New Age of AI-Enabled Scientific Discovery through the Genesis Mission*), soliciting cross-disciplinary research proposals prefixed with **"Genesis Mission:"** across AI-driven scientific workflows, National S&T Challenges, AI-for-science workforce development pipelines, and integration with Programmable Cloud Lab testbed nodes. Ensured complete German paper parity (`README.de.md`).
+- **Master Reference Coverage Report (`reference_coverage.md`)**: Updated entry #87 status to `Processed`. Recalculated executive summary metrics (368 / 371 processed, 3 unprocessed).
+- **Version Bump**: Incremented patch version string to `2.1.22` in `README.md` and `README.de.md`.
+
+---
+
 ## [2.1.21] - 2026-08-11
 
 ### Changed
