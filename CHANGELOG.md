@@ -5,6 +5,15 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [2.4.11] - 2026-08-11
+
+### Changed
+- **Reference Integration & Master Processing (`references.md` & `reference_coverage.md`)**: Formatted and integrated ANL materials design article ([`AI unlocks new possibilities for materials design`](https://www.anl.gov/article/ai-unlocks-new-possibilities-for-materials-design), `www.anl.gov`) into Section 5 under Argonne National Laboratory, registering it as Master Index Entry #218 and processing its status to `Processed` (**393 / 393 Processed, 100% Complete**).
+- **Research Paper Enrichment (`README.md` & `README.de.md`)**: Enriched §2.3D and §3.2 Argonne National Laboratory (ANL) & Sandia National Laboratories (SNL) profiles in both English and German paper editions with details on the **MIRAGE** (Microstructure Insights through Reliable/Interpretable AI and Guided Experiments) project led by Sandia in collaboration with ANL, LLNL, LANL, LBNL, and USC under SciDAC to combine interpretable AI, HPC supercomputing, and guided experiments for predicting material fatigue and manipulating nanoscale self-healing processes.
+- **Version Bump**: Incremented patch version string to `2.4.11` in `README.md` and `README.de.md`.
+
+---
+
 ## [2.4.10] - 2026-08-11
 
 ### Changed
