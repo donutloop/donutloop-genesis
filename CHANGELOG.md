@@ -5,6 +5,15 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [2.4.42] - 2026-08-11
+
+### Changed
+- **Reference Integration & Master Processing (`references.md` & `reference_coverage.md`)**: Formatted and integrated Ames National Laboratory's official news release ([`Ames National Laboratory to Contribute to AI-Driven Magnet Manufacturing Project Under DOE`](https://www.ameslab.gov/news/ames-national-laboratory-to-contribute-to-ai-driven-magnet-manufacturing-project-under-doe), `www.ameslab.gov`) into Section 5 under Ames National Laboratory, registering it as Master Index Entry #216 and processing its status to `Processed` (**424 / 424 Processed, 100% Complete**).
+- **Research Paper Enrichment (`README.md` & `README.de.md`)**: Enriched §3.2 (Ames National Laboratory profile) in both English and German paper editions with details on **AIM-MAG** (led by RPI with Ames Lab's Advanced Magnet Facility AMF) for AI-guided manufacturing of Nd-Fe-B permanent magnets without heavy rare earth elements (Dy/Tb).
+- **Version Bump**: Incremented patch version string to `2.4.42` in `README.md` and `README.de.md`.
+
+---
+
 ## [2.4.41] - 2026-08-11
 
 ### Changed

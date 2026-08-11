@@ -252,7 +252,8 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
 * **Ames National Laboratory:**
   * [Energy Department Launches Historic Genesis Mission](https://www.ameslab.gov/news/energy-department-launches-historic-genesis-mission-to-drive-ai-powered-scientific-revolution)
   * [AI-Powered National Lab Collaboration Launches to Secure U.S. Critical Minerals Supply](https://www.ameslab.gov/news/ai-powered-national-lab-collaboration-launches-to-secure-u-s-critical-minerals-supply)
-  * [Ames Lab Scientist Provides AI-Driven Roadmap for Future Permanent Magnet Design](https://www.ameslab.gov/news/ames-lab-scientist-provides-ai-driven-roadmap-for-future-permanent-magnet-design)     
+  * [Ames Lab Scientist Provides AI-Driven Roadmap for Future Permanent Magnet Design](https://www.ameslab.gov/news/ames-lab-scientist-provides-ai-driven-roadmap-for-future-permanent-magnet-design)
+  * [Ames National Laboratory to Contribute to AI-Driven Magnet Manufacturing Project Under DOE](https://www.ameslab.gov/news/ames-national-laboratory-to-contribute-to-ai-driven-magnet-manufacturing-project-under-doe)     
 * **Argonne National Laboratory (ANL):** 
   * [Energy Department Launches Genesis Mission to Transform American Science](https://www.anl.gov/article/energy-department-launches-genesis-mission-to-transform-american-science-and-innovation-through-the)
   * [Leading AI Research Projects Under DOE Genesis Mission](https://www.anl.gov/article/argonne-to-lead-ai-research-projects-under-the-department-of-energys-genesis-mission)
