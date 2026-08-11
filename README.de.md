@@ -1,4 +1,4 @@
-**Version**: 3.0.1
+**Version**: 3.0.2
 
 # Die Genesis-Mission: Architektur, strategische Initiativen und das multi-institutionelle Ökosystem für KI- und quantengetriebene wissenschaftliche Entdeckungen
 
@@ -210,6 +210,11 @@ Die Architektur der Genesis-Mission basiert auf drei voneinander abhängigen tec
            +--------------------------------------+--------------------------------------+
                                                   |
 +-------------------------------------------------v-------------------------------------------------+
+|                                 GESCHLOSSENER ENTDECKUNGSAUSFÜHRER                                |
+|   Sensoren (NSLS-II/LCLS-II/LHC) -> KI-Inferenz -> QPU-Energielöser -> Roboter-Nasslaborsynthese  |
++---------------------------------------------------------------------------------------------------+
+```
+
 ### 2.1 Hochleistungs-KI-Supercomputing-Infrastruktur
 
 Die Genesis-Mission baut ein föderiertes, heterogenes Hochleistungsrechen-Substrat (HPC) über die 17 Nationalen Laboratorien des US-Energieministeriums auf – verankert in der Argonne Leadership Computing Facility (ANL ALCF), Oak Ridge Leadership Computing Facility (ORNL OLCF), Lawrence Berkeley National Laboratory (LBNL NERSC) und Lawrence Livermore National Laboratory (LLNL) – integriert mit kommerziellen Cloud-Hyperscalern und spezialisierten Hardware-Anbietern. Dieses Supercomputing-Netz kombiniert Exascale-CPUs/GPUs, Wafer-Scale-KI-Beschleuniger, Datenfluss-Prozessoren und wissenschaftliche Echtzeit-Datenautobahnen zu einer einheitlichen Ausführungsstruktur:
@@ -686,7 +691,7 @@ Die Genesis-Mission stellt eine qualitative und strukturelle Abweichung von frü
   - *Paradigmenwechsel*: Der Einsatz autonomer LLM-Schlussfolgerungsagenten, physikbasierter neuronaler Operatoren (SciML), offener Modellregister (ANL **Genesis Open Models** Plattform unter `genesisopenmodels.anl.gov`) und Bedrohungsverfolgungssysteme für wissenschaftliche Provenienz (ANL **SPOTTER-AI**) markiert einen grundlegenden Wandel von der computergestützten zur **agentischen wissenschaftlichen Entdeckung**.
   - *Autonome Agentur*: KI-Agenten formulieren unabhängig theoretische Hypothesen, planen Quanten-Klassik-Algorithmen, führen physikalische Roboter-Experimente aus und kuratieren FAIR-konforme wissenschaftliche Datensätze für die Validierung durch menschliche Experten.
 
-Während die Genesis-Mission reift, erfordert der langfristige Erfolg eine kontinuierliche Konzentration auf mehrere operative Imperative: den Abschluss endgültiger Transaktionsvereinbarungen für CHIPS Act Letters of Intent; die Navigation durch behördenübergreifende Governance und Zero-Trust-Klassifizierungsstandards; und die Erweiterung spezialisierter nationaler Arbeitskräftepipelines in Quanteningenieurwesen, Kryo-Steuerungsmikroelektronik und wissenschaftlicher KI. Dennoch etabliert die Genesis-Mission die umfassendste geschlossene institutionelle Fähigkeit in der Geschichte zur Vereinigung von physikalischer Fertigung, Exascale-Computing, fehlertoleranten Quantengeräten und agentischer KI im Dienste der nationalen Führungsrolle. Ihr dauerhaftes Vermächstis wird sich nicht nur an einzelnen wissenschaftlichen Durchbrüchen messen lassen, sondern an der Dauerhaftigkeit und Erweiterbarkeit der föderierten Architektur, die sie hinterlässt – eine sich selbst tragende nationale Entdeckungs-Engine, die in der Lage ist, die technologische Souveränität Amerikas zu sichern und die komplexesten wissenschaftlichen, materiellen, energetischen und gesundheitlichen Herausforderungen der Menschheit zu lösen.
+Während die Genesis-Mission reift, erfordert der langfristige Erfolg eine kontinuierliche Konzentration auf mehrere operative Imperative: den Abschluss endgültiger Transaktionsvereinbarungen für CHIPS Act Letters of Intent; die Navigation durch behördenübergreifende Governance und Zero-Trust-Klassifizierungsstandards; und die Erweiterung spezialisierter nationaler Arbeitskräftepipelines in Quanteningenieurwesen, Kryo-Steuerungsmikroelektronik und wissenschaftlicher KI. Dennoch etabliert die Genesis-Mission die umfassendste geschlossene institutionelle Fähigkeit in der Geschichte zur Vereinigung von physikalischer Fertigung, Exascale-Computing, fehlertoleranten Quantengeräten und agentischer KI im Dienste der nationalen Führungsrolle. Ihr dauerhaftes Vermächtnis wird sich nicht nur an einzelnen wissenschaftlichen Durchbrüchen messen lassen, sondern an der Dauerhaftigkeit und Erweiterbarkeit der föderierten Architektur, die sie hinterlässt – eine sich selbst tragende nationale Entdeckungs-Engine, die in der Lage ist, die technologische Souveränität Amerikas zu sichern und die komplexesten wissenschaftlichen, materiellen, energetischen und gesundheitlichen Herausforderungen der Menschheit zu lösen.
 
 ---
 
