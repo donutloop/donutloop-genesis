@@ -5,6 +5,15 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [2.4.40] - 2026-08-11
+
+### Changed
+- **Reference Integration & Master Processing (`references.md` & `reference_coverage.md`)**: Formatted and integrated Fermilab's official news release ([`Fermilab's New Director Clarifies Mission and Achieves Progress in First 100 Days`](https://news.fnal.gov/2026/04/fermilabs-new-director-clarifies-mission-and-achieves-progress-in-first-100-days/), `news.fnal.gov`) into Section 5 under Fermi National Accelerator Laboratory, registering it as Master Index Entry #265 and processing its status to `Processed` (**422 / 422 Processed, 100% Complete**).
+- **Research Paper Enrichment (`README.md` & `README.de.md`)**: Enriched §3.2 (Fermilab national laboratory profile) in both English and German paper editions with details on Director Norbert Holtkamp establishing a 2031 deadline for delivering the world's most powerful neutrino beam for LBNF/DUNE and driving national AI Genesis Mission integration.
+- **Version Bump**: Incremented patch version string to `2.4.40` in `README.md` and `README.de.md`.
+
+---
+
 ## [2.4.39] - 2026-08-11
 
 ### Changed
