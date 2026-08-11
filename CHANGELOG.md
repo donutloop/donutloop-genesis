@@ -5,6 +5,16 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.0.9] - 2026-08-11
+
+### Added
+- **Processed RIKEN AI for Science Partnership Reference**: Processed reference link `https://www.riken.jp/en/news_pubs/news/2026/20260605_1/index.html` (*Message from President Gonokami regarding the new Japan-US strategic partnership on "AI for Science"*), adding entry to [`references.md`](file:///home/donutloop/Workspace/donutloop-genesis/references.md) Section 4.
+- **Master Index & Ecosystem Coverage Audit**: Registered Master Index Entry `#214` in [`reference_coverage.md`](file:///home/donutloop/Workspace/donutloop-genesis/reference_coverage.md) (updating total metrics to 434 / 434 Processed, 100% Complete across 214 domains) and added **RIKEN** as entity `#180` in [`coverage.md`](file:///home/donutloop/Workspace/donutloop-genesis/coverage.md) maintaining 100.0% full profile coverage.
+- **Enriched Section 3.5 in English & German Papers**: Added comprehensive profiles of **RIKEN** in [`README.md`](file:///home/donutloop/Workspace/donutloop-genesis/README.md#L632-L638) and [`README.de.md`](file:///home/donutloop/Workspace/donutloop-genesis/README.de.md#L620-L626), detailing the MEXT/METI/DOE Statement of Intent (June 4, 2026), Fugaku supercomputer & SPring-8 synchrotron integration, TRIP/TRIP-AGIS programs, and international AI sovereignty co-creation.
+- **Version Bump**: Incremented version string to `3.0.9` across [`README.md`](file:///home/donutloop/Workspace/donutloop-genesis/README.md) and [`README.de.md`](file:///home/donutloop/Workspace/donutloop-genesis/README.de.md).
+
+---
+
 ## [3.0.8] - 2026-08-11
 
 ### Added

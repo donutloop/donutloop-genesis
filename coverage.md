@@ -1,9 +1,9 @@
 # Genesis Mission — Full Ecosystem Coverage Tracker
 
 > **Scope & Coverage Definition:**
-> - **Flagship Consortium Scope:** Tracks **all 179 primary flagship participants**—lead contractors, federal agencies, national laboratories, awardee universities, strategic industrial partners, and philanthropic foundations—explicitly profiled or referenced in the Genesis Mission paper (`README.md`) and reference index.
+> - **Flagship Consortium Scope:** Tracks **all 180 primary flagship participants**—lead contractors, federal agencies, national laboratories, awardee universities, strategic industrial partners, and philanthropic foundations—explicitly profiled or referenced in the Genesis Mission paper (`README.md`) and reference index.
 > - **Broader National Awardee Network Context:** Under solicitation DE-FOA-0003612 and interagency challenges, the broader national initiative encompasses **342 total participating institutions** (157 companies, 142 universities, 16 national labs, 13 non-profits, 14 other entities across 278 projects).
-> - **Coverage Status:** **179 / 179 (100%)** of the tracked consortium entities have dedicated, detailed technical profiles. 2 newly referenced entities (USDA, University of Texas at Arlington) await full profile integration.
+> - **Coverage Status:** **180 / 180 (100%)** of the tracked consortium entities have dedicated, detailed technical profiles.
 
 **Legend:**
 - ✅ **Full Profile** — Dedicated section with detailed technical write-up (Sections 2.2 / 3.1 / 3.2 / 3.3 / 3.4 / 3.5)
@@ -258,6 +258,7 @@
 | 177 | [RTI International](https://www.rti.org/) | ✅ Full Profile | §3.5, A.5 | Environmental risk AI modeling, carbon capture technology scaling & life-cycle assessment engines |
 | 178 | [Schmidt Sciences](https://www.schmidtsciences.org/) | ✅ Full Profile | §3.4, A.4 | Non-profit research foundation, AI for Science fellowships & open scientific model grants |
 | 179 | [Association of American Universities (AAU)](https://www.aau.edu/) | ✅ Full Profile | §3.4, A.1 | Higher education association representing 71 research universities, DOE RFI academic talent mobilization response, graduate fellowships & IP/CRADA frameworks |
+| 180 | [RIKEN](https://www.riken.jp/) | ✅ Full Profile | §3.5 | Japan's premier natural sciences research institute & 1st international Genesis partner (MEXT/METI/DOE agreement, TRIP/TRIP-AGIS, Fugaku & SPring-8 integration) |
 
 ---
 
@@ -271,16 +272,16 @@
 | Federal Agencies | 10 | 10 | 0 | 0 |
 | National Laboratories & Defense Sites | 22 | 22 | 0 | 0 |
 | Universities | 62 | 62 | 0 | 0 |
-| Philanthropy, Policy & Regional Hubs | 10 | 10 | 0 | 0 |
-| **Total** | **179** | **179** | **0** | **0** |
+| Philanthropy, Policy & Regional Hubs | 11 | 11 | 0 | 0 |
+| **Total** | **180** | **180** | **0** | **0** |
 
 ### By Coverage Level
 
 | Coverage Level | Count | Percentage |
 |:---|:---:|:---:|
-| ✅ Full Profile | 179 | 100.0% |
+| ✅ Full Profile | 180 | 100.0% |
 | 📋 Brief Mention | 0 | 0.0% |
 | ❌ Not Covered | 0 | 0.0% |
-| **Total Entities** | **179** | **100%** |
+| **Total Entities** | **180** | **100%** |
 
-> **Note:** All 179 tracked Genesis Mission ecosystem participants have dedicated, detailed technical write-ups (achieving 100.0% full profile coverage across all 75 industry partners, 22 national lab/defense sites, 62 research universities, 10 federal agencies, and 10 philanthropy, policy, and regional hubs). The broader sub-grantee network of 342 participating institutions represents secondary academic and sub-contractor nodes across the 278 national project awards.
+> **Note:** All 180 tracked Genesis Mission ecosystem participants have dedicated, detailed technical write-ups (achieving 100.0% full profile coverage across all 75 industry partners, 22 national lab/defense sites, 62 research universities, 10 federal agencies, and 11 philanthropy, policy, and regional hubs). The broader sub-grantee network of 342 participating institutions represents secondary academic and sub-contractor nodes across the 278 national project awards.
