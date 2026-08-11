@@ -348,6 +348,7 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
   * [Energy Department Launches Genesis Mission Release](https://www.srnl.gov/news-releases/energy-department-launches-genesis-mission-to-transform-american-science-and-innovation-through-the-ai-computing-revolution/)
   * [SRNL Genesis Mission Portal](https://www.srnl.gov/genesis-mission/)
   * [SRNL Genesis Mission Hub](https://www.srnl.gov/srnl-genesis-mission/)
+  * [Savannah River National Laboratory: Advanced Manufacturing Collaborative (AMC) Fact Sheet](https://www.srnl.gov/fact-sheets/advanced-manufacturing-collaborative/)
   * [SRNL Awarded AI-Powered Cleanup Projects Through DOE's Genesis Mission](https://www.energy.gov/em/articles/srnl-awarded-ai-powered-cleanup-projects-through-does-genesis-mission)
   * [Supporting Genesis Mission: SRS Center for AI-Accelerated Innovation](https://www.energy.gov/em/articles/supporting-genesis-mission-srs-center-ai-accelerated-innovation)
   * [SRNL Contributes Key Expertise to DOE's New Genesis Mission](https://www.energy.gov/em/articles/srnl-contributes-key-expertise-does-new-genesis-mission)
