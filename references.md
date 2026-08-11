@@ -456,3 +456,5 @@ https://news.lehigh.edu/lehigh-researchers-earn-two-doe-genesis-mission-funding-
 https://www.energy.gov/em/articles/savannah-river-national-laboratory-makes-strong-showing-2026-ai-expo
 
 https://dallasinnovates.com/uta-lands-doe-genesis-mission-award-to-keep-ai-honest-in-scientific-research/
+
+https://news.engr.psu.edu/2026/coe-genesis-mission-projects-2026.aspx
