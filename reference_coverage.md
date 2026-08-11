@@ -1,7 +1,7 @@
 # Genesis Mission — Master Reference Coverage Report
 
 > **Document Overview:**
-> This report provides a comprehensive coverage analysis, breakdown, and master audit index of all **435 external reference links** compiled within `references.md` for the **Genesis Mission** documentation repository.
+> This report provides a comprehensive coverage analysis, breakdown, and master audit index of all **436 external reference links** compiled within `references.md` for the **Genesis Mission** documentation repository.
 
 ---
 
@@ -9,13 +9,13 @@
 
 | Metric | Count / Value | Description |
 | :--- | :--- | :--- |
-| **Total Reference Links** | **435** | Unique external links indexed across all sections |
+| **Total Reference Links** | **436** | Unique external links indexed across all sections |
 | **Primary Document Sections** | **7** | High-level thematic categories in `references.md` |
-| **Unique Target Domains** | **214** | Distinct institutional, corporate, and governmental web hosts |
-| **Official PDF Documents** | **16** | Formal RFA solicitations, webinars, slides, and executive reports |
+| **Unique Target Domains** | **215** | Distinct institutional, corporate, and governmental web hosts |
+| **Official PDF Documents** | **17** | Formal RFA solicitations, webinars, slides, and executive reports |
 | **Web Portals & Press Releases** | **419** | Newsroom features, corporate blog posts, and interactive hubs |
 | **Validation Status** | **100% Validated** | All links canonicalized, formatted, and deduplicated |
-| **Processing Status** | **435 / 435 Processed** | 0 Unprocessed, 433 Processed (100% Complete) |
+| **Processing Status** | **436 / 436 Processed** | 0 Unprocessed, 433 Processed (100% Complete) |
 
 ---
 
@@ -29,7 +29,7 @@
 | 4 | `4. Executive, Federal & Partner Announcements` | **135** | 31.1% | White House releases, Cabinet agency press, hyperscaler & lab announcements |
 | 5 | `5. National Labs & University Coverage` | **208** | 47.8% | National Laboratory news portals & 60 awardee university press releases |
 | 6 | `6. Additional Event Materials & Reference Links` | **2** | 0.5% | Presentation slide decks, institutional intro files & video recordings |
-| 7 | `7. Technical Documents, RFA Guidance & Official Webinars` | **11** | 2.8% | DE-FOA-0003612 solicitations, OSTP challenge papers & SCAC presentations |
+| 7 | `7. Technical Documents, RFA Guidance & Official Webinars` | **12** | 2.8% | DE-FOA-0003612 solicitations, OSTP challenge papers & SCAC presentations |
 
 ---
 
@@ -70,7 +70,7 @@ Below is the distribution of references grouped by top domain hosts and institut
 
 ## 4. Master Reference Link Index
 
-A complete tabular listing of all 435 indexed reference links:
+A complete tabular listing of all 436 indexed reference links:
 
 | # | Category / Section | Entity / Subject | Title | Domain | Type | Link | Status |
 |---|---|---|---|---|:---:|---|:---:|
@@ -509,3 +509,4 @@ A complete tabular listing of all 435 indexed reference links:
 | 433 | 7. Technical Documents, RFA Guidance & Official Overviews | - | U.S. Department of Energy: ModCon — Transformational AI and Data Overview | `www.energy.gov` | Web | [U.S. Department of Energy: ModCon — Transformational AI and Data Overview](https://www.energy.gov/undersecretaryforscience/genesis-mission/modcon-transformational-ai-and-data) | `Processed` |
 | 434 | 7. Technical Documents, RFA Guidance & Official Webinars | - | U.S. Department of Energy: Data Team Fact Sheet | `www.energy.gov` | Web | [U.S. Department of Energy: Data Team Fact Sheet](https://www.energy.gov/documents/data-team-fact-sheet) | `Processed` |
 | 435 | 7. Technical Documents, RFA Guidance & Official Webinars | - | U.S. Department of Defense: Artificial Intelligence Strategy for the Department of War (PDF) | `media.defense.gov` | PDF | [U.S. Department of Defense: Artificial Intelligence Strategy for the Department of War (PDF)](https://media.defense.gov/2026/Jan/12/2003855671/-1/-1/0/ARTIFICIAL-INTELLIGENCE-STRATEGY-FOR-THE-DEPARTMENT-OF-WAR.PDF) | `Processed` |
+| 436 | 7. Technical Documents, RFA Guidance & Official Webinars | - | INL GAIN / ANL: Overview of NE Focus Areas in DOE's Genesis AI Initiative Presentation — Dr. Rick Vilim (PDF) | `gain.inl.gov` | PDF | [INL GAIN / ANL: Overview of NE Focus Areas in DOE's Genesis AI Initiative Presentation — Dr. Rick Vilim (PDF)](https://gain.inl.gov/content/uploads/4/2026/06/05-Overview-of-NE-Focus-Areas-in-DOEs-Genesis-AI-Initiative-Rick-Vilim.pdf) | `Processed` |

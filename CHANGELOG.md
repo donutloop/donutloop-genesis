@@ -5,6 +5,16 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.0.11] - 2026-08-11
+
+### Added
+- **Processed INL GAIN Nuclear Energy Focus Areas Reference**: Processed reference link `https://gain.inl.gov/content/uploads/4/2026/06/05-Overview-of-NE-Focus-Areas-in-DOEs-Genesis-AI-Initiative-Rick-Vilim.pdf` (*Overview of NE Focus Areas in DOE's Genesis AI Initiative Presentation — Dr. Rick Vilim*), adding entry to [`references.md`](file:///home/donutloop/Workspace/donutloop-genesis/references.md) Section 7.
+- **Master Index Audit**: Registered Master Index Entry `#436` in [`reference_coverage.md`](file:///home/donutloop/Workspace/donutloop-genesis/reference_coverage.md) (updating total metrics to 436 / 436 Processed, 100% Complete across 215 domains with 17 official PDFs) and confirmed **Idaho National Laboratory** (entity `#10`) and **Argonne National Laboratory** (entity `#8`) in [`coverage.md`](file:///home/donutloop/Workspace/donutloop-genesis/coverage.md) maintaining 100.0% full profile coverage.
+- **Enriched Section 3.2 in English & German Papers**: Detailed Project Prometheus, Office of Nuclear Energy (NE) Focus Areas (4A plant design/licensing, 4B autonomous ops, 4C manufacturing/construction, 4E fuel cycle licensing, 4H legacy document curation), and seed project workflow acceleration (~24-hour plant workflow turnaround) in [`README.md`](file:///home/donutloop/Workspace/donutloop-genesis/README.md#L573) and [`README.de.md`](file:///home/donutloop/Workspace/donutloop-genesis/README.de.md#L569).
+- **Version Bump**: Incremented version string to `3.0.11` across [`README.md`](file:///home/donutloop/Workspace/donutloop-genesis/README.md) and [`README.de.md`](file:///home/donutloop/Workspace/donutloop-genesis/README.de.md).
+
+---
+
 ## [3.0.10] - 2026-08-11
 
 ### Added
