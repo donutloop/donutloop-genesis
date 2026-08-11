@@ -5,6 +5,15 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [2.3.5] - 2026-08-11
+
+### Changed
+- **Reference Index Processing (Entry #87 - Federal Register EO 14363 Public Inspection PDF)**: Processed master reference index Entry #87 ([public-inspection.federalregister.gov/2025-21665.pdf?1764173712](https://public-inspection.federalregister.gov/2025-21665.pdf?1764173712)). Enriched Executive Order 14363 citations in Section 1.1 of `README.md` and `README.de.md` with official public inspection PDF details, whole-of-government legal codification in CFR Title 3, 90-day OMB/OSTP action plans, ITAR/EAR export controls, and Zero-Trust cybersecurity protocols.
+- **Master Reference Coverage Complete (`reference_coverage.md`)**: Updated Entry #87 status from `Unprocessed` to `Processed` in `reference_coverage.md`, achieving **100% processing status** across all master reference index entries (**384 / 384 Processed**).
+- **Version Bump**: Incremented patch version string to `2.3.5` in `README.md` and `README.de.md`.
+
+---
+
 ## [2.3.4] - 2026-08-11
 
 ### Changed
