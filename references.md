@@ -386,7 +386,9 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
 * **University of Alabama:** [University of Alabama News: UA Genesis Mission Award Will Create AI Tool for Particle Physics](https://news.ua.edu/2026/08/ua-genesis-mission-award-will-create-ai-tool-for-particle-physics/)
 * **Arizona State University (ASU):** [Awarded DOE Genesis Mission Grant for Electrical Grid Reliability](https://news.asu.edu/20260722-science-and-technology-asu-awarded-doe-genesis-mission-grant-electrical-grid-reliability)
 * **Caltech:** [Two Projects Selected for Funding](https://www.caltech.edu/about/news/two-caltech-projects-selected-for-doe-funding-as-part-of-genesis-mission)
-* **Carnegie Mellon University:** [Researchers Lead Three Awards](https://www.cmu.edu/news/stories/archives/2026/july/carnegie-mellon-researchers-lead-three-doe-genesis-mission-awards-to-advance-the-future-of-ai)
+* **Carnegie Mellon University:**
+  * [Researchers Lead Three Awards](https://www.cmu.edu/news/stories/archives/2026/july/carnegie-mellon-researchers-lead-three-doe-genesis-mission-awards-to-advance-the-future-of-ai)
+  * [Connecting Autonomous Laboratories to Speed Scientific Advancement](https://www.cmu.edu/news/stories/archives/2026/july/connecting-autonomous-laboratories-to-speed-scientific-advancement)
 * **Colorado State University:** [Researchers Selected for Two Highly Competitive Projects](https://source.colostate.edu/csu-researchers-selected-for-two-highly-competitive-department-of-energy-genesis-mission-projects/)
 * **Columbia University:** [Projects Receive Genesis Mission Funding](https://news.columbia.edu/news/columbia-university-projects-receive-genesis-mission-funding)
 * **Cornell University:** [Awards Will Advance AI-Driven Science](https://news.cornell.edu/stories/2026/07/doe-genesis-mission-awards-will-advance-ai-driven-science)
