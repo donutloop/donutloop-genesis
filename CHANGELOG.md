@@ -4,6 +4,16 @@ All notable changes to the Genesis Mission documentation repository will be docu
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
+## [2.1.24] - 2026-08-11
+
+### Changed
+- **Reference Index Processing & Research Paper Enrichment (Entry #297)**: Processed master reference index link #297 (*Penn State Engineering Genesis Mission Projects*, `news.engr.psu.edu`).
+- **Research Paper Updates (`README.md` & `README.de.md`)**: Enriched §3.3 research university profiles with formal details on Penn State's Phase I awards (*AI-Orchestrated Multimodal Platforms for Accelerated Discovery, Scale-Up, and Deployment of 2D Materials* led by Stephanie Law, and *Transient Kinetics and Spectroscopy for Agentic Digital Twins to Upgrade Domestic Alkane Feedstocks into Value-Added Chemicals* led by Michael Janik), Phase II partnership on INL-led **Project Prometheus** (AI nuclear reactor licensing), and leadership of the $20 Million NSF-funded **LATTICE** initiative (*Layered and Thin-film Technologies with Intelligent Cloud Experimentation*, led by Joan Redwing) building a programmable cloud lab for quantum and semiconductor materials. Ensured complete German paper parity (`README.de.md`).
+- **Master Reference Coverage Report (`reference_coverage.md`)**: Updated entry #297 status to `Processed`. Recalculated executive summary metrics (370 / 371 processed, 1 unprocessed).
+- **Version Bump**: Incremented patch version string to `2.1.24` in `README.md` and `README.de.md`.
+
+---
+
 ## [2.1.23] - 2026-08-11
 
 ### Changed

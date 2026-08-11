@@ -15,7 +15,7 @@
 | **Official PDF Documents** | **14** | Formal RFA solicitations, webinars, slides, and executive reports |
 | **Web Portals & Press Releases** | **354** | Newsroom features, corporate blog posts, and interactive hubs |
 | **Validation Status** | **100% Validated** | All links canonicalized, formatted, and deduplicated |
-| **Processing Status** | **369 / 371 Processed** | 2 Unprocessed, 369 Processed |
+| **Processing Status** | **370 / 371 Processed** | 1 Unprocessed, 370 Processed |
 
 ---
 
@@ -364,7 +364,7 @@ A complete tabular listing of all 363 indexed reference links:
 | 294 | 5. National Labs & University Coverage | Universities & Research Institutions | Faculty Drive Three U.S. Department of Energy Genesis Mission Projects | `www.nyu.edu` | Web | [Faculty Drive Three U.S. Department of Energy Genesis Mission Projects](https://www.nyu.edu/about/news-publications/news/2026/july/nyu-faculty-drive-three-us-department-of-energy-genesis-mission-.html?challenge=d06e90d7-4d8f-4b88-9d8c-10b73beb60f1) | `Processed` |
 | 295 | 5. National Labs & University Coverage | Universities & Research Institutions | Projects Receive Funding | `news.northwestern.edu` | Web | [Projects Receive Funding](https://news.northwestern.edu/stories/2026/07/northwestern-projects-receive-genesis-mission-funding) | `Processed` |
 | 296 | 5. National Labs & University Coverage | Universities & Research Institutions | Scientists to Lead Three Projects | `www.psu.edu` | Web | [Scientists to Lead Three Projects](https://www.psu.edu/news/research/story/penn-state-scientists-lead-three-genesis-mission-projects) | `Processed` |
-| 297 | 5. National Labs & University Coverage | Universities & Research Institutions | Penn State Engineering Genesis Mission Projects | `news.engr.psu.edu` | Web | [Penn State Engineering Genesis Mission Projects](https://news.engr.psu.edu/2026/coe-genesis-mission-projects-2026.aspx) | `Unprocessed` |
+| 297 | 5. National Labs & University Coverage | Universities & Research Institutions | Penn State Engineering Genesis Mission Projects | `news.engr.psu.edu` | Web | [Penn State Engineering Genesis Mission Projects](https://news.engr.psu.edu/2026/coe-genesis-mission-projects-2026.aspx) | `Processed` |
 | 298 | 5. National Labs & University Coverage | Universities & Research Institutions | Researchers Awarded Grants to Lead AI Projects | `www.princeton.edu` | Web | [Researchers Awarded Grants to Lead AI Projects](https://www.princeton.edu/news/2026/07/22/princeton-researchers-awarded-genesis-mission-grants-department-energy-accelerate) | `Processed` |
 | 299 | 5. National Labs & University Coverage | Universities & Research Institutions | Princeton Researchers Awarded Genesis Mission Grants | `research.princeton.edu` | Web | [Princeton Researchers Awarded Genesis Mission Grants](https://research.princeton.edu/news/princeton-researchers-awarded-genesis-mission-grants-department-energy-accelerate-ai-use-0) | `Processed` |
 | 300 | 5. National Labs & University Coverage | Universities & Research Institutions | Selected for Two U.S. Department of Energy Genesis Mission Projects | `news.rpi.edu` | Web | [Selected for Two U.S. Department of Energy Genesis Mission Projects](https://news.rpi.edu/2026/07/31/rpi-selected-two-us-department-energy-genesis-mission-projects) | `Processed` |
