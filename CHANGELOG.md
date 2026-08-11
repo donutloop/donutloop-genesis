@@ -5,6 +5,15 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [2.4.49] - 2026-08-11
+
+### Changed
+- **Reference Integration & Master Processing (`references.md` & `reference_coverage.md`)**: Formatted and integrated Argonne National Laboratory's official Newswise release ([`Argonne to Lead AI Research Projects Under the Department of Energy's Genesis Mission (Newswise)`](https://www.newswise.com/doescience/argonne-to-lead-ai-research-projects-under-the-department-of-energy-s-genesis-mission), `www.newswise.com`) into Section 5 under Argonne National Laboratory, registering it as Master Index Entry #239 and processing its status to `Processed` (**431 / 431 Processed, 100% Complete**).
+- **Research Paper Enrichment (`README.md` & `README.de.md`)**: Enriched §3.2 (Argonne National Laboratory profile) in both English and German paper editions with reference link to the official DOE Science Newswise release.
+- **Version Bump**: Incremented patch version string to `2.4.49` in `README.md` and `README.de.md`.
+
+---
+
 ## [2.4.48] - 2026-08-11
 
 ### Changed
