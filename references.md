@@ -256,6 +256,7 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
   * [Leading AI Research Projects Under DOE Genesis Mission](https://www.anl.gov/article/argonne-to-lead-ai-research-projects-under-the-department-of-energys-genesis-mission)
   * [Genesis Mission Overview & ALCF Integration](https://www.anl.gov/genesis-mission)
   * [Genesis Mission Awarded Projects List](https://www.anl.gov/genesis-mission/projects)
+  * [Argonne National Laboratory: Genesis Mission Systems & Supercomputing Architecture](https://www.anl.gov/genesis-mission/systems)
   * [Argonne Launches First Large-Scale AI Inference Service for Open Science](https://www.anl.gov/article/argonne-launches-first-largescale-ai-inference-service-for-open-science)
   * [Real-Time AI Engine Poised to Revolutionize Large-Scale Imaging Data at National Labs](https://www.anl.gov/article/realtime-ai-engine-poised-to-revolutionize-largescale-imaging-data-at-national-labs)
   * [Argonne Receives DOE Funding to Advance AI for Science](https://www.anl.gov/article/argonne-receives-doe-funding-to-advance-ai-for-science)
