@@ -4,6 +4,14 @@ All notable changes to the Genesis Mission documentation repository will be docu
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
+## [2.2.1] - 2026-08-11
+
+### Changed
+- **Research Paper Enrichment (UT Arlington Scientific AI Trust & EPICS Resilience)**: Expanded technical details for **University of Texas at Arlington (UTA)** in Section 3.3 (`Nuclear Physics, Particle Acceleration & Extreme Environments`) of `README.md` and `README.de.md`. Fully detailed Dr. Habeeb Olufowobi's $750,000 DOE Genesis Mission Phase I grant under DE-FOA-0003612 (*"Real-Time Trust and Resilience for AI-Driven EPICS Scientific Workflows"*), specifying the $500,000 UTA CSE award share and $250,000 partner allocation across Los Alamos National Laboratory (LANL), University of Colorado Colorado Springs (UCCS), Washington State University (WSU), and Metropolitan State University. Documented the real-time trust monitoring layer for the Experimental Physics and Industrial Control System (EPICS) platform across DOE facilities to evaluate neural model inference outputs in sub-millisecond execution loops, preventing corrupted or hallucinated AI control signals from destabilizing beamline hardware or particle accelerators.
+- **Version Bump**: Incremented patch version string to `2.2.1` in `README.md` and `README.de.md`.
+
+---
+
 ## [2.2.0] - 2026-08-11
 
 ### Changed
