@@ -5,6 +5,16 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.0.13] - 2026-08-11
+
+### Added
+- **Processed ANL Genesis Mission Project Prometheus Reference**: Processed reference link `https://www.anl.gov/genesis-mission/projects/prometheus` (*Prometheus: Automated Rapid Design and Licensing of Advanced Nuclear Technologies Using AI*), adding entry to [`references.md`](file:///home/donutloop/Workspace/donutloop-genesis/references.md) Section 5.
+- **Master Index Audit**: Registered Master Index Entry `#232` in [`reference_coverage.md`](file:///home/donutloop/Workspace/donutloop-genesis/reference_coverage.md) (updating total metrics to 438 / 438 Processed, 100% Complete) and confirmed **Argonne National Laboratory** (entity `#8`) and **Idaho National Laboratory** (entity `#10`) in [`coverage.md`](file:///home/donutloop/Workspace/donutloop-genesis/coverage.md) maintaining 100.0% full profile coverage.
+- **Enriched Section 3.2 in English & German Papers**: Integrated official ANL Project Prometheus portal release in [`README.md`](file:///home/donutloop/Workspace/donutloop-genesis/README.md#L570) and [`README.de.md`](file:///home/donutloop/Workspace/donutloop-genesis/README.de.md#L566).
+- **Version Bump**: Incremented version string to `3.0.13` across [`README.md`](file:///home/donutloop/Workspace/donutloop-genesis/README.md) and [`README.de.md`](file:///home/donutloop/Workspace/donutloop-genesis/README.de.md).
+
+---
+
 ## [3.0.12] - 2026-08-11
 
 ### Added
