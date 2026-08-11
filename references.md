@@ -452,3 +452,5 @@ wip:
 https://www.nsf.gov/funding/information/dcl-unleashing-new-age-ai-enabled-scientific-discovery-through
 
 https://news.lehigh.edu/lehigh-researchers-earn-two-doe-genesis-mission-funding-awards
+
+https://www.energy.gov/em/articles/savannah-river-national-laboratory-makes-strong-showing-2026-ai-expo
