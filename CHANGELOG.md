@@ -5,6 +5,16 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.0.43] - 2026-08-12
+
+### Added
+- **Processed NVIDIA NSF State & Regional AI Infrastructure Hubs Reference**: Processed reference link `https://blogs.nvidia.com/blog/nsf-state-regional-ai-hub-program/` (*NVIDIA Joins NSF State and Regional AI Hubs Program to Expand AI Research and Education Across the US*), adding entry to [`references.md`](file:///home/donutloop/Workspace/donutloop-genesis/references.md#L231) Section 4 under Executive, Federal & Partner Announcements.
+- **Master Index Audit**: Registered Master Index Entry `#208` in [`reference_coverage.md`](file:///home/donutloop/Workspace/donutloop-genesis/reference_coverage.md) (updating total metrics to **466 / 466 Processed**, 100% Complete across 221 unique target domains with 449 Web/News items) and renumbered downstream index rows `#209` to `#466`.
+- **Enriched Section 3.1 & Appendix A.3 in English & German Papers**: Integrated NVIDIA's participation in the NSF State and Regional AI Hubs initiative, university compute model scaling, and regional workforce/physical AI enablement in [`README.md`](file:///home/donutloop/Workspace/donutloop-genesis/README.md#L502) and [`README.de.md`](file:///home/donutloop/Workspace/donutloop-genesis/README.de.md#L501).
+- **Version Bump**: Incremented version string to `3.0.43` across [`README.md`](file:///home/donutloop/Workspace/donutloop-genesis/README.md) and [`README.de.md`](file:///home/donutloop/Workspace/donutloop-genesis/README.de.md).
+
+---
+
 ## [3.0.42] - 2026-08-12
 
 ### Added
