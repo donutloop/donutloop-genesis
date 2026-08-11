@@ -256,7 +256,7 @@
 | 175 | [Renaissance Philanthropy](https://www.renaissancephilanthropy.org/) | ✅ Full Profile | §3.4, A.4 | Catalytic scientific philanthropy, venture research grants & AI for Science acceleration |
 | 176 | [RTI International](https://www.rti.org/) | ✅ Full Profile | §3.5, A.5 | Environmental risk AI modeling, carbon capture technology scaling & life-cycle assessment engines |
 | 177 | [Schmidt Sciences](https://www.schmidtsciences.org/) | ✅ Full Profile | §3.4, A.4 | Non-profit research foundation, AI for Science fellowships & open scientific model grants |
-| 178 | [Association of American Universities (AAU)](https://www.aau.edu/) | ❌ Not Covered | §3.4, A.4 | Higher education association, DOE RFI academic talent mobilization response (reference only) |
+| 178 | [Association of American Universities (AAU)](https://www.aau.edu/) | ✅ Full Profile | §3.4, A.1 | Higher education association representing 71 research universities, DOE RFI academic talent mobilization response, graduate fellowships & IP/CRADA frameworks |
 
 ---
 
@@ -270,16 +270,16 @@
 | Federal Agencies | 10 | 10 | 0 | 0 |
 | National Laboratories & Defense Sites | 22 | 22 | 0 | 0 |
 | Universities | 61 | 61 | 0 | 0 |
-| Philanthropy & Regional Hubs | 10 | 9 | 0 | 1 |
-| **Total** | **178** | **177** | **0** | **1** |
+| Philanthropy, Policy & Regional Hubs | 10 | 10 | 0 | 0 |
+| **Total** | **178** | **178** | **0** | **0** |
 
 ### By Coverage Level
 
 | Coverage Level | Count | Percentage |
 |:---|:---:|:---:|
-| ✅ Full Profile | 177 | 99.4% |
+| ✅ Full Profile | 178 | 100.0% |
 | 📋 Brief Mention | 0 | 0.0% |
-| ❌ Not Covered | 1 | 0.6% |
+| ❌ Not Covered | 0 | 0.0% |
 | **Total Entities** | **178** | **100%** |
 
-> **Note:** 177 of 178 tracked Genesis Mission ecosystem participants have dedicated, detailed technical write-ups (achieving 99.4% full profile coverage across all 75 industry partners, 22 national lab/defense sites, 61 research universities, 10 federal agencies, and 9 philanthropy/regional hubs, with 1 higher education association tracked for reference). The broader sub-grantee network of 342 participating institutions represents secondary academic and sub-contractor nodes across the 278 national project awards.
+> **Note:** All 178 tracked Genesis Mission ecosystem participants have dedicated, detailed technical write-ups (achieving 100.0% full profile coverage across all 75 industry partners, 22 national lab/defense sites, 61 research universities, 10 federal agencies, and 10 philanthropy, policy, and regional hubs). The broader sub-grantee network of 342 participating institutions represents secondary academic and sub-contractor nodes across the 278 national project awards.

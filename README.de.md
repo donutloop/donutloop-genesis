@@ -1,4 +1,4 @@
-**Version**: 2.3.7
+**Version**: 2.3.8
 
 # Die Genesis-Mission: Architektur, strategische Initiativen und das multi-institutionelle Ökosystem für KI- und quantengetriebene wissenschaftliche Entdeckungen
 
@@ -37,6 +37,7 @@ Die Genesis-Mission wird in erster Linie vom **U.S. Department of Energy (DOE) O
 * **Department of Homeland Security (DHS S&T):** Leitet KI-Herausforderungen für die nationale Sicherheit im Rahmen seiner offiziellen Bekanntgabe (*DHS S&T Announces New Genesis Mission Challenges to Safeguard America's Future*, [www.dhs.gov/science-and-technology/news/2026/07/22/st-announces-new-genesis-mission-challenges-safeguard-americas-future](https://www.dhs.gov/science-and-technology/news/2026/07/22/st-announces-new-genesis-mission-challenges-safeguard-americas-future)) und etabliert dedizierte Initiativen für *Software-Verständnis für die nationale Sicherheit* (agentische KI und formelle Software-Verifizierung für kritische Infrastrukturen) sowie *Früherkennung und Attribuierung biologischer Bedrohungen*. Das DHS S&T integriert Modelle für die Sicherheit kritischer Infrastrukturen, Stromnetzüberwachung und Bio-Bedrohungsattribuierung in die **American Science and Security Platform**.
 * **Department of the Interior (DOI / USGS):** Leitet die Bewertung kritischer Mineralressourcen, die nationale Geodateninfrastruktur, die hydrologische Kartierung und die Umweltverwaltung öffentlicher Ländereien im Rahmen seiner offiziellen Bekanntgabe (*Interior Highlights Scientific Leadership Supporting the Genesis Mission*, [www.doi.gov/pressreleases/interior-highlights-scientific-leadership-supporting-genesis-mission](https://www.doi.gov/pressreleases/interior-highlights-scientific-leadership-supporting-genesis-mission)) und integriert USGS 3DEP-Höhenmodelle, hyperspektrale Mineralkartierungen und Grundwasser-digitale-Zwillinge in die **American Science and Security Platform**.
 * **U.S. Department of Agriculture (USDA / AgARDA):** Treibt landwirtschaftliche KI-Innovationen voran und arbeitet im Rahmen der Genesis-Mission ([www.usda.gov/about-usda/news/press-releases/2026/07/22/usda-asks-partners-develop-ai-solutions-accelerate-crop-innovation](https://www.usda.gov/about-usda/news/press-releases/2026/07/22/usda-asks-partners-develop-ai-solutions-accelerate-crop-innovation)) mit Land-Grant-Universitäten und Forschungs-Hubs zusammen, um multimodale Merkmalsvorhersagemodelle, Computervision für Keimplasma-Analysen und klimaresiliente Pflanzenzüchtungspipelines zu entwickeln, die in die **American Science and Security Platform** integriert sind.
+* **Association of American Universities (AAU):** Als Vertretung von 71 führenden nordamerikanischen Forschungsuniversitäten reichte die AAU eine strategische Stellungnahme zur RFI des U.S. Department of Energy zur Mobilisierung akademischer wissenschaftlicher Talente ein ([www.aau.edu/resource-library/aau-responds-doe-rfi-mobilizing-talent-genesis-mission](https://www.aau.edu/resource-library/aau-responds-doe-rfi-mobilizing-talent-genesis-mission)). Der AAU-Rahmen bietet strategische Leitlinien zur Einbindung universitärer Forschungsinfrastrukturen in die **American Science and Security Platform**, zur Etablierung interdisziplinärer KI-für-die-Wissenschaft-Graduiertenstipendien, zur Vereinfachung von CRADA/IP-Technologietransfer-Strukturen zwischen Nationalen Laboratorien und Hochschulen sowie zum Aufbau sicherer akademischer Fachkräfte-Pipelines an den Mitgliedscampussen.
 
 ### 1.2 Systemarchitektur & Strategischer Ablauf
 
@@ -506,6 +507,7 @@ Die Genesis-Mission zeichnet sich durch die Breite ihrer sektorübergreifenden K
 | Department of War | Dual-Use wissenschaftliche KI, Hyperschall-CFD, strahlungsgehärtete Elektronik & Lieferketten |
 | Department of Homeland Security (DHS) — S&T | KI-digitale Zwillinge für kritische Infrastrukturen, Lieferkettenanalysen & Netzresilienz |
 | Department of the Interior (DOI) | USGS-KI-Kartierung kritischer Mineralvorkommen, hydrologische Modellierung & Umweltverwaltung |
+| [Association of American Universities (AAU)](https://www.aau.edu/) | RFI-Stellungnahme zur akademischen Talentmobilisierung, Graduiertenstipendien & IP/CRADA-Strukturen |
 
 ### A.2 DOE National Laboratories
 

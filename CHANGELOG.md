@@ -5,6 +5,15 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [2.3.8] - 2026-08-11
+
+### Changed
+- **Ecosystem Coverage Expansion (`coverage.md`)**: Upgraded Association of American Universities (AAU) status from `❌ Not Covered` to `✅ Full Profile` as entity #178, achieving **100.0% Full Profile Coverage across all 178 tracked ecosystem entities** (75 Industry Partners, 22 National Lab/Defense Sites, 61 Research Universities, 10 Federal Agencies, 10 Philanthropy/Policy/Regional Hubs).
+- **Research Paper Profile Integration (`README.md` & `README.de.md`)**: Added dedicated policy & academic workforce profile for Association of American Universities (AAU) under Section 3.4 (*Federal Agencies & Policy Bodies* / *Bundesbehörden & Politische Gremien*) detailing the AAU strategic response to the DOE RFI on mobilizing academic talent, graduate AI-for-science fellowships, and CRADA/IP technology transfer frameworks. Integrated AAU into Appendix A.1 summary tables in both English (`README.md`) and German (`README.de.md`) editions.
+- **Version Bump**: Incremented patch version string to `2.3.8` in `README.md` and `README.de.md`.
+
+---
+
 ## [2.3.7] - 2026-08-11
 
 ### Changed

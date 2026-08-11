@@ -1,4 +1,4 @@
-**Version**: 2.3.7
+**Version**: 2.3.8
 
 # The Genesis Mission: Architecture, Strategic Initiatives, and the Multi-Institutional Ecosystem for AI and Quantum-Driven Scientific Discovery
 
@@ -37,6 +37,7 @@ Managed primarily by the **U.S. Department of Energy (DOE) Office of Science**, 
 * **Department of Homeland Security (DHS S&T):** Leads national security AI challenges under its official release (*DHS S&T Announces New Genesis Mission Challenges to Safeguard America's Future*, [www.dhs.gov/science-and-technology/news/2026/07/22/st-announces-new-genesis-mission-challenges-safeguard-americas-future](https://www.dhs.gov/science-and-technology/news/2026/07/22/st-announces-new-genesis-mission-challenges-safeguard-americas-future)), establishing dedicated initiatives in *Software Understanding for National Security* (agentic AI and formal software verification for critical infrastructure) and *Early Detection and Attribution of Biological Threats*. DHS S&T integrates critical infrastructure security, power grid threat monitoring, and bio-threat attribution models into the **American Science and Security Platform**.
 * **Department of the Interior (DOI / USGS):** Directs critical mineral resource assessments, national geospatial data infrastructure, hydrological mapping, and public land environmental stewardship under its official release (*Interior Highlights Scientific Leadership Supporting the Genesis Mission*, [www.doi.gov/pressreleases/interior-highlights-scientific-leadership-supporting-genesis-mission](https://www.doi.gov/pressreleases/interior-highlights-scientific-leadership-supporting-genesis-mission)), integrating USGS 3DEP elevation models, hyperspectral mineral mapping, and groundwater digital twins into the **American Science and Security Platform**.
 * **U.S. Department of Agriculture (USDA / AgARDA):** Drives agricultural AI innovation, partnering with land-grant universities and research hubs under the Genesis Mission ([www.usda.gov/about-usda/news/press-releases/2026/07/22/usda-asks-partners-develop-ai-solutions-accelerate-crop-innovation](https://www.usda.gov/about-usda/news/press-releases/2026/07/22/usda-asks-partners-develop-ai-solutions-accelerate-crop-innovation)) to develop multimodal trait prediction models, computer vision for germplasm analysis, and climate-resilient crop breeding pipelines integrated into the **American Science and Security Platform**.
+* **Association of American Universities (AAU):** Representing 71 leading North American research universities, the AAU submitted a strategic response to the U.S. Department of Energy RFI on mobilizing academic scientific talent ([www.aau.edu/resource-library/aau-responds-doe-rfi-mobilizing-talent-genesis-mission](https://www.aau.edu/resource-library/aau-responds-doe-rfi-mobilizing-talent-genesis-mission)). The AAU framework provides policy guidance on integrating university research infrastructure into the **American Science and Security Platform**, establishing interdisciplinary AI-for-science graduate fellowships, streamlining CRADA/IP technology transfer frameworks between national laboratories and higher education institutions, and building secure academic workforce pipelines across member campuses.
 
 ### 1.2 System Architecture & Strategic Flow
 
@@ -539,6 +540,7 @@ The Genesis Mission is distinguished by the breadth of its multi-sector coalitio
 | [Department of War](https://www.defense.gov/) | Dual-use scientific AI, hypersonics CFD, radiation-hardened microelectronics & defense supply chains |
 | [Department of Homeland Security (DHS) — S&T](https://www.dhs.gov/science-and-technology) | Critical infrastructure AI digital twins, supply chain threat analytics & smart grid resilience |
 | [Department of the Interior (DOI)](https://www.doi.gov/) | USGS critical mineral deposit AI mapping, hydrological modeling & public land clean energy siting |
+| [Association of American Universities (AAU)](https://www.aau.edu/) | RFI academic talent mobilization response, graduate workforce pipelines & university IP/CRADA frameworks |
 
 ### A.2 DOE National Laboratories
 
