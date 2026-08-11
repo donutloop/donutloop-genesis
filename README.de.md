@@ -1,4 +1,4 @@
-**Version**: 3.0.4
+**Version**: 3.0.5
 
 # Die Genesis-Mission: Architektur, strategische Initiativen und das multi-institutionelle Ökosystem für KI- und quantengetriebene wissenschaftliche Entdeckungen
 
@@ -704,8 +704,8 @@ Die Genesis-Mission zeichnet sich durch die Breite ihrer sektorübergreifenden K
 | Behörde / Organ | Primäre Rolle in der Genesis-Mission |
 | :--- | :--- |
 | [White House Office of Science and Technology Policy (OSTP)](https://www.whitehouse.gov/ostp/) | Exekutive Leitung, Koordination nationaler S&T-Herausforderungen & behördenübergreifende KI/Quantenpolitik |
-| U.S. Department of Energy (DOE) — Office of Science | Führende Förderbehörde (DE-FOA-0003612), Exascale-Labornetzwerk-Leitung & nationaler KI-für-die-Wissenschaft-Hub |
-| U.S. Department of Commerce — NIST / CHIPS R&D Office | CHIPS Act LOI-Ausführung, 2 Mrd. $ Quantenhalbleiter-Anreize & NIST-Messstandards |
+| [U.S. Department of Energy (DOE) — Office of Science](https://www.energy.gov/science) | Führende Förderbehörde (DE-FOA-0003612), Exascale-Labornetzwerk-Leitung & nationaler KI-für-die-Wissenschaft-Hub |
+| [U.S. Department of Commerce — NIST / CHIPS R&D Office](https://www.nist.gov/chips) | CHIPS Act LOI-Ausführung, 2 Mrd. $ Quantenhalbleiter-Anreize & NIST-Messstandards |
 | [National Science Foundation (NSF)](https://www.nsf.gov/) | 83 Mio. $ integrierte Datensysteme, KI-Forschungsinstitute & Mikroelektronik-Arbeitskräfteentwicklung |
 | [National Institutes of Health (NIH) / HHS](https://www.nih.gov/) | Co-Leiter der Bio Genesis Mission, biomedizinische KI, Strukturbiologie-Basismodelle & therapeutisches Screening |
 | [National Aeronautics and Space Administration (NASA)](https://www.nasa.gov/) | KI-Erdforschungs-Basismodelle (AlphaEarth), extrem-resistente Materialien & Weltraum-KI-Nutzlasten |
@@ -723,20 +723,20 @@ Die 17 Nationalen Laboratorien des DOE dienen als primäre Ausführungsknoten f�
 | [Ames National Laboratory](https://www.ameslab.gov/) | Ames | Leitung des Critical Materials Institute (CMI), Ersetzung seltener Erden & Legierungsthermodynamik mit hohem Durchsatz |
 | [Argonne National Laboratory](https://www.anl.gov/) | ANL | ALCF Solstice/Equinox Supercomputer, Aurora Exascale, APS Synchrotron, Genesis Open Models Hub, GridMind KI-Netzsteuerung & Infleqtion QPU-Hub |
 | [Brookhaven National Laboratory](https://www.bnl.gov/) | BNL | C2QA Quanten-Co-Design-Zentrum, NSLS-II Synchrotron-Strahlrohre & Schwerionenphysik-KI |
-| Fermi National Accelerator Laboratory | Fermilab | SQMS Quantenzentrum, SRF 3D-Kavitäts-Qubits & xLight EUV FEL CRADA-Partner |
-| Idaho National Laboratory | INL | Kernenergie-KI, digitale SMR-Zwillinge, AWS Cloud HPC & autonome Reaktorsteuerung |
-| Lawrence Berkeley National Laboratory | LBNL | Leitung von 13 Flaggschiff-KI-Projekten, ModCon-Plattform, NERSC Supercomputing & Materials Project KI-Integration |
-| Lawrence Livermore National Laboratory | LLNL | NIF-Laserfusions-KI (10 Projekte), Rigetti Fusionsquantensimulation & MSFT Bioseicherheitsmodelle |
-| Los Alamos National Laboratory | LANL | Waffenhydrodynamik (7 Projekte), Plutoniumalterungsphysik & Bioseicherheitsrobotik |
-| National Energy Technology Laboratory | NETL | Stromnetzinstabilitäts-KI, Kohlenstoffabscheidungsoptimierung & Ramaco Kohle-zu-Graphit-Synthetikmaterialien |
-| National Renewable Energy Laboratory | NREL | ARIES-Plattform, Atom Computing Quanten-in-the-Loop-Netzsimulation & digitale Energiezwillingsmodelle |
-| Oak Ridge National Laboratory | ORNL | Frontier Exascale Supercomputer (9 Projekte), FLiBe-Schmelzsalz-Quantenchemie & SNS-Neutronenstreuung |
-| Pacific Northwest National Laboratory | PNNL | Microsoft Discovery Festkörperbatterie-KI, Klima-Atmosphärenmodellierung & chemische Katalyse |
-| Princeton Plasma Physics Laboratory | PPPL | AI4Fusion autonome Tokamak-Plasmasteuerung & Niedertemperatur-Plasmaätz-CFD für Mikroelektronik |
-| Sandia National Laboratories | SNL | Strahlungshärtung von Mikroelektronik (6 Projekte, 17 Co-PI), Ionenfallen-QPU-Fertigung & Hyperschall-CFD |
-| Savannah River National Laboratory | SRNL | Radiochemische Trennungsfließbilder, nukleare Sicherheitsmaßnahmen-KI, Tritiumverarbeitung & Wasserstoffspeicherung |
+| [Fermi National Accelerator Laboratory](https://www.fnal.gov/) | Fermilab | SQMS Quantenzentrum, SRF 3D-Kavitäts-Qubits & xLight EUV FEL CRADA-Partner |
+| [Idaho National Laboratory](https://inl.gov/) | INL | Kernenergie-KI, digitale SMR-Zwillinge, AWS Cloud HPC & autonome Reaktorsteuerung |
+| [Lawrence Berkeley National Laboratory](https://www.lbl.gov/) | LBNL | Leitung von 13 Flaggschiff-KI-Projekten, ModCon-Plattform, NERSC Supercomputing & Materials Project KI-Integration |
+| [Lawrence Livermore National Laboratory](https://www.llnl.gov/) | LLNL | NIF-Laserfusions-KI (10 Projekte), Rigetti Fusionsquantensimulation & MSFT Bioseicherheitsmodelle |
+| [Los Alamos National Laboratory](https://www.lanl.gov/) | LANL | Waffenhydrodynamik (7 Projekte), Plutoniumalterungsphysik & Bioseicherheitsrobotik |
+| [National Energy Technology Laboratory](https://netl.doe.gov/) | NETL | Stromnetzinstabilitäts-KI, Kohlenstoffabscheidungsoptimierung & Ramaco Kohle-zu-Graphit-Synthetikmaterialien |
+| [National Renewable Energy Laboratory](https://www.nrel.gov/) | NREL | ARIES-Plattform, Atom Computing Quanten-in-the-Loop-Netzsimulation & digitale Energiezwillingsmodelle |
+| [Oak Ridge National Laboratory](https://www.ornl.gov/) | ORNL | Frontier Exascale Supercomputer (9 Projekte), FLiBe-Schmelzsalz-Quantenchemie & SNS-Neutronenstreuung |
+| [Pacific Northwest National Laboratory](https://www.pnnl.gov/) | PNNL | Microsoft Discovery Festkörperbatterie-KI, Klima-Atmosphärenmodellierung & chemische Katalyse |
+| [Princeton Plasma Physics Laboratory](https://www.pppl.gov/) | PPPL | AI4Fusion autonome Tokamak-Plasmasteuerung & Niedertemperatur-Plasmaätz-CFD für Mikroelektronik |
+| [Sandia National Laboratories](https://www.sandia.gov/) | SNL | Strahlungshärtung von Mikroelektronik (6 Projekte, 17 Co-PI), Ionenfallen-QPU-Fertigung & Hyperschall-CFD |
+| [Savannah River National Laboratory](https://srnl.doe.gov/) | SRNL | Radiochemische Trennungsfließbilder, nukleare Sicherheitsmaßnahmen-KI, Tritiumverarbeitung & Wasserstoffspeicherung |
 | [SLAC National Accelerator Laboratory](https://www.slac.stanford.edu/) | SLAC | LCLS-II Attosekunden-Röntgenlaser, Deep-RL-Strahlemittanzoptimierung & SRF-Beschleunigerkavitäten |
-| Thomas Jefferson National Accelerator Facility | TJNAF | CEBAF-Beschleuniger, KI-gestützte nukleare Femtografie, SRF-Kavitätstuning & Subatomarphysik-KI |
+| [Thomas Jefferson National Accelerator Facility](https://www.jlab.org/) | TJNAF | CEBAF-Beschleuniger, KI-gestützte nukleare Femtografie, SRF-Kavitätstuning & Subatomarphysik-KI |
 
 ### A.3 Industrie- & Technologiepartner
 
@@ -746,7 +746,7 @@ Industrielle Mitwirkende umfassen Cloud- und KI-Hyperscaler, Halbleiterherstelle
 | Organisation | Primärer Beitrag |
 | :--- | :--- |
 | [Amazon Web Services (AWS)](https://aws.amazon.com/) | 100 Mio. $ Bundessystem-Gutschriften; Cloud-HPC; Post-Quanten-Sicherheit |
-| Google / Google DeepMind / Google Public Sector | 40 Mio. $ Zusage; Gemini for Government; AI Co-Scientist; AlphaFold 3; AlphaGenome; AlphaEarth |
+| [Google / Google DeepMind / Google Public Sector](https://deepmind.google/) | 40 Mio. $ Zusage; Gemini for Government; AI Co-Scientist; AlphaFold 3; AlphaGenome; AlphaEarth |
 | [Microsoft](https://www.microsoft.com/) | 60 Mio. $ SPARK-Programm; Microsoft Discovery; MatterGen/MatterSim; Majorana-Quantenprozessoren |
 | [NVIDIA](https://www.nvidia.com/) | Solstice & Equinox Supercomputer; Apollo-Modelle; Omniverse digitale Zwillinge; Edge-KI |
 | [AMD](https://www.amd.com/) | Lux & Discovery Supercomputer; Instinct MI355X/MI430X; EPYC; Pensando; ROCm |

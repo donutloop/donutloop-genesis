@@ -5,6 +5,14 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.0.5] - 2026-08-11
+
+### Fixed
+- **Complete Institutional Hyperlinking (§A.1 & §A.2)**: Added official website links for all 17 DOE National Laboratories in §A.2 ([`README.md`](file:///home/donutloop/Workspace/donutloop-genesis/README.md) & [`README.de.md`](file:///home/donutloop/Workspace/donutloop-genesis/README.de.md)) and remaining federal agencies (DOE Office of Science, DOC NIST/CHIPS R&D Office, Google Public Sector/DeepMind).
+- **Version Bump**: Incremented version string to `3.0.5` across [`README.md`](file:///home/donutloop/Workspace/donutloop-genesis/README.md) and [`README.de.md`](file:///home/donutloop/Workspace/donutloop-genesis/README.de.md).
+
+---
+
 ## [3.0.4] - 2026-08-11
 
 ### Fixed

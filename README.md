@@ -1,4 +1,4 @@
-**Version**: 3.0.4
+**Version**: 3.0.5
 
 # The Genesis Mission: Architecture, Strategic Initiatives, and the Multi-Institutional Ecosystem for AI and Quantum-Driven Scientific Discovery
 
@@ -742,8 +742,8 @@ The Genesis Mission is distinguished by the breadth of its multi-sector coalitio
 | Agency / Body | Primary Genesis Mission Role |
 | :--- | :--- |
 | [White House Office of Science and Technology Policy (OSTP)](https://www.whitehouse.gov/ostp/) | Executive direction, National S&T Challenge coordination & interagency AI/quantum policy |
-| U.S. Department of Energy (DOE) — Office of Science | Lead funding authority (DE-FOA-0003612), exascale lab network lead & national AI-for-science hub |
-| U.S. Department of Commerce — NIST / CHIPS R&D Office | CHIPS Act LOI execution, $2B quantum semiconductor incentives & NIST measurement standards |
+| [U.S. Department of Energy (DOE) — Office of Science](https://www.energy.gov/science) | Lead funding authority (DE-FOA-0003612), exascale lab network lead & national AI-for-science hub |
+| [U.S. Department of Commerce — NIST / CHIPS R&D Office](https://www.nist.gov/chips) | CHIPS Act LOI execution, $2B quantum semiconductor incentives & NIST measurement standards |
 | [National Science Foundation (NSF)](https://www.nsf.gov/) | $83M integrated data systems, AI Research Institutes & microelectronics workforce development |
 | [National Institutes of Health (NIH) / HHS](https://www.nih.gov/) | Bio Genesis Mission co-lead, biomedical AI, structural biology foundation models & therapeutic screening |
 | [National Aeronautics and Space Administration (NASA)](https://www.nasa.gov/) | AI Earth science foundation models (AlphaEarth), extreme environment materials & space AI payloads |
@@ -761,20 +761,20 @@ The DOE's 17 National Laboratories serve as the primary execution nodes for Gene
 | [Ames National Laboratory](https://www.ameslab.gov/) | Ames | Critical Materials Institute (CMI) lead, rare earth replacement & high-throughput alloy thermodynamics |
 | [Argonne National Laboratory](https://www.anl.gov/) | ANL | ALCF Solstice/Equinox supercomputers, Aurora exascale, APS synchrotron, Genesis Open Models hub, GridMind AI grid control & Infleqtion QPU hub |
 | [Brookhaven National Laboratory](https://www.bnl.gov/) | BNL | C2QA quantum co-design center lead, NSLS-II synchrotron beamlines & heavy-ion physics AI |
-| Fermi National Accelerator Laboratory | Fermilab | SQMS quantum center lead, SRF 3D cavity qubits & xLight EUV lithography FEL CRADA partner |
-| Idaho National Laboratory | INL | Nuclear energy AI, small modular reactor (SMR) digital twins, AWS cloud HPC & autonomous reactor control |
-| Lawrence Berkeley National Laboratory | LBNL | 13 flagship AI projects lead, ModCon platform, NERSC supercomputing & Materials Project AI integration |
-| Lawrence Livermore National Laboratory | LLNL | NIF laser fusion AI (10 project awards), Rigetti fusion quantum simulation & MSFT biosecurity models |
-| Los Alamos National Laboratory | LANL | Stockpile stewardship weapons hydrodynamics (7 projects), plutonium aging physics & biosecurity robotics |
-| National Energy Technology Laboratory | NETL | Power grid instability AI, carbon capture optimization & Ramaco coal-to-graphite synthetic materials |
-| National Renewable Energy Laboratory | NREL | ARIES platform, Atom Computing quantum-in-the-loop grid co-simulation & clean energy digital twins |
-| Oak Ridge National Laboratory | ORNL | Frontier exascale supercomputer (9 projects), FLiBe molten salt quantum chemistry & SNS neutron scattering |
-| Pacific Northwest National Laboratory | PNNL | Microsoft Discovery solid-state battery AI, climate atmospheric modeling & chemical catalysis |
-| Princeton Plasma Physics Laboratory | PPPL | AI4Fusion autonomous tokamak plasma control & microelectronics low-temperature plasma etching CFD |
-| Sandia National Laboratories | SNL | Microelectronics radiation hardening (6 projects, 17 co-PI), ion trap QPU fabrication & hypersonic CFD |
-| Savannah River National Laboratory | SRNL | Radiochemical separation flowsheets, nuclear safeguards AI, tritium processing & hydrogen storage |
+| [Fermi National Accelerator Laboratory](https://www.fnal.gov/) | Fermilab | SQMS quantum center lead, SRF 3D cavity qubits & xLight EUV lithography FEL CRADA partner |
+| [Idaho National Laboratory](https://inl.gov/) | INL | Nuclear energy AI, small modular reactor (SMR) digital twins, AWS cloud HPC & autonomous reactor control |
+| [Lawrence Berkeley National Laboratory](https://www.lbl.gov/) | LBNL | 13 flagship AI projects lead, ModCon platform, NERSC supercomputing & Materials Project AI integration |
+| [Lawrence Livermore National Laboratory](https://www.llnl.gov/) | LLNL | NIF laser fusion AI (10 project awards), Rigetti fusion quantum simulation & MSFT biosecurity models |
+| [Los Alamos National Laboratory](https://www.lanl.gov/) | LANL | Stockpile stewardship weapons hydrodynamics (7 projects), plutonium aging physics & biosecurity robotics |
+| [National Energy Technology Laboratory](https://netl.doe.gov/) | NETL | Power grid instability AI, carbon capture optimization & Ramaco coal-to-graphite synthetic materials |
+| [National Renewable Energy Laboratory](https://www.nrel.gov/) | NREL | ARIES platform, Atom Computing quantum-in-the-loop grid co-simulation & clean energy digital twins |
+| [Oak Ridge National Laboratory](https://www.ornl.gov/) | ORNL | Frontier exascale supercomputer (9 projects), FLiBe molten salt quantum chemistry & SNS neutron scattering |
+| [Pacific Northwest National Laboratory](https://www.pnnl.gov/) | PNNL | Microsoft Discovery solid-state battery AI, climate atmospheric modeling & chemical catalysis |
+| [Princeton Plasma Physics Laboratory](https://www.pppl.gov/) | PPPL | AI4Fusion autonomous tokamak plasma control & microelectronics low-temperature plasma etching CFD |
+| [Sandia National Laboratories](https://www.sandia.gov/) | SNL | Microelectronics radiation hardening (6 projects, 17 co-PI), ion trap QPU fabrication & hypersonic CFD |
+| [Savannah River National Laboratory](https://srnl.doe.gov/) | SRNL | Radiochemical separation flowsheets, nuclear safeguards AI, tritium processing & hydrogen storage |
 | [SLAC National Accelerator Laboratory](https://www.slac.stanford.edu/) | SLAC | LCLS-II ultrafast attosecond X-ray science, deep RL beamline optimization & SRF accelerator cavities |
-| Thomas Jefferson National Accelerator Facility | TJNAF | CEBAF accelerator, AI-driven nuclear femtography, SRF cavity tuning & subatomic physics AI |
+| [Thomas Jefferson National Accelerator Facility](https://www.jlab.org/) | TJNAF | CEBAF accelerator, AI-driven nuclear femtography, SRF cavity tuning & subatomic physics AI |
 
 ### A.3 Industry & Technology Partners
 
@@ -784,7 +784,7 @@ Industry contributors span cloud and AI hyperscalers, semiconductor manufacturer
 | Organization | Primary Contribution |
 | :--- | :--- |
 | [Amazon Web Services (AWS)](https://aws.amazon.com/) | $100M federal credits; cloud HPC; post-quantum security |
-| Google / Google DeepMind / Google Public Sector | $40M commitment; Gemini for Government; AI Co-Scientist; AlphaFold 3; AlphaGenome; AlphaEarth |
+| [Google / Google DeepMind / Google Public Sector](https://deepmind.google/) | $40M commitment; Gemini for Government; AI Co-Scientist; AlphaFold 3; AlphaGenome; AlphaEarth |
 | [Microsoft](https://www.microsoft.com/) | $60M SPARK program; Microsoft Discovery; MatterGen/MatterSim; Majorana quantum |
 | [NVIDIA](https://www.nvidia.com/) | Solstice & Equinox supercomputers; Apollo models; Omniverse digital twins; edge AI |
 | [AMD](https://www.amd.com/) | Lux & Discovery supercomputers; Instinct MI355X/MI430X; EPYC; Pensando; ROCm |
