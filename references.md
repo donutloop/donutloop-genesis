@@ -372,6 +372,7 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
   * [Jefferson Lab AI-Driven Nuclear Femtography & Accelerator Optimization](https://www.jlab.org/news/releases/ai-science-genesis-mission)
   * [Jefferson Lab AI Genesis Mission Portal](https://www.jlab.org/AI/genesis)
   * [Jefferson Lab ModCon AI Portal](https://www.jlab.org/AI/genesis/modcon)
+  * [Jefferson Lab Scientific AI Models Repository Portal](https://www.jlab.org/AI/genesis/models)
 ### Universities & Research Institutions
 * **AI Tennessee Initiative:** [About AI Tennessee](https://www.aitennessee.ai/about-ai-tennessee/)
 * **Auburn University:** [Molaei Genesis Mission Research](https://eng.auburn.edu/news/2026/08/molaei-genesis-mission)
