@@ -360,6 +360,7 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
   * [AI Foundation Model Development for Water Forecasting](https://www.ornl.gov/project/ai-foundation-model-development-water-forecasting)
   * [Advancing the Genesis Mission through AI-Enabled Biological Discovery](https://www.youtube.com/watch?v=zFhtV4rgOb4)
   * [ORNL Genesis Mission Research Highlights Portal](https://www.ornl.gov/genesis-mission/research-highlights)
+  * [Synthetic Biology, AI-Driven Analysis Reveal New Polymer-Targeting Enzymes](https://www.ornl.gov/research-highlight/synthetic-biology-ai-driven-analysis-reveal-new-polymer-targeting-enzymes)
 * **Pacific Northwest National Laboratory (PNNL):**
   * [Genesis Mission Project Portal](https://www.pnnl.gov/projects/genesis-mission)
   * [PNNL Powers Biotechnology, Grid Operations, Nuclear Science Through Genesis AI for Science Mission](https://www.pnnl.gov/news-media/pnnl-powers-biotechnology-grid-operations-nuclear-science-through-genesis-ai-science)
