@@ -363,6 +363,7 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
   * [Synthetic Biology, AI-Driven Analysis Reveal New Polymer-Targeting Enzymes](https://www.ornl.gov/research-highlight/synthetic-biology-ai-driven-analysis-reveal-new-polymer-targeting-enzymes)
   * [INTERSECT: A Federated Architecture for the Scientific Laboratory of the Future](https://www.ornl.gov/research-highlight/intersect-federated-architecture-scientific-laboratory-future)
   * [Accelerating Predictive Capabilities 10x](https://www.ornl.gov/research-highlight/accelerating-predictive-capabilities-10x)
+  * [AI-Accelerated Genome-Informed Photosynthetic Design, Prediction, and Optimization](https://www.ornl.gov/research-highlight/ai-accelerated-genome-informed-photosynthetic-design-prediction-and-optimization)
 * **Pacific Northwest National Laboratory (PNNL):**
   * [Genesis Mission Project Portal](https://www.pnnl.gov/projects/genesis-mission)
   * [PNNL Powers Biotechnology, Grid Operations, Nuclear Science Through Genesis AI for Science Mission](https://www.pnnl.gov/news-media/pnnl-powers-biotechnology-grid-operations-nuclear-science-through-genesis-ai-science)
