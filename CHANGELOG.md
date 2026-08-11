@@ -5,6 +5,15 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [2.3.9] - 2026-08-11
+
+### Changed
+- **Master Reference Processing (`reference_coverage.md`)**: Processed Entry #196 ([`Association of American Universities (AAU): Responds to DOE RFI on Mobilizing Academic Talent for Genesis Mission`](https://www.aau.edu/resource-library/aau-responds-doe-rfi-mobilizing-talent-genesis-mission), `www.aau.edu`), updating its status from `Unprocessed` to `Processed` (385 / 387 Processed, 2 Unprocessed remaining).
+- **Research Paper Enrichment (`README.md` & `README.de.md`)**: Enriched §4.2 (*Interagency Governance & Federal Policy Alignment* / *Behördenübergreifende Governance & Bundessicherheitspolitik*) in both English and German editions with strategic findings from the AAU RFI response, detailing academic talent mobilization, graduate AI-for-science fellowships, technology transfer / IP CRADA streamlining, and graduate student access to sovereign HPC/quantum resources on the American Science Cloud (AmSC).
+- **Version Bump**: Incremented patch version string to `2.3.9` in `README.md` and `README.de.md`.
+
+---
+
 ## [2.3.8] - 2026-08-11
 
 ### Changed
