@@ -5,6 +5,17 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.0.15] - 2026-08-11
+
+### Added
+- **Processed ORNL AI-Enabled Biological Discovery Presentation Reference**: Processed reference link `https://www.youtube.com/watch?v=zFhtV4rgOb4` (*Advancing the Genesis Mission through AI-Enabled Biological Discovery* by Oak Ridge National Laboratory / John Lagergren), adding entry to [`references.md`](file:///home/donutloop/Workspace/donutloop-genesis/references.md) Section 5 under ORNL.
+- **Master Index Audit**: Registered Master Index Entry `#302` in [`reference_coverage.md`](file:///home/donutloop/Workspace/donutloop-genesis/reference_coverage.md) (updating total metrics to 440 / 440 Processed, 100% Complete across 216 unique target domains with 423 Web/News items) and renumbered subsequent index rows `#303` to `#440`.
+- **Created Appendix Section A.6 (Video Materials & Multimedia Coverage)**: Created a dedicated new Appendix section `### A.6 Video Materials & Multimedia Coverage` in [`README.md`](file:///home/donutloop/Workspace/donutloop-genesis/README.md#L974) and German parity section `### A.6 Videomaterialien & Multimediale Medienberichterstattung` in [`README.de.md`](file:///home/donutloop/Workspace/donutloop-genesis/README.de.md#L934), featuring structured tables cataloging video materials (ORNL Biological Discovery & DOE-HEP U.S. ATLAS Overview).
+- **Enriched Section 3.2 in English & German Papers**: Detailed John Lagergren's presentation on autonomous biological laboratory steering via the OPAL multi-lab network, Frontier exascale biological foundation models, protein/enzyme engineering, plant-microelectronics interfaces, and soil critical mineral uptake optimization in [`README.md`](file:///home/donutloop/Workspace/donutloop-genesis/README.md#L579) and [`README.de.md`](file:///home/donutloop/Workspace/donutloop-genesis/README.de.md#L575).
+- **Version Bump**: Incremented version string to `3.0.15` across [`README.md`](file:///home/donutloop/Workspace/donutloop-genesis/README.md) and [`README.de.md`](file:///home/donutloop/Workspace/donutloop-genesis/README.de.md).
+
+---
+
 ## [3.0.14] - 2026-08-11
 
 ### Added
