@@ -5,6 +5,16 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.0.47] - 2026-08-12
+
+### Added
+- **Processed NSF Science Matters 2025/2026 Review Reference**: Processed reference link `https://www.nsf.gov/science-matters/nsf-2025-keeping-us-scientific-research-innovation-cutting` (*NSF in 2025: Keeping U.S. scientific research and innovation on the cutting edge*), adding entry to [`references.md`](file:///home/donutloop/Workspace/donutloop-genesis/references.md#L238) Section 4 under Executive, Federal & Partner Announcements.
+- **Master Index Audit**: Registered Master Index Entry `#92` in [`reference_coverage.md`](file:///home/donutloop/Workspace/donutloop-genesis/reference_coverage.md) (updating total metrics to **470 / 470 Processed**, 100% Complete across 222 unique target domains with 453 Web/News items) and renumbered downstream index rows `#93` to `#470`.
+- **Enriched Section 1.3 in English & German Papers**: Integrated NSF Science Matters 2025/2026 strategic review detailing NAIRR expansion, Genesis Mission alignment, $100M PCL Test Bed, and National Quantum Virtual Laboratory milestones in [`README.md`](file:///home/donutloop/Workspace/donutloop-genesis/README.md#L78) and [`README.de.md`](file:///home/donutloop/Workspace/donutloop-genesis/README.de.md#L76).
+- **Version Bump**: Incremented version string to `3.0.47` across [`README.md`](file:///home/donutloop/Workspace/donutloop-genesis/README.md) and [`README.de.md`](file:///home/donutloop/Workspace/donutloop-genesis/README.de.md).
+
+---
+
 ## [3.0.46] - 2026-08-12
 
 ### Added
