@@ -5,6 +5,15 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [2.3.3] - 2026-08-11
+
+### Changed
+- **WIP Reference Audit & Deduplication (`references.md`)**: Audited 1 scratchpad link from `references.md` WIP section:
+  - Identified and skipped 1 duplicate WIP entry: `https://public-inspection.federalregister.gov/2025-21665.pdf?1764173712` (public inspection PDF for Executive Order 14363, already indexed as Entry #86 at `references.md:121` and `reference_coverage.md:157`). Decommissioned WIP scratchpad block.
+- **Version Bump**: Incremented patch version string to `2.3.3` in `README.md` and `README.de.md`.
+
+---
+
 ## [2.3.2] - 2026-08-11
 
 ### Changed
