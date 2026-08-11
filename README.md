@@ -1,4 +1,4 @@
-**Version**: 2.4.18
+**Version**: 2.4.19
 
 # The Genesis Mission: Architecture, Strategic Initiatives, and the Multi-Institutional Ecosystem for AI and Quantum-Driven Scientific Discovery
 
@@ -227,7 +227,7 @@ The Genesis Mission translates federal interagency strategy into domain breakthr
 
 #### D. Particle Acceleration, High Energy Physics & Quantum Infrastructure
 * **ATLAS Experiment & Accelerator Co-Design (CERN ATLAS Collaboration, JLab CEBAF, SLAC LCLS-II, BNL RHIC, Fermilab AXESS):** Deploys Graph Neural Networks (GNNs) across 44 U.S. universities and National Laboratories for real-time High-Level Trigger (HLT) candidate selection, jet reconstruction, SRF cavity emittance tuning, and detector digital twin calibration in preparation for High-Luminosity LHC (HL-LHC) data rates.
-* **Quantum-in-the-Loop Power Grid Optimization (NREL & Atom Computing):** Integrates optically trapped neutral-atom quantum processing units (QPUs) into NREL's Advanced Research on Integrated Energy Systems (ARIES) hardware-in-the-loop platform, executing hybrid quantum-classical algorithms for dynamic load balancing and feeder line rerouting during extreme power grid outages.
+* **Scaling Grid Power & Quantum-in-the-Loop Power Grid Optimization (DOE / NREL / INL / Atom Computing):** Under the official DOE Genesis Mission challenge *Scaling Grid Power for the American Economy* ([www.energy.gov/undersecretaryforscience/genesis-mission/scaling-grid-power-american-economy](https://www.energy.gov/undersecretaryforscience/genesis-mission/scaling-grid-power-american-economy)), deploys deep reinforcement learning (RL) and physics-informed AI agents to accelerate grid interconnection, dynamic transmission routing, and control room decision-making by 20x to 100x while lowering consumer electricity costs by >10%. Validated at national lab testbeds—including INL's Critical Infrastructure Test Range Complex (CITRC) and NREL's Advanced Research on Integrated Energy Systems (ARIES)—the platform integrates optically trapped neutral-atom quantum processing units (Atom Computing QPUs) for real-time contingency mitigation during extreme blackout events.
 * **AI-Driven 6G RAN Autopilot Co-Designer (University of Nebraska–Lincoln, BNL, ALPEMI Consulting, HPE):** Develops an AI co-designer for 6G Radio Access Networks (RAN), compressing network topology design cycles from months to days while establishing ultra-low-latency wireless links to offload field sensor edge compute directly to DOE HPC supercomputers.
 * **xLight EUV Free-Electron Laser Prototype (xLight, Albany NanoTech, NIST, Fermilab):** Supported by a $150 Million CHIPS Act award and $150 Million private match, xLight develops a high-power free-electron laser (FEL) EUV light source utilizing Superconducting Radio Frequency (SRF) cryomodules to secure domestic sub-2nm microelectronics manufacturing sovereignty.
 
