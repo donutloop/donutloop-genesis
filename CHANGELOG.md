@@ -5,6 +5,15 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [2.4.13] - 2026-08-11
+
+### Changed
+- **Reference Integration & Master Processing (`references.md` & `reference_coverage.md`)**: Formatted and integrated ANL 80th anniversary article ([`After 80 Years of Research Excellence, Where Does Argonne Go Next?`](https://www.anl.gov/article/after-80-years-of-research-excellence-where-does-argonne-go-next), `www.anl.gov`) into Section 5 under Argonne National Laboratory, registering it as Master Index Entry #220 and processing its status to `Processed` (**395 / 395 Processed, 100% Complete**).
+- **Research Paper Enrichment (`README.md` & `README.de.md`)**: Enriched §3.2 Argonne National Laboratory (ANL) profiles in both English and German paper editions with ANL's 80th anniversary (1946–2026) strategic research vision across four core Genesis Mission pillars: AI for scientific discovery, world-leading X-ray science (APS/APS-U), critical minerals supply chain security (AIM-MAG), and next-generation clean energy technologies (GridMind, Project Prometheus, AMUSE/ARTEMIS).
+- **Version Bump**: Incremented patch version string to `2.4.13` in `README.md` and `README.de.md`.
+
+---
+
 ## [2.4.12] - 2026-08-11
 
 ### Changed
