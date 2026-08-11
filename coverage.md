@@ -163,7 +163,7 @@
 | 96 | [National Renewable Energy Laboratory (NREL)](https://www.nrel.gov/) | ✅ Full Profile | §2.3D, §3.1, §3.2, A.2 | ARIES platform, Atom Computing quantum-in-the-loop grid co-simulation & clean energy digital twins |
 | 97 | [Nevada National Security Sites (NNSS)](https://www.nnss.gov/) | ✅ Full Profile | §3.2, A.4 | Subcritical nuclear experiment diagnostics, high-speed optical sensors & physics AI modeling |
 | 98 | [Oak Ridge National Laboratory (ORNL)](https://www.ornl.gov/) | ✅ Full Profile | §2.3B, §3.1, §3.2, A.2 | Frontier exascale supercomputer (9 projects), FLiBe molten salt quantum chemistry & SNS neutron scattering |
-| 99 | [Pacific Northwest National Laboratory (PNNL)](https://www.pnnl.gov/) | ✅ Full Profile | §2.3C, §3.1, §3.2, A.2 | Microsoft Discovery solid-state battery AI, climate atmospheric modeling & chemical catalysis |
+| 99 | [Pacific Northwest National Laboratory (PNNL)](https://www.pnnl.gov/) | ✅ Full Profile | §2.3C, §3.1, §3.2, A.2 | Microsoft Discovery battery AI, Center for Robotics and Autonomy (CRA), ARCADIA, SciLink, climate modeling & chemical catalysis |
 | 100 | [Pantex Plant](https://pantex.energy.gov/) | ✅ Full Profile | §3.2, A.4 | NNSA nuclear component assembly, high-explosive manufacturing & stockpile stewardship AI |
 | 101 | [Princeton Plasma Physics Laboratory (PPPL)](https://www.pppl.gov/) | ✅ Full Profile | §2.3B, §3.2, A.2 | AI4Fusion autonomous tokamak plasma control & microelectronics low-temperature plasma etching CFD |
 | 102 | [Sandia National Laboratories (SNL)](https://www.sandia.gov/) | ✅ Full Profile | §3.2, A.2 | Microelectronics radiation hardening (6 projects, 17 co-PI), ion trap QPU fabrication & hypersonic CFD |

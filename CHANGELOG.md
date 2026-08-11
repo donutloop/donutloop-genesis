@@ -5,6 +5,16 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.0.51] - 2026-08-12
+
+### Added
+- **Processed PNNL Center for Robotics and Autonomy Press Release Reference**: Processed reference link `https://www.pnnl.gov/news-media/inside-pnnls-lab-wide-push-trustworthy-autonomous-science` (*Inside PNNL’s Lab-Wide Push for Trustworthy Autonomous Science*), adding entry to [`references.md`](file:///home/donutloop/Workspace/donutloop-genesis/references.md#L383) Section 5 under National Labs & University Coverage.
+- **Master Index Audit**: Registered Master Index Entry `#332` in [`reference_coverage.md`](file:///home/donutloop/Workspace/donutloop-genesis/reference_coverage.md) (updating total metrics to **474 / 474 Processed**, 100% Complete across 224 unique target domains with 457 Web/News items) and updated PNNL notes in [`coverage.md`](file:///home/donutloop/Workspace/donutloop-genesis/coverage.md#L166).
+- **Enriched Section 3.2 in English & German Papers**: Integrated PNNL's newly launched **Center for Robotics and Autonomy (CRA)** (directed by Bob Runkle) and its core platforms **ARCADIA** (*Agentic Robotics and Curated AI Data for Intelligent Autonomy*) and **SciLink** (multi-agent AI workflow engine) for closed-loop scientific discovery in [`README.md`](file:///home/donutloop/Workspace/donutloop-genesis/README.md#L640) and [`README.de.md`](file:///home/donutloop/Workspace/donutloop-genesis/README.de.md#L635).
+- **Version Bump**: Incremented version string to `3.0.51` across [`README.md`](file:///home/donutloop/Workspace/donutloop-genesis/README.md) and [`README.de.md`](file:///home/donutloop/Workspace/donutloop-genesis/README.de.md).
+
+---
+
 ## [3.0.50] - 2026-08-12
 
 ### Added
