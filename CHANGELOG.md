@@ -5,6 +5,42 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [2.4.9] - 2026-08-11
+
+### Changed
+- **Master Reference Processing (`reference_coverage.md`)**: Processed Entry #216 ([`Data Analysis at the Speed of Light Source Experiments`](https://www.anl.gov/article/data-analysis-at-the-speed-of-light-source-experiments), `www.anl.gov`), updating its status from `Unprocessed` to `Processed` (**391 / 391 Processed, 100% Complete**).
+- **Research Paper Enrichment (`README.md` & `README.de.md`)**: Enriched §3.2 Argonne National Laboratory (ANL) profiles in both English and German paper editions with details on high-rate X-ray diffraction, 3D tomography, and ptychography beamline data reduction, edge AI inference, and autonomous experiment steering at the Advanced Photon Source (APS).
+- **Version Bump**: Incremented patch version string to `2.4.9` in `README.md` and `README.de.md`.
+
+---
+
+## [2.4.8] - 2026-08-11
+
+### Changed
+- **Master Reference Processing (`reference_coverage.md`)**: Processed Entry #30 ([`Groq`](https://groq.com/), `groq.com`), updating its status from `Unprocessed` to `Processed` (**390 / 391 Processed, 1 Unprocessed remaining**).
+- **Research Paper Enrichment (`README.md` & `README.de.md`)**: Enriched §3.1 Groq profiles and hardware allocation sections in both English and German paper editions with details on Groq's Language Processing Unit (LPU) silicon architecture, single-core deterministic tensor streaming engines with high-bandwidth on-chip SRAM memory (eliminating DRAM latency bottlenecks), and GroqRack/GroqNode cluster deployments across DOE supercomputing nodes (ANL ALCF, LBNL NERSC, ORNL OLCF) for sub-millisecond experimental feedback loops.
+- **Version Bump**: Incremented patch version string to `2.4.8` in `README.md` and `README.de.md`.
+
+---
+
+## [2.4.7] - 2026-08-11
+
+### Changed
+- **Master Reference Processing (`reference_coverage.md`)**: Processed Entry #9 ([`Arcee AI`](https://arcee.ai/), `arcee.ai`), updating its status from `Unprocessed` to `Processed` (**389 / 391 Processed, 2 Unprocessed remaining**).
+- **Research Paper Enrichment (`README.md` & `README.de.md`)**: Enriched §3.1 Arcee AI profiles and §2.4E open scientific model sections in both English and German paper editions with details on Arcee AI's Small Language Model (SLM) platform architecture—incorporating model merging (MergeKit), targeted parameter-efficient tuning (Spectrum), and continuous domain adaptation (SuperNova)—for governed, domain-specific scientific workbenches co-developed with DOE National Laboratories (`genesisopenmodels.anl.gov`).
+- **Version Bump**: Incremented patch version string to `2.4.7` in `README.md` and `README.de.md`.
+
+---
+
+## [2.4.6] - 2026-08-11
+
+### Changed
+- **WIP Reference Link Integration (`references.md`)**: Formatted and integrated ANL light source data analysis article ([`Data Analysis at the Speed of Light Source Experiments`](https://www.anl.gov/article/data-analysis-at-the-speed-of-light-source-experiments)) into Section 5 under Argonne National Laboratory (ANL).
+- **Master Reference Index Registration (`reference_coverage.md`)**: Registered new light source data analysis link as index entry #216 with `Unprocessed` status, renumbering all master index rows (391 total links), and updating executive summary metrics (**388 / 391 Processed, 3 Unprocessed remaining**).
+- **Version Bump**: Incremented patch version string to `2.4.6` in `README.md` and `README.de.md`.
+
+---
+
 ## [2.4.5] - 2026-08-11
 
 ### Changed
