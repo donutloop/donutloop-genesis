@@ -5,6 +5,16 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.0.24] - 2026-08-11
+
+### Added
+- **Processed RIKEN SciVerse Feature Article Reference**: Processed reference link `https://sciverse.riken.jp/en-us/articles/ai-for-science-breaking-the-boundaries-of-what-science-can-achieve/` (*RIKEN SciVerse Feature: AI for Science — Breaking the Boundaries of What Science Can Achieve*), adding entry to [`references.md`](file:///home/donutloop/Workspace/donutloop-genesis/references.md) Section 4.
+- **Master Index Audit**: Registered Master Index Entry `#217` in [`reference_coverage.md`](file:///home/donutloop/Workspace/donutloop-genesis/reference_coverage.md) (updating total metrics to 449 / 449 Processed, 100% Complete across 220 unique target domains with 432 Web/News items) and renumbered downstream index rows `#218` to `#449`.
+- **Enriched Section 3.5 in English & German Papers**: Integrated RIKEN SciVerse article citation in [`README.md`](file:///home/donutloop/Workspace/donutloop-genesis/README.md#L640) and [`README.de.md`](file:///home/donutloop/Workspace/donutloop-genesis/README.de.md#L625).
+- **Version Bump**: Incremented version string to `3.0.24` across [`README.md`](file:///home/donutloop/Workspace/donutloop-genesis/README.md) and [`README.de.md`](file:///home/donutloop/Workspace/donutloop-genesis/README.de.md).
+
+---
+
 ## [3.0.23] - 2026-08-11
 
 ### Added
