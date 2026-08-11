@@ -15,7 +15,7 @@
 | **Official PDF Documents** | **14** | Formal RFA solicitations, webinars, slides, and executive reports |
 | **Web Portals & Press Releases** | **361** | Newsroom features, corporate blog posts, and interactive hubs |
 | **Validation Status** | **100% Validated** | All links canonicalized, formatted, and deduplicated |
-| **Processing Status** | **375 / 378 Processed** | 3 Unprocessed, 375 Processed |
+| **Processing Status** | **376 / 378 Processed** | 2 Unprocessed, 376 Processed |
 
 ---
 
@@ -321,7 +321,7 @@ A complete tabular listing of all 363 indexed reference links:
 | 251 | 5. National Labs & University Coverage | National Laboratories | Low-Energy AI Scientific Discovery | `www.ornl.gov` | Web | [Low-Energy AI Scientific Discovery](https://www.ornl.gov/project/low-energy-ai-scientific-discovery) | `Processed` |
 | 252 | 5. National Labs & University Coverage | National Laboratories | AI-Accelerated Materials Development and Advanced Manufacturing Applications | `www.ornl.gov` | Web | [AI-Accelerated Materials Development and Advanced Manufacturing Applications](https://www.ornl.gov/project/ai-accelerated-materials-development-and-advanced-manufacturing-applications) | `Processed` |
 | 253 | 5. National Labs & University Coverage | National Laboratories | AI-Enabled Discovery of Rare Earth Elements | `www.ornl.gov` | Web | [AI-Enabled Discovery of Rare Earth Elements](https://www.ornl.gov/project/ai-enabled-discovery-rare-earth-elements) | `Processed` |
-| 254 | 5. National Labs & University Coverage | National Laboratories | AI Long-Range Water Prediction | `www.ornl.gov` | Web | [AI Long-Range Water Prediction](https://www.ornl.gov/project/ai-long-range-water-prediction) | `Unprocessed` |
+| 254 | 5. National Labs & University Coverage | National Laboratories | AI Long-Range Water Prediction | `www.ornl.gov` | Web | [AI Long-Range Water Prediction](https://www.ornl.gov/project/ai-long-range-water-prediction) | `Processed` |
 | 255 | 5. National Labs & University Coverage | National Laboratories | AI Next-Generation Fusion Materials Development | `www.ornl.gov` | Web | [AI Next-Generation Fusion Materials Development](https://www.ornl.gov/project/ai-next-generation-fusion-materials-development) | `Unprocessed` |
 | 256 | 5. National Labs & University Coverage | National Laboratories | Genesis Mission Project Portal | `www.pnnl.gov` | Web | [Genesis Mission Project Portal](https://www.pnnl.gov/projects/genesis-mission) | `Processed` |
 | 257 | 5. National Labs & University Coverage | National Laboratories | PPPL to Lead Genesis Mission Project to Create an AI Operator for Fusion Heating | `www.pppl.gov` | Web | [PPPL to Lead Genesis Mission Project to Create an AI Operator for Fusion Heating](https://www.pppl.gov/news/2026/pppl-lead-genesis-mission-project-create-ai-operator-crucial-fusion-energy-heating-system) | `Processed` |
