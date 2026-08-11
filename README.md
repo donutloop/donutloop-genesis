@@ -1,4 +1,4 @@
-**Version**: 2.1.24
+**Version**: 2.1.25
 
 # The Genesis Mission: Architecture, Strategic Initiatives, and the Multi-Institutional Ecosystem for AI and Quantum-Driven Scientific Discovery
 
@@ -208,19 +208,19 @@ A major thrust of the Genesis Mission relies on industrial AI, robotics, physica
 
 ## 3. Public-Private-Academic Ecosystem
 
-A defining feature of the Genesis Mission is its multi-sector operational model uniting 153 lead institutional entities across commercial technology giants, national supercomputing laboratories, elite research universities, federal executive agencies, and specialized research institutes.
+A defining feature of the Genesis Mission is its multi-sector operational model uniting 154 lead institutional entities across commercial technology giants, national supercomputing laboratories, elite research universities, federal executive agencies, and specialized research institutes.
 
 ```
                       +-------------------------------------------------------------+
                       |             GENESIS MISSION MULTI-SECTOR CONSORTIUM         |
-                      |                      (153 Core Flagship Nodes)              |
+                      |                      (154 Core Flagship Nodes)              |
                       +------------------------------+------------------------------+
                                                      |
              +---------------------------------------+---------------------------------------+
              |                                       |                                       |
 +------------v------------------+   +----------------v------------------+   +----------------v------------------+
 |    NATIONAL LABORATORIES      |   |   INDUSTRY & HYPERSCALERS         |   |    RESEARCH UNIVERSITIES          |
-|      (17 DOE Nodes)           |   |       (65 Entities)               |   |        (57 Campuses)              |
+|      (17 DOE Nodes)           |   |       (66 Entities)               |   |        (57 Campuses)              |
 | ANL, BNL, INL, LBNL, LLNL,    |   | Cloud: AWS, Google, MSFT, Oracle  |   | MIT, Stanford, Harvard, CMU,      |
 | ORNL, PNNL, PPPL, SNL, TJNAF, |   | Compute: NVIDIA, AMD, HPE, Dell   |   | Caltech, Princeton, Yale, UIUC,   |
 | Fermilab, LANL, Ames, etc.    |   | Quantum: IBM, Quantinuum, Atom... |   | Berkeley, Michigan, Rice, etc.    |
@@ -264,7 +264,8 @@ A defining feature of the Genesis Mission is its multi-sector operational model 
 * **Dataera.ai:** Strategic AI data infrastructure collaboration with the U.S. Department of Energy (DOE) under its official announcement (*Dataera.ai Collaborates with U.S. Department of Energy on Genesis Mission*, [www.dataerai.com/doe-genesis-partnership.html](https://www.dataerai.com/doe-genesis-partnership.html)), provisioning automated dataset curation engines, synthetic scientific data generation modules, and high-velocity FAIR data pipelines across national laboratory supercomputing facilities to accelerate scientific foundation model pre-training and multi-modal AI research under Genesis.
 * [Edison Scientific](https://www.edisonscientific.com): Developing **AI Co-Scientist** foundation models, multi-agent reasoning frameworks, and automated scientific hypothesis generation engines for closed-loop discovery across chemistry and materials science.
 * [Periodic Labs](https://www.periodiclabs.com): Autonomous AI materials discovery agents, automated high-throughput inorganic synthesis orchestration platforms, and AI-driven crystal structure prediction tools integrated with national laboratory user facilities.
-* [Reflection AI](https://www.reflection.ai): Advanced AI reasoning architectures and open scientific LLMs optimized for multi-step mathematical theorem proving, scientific literature synthesis, and complex physical code refactoring.
+* **Reflection AI:** Advanced AI reasoning architectures and open scientific LLMs optimized for multi-step mathematical theorem proving, scientific literature synthesis, and complex physical code refactoring.
+* **Arcee AI:** Strategic open-weight scientific model collaboration agreement with the U.S. Department of Energy (DOE) and official release (*Arcee AI Collaborates with DOE on Genesis-Science-1*, [www.arcee.ai/blog/genesis-science-1-doe-partnership](https://www.arcee.ai/blog/genesis-science-1-doe-partnership)), co-developing the **Genesis-Science-1 (GS1)** open-weight scientific artificial intelligence model family. Arcee AI leads model architecture engineering, compute orchestration, domain-specific dataset curation, pre-training, alignment, and governed execution workbenches, while DOE national laboratory scientists (via the ANL Contribution Portal) provide peer-reviewed scientific datasets, validation benchmarks, and domain testing across materials science, fusion energy, climate modeling, and high-energy physics.
 * **Veritone:** Joins the Genesis Mission Consortium under its official announcement (*Veritone Joins Genesis Mission Consortium to Advance U.S. Department of Energy's National AI Initiatives*, [investors.veritone.com/news-events/press-releases/detail/429/veritone-joins-genesis-mission-consortium-to-advance-u-s-department-of-energys-national-ai-initiatives](https://investors.veritone.com/news-events/press-releases/detail/429/veritone-joins-genesis-mission-consortium-to-advance-u-s-department-of-energys-national-ai-initiatives)), deploying its enterprise AI operating system (**Veritone aiWARE**), automated multi-modal data ingestion engines, cognitive processing models, and AI semantic search engines across national laboratory scientific databases to support energy research and national security AI workflows under Genesis.
 
 #### B. Quantum Developers & Semiconductor Foundries
@@ -549,6 +550,7 @@ Industry contributors span cloud and AI hyperscalers, semiconductor manufacturer
 | [FutureHouse](https://www.futurehouse.org/) | AI-driven scientific research automation, PaperQA literature agents & autonomous lab tools |
 | [LILA](https://www.lila.ai/) | Collaborative AI platform for scientific discovery; multi-institutional research hub & agentic workflows |
 | [Everstar](https://www.everstar.ai/) | AI biopharma & multi-agent scientific discovery platform; protein design & MSFT Discovery integration |
+| [Arcee AI](https://arcee.ai/) | Genesis-Science-1 (GS1) open-weight scientific AI model family co-development, dataset curation & governed workbenches |
 
 #### Semiconductor, EDA & Industrial Partners
 | Organization | Primary Contribution |

@@ -4,6 +4,17 @@ All notable changes to the Genesis Mission documentation repository will be docu
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
+## [2.1.25] - 2026-08-11
+
+### Added
+- **Company Coverage Expansion (Arcee AI)**: Documented dedicated company profile for **Arcee AI** under Section 3.1 (`#### A. Frontier AI, Cloud & Hyperscale Computing`) and Appendix A.3 table in `README.md` and `README.de.md`.
+- **Open-Weight Model Collaboration**: Detailed Arcee AI's strategic agreement with the U.S. Department of Energy (DOE) to co-develop the **Genesis-Science-1 (GS1)** open-weight scientific artificial intelligence model family, covering model architecture engineering, compute orchestration, domain dataset curation, alignment, and governed execution workbenches in partnership with DOE National Laboratories via the ANL Contribution Portal.
+- **Ecosystem Coverage Tracker (`coverage.md`)**: Upgraded Arcee AI to `✅ Full Profile` under *Frontier AI & Data Platforms*. Expanded total tracked consortium entities to 177 (75 industry partners, 175/177 full profiles, 98.9% coverage ratio) and renumbered master ecosystem index.
+- **Reference Preservation (`references.md`)**: Preserved official collaborator reference index entry for Arcee AI under Section 2 (`Collaborators`).
+- **Version Bump**: Incremented patch version string to `2.1.25` in `README.md` and `README.de.md`.
+
+---
+
 ## [2.1.24] - 2026-08-11
 
 ### Changed

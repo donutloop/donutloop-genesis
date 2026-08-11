@@ -28,6 +28,7 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
 * [AMD](https://www.amd.com/)
 * [Anthropic](https://www.anthropic.com/research/introducing-anthropic-science)
 * [Applied Materials](https://www.appliedmaterials.com/)
+* [Arcee AI](https://arcee.ai/)
 * [Atom Computing](https://atom-computing.com/) 
 * [Atomic Canyon](https://www.atomiccanyon.com/)
 * [AVEVA](https://www.aveva.com/)
