@@ -5,6 +5,16 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.0.50] - 2026-08-12
+
+### Added
+- **Processed NSF NOIRLab DESI 2D Map of Universe Reference**: Processed reference link `https://noirlab.edu/public/news/noirlab2620/` (*Scientists Release Biggest 2D Map of the Universe*), adding entry to [`references.md`](file:///home/donutloop/Workspace/donutloop-genesis/references.md#L240) Section 4 under Executive, Federal & Partner Announcements.
+- **Master Index & Ecosystem Coverage Audit**: Registered Master Index Entry `#94` in [`reference_coverage.md`](file:///home/donutloop/Workspace/donutloop-genesis/reference_coverage.md) (updating total metrics to **473 / 473 Processed**, 100% Complete across 224 unique target domains with 456 Web/News items), registered NSF NOIRLab as entry `#182` in [`coverage.md`](file:///home/donutloop/Workspace/donutloop-genesis/coverage.md#L263) (**182 / 182 Consortium Entities Profiled**), and renumbered downstream index rows `#95` to `#473`.
+- **Enriched Section 1.3 & Appendix A.4 in English & German Papers**: Integrated NSF NOIRLab's release of the 5.6-trillion-pixel DESI Legacy Imaging Surveys celestial map (covering 3/4 of the sky and nearly 4 billion objects) powering 3D dark energy cosmological models in [`README.md`](file:///home/donutloop/Workspace/donutloop-genesis/README.md#L78) and [`README.de.md`](file:///home/donutloop/Workspace/donutloop-genesis/README.de.md#L76).
+- **Version Bump**: Incremented version string to `3.0.50` across [`README.md`](file:///home/donutloop/Workspace/donutloop-genesis/README.md) and [`README.de.md`](file:///home/donutloop/Workspace/donutloop-genesis/README.de.md).
+
+---
+
 ## [3.0.49] - 2026-08-12
 
 ### Added

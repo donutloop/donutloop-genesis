@@ -237,6 +237,7 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
 * [NSF: Unlocking Dataset Value for AI-Enabled Scientific Discovery (AI Datasets)](https://www.nsf.gov/funding/opportunities/ai-datasets-unlocking-dataset-value-ai-enabled-scientific-discovery)
 * [NSF: Dear Colleague Letter on Unleashing a New Age of AI-Enabled Scientific Discovery](https://www.nsf.gov/funding/information/dcl-unleashing-new-age-ai-enabled-scientific-discovery-through)
 * [NSF Science Matters: NSF in 2025: Keeping U.S. Scientific Research and Innovation on the Cutting Edge](https://www.nsf.gov/science-matters/nsf-2025-keeping-us-scientific-research-innovation-cutting)
+* [NSF NOIRLab: Scientists Release Biggest 2D Map of the Universe (DESI Legacy Imaging Surveys)](https://noirlab.edu/public/news/noirlab2620/)
 * [Granted AI: NSF's Genesis Mission (Phase I) (2026)](https://grantedai.com/grants/nsf-s-genesis-mission-phase-i-u-s-department-of-energy-doe-b40c5a53)
 * [U.S. Department of Agriculture (USDA): USDA Asks Partners to Develop AI Solutions to Accelerate Crop Innovation](https://www.usda.gov/about-usda/news/press-releases/2026/07/22/usda-asks-partners-develop-ai-solutions-accelerate-crop-innovation)
 * [SHINE Technologies: Selected for Two DOE Genesis Mission Projects Advancing AI in Nuclear Fuel Recycling](https://www.prnewswire.com/news-releases/shine-selected-for-two-doe-genesis-mission-projects-advancing-ai-in-nuclear-fuel-recycling-302841934.html)

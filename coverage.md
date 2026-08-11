@@ -1,9 +1,9 @@
 # Genesis Mission — Full Ecosystem Coverage Tracker
 
 > **Scope & Coverage Definition:**
-> - **Flagship Consortium Scope:** Tracks **all 181 primary flagship participants**—lead contractors, federal agencies, national laboratories, awardee universities, strategic industrial partners, and philanthropic foundations—explicitly profiled or referenced in the Genesis Mission paper (`README.md`) and reference index.
+> - **Flagship Consortium Scope:** Tracks **all 182 primary flagship participants**—lead contractors, federal agencies, national laboratories, awardee universities, strategic industrial partners, and philanthropic foundations—explicitly profiled or referenced in the Genesis Mission paper (`README.md`) and reference index.
 > - **Broader National Awardee Network Context:** Under solicitation DE-FOA-0003612 and interagency challenges, the broader national initiative encompasses **342 total participating institutions** (157 companies, 142 universities, 16 national labs, 13 non-profits, 14 other entities across 278 projects).
-> - **Coverage Status:** **181 / 181 (100%)** of the tracked consortium entities have dedicated, detailed technical profiles.
+> - **Coverage Status:** **182 / 182 (100%)** of the tracked consortium entities have dedicated, detailed technical profiles.
 
 **Legend:**
 - ✅ **Full Profile** — Dedicated section with detailed technical write-up (Sections 2.2 / 3.1 / 3.2 / 3.3 / 3.4 / 3.5)
@@ -260,6 +260,7 @@
 | 179 | [Schmidt Sciences](https://www.schmidtsciences.org/) | ✅ Full Profile | §3.4, A.4 | Non-profit research foundation, AI for Science fellowships & open scientific model grants |
 | 180 | [Association of American Universities (AAU)](https://www.aau.edu/) | ✅ Full Profile | §3.4, A.1 | Higher education association representing 71 research universities, DOE RFI academic talent mobilization response, graduate fellowships & IP/CRADA frameworks |
 | 181 | [RIKEN](https://www.riken.jp/) | ✅ Full Profile | §3.5 | Japan's premier natural sciences research institute & 1st international Genesis partner (MEXT/METI/DOE agreement, TRIP/TRIP-AGIS, Fugaku & SPring-8 integration) |
+| 182 | [NSF NOIRLab](https://noirlab.edu/) | ✅ Full Profile | §1.3, §3.1, A.4 | U.S. National Science Foundation's national center for ground-based optical astronomy, DESI Legacy Imaging Surveys, Mayall & Blanco telescopes & 2D/3D universe maps |
 
 ---
 
