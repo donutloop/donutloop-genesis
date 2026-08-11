@@ -5,6 +5,16 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.0.26] - 2026-08-11
+
+### Added
+- **Processed Newswise Argonne-RIKEN-Fujitsu-NVIDIA Partnership Feature Reference**: Processed reference link `https://www.newswise.com/doescience/argonne-partners-with-riken-fujitsu-and-nvidia-to-advance-ai-for-science-and-next-generation-computing` (*Argonne Partners with RIKEN, Fujitsu, and NVIDIA to Advance AI for Science and Next-Generation Computing (Newswise)*), adding entry to [`references.md`](file:///home/donutloop/Workspace/donutloop-genesis/references.md) Section 5 under Argonne National Laboratory (ANL).
+- **Master Index Audit**: Registered Master Index Entry `#248` in [`reference_coverage.md`](file:///home/donutloop/Workspace/donutloop-genesis/reference_coverage.md) (updating total metrics to 451 / 451 Processed, 100% Complete across 220 unique target domains with 434 Web/News items) and renumbered downstream index rows `#249` to `#451`.
+- **Enriched Section 3.2 in English & German Papers**: Integrated Newswise Argonne-RIKEN-Fujitsu-NVIDIA partnership citation in [`README.md`](file:///home/donutloop/Workspace/donutloop-genesis/README.md#L572) and [`README.de.md`](file:///home/donutloop/Workspace/donutloop-genesis/README.de.md#L567).
+- **Version Bump**: Incremented version string to `3.0.26` across [`README.md`](file:///home/donutloop/Workspace/donutloop-genesis/README.md) and [`README.de.md`](file:///home/donutloop/Workspace/donutloop-genesis/README.de.md).
+
+---
+
 ## [3.0.25] - 2026-08-11
 
 ### Added
