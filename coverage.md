@@ -240,7 +240,7 @@
 | 166 | [University of Texas at Austin](https://www.utexas.edu/) | ✅ Full Profile | §3.3, A.5 | Microelectronics lithography modeling, exascale AI model optimization & power grid AI |
 | 167 | [University of Utah](https://www.utah.edu/) | ✅ Full Profile | §3.3, A.5 | Geothermal energy reservoir simulation, net-zero carbon fuels & materials informatics |
 | 168 | [University of Wisconsin–Madison](https://www.wisc.edu/) | ✅ Full Profile | §3.3, A.5 | Fusion plasma stellarator physics, quantum dot QPU architectures & clean energy AI |
-| 169 | [Virginia Tech](https://www.vt.edu/) | ✅ Full Profile | §3.3, A.5 | Cyber-physical power grid security, high-temperature composite materials & SciML |
+| 169 | [Virginia Tech](https://www.vt.edu/) | ✅ Full Profile | §3.3, A.5 | $20M NSF PCL semiconductor lab node, cyber-physical power grid security & SciML |
 | 170 | [Yale University](https://www.yale.edu/) | ✅ Full Profile | §3.3, A.5 | Superconducting cavity QED quantum architecture, QIS error mitigation & molecular AI |
 
 ---

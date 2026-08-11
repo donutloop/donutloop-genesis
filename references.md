@@ -531,7 +531,9 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
 * **University of Wisconsin–Madison:**
   * [5 Projects Receive Funding](https://news.wisc.edu/5-projects-at-uwmadison-aimed-at-transforming-science-and-energy-with-ai-receive-doe-genesis-mission-funding/)
   * [With DOE Genesis Mission Award, David Smith Is Making Real-Time Plasma Control Possible](https://engineering.wisc.edu/news/with-doe-genesis-mission-award-david-smith-is-making-real-time-plasma-control-possible/)
-* **Virginia Tech:** [Research Projects Selected for Genesis Mission](https://news.vt.edu/articles/2026/07/research-genesis-mission.html)
+* **Virginia Tech:**
+  * [Research Projects Selected for Genesis Mission](https://news.vt.edu/articles/2026/07/research-genesis-mission.html)
+  * [University Receives $20 Million Grant for Cloud-Based Semiconductor Lab](https://news.vt.edu/articles/2026/08/NSF-grant-semiconductor-lab.html)
 * **Yale University:** [Researchers Receive Awards to Pursue AI Advances](https://news.yale.edu/2026/07/22/yale-researchers-receive-genesis-mission-awards-pursue-ai-advances)
 
 ---
