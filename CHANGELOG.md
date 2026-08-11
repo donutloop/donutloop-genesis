@@ -5,6 +5,15 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [2.2.6] - 2026-08-11
+
+### Changed
+- **Reference Index Processing (Entry #253 - ORNL AI-Enabled Discovery of Rare Earth Elements)**: Processed master reference index Entry #253 ([www.ornl.gov/project/ai-enabled-discovery-rare-earth-elements](https://www.ornl.gov/project/ai-enabled-discovery-rare-earth-elements)). Enriched **Oak Ridge National Laboratory (ORNL)** profiles in Section 3.2 of `README.md` and `README.de.md` with technical details on ORNL's AI-driven critical minerals discovery framework, deploying generative neural models and automated geochemical analytics across domestic ores and recycling streams to accelerate rare earth element (REE) refining for high-strength permanent magnets and clean energy technologies.
+- **Master Reference Coverage Update (`reference_coverage.md`)**: Updated Entry #253 status from `Unprocessed` to `Processed` in `reference_coverage.md`, raising total processing status metric to **375 / 378 Processed** (3 Unprocessed links remaining).
+- **Version Bump**: Incremented patch version string to `2.2.6` in `README.md` and `README.de.md`.
+
+---
+
 ## [2.2.5] - 2026-08-11
 
 ### Changed
