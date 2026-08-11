@@ -5,6 +5,15 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [2.2.11] - 2026-08-11
+
+### Changed
+- **Reference Index Processing (Entry #256 - ORNL AI-Enabled Subsurface Biogeochemical Modeling)**: Processed master reference index Entry #256 ([www.ornl.gov/project/ai-enabled-subsurface-biogeochemical-modeling](https://www.ornl.gov/project/ai-enabled-subsurface-biogeochemical-modeling)). Enriched **Oak Ridge National Laboratory (ORNL)** profiles in Section 3.2 of `README.md` and `README.de.md` with technical details on ORNL's AI-driven subsurface modeling framework, deploying physics-informed neural operators and Frontier exascale compute to simulate subterranean reactive transport, soil-carbon cycling, and aquifer microbial biogeochemistry.
+- **Master Reference Coverage Complete (`reference_coverage.md`)**: Updated Entry #256 status from `Unprocessed` to `Processed` in `reference_coverage.md`, completing **100% processing** of all master reference index entries (**379 / 379 Processed**).
+- **Version Bump**: Incremented patch version string to `2.2.11` in `README.md` and `README.de.md`.
+
+---
+
 ## [2.2.10] - 2026-08-11
 
 ### Changed
