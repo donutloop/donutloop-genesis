@@ -5,6 +5,16 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.0.27] - 2026-08-11
+
+### Added
+- **Processed OKM Finland Genesis Mission Release Reference**: Processed reference link `https://okm.fi/-/genesis-mission-manhattan-project-of-the-2020s-` (*Ministry of Education and Culture of Finland (OKM): Genesis Mission — Manhattan Project of the 2020s*), adding entry to [`references.md`](file:///home/donutloop/Workspace/donutloop-genesis/references.md) Section 4.
+- **Master Index Audit**: Registered Master Index Entry `#212` in [`reference_coverage.md`](file:///home/donutloop/Workspace/donutloop-genesis/reference_coverage.md) (updating total metrics to 452 / 452 Processed, 100% Complete across 221 unique target domains with 435 Web/News items) and renumbered downstream index rows `#213` to `#452`.
+- **Enriched Section 3.5 in English & German Papers**: Integrated OKM Finland international announcement citation in [`README.md`](file:///home/donutloop/Workspace/donutloop-genesis/README.md#L640) and [`README.de.md`](file:///home/donutloop/Workspace/donutloop-genesis/README.de.md#L625).
+- **Version Bump**: Incremented version string to `3.0.27` across [`README.md`](file:///home/donutloop/Workspace/donutloop-genesis/README.md) and [`README.de.md`](file:///home/donutloop/Workspace/donutloop-genesis/README.de.md).
+
+---
+
 ## [3.0.26] - 2026-08-11
 
 ### Added
