@@ -5,6 +5,16 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [2.3.1] - 2026-08-11
+
+### Changed
+- **WIP Reference Integration (`references.md`)**: Audited and integrated 1 scratchpad link from `references.md` WIP section:
+  - Integrated 1 new executive action into Section 4 (Executive, Federal & Partner Announcements): [`White House Executive Action: National Security Presidential Memorandum NSPM-11`](https://www.whitehouse.gov/presidential-actions/2026/06/national-security-presidential-memorandum-nspm-11/). Decommissioned WIP scratchpad block.
+- **Master Reference Coverage Extension (`reference_coverage.md`)**: Extended master index table to 383 links by registering Entry #84 (`White House Executive Action: National Security Presidential Memorandum NSPM-11`) as `Unprocessed` under Section 4 (`Executive, Federal & Partner Announcements`), renumbered all subsequent master rows (85–383), and updated domain metrics (`www.whitehouse.gov` -> 7 links). Total processing status updated to **382 / 383 Processed** (1 Unprocessed link remaining).
+- **Version Bump**: Incremented patch version string to `2.3.1` in `README.md` and `README.de.md`.
+
+---
+
 ## [2.3.0] - 2026-08-11
 
 ### Changed
