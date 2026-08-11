@@ -157,6 +157,7 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
 * [NASA: Joining to Accelerate AI-Driven Discovery](https://www.nasa.gov/news-release/nasa-joins-genesis-mission-to-accelerate-ai-driven-discovery/)
 * [NSF: $83M Investment in Integrated Data Systems](https://www.nsf.gov/news/nsf-announces-83m-investment-integrated-data-systems)
 * [NSF Statement: Chief of Staff Brian Stone on Genesis Mission Integration](https://www.nsf.gov/news/statement-nsf-chief-staff-brian-stone-performing-duties-nsf-1)
+* [NSF: $400M Investment in New National Network of AI-Programmable Cloud Laboratories](https://www.nsf.gov/tip/updates/nsf-announces-400m-investment-new-national-network-ai)
 * [Meta AI: Genesis Mission Partnership with LBNL (Segment Anything & DINO)](https://ai.meta.com/blog/genesis-mission-lawrence-berkeley-national-laboratory-segment-anything-dino/)
 * [Google DeepMind: Supporting US DOE on Genesis Mission](https://deepmind.google/blog/google-deepmind-supports-us-department-of-energy-on-genesis/)
 * [Google Public Sector & DeepMind: Powering the Genesis Mission](https://cloud.google.com/blog/topics/public-sector/how-google-public-sector-and-google-deepmind-can-power-the-genesis-mission-and-a-new-era-of-scientific-discovery)
