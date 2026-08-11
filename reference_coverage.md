@@ -15,7 +15,7 @@
 | **Official PDF Documents** | **14** | Formal RFA solicitations, webinars, slides, and executive reports |
 | **Web Portals & Press Releases** | **361** | Newsroom features, corporate blog posts, and interactive hubs |
 | **Validation Status** | **100% Validated** | All links canonicalized, formatted, and deduplicated |
-| **Processing Status** | **373 / 378 Processed** | 5 Unprocessed, 373 Processed |
+| **Processing Status** | **374 / 378 Processed** | 4 Unprocessed, 374 Processed |
 
 ---
 
@@ -319,7 +319,7 @@ A complete tabular listing of all 363 indexed reference links:
 | 249 | 5. National Labs & University Coverage | National Laboratories | QUBIT Engineering Debuts AI-Powered Tool to Analyze Modern Power Grid | `www.ornl.gov` | Web | [QUBIT Engineering Debuts AI-Powered Tool to Analyze Modern Power Grid](https://www.ornl.gov/organization-news/qubit-engineering-debuts-ai-powered-tool-analyze-modern-power-grid) | `Processed` |
 | 250 | 5. National Labs & University Coverage | National Laboratories | AI-Assisted Fusion Power Plant Designs | `www.ornl.gov` | Web | [AI-Assisted Fusion Power Plant Designs](https://www.ornl.gov/project/ai-assisted-fusion-power-plant-designs) | `Processed` |
 | 251 | 5. National Labs & University Coverage | National Laboratories | Low-Energy AI Scientific Discovery | `www.ornl.gov` | Web | [Low-Energy AI Scientific Discovery](https://www.ornl.gov/project/low-energy-ai-scientific-discovery) | `Processed` |
-| 252 | 5. National Labs & University Coverage | National Laboratories | AI-Accelerated Materials Development and Advanced Manufacturing Applications | `www.ornl.gov` | Web | [AI-Accelerated Materials Development and Advanced Manufacturing Applications](https://www.ornl.gov/project/ai-accelerated-materials-development-and-advanced-manufacturing-applications) | `Unprocessed` |
+| 252 | 5. National Labs & University Coverage | National Laboratories | AI-Accelerated Materials Development and Advanced Manufacturing Applications | `www.ornl.gov` | Web | [AI-Accelerated Materials Development and Advanced Manufacturing Applications](https://www.ornl.gov/project/ai-accelerated-materials-development-and-advanced-manufacturing-applications) | `Processed` |
 | 253 | 5. National Labs & University Coverage | National Laboratories | AI-Enabled Discovery of Rare Earth Elements | `www.ornl.gov` | Web | [AI-Enabled Discovery of Rare Earth Elements](https://www.ornl.gov/project/ai-enabled-discovery-rare-earth-elements) | `Unprocessed` |
 | 254 | 5. National Labs & University Coverage | National Laboratories | AI Long-Range Water Prediction | `www.ornl.gov` | Web | [AI Long-Range Water Prediction](https://www.ornl.gov/project/ai-long-range-water-prediction) | `Unprocessed` |
 | 255 | 5. National Labs & University Coverage | National Laboratories | AI Next-Generation Fusion Materials Development | `www.ornl.gov` | Web | [AI Next-Generation Fusion Materials Development](https://www.ornl.gov/project/ai-next-generation-fusion-materials-development) | `Unprocessed` |

@@ -5,6 +5,15 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [2.2.5] - 2026-08-11
+
+### Changed
+- **Reference Index Processing (Entry #252 - ORNL AI-Accelerated Materials Development & Advanced Manufacturing)**: Processed master reference index Entry #252 ([www.ornl.gov/project/ai-accelerated-materials-development-and-advanced-manufacturing-applications](https://www.ornl.gov/project/ai-accelerated-materials-development-and-advanced-manufacturing-applications)). Enriched **Oak Ridge National Laboratory (ORNL)** profiles in Section 3.2 of `README.md` and `README.de.md` with technical details on ORNL's AI-driven materials discovery and advanced manufacturing framework, coupling generative neural models with robotic synthesis labs, Manufacturing Demonstration Facility (MDF) 3D printing, and Spallation Neutron Source (SNS) neutron scattering to synthesize extreme-environment structural alloys.
+- **Master Reference Coverage Update (`reference_coverage.md`)**: Updated Entry #252 status from `Unprocessed` to `Processed` in `reference_coverage.md`, raising total processing status metric to **374 / 378 Processed** (4 Unprocessed links remaining).
+- **Version Bump**: Incremented patch version string to `2.2.5` in `README.md` and `README.de.md`.
+
+---
+
 ## [2.2.4] - 2026-08-11
 
 ### Changed
