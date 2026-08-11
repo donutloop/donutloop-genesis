@@ -5,6 +5,16 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.0.35] - 2026-08-11
+
+### Added
+- **Processed ORNL AI Metal 3D Printing Research Highlight Reference**: Processed reference link `https://www.ornl.gov/research-highlight/ai-technology-boosts-confidence-cuts-costs-metal-3d-printing` (*AI Technology Boosts Confidence, Cuts Costs in Metal 3D Printing*), adding entry to [`references.md`](file:///home/donutloop/Workspace/donutloop-genesis/references.md) Section 5 under Oak Ridge National Laboratory (ORNL).
+- **Master Index Audit**: Registered Master Index Entry `#319` in [`reference_coverage.md`](file:///home/donutloop/Workspace/donutloop-genesis/reference_coverage.md) (updating total metrics to 460 / 460 Processed, 100% Complete across 221 unique target domains with 443 Web/News items) and renumbered downstream index rows `#320` to `#460`.
+- **Enriched Section 3.2 in English & German Papers**: Integrated ORNL AI Metal 3D Printing research highlight citation in [`README.md`](file:///home/donutloop/Workspace/donutloop-genesis/README.md#L581) and [`README.de.md`](file:///home/donutloop/Workspace/donutloop-genesis/README.de.md#L575).
+- **Version Bump**: Incremented version string to `3.0.35` across [`README.md`](file:///home/donutloop/Workspace/donutloop-genesis/README.md) and [`README.de.md`](file:///home/donutloop/Workspace/donutloop-genesis/README.de.md).
+
+---
+
 ## [3.0.34] - 2026-08-11
 
 ### Added
