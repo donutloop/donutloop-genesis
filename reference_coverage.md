@@ -15,7 +15,7 @@
 | **Official PDF Documents** | **16** | Formal RFA solicitations, webinars, slides, and executive reports |
 | **Web Portals & Press Releases** | **368** | Newsroom features, corporate blog posts, and interactive hubs |
 | **Validation Status** | **100% Validated** | All links canonicalized, formatted, and deduplicated |
-| **Processing Status** | **385 / 387 Processed** | 2 Unprocessed, 385 Processed (99.5% Complete) |
+| **Processing Status** | **386 / 387 Processed** | 1 Unprocessed, 386 Processed (99.7% Complete) |
 
 ---
 
@@ -292,7 +292,7 @@ A complete tabular listing of all 363 indexed reference links:
 | 220 | 5. National Labs & University Coverage | National Laboratories | Connecting Data, Computing, and AI for Scientific Discovery | `newscenter.lbl.gov` | Web | [Connecting Data, Computing, and AI for Scientific Discovery](https://newscenter.lbl.gov/2026/08/05/connecting-data-computing-and-ai-for-scientific-discovery/) | `Processed` |
 | 221 | 5. National Labs & University Coverage | National Laboratories | How the Genesis Mission's American Science Cloud Advances Innovation | `newscenter.lbl.gov` | Web | [How the Genesis Mission's American Science Cloud Advances Innovation](https://newscenter.lbl.gov/2026/07/15/how-the-genesis-missions-american-science-cloud-advances-innovation/) | `Processed` |
 | 222 | 5. National Labs & University Coverage | National Laboratories | How a Machine Learning Pipeline Could Accelerate Innovation | `newscenter.lbl.gov` | Web | [How a Machine Learning Pipeline Could Accelerate Innovation](https://newscenter.lbl.gov/2026/02/02/how-a-machine-learning-pipeline-could-accelerate-innovation/) | `Processed` |
-| 223 | 5. National Labs & University Coverage | National Laboratories | Scientists Release Biggest 2D Map of the Universe | `newscenter.lbl.gov` | Web | [Scientists Release Biggest 2D Map of the Universe](https://newscenter.lbl.gov/2026/08/10/scientists-release-biggest-2d-map-of-the-universe/) | `Unprocessed` |
+| 223 | 5. National Labs & University Coverage | National Laboratories | Scientists Release Biggest 2D Map of the Universe | `newscenter.lbl.gov` | Web | [Scientists Release Biggest 2D Map of the Universe](https://newscenter.lbl.gov/2026/08/10/scientists-release-biggest-2d-map-of-the-universe/) | `Processed` |
 | 224 | 5. National Labs & University Coverage | National Laboratories | Genesis Mission Coverage & Research Leadership | `www.bnl.gov` | Web | [Genesis Mission Coverage & Research Leadership](https://www.bnl.gov/newsroom/news.php?a=123041) | `Processed` |
 | 225 | 5. National Labs & University Coverage | National Laboratories | BNL Highlights Strategic Genesis Mission Projects | `www.bnl.gov` | Web | [BNL Highlights Strategic Genesis Mission Projects](https://www.bnl.gov/newsroom/news.php?a=122827) | `Processed` |
 | 226 | 5. National Labs & University Coverage | National Laboratories | Inaugural Genesis Mission Initiatives at BNL | `www.bnl.gov` | Web | [Inaugural Genesis Mission Initiatives at BNL](https://www.bnl.gov/newsroom/news.php?a=122725) | `Processed` |

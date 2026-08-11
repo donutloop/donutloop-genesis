@@ -5,6 +5,15 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [2.4.0] - 2026-08-11
+
+### Changed
+- **Master Reference Processing (`reference_coverage.md`)**: Processed Entry #223 ([`Scientists Release Biggest 2D Map of the Universe`](https://newscenter.lbl.gov/2026/08/10/scientists-release-biggest-2d-map-of-the-universe/), `newscenter.lbl.gov`), updating its status from `Unprocessed` to `Processed` (386 / 387 Processed, 1 Unprocessed remaining).
+- **Research Paper Enrichment (`README.md` & `README.de.md`)**: Enriched §3.2 LBNL profiles in both English and German paper editions with technical details on LBNL's release of the world's largest 2D map of the universe using Kitt Peak Dark Energy Spectroscopic Instrument (DESI) survey data spanning 30+ million galaxies and quasars across 11 billion years of cosmic lookback time, accelerated via AI supercomputing algorithms running on NERSC exascale compute nodes (*Perlmutter* & *Doudna*).
+- **Version Bump**: Incremented minor version string to `2.4.0` in `README.md` and `README.de.md`.
+
+---
+
 ## [2.3.9] - 2026-08-11
 
 ### Changed
