@@ -5,6 +5,16 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.0.25] - 2026-08-11
+
+### Added
+- **Processed Argonne and UIC AI Research Collaborations Feature Reference**: Processed reference link `https://www.anl.gov/article/argonne-and-university-of-illinois-chicago-launch-new-aidriven-research-collaborations` (*Argonne and University of Illinois Chicago Launch New AI-Driven Research Collaborations*), adding entry to [`references.md`](file:///home/donutloop/Workspace/donutloop-genesis/references.md) Section 5 under Argonne National Laboratory (ANL).
+- **Master Index Audit**: Registered Master Index Entry `#246` in [`reference_coverage.md`](file:///home/donutloop/Workspace/donutloop-genesis/reference_coverage.md) (updating total metrics to 450 / 450 Processed, 100% Complete across 220 unique target domains with 433 Web/News items) and renumbered downstream index rows `#247` to `#450`.
+- **Enriched Section 3.2 in English & German Papers**: Integrated Argonne and UIC collaboration citation in [`README.md`](file:///home/donutloop/Workspace/donutloop-genesis/README.md#L572) and [`README.de.md`](file:///home/donutloop/Workspace/donutloop-genesis/README.de.md#L567).
+- **Version Bump**: Incremented version string to `3.0.25` across [`README.md`](file:///home/donutloop/Workspace/donutloop-genesis/README.md) and [`README.de.md`](file:///home/donutloop/Workspace/donutloop-genesis/README.de.md).
+
+---
+
 ## [3.0.24] - 2026-08-11
 
 ### Added
