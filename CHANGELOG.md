@@ -5,6 +5,15 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [2.4.18] - 2026-08-11
+
+### Changed
+- **Reference Integration & Master Processing (`references.md` & `reference_coverage.md`)**: Formatted and integrated DOE Genesis Open Models Initiative official announcement ([`U.S. Department of Energy Launches Genesis Open Models Initiative`](https://www.energy.gov/undersecretaryforscience/articles/us-department-energy-launches-genesis-open-models-initiative), `www.energy.gov`) into Section 4 under Department of Energy (DOE) Official Announcements, registering it as Master Index Entry #115 and processing its status to `Processed` (**400 / 400 Processed, 100% Complete**).
+- **Research Paper Enrichment (`README.md` & `README.de.md`)**: Enriched §2.1 (Genesis Open Models Platform & Scientific Model Repository) in both English and German paper editions with details on the **Genesis Open Models Initiative** launched by the DOE Office of the Under Secretary for Science, releasing the flagship open-weight **`Genesis-Science-1`** model (developed in partnership with Arcee AI) hosted at `genesisopenmodels.anl.gov` to transition scientific AI from passive information retrieval to active autonomous task execution across materials science, fusion energy, high-energy physics, and Earth systems modeling.
+- **Version Bump**: Incremented patch version string to `2.4.18` in `README.md` and `README.de.md`.
+
+---
+
 ## [2.4.17] - 2026-08-11
 
 ### Changed
