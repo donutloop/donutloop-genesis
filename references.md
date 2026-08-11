@@ -367,6 +367,7 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
   * [Real-Time AI-Based Water Intelligence for US Energy Systems](https://www.ornl.gov/research-highlight/real-time-ai-based-water-intelligence-us-energy-systems)
   * [Transforming Biodesign for Nation's Energy and Security](https://www.ornl.gov/research-highlight/transforming-biodesign-nations-energy-and-security)
   * [AI Technology Boosts Confidence, Cuts Costs in Metal 3D Printing](https://www.ornl.gov/research-highlight/ai-technology-boosts-confidence-cuts-costs-metal-3d-printing)
+  * [AI-Enabled Physics Analyses for Energy, Defense, and Discovery Applications](https://www.ornl.gov/research-highlight/ai-enabled-physics-analyses-energy-defense-and-discovery-applications)
 * **Pacific Northwest National Laboratory (PNNL):**
   * [Genesis Mission Project Portal](https://www.pnnl.gov/projects/genesis-mission)
   * [PNNL Powers Biotechnology, Grid Operations, Nuclear Science Through Genesis AI for Science Mission](https://www.pnnl.gov/news-media/pnnl-powers-biotechnology-grid-operations-nuclear-science-through-genesis-ai-science)
