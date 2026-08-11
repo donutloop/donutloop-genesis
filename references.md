@@ -467,3 +467,9 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
 * [U.S. Department of Energy: ModCon — Transformational AI and Data Overview](https://www.energy.gov/undersecretaryforscience/genesis-mission/modcon-transformational-ai-and-data)
 * [U.S. Department of Energy: Data Team Fact Sheet](https://www.energy.gov/documents/data-team-fact-sheet)
 * [U.S. Department of Defense: Artificial Intelligence Strategy for the Department of War (PDF)](https://media.defense.gov/2026/Jan/12/2003855671/-1/-1/0/ARTIFICIAL-INTELLIGENCE-STRATEGY-FOR-THE-DEPARTMENT-OF-WAR.PDF)
+
+
+
+  WIP:
+
+  https://www.anl.gov/article/gridmind-powering-the-control-room-of-the-future-with-ai-agents
