@@ -5,6 +5,15 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [2.4.17] - 2026-08-11
+
+### Changed
+- **Reference Integration & Master Processing (`references.md` & `reference_coverage.md`)**: Formatted and integrated DOE U.S.-Japan $1 Billion Partnership official announcement ([`United States and Japan Announce Historic $1 Billion Partnership Under President Trump's Genesis Mission`](https://www.energy.gov/articles/united-states-and-japan-announce-historic-1-billion-partnership-under-president-trumps), `www.energy.gov`) into Section 4 under Department of Energy (DOE) Official Announcements, registering it as Master Index Entry #114 and processing its status to `Processed` (**399 / 399 Processed, 100% Complete**).
+- **Research Paper Enrichment (`README.md` & `README.de.md`)**: Enriched §2.1 (International AI for Science) and §4.2 (Interagency Governance & International Bilateral Partnerships) in both English and German paper editions with details on the 5-year, **$1 Billion ($500M each)** bilateral partnership between the U.S. Department of Energy and Japanese ministries (MEXT & METI)—designating Japan as the inaugural international partner under the Genesis Mission, establishing 11 joint scientific teams across 12 DOE National Laboratories and 12 Japanese research institutions (RIKEN, AIST, NIFS, Osaka Univ, Tokyo Univ) focusing on quantum information science, fusion energy, biotechnology, advanced materials, particle physics, and autonomous laboratory systems, while co-designing supercomputing integration between DOE exascale platforms and Japan's **Fugaku / FugakuNEXT** systems.
+- **Version Bump**: Incremented patch version string to `2.4.17` in `README.md` and `README.de.md`.
+
+---
+
 ## [2.4.16] - 2026-08-11
 
 ### Changed
