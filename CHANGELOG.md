@@ -5,6 +5,15 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [2.4.14] - 2026-08-11
+
+### Changed
+- **Reference Integration & Master Processing (`references.md` & `reference_coverage.md`)**: Formatted and integrated ANL ChemGraph article ([`Argonne's ChemGraph Unlocks AI for Chemistry and Materials Science`](https://www.anl.gov/article/argonne-teams-chemgraph-unlocks-ai-for-chemistry-and-materials-science), `www.anl.gov`) into Section 5 under Argonne National Laboratory, registering it as Master Index Entry #221 and processing its status to `Processed` (**396 / 396 Processed, 100% Complete**).
+- **Research Paper Enrichment (`README.md` & `README.de.md`)**: Enriched §3.2 Argonne National Laboratory (ANL) profiles in both English and German paper editions with details on the **ChemGraph** open-source LangGraph agentic AI framework led by Murat Keçeli and Thang Duc Pham, translating natural language into multi-step quantum chemistry and materials science simulations (interfacing via ASE with NWChem, ORCA, xTB, and MACE), powered by Aurora exascale supercomputing and the ALCF Inference Service, featuring **ChemGraph-XANES** and a public LLM benchmark leaderboard.
+- **Version Bump**: Incremented patch version string to `2.4.14` in `README.md` and `README.de.md`.
+
+---
+
 ## [2.4.13] - 2026-08-11
 
 ### Changed
