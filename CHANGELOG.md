@@ -5,6 +5,15 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [2.4.33] - 2026-08-11
+
+### Changed
+- **Reference Integration & Master Processing (`references.md` & `reference_coverage.md`)**: Formatted and integrated Fermi National Accelerator Laboratory's official AI Genesis portal page ([`Fermilab AI Portal: Collaborative Project Opportunities for the Genesis Mission`](https://artificialintelligence.fnal.gov/collaborative-project-opportunities-genesis-mission/), `artificialintelligence.fnal.gov`) into Section 5 under Fermi National Accelerator Laboratory, registering it as Master Index Entry #259 and processing its status to `Processed` (**415 / 415 Processed, 100% Complete**).
+- **Research Paper Enrichment (`README.md` & `README.de.md`)**: Enriched §3.2 (Fermilab national laboratory profile) in both English and German paper editions with details on flagship Genesis initiatives: **AXESS** (radiation-hardened chip design automation), **MOAT** (7-lab AI accelerator control framework), **TREASURE** (tokenized representations for collider dataset AI searches), **AI Universe** (Cosmic Frontier data repository for dark matter), and **FemtoMind** (agentic AI for Lattice Quantum Chromodynamics).
+- **Version Bump**: Incremented patch version string to `2.4.33` in `README.md` and `README.de.md`.
+
+---
+
 ## [2.4.32] - 2026-08-11
 
 ### Changed
