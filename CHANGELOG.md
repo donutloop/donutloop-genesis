@@ -5,6 +5,16 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [2.2.14] - 2026-08-11
+
+### Changed
+- **WIP Reference Integration (`references.md`)**: Audited and integrated 1 scratchpad link from `references.md` WIP section:
+  - Integrated 1 new technical document into Section 7 (Technical Documents, RFA Guidance & Official Webinars): [`U.S. Department of Defense: Artificial Intelligence Strategy for the Department of War (PDF)`](https://media.defense.gov/2026/Jan/12/2003855671/-1/-1/0/ARTIFICIAL-INTELLIGENCE-STRATEGY-FOR-THE-DEPARTMENT-OF-WAR.PDF). Decommissioned WIP scratchpad block.
+- **Master Reference Coverage Extension (`reference_coverage.md`)**: Extended master index table to 382 links by registering Entry #382 (`U.S. Department of Defense: Artificial Intelligence Strategy for the Department of War (PDF)`) as `Unprocessed` under Section 7 (`Technical Documents`), added domain `media.defense.gov` to unique domain metrics (210 total domains), and updated total processing status to **381 / 382 Processed** (1 Unprocessed link remaining).
+- **Version Bump**: Incremented patch version string to `2.2.14` in `README.md` and `README.de.md`.
+
+---
+
 ## [2.2.13] - 2026-08-11
 
 ### Changed

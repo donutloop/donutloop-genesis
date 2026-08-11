@@ -1,7 +1,7 @@
 # Genesis Mission — Master Reference Coverage Report
 
 > **Document Overview:**
-> This report provides a comprehensive coverage analysis, breakdown, and master audit index of all **381 external reference links** compiled within `references.md` for the **Genesis Mission** documentation repository.
+> This report provides a comprehensive coverage analysis, breakdown, and master audit index of all **382 external reference links** compiled within `references.md` for the **Genesis Mission** documentation repository.
 
 ---
 
@@ -9,13 +9,13 @@
 
 | Metric | Count / Value | Description |
 | :--- | :--- | :--- |
-| **Total Reference Links** | **381** | Unique external links indexed across all sections |
+| **Total Reference Links** | **382** | Unique external links indexed across all sections |
 | **Primary Document Sections** | **7** | High-level thematic categories in `references.md` |
-| **Unique Target Domains** | **209** | Distinct institutional, corporate, and governmental web hosts |
-| **Official PDF Documents** | **14** | Formal RFA solicitations, webinars, slides, and executive reports |
+| **Unique Target Domains** | **210** | Distinct institutional, corporate, and governmental web hosts |
+| **Official PDF Documents** | **15** | Formal RFA solicitations, webinars, slides, and executive reports |
 | **Web Portals & Press Releases** | **364** | Newsroom features, corporate blog posts, and interactive hubs |
 | **Validation Status** | **100% Validated** | All links canonicalized, formatted, and deduplicated |
-| **Processing Status** | **381 / 381 Processed** | 0 Unprocessed, 381 Processed (100% Complete) |
+| **Processing Status** | **381 / 382 Processed** | 1 Unprocessed, 381 Processed |
 
 ---
 
@@ -29,7 +29,7 @@
 | 4 | `4. Executive, Federal & Partner Announcements` | **117** | 31.5% | White House releases, Cabinet agency press, hyperscaler & lab announcements |
 | 5 | `5. National Labs & University Coverage` | **176** | 46.2% | National Laboratory news portals & 60 awardee university press releases |
 | 6 | `6. Additional Event Materials & Reference Links` | **2** | 0.5% | Presentation slide decks, institutional intro files & video recordings |
-| 7 | `7. Technical Documents, RFA Guidance & Official Webinars` | **10** | 2.6% | DE-FOA-0003612 solicitations, OSTP challenge papers & SCAC presentations |
+| 7 | `7. Technical Documents, RFA Guidance & Official Webinars` | **11** | 2.9% | DE-FOA-0003612 solicitations, OSTP challenge papers & SCAC presentations |
 
 ---
 
@@ -59,6 +59,7 @@ Below is the distribution of references grouped by top domain hosts and institut
 | `research.ibm.com` | **3** | IBM Research | $1B quantum foundry subsidiary, $50M compute commitment |
 | `openai.com` | **3** | OpenAI | Federal scientific AI partnership, DOE collaboration MOU |
 | `psiquantum.com` | **3** | PsiQuantum | Photonic quantum computing hardware, Commerce LOI |
+| `media.defense.gov` | **1** | Department of War / DoD | Defense AI strategy and national security S&T guidance (PDF) |
 
 ---
 
@@ -449,3 +450,4 @@ A complete tabular listing of all 363 indexed reference links:
 | 379 | 7. Technical Documents, RFA Guidance & Official Webinars | - | OSTP: OSTP Genesis Mission Science and Technology Challenges Document | `www.energy.gov` | Web | [OSTP: OSTP Genesis Mission Science and Technology Challenges Document](https://www.energy.gov/documents/ostp-genesis-mission-science-and-technology-challenges) | `Processed` |
 | 380 | 7. Technical Documents, RFA Guidance & Official Overviews | - | U.S. Department of Energy: ModCon — Transformational AI and Data Overview | `www.energy.gov` | Web | [U.S. Department of Energy: ModCon — Transformational AI and Data Overview](https://www.energy.gov/undersecretaryforscience/genesis-mission/modcon-transformational-ai-and-data) | `Processed` |
 | 381 | 7. Technical Documents, RFA Guidance & Official Webinars | - | U.S. Department of Energy: Data Team Fact Sheet | `www.energy.gov` | Web | [U.S. Department of Energy: Data Team Fact Sheet](https://www.energy.gov/documents/data-team-fact-sheet) | `Processed` |
+| 382 | 7. Technical Documents, RFA Guidance & Official Webinars | - | U.S. Department of Defense: Artificial Intelligence Strategy for the Department of War (PDF) | `media.defense.gov` | PDF | [U.S. Department of Defense: Artificial Intelligence Strategy for the Department of War (PDF)](https://media.defense.gov/2026/Jan/12/2003855671/-1/-1/0/ARTIFICIAL-INTELLIGENCE-STRATEGY-FOR-THE-DEPARTMENT-OF-WAR.PDF) | `Unprocessed` |
