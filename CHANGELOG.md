@@ -5,6 +5,15 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [2.4.1] - 2026-08-11
+
+### Changed
+- **Master Reference Processing (`reference_coverage.md`)**: Processed Entry #331 ([`President Garimella Named to U.S. Department of Energy Advisory Committee`](https://news.arizona.edu/news/president-garimella-named-us-department-energy-advisory-committee), `news.arizona.edu`), updating its status from `Unprocessed` to `Processed` (**387 / 387 Processed, 100% Complete**).
+- **Research Paper Enrichment (`README.md` & `README.de.md`)**: Enriched §3.3 University of Arizona profiles in both English and German paper editions with details on President Suresh Garimella's appointment to the Secretary of Energy Advisory Board (SEAB) / Genesis Mission Advisory Committee, advising federal leadership on thermal microelectronics packaging for exascale AI compute nodes, academic workforce mobilization pipelines, and Southwest regional energy innovation hubs under Genesis.
+- **Version Bump**: Incremented patch version string to `2.4.1` in `README.md` and `README.de.md`.
+
+---
+
 ## [2.4.0] - 2026-08-11
 
 ### Changed
