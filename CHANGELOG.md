@@ -5,6 +5,15 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [2.4.16] - 2026-08-11
+
+### Changed
+- **Reference Integration & Master Processing (`references.md` & `reference_coverage.md`)**: Formatted and integrated ANL DONUT X-ray data analysis article ([`A Taste of Discovery: Real-Time X-Ray Data Analysis with DONUT Accelerates Materials Science at Argonne`](https://www.anl.gov/article/a-taste-of-discovery-realtime-xray-data-analysis-with-donut-accelerates-materials-science-at-argonne), `www.anl.gov`) into Section 5 under Argonne National Laboratory, registering it as Master Index Entry #223 and processing its status to `Processed` (**398 / 398 Processed, 100% Complete**).
+- **Research Paper Enrichment (`README.md` & `README.de.md`)**: Enriched §3.2 Argonne National Laboratory (ANL) profiles in both English and German paper editions with details on **DONUT** (Diffraction with Optics for Nanobeam by Unsupervised Training), a physics-aware unsupervised neural network deployed on the Hard X-ray Nanoprobe beamline (jointly operated by the Advanced Photon Source - APS and Center for Nanoscale Materials - CNM) to accelerate scanning X-ray nanodiffraction microscopy (SXDM) image analysis by >100x—enabling real-time, in situ experimental steering for nanoscale materials characterization.
+- **Version Bump**: Incremented patch version string to `2.4.16` in `README.md` and `README.de.md`.
+
+---
+
 ## [2.4.15] - 2026-08-11
 
 ### Changed

@@ -261,6 +261,7 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
   * [After 80 Years of Research Excellence, Where Does Argonne Go Next?](https://www.anl.gov/article/after-80-years-of-research-excellence-where-does-argonne-go-next)
   * [Argonne's ChemGraph Unlocks AI for Chemistry and Materials Science](https://www.anl.gov/article/argonne-teams-chemgraph-unlocks-ai-for-chemistry-and-materials-science)
   * [Predicting Microelectronics Performance with Physics-Informed Artificial Intelligence](https://www.anl.gov/article/predicting-microelectronics-performance-with-physicsinformed-artificial-intelligence)
+  * [A Taste of Discovery: Real-Time X-Ray Data Analysis with DONUT Accelerates Materials Science at Argonne](https://www.anl.gov/article/a-taste-of-discovery-realtime-xray-data-analysis-with-donut-accelerates-materials-science-at-argonne)
 * **Berkeley Lab (LBNL):** 
   * [Genesis Mission Hub & Scientific Strategy](https://www.lbl.gov/genesis-mission/)
   * [Genesis Mission Projects Directory](https://www.lbl.gov/genesis-mission-projects/)
