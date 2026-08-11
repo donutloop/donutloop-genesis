@@ -533,6 +533,7 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
 
 * **U.S. ATLAS Institutional Board:** [March 18, 2026 IB Meeting Intro (PDF)](https://indico.cern.ch/event/1662511/contributions/6989578/attachments/3241191/5781385/2026_03_18%20IB%20mtg%20intro.pdf)
 * **Genesis Mission Presentation:** [Genesis Mission Executive & Technical Overview Video](https://youtu.be/ZbzHbewWEtM)
+* **DOE NNSA SSGF & LRGF Annual Program Review:** [The Genesis Mission: Nation-Scale AI and the Future of Scientific Work (Brian Spears, LLNL)](https://www.youtube.com/watch?v=ipMUgONgQYA)
 
 ## 7. Technical Documents, RFA Guidance & Official Webinars
 * [U.S. Department of Energy: Genesis Mission RFI Analysis (PDF)](https://www.energy.gov/sites/default/files/2026-07/Genesis-Mission-RFI-Analysis.pdf)

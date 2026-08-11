@@ -1,4 +1,4 @@
-**Version**: 3.0.43
+**Version**: 3.0.44
 
 # The Genesis Mission: Architecture, Strategic Initiatives, and the Multi-Institutional Ecosystem for AI and Quantum-Driven Scientific Discovery
 
@@ -610,6 +610,7 @@ By integrating world-leading exascale supercomputers (**Frontier**, **Aurora**, 
 * **Lawrence Livermore National Laboratory (LLNL):**
   - *Core User Facilities & Compute*: Operates **El Capitan** (2.79 Exaflops Rmax world's #1 exascale supercomputer powered by AMD Instinct MI300A APUs), the **National Ignition Facility (NIF)** 192-beam laser inertial confinement fusion facility, and the *Big Ideas Lab* podcast ([www.llnl.gov/article/54421/big-ideas-lab-explores-how-genesis-mission-aims-accelerate-scientific-discovery](https://www.llnl.gov/article/54421/big-ideas-lab-explores-how-genesis-mission-aims-accelerate-scientific-discovery)).
   - *Official Announcements*: (*LLNL Selected to Lead 10 Projects Under DOE's Genesis Mission*, [www.llnl.gov/article/54711/llnl-selected-lead-10-projects-under-does-genesis-mission](https://www.llnl.gov/article/54711/llnl-selected-lead-10-projects-under-does-genesis-mission)).
+  - *Technical Leadership & Mission Vision*: Technical direction led by Dr. Brian Spears (Technical Director of the Genesis Mission and LLNL AI Innovation Incubator Director), presented at the 2026 DOE NNSA SSGF & LRGF Annual Program Review (*The Genesis Mission: Nation-Scale AI and the Future of Scientific Work*, [www.youtube.com/watch?v=ipMUgONgQYA](https://www.youtube.com/watch?v=ipMUgONgQYA)), advancing nation-scale AI architecture, "innovation overmatch" strategies, and agentic scientific workflows to double national science and engineering productivity within a decade.
   - *Genesis Project Portfolio*: Leads 10 Phase I Genesis projects and partners on 19 others, applying multi-chip superconducting QPUs (Rigetti 84-qubit Ankaa-3) and multi-agent physics-informed ML to simulate nonlinear fusion plasma destabilization and high-energy-density physics.
 
 * **Los Alamos National Laboratory (LANL):**

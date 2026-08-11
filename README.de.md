@@ -1,4 +1,4 @@
-**Version**: 3.0.43
+**Version**: 3.0.44
 
 # Die Genesis-Mission: Architektur, strategische Initiativen und das multi-institutionelle Ökosystem für KI- und quantengetriebene wissenschaftliche Entdeckungen
 
@@ -605,6 +605,7 @@ Durch die Integration weltweit führender Exascale-Supercomputer (**Frontier**, 
 * **Lawrence Livermore National Laboratory (LLNL):**
   - *Nutzeranlagen & Supercomputing*: Betreibt **El Capitan** (2,79 Exaflops Rmax weltweiter #1 Exascale-Supercomputer, angetrieben von AMD Instinct MI300A APUs), die Trägheitsfusions-Laseranlage **National Ignition Facility (NIF)** mit 192 Strahlen und den *Big Ideas Lab*-Podcast ([www.llnl.gov/article/54421/big-ideas-lab-explores-how-genesis-mission-aims-accelerate-scientific-discovery](https://www.llnl.gov/article/54421/big-ideas-lab-explores-how-genesis-mission-aims-accelerate-scientific-discovery)).
   - *Offizielle Bekanntgaben*: (*LLNL Selected to Lead 10 Projects Under DOE's Genesis Mission*, [www.llnl.gov/article/54711/llnl-selected-lead-10-projects-under-does-genesis-mission](https://www.llnl.gov/article/54711/llnl-selected-lead-10-projects-under-does-genesis-mission)).
+  - *Technische Leitung & Missionsvision*: Technische Leitung unter Dr. Brian Spears (Technical Director der Genesis-Mission und Direktor des LLNL AI Innovation Incubator), vorgetragen auf der 2026 DOE NNSA SSGF & LRGF Annual Program Review (*The Genesis Mission: Nation-Scale AI and the Future of Scientific Work*, [www.youtube.com/watch?v=ipMUgONgQYA](https://www.youtube.com/watch?v=ipMUgONgQYA)), vorantreibend landesweite KI-Architektur, "Innovation Overmatch"-Strategien und agentische wissenschaftliche Workflows zur Verdopplung der nationalen Wissenschafts- und Ingenieurproduktivität innerhalb eines Jahrzehnts.
   - *Genesis-Projektportfolio*: Leitet 10 Phase-I-Genesis-Projekte und ist Partner in 19 weiteren, setzt Multi-Chip-Supraleiter-QPUs (Rigetti 84-Qubit Ankaa-3) und physikgestützte Multi-Agenten-ML ein zur Simulation nichtlinearer Fusionsplasmadynamik und Hochenergiedichte-Physik.
 
 * **Los Alamos National Laboratory (LANL):**
