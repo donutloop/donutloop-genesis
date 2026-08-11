@@ -462,7 +462,9 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
 * **University of Missouri (Mizzou):**
   * [Mizzou Engineering-Led Team Selected for Inaugural Mission](https://engineering.missouri.edu/2026/mizzou-led-team-selected-for-u-s-department-of-energys-inaugural-genesis-mission/)
   * [Show Me Mizzou Feature Coverage](https://showme.missouri.edu/2026/mizzou-led-team-selected-for-u-s-department-of-energys-inaugural-genesis-mission/)
-* **University of Nebraska–Lincoln:** [Husker-Led Project Receives Genesis Mission Funding to Advance AI & 6G](https://news.unl.edu/article/husker-led-project-receives-genesis-mission-funding-to-advance-ai-6g)
+* **University of Nebraska–Lincoln:**
+  * [Husker-Led Project Receives Genesis Mission Funding to Advance AI & 6G](https://news.unl.edu/article/husker-led-project-receives-genesis-mission-funding-to-advance-ai-6g)
+  * [The Genesis Mission: Transforming Science and Energy with AI](https://research.unl.edu/fundingopps/2026/03/18/the-genesis-mission-transforming-science-and-energy-with-ai/)
 * **University of New Mexico (UNM):** [Researchers Selected for Mission](https://news.unm.edu/news/unm-researchers-selected-for-u-s-does-genesis-mission)
 * **University of North Dakota (UND):**
   * [Selected for Inaugural U.S. Department of Energy Genesis Mission Project](https://blogs.und.edu/und-today/2026/07/und-selected-for-inaugural-u-s-department-of-energy-genesis-mission-project/)

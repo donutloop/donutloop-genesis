@@ -5,6 +5,16 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.0.12] - 2026-08-11
+
+### Added
+- **Processed UNL Research Funding Opportunity Reference**: Processed reference link `https://research.unl.edu/fundingopps/2026/03/18/the-genesis-mission-transforming-science-and-energy-with-ai/` (*The Genesis Mission: Transforming Science and Energy with AI*), adding entry to [`references.md`](file:///home/donutloop/Workspace/donutloop-genesis/references.md) Section 5.
+- **Master Index Audit**: Registered Master Index Entry `#397` in [`reference_coverage.md`](file:///home/donutloop/Workspace/donutloop-genesis/reference_coverage.md) (updating total metrics to 437 / 437 Processed, 100% Complete) and confirmed **University of Nebraska–Lincoln** (entity `#159`) in [`coverage.md`](file:///home/donutloop/Workspace/donutloop-genesis/coverage.md) maintaining 100.0% full profile coverage.
+- **Enriched Section 3.3 in English & German Papers**: Added second UNL research portal link in [`README.md`](file:///home/donutloop/Workspace/donutloop-genesis/README.md#L609) and [`README.de.md`](file:///home/donutloop/Workspace/donutloop-genesis/README.de.md#L601).
+- **Version Bump**: Incremented version string to `3.0.12` across [`README.md`](file:///home/donutloop/Workspace/donutloop-genesis/README.md) and [`README.de.md`](file:///home/donutloop/Workspace/donutloop-genesis/README.de.md).
+
+---
+
 ## [3.0.11] - 2026-08-11
 
 ### Added
