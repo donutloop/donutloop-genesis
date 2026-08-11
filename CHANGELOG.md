@@ -5,6 +5,22 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [2.4.5] - 2026-08-11
+
+### Changed
+- **Master Reference Index Synchronization (`reference_coverage.md`)**: Re-synchronized master reference index table with `references.md`, registering missing Section 2 entries [`Arcee AI`](https://arcee.ai/) (row #9) and [`Groq`](https://groq.com/) (row #31) as `Unprocessed` to achieve 100% complete index coverage across all 390 external reference links (**388 / 390 Processed, 2 Unprocessed remaining**).
+- **Version Bump**: Incremented patch version string to `2.4.5` in `README.md` and `README.de.md`.
+
+---
+
+## [2.4.4] - 2026-08-11
+
+### Changed
+- **WIP Reference Deduplication & Scratchpad Decommissioning (`references.md`)**: Audited the `WIP` scratchpad section link ([`Real-Time AI Engine Poised to Revolutionize Large-Scale Imaging Data at National Labs`](https://www.anl.gov/article/realtime-ai-engine-poised-to-revolutionize-largescale-imaging-data-at-national-labs)), identified it as a duplicate of existing entry #205 (line 248 under Argonne National Laboratory), skipped duplicate re-integration, and decommissioned the `WIP` scratchpad section.
+- **Version Bump**: Incremented patch version string to `2.4.4` in `README.md` and `README.de.md`.
+
+---
+
 ## [2.4.3] - 2026-08-11
 
 ### Changed
