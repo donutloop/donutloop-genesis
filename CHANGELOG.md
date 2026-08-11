@@ -5,6 +5,15 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [2.3.4] - 2026-08-11
+
+### Changed
+- **WIP Reference Integration (`references.md`)**: Formatted and integrated 1 scratchpad link from `references.md` WIP section into Section 4 (Executive, Federal & Partner Announcements): [`Federal Register: Presidential Document - Executive Order 14363 Public Inspection Copy (PDF)`](https://public-inspection.federalregister.gov/2025-21665.pdf?1764173712). Decommissioned WIP scratchpad block.
+- **Master Reference Coverage Extension (`reference_coverage.md`)**: Extended master index table to 384 links by registering Entry #87 (`Federal Register: Presidential Document - Executive Order 14363 Public Inspection Copy (PDF)`) as `Unprocessed` under Section 4 (`Executive, Federal & Partner Announcements`), renumbered all subsequent master rows (88–384), registered new domain `public-inspection.federalregister.gov` (211 total unique domains), and updated total processing status to **383 / 384 Processed** (1 Unprocessed link remaining).
+- **Version Bump**: Incremented patch version string to `2.3.4` in `README.md` and `README.de.md`.
+
+---
+
 ## [2.3.3] - 2026-08-11
 
 ### Changed
