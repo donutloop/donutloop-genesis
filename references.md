@@ -283,6 +283,7 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
   * [Accelerating Discovery with ModCon](https://newscenter.lbl.gov/2026/07/23/qa-accelerating-scientific-discovery-with-the-genesis-missions-modcon/)
   * [Supporting DOE's Genesis Mission (Elements Feature)](https://elements.lbl.gov/news/supporting-does-genesis-mission/)
   * [ATAP Multi-Office Accelerator Team Using AI](https://atap.lbl.gov/news/the-multi-office-particle-accelerator-team-using-ai-to-enhance-the-capabilities-of-current-and-future-particle-accelerators/)
+  * [LBNL ATAP News: Fermilab Researchers Develop AI Tools to Advance the Future of Particle Accelerators](https://atap.lbl.gov/news/fermilab-researchers-develop-ai-tools-to-advance-the-future-of-particle-accelerators/)
   * [Takes Major Step Toward Doudna with Delivery of Early Access System, Cech](https://newscenter.lbl.gov/2026/03/17/berkeley-lab-takes-major-step-toward-doudna-with-delivery-of-early-access-system-cech/)
   * [Connecting Data, Computing, and AI for Scientific Discovery](https://newscenter.lbl.gov/2026/08/05/connecting-data-computing-and-ai-for-scientific-discovery/)
   * [How the Genesis Mission's American Science Cloud Advances Innovation](https://newscenter.lbl.gov/2026/07/15/how-the-genesis-missions-american-science-cloud-advances-innovation/)

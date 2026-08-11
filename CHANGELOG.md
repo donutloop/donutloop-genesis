@@ -5,6 +5,15 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [2.4.35] - 2026-08-11
+
+### Changed
+- **Reference Integration & Master Processing (`references.md` & `reference_coverage.md`)**: Formatted and integrated LBNL Accelerator Technology & Applied Physics (ATAP) Division's official news feature ([`LBNL ATAP News: Fermilab Researchers Develop AI Tools to Advance the Future of Particle Accelerators`](https://atap.lbl.gov/news/fermilab-researchers-develop-ai-tools-to-advance-the-future-of-particle-accelerators/), `atap.lbl.gov`) into Section 5 under Lawrence Berkeley National Laboratory, registering it as Master Index Entry #244 and processing its status to `Processed` (**417 / 417 Processed, 100% Complete**).
+- **Research Paper Enrichment (`README.md` & `README.de.md`)**: Enriched §3.2 (LBNL national laboratory profile) in both English and German paper editions with details on the **MOAT** (Multi-Office Particle Accelerator Team) project led by LBNL (Jean-Luc Vay) with Fermilab (Jonathan Jarvis), ANL, BNL, LANL, ORNL, and SLAC, including digital twin surrogate physics models and real-time AI beam steering validated on Fermilab's FAST/IOTA test facility.
+- **Version Bump**: Incremented patch version string to `2.4.35` in `README.md` and `README.de.md`.
+
+---
+
 ## [2.4.34] - 2026-08-11
 
 ### Changed
