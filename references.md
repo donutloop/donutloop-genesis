@@ -228,6 +228,7 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
 * [Databricks: Securing America's Scientific Future with Databricks & Accenture](https://www.databricks.com/dataaisummit/session/sponsored-accenture-securing-americas-scientific-future)
 * [Dataera.ai: Dataera.ai Collaborates with U.S. Department of Energy on Genesis Mission](https://www.dataerai.com/doe-genesis-partnership.html)
 * [Veritone: Joins Genesis Mission Consortium to Advance U.S. Department of Energy's National AI Initiatives](https://investors.veritone.com/news-events/press-releases/detail/429/veritone-joins-genesis-mission-consortium-to-advance-u-s-department-of-energys-national-ai-initiatives)
+* [Association of American Universities (AAU): Responds to DOE RFI on Mobilizing Academic Talent for Genesis Mission](https://www.aau.edu/resource-library/aau-responds-doe-rfi-mobilizing-talent-genesis-mission)
   
 ---
 
@@ -263,6 +264,7 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
   * [Connecting Data, Computing, and AI for Scientific Discovery](https://newscenter.lbl.gov/2026/08/05/connecting-data-computing-and-ai-for-scientific-discovery/)
   * [How the Genesis Mission's American Science Cloud Advances Innovation](https://newscenter.lbl.gov/2026/07/15/how-the-genesis-missions-american-science-cloud-advances-innovation/)
   * [How a Machine Learning Pipeline Could Accelerate Innovation](https://newscenter.lbl.gov/2026/02/02/how-a-machine-learning-pipeline-could-accelerate-innovation/)
+  * [Scientists Release Biggest 2D Map of the Universe](https://newscenter.lbl.gov/2026/08/10/scientists-release-biggest-2d-map-of-the-universe/)
 * **Brookhaven National Laboratory (BNL):** 
   * [Genesis Mission Coverage & Research Leadership](https://www.bnl.gov/newsroom/news.php?a=123041)
   * [BNL Highlights Strategic Genesis Mission Projects](https://www.bnl.gov/newsroom/news.php?a=122827)
@@ -390,7 +392,9 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
   * [Projects Named in First Cohort of DOE Genesis Mission](https://inside.charlotte.edu/2026/07/22/unc-charlotte-projects-named-in-first-cohort-of-u-s-department-of-energy-genesis-mission/)
   * [Projects Join DOE Genesis Mission and Student AI Fellows Put LLMs to Work](https://inside.charlotte.edu/2026/07/27/unc-charlotte-projects-join-the-department-of-energy-genesis-mission-and-student-ai-fellows-put-large-language-models-to-work/)
 * **University at Buffalo:** [Genesis Mission Grants Buffalo AI Research](https://www.buffalo.edu/news/releases/2026/07/genesis-mission-grants-buffalo-AI-research.html)
-* **University of Arizona:** [Department of Energy Selects 5 U of A Research Projects](https://news.arizona.edu/news/department-energy-selects-5-u-research-projects-through-new-ai-science-genesis-mission-awards)
+* **University of Arizona:**
+  * [Department of Energy Selects 5 U of A Research Projects](https://news.arizona.edu/news/department-energy-selects-5-u-research-projects-through-new-ai-science-genesis-mission-awards)
+  * [President Garimella Named to U.S. Department of Energy Advisory Committee](https://news.arizona.edu/news/president-garimella-named-us-department-energy-advisory-committee)
 * **University of California System:** [Partners with DOE to Advance Energy Discovery](https://www.universityofcalifornia.edu/news/university-california-partners-us-department-energy-advance-energy-discovery-and-national)
 * **University of Central Florida (UCF):** [UCF Researcher to Support DOE Project Using AI to Accelerate Scientific Discovery](https://www.ucf.edu/news/ucf-researcher-to-support-doe-project-using-ai-to-accelerate-scientific-discovery/)
 * **University of Colorado Boulder:**

@@ -256,6 +256,7 @@
 | 175 | [Renaissance Philanthropy](https://www.renaissancephilanthropy.org/) | ✅ Full Profile | §3.4, A.4 | Catalytic scientific philanthropy, venture research grants & AI for Science acceleration |
 | 176 | [RTI International](https://www.rti.org/) | ✅ Full Profile | §3.5, A.5 | Environmental risk AI modeling, carbon capture technology scaling & life-cycle assessment engines |
 | 177 | [Schmidt Sciences](https://www.schmidtsciences.org/) | ✅ Full Profile | §3.4, A.4 | Non-profit research foundation, AI for Science fellowships & open scientific model grants |
+| 178 | [Association of American Universities (AAU)](https://www.aau.edu/) | ❌ Not Covered | §3.4, A.4 | Higher education association, DOE RFI academic talent mobilization response (reference only) |
 
 ---
 
@@ -269,16 +270,16 @@
 | Federal Agencies | 10 | 10 | 0 | 0 |
 | National Laboratories & Defense Sites | 22 | 22 | 0 | 0 |
 | Universities | 61 | 61 | 0 | 0 |
-| Philanthropy & Regional Hubs | 9 | 9 | 0 | 0 |
-| **Total** | **177** | **177** | **0** | **0** |
+| Philanthropy & Regional Hubs | 10 | 9 | 0 | 1 |
+| **Total** | **178** | **177** | **0** | **1** |
 
 ### By Coverage Level
 
 | Coverage Level | Count | Percentage |
 |:---|:---:|:---:|
-| ✅ Full Profile | 177 | 100% |
+| ✅ Full Profile | 177 | 99.4% |
 | 📋 Brief Mention | 0 | 0.0% |
-| ❌ Not Covered | 0 | 0.0% |
-| **Total Entities** | **177** | **100%** |
+| ❌ Not Covered | 1 | 0.6% |
+| **Total Entities** | **178** | **100%** |
 
-> **Note:** All 177 tracked Genesis Mission ecosystem participants have dedicated, detailed technical write-ups (achieving 100% full profile coverage across all 75 industry partners, 22 national lab/defense sites, 61 research universities, 10 federal agencies, and 9 philanthropy/regional hubs). The broader sub-grantee network of 342 participating institutions represents secondary academic and sub-contractor nodes across the 278 national project awards.
+> **Note:** 177 of 178 tracked Genesis Mission ecosystem participants have dedicated, detailed technical write-ups (achieving 99.4% full profile coverage across all 75 industry partners, 22 national lab/defense sites, 61 research universities, 10 federal agencies, and 9 philanthropy/regional hubs, with 1 higher education association tracked for reference). The broader sub-grantee network of 342 participating institutions represents secondary academic and sub-contractor nodes across the 278 national project awards.

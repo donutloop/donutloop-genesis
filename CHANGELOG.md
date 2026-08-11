@@ -5,6 +5,21 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [2.3.7] - 2026-08-11
+
+### Changed
+- **WIP Reference Integration (`references.md`)**: Processed all 3 scratchpad links from the `WIP` section into `references.md`:
+  1. [`Lawrence Berkeley National Laboratory (LBNL): Scientists Release Biggest 2D Map of the Universe`](https://newscenter.lbl.gov/2026/08/10/scientists-release-biggest-2d-map-of-the-universe/) integrated under Section 5 (LBNL profile).
+  2. [`University of Arizona: President Garimella Named to U.S. Department of Energy Advisory Committee`](https://news.arizona.edu/news/president-garimella-named-us-department-energy-advisory-committee) integrated under Section 5 (University of Arizona profile).
+  3. [`Association of American Universities (AAU): Responds to DOE RFI on Mobilizing Academic Talent for Genesis Mission`](https://www.aau.edu/resource-library/aau-responds-doe-rfi-mobilizing-talent-genesis-mission) integrated under Section 4.
+  Decommissioned `WIP` scratchpad section.
+- **Ecosystem Coverage Tracker (`coverage.md`)**: Registered Association of American Universities (AAU) as entity #178 (`❌ Not Covered`, reference tracking), updated total tracked ecosystem count to 178 (177 Full Profile, 99.4% coverage), and synchronized all summary breakdown tables.
+- **Master Reference Audit (`reference_coverage.md`)**: Extended master index to **387 reference links** across 212 unique domains (**387 / 387 Processed, 100% Complete**), renumbering all master index rows.
+- **Research Paper Enrichment (`README.md` & `README.de.md`)**: Enriched §3.2 LBNL profiles with technical details on LBNL's release of the world's largest 2D map of the universe using Dark Energy Spectroscopic Instrument (DESI) survey data and AI supercomputing on the Genesis HPC platform. Ensured complete German paper parity (`README.de.md`).
+- **Version Bump**: Incremented patch version string to `2.3.7` in `README.md` and `README.de.md`.
+
+---
+
 ## [2.3.6] - 2026-08-11
 
 ### Added
