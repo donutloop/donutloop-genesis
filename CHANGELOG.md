@@ -5,6 +5,15 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [2.3.0] - 2026-08-11
+
+### Changed
+- **Reference Index Processing (Entry #382 - Department of War Artificial Intelligence Strategy PDF)**: Processed master reference index Entry #382 ([media.defense.gov/2026/Jan/12/2003855671/-1/-1/0/ARTIFICIAL-INTELLIGENCE-STRATEGY-FOR-THE-DEPARTMENT-OF-WAR.PDF](https://media.defense.gov/2026/Jan/12/2003855671/-1/-1/0/ARTIFICIAL-INTELLIGENCE-STRATEGY-FOR-THE-DEPARTMENT-OF-WAR.PDF)). Enriched **Department of War / U.S. Department of Defense (DoD)** profiles in Section 3.4 of `README.md` and `README.de.md` with technical details on the official defense AI strategy framework, establishing joint dual-use scientific AI foundation models, radiation-hardened microelectronics PDKs, hypersonics CFD digital twins, and interagency supercomputing alignment.
+- **Master Reference Coverage Complete (`reference_coverage.md`)**: Updated Entry #382 status from `Unprocessed` to `Processed` in `reference_coverage.md`, achieving **100% processing status** across all master reference index entries (**382 / 382 Processed**).
+- **Version Bump**: Incremented minor version string to `2.3.0` in `README.md` and `README.de.md` per user directive.
+
+---
+
 ## [2.2.14] - 2026-08-11
 
 ### Changed
