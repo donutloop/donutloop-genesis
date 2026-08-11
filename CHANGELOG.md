@@ -5,6 +5,15 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [2.2.12] - 2026-08-11
+
+### Changed
+- **Reference Index Processing (Entry #257 - ORNL AI-Powered Operations for Self-Driving Science Research)**: Integrated and processed master reference index Entry #257 ([www.ornl.gov/project/ai-powered-operations-self-driving-science-research](https://www.ornl.gov/project/ai-powered-operations-self-driving-science-research)). Enriched **Oak Ridge National Laboratory (ORNL)** profiles in Section 3.2 of `README.md` and `README.de.md` with technical details on ORNL's self-driving science initiative, deploying autonomous agentic experiment steering, closed-loop robotic synthesis, and automated instrument tuning on Frontier to accelerate scientific discovery across national user facilities.
+- **Master Reference Coverage Complete (`reference_coverage.md`)**: Registered and processed Entry #257 in `reference_coverage.md`, renumbering all subsequent master rows (258–380) and maintaining **100% processing status** (**380 / 380 Processed**).
+- **Version Bump**: Incremented patch version string to `2.2.12` in `README.md` and `README.de.md`.
+
+---
+
 ## [2.2.11] - 2026-08-11
 
 ### Changed

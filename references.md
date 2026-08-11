@@ -306,6 +306,7 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
   * [AI Long-Range Water Prediction](https://www.ornl.gov/project/ai-long-range-water-prediction)
   * [AI Next-Generation Fusion Materials Development](https://www.ornl.gov/project/ai-next-generation-fusion-materials-development)
   * [AI-Enabled Subsurface Biogeochemical Modeling](https://www.ornl.gov/project/ai-enabled-subsurface-biogeochemical-modeling)
+  * [AI-Powered Operations for Self-Driving Science Research](https://www.ornl.gov/project/ai-powered-operations-self-driving-science-research)
 * **Pacific Northwest National Laboratory (PNNL):** [Genesis Mission Project Portal](https://www.pnnl.gov/projects/genesis-mission)
 * **Princeton Plasma Physics Laboratory (PPPL):** 
   * [PPPL to Lead Genesis Mission Project to Create an AI Operator for Fusion Heating](https://www.pppl.gov/news/2026/pppl-lead-genesis-mission-project-create-ai-operator-crucial-fusion-energy-heating-system)
