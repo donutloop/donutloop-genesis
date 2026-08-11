@@ -5,6 +5,15 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [2.4.39] - 2026-08-11
+
+### Changed
+- **Reference Integration & Master Processing (`references.md` & `reference_coverage.md`)**: Formatted and integrated LBNL Accelerator Technology & Applied Physics (ATAP) Division's official news feature ([`LBNL ATAP News: Harnessing AI for Particle Accelerator Innovation: ATAP's Role in the DOE's AI Genesis Mission`](https://atap.lbl.gov/news/harnessing-ai-for-particle-accelerator-innovation-ataps-role-in-the-does-ai-genesis-mission/), `atap.lbl.gov`) into Section 5 under Lawrence Berkeley National Laboratory, registering it as Master Index Entry #245 and processing its status to `Processed` (**421 / 421 Processed, 100% Complete**).
+- **Research Paper Enrichment (`README.md` & `README.de.md`)**: Enriched §3.2 (LBNL national laboratory profile) in both English and German paper editions with details on ATAP Division Director Cameron Geddes leading 4 strategic Genesis projects (3 accelerator projects including MOAT across all 7 DOE accelerator national labs, and 1 Inertial Fusion Energy project).
+- **Version Bump**: Incremented patch version string to `2.4.39` in `README.md` and `README.de.md`.
+
+---
+
 ## [2.4.38] - 2026-08-11
 
 ### Changed
