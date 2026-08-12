@@ -5,6 +5,16 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.0.61] - 2026-08-12
+
+### Added
+- **Processed Ambassador Shigeo Yamada Genesis Mission Summit 2026 Fireside Chat Video Reference**: Processed reference link `https://youtu.be/drGt8WuHvnY` (*Ambassador Yamada Fireside Chat—Genesis Mission Summit 2026*), adding entry to [`references.md`](file:///home/donutloop/Workspace/donutloop-genesis/references.md#L551) Section 6 under Additional Event Materials & Reference Links.
+- **Master Index Audit**: Registered Master Index Entry `#472` in [`reference_coverage.md`](file:///home/donutloop/Workspace/donutloop-genesis/reference_coverage.md) (updating total metrics to **484 / 484 Processed**, 100% Complete across 225 unique target domains with 467 Web/News items), renumbered downstream index rows `#473` to `#484`, and updated DOE notes in [`coverage.md`](file:///home/donutloop/Workspace/donutloop-genesis/coverage.md#L137).
+- **Enriched Section 3.4 in English & German Papers**: Integrated Japanese Ambassador Shigeo Yamada's Genesis Mission Summit 2026 fireside chat highlighting U.S.-Japan international HPC and AI scientific collaboration in [`README.md`](file:///home/donutloop/Workspace/donutloop-genesis/README.md#L706) and [`README.de.md`](file:///home/donutloop/Workspace/donutloop-genesis/README.de.md#L699).
+- **Version Bump**: Incremented version string to `3.0.61` across [`README.md`](file:///home/donutloop/Workspace/donutloop-genesis/README.md) and [`README.de.md`](file:///home/donutloop/Workspace/donutloop-genesis/README.de.md).
+
+---
+
 ## [3.0.60] - 2026-08-12
 
 ### Added
