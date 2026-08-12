@@ -46,7 +46,7 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
 * [Esri](https://www.esri.com/)
 * [FutureHouse](https://www.futurehouse.org/)
 * [GE Aerospace](https://www.geaerospace.com/)
-* [GlobalFoundries](https://gf.com/)
+* [GlobalFoundries](https://gf.com/): [GlobalFoundries — Quantum Technology Architecture & Foundry Solutions](https://gf.com/technologies/quantum-technology/)
 * [Google](https://about.google/)
 * [Groq](https://groq.com/): [Groq Partners with U.S. Department of Energy to Advance AI Inference and Next-Generation Computing Infrastructure](https://groq.com/newsroom/groq-partners-with-us-department-of-energy-to-advance-ai-inference-and-next-generation-computing-infrastructure)
 * [HPE](https://www.hpe.com/)
