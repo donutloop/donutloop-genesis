@@ -1,4 +1,4 @@
-**Version**: 3.1.2
+**Version**: 3.1.3
 
 # Die Genesis-Mission: Architektur, strategische Initiativen und das multi-institutionelle Ökosystem für KI- und quantengetriebene wissenschaftliche Entdeckungen
 
@@ -621,8 +621,8 @@ Durch die Integration weltweit führender Exascale-Supercomputer (**Frontier**, 
 
 * **National Renewable Energy Laboratory (NREL / NLR):**
   - *Teststände & HPC-Infrastruktur*: Betreibt den **Advanced Research on Integrated Energy Systems (ARIES)** Megawatt-Stromnetzteststand, den Supercomputer **Kestrel** (NVIDIA H100 HPC-Cluster) und den *Computational Science Genesis Mission Hub*.
-  - *Offizielle Bekanntgaben*: ([www.nlr.gov/computational-science/genesis-mission](https://www.nlr.gov/computational-science/genesis-mission) und *AI-Driven Research to Strengthen U.S. Grid, Supply Chains, and Technological Leadership*, [www.nlr.gov/news/detail/features/2026/genesis-mission's-ai-driven-research-to-strengthen-us-grid-supply-chains-and-technological-leadership](https://www.nlr.gov/news/detail/features/2026/genesis-mission's-ai-driven-research-to-strengthen-us-grid-supply-chains-and-technological-leadership)).
-  - *Genesis F&E-Initiativen*: Kosimuliert Quanten-in-der-Schleife-Netzstabilität mit Atom Computing, entwickelt physikgestützte KI für Solar-PV und Windturbinen-Digital-Twins und optimiert die bundesweite Ladeinfrastruktur für Elektrofahrzeuge.
+  - *Offizielle Bekanntgaben & Medien*: ([www.nlr.gov/computational-science/genesis-mission](https://www.nlr.gov/computational-science/genesis-mission), *AI-Driven Research to Strengthen U.S. Grid, Supply Chains, and Technological Leadership*, [www.nlr.gov/news/detail/features/2026/genesis-mission's-ai-driven-research-to-strengthen-us-grid-supply-chains-and-technological-leadership](https://www.nlr.gov/news/detail/features/2026/genesis-mission's-ai-driven-research-to-strengthen-us-grid-supply-chains-and-technological-leadership) und *12 Genesis Awards, One Membrane Center, and 5 Emerging Aviation Fuels Video*, [www.youtube.com/watch?v=Hw_mpJwmT1o](https://www.youtube.com/watch?v=Hw_mpJwmT1o)).
+  - *Genesis F&E-Initiativen*: Mit **12 Genesis-Mission-Forschungspreisen** etabliert das NREL ein Zentrum für fortschrittliche Membrantechnologie für saubere Energie und Kohlenstoffabscheidung, leistet Pionierarbeit bei 5 neuen Flugkraftstoff-Synthesewegen (SAF) mit Unterstützung von KI-Basismodellen, kosimuliert Quanten-in-der-Schleife-Netzstabilität mit Atom Computing, entwickelt physikgestützte KI für Solar-PV und Windturbinen-Digital-Twins und optimiert die bundesweite Ladeinfrastruktur für Elektrofahrzeuge.
 
 * **Oak Ridge National Laboratory (ORNL):**
   - *Compute & Nutzeranlagen*: Betreibt **Frontier** (1,206 Exaflops Rmax weltweiter #1 Exascale-Supercomputer, angetrieben von HPE Cray EX235a & AMD Instinct MI250X GPUs), den KI-Supercomputer **Lux** (AMD Instinct MI355X GPUs) und die **Spallation Neutron Source (SNS)**.
@@ -1051,6 +1051,7 @@ Die folgenden technischen Präsentationsaufzeichnungen, Führungskräfte-Briefin
 | [The Genesis Mission: AI and Autonomous Experiments in Materials Discovery](https://www.youtube.com/watch?v=AvLHUgHujlg) | U.S. Department of Energy (DOE) / ANL | Dr. Santanu Chaudhuri (ANL) / DOE-Führung | Autonome Laborintegration, KI-gestützte Hochdurchsatz-Experimente, geschlossene Synthese-Entdeckungspipelines für Materialien und Exascale-Supercomputing-Integration im Rahmen der Genesis-Mission. |
 | [Science at the Speed of Light: The Genesis Mission Across DOE Labs (GTC 2026 Session S82461)](https://www.nvidia.com/en-us/on-demand/session/gtc26-s82461/) | NVIDIA Corporation / NVIDIA On-Demand | Dr. Brian Spears (LLNL) & Prof. Rick Stevens (ANL / U.Chicago) | NVIDIA-DOE Exascale-Supercomputing-Co-Design, Vera/Blackwell-GPU-Beschleunigung für Genesis-Basismodelle, agentische KI-Labor-Schwungräder und laborübergreifende Plattformintegration. |
 | [Accelerating Scientific Discovery Through Global Innovation (GTC 2026 Session S82438)](https://www.nvidia.com/en-us/on-demand/session/gtc26-s82438/) | NVIDIA Corporation / NVIDIA On-Demand | Dr. Darío Gil (DOE-Stellvertretender Staatssekretär für Wissenschaft) & Ian Buck (NVIDIA-Vizepräsident) | Strategische DOE-NVIDIA-KI-Infrastrukturpartnerschaften, Exascale-Supercomputer-Bereitstellung (Solstice & Equinox), weltweites Teilen wissenschaftlicher Basismodelle und cuQuantum/Omniverse-Integration. |
+| [12 Genesis Awards, One Membrane Center, and 5 Emerging Aviation Fuels](https://www.youtube.com/watch?v=Hw_mpJwmT1o) | National Laboratory of the Rockies (NREL) | NREL Leadership & Computing Scientists | Übersicht über die 12 Genesis-Mission-Forschungspreise des NREL, die Einrichtung eines Zentrums für fortschrittliche Membrantechnologie für saubere Energie/Kohlenstoffabscheidung und die Entwicklung von 5 neuen nachhaltigen Flugkraftstoffpfaden (SAF) mittels KI-Basismodellen. |
 
 ---
 

@@ -1,4 +1,4 @@
-**Version**: 3.1.2
+**Version**: 3.1.3
 
 # The Genesis Mission: Architecture, Strategic Initiatives, and the Multi-Institutional Ecosystem for AI and Quantum-Driven Scientific Discovery
 
@@ -625,8 +625,8 @@ By integrating world-leading exascale supercomputers (**Frontier**, **Aurora**, 
 
 * **National Renewable Energy Laboratory (NREL / NLR):**
   - *Core Testbeds & HPC Infrastructure*: Houses the **Advanced Research on Integrated Energy Systems (ARIES)** megawatt-scale power grid testbed, operating **Kestrel** (NVIDIA H100 HPC cluster) and the *Computational Science Genesis Mission Hub*.
-  - *Official Releases*: ([www.nlr.gov/computational-science/genesis-mission](https://www.nlr.gov/computational-science/genesis-mission) and *AI-Driven Research to Strengthen U.S. Grid, Supply Chains, and Technological Leadership*, [www.nlr.gov/news/detail/features/2026/genesis-mission's-ai-driven-research-to-strengthen-us-grid-supply-chains-and-technological-leadership](https://www.nlr.gov/news/detail/features/2026/genesis-mission's-ai-driven-research-to-strengthen-us-grid-supply-chains-and-technological-leadership)).
-  - *Genesis R&D Initiatives*: Co-simulates quantum-in-the-loop grid stability with Atom Computing, develops physics-informed AI for solar PV and wind turbine digital twins, and optimizes nationwide electric vehicle charging infrastructure.
+  - *Official Releases & Media*: ([www.nlr.gov/computational-science/genesis-mission](https://www.nlr.gov/computational-science/genesis-mission), *AI-Driven Research to Strengthen U.S. Grid, Supply Chains, and Technological Leadership*, [www.nlr.gov/news/detail/features/2026/genesis-mission's-ai-driven-research-to-strengthen-us-grid-supply-chains-and-technological-leadership](https://www.nlr.gov/news/detail/features/2026/genesis-mission's-ai-driven-research-to-strengthen-us-grid-supply-chains-and-technological-leadership), and *12 Genesis Awards, One Membrane Center, and 5 Emerging Aviation Fuels Video*, [www.youtube.com/watch?v=Hw_mpJwmT1o](https://www.youtube.com/watch?v=Hw_mpJwmT1o)).
+  - *Genesis R&D Initiatives*: Securing **12 Genesis Mission research awards**, NREL establishes a dedicated Advanced Membrane Technology Center for clean energy and carbon capture, pioneers 5 emerging sustainable aviation fuel (SAF) pathways accelerated by AI foundation models, co-simulates quantum-in-the-loop grid stability with Atom Computing, develops physics-informed AI for solar PV and wind turbine digital twins, and optimizes nationwide electric vehicle charging infrastructure.
 
 * **Oak Ridge National Laboratory (ORNL):**
   - *Core Compute & User Facilities*: Operates **Frontier** (1.206 Exaflops Rmax world's #1 exascale supercomputer powered by HPE Cray EX235a & AMD Instinct MI250X GPUs), the **Lux** AI supercomputer (AMD Instinct MI355X GPUs), and the **Spallation Neutron Source (SNS)**.
@@ -1086,6 +1086,7 @@ The following key technical presentation recordings, executive briefings, and mu
 | [The Genesis Mission: AI and Autonomous Experiments in Materials Discovery](https://www.youtube.com/watch?v=AvLHUgHujlg) | U.S. Department of Energy (DOE) / ANL | Dr. Santanu Chaudhuri (ANL) / DOE Leadership | Autonomous laboratory integration, AI-driven high-throughput experimentation, materials synthesis closed-loop discovery pipelines, and exascale supercomputing integration under the Genesis Mission. |
 | [Science at the Speed of Light: The Genesis Mission Across DOE Labs (GTC 2026 Session S82461)](https://www.nvidia.com/en-us/on-demand/session/gtc26-s82461/) | NVIDIA Corporation / NVIDIA On-Demand | Dr. Brian Spears (LLNL) & Prof. Rick Stevens (ANL / U.Chicago) | NVIDIA-DOE exascale supercomputing co-design, Vera/Blackwell GPU acceleration for Genesis foundation models, agentic AI lab flywheels, and multi-lab platform integration. |
 | [Accelerating Scientific Discovery Through Global Innovation (GTC 2026 Session S82438)](https://www.nvidia.com/en-us/on-demand/session/gtc26-s82438/) | NVIDIA Corporation / NVIDIA On-Demand | Dr. Darío Gil (DOE Under Secretary for Science) & Ian Buck (NVIDIA VP) | Strategic DOE-NVIDIA AI infrastructure partnerships, exascale supercomputer deployment (Solstice & Equinox), global scientific foundation model sharing, and cuQuantum/Omniverse integration. |
+| [12 Genesis Awards, One Membrane Center, and 5 Emerging Aviation Fuels](https://www.youtube.com/watch?v=Hw_mpJwmT1o) | National Laboratory of the Rockies (NREL) | NREL Leadership & Computing Scientists | Overview of NREL's 12 Genesis Mission research awards, establishing an Advanced Membrane Technology Center for clean energy/carbon capture, and pioneering 5 emerging sustainable aviation fuel (SAF) pathways using AI foundation models. |
 
 ---
 

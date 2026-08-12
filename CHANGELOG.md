@@ -5,6 +5,16 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.1.3] - 2026-08-12
+
+### Added
+- **Processed National Laboratory of the Rockies (NREL) Video Reference**: Processed reference link `https://www.youtube.com/watch?v=Hw_mpJwmT1o` (*12 Genesis Awards, One Membrane Center, and 5 Emerging Aviation Fuels* by National Laboratory of the Rockies), adding entry to [`references.md`](file:///home/donutloop/Workspace/donutloop-genesis/references.md#L577) Section 6 under Additional Event Materials & Reference Links.
+- **Ecosystem & Master Index Audit**: Registered Master Index Entry `#506` in [`reference_coverage.md`](file:///home/donutloop/Workspace/donutloop-genesis/reference_coverage.md) (updating total metrics to **519 / 519 Processed**, 100% Complete across 227 unique target domains with 501 Web items), renumbered downstream index rows `#507` to `#519`, and updated NREL notes in [`coverage.md`](file:///home/donutloop/Workspace/donutloop-genesis/coverage.md#L163) to highlight 12 Genesis Mission research awards, Advanced Membrane Technology Center, and 5 SAF pathways.
+- **Enriched Section 3.2 & Appendix A.6 in English & German Papers**: Integrated NREL's 12 Genesis awards, Advanced Membrane Center, and 5 sustainable aviation fuel (SAF) pathways into Section 3.2 and Appendix A.6 in [`README.md`](file:///home/donutloop/Workspace/donutloop-genesis/README.md#L628) and [`README.de.md`](file:///home/donutloop/Workspace/donutloop-genesis/README.de.md#L624).
+- **Version Bump**: Incremented version string to `3.1.3` across [`README.md`](file:///home/donutloop/Workspace/donutloop-genesis/README.md) and [`README.de.md`](file:///home/donutloop/Workspace/donutloop-genesis/README.de.md).
+
+---
+
 ## [3.1.2] - 2026-08-12
 
 ### Added

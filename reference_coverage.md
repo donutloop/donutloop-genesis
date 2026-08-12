@@ -1,7 +1,7 @@
 # Genesis Mission — Master Reference Coverage Report
 
 > **Document Overview:**
-> This report provides a comprehensive coverage analysis, breakdown, and master audit index of all **518 external reference links** compiled within `references.md` for the **Genesis Mission** documentation repository.
+> This report provides a comprehensive coverage analysis, breakdown, and master audit index of all **519 external reference links** compiled within `references.md` for the **Genesis Mission** documentation repository.
 
 ---
 
@@ -9,13 +9,13 @@
 
 | Metric | Count / Value | Description |
 | :--- | :--- | :--- |
-| **Total Reference Links** | **518** | Unique external links indexed across all sections |
+| **Total Reference Links** | **519** | Unique external links indexed across all sections |
 | **Primary Document Sections** | **7** | High-level thematic categories in `references.md` |
 | **Unique Target Domains** | **227** | Distinct domain names referenced (government, lab, corporate, academic, news) |
 | **Official PDF Documents** | **18** | Formal RFA solicitations, webinars, slides, and executive reports |
-| **Web Portals & Press Releases** | **500** | Newsroom features, corporate blog posts, and interactive hubs |
+| **Web Portals & Press Releases** | **501** | Newsroom features, corporate blog posts, and interactive hubs |
 | **Validation Status** | **100% Validated** | All links canonicalized, formatted, and deduplicated |
-| **Processing Status** | **518 / 518 Processed** | 0 Unprocessed, 518 Processed (100% Complete) |
+| **Processing Status** | **519 / 519 Processed** | 0 Unprocessed, 519 Processed (100% Complete) |
 
 ---
 
@@ -26,9 +26,9 @@
 | 1 | `1. Key Presentation Details` | **3** | 0.6% | Briefing agendas, U.S. ATLAS IB meeting details & CERN links |
 | 2 | `2. Collaborators` | **75** | 14.5% | Official homepage & announcement links for industrial/energy partners |
 | 3 | `3. Quantum Leadership & CHIPS Act Initiatives` | **11** | 2.1% | Department of Commerce NIST LOIs & DOE $2B quantum initiatives |
-| 4 | `4. Executive, Federal & Partner Announcements` | **149** | 28.8% | White House releases, Cabinet agency press, hyperscaler & lab announcements |
-| 5 | `5. National Labs & University Coverage` | **247** | 47.7% | National Laboratory news portals & 61 awardee university press releases |
-| 6 | `6. Additional Event Materials & Reference Links` | **13** | 2.5% | Presentation slide decks, institutional intro files & video recordings |
+| 4 | `4. Executive, Federal & Partner Announcements` | **149** | 28.7% | White House releases, Cabinet agency press, hyperscaler & lab announcements |
+| 5 | `5. National Labs & University Coverage` | **247** | 47.6% | National Laboratory news portals & 61 awardee university press releases |
+| 6 | `6. Additional Event Materials & Reference Links` | **14** | 2.7% | Presentation slide decks, institutional intro files & video recordings |
 | 7 | `7. Technical Documents, RFA Guidance & Official Webinars` | **12** | 2.3% | DE-FOA-0003612 solicitations, OSTP challenge papers & SCAC presentations |
 
 ---
@@ -578,16 +578,17 @@ A complete tabular listing of all 464 indexed reference links:
 | 503 | 6. Additional Event Materials & Reference Links | U.S. Department of Energy / ANL | The Genesis Mission: AI and Autonomous Experiments in Materials Discovery | `www.youtube.com` | Web | [The Genesis Mission: AI and Autonomous Experiments in Materials Discovery](https://www.youtube.com/watch?v=AvLHUgHujlg) | `Processed` |
 | 504 | 6. Additional Event Materials & Reference Links | NVIDIA GTC 2026 | Science at the Speed of Light: The Genesis Mission Across DOE Labs (Brian Spears & Rick Stevens) | `www.nvidia.com` | Web | [Science at the Speed of Light: The Genesis Mission Across DOE Labs (Brian Spears & Rick Stevens)](https://www.nvidia.com/en-us/on-demand/session/gtc26-s82461/) | `Processed` |
 | 505 | 6. Additional Event Materials & Reference Links | NVIDIA GTC 2026 | Accelerating Scientific Discovery Through Global Innovation (Dr. Darío Gil & Ian Buck) | `www.nvidia.com` | Web | [Accelerating Scientific Discovery Through Global Innovation (Dr. Darío Gil & Ian Buck)](https://www.nvidia.com/en-us/on-demand/session/gtc26-s82438/) | `Processed` |
+| 506 | 6. Additional Event Materials & Reference Links | National Laboratory of the Rockies (NREL) | 12 Genesis Awards, One Membrane Center, and 5 Emerging Aviation Fuels | `www.youtube.com` | Web | [12 Genesis Awards, One Membrane Center, and 5 Emerging Aviation Fuels](https://www.youtube.com/watch?v=Hw_mpJwmT1o) | `Processed` |
 | `www.energy.gov` | **30** | U.S. Department of Energy (DOE) | FOA releases, Secretary announcements, OSTP challenge docs |
-| 507 | 7. Technical Documents, RFA Guidance & Official Webinars | - | DOE Office of Science: Genesis Mission RFA FAQs (PDF) | `science.osti.gov` | PDF | [DOE Office of Science: Genesis Mission RFA FAQs (PDF)](https://science.osti.gov/-/media/grants/pdf/foas-resources/2026/Genesis-Mission-RFA-FAQs-20260427.pdf) | `Processed` |
-| 508 | 7. Technical Documents, RFA Guidance & Official Webinars | - | DOE Office of Science: Genesis Mission RFA Informational Webinar — Basic Energy Sciences (BES) (PDF) | `science.osti.gov` | PDF | [DOE Office of Science: Genesis Mission RFA Informational Webinar — Basic Energy Sciences (BES) (PDF)](https://science.osti.gov/-/media/grants/pdf/foas-resources/2026/Genesis-Mission-RFA-Informational-Webinar--BES-v1-public.pdf) | `Processed` |
-| 509 | 7. Technical Documents, RFA Guidance & Official Webinars | - | DOE Office of Science: HEP & NP Genesis Mission RFA Informational Webinar (PDF) | `science.osti.gov` | PDF | [DOE Office of Science: HEP & NP Genesis Mission RFA Informational Webinar (PDF)](https://science.osti.gov/-/media/grants/pdf/foas-resources/2026/HEP-NP-Genesis-Mission-RFA-Informational-Webinar.pdf) | `Processed` |
-| 510 | 7. Technical Documents, RFA Guidance & Official Webinars | - | DOE Office of Science: Genesis Mission RFA Informational Webinar — Fusion Energy Sciences (FES) (PDF) | `science.osti.gov` | PDF | [DOE Office of Science: Genesis Mission RFA Informational Webinar — Fusion Energy Sciences (FES) (PDF)](https://science.osti.gov/-/media/grants/pdf/foas-resources/2026/Genesis-Mission-RFA-Informational-Webinar-v2-public--clean--FES.pdf) | `Processed` |
-| 511 | 7. Technical Documents, RFA Guidance & Official Webinars | - | DOE Office of Science: DE-FOA-0003612 Amendment 000003 (PDF) | `science.osti.gov` | PDF | [DOE Office of Science: DE-FOA-0003612 Amendment 000003 (PDF)](https://science.osti.gov/-/media/grants/pdf/foas/2026/DE-FOA-0003612-000003.pdf) | `Processed` |
-| 512 | 7. Technical Documents, RFA Guidance & Official Webinars | - | DOE Office of Science (SCAC): DOE Genesis Mission Launched Presentation (PDF) | `science.osti.gov` | PDF | [DOE Office of Science (SCAC): DOE Genesis Mission Launched Presentation (PDF)](https://science.osti.gov/-/media/About/pdf/scac/meetings/2026/DOE-Genesis-Mission-Launched---2026-03-27.pdf) | `Processed` |
+| 508 | 7. Technical Documents, RFA Guidance & Official Webinars | - | DOE Office of Science: Genesis Mission RFA FAQs (PDF) | `science.osti.gov` | PDF | [DOE Office of Science: Genesis Mission RFA FAQs (PDF)](https://science.osti.gov/-/media/grants/pdf/foas-resources/2026/Genesis-Mission-RFA-FAQs-20260427.pdf) | `Processed` |
+| 509 | 7. Technical Documents, RFA Guidance & Official Webinars | - | DOE Office of Science: Genesis Mission RFA Informational Webinar — Basic Energy Sciences (BES) (PDF) | `science.osti.gov` | PDF | [DOE Office of Science: Genesis Mission RFA Informational Webinar — Basic Energy Sciences (BES) (PDF)](https://science.osti.gov/-/media/grants/pdf/foas-resources/2026/Genesis-Mission-RFA-Informational-Webinar--BES-v1-public.pdf) | `Processed` |
+| 510 | 7. Technical Documents, RFA Guidance & Official Webinars | - | DOE Office of Science: HEP & NP Genesis Mission RFA Informational Webinar (PDF) | `science.osti.gov` | PDF | [DOE Office of Science: HEP & NP Genesis Mission RFA Informational Webinar (PDF)](https://science.osti.gov/-/media/grants/pdf/foas-resources/2026/HEP-NP-Genesis-Mission-RFA-Informational-Webinar.pdf) | `Processed` |
+| 511 | 7. Technical Documents, RFA Guidance & Official Webinars | - | DOE Office of Science: Genesis Mission RFA Informational Webinar — Fusion Energy Sciences (FES) (PDF) | `science.osti.gov` | PDF | [DOE Office of Science: Genesis Mission RFA Informational Webinar — Fusion Energy Sciences (FES) (PDF)](https://science.osti.gov/-/media/grants/pdf/foas-resources/2026/Genesis-Mission-RFA-Informational-Webinar-v2-public--clean--FES.pdf) | `Processed` |
+| 512 | 7. Technical Documents, RFA Guidance & Official Webinars | - | DOE Office of Science: DE-FOA-0003612 Amendment 000003 (PDF) | `science.osti.gov` | PDF | [DOE Office of Science: DE-FOA-0003612 Amendment 000003 (PDF)](https://science.osti.gov/-/media/grants/pdf/foas/2026/DE-FOA-0003612-000003.pdf) | `Processed` |
+| 513 | 7. Technical Documents, RFA Guidance & Official Webinars | - | DOE Office of Science (SCAC): DOE Genesis Mission Launched Presentation (PDF) | `science.osti.gov` | PDF | [DOE Office of Science (SCAC): DOE Genesis Mission Launched Presentation (PDF)](https://science.osti.gov/-/media/About/pdf/scac/meetings/2026/DOE-Genesis-Mission-Launched---2026-03-27.pdf) | `Processed` |
 | `www.energy.gov` | **30** | U.S. Department of Energy (DOE) | FOA releases, Secretary announcements, OSTP challenge docs |
 | `www.energy.gov` | **30** | U.S. Department of Energy (DOE) | FOA releases, Secretary announcements, OSTP challenge docs |
 | `www.energy.gov` | **30** | U.S. Department of Energy (DOE) | FOA releases, Secretary announcements, OSTP challenge docs |
-| 516 | 7. Technical Documents, RFA Guidance & Official Webinars | - | U.S. Department of Defense: Artificial Intelligence Strategy for the Department of War (PDF) | `media.defense.gov` | PDF | [U.S. Department of Defense: Artificial Intelligence Strategy for the Department of War (PDF)](https://media.defense.gov/2026/Jan/12/2003855671/-1/-1/0/ARTIFICIAL-INTELLIGENCE-STRATEGY-FOR-THE-DEPARTMENT-OF-WAR.PDF) | `Processed` |
-| 517 | 7. Technical Documents, RFA Guidance & Official Webinars | - | DOE Office of Science: Genesis Mission Funding Opportunity Announcements (FOAs) Portal | `science.osti.gov` | Web | [DOE Office of Science: Genesis Mission Funding Opportunity Announcements (FOAs) Portal](https://science.osti.gov/grants/FOAs/Genesis-Mission) | `Processed` |
-| 518 | 7. Technical Documents, RFA Guidance & Official Webinars | - | INL GAIN / ANL: Overview of NE Focus Areas in DOE's Genesis AI Initiative Presentation — Dr. Rick Vilim (PDF) | `gain.inl.gov` | PDF | [INL GAIN / ANL: Overview of NE Focus Areas in DOE's Genesis AI Initiative Presentation — Dr. Rick Vilim (PDF)](https://gain.inl.gov/content/uploads/4/2026/06/05-Overview-of-NE-Focus-Areas-in-DOEs-Genesis-AI-Initiative-Rick-Vilim.pdf) | `Processed` |
+| 517 | 7. Technical Documents, RFA Guidance & Official Webinars | - | U.S. Department of Defense: Artificial Intelligence Strategy for the Department of War (PDF) | `media.defense.gov` | PDF | [U.S. Department of Defense: Artificial Intelligence Strategy for the Department of War (PDF)](https://media.defense.gov/2026/Jan/12/2003855671/-1/-1/0/ARTIFICIAL-INTELLIGENCE-STRATEGY-FOR-THE-DEPARTMENT-OF-WAR.PDF) | `Processed` |
+| 518 | 7. Technical Documents, RFA Guidance & Official Webinars | - | DOE Office of Science: Genesis Mission Funding Opportunity Announcements (FOAs) Portal | `science.osti.gov` | Web | [DOE Office of Science: Genesis Mission Funding Opportunity Announcements (FOAs) Portal](https://science.osti.gov/grants/FOAs/Genesis-Mission) | `Processed` |
+| 519 | 7. Technical Documents, RFA Guidance & Official Webinars | - | INL GAIN / ANL: Overview of NE Focus Areas in DOE's Genesis AI Initiative Presentation — Dr. Rick Vilim (PDF) | `gain.inl.gov` | PDF | [INL GAIN / ANL: Overview of NE Focus Areas in DOE's Genesis AI Initiative Presentation — Dr. Rick Vilim (PDF)](https://gain.inl.gov/content/uploads/4/2026/06/05-Overview-of-NE-Focus-Areas-in-DOEs-Genesis-AI-Initiative-Rick-Vilim.pdf) | `Processed` |
