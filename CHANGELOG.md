@@ -5,6 +5,17 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.2.0] - 2026-08-13
+
+### Added
+- **Dedicated Child Papers Infrastructure (`child_papers/`)**: Initialized, expanded, and fully audited 8 dedicated technical child papers ([`atom_computing.md`](./child_papers/atom_computing.md), [`diraq.md`](./child_papers/diraq.md), [`d-wave.md`](./child_papers/d-wave.md), [`infleqtion.md`](./child_papers/infleqtion.md), [`psiquantum.md`](./child_papers/psiquantum.md), [`quantinuum.md`](./child_papers/quantinuum.md), [`rigetti.md`](./child_papers/rigetti.md), and [`xlight.md`](./child_papers/xlight.md)) alongside their corresponding German technical versions (`.de.md`), maintaining 100% complete chronological newsroom archive indices (670+ total press releases and scientific publications) strictly isolated within `child_papers/`.
+- **Exhaustive Multi-Page Crawling Prompts (`child_papers/prompts/`)**: Established standardized prompt templates (`process_url_reference_<company>.md` & `release_and_tag_<company>.md`) enforcing zero link omission, REST API pagination, and Squarespace/Webflow offset crawling.
+- **U.S. Department of Energy (DOE) Genesis Mission Integration**: Integrated explicit clickable DOE Genesis Mission portal links (`https://www.energy.gov/genesis-mission`) and Genesis Mission Consortium references across all child papers and main documentation.
+- **Section 2.2 Direct Organization Link Table**: Embedded a streamlined 2-column child paper reference table in Section 2.2 of [`README.md`](./README.md#L292-L305) and [`README.de.md`](./README.de.md#L290-L305) linking directly to local child paper files.
+- **Version Bump**: Incremented minor version string to `3.2.0` across [`README.md`](./README.md) and [`README.de.md`](./README.de.md).
+
+---
+
 ## [3.1.5] - 2026-08-12
 
 ### Added
