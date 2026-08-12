@@ -5,6 +5,16 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.1.1] - 2026-08-12
+
+### Added
+- **Processed Purdue University Genesis Mission AI Research Projects Reference**: Processed reference link `https://www.purdue.edu/newsroom/2026/Q3/2-purdue-ai-research-projects-selected-among-the-first-genesis-mission-awards/` (*2 Purdue AI Research Projects Selected Among the First Genesis Mission Awards* by Purdue University Newsroom), adding entry to [`references.md`](file:///home/donutloop/Workspace/donutloop-genesis/references.md#L474) Section 5 under Universities & Research Institutions (Purdue University).
+- **Ecosystem & Master Index Audit**: Registered Master Index Entry `#423` in [`reference_coverage.md`](file:///home/donutloop/Workspace/donutloop-genesis/reference_coverage.md) (updating total metrics to **517 / 517 Processed**, 100% Complete across 227 unique target domains with 499 Web items), renumbered downstream index rows `#424` to `#517`, added [Purdue University](file:///home/donutloop/Workspace/donutloop-genesis/coverage.md#L210) as Entity `#136` in [`coverage.md`](file:///home/donutloop/Workspace/donutloop-genesis/coverage.md) with `✅ Full Profile` coverage (updating total tracked consortium entities to **183 / 183**, 100% Complete across 64 research universities).
+- **Enriched Section 3.3 & Appendix A.5 in English & German Papers**: Integrated Purdue University's two lead Genesis Mission AI projects (Electron-Ion Collider real-time AI trigger/compression w/ LANL & Fermilab, LLM training data direct citation w/ ORNL) and co-PI awards (SMR PUR-1 digital twins, polar materials, critical minerals AI) into Section 3.3 and Appendix A.5 in [`README.md`](file:///home/donutloop/Workspace/donutloop-genesis/README.md#L687) and [`README.de.md`](file:///home/donutloop/Workspace/donutloop-genesis/README.de.md#L682).
+- **Version Bump**: Incremented version string to `3.1.1` across [`README.md`](file:///home/donutloop/Workspace/donutloop-genesis/README.md) and [`README.de.md`](file:///home/donutloop/Workspace/donutloop-genesis/README.de.md).
+
+---
+
 ## [3.1.0] - 2026-08-12
 
 ### Added

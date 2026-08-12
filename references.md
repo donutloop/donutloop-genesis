@@ -471,6 +471,7 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
 * **Princeton University:**
   * [Researchers Awarded Grants to Lead AI Projects](https://www.princeton.edu/news/2026/07/22/princeton-researchers-awarded-genesis-mission-grants-department-energy-accelerate)
   * [Princeton Researchers Awarded Genesis Mission Grants](https://research.princeton.edu/news/princeton-researchers-awarded-genesis-mission-grants-department-energy-accelerate-ai-use-0)
+* **Purdue University:** [2 Purdue AI Research Projects Selected Among the First Genesis Mission Awards](https://www.purdue.edu/newsroom/2026/Q3/2-purdue-ai-research-projects-selected-among-the-first-genesis-mission-awards/)
 * **Rensselaer Polytechnic Institute (RPI):** [Selected for Two U.S. Department of Energy Genesis Mission Projects](https://news.rpi.edu/2026/07/31/rpi-selected-two-us-department-energy-genesis-mission-projects)
 * **Rice University:** [Researchers Earn 2 Awards](https://news.rice.edu/news/2026/rice-researchers-earn-2-doe-genesis-mission-awards)
 * **RTI International:** [Research Teams Selected for DOE Genesis Mission](https://www.rti.org/news/doe-genesis-mission-research-teams)
