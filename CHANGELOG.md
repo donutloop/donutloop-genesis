@@ -5,6 +5,16 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.0.95] - 2026-08-12
+
+### Added
+- **Processed ANL AI-Enabled Optimization of Quantum Circuit Design Reference**: Processed reference link `https://www.anl.gov/genesis-mission/projects/ai-enabled-optimization-of-quantum-circuit-design-for-realistic-nuclear-problems` (*AI-Enabled Optimization of Quantum Circuit Design for Realistic Nuclear Problems* by Argonne National Laboratory), adding entry to [`references.md`](file:///home/donutloop/Workspace/donutloop-genesis/references.md#L297) Section 5 under National Labs (ANL).
+- **Master Index Audit**: Registered Master Index Entry `#267` in [`reference_coverage.md`](file:///home/donutloop/Workspace/donutloop-genesis/reference_coverage.md) (updating total metrics to **514 / 514 Processed**, 100% Complete across 226 unique target domains with 497 Web/News items), renumbered downstream index rows `#268` to `#514`, and updated ANL notes in [`coverage.md`](file:///home/donutloop/Workspace/donutloop-genesis/coverage.md#L154).
+- **Enriched Section 3.2 in English & German Papers**: Integrated ANL AI-Enabled Optimization of Quantum Circuit Design project portal and technical overview into Section 3.2 in [`README.md`](file:///home/donutloop/Workspace/donutloop-genesis/README.md#L581) and [`README.de.md`](file:///home/donutloop/Workspace/donutloop-genesis/README.de.md#L577).
+- **Version Bump**: Incremented version string to `3.0.95` across [`README.md`](file:///home/donutloop/Workspace/donutloop-genesis/README.md) and [`README.de.md`](file:///home/donutloop/Workspace/donutloop-genesis/README.de.md).
+
+---
+
 ## [3.0.94] - 2026-08-12
 
 ### Added
