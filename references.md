@@ -382,6 +382,7 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
   * [First-Ever Autonomous Material Synthesis by Pulsed Laser Deposition](https://www.ornl.gov/research-highlight/first-ever-autonomous-material-synthesis-pulsed-laser-deposition)
   * [AI Accelerated Fusion Materials Test Facility](https://www.ornl.gov/research-highlight/ai-accelerated-fusion-materials-test-facility)
   * [AI-Boosted Particle Accelerator Operations & Design](https://www.ornl.gov/research-highlight/ai-boosted-particle-accelerator-operations-design)
+  * [The Genesis Mission (Oak Ridge National Laboratory Official Overview Video)](https://youtu.be/zWVEq_35yPo)
 * **Pacific Northwest National Laboratory (PNNL):**
   * [Genesis Mission Project Portal](https://www.pnnl.gov/projects/genesis-mission)
   * [PNNL Powers Biotechnology, Grid Operations, Nuclear Science Through Genesis AI for Science Mission](https://www.pnnl.gov/news-media/pnnl-powers-biotechnology-grid-operations-nuclear-science-through-genesis-ai-science)

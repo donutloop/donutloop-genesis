@@ -5,6 +5,16 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.0.62] - 2026-08-12
+
+### Added
+- **Processed ORNL Genesis Mission Official Overview Video Reference**: Processed reference link `https://youtu.be/zWVEq_35yPo` (*The Genesis Mission (Oak Ridge National Laboratory Official Overview Video)*), adding entry to [`references.md`](file:///home/donutloop/Workspace/donutloop-genesis/references.md#L382) Section 5 under National Labs & University Coverage.
+- **Master Index Audit**: Registered Master Index Entry `#335` in [`reference_coverage.md`](file:///home/donutloop/Workspace/donutloop-genesis/reference_coverage.md) (updating total metrics to **485 / 485 Processed**, 100% Complete across 225 unique target domains with 468 Web/News items), renumbered downstream index rows `#336` to `#485`, and updated ORNL notes in [`coverage.md`](file:///home/donutloop/Workspace/donutloop-genesis/coverage.md#L162).
+- **Enriched Section 3.2 in English & German Papers**: Integrated Oak Ridge National Laboratory's official video announcement detailing its leadership across 9 led Genesis Mission projects, 32 partner initiatives, Frontier exascale supercomputing, and the upcoming Discovery supercomputer (2028) in [`README.md`](file:///home/donutloop/Workspace/donutloop-genesis/README.md#L628) and [`README.de.md`](file:///home/donutloop/Workspace/donutloop-genesis/README.de.md#L623).
+- **Version Bump**: Incremented version string to `3.0.62` across [`README.md`](file:///home/donutloop/Workspace/donutloop-genesis/README.md) and [`README.de.md`](file:///home/donutloop/Workspace/donutloop-genesis/README.de.md).
+
+---
+
 ## [3.0.61] - 2026-08-12
 
 ### Added

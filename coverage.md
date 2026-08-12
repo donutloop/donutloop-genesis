@@ -162,7 +162,7 @@
 | 95 | [National Energy Technology Laboratory (NETL)](https://www.netl.doe.gov/) | ✅ Full Profile | §2.3D, §3.2, A.2 | Power grid instability AI, carbon capture optimization & Ramaco coal-to-graphite synthetic materials |
 | 96 | [National Renewable Energy Laboratory (NREL)](https://www.nrel.gov/) | ✅ Full Profile | §2.3D, §3.1, §3.2, A.2 | ARIES platform, Atom Computing quantum-in-the-loop grid co-simulation & clean energy digital twins |
 | 97 | [Nevada National Security Sites (NNSS)](https://www.nnss.gov/) | ✅ Full Profile | §3.2, A.4 | Subcritical nuclear experiment diagnostics, high-speed optical sensors & physics AI modeling |
-| 98 | [Oak Ridge National Laboratory (ORNL)](https://www.ornl.gov/) | ✅ Full Profile | §2.3B, §3.1, §3.2, A.2 | Frontier exascale supercomputer (9 projects), FLiBe molten salt quantum chemistry & SNS neutron scattering |
+| 98 | [Oak Ridge National Laboratory (ORNL)](https://www.ornl.gov/) | ✅ Full Profile | §1.1, §2.1, §2.3, §3.2, A.2 | Frontier exascale (1.206 Exaflops), Discovery supercomputer (2028), 9 led Genesis projects (32 partners), official video release, SNS & INTERSECT |
 | 99 | [Pacific Northwest National Laboratory (PNNL)](https://www.pnnl.gov/) | ✅ Full Profile | §2.3C, §3.1, §3.2, A.2 | Microsoft Discovery battery AI, Center for Robotics and Autonomy (CRA), ARCADIA, SciLink, climate modeling & chemical catalysis |
 | 100 | [Pantex Plant](https://pantex.energy.gov/) | ✅ Full Profile | §3.2, A.4 | NNSA nuclear component assembly, high-explosive manufacturing & stockpile stewardship AI |
 | 101 | [Princeton Plasma Physics Laboratory (PPPL)](https://www.pppl.gov/) | ✅ Full Profile | §2.3B, §3.2, A.2 | AI4Fusion autonomous tokamak plasma control & microelectronics low-temperature plasma etching CFD |
