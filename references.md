@@ -505,6 +505,7 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
 * **University of Connecticut (UConn):** [Researchers Win Inaugural DOE Genesis Mission Award](https://today.uconn.edu/2026/07/uconn-researchers-win-inaugural-doe-genesis-mission-award/)
 * **University of Florida:** [Receives Genesis Mission Grant](https://news.ufl.edu/2026/07/genesis-mission-grant/)
 * **University of Illinois Urbana-Champaign:** [Illinois-Led Team Selected for Award](https://news.illinois.edu/illinois-led-team-selected-for-doe-genesis-mission-award/)
+* **University of Houston (Cullen College of Engineering):** [Huang, Wu, Chen Lead Cullen Portion of DOE’s Genesis Mission on Critical Minerals Exploration](https://www.egr.uh.edu/news/202608/huang-wu-chen-lead-cullen-portion-doe%E2%80%99s-genesis-mission-critical-minerals-exploration)
 * **University of Kentucky:** [6 UK Researchers Selected for Historic Mission](https://uknow.uky.edu/research/6-uk-researchers-selected-historic-doe-genesis-mission)
 * **University of Maine:**
   * [Team Selected to Advance AI in Underground Science](https://umaine.edu/news/2026/07/umaine-led-team-selected-for-inaugural-doe-genesis-mission-to-advance-ai-in-underground-science/)

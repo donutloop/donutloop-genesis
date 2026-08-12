@@ -5,6 +5,16 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.1.4] - 2026-08-12
+
+### Added
+- **Processed University of Houston Cullen College Reference**: Processed reference link `https://www.egr.uh.edu/news/202608/huang-wu-chen-lead-cullen-portion-doe%E2%80%99s-genesis-mission-critical-minerals-exploration` (*Huang, Wu, Chen lead Cullen portion of DOE’s Genesis Mission on critical minerals exploration* by UH Cullen College of Engineering), adding entry to [`references.md`](file:///home/donutloop/Workspace/donutloop-genesis/references.md#L508) Section 5 under National Labs & University Coverage.
+- **Ecosystem & Master Index Audit**: Added [University of Houston](file:///home/donutloop/Workspace/donutloop-genesis/coverage.md#L231) as Entity `#155` (`✅ Full Profile`) in [`coverage.md`](file:///home/donutloop/Workspace/donutloop-genesis/coverage.md), updating totals to **184 / 184 (100.0%)** tracked consortium entities across 65 research universities. Registered Master Index Entry `#452` in [`reference_coverage.md`](file:///home/donutloop/Workspace/donutloop-genesis/reference_coverage.md) (updating total metrics to **520 / 520 Processed**, 100% Complete with 502 Web items), and renumbered downstream index rows `#453` to `#520`.
+- **Enriched Section 3.3 & Appendix A.5 in English & German Papers**: Integrated UH's $500,000 DOE AMMPT critical minerals drilling AI framework (in partnership with Sandia National Laboratories) into Section 3.3 and Appendix A.5 in [`README.md`](file:///home/donutloop/Workspace/donutloop-genesis/README.md#L691) and [`README.de.md`](file:///home/donutloop/Workspace/donutloop-genesis/README.de.md#L687).
+- **Version Bump**: Incremented version string to `3.1.4` across [`README.md`](file:///home/donutloop/Workspace/donutloop-genesis/README.md) and [`README.de.md`](file:///home/donutloop/Workspace/donutloop-genesis/README.de.md).
+
+---
+
 ## [3.1.3] - 2026-08-12
 
 ### Added
