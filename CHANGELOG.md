@@ -5,6 +5,14 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.4.4] - 2026-08-13
+
+### Corrected & Translated
+- **Full xLight & Complete German Child Papers Translation**: Completed 100% full German translation of [`child_papers/xlight.de.md`](./child_papers/xlight.de.md) fully matching [`child_papers/xlight.md`](./child_papers/xlight.md), alongside an exhaustive translation pass across all 8 German child papers ([`atom_computing.de.md`](./child_papers/atom_computing.de.md), [`diraq.de.md`](./child_papers/diraq.de.md), [`d-wave.de.md`](./child_papers/d-wave.de.md), [`infleqtion.de.md`](./child_papers/infleqtion.de.md), [`psiquantum.de.md`](./child_papers/psiquantum.de.md), [`quantinuum.de.md`](./child_papers/quantinuum.de.md), [`rigetti.de.md`](./child_papers/rigetti.de.md), and [`xlight.de.md`](./child_papers/xlight.de.md)), ensuring zero untranslated English text remains across all technical sections and reference tables.
+- **Patch Version Release**: Incremented version string to `3.4.4` across [`README.md`](./README.md) and [`README.de.md`](./README.de.md).
+
+---
+
 ## [3.4.3] - 2026-08-13
 
 ### Corrected & Translated
