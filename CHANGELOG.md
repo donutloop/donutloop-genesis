@@ -5,6 +5,16 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.0.71] - 2026-08-12
+
+### Added
+- **Processed DOE Office of Science Funding Opportunity Webinar Video Reference**: Processed reference link `https://www.youtube.com/watch?v=rjo2CV3ju9Y` (*The Genesis Mission: Transforming Science and Energy with AI Funding Opportunity Webinar*), adding entry to [`references.md`](file:///home/donutloop/Workspace/donutloop-genesis/references.md#L561) Section 6 under Additional Event Materials & Reference Links.
+- **Master Index Audit**: Registered Master Index Entry `#479` in [`reference_coverage.md`](file:///home/donutloop/Workspace/donutloop-genesis/reference_coverage.md) (updating total metrics to **492 / 492 Processed**, 100% Complete across 226 unique target domains with 475 Web/News items), renumbered downstream index rows `#480` to `#492`, and updated DOE notes in [`coverage.md`](file:///home/donutloop/Workspace/donutloop-genesis/coverage.md#L137).
+- **Enriched Section 3.4 & Appendix A.6 in English & German Papers**: Integrated official DOE Office of Science FOA DE-FOA-0003612 webinar recording into Section 3.4 and expanded Appendix A.6 multimedia table in [`README.md`](file:///home/donutloop/Workspace/donutloop-genesis/README.md#L1066) and [`README.de.md`](file:///home/donutloop/Workspace/donutloop-genesis/README.de.md#L1030).
+- **Version Bump**: Incremented version string to `3.0.71` across [`README.md`](file:///home/donutloop/Workspace/donutloop-genesis/README.md) and [`README.de.md`](file:///home/donutloop/Workspace/donutloop-genesis/README.de.md).
+
+---
+
 ## [3.0.70] - 2026-08-12
 
 ### Added
