@@ -5,6 +5,16 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.0.75] - 2026-08-12
+
+### Added
+- **Processed ANL Genesis Open Models About GS1 Portal Reference**: Processed reference link `https://genesisopenmodels.anl.gov/about-gs1/` (*Argonne National Laboratory: Genesis Open Models — About Genesis-Science-1 (GS1)*), adding entry to [`references.md`](file:///home/donutloop/Workspace/donutloop-genesis/references.md#L293) Section 5 under National Laboratories (ANL).
+- **Master Index Audit**: Registered Master Index Entry `#252` in [`reference_coverage.md`](file:///home/donutloop/Workspace/donutloop-genesis/reference_coverage.md) (updating total metrics to **496 / 496 Processed**, 100% Complete across 226 unique target domains with 479 Web/News items), renumbered downstream index rows `#253` to `#496`, and updated ANL notes in [`coverage.md`](file:///home/donutloop/Workspace/donutloop-genesis/coverage.md#L154).
+- **Enriched Section 2.1 in English & German Papers**: Integrated Genesis Open Models About GS1 link into Section 2.1 in [`README.md`](file:///home/donutloop/Workspace/donutloop-genesis/README.md#L253) and [`README.de.md`](file:///home/donutloop/Workspace/donutloop-genesis/README.de.md#L251).
+- **Version Bump**: Incremented version string to `3.0.75` across [`README.md`](file:///home/donutloop/Workspace/donutloop-genesis/README.md) and [`README.de.md`](file:///home/donutloop/Workspace/donutloop-genesis/README.de.md).
+
+---
+
 ## [3.0.74] - 2026-08-12
 
 ### Added
