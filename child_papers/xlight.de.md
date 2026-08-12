@@ -63,7 +63,7 @@
 
 ## 6. Vollständiger chronologischer Presse- und Referenzindex (10 Complete Newsroom Archive Links)
 
-| Datum | Artikeltitel & Referenzlink | Kategorie / Thema | Primärer technischer Fokus |
+| Datum | Artikeltitel & Referenzlink | Kategorie / Thema | Primärer technischer Schwerpunkt |
 | :--- | :--- | :--- | :--- |
 | **2026-06-25** | [xLight Appoints Dr. Thomas Caulfield to Board of Directors](https://www.xlight.com/blog/xlight-appoints-dr-thomas-caulfield-to-board-of-directors) | Executive Leadership | Board appointment of semiconductor manufacturing veteran Dr. Thomas Caulfield (Executive Chairman of GlobalFoundries). |
 | **2026-06-02** | [xLight Finalizes $150M CHIPS Incentives Award Letter with U.S. Department of Commerce and NIST](https://www.xlight.com/blog/xlight-finalizes-150m-chips-incentives-with-u-s-department-of-commerce) | Federal Funding & CHIPS Act | Finalized $150M CHIPS and Science Act award letter to scale accelerator-based EUV light sources at Albany NanoTech. |
@@ -81,8 +81,8 @@
 5. **U.S. Department of Energy Genesis Mission**. [DOE Genesis Mission & Quantum Genesis Initiative](https://www.energy.gov/genesis-mission). U.S. Department of Energy & National Laboratories, 2026.
 6. **Genesis Mission Consortium**. [Quantum Supercomputing & Industrial Co-Design Platform](https://www.genesismissionconsortium.org/).
 
-## Referenzen & Dokumentenquellen
-1. **xLight Offizielle Website**. [xLight Corporate Newsroom & Press Archive](https://www.xlight.com/news).
+## References & Document Sources
+1. **xLight Official Site**. [xLight Corporate Newsroom & Press Archive](https://www.xlight.com/news).
 2. **U.S. Department of Commerce & NIST**. [CHIPS and Science Act $150 Million Final Award Letter to xLight](https://www.commerce.gov/). June 2, 2026.
 3. **Fermi National Accelerator Laboratory**. [Fermilab & xLight DOE Genesis Mission CRADA Announcement Letter](https://www.fnal.gov/). April 4, 2024.
 4. **SPIE Advanced Lithography 2026**. [xLight Public Architecture White Paper](https://cdn.prod.website-files.com/69b41585dfb26ff2bd336332/6a035273113237be25916942_SPIE-AL-2026-xLight-Public.pdf).

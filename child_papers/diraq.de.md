@@ -67,7 +67,7 @@
 
 ## 6. Vollständiger chronologischer Presse- und Referenzindex (73 Complete Newsroom Archive Links Across All 4 Pages)
 
-| Datum | Artikeltitel & Referenzlink | Kategorie / Thema | Primärer technischer Fokus |
+| Datum | Artikeltitel & Referenzlink | Kategorie / Thema | Primärer technischer Schwerpunkt |
 | :--- | :--- | :--- | :--- |
 | **2026-08-28** | [One Million Qubits Is Table Stakes](https://www.diraq.com/newsdesk/quantums-fastest-path-runs-on-proven-infrastructure) | Silicon Spin Architecture & Hardware | CMOS silicon quantum dot spin qubits, 300mm wafer fabrication, and cryogenic control. |
 | **2026-08-27** | [Imec and Diraq demonstrate first coherent operation of eight silicon MOS spin qubits fabricated in a 300mm CMOS-compatible foundry process](https://www.diraq.com/newsdesk/one-million-qubits-is-table-stakes) | Silicon Spin Architecture & Hardware | CMOS silicon quantum dot spin qubits, 300mm wafer fabrication, and cryogenic control. |
@@ -148,7 +148,7 @@
 5. **U.S. Department of Energy Genesis Mission**. [DOE Genesis Mission & Quantum Genesis Initiative](https://www.energy.gov/genesis-mission). U.S. Department of Energy & National Laboratories, 2026.
 6. **Genesis Mission Consortium**. [Quantum Supercomputing & Industrial Co-Design Platform](https://www.genesismissionconsortium.org/).
 
-## Referenzen & Dokumentenquellen
-1. **Diraq Offizielle Website**. [Diraq Corporate Newsdesk & Press Archive](https://www.diraq.com/newsdesk).
+## References & Document Sources
+1. **Diraq Official Site**. [Diraq Corporate Newsdesk & Press Archive](https://www.diraq.com/newsdesk).
 2. **Diraq Page 4 Verification Landmark**. [Behind the Paper: On-Demand Electrical Control of Spin Qubits](https://www.diraq.com/newsdesk/blog-post-title-one-sfk9t-ljz2f). Jan 14, 2023.
 3. **Imec Semiconductor Research**. [Diraq & Imec 300mm Silicon Quantum Dot Partnership](https://www.imec-int.com/).
