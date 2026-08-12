@@ -287,6 +287,22 @@ Diese DOE-Investition wird ergänzt durch **2,013 Milliarden US-Dollar an Absich
 | [**Rigetti Computing**](https://www.rigetti.com/about-rigetti-computing) | Bis zu $100 Millionen | 3D-Multi-Chip-kachelbare supraleitende QPUs, kryogene Ausleseverpackung und Fusionssimulatoren. |
 | [**xLight**](https://www.xlight.com/about) | $150 Millionen | Freie-Elektronen-Laser-(FEL)-EUV-Lithografie-Prototyp am Albany NanoTech mit NIST & Fermilab SRF. |
 
+#### Spezialisierte technische Vertiefungspapiere (Child Papers)
+
+Um umfassende technische Tiefe, Hardware-Spezifikationen, Architekturdiagramme, Bundesauszeichnungen und vollständige 100%-Pressearchiv-Indizes für alle führenden Quantencomputing- und EUV-Lithografie-Führer bereitzustellen, werden im Repository spezialisierte Vertiefungspapiere geführt:
+
+| Organisation / Quantenführer | Link zum technischen Vertiefungspapier | Git-Release-Versionstag | Primäre Architektur & Umfang des Referenzindex |
+| :--- | :--- | :--- | :--- |
+| [**Atom Computing**](https://atom-computing.com/about-us/) | [`child_papers/atom_computing.md`](file:///home/donutloop/Workspace/donutloop-genesis/child_papers/atom_computing.md) | `atom_computing-v1.0.0` | Ytterbium-171 ($^{171}\text{Yb}$) Kernspin-Qubits, 3D optische Pinzetten (1.180+ Qubits), Microsoft Azure Quantum (50 logische Qubits), DARPA QBI und 121 vollständige Presse-Links. |
+| [**Diraq**](https://www.diraq.com/about) | [`child_papers/diraq.md`](file:///home/donutloop/Workspace/donutloop-genesis/child_papers/diraq.md) | `diraq-v1.0.0` | Silizium-Quantenpunkt-Spin-Qubits, 300-mm-CMOS-Wafer-Linien mit Imec, Kryo-CMOS-Steuerung, NVIDIA GH200/NVQLink, $38M CHIPS Act LOI und 73 vollständige Presse-Links. |
+| [**D-Wave Quantum**](https://www.dwavequantum.com/company/about-d-wave/) | [`child_papers/d-wave.md`](file:///home/donutloop/Workspace/donutloop-genesis/child_papers/d-wave.md) | `dwave-v1.0.0` | Advantage2 Fluss-Quanten-Annealing (5.000+ Qubits), supraleitende Dual-Rail-Fluss-Qubits, Leap Hybrid-Löser über DOE Labs, $100M CHIPS Act LOI und fokussierter Presse-Index. |
+| [**Infleqtion**](https://infleqtion.com/about/) | [`child_papers/infleqtion.md`](file:///home/donutloop/Workspace/donutloop-genesis/child_papers/infleqtion.md) | `infleqtion-v1.0.0` | Sqale Neutralatom-Hardware, Tiqker optische Atomuhren, Superstaq-Compiler, 3 DOE-Genesis-Mission-Preise (ANL/BNL/LLNL), $100M CHIPS Act LOI und 176 vollständige Presse-Links. |
+| [**PsiQuantum**](https://www.psiquantum.com/about) | [`child_papers/psiquantum.md`](file:///home/donutloop/Workspace/donutloop-genesis/child_papers/psiquantum.md) | `psiquantum-v1.0.0` | Fusionsbasiertes Quantencomputing (FBQC), 300-mm-Silizium-Photonik (GlobalFoundries & SkyWater), Active Volume Architecture, A$940M Brisbane + Chicago Anlagen und Presse-Index. |
+| [**Quantinuum**](https://www.quantinuum.com/company/about) | [`child_papers/quantinuum.md`](file:///home/donutloop/Workspace/donutloop-genesis/child_papers/quantinuum.md) | `quantinuum-v1.0.0` | Ionenfallen-QCCD-Prozessoren (System H1/H2, Helios), 48 logische Qubits mit Microsoft, TKET / InQuanto Software, $100M CHIPS Act LOI und 77 vollständige Presse-Links bis 2021. |
+| [**Rigetti Computing**](https://www.rigetti.com/about-rigetti-computing) | [`child_papers/rigetti.md`](file:///home/donutloop/Workspace/donutloop-genesis/child_papers/rigetti.md) | `rigetti-v1.0.0` | Full-Stack supraleitende QPUs (Ankaa-3, Novera, Lyra), Fab-1 200-mm-MEMS-Gießerei, QCS Cloud, Fusionsplasmasimulationen mit LLNL, $100M CHIPS Act LOI und 196 vollständige Presse-Links. |
+| [**xLight**](https://www.xlight.com/about) | [`child_papers/xlight.md`](file:///home/donutloop/Workspace/donutloop-genesis/child_papers/xlight.md) | `xlight-v1.0.0` | Freie-Elektronen-Laser-(FEL)- & ERL-EUV-Lichtquellen für Sub-2nm-Lithografie, $150M CHIPS Act Endpreis, DOE Genesis CRADA mit Fermilab, Führung durch Pat Gelsinger & Dr. Caulfield und 10 Links. |
+
+
 Zu den wichtigsten Highlights der Modalitäten im Rahmen der Quantenzusagen gehören:
 
 * **IBM Quantum (1 Milliarde US-Dollar CHIPS Act Gießerei-LOI & 50 Millionen US-Dollar Zusage für Rechenzugang):**

@@ -289,6 +289,22 @@ This DOE investment is matched by **$2.013 Billion in Department of Commerce Let
 | [**Rigetti Computing**](https://www.rigetti.com/about-rigetti-computing) | Up to $100 Million | 3D multi-chip tileable superconducting QPUs, cryogenic readout packaging, and fusion sims. |
 | [**xLight**](https://www.xlight.com/about) | $150 Million | Free-electron laser (FEL) EUV lithography prototype at Albany NanoTech with NIST & Fermilab SRF. |
 
+#### Dedicated Quantum & EUV Technical Child Papers
+
+To provide exhaustive technical depth, hardware specifications, architectural diagrams, federal awards, and complete 100% newsroom archive indices for all leading quantum computing and EUV lithography leaders, dedicated child papers are maintained in the repository:
+
+| Organization / Quantum Leader | Dedicated Child Paper Link | Git Release Version Tag | Primary Architecture & Reference Index Scope |
+| :--- | :--- | :--- | :--- |
+| [**Atom Computing**](https://atom-computing.com/about-us/) | [`child_papers/atom_computing.md`](file:///home/donutloop/Workspace/donutloop-genesis/child_papers/atom_computing.md) | `atom_computing-v1.0.0` | Ytterbium-171 ($^{171}\text{Yb}$) nuclear spin qubits, 3D optical tweezers (1,180+ qubits), Microsoft Azure Quantum (50 logical qubits), DARPA QBI, and 121 complete newsroom links. |
+| [**Diraq**](https://www.diraq.com/about) | [`child_papers/diraq.md`](file:///home/donutloop/Workspace/donutloop-genesis/child_papers/diraq.md) | `diraq-v1.0.0` | Silicon quantum dot spin qubits, 300mm CMOS wafer lines with Imec, cryo-CMOS control, NVIDIA GH200/NVQLink, $38M CHIPS Act LOI, and 73 complete newsroom links across 4 offset pages. |
+| [**D-Wave Quantum**](https://www.dwavequantum.com/company/about-d-wave/) | [`child_papers/d-wave.md`](file:///home/donutloop/Workspace/donutloop-genesis/child_papers/d-wave.md) | `dwave-v1.0.0` | Advantage2 flux quantum annealing (5,000+ qubits), dual-rail superconducting flux qubits, Leap hybrid solvers across DOE Labs, $100M CHIPS Act LOI, and focused press index. |
+| [**Infleqtion**](https://infleqtion.com/about/) | [`child_papers/infleqtion.md`](file:///home/donutloop/Workspace/donutloop-genesis/child_papers/infleqtion.md) | `infleqtion-v1.0.0` | Sqale neutral-atom hardware, Tiqker optical atomic clocks, Superstaq compiler, 3 DOE Genesis Mission awards (ANL/BNL/LLNL), $100M CHIPS Act LOI, and 176 complete newsroom links. |
+| [**PsiQuantum**](https://www.psiquantum.com/about) | [`child_papers/psiquantum.md`](file:///home/donutloop/Workspace/donutloop-genesis/child_papers/psiquantum.md) | `psiquantum-v1.0.0` | Fusion-Based Quantum Computing (FBQC), 300mm silicon photonics (GlobalFoundries & SkyWater), Active Volume Architecture, A$940M Brisbane + Chicago facilities, and press index. |
+| [**Quantinuum**](https://www.quantinuum.com/company/about) | [`child_papers/quantinuum.md`](file:///home/donutloop/Workspace/donutloop-genesis/child_papers/quantinuum.md) | `quantinuum-v1.0.0` | Trapped-ion QCCD processors (System H1/H2, Helios), 48 logical qubits with Microsoft, TKET / InQuanto software, $100M CHIPS Act LOI, and 77 complete newsroom links down to 2021. |
+| [**Rigetti Computing**](https://www.rigetti.com/about-rigetti-computing) | [`child_papers/rigetti.md`](file:///home/donutloop/Workspace/donutloop-genesis/child_papers/rigetti.md) | `rigetti-v1.0.0` | Full-stack superconducting QPUs (Ankaa-3, Novera, Lyra), Fab-1 200mm MEMS foundry, QCS cloud, fusion plasma sims with LLNL, $100M CHIPS Act LOI, and 196 complete newsroom links. |
+| [**xLight**](https://www.xlight.com/about) | [`child_papers/xlight.md`](file:///home/donutloop/Workspace/donutloop-genesis/child_papers/xlight.md) | `xlight-v1.0.0` | Free-Electron Laser (FEL) & ERL EUV light sources for sub-2nm lithography, $150M CHIPS Act final award, DOE Genesis CRADA with Fermilab, Pat Gelsinger & Dr. Caulfield leadership, and 10 complete links. |
+
+
 Key modality highlights across quantum commitments include:
 
 * **IBM Quantum ($1 Billion CHIPS Act Foundry LOI & $50 Million Compute Access Commitment):**
