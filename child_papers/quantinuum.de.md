@@ -1,29 +1,90 @@
-# Quantinuum — Umfassende technische Architektur, Ionenfallen-QCCD-Prozessoren, Helios QPU und Ökosystem-Referenzindex
+# Quantinuum — Umfassende technische Architektur, Ionenfallen-QCCD-Systeme und Ökosystem-Referenzindex
 
 [← Zurück zum Haupt-Papier der Genesis Mission](../README.de.md)
 
 > **Übersicht des technischen Vertiefungspapiers:**
-> Dieses Dokument dient als dediziertes vertiefendes technisches Papier und kuratierter Referenzindex für **Quantinuum Ltd.** (Honeywell & Cambridge Quantum), mit Details zu seiner Ionenfallen-QCCD-Prozessorarchitektur (System H1, H2, 98-Qubit Helios QPU), 48 logischen Qubits mit Microsoft Azure Quantum, dem TKET-Compiler, der InQuanto-Chemieplattform, der Absichtserklärung im Rahmen des U.S. CHIPS Act (100 Millionen Dollar LOI) sowie einem vollständigen chronologischen Presse-Index über 77 Pressemitteilungen bis zurück ins Jahr 2021 (`https://www.quantinuum.com/news`), verwaltet ausschließlich in `child_papers/`.
+> Dieses Dokument dient als dediziertes vertiefendes technisches Papier und kuratierter Referenzindex für **Quantinuum Inc.** (gegründet am **30. November 2021** durch den Zusammenschluss von Honeywell Quantum Solutions & Cambridge Quantum Computing), mit Details zu seinen Ionenfallen-QCCD-Quantenprozessoren (Systemmodell H1-1, H1-2, H2-1, Helios, Reimei), Gattergütewerten von 99,999 % für Einzel-Qubits und 99,9 % für Zwei-Qubits, Durchbrüchen bei der Fehlerkorrektur logischer Qubits (48 logische Qubits mit Microsoft), der Quanten-Software-Suite (TKET, InQuanto, Quantum Origin), behördlichen & DOE-National-Laboratory-Co-Simulationen im Rahmen der **[Genesis Mission](https://www.energy.gov/genesis-mission)**, DARPA Quantum Benchmarking Auszeichnungen und einem vollständigen chronologischen Presse-Index über 77 Pressemitteilungen (`https://www.quantinuum.com/news/news#press-release`) von aktuellen Veröffentlichungen bis zur Unternehmensgründung am **30. November 2021**, verwaltet ausschließlich in `child_papers/`.
 >
 > **Version:** `v1.0.0` (Veröffentlicht am 2026-08-13)
 
 ---
 
-## 1. Management-Zusammenfassung & Ionenfallen-QCCD-Roadmap
-- **Führer in Ionenfallen-Quantensystemen:** Quantinuum baut die weltweit leistungsfähigsten Ionenfallen-Quantencomputer mit Rekord-Gattergütewerten (99,999 % Einzel-Qubit, 99,9 % Zwei-Qubit).
-- **Helios 98-Qubit QCCD System:**
-  - 98 physische Ionenfallen-Qubits mit All-to-All-Konnektivität und hoher Kohärenz.
-- **48 logische Qubits mit Microsoft Azure Quantum:**
-  - Demonstration von 48 fehlertoleranten logischen Qubits auf H2-Hardware in Partnerschaft mit Microsoft.
+## 1. Management-Zusammenfassung & Quantentechnologie-Roadmap
+- **Unternehmensgründung (30. November 2021):** Gegründet am 30. November 2021 durch die Kombination von Honeywell Quantum Solutions (Ionenfallen-Hardware) und Cambridge Quantum Computing (Quanten-Software), wodurch das weltweit größte integrierte Full-Stack-Quantencomputing-Unternehmen entstand.
+- **Unternehmenskapital & 10-Milliarden-Dollar-Bewertung:**
+  - **600-Mio.-$-Series-B-Finanzierungsrunde (Sept. 2025):** Einwerbung von 600 Millionen Dollar Eigenkapital unter der Leitung des Mehrheitseigentümers Honeywell International Inc. zusammen mit strategischen Investoren wie Mitsui & Co., Amgen und SoftBank Corp., wodurch Quantinuum vor Geld mit **10 Milliarden Dollar** bewertet wurde.
+  - **Finanzielle Rekordwelle im Q2 2026:** Meldung von Q2 2026 Rekordfinanzergebnissen mit einem Umsatzwachstum von **+279 % gegenüber dem Vorjahr**, angetrieben durch kommerzielle Enterprise-QCaaS-Abonnements und QCCD-Hardwareverträge.
+  - **Vertrauliche Börsengang-Einreichung:** Einreichung einer Registrierungserklärung für den geplanten Börsengang (IPO).
+- **Führungsteam:**
+  - Vorstandsvorsitzender (CEO): Dr. Rajeeb Hazra (ehemaliger Führungskraft bei Intel/Micron)
+  - Finanzvorstand (CFO): Nitesh Sharan
+  - Gründer & Präsident: Ilyas Khan
+  - Chef-Produktbeauftragter: Nathan Shammah
+  - Führungskräfte: Ernennung des Chief Legal Officer und Chief People Officer im Jahr 2026.
+- **Ionenfallen-QCCD-System-Roadmap:**
+  - **Systemmodell H1-Generation:** Lineare H1-1 und H1-2 QCCD-Architekturen mit 20 physischen Qubits, Erreichung von Quantum Volume 4096, 99,999 % Einzel-Qubit-Güte und 99,8 % Zwei-Qubit-Güte.
+  - **Systemmodell H2-1 (56 Qubits):** Racetrack-QCCD-Architektur mit 56 physischen Qubits, die Branchenrekorde für Zwei-Qubit-Gattergüte (99,9 % über alle Qubit-Paare) aufstellte.
+  - **Helios-Generation:** Kommerzieller Ionenfallen-Quantencomputer, bereitgestellt vor Ort und auf der Oracle Cloud Infrastructure (OCI).
+  - **Reimei-System:** Ionenfallensystem am RIKEN Center for Computational Science in Japan, integriert mit dem Fugaku-Supercomputer.
+  - **Fehlertolerantes Ziel:** Skalierung auf 100+ logische Qubits bis 2027–2029 über mehrzonige 2D-Gitterfallen.
 
 ---
 
-## 2. Referenzen & Dokumentenquellen
-1. **Quantinuum Official Site**. [Quantinuum 2021–2026 Newsroom Archive (77 Entries)](https://www.quantinuum.com/news).
-2. **U.S. Department of Energy Genesis Mission**. [DOE Genesis Mission & Quantum Genesis Initiative](https://www.energy.gov/genesis-mission). U.S. Department of Energy & National Laboratories, 2026.
-3. **Genesis Mission Consortium**. [Quantum Supercomputing & Industrial Co-Design Platform](https://www.genesismissionconsortium.org/).
+## 2. Ionenfallen-QCCD-Hardware & Optische Shuttle-Architektur
+- **Atomphysik & Zwei-Spezies-Falle:**
+  - **Daten- & Kühlionen:** Fängt Ytterbium-171 ($^{171}\text{Yb}^+$, Hyperfein-Atomuhr-Zustands-Qubits) für Quantenrechnungen und Barium-137 ($^{137}\text{Ba}^+$ oder $^{138}\text{Ba}^+$) zur sympathischen Kühlung ohne Störung des Qubit-Zustands.
+  - **Kohärenzzeiten:** Demonstriert atomare Kohärenzzeiten von $T_1, T_2 > 10\text{ Sekunden}$, was die bei Festkörper-Transmons auftretende Fertigungsvariabilität eliminiert.
+- **Quantum Charge-Coupled Device (QCCD):**
+  - **Shuttle-Transport:** Verwendet RF-mikroelektromechanische Elektroden zum physischen Transportieren und Shutteln einzelner Ionenpaare zwischen Interaktions-, Speicher- und Auslesezonen.
+  - **All-to-All Optische Konnektivität:** Das Shutteln ermöglicht die direkte Verschränkungssteuerung jedes beliebigen Qubit-Paares, was eine 100 % All-to-All-Konnektivität über das gesamte QPU-Array liefert.
+- **Lösung des 2D-Verdrahtungsproblems:** Architektur-Durchbruch unter Verwendung von 2D-Gitter-Kreuzungsfallen und integrierten optischen Wellenleitern zur Lösung von Steuerleitungsengpässen bei der Skalierung auf 1.000+ gefangene Ionen.
 
-## 6. Vollständiger chronologischer Presse- und Referenzindex (77 Complete Newsroom Archive Links)
+---
+
+## 3. Rekord-Gattergütewerte, Logische Qubits & Fehlerkorrektur
+- **Weltrekord-Gattergütewerte & Quantenvolumen:**
+  - **Einzel-Qubit-Güte:** 99,999 % ("fünf 9en") Einzel-Qubit-Gattergüte getrieben durch schmalbandige UV-Laserpulse.
+  - **Zwei-Qubit-Güte:** 99,9 % ("drei 9en") Zwei-Qubit-Gattergüte über alle Qubit-Paare im H2-1 Produktionsgerät.
+  - **Quantenvolumen-Meilenstein:** Erreichung von Quantum Volume 4096 auf Systemmodell H1-2.
+  - **SPAM-Güte:** 99,9 % Zustandskonstruktions- und Messgüte (SPAM) mittels Resonanzfluoreszenz.
+- **48 Logische Qubits Demonstration (Microsoft-Kooperation):**
+  - **Fehlertolerante Farbcodes:** Demonstration von 48 zuverlässigen logischen Qubits auf dem Systemmodell H2-1 unter Verwendung von Microsofts aktiver Fehlererkennung und fehlertoleranten Farbcodes.
+  - **Null logische Fehler:** Ausführung von über 14.000 fehlertoleranten logischen Schaltkreisexperimenten mit null logischen Fehlern, was logische Fehlerraten zeigt, die deutlich niedriger als physische Fehlerraten sind.
+- **Messung während des Schaltkreises & Aktive Qubit-Wiederverwendung:** Ermöglicht bedingte Verzweigungen in Echtzeit, aktive Fehlerminderung (**Qermit**) und zerstörungsfreie Messungen während der Algorithmenausführung.
+
+---
+
+## 4. Quanten-Software-Suite (TKET, InQuanto, Quantum Origin & QIDO)
+- **TKET Compiler SDK:**
+  - **Universelle Optimierung:** Hochleistungsfähige, quelloffene C++/Python-Compiler-Suite (`pytket`), die Quantenschaltkreise für Ionenfallen-, Supraleiter- und Neutralatom-Backends optimiert.
+  - **Peephole- & Kontextuelle Optimierung:** Reduziert Zwei-Qubit-Gatteranzahlen um bis zu 50 % durch Makrogatter-Synthese und Vertauschungsgatter-Umordnung.
+- **InQuanto & QIDO Quantenchemie-Plattformen:**
+  - **Enterprise-Chemie:** Fortschrittliche Quantenchemie-Plattform (gestartet im Mai 2022) für Molekülorbitalsimulationen, Batterie-Elektrochemie (BMW Group), Legierungsdegradation (Airbus) und Katalysatoren.
+  - **QIDO-Start (Mitsui & QSimulate):** Quantenintegrierte Chemieplattform für beschleunigte Wirkstoffentdeckung und Batteriematerialmodellierung.
+- **Kryptografische Plattform Quantum Origin:**
+  - **Kommerzieller Start (Dez. 2021):** Weltweit erste kommerzielle Plattform zur Erzeugung kryptografischer Schlüssel (Dezember 2021).
+  - **NIST-Validierung:** Erster Software-Quantenzufallszahlengenerator (QRNG), der eine NIST-Validierung erhielt.
+  - **Post-Quanten-Sicherheit:** Schutz vor Post-Quanten-Entschlüsselungsangriffen (im Einsatz mit Thales HSMs und Honeywell-Industriesteuerungen).
+- **Entwickler-Ökosystem:** **Guppy** (Python-basierte Quantenprogrammiersprache), **Lambeq** (Quanten-Verarbeitung natürlicher Sprache) und **Nexus** (Cloud-Workflow-Management).
+
+---
+
+## 5. Bundesbehörden, Nationale Laboratorien & Enterprise-Anwendungen
+- **DARPA & US-Energieministerium (DOE Genesis Mission & National Labs):**
+  - **DARPA Quantum Benchmarking Initiative:** Von der DARPA ausgewählt für Stufe A und Stufe B der Quantum Benchmarking Initiative (QBI).
+  - **DOE-Genesis-Mission-Preise:** Auszeichnung mit DOE-Genesis-Mission-Projekten für Stromnetzresilienz-Co-Simulation und unterirdische Materialerkundung.
+  - **Nationale Labor-Kooperationen:** Strategische Forschungspartnerschaften mit Oak Ridge National Laboratory (ORNL), Argonne National Laboratory und UT Austin.
+- **Globale Cloud-Infrastruktur & Supercomputing:**
+  - **Oracle Cloud Infrastructure (OCI):** Bereitstellung von Helios als nativer Dienst auf OCI für hybride Quanten-Klassische-KI-Workloads.
+  - **NVIDIA & RIKEN Integration:** Gründungsmitarbeiter für das NVIDIA Accelerated Quantum Research Center; Bereitstellung der Reimei QPU am RIKEN Center for Computational Science in Japan.
+  - **Globale F&E-Zentren:** Aufbau neuer F&E-Zentren in Singapur (Partnerschaft mit National Quantum Office), Katar (Invest Qatar JV) und New Mexico.
+- **Enterprise-Allianzen:**
+  - **Automobil & Industrie:** BMW Group (Lithium-Ionen-Batterie-Elektrochemie), Rolls-Royce & Riverlane (Industrie-Strömungsmechanik), bp (Wellenphysik), Synopsys, Infineon und Mitsubishi Electric.
+  - **Biopharma & Finanzen:** Amgen (Wirkstoffentdeckung), JPMorgan Chase (Finanzportfolio-Optimierung), Mitsui & Co. und SoftBank Corp.
+
+---
+
+## 6. Vollständiger chronologischer Presse- und Referenzindex (77 Pressemitteilungen)
 
 | Datum | Artikeltitel & Referenzlink | Kategorie / Thema | Primärer technischer Schwerpunkt |
 | :--- | :--- | :--- | :--- |
@@ -110,7 +171,7 @@
 5. **U.S. Department of Energy Genesis Mission**. [DOE Genesis Mission & Quantum Genesis Initiative](https://www.energy.gov/genesis-mission). U.S. Department of Energy & National Laboratories, 2026.
 6. **Genesis Mission Consortium**. [Quantum Supercomputing & Industrial Co-Design Platform](https://www.genesismissionconsortium.org/).
 
-## References & Document Sources
+## Referenzen & Dokumentenquellen
 1. **Quantinuum Official Site**. [Quantinuum Corporate Newsroom & Press Archive](https://www.quantinuum.com/news/news#press-release).
 2. **Quantinuum Investor Relations**. [Quantinuum Investor Relations Portal](https://ir.quantinuum.com/).
 3. **UK National Quantum Computing Centre**. [Quantinuum Trapped-Ion System Deployment](https://www.nqcc.ac.uk/).

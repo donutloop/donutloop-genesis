@@ -5,6 +5,14 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.4.3] - 2026-08-13
+
+### Corrected & Translated
+- **Full Quantinuum German Child Paper Translation**: Completed 100% full translation of [`child_papers/quantinuum.de.md`](./child_papers/quantinuum.de.md) into German, fully matching all 6 technical sections, QCCD hardware shuttle architecture, gate fidelities, logical qubit error correction milestones, software suite (TKET, InQuanto, Quantum Origin, QIDO), enterprise alliances (Oracle, BMW, Rolls-Royce, bp, JPMorgan Chase), and all 77 chronological press reference links down to company formation on November 30, 2021.
+- **Patch Version Release**: Incremented version string to `3.4.3` across [`README.md`](./README.md) and [`README.de.md`](./README.de.md).
+
+---
+
 ## [3.4.2] - 2026-08-13
 
 ### Corrected & Synchronized
