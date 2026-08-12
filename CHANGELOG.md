@@ -5,6 +5,16 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.0.58] - 2026-08-12
+
+### Added
+- **Processed ANL OutLoud Public Lecture Series Reference**: Processed reference link `https://www.anl.gov/event/the-next-frontier-how-ai-is-reshaping-discovery-at-argonne` (*The Next Frontier: How AI Is Reshaping Discovery at Argonne*), adding entry to [`references.md`](file:///home/donutloop/Workspace/donutloop-genesis/references.md#L299) Section 5 under National Labs & University Coverage.
+- **Master Index Audit**: Registered Master Index Entry `#261` in [`reference_coverage.md`](file:///home/donutloop/Workspace/donutloop-genesis/reference_coverage.md) (updating total metrics to **481 / 481 Processed**, 100% Complete across 225 unique target domains with 464 Web/News items), renumbered downstream index rows `#262` to `#481`, and updated ANL notes in [`coverage.md`](file:///home/donutloop/Workspace/donutloop-genesis/coverage.md#L151).
+- **Enriched Section 3.2 in English & German Papers**: Integrated Argonne's flagship **OutLoud Public Lecture Series** (*The Next Frontier: How AI Is Reshaping Discovery at Argonne*) featuring ALCF Director Michael Papka, PSE Deputy Associate Lab Director Ilke Arslan, HEP Interim Division Director Katrin Heitmann, and CELS Senior Computer Scientist Ravi Madduri in [`README.md`](file:///home/donutloop/Workspace/donutloop-genesis/README.md#L585) and [`README.de.md`](file:///home/donutloop/Workspace/donutloop-genesis/README.de.md#L580).
+- **Version Bump**: Incremented version string to `3.0.58` across [`README.md`](file:///home/donutloop/Workspace/donutloop-genesis/README.md) and [`README.de.md`](file:///home/donutloop/Workspace/donutloop-genesis/README.de.md).
+
+---
+
 ## [3.0.57] - 2026-08-12
 
 ### Added
