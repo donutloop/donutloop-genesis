@@ -5,6 +5,16 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.0.83] - 2026-08-12
+
+### Added
+- **Processed Atom Computing About Portal Reference**: Processed reference link `https://atom-computing.com/about-us/` (*Atom Computing — About Us*), adding entry to [`references.md`](file:///home/donutloop/Workspace/donutloop-genesis/references.md#L32) Section 2 under Collaborators.
+- **Master Index Audit**: Registered Master Index Entry `#11` in [`reference_coverage.md`](file:///home/donutloop/Workspace/donutloop-genesis/reference_coverage.md) (updating total metrics to **504 / 504 Processed**, 100% Complete across 226 unique target domains with 487 Web/News items), renumbered downstream index rows `#12` to `#504`, and updated Atom Computing notes in [`coverage.md`](file:///home/donutloop/Workspace/donutloop-genesis/coverage.md#L62).
+- **Enriched Section 3.1 in English & German Papers**: Integrated Atom Computing About portal link into Section 3.1 in [`README.md`](file:///home/donutloop/Workspace/donutloop-genesis/README.md#L521) and [`README.de.md`](file:///home/donutloop/Workspace/donutloop-genesis/README.de.md#L517).
+- **Version Bump**: Incremented version string to `3.0.83` across [`README.md`](file:///home/donutloop/Workspace/donutloop-genesis/README.md) and [`README.de.md`](file:///home/donutloop/Workspace/donutloop-genesis/README.de.md).
+
+---
+
 ## [3.0.82] - 2026-08-12
 
 ### Added
