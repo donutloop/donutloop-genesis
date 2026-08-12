@@ -46,7 +46,7 @@
 
 ## 5. Federal, National Laboratory & Enterprise Applications
 - **Los Alamos National Laboratory (LANL):** On-premise deployment of D-Wave quantum annealing systems for materials science research, stockpile hydrodynamics simulation, and complex graph partitioning.
-- **Volkswagen Group (Web Summit 2018):** Joint development of a quantum traffic management system to calculate optimal public transport and taxi routing in real time.
+- **Volkswagen Group (Web Summit 2018 & Engadget Coverage):** Joint development of a real-time quantum traffic management system ([*Engadget Coverage*](https://www.dwavequantum.com/company/newsroom/media-coverage/engadget-volkswagen-wants-to-use-quantum-computers-to-optimize-traffic/)) to calculate optimal public transport and taxi fleet routing across 10,000+ vehicles simultaneously on D-Wave annealing hardware via Leap.
 - **DENSO Corporation:** Factory automation proof-of-concept for real-time automated guided vehicle (AGV) control and routing using D-Wave quantum annealing.
 - **Oak Ridge National Laboratory (ORNL):** Hybrid classical-quantum algorithms running on Frontier and Leap for materials modeling and grid resilience.
 - **National Renewable Energy Laboratory (NREL ARIES):** Coupling D-Wave quantum annealing with megawatt-scale power grid simulators for real-time electric vehicle charging and grid dispatch optimization.
@@ -62,6 +62,7 @@
 | **2018-08-22** | [D-Wave Demonstrates Topological Quantum Simulation in Nature](https://www.nature.com/articles/s41586-018-0410-x) | Quantum Physics | Publication in *Nature* demonstrating Kosterlitz-Thouless topological phase transition in a 1,800-qubit lattice. |
 | **2018-10-04** | [D-Wave Launches Leap Real-Time Quantum Cloud Service](https://www.dwavequantum.com/company/newsroom/press-release/d-wave-launches-leap-quantum-cloud-service/) | Cloud Infrastructure | Commercial launch of Leap quantum cloud service and open-source Ocean SDK for real-time QPU access. |
 | **2018-11-05** | [D-Wave and Volkswagen Announce Quantum Traffic Management System at Web Summit](https://www.dwavequantum.com/company/newsroom/press-release/d-wave-volkswagen-quantum-traffic-management/) | Industrial AI | Web Summit 2018 demonstration of quantum traffic flow optimization for public transport and taxi routing. |
+| **2018-11-05** | [Engadget: Volkswagen Wants to Use Quantum Computers to Optimize Traffic](https://www.dwavequantum.com/company/newsroom/media-coverage/engadget-volkswagen-wants-to-use-quantum-computers-to-optimize-traffic/) | Media Coverage / Smart Transit | Real-time traffic flow optimization for public transport and taxi fleets using D-Wave quantum annealing. |
 | **2018-12-10** | [D-Wave Releases D-Wave Hybrid Developer Preview for Quantum-Classical Workflows](https://www.dwavequantum.com/company/newsroom/press-release/d-wave-releases-d-wave-hybrid-developer-preview/) | Software Tools | Release of D-Wave Hybrid open-source framework within Leap QAE for hybrid quantum-classical application building. |
 
 ---
