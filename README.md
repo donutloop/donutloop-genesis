@@ -1,4 +1,4 @@
-**Version**: 3.2.1
+**Version**: 3.3.0
 
 # The Genesis Mission: Architecture, Strategic Initiatives, and the Multi-Institutional Ecosystem for AI and Quantum-Driven Scientific Discovery
 
@@ -841,6 +841,11 @@ Five core architectural innovations define this newly synthesized national capab
 * **5. The Agentic Scientific Discovery Paradigm:**
   - *Fundamental Paradigm Shift*: Deploys autonomous LLM reasoning agents, physics-informed neural operators (SciML), open model registries (ANL **Genesis Open Models** platform at `genesisopenmodels.anl.gov`), and scientific provenance security engines (ANL **SPOTTER-AI**), marking a fundamental transition from computation-*assisted* research to **agentic scientific discovery**.
   - *Autonomous Agency*: Enables AI agents to independently formulate theoretical hypotheses, schedule quantum-classical hybrid algorithms, execute robotic wet-lab experimentation, and curate FAIR-compliant scientific datasets for human expert validation.
+
+* **6. The Closed-Loop Quantum-Lithography Co-Design Engine:**
+  - *Symbiotic Manufacturing & Compute Feedback Loop*: Establishes a self-reinforcing hardware flywheel where **xLight’s Free-Electron Laser (FEL) & Energy Recovery Linac (ERL) EUV light sources** ($150M CHIPS Act final award) deliver clean, debris-free kW-class optical power to pattern sub-2nm nodes across onshore foundries (**GlobalFoundries**, **SkyWater**, **IBM Anderon 300mm**).
+  - *Foundry Fabrication to QPU Scaling*: Foundries use these sub-2nm nodes to fabricate **Diraq's CMOS-native silicon spin qubits** ($<1/qubit unit economics at ~1 K), **PsiQuantum's 300mm "Omega" silicon photonic chipsets**, and **Rigetti's 3D MEMS interposers with Through-Silicon Vias (TSVs)**.
+  - *Autonomous AI & Linac Steering*: As these 2nm/1.4nm multi-modality QPUs are deployed into exascale AI supercomputers (*Frontier*, *Aurora*, *El Capitan*), physical AI agents run real-time inference to steer electron beam position control and SRF cavity RF phase stabilization in xLight's particle accelerators—closing the loop between physical chip manufacturing, exascale supercomputing, and quantum processor scaling.
 
 As the Genesis Mission matures, long-term success will require sustained focus on several operational imperatives: finalizing definitive transaction agreements for CHIPS Act Letters of Intent; navigating multi-agency cross-jurisdictional governance and Zero-Trust classification standards; and expanding specialized national workforce pipelines in quantum engineering, cryogenic control microelectronics, and scientific AI. Nevertheless, the Genesis Mission establishes the most comprehensive, closed-loop institutional capability in history for uniting physical manufacturing, exascale compute, fault-tolerant quantum devices, and agentic AI in service of national leadership. Its enduring legacy will be measured not merely by individual scientific breakthroughs, but by the durability and extensibility of the federated architecture it leaves behind—a self-sustaining national discovery engine capable of securing America's technological sovereignty and solving humanity's most complex scientific, material, energy, and health challenges.
 

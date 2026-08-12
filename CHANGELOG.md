@@ -5,6 +5,14 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.3.0] - 2026-08-13
+
+### Added
+- **Enriched Section 5 (Conclusion) — The Closed-Loop Quantum-Lithography Co-Design Engine**: Redrew and expanded the main paper Conclusion in [`README.md`](./README.md#L845) and [`README.de.md`](./README.de.md#L845) to synthesize a groundbreaking 6th architectural core innovation: the closed-loop feedback engine connecting xLight's FEL EUV lithography linacs $\rightarrow$ onshore 300mm foundries (GlobalFoundries, SkyWater, IBM Anderon) $\rightarrow$ multi-modality QPUs (Diraq, PsiQuantum, Rigetti, Quantinuum, Atom, Infleqtion, D-Wave) $\rightarrow$ exascale AI supercomputers $\rightarrow$ real-time accelerator beam & linac cavity control.
+- **Minor Version Release**: Bumped version to `3.3.0` across [`README.md`](./README.md) and [`README.de.md`](./README.de.md).
+
+---
+
 ## [3.2.1] - 2026-08-13
 
 ### Added
