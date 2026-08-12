@@ -168,7 +168,7 @@
 | 101 | [Princeton Plasma Physics Laboratory (PPPL)](https://www.pppl.gov/) | ✅ Full Profile | §2.3B, §3.2, A.2 | Official PPPL About Us portal, AI4Fusion autonomous tokamak plasma control & microelectronics plasma etching |
 | 102 | [Sandia National Laboratories (SNL)](https://www.sandia.gov/) | ✅ Full Profile | §3.2, A.2 | Microelectronics radiation hardening (6 projects, 17 co-PI), ion trap QPU fabrication & hypersonic CFD |
 | 103 | [Savannah River National Laboratory (SRNL)](https://srnl.doe.gov/) | ✅ Full Profile | §3.2, A.2 | Radiochemical separation flowsheets, nuclear safeguards AI, tritium processing & hydrogen storage |
-| 104 | [Savannah River Site (SRS)](https://www.srs.gov/) | ✅ Full Profile | §3.2, A.4 | NNSA nuclear materials campus, Center for AI-Accelerated Innovation & ALTEMIS environmental AI |
+| 104 | [Savannah River Site (SRS)](https://www.srs.gov/) | ✅ Full Profile | §3.2, A.4 | NNSA & EM nuclear materials campus, H Tank Farm vitrification analytics, Center for AI-Accelerated Innovation & ALTEMIS environmental AI |
 | 105 | [SLAC National Accelerator Laboratory](https://www.slac.stanford.edu/) | ✅ Full Profile | §3.2, A.2 | LCLS-II ultrafast attosecond X-ray science, deep RL beamline optimization & SRF accelerator cavities |
 | 106 | [Thomas Jefferson National Accelerator Facility (TJNAF)](https://www.jlab.org/) | ✅ Full Profile | §3.2, A.2 | CEBAF accelerator, AI-driven nuclear femtography, SRF cavity tuning & subatomic physics AI |
 | 107 | [Y-12 National Security Complex](https://www.y12.doe.gov/) | ✅ Full Profile | §3.2, A.4 | Enriched uranium manufacturing, nuclear safeguards digital twins & TVA carbon-free power agreement |

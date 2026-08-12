@@ -1,4 +1,4 @@
-**Version**: 3.1.1
+**Version**: 3.1.2
 
 # Die Genesis-Mission: Architektur, strategische Initiativen und das multi-institutionelle Ökosystem für KI- und quantengetriebene wissenschaftliche Entdeckungen
 
@@ -669,7 +669,7 @@ Durch die Integration weltweit führender Exascale-Supercomputer (**Frontier**, 
   - *Kansas City National Security Campus (KCNSC / Honeywell FM&T)*: NNSA-Fertigungseinrichtung für die nationale Sicherheit, die KI-digitale Zwillinge, Präzisions-Mikroelektronikmontage und automatisierte Qualitätssicherungsalgorithmen für die Waffenkomponentenproduktion und Nuklearwaffen-Stewardship unter Genesis einsetzt.
   - *Nevada National Security Sites (NNSS)*: Betreibt Diagnostik für unterkritische Experimente mit hoher Gefährdung, hochgeschwindigkeitsoptische Sensorinstrumentierung und physikgestützte KI-Modellierung für Nukleartestüberwachung und nationale Sicherheitsdiagnostik unter Genesis.
   - *Pantex Plant*: NNSA-Fertigungsstandort für Hochexplosivstoffe und Nuklearkomponenten, der KI-digitale Zwillinge, automatisierte Komponenteninspektionsrobotik und Modellierung zur Nuklearwaffen-Stewardship-Instandhaltung unter Genesis einsetzt.
-  - *Savannah River Site (SRS)*: NNSA-Nuklearmaterialverarbeitungscampus, der das SRS Center for AI-Accelerated Innovation beherbergt und KI-Grundwassersanierungswerkzeuge (**ALTEMIS**), automatisierte radiochemische Trennungsmodellierung und Nuklearmaterialien-Stewardship unter Genesis einsetzt.
+  - *Savannah River Site (SRS)*: NNSA- und Office of Environmental Management (EM)-Nuklearmaterialverarbeitungscampus, der das SRS Center for AI-Accelerated Innovation beherbergt und KI-Grundwassersanierungswerkzeuge (**ALTEMIS**), H-Tank-Farm-Vitrifizierungsanalytik, automatisierte radiochemische Trennungsmodellierung und Nuklearmaterialien-Stewardship unter Genesis einsetzt.
 
 ### 3.3 Universitäre Forschungspartner
 Über 57 Forschungsuniversitäten erhalten im Rahmen der Ausschreibung DE-FOA-0003612 und verwandter Genesis-Missions-Initiativen wettbewerbsfähige Projektzuschläge:

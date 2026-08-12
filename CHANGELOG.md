@@ -5,6 +5,16 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.1.2] - 2026-08-12
+
+### Added
+- **Processed DOE Savannah River Site EM Portal Reference**: Processed reference link `https://www.energy.gov/em/savannah-river-site` (*DOE Portal: Savannah River Site (SRS) Office of Environmental Management Overview* by U.S. Department of Energy), adding entry to [`references.md`](file:///home/donutloop/Workspace/donutloop-genesis/references.md#L140) Section 4 under Executive, Federal & Partner Announcements.
+- **Ecosystem & Master Index Audit**: Registered Master Index Entry `#136` in [`reference_coverage.md`](file:///home/donutloop/Workspace/donutloop-genesis/reference_coverage.md) (updating total metrics to **518 / 518 Processed**, 100% Complete across 227 unique target domains with 500 Web items and 30 `www.energy.gov` links), renumbered downstream index rows `#137` to `#518`, and updated SRS notes in [`coverage.md`](file:///home/donutloop/Workspace/donutloop-genesis/coverage.md#L171) to highlight Office of Environmental Management (EM) site missions and H Tank Farm vitrification analytics.
+- **Enriched Section 3.2 in English & German Papers**: Integrated DOE EM site mission context, H Tank Farm vitrification analytics, and official EM portal links for the Savannah River Site (SRS) in Section 3.2 in [`README.md`](file:///home/donutloop/Workspace/donutloop-genesis/README.md#L658) and [`README.de.md`](file:///home/donutloop/Workspace/donutloop-genesis/README.de.md#L672).
+- **Version Bump**: Incremented version string to `3.1.2` across [`README.md`](file:///home/donutloop/Workspace/donutloop-genesis/README.md) and [`README.de.md`](file:///home/donutloop/Workspace/donutloop-genesis/README.de.md).
+
+---
+
 ## [3.1.1] - 2026-08-12
 
 ### Added
