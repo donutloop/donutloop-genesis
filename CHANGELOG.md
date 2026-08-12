@@ -5,6 +5,14 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.0.66] - 2026-08-12
+
+### Added
+- **Expanded Appendix A.6 (Video Materials & Multimedia Coverage)**: Fully populated the dedicated multimedia table in [`README.md`](file:///home/donutloop/Workspace/donutloop-genesis/README.md#L1066) and German parity section in [`README.de.md`](file:///home/donutloop/Workspace/donutloop-genesis/README.de.md#L1030) with all 11 processed YouTube video materials and public lectures across the repository (ORNL Biological Discovery, Brian Spears LLNL Nation-Scale AI, DOE Official Executive Video, ORNL Official Overview, Genesis Mission Executive & Technical Overview, Dr. Darío Gil Technical Keynote, Genesis Mission Platform Demo, Summit 2026 Panel Discussion & Breakouts, Ambassador Yamada Fireside Chat, Deputy Secretary Danly Closing Remarks, and ANL OutLoud AI Reshaping Discovery).
+- **Version Bump**: Incremented version string to `3.0.66` across [`README.md`](file:///home/donutloop/Workspace/donutloop-genesis/README.md) and [`README.de.md`](file:///home/donutloop/Workspace/donutloop-genesis/README.de.md).
+
+---
+
 ## [3.0.65] - 2026-08-12
 
 ### Added
