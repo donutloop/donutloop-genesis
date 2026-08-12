@@ -69,7 +69,7 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
 * [Oracle](https://www.oracle.com/)
 * [Phoenix Tailings](https://www.phoenixtailings.com/)
 * [PMT Critical Metals](https://pmtcriticalmetals.com/)
-* [PsiQuantum](https://psiquantum.com/) 
+* [PsiQuantum](https://psiquantum.com/): [PsiQuantum — About Us](https://www.psiquantum.com/about) 
 * [Quantinuum](https://www.quantinuum.com/): [Quantinuum — About Us](https://www.quantinuum.com/company/about)
 * [Qubit](https://www.qubit.com/)
 * [RadiaSoft](https://www.radiasoft.net/)
