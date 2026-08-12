@@ -1,4 +1,4 @@
-**Version**: 3.0.85
+**Version**: 3.0.86
 
 # Die Genesis-Mission: Architektur, strategische Initiativen und das multi-institutionelle Ökosystem für KI- und quantengetriebene wissenschaftliche Entdeckungen
 
@@ -275,16 +275,16 @@ Diese DOE-Investition wird ergänzt durch **2,013 Milliarden US-Dollar an Absich
 
 | Organisation / Unternehmen | Geplante Finanzierung / LOI | Primärer strategischer Umfang & technische Modalität |
 | :--- | :--- | :--- |
-| **GlobalFoundries** | $375 Millionen | Sichere inländische Quantengießerei für Halbleiterverpackungen & PDKs mehrerer Modalitäten. |
-| **IBM Quantum** | $1 Milliarde | Quantengießerei-Tochtergesellschaft für die Herstellung supraleitender Wafer + $50M Rechenzugang. |
-| **Atom Computing** | $100 Millionen | Skalierung von Neutralatom-Quantenhardware und Systemintegration mit NREL-Netz-Co-Simulation. |
-| **Diraq** | Bis zu $38 Millionen | CMOS-native Silizium-Spin-Qubit-Logik-Arrays und Skalierung von Quantenprozessoren. |
-| **D-Wave Quantum** | $100 Millionen | Quanten-Annealing und supraleitende Gatter-Modell-Architekturen für Netz-/HPC-Optimierung. |
-| **Infleqtion** | $100 Millionen | Neutralatom-Architekturen, hochleistungsfähige optische Systeme (3 DOE-Genesis-Preise). |
-| **PsiQuantum** | $100 Millionen | Photonisches Quantencomputing, verlustarme optische Verpackung, inländische PsiFactory-Silizium-Photonik. |
-| **Quantinuum** | $100 Millionen | Fehlertolerante Ionenfallen-Architekturen, integrierte Photonik und Hardware-Verpackung. |
-| **Rigetti Computing** | Bis zu $100 Millionen | 3D-Multi-Chip-kachelbare supraleitende QPUs, kryogene Ausleseverpackung und Fusionssimulatoren. |
-| **xLight** | $150 Millionen | Freie-Elektronen-Laser-(FEL)-EUV-Lithografie-Prototyp am Albany NanoTech mit NIST & Fermilab SRF. |
+| [**GlobalFoundries**](https://gf.com/technologies/quantum-technology/) | $375 Millionen | Sichere inländische Quantengießerei für Halbleiterverpackungen & PDKs mehrerer Modalitäten. |
+| [**IBM Quantum**](https://www.ibm.com/quantum) | $1 Milliarde | Quantengießerei-Tochtergesellschaft für die Herstellung supraleitender Wafer + $50M Rechenzugang. |
+| [**Atom Computing**](https://atom-computing.com/about-us/) | $100 Millionen | Skalierung von Neutralatom-Quantenhardware und Systemintegration mit NREL-Netz-Co-Simulation. |
+| [**Diraq**](https://www.diraq.com/about) | Bis zu $38 Millionen | CMOS-native Silizium-Spin-Qubit-Logik-Arrays und Skalierung von Quantenprozessoren. |
+| [**D-Wave Quantum**](https://www.dwavequantum.com/company/about-d-wave/) | $100 Millionen | Quanten-Annealing und supraleitende Gatter-Modell-Architekturen für Netz-/HPC-Optimierung. |
+| [**Infleqtion**](https://infleqtion.com/about/) | $100 Millionen | Neutralatom-Architekturen, hochleistungsfähige optische Systeme (3 DOE-Genesis-Preise). |
+| [**PsiQuantum**](https://www.psiquantum.com/about) | $100 Millionen | Photonisches Quantencomputing, verlustarme optische Verpackung, inländische PsiFactory-Silizium-Photonik. |
+| [**Quantinuum**](https://www.quantinuum.com/company/about) | $100 Millionen | Fehlertolerante Ionenfallen-Architekturen, integrierte Photonik und Hardware-Verpackung. |
+| [**Rigetti Computing**](https://www.rigetti.com/about-rigetti-computing) | Bis zu $100 Millionen | 3D-Multi-Chip-kachelbare supraleitende QPUs, kryogene Ausleseverpackung und Fusionssimulatoren. |
+| [**xLight**](https://www.xlight.com/about) | $150 Millionen | Freie-Elektronen-Laser-(FEL)-EUV-Lithografie-Prototyp am Albany NanoTech mit NIST & Fermilab SRF. |
 
 Zu den wichtigsten Highlights der Modalitäten im Rahmen der Quantenzusagen gehören:
 

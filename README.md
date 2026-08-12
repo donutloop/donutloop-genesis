@@ -1,4 +1,4 @@
-**Version**: 3.0.85
+**Version**: 3.0.86
 
 # The Genesis Mission: Architecture, Strategic Initiatives, and the Multi-Institutional Ecosystem for AI and Quantum-Driven Scientific Discovery
 
@@ -277,16 +277,16 @@ This DOE investment is matched by **$2.013 Billion in Department of Commerce Let
 
 | Organization / Company | Planned Funding / LOI | Primary Strategic Scope & Technical Modality |
 | :--- | :--- | :--- |
-| **GlobalFoundries** | $375 Million | Domestic secure quantum foundry for multi-modality semiconductor packaging & PDKs. |
-| **IBM Quantum** | $1 Billion | Quantum foundry subsidiary for superconducting wafer fabrication + $50M compute access. |
-| **Atom Computing** | $100 Million | Scaling neutral-atom quantum hardware and system integration with NREL grid co-sim. |
-| **Diraq** | Up to $38 Million | CMOS-native silicon spin qubit logic arrays and quantum processor scaling. |
-| **D-Wave Quantum** | $100 Million | Quantum annealing and gate-model superconducting architectures for grid/HPC optimization. |
-| **Infleqtion** | $100 Million | Neutral-atom architectures, high-powered optical systems (3 DOE Genesis awards). |
-| **PsiQuantum** | $100 Million | Photonic quantum computing, low-loss optical packaging, domestic PsiFactory silicon photonics. |
-| **Quantinuum** | $100 Million | Trapped-ion fault-tolerant architectures, integrated photonics, and hardware packaging. |
-| **Rigetti Computing** | Up to $100 Million | 3D multi-chip tileable superconducting QPUs, cryogenic readout packaging, and fusion sims. |
-| **xLight** | $150 Million | Free-electron laser (FEL) EUV lithography prototype at Albany NanoTech with NIST & Fermilab SRF. |
+| [**GlobalFoundries**](https://gf.com/technologies/quantum-technology/) | $375 Million | Domestic secure quantum foundry for multi-modality semiconductor packaging & PDKs. |
+| [**IBM Quantum**](https://www.ibm.com/quantum) | $1 Billion | Quantum foundry subsidiary for superconducting wafer fabrication + $50M compute access. |
+| [**Atom Computing**](https://atom-computing.com/about-us/) | $100 Million | Scaling neutral-atom quantum hardware and system integration with NREL grid co-sim. |
+| [**Diraq**](https://www.diraq.com/about) | Up to $38 Million | CMOS-native silicon spin qubit logic arrays and quantum processor scaling. |
+| [**D-Wave Quantum**](https://www.dwavequantum.com/company/about-d-wave/) | $100 Million | Quantum annealing and gate-model superconducting architectures for grid/HPC optimization. |
+| [**Infleqtion**](https://infleqtion.com/about/) | $100 Million | Neutral-atom architectures, high-powered optical systems (3 DOE Genesis awards). |
+| [**PsiQuantum**](https://www.psiquantum.com/about) | $100 Million | Photonic quantum computing, low-loss optical packaging, domestic PsiFactory silicon photonics. |
+| [**Quantinuum**](https://www.quantinuum.com/company/about) | $100 Million | Trapped-ion fault-tolerant architectures, integrated photonics, and hardware packaging. |
+| [**Rigetti Computing**](https://www.rigetti.com/about-rigetti-computing) | Up to $100 Million | 3D multi-chip tileable superconducting QPUs, cryogenic readout packaging, and fusion sims. |
+| [**xLight**](https://www.xlight.com/about) | $150 Million | Free-electron laser (FEL) EUV lithography prototype at Albany NanoTech with NIST & Fermilab SRF. |
 
 Key modality highlights across quantum commitments include:
 

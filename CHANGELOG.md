@@ -5,6 +5,14 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.0.86] - 2026-08-12
+
+### Changed
+- **Hyperlinked Section 2.2 Quantum Table**: Updated company names in the Section 2.2 *Quantum Leadership and CHIPS Act Infrastructure* table in [`README.md`](file:///home/donutloop/Workspace/donutloop-genesis/README.md#L278) and [`README.de.md`](file:///home/donutloop/Workspace/donutloop-genesis/README.de.md#L276) with direct links to their official corporate portals (GlobalFoundries, IBM Quantum, Atom Computing, Diraq, D-Wave Quantum, Infleqtion, PsiQuantum, Quantinuum, Rigetti Computing, and xLight).
+- **Version Bump**: Incremented version string to `3.0.86` across [`README.md`](file:///home/donutloop/Workspace/donutloop-genesis/README.md) and [`README.de.md`](file:///home/donutloop/Workspace/donutloop-genesis/README.de.md).
+
+---
+
 ## [3.0.85] - 2026-08-12
 
 ### Added
