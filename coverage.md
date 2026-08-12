@@ -29,7 +29,7 @@
 | 11 | [HPE](https://www.hpe.com/) | ✅ Full Profile | §3.1, A.3 | Exascale HPC substrate; HPE Cray EX & Slingshot; Frontier/Aurora/El Capitan; Lux AI supercomputer (ORNL); 6 Genesis R&D awards |
 | 12 | [IBM / IBM Quantum](https://www.ibm.com/quantum) | ✅ Full Profile | §2.2, §3.1, §2.3B | $1B foundry LOI; $50M compute; Heron/Nighthawk; FLiBe fusion |
 | 13 | [Microsoft](https://www.microsoft.com/) | ✅ Full Profile | §3.1 | $60M SPARK; Discovery platform; MatterGen/MatterSim; Majorana |
-| 14 | [NVIDIA](https://www.nvidia.com/) | ✅ Full Profile | §2.1, §3.1 | Solstice/Equinox; Apollo models; Omniverse; edge AI |
+| 14 | [NVIDIA](https://www.nvidia.com/) | ✅ Full Profile | §2.1, §3.1 | GTC 2026 session (Spears & Stevens), Solstice/Equinox, Apollo models, Omniverse & Vera/Blackwell exascale GPUs |
 | 15 | [Oracle](https://www.oracle.com/) | ✅ Full Profile | §3.1 | Enterprise cloud; HPC database infrastructure |
 | 16 | [SambaNova Systems](https://sambanova.ai/) | ✅ Full Profile | §2.1, §3.1, A.3 | Reconfigurable Dataflow Architecture (RDUs); high-throughput AI inference; ALCF deployment |
 | 17 | [Veritone](https://www.veritone.com/) | ✅ Full Profile | §3.1, A.3 | Enterprise AI platform (aiWARE), multi-modal data ingestion & semantic search engines |

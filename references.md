@@ -559,6 +559,7 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
 * **Genesis Mission Summit 2026:** [Dr. Darío Gil Technical Keynote](https://youtu.be/W0q1qajChnY)
 * **Genesis Mission Summit 2026:** [Panel Discussion and Breakout Groups](https://youtu.be/ZHk2Kdg0fIw)
 * **DOE Office of Science:** [The Genesis Mission: Transforming Science and Energy with AI Funding Opportunity Webinar](https://www.youtube.com/watch?v=rjo2CV3ju9Y)
+* **NVIDIA GTC 2026:** [Science at the Speed of Light: The Genesis Mission Across DOE Labs (Brian Spears & Rick Stevens)](https://www.nvidia.com/en-us/on-demand/session/gtc26-s82461/)
 
 ## 7. Technical Documents, RFA Guidance & Official Webinars
 * [U.S. Department of Energy: Genesis Mission RFI Analysis (PDF)](https://www.energy.gov/sites/default/files/2026-07/Genesis-Mission-RFI-Analysis.pdf)

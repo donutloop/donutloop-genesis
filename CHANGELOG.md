@@ -5,6 +5,16 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.0.72] - 2026-08-12
+
+### Added
+- **Processed NVIDIA GTC 2026 Technical Session Reference**: Processed reference link `https://www.nvidia.com/en-us/on-demand/session/gtc26-s82461/` (*Science at the Speed of Light: The Genesis Mission Across DOE Labs* — Dr. Brian Spears & Prof. Rick Stevens), adding entry to [`references.md`](file:///home/donutloop/Workspace/donutloop-genesis/references.md#L562) Section 6 under Additional Event Materials & Reference Links.
+- **Master Index Audit**: Registered Master Index Entry `#480` in [`reference_coverage.md`](file:///home/donutloop/Workspace/donutloop-genesis/reference_coverage.md) (updating total metrics to **493 / 493 Processed**, 100% Complete across 226 unique target domains with 476 Web/News items), renumbered downstream index rows `#481` to `#493`, and updated NVIDIA notes in [`coverage.md`](file:///home/donutloop/Workspace/donutloop-genesis/coverage.md#L32).
+- **Enriched Section 3.1 & Appendix A.6 in English & German Papers**: Integrated NVIDIA GTC 2026 session recording into Section 3.1 and expanded Appendix A.6 multimedia table in [`README.md`](file:///home/donutloop/Workspace/donutloop-genesis/README.md#L1066) and [`README.de.md`](file:///home/donutloop/Workspace/donutloop-genesis/README.de.md#L1030).
+- **Version Bump**: Incremented version string to `3.0.72` across [`README.md`](file:///home/donutloop/Workspace/donutloop-genesis/README.md) and [`README.de.md`](file:///home/donutloop/Workspace/donutloop-genesis/README.de.md).
+
+---
+
 ## [3.0.71] - 2026-08-12
 
 ### Added
