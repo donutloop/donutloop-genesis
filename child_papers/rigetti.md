@@ -1,7 +1,7 @@
 # Rigetti Computing — Comprehensive Technical Architecture, Superconducting Transmon QPUs, and Ecosystem Reference Index
 
 > **Child Paper Overview:**
-> This document serves as the dedicated deep-dive technical paper and curated reference index for **Rigetti Computing, Inc.** (NASDAQ: RGTI), detailing its full-stack superconducting quantum computing platforms (Ankaa™, Cepheus™, Novera™, Aspen™-M), in-house 200mm MEMS semiconductor foundry (**Fab-1**), Quantum Cloud Services infrastructure (**QCS™**), Quil™ & PyQuil software compilation, federal & DOE National Laboratory co-simulations under the **Genesis Mission**, and a complete 196-release chronological newsroom index (`https://www.rigetti.com/rigetti-computing-news/`) managed strictly within `child_papers/`.
+> This document serves as the dedicated deep-dive technical paper and curated reference index for **Rigetti Computing, Inc.** (NASDAQ: RGTI), detailing its full-stack superconducting quantum computing platforms (Ankaa™, Cepheus™, Novera™, Aspen™-M), in-house 200mm MEMS semiconductor foundry (**Fab-1**), Quantum Cloud Services infrastructure (**QCS™**), Quil™ & PyQuil software compilation, federal & DOE National Laboratory co-simulations under the **[Genesis Mission](https://www.energy.gov/genesis-mission)**, and a complete 196-release chronological newsroom index (`https://www.rigetti.com/rigetti-computing-news/`) managed strictly within `child_papers/`.
 >
 > **Version:** `v1.0.0` (Released 2026-08-12)
 
@@ -277,6 +277,9 @@
 | **2017-03-28** | [Rigetti Quantum Computing Y Combinator A16Z](https://www.bizjournals.com/sanjose/news/2017/03/28/rigetti-quantum-computing-y-combinator-a16z.html) | Commercial & Strategy | Superconducting transmon quantum computing, fab technology, and QCS expansion. |
 
 ---
+
+5. **U.S. Department of Energy Genesis Mission**. [DOE Genesis Mission & Quantum Genesis Initiative](https://www.energy.gov/genesis-mission). U.S. Department of Energy & National Laboratories, 2026.
+6. **Genesis Mission Consortium**. [Quantum Supercomputing & Industrial Co-Design Platform](https://www.genesismissionconsortium.org/).
 
 ## References & Document Sources
 1. **Rigetti Computing Official Site**. [Rigetti Newsroom & Press Archive](https://www.rigetti.com/rigetti-computing-news).

@@ -88,6 +88,9 @@
 
 ---
 
+5. **U.S. Department of Energy Genesis Mission**. [DOE Genesis Mission & Quantum Genesis Initiative](https://www.energy.gov/genesis-mission). U.S. Department of Energy & National Laboratories, 2026.
+6. **Genesis Mission Consortium**. [Quantum Supercomputing & Industrial Co-Design Platform](https://www.genesismissionconsortium.org/).
+
 ## References & Document Sources
 1. **PsiQuantum Official Site**. [PsiQuantum Corporate Newsroom & Press Archive](https://www.psiquantum.com/news).
 2. **PsiQuantum Verification Landmark**. [PsiQuantum Announces Breakthrough in Architectures for Error-Corrected Quantum Computing](https://www.psiquantum.com/news-import/psiquantum-announces-breakthrough-in-architectures-for-error-corrected-quantum-computing). Jan 30, 2023.

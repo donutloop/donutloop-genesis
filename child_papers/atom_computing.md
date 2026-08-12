@@ -195,6 +195,9 @@
 
 ---
 
+5. **U.S. Department of Energy Genesis Mission**. [DOE Genesis Mission & Quantum Genesis Initiative](https://www.energy.gov/genesis-mission). U.S. Department of Energy & National Laboratories, 2026.
+6. **Genesis Mission Consortium**. [Quantum Supercomputing & Industrial Co-Design Platform](https://www.genesismissionconsortium.org/).
+
 ## References & Document Sources
 1. **Atom Computing Official Site**. [Atom Computing Corporate News & Resources](https://atom-computing.com/news-resources/).
 2. **Microsoft Azure Quantum & Atom Computing**. [Atom Computing & Microsoft 50 Logical Qubits Release](https://azure.microsoft.com/en-us/solutions/quantum-computing/).

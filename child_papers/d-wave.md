@@ -1,7 +1,7 @@
 # D-Wave Quantum — Technical Architecture, Quantum Systems, and Ecosystem Reference Index
 
 > **Child Paper Overview:**
-> This document serves as the dedicated deep-dive technical paper and curated reference index for **D-Wave Quantum Inc.** (NYSE: QBTS), detailing its dual-platform quantum hardware development (commercial flux quantum annealing and gate-model superconducting architectures), hybrid cloud infrastructure (Leap & Ocean SDK), federal and DOE National Laboratory collaborations under the **Genesis Mission**, and a focused 2018–2026 chronological press and reference index (`https://www.dwavequantum.com/company/newsroom/?y=2018` through `?y=2026`) managed strictly within `chhild_papers/`.
+> This document serves as the dedicated deep-dive technical paper and curated reference index for **D-Wave Quantum Inc.** (NYSE: QBTS), detailing its dual-platform quantum hardware development (commercial flux quantum annealing and gate-model superconducting architectures), hybrid cloud infrastructure (Leap & Ocean SDK), federal and DOE National Laboratory collaborations under the **[Genesis Mission](https://www.energy.gov/genesis-mission)**, and a focused 2018–2026 chronological press and reference index (`https://www.dwavequantum.com/company/newsroom/?y=2018` through `?y=2026`) managed strictly within `chhild_papers/`.
 >
 > **Version:** `v1.0.0` (Released 2026-08-12)
 
@@ -22,7 +22,7 @@
   - **2024 Advantage2 Hardware Scaling & Nonlinear Solvers:** Made the lower-noise **1,200+ qubit Advantage2 prototype** available in Leap (20x speedup), released sub-microsecond **fast-anneal** feature, launched new **nonlinear hybrid quantum solver** at Qubits 2024, and benchmarked the sixth-generation **4,400+ qubit Advantage2 processor** with 48,000+ couplers.
   - **2025 Revenue Surges & Supercomputing Integration:** Reported record FY24 customer bookings exceeding $23 Million (+120% YoY), achieved record Q1 2025 revenue of $15 Million (+500% YoY), hosted Qubits 2025 ("Quantum Realized") in Scottsdale, and demonstrated quantum-HPC supercomputing integration and Quantum AI workflows at SC25.
   - **2026 Error Correction Breakthroughs & Federal R&D:** Achieved 179% YoY revenue growth in FY 2025, demonstrated physical hardware quantum error correction on flux qubit gate-model processors, released the world's first gate-model error-aware simulator, partnered with Nasdaq Verafin for anti-financial crime application development, and received National Research Council of Canada funding.
-- **Genesis Mission & Federal Integration:** Integrates hybrid classical-quantum cloud solvers via **Leap** across DOE National Laboratories (LANL, ORNL, NREL ARIES) for real-time power grid dispatch optimization, materials discovery, and nuclear deterrence simulation.
+- **[Genesis Mission](https://www.energy.gov/genesis-mission) & Federal Integration:** Integrates hybrid classical-quantum cloud solvers via **Leap** across DOE National Laboratories (LANL, ORNL, NREL ARIES) for real-time power grid dispatch optimization, materials discovery, and nuclear deterrence simulation.
 
 ---
 
@@ -126,6 +126,9 @@
 | **2026-08-12** | [D-Wave Awarded National Research Council of Canada Funding to Advance Commercial Annealing Quantum Computing](https://www.dwavequantum.com/company/newsroom/press-release/d-wave-awarded-national-research-council-of-canada-funding-to-advance-commercial-annealing-quantum-computing/) | Canadian Federal R&D | NRC funding award to scale commercial quantum annealing systems for energy and logistics applications. |
 
 ---
+
+5. **U.S. Department of Energy Genesis Mission**. [DOE Genesis Mission & Quantum Genesis Initiative](https://www.energy.gov/genesis-mission). U.S. Department of Energy & National Laboratories, 2026.
+6. **Genesis Mission Consortium**. [Quantum Supercomputing & Industrial Co-Design Platform](https://www.genesismissionconsortium.org/).
 
 ## References & Document Sources
 1. **D-Wave Quantum Official Site**. [D-Wave 2018 Newsroom & Press Releases](https://www.dwavequantum.com/company/newsroom/?y=2018).

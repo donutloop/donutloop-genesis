@@ -1,7 +1,7 @@
 # Quantinuum — Comprehensive Technical Architecture, Trapped-Ion QCCD Systems, and Ecosystem Reference Index
 
 > **Child Paper Overview:**
-> This document serves as the dedicated deep-dive technical paper and curated reference index for **Quantinuum Inc.** (formed on **November 30, 2021** by combining Honeywell Quantum Solutions & Cambridge Quantum Computing), detailing its trapped-ion QCCD quantum processors (System Model H1-1, H1-2, H2-1, Helios, Reimei), 99.999% single-qubit and 99.9% two-qubit gate fidelities, logical qubit error correction breakthroughs (48 logical qubits with Microsoft), quantum software suite (TKET, InQuanto, Quantum Origin), federal & DOE National Laboratory co-simulations under the **Genesis Mission**, DARPA Quantum Benchmarking awards, and a complete 77-release chronological press index (`https://www.quantinuum.com/news/news#press-release`) spanning from current releases down to company formation on **November 30, 2021**, managed strictly within `child_papers/`.
+> This document serves as the dedicated deep-dive technical paper and curated reference index for **Quantinuum Inc.** (formed on **November 30, 2021** by combining Honeywell Quantum Solutions & Cambridge Quantum Computing), detailing its trapped-ion QCCD quantum processors (System Model H1-1, H1-2, H2-1, Helios, Reimei), 99.999% single-qubit and 99.9% two-qubit gate fidelities, logical qubit error correction breakthroughs (48 logical qubits with Microsoft), quantum software suite (TKET, InQuanto, Quantum Origin), federal & DOE National Laboratory co-simulations under the **[Genesis Mission](https://www.energy.gov/genesis-mission)**, DARPA Quantum Benchmarking awards, and a complete 77-release chronological press index (`https://www.quantinuum.com/news/news#press-release`) spanning from current releases down to company formation on **November 30, 2021**, managed strictly within `child_papers/`.
 >
 > **Version:** `v1.0.0` (Released 2026-08-13)
 
@@ -165,6 +165,9 @@
 | **2021-11-30** | [Introducing Quantinuum](https://www.quantinuum.com/press-releases/introducing-quantinuum) | Commercial & Strategy | Trapped-ion QCCD quantum computing, system expansion, and software stack. |
 
 ---
+
+5. **U.S. Department of Energy Genesis Mission**. [DOE Genesis Mission & Quantum Genesis Initiative](https://www.energy.gov/genesis-mission). U.S. Department of Energy & National Laboratories, 2026.
+6. **Genesis Mission Consortium**. [Quantum Supercomputing & Industrial Co-Design Platform](https://www.genesismissionconsortium.org/).
 
 ## References & Document Sources
 1. **Quantinuum Official Site**. [Quantinuum Corporate Newsroom & Press Archive](https://www.quantinuum.com/news/news#press-release).

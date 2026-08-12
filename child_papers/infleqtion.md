@@ -1,7 +1,7 @@
 # Infleqtion — Comprehensive Technical Architecture, Neutral Atom Systems, and Ecosystem Reference Index
 
 > **Child Paper Overview:**
-> This document serves as the dedicated deep-dive technical paper and curated reference index for **Infleqtion Inc.** (formerly ColdQuanta, Inc.), detailing its dual-track quantum technology portfolio: full-stack neutral atom quantum computers (Hilbert, SqORPIOS, Sqale), quantum sensing and precision timing hardware (Tiqker™ optical atomic clocks, Rydberg Quantum RF receivers, miniMOT™ platforms, cold-atom gravimeters), deep compilation software (Superstaq™, QContext, SupercheQ), federal and DOE National Laboratory co-simulations under the **Genesis Mission**, and a complete 176-release chronological newsroom index (`https://infleqtion.com/newsroom/announcements/`) managed strictly within `chhild_papers/`.
+> This document serves as the dedicated deep-dive technical paper and curated reference index for **Infleqtion Inc.** (formerly ColdQuanta, Inc.), detailing its dual-track quantum technology portfolio: full-stack neutral atom quantum computers (Hilbert, SqORPIOS, Sqale), quantum sensing and precision timing hardware (Tiqker™ optical atomic clocks, Rydberg Quantum RF receivers, miniMOT™ platforms, cold-atom gravimeters), deep compilation software (Superstaq™, QContext, SupercheQ), federal and DOE National Laboratory co-simulations under the **[Genesis Mission](https://www.energy.gov/genesis-mission)**, and a complete 176-release chronological newsroom index (`https://infleqtion.com/newsroom/announcements/`) managed strictly within `chhild_papers/`.
 >
 > **Version:** `v1.0.0` (Released 2026-08-12)
 
@@ -91,7 +91,7 @@
 
 ## 5. Federal, National Laboratory & Enterprise Ecosystem
 - **U.S. Department of Energy (DOE Genesis Mission & ARPA-E):**
-  - **DOE Genesis Mission:** 3 Genesis Mission projects focusing on electric grid resilience co-simulation with Eaton Corporation, subterranean energy exploration, and material synthesis.
+  - **DOE Genesis Mission:** 3 [Genesis Mission](https://www.energy.gov/genesis-mission) projects focusing on electric grid resilience co-simulation with Eaton Corporation, subterranean energy exploration, and material synthesis.
   - **ARPA-E Grid Program:** Advancing quantum algorithms for real-time electric power grid dispatch optimization.
   - **National Lab Alliances:** Strategic partnerships with Oak Ridge National Laboratory (ORNL), Sandia National Laboratories (QSCOUT testbed), and Argonne National Laboratory.
 - **Defense, Aerospace & International Contracts:**
@@ -143,7 +143,7 @@
 | [Infleqtion to Report Second Quarter 2026 Financial Results on August 12, 2026](https://infleqtion.com/infleqtion-to-report-second-quarter-2026-financial-results-on-august-12-2026/) | Financial Performance | Quarterly financial results, SEC S-4 registration, public listing, and revenue outlook. |
 | [Infleqtion Appoints Dr. Joseph Buck as Senior Vice President of Quantum Computing Systems](https://infleqtion.com/infleqtion-appoints-dr-joseph-buck-as-senior-vice-president-of-quantum-computing-systems/) | Executive Leadership | Executive appointments, legal officer additions, and board advisory expansion. |
 | [Infleqtion to Deploy Fault-Tolerant Neutral-Atom Quantum Computer in Illinois](https://infleqtion.com/infleqtion-to-deploy-fault-tolerant-neutral-atom-quantum-computer-in-illinois/) | Global Ecosystem | UK NQCC QPU deployment, Illinois NVQLink facility, ORNL HPC integration, and Eaton grid resilience. |
-| [Infleqtion Secures Three Genesis Mission Projects from U.S. Department of Energy](https://infleqtion.com/infleqtion-secures-three-genesis-mission-projects-from-u-s-department-of-energy/) | Financial Performance | Quarterly financial results, SEC S-4 registration, public listing, and revenue outlook. |
+| [Infleqtion Secures Three [Genesis Mission](https://www.energy.gov/genesis-mission) Projects from U.S. Department of Energy](https://infleqtion.com/infleqtion-secures-three-genesis-mission-projects-from-u-s-department-of-energy/) | Financial Performance | Quarterly financial results, SEC S-4 registration, public listing, and revenue outlook. |
 | [Infleqtion CEO Matt Kinsella Provides Testimony for House Committee on Natural Resources](https://infleqtion.com/infleqtion-ceo-matt-kinsella-provides-testimony-for-house-committee-on-natural-resources/) | Executive Leadership | Executive appointments, legal officer additions, and board advisory expansion. |
 | [Infleqtion Welcomes Executive Order on Quantum Technology](https://infleqtion.com/infleqtion-welcomes-executive-order-on-quantum-technology/) | Commercial & Strategy | Neutral atom quantum computing, sensing, and software platform expansion. |
 | [Infleqtion Launches America's Quantum Space Initiative to Accelerate the Future of Quantum-Enabled Space Infrastructure](https://infleqtion.com/infleqtion-launches-americas-quantum-space-initiative-to-accelerate-the-future-of-quantum-enabled-space-infrastructure/) | Space & DOE | DOE Genesis Mission projects, NASA ISS space payloads, space gravity sensors, and Voyager partnership. |
@@ -295,6 +295,9 @@
 | [Hardware-Conscious Optimization of the Quantum Toffoli Gate](https://infleqtion.com/hardware-conscious-optimization-of-the-quantum-toffoli-gate/) | Quantum Software | Superstaq deep compiler platform, pulse-level control, Toffoli optimization, and QContext. |
 
 ---
+
+5. **U.S. Department of Energy Genesis Mission**. [DOE Genesis Mission & Quantum Genesis Initiative](https://www.energy.gov/genesis-mission). U.S. Department of Energy & National Laboratories, 2026.
+6. **Genesis Mission Consortium**. [Quantum Supercomputing & Industrial Co-Design Platform](https://www.genesismissionconsortium.org/).
 
 ## References & Document Sources
 1. **Infleqtion Official Site**. [Infleqtion Corporate Announcements & Newsroom](https://infleqtion.com/newsroom/announcements/).
