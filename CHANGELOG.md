@@ -5,6 +5,16 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.0.64] - 2026-08-12
+
+### Added
+- **Processed Dr. Darío Gil Technical Keynote Video Reference**: Processed reference link `https://youtu.be/W0q1qajChnY` (*Darío Gil Technical Keynote—Genesis Mission Summit 2026*), adding entry to [`references.md`](file:///home/donutloop/Workspace/donutloop-genesis/references.md#L557) Section 6 under Additional Event Materials & Reference Links.
+- **Master Index Audit**: Registered Master Index Entry `#475` in [`reference_coverage.md`](file:///home/donutloop/Workspace/donutloop-genesis/reference_coverage.md) (updating total metrics to **487 / 487 Processed**, 100% Complete across 225 unique target domains with 470 Web/News items), renumbered downstream index rows `#476` to `#487`, and updated DOE notes in [`coverage.md`](file:///home/donutloop/Workspace/donutloop-genesis/coverage.md#L137).
+- **Enriched Section 3.4 in English & German Papers**: Integrated Dr. Darío Gil's Summit 2026 technical keynote address detailing technical architectures, $250M+ RFA allocations, and $800M+ partner commitments in [`README.md`](file:///home/donutloop/Workspace/donutloop-genesis/README.md#L706) and [`README.de.md`](file:///home/donutloop/Workspace/donutloop-genesis/README.de.md#L699).
+- **Version Bump**: Incremented version string to `3.0.64` across [`README.md`](file:///home/donutloop/Workspace/donutloop-genesis/README.md) and [`README.de.md`](file:///home/donutloop/Workspace/donutloop-genesis/README.de.md).
+
+---
+
 ## [3.0.63] - 2026-08-12
 
 ### Added
