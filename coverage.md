@@ -66,7 +66,7 @@
 | 34 | [Infleqtion](https://www.infleqtion.com/) | ✅ Full Profile | §2.2, §3.1 | About portal (infleqtion.com/about), $100M LOI, 3 DOE awards, Sqale, Tiqker & Superstaq |
 | 35 | [PsiQuantum](https://psiquantum.com/) | ✅ Full Profile | §2.2, §3.1 | $100M LOI; photonic; PsiFactory; BTO switches |
 | 36 | [Quantinuum](https://www.quantinuum.com/) | ✅ Full Profile | §2.2, §3.1 | $100M LOI; trapped-ion; Monarch Quantum |
-| 37 | [Rigetti Computing](https://www.rigetti.com/) | ✅ Full Profile | §2.2, §3.1 | $100M LOI; Ankaa/Lyra; cryogenic readout; fusion sims |
+| 37 | [Rigetti Computing](https://www.rigetti.com/) | ✅ Full Profile | §2.2, §3.1 | About portal (rigetti.com/about-rigetti-computing), $100M LOI, Ankaa/Lyra, cryogenic readout & fusion sims |
 
 ---
 

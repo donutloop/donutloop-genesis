@@ -74,7 +74,7 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
 * [Qubit](https://www.qubit.com/)
 * [RadiaSoft](https://www.radiasoft.net/)
 * [Ramaco](https://ramacoresources.com/)
-* [Rigetti](https://www.rigetti.com/)
+* [Rigetti](https://www.rigetti.com/): [Rigetti Computing — About Us](https://www.rigetti.com/about-rigetti-computing)
 * [RTX](https://www.rtx.com/)
 * [Sambanova](https://sambanova.ai/)
 * [Scale AI](https://scale.com/)
