@@ -1,7 +1,7 @@
 # D-Wave Quantum — Technical Architecture, Quantum Systems, and Ecosystem Reference Index
 
 > **Child Paper Overview:**
-> This document serves as the dedicated deep-dive technical paper and curated reference index for **D-Wave Quantum Inc.** (NYSE: QBTS), detailing its dual-platform quantum hardware development (commercial flux quantum annealing and gate-model superconducting architectures), hybrid cloud infrastructure (Leap & Ocean SDK), federal and DOE National Laboratory collaborations under the **Genesis Mission**, and a focused 2018–2020 chronological press and reference index (`https://www.dwavequantum.com/company/newsroom/?y=2018`, `?y=2019` & `?y=2020`) managed strictly within `chhild_papers/`.
+> This document serves as the dedicated deep-dive technical paper and curated reference index for **D-Wave Quantum Inc.** (NYSE: QBTS), detailing its dual-platform quantum hardware development (commercial flux quantum annealing and gate-model superconducting architectures), hybrid cloud infrastructure (Leap & Ocean SDK), federal and DOE National Laboratory collaborations under the **Genesis Mission**, and a focused 2018–2021 chronological press and reference index (`https://www.dwavequantum.com/company/newsroom/?y=2018`, `?y=2019`, `?y=2020` & `?y=2021`) managed strictly within `chhild_papers/`.
 
 ---
 
@@ -10,19 +10,20 @@
   1. **Commercial Quantum Annealing:** Production-grade flux-qubit quantum annealing systems optimized for complex combinatorial optimization, materials simulation, machine learning, and supply chain scheduling.
   2. **Gate-Model Superconducting Architecture:** High-coherence flux-qubit gate-model quantum processors targeting fault-tolerant utility-scale quantum computing with a roadmap toward 100 logical qubits by 2032.
 - **CHIPS and Science Act LOI:** D-Wave entered into a **$100 Million** Letter of Intent (LOI) with the U.S. Department of Commerce under the CHIPS and Science Act to scale domestic quantum hardware manufacturing and packaging across facilities in California, Colorado, and Florida.
-- **2018–2020 Breakthrough Years (`?y=2018`, `?y=2019`, & `?y=2020` Archive Focus):**
+- **2018–2021 Expansion Years (`?y=2018`, `?y=2019`, `?y=2020` & `?y=2021` Archive Focus):**
   - **2018 Breakthroughs:** Surpassed $80 Million in customer contracts, published milestone quantum simulations in *Science* (spin glass phase transitions) and *Nature* (1,800-qubit Kosterlitz-Thouless topological phase transition), launched **Leap™** quantum cloud, and partnered with Volkswagen for Web Summit traffic management.
   - **2019 Milestones:** Officially named the **Advantage™** system with 15-way **Pegasus™** topology (5,000+ qubits), signed LANL as first on-premises Advantage customer, established European Leap cloud node at Forschungszentrum Jülich (JUNIQ), signed milestone commercial contract with Sigma-i, and established strategic commercial partnership with NEC Corporation.
   - **2020 GA & Innovation:** Launched **Leap 2** with hybrid solvers supporting up to 10,000 variables, opened free Leap cloud access for COVID-19 research teams worldwide, secured a **$10 Million equity investment and strategic alliance with NEC**, achieved **General Availability of the 5,000-qubit Advantage system**, and enabled cross-system interoperability with IBM Qiskit.
+  - **2021 Clarity Roadmap & Public Listing Announcement:** Expanded Leap cloud access to Singapore, launched D-Wave Launch program expansion, introduced the breakthrough **Constrained Quadratic Model (CQM)** hybrid solver, unveiled the **Clarity** product roadmap introducing the **Advantage2™** system (7,000+ qubits, 20-way Zephyr topology), and announced a definitive business combination agreement valued at ~$1.6B with Churchill Capital Corp X to list D-Wave publicly on the NYSE under ticker **QBTS**.
 - **Genesis Mission & Federal Integration:** Integrates hybrid classical-quantum cloud solvers via **Leap** across DOE National Laboratories (LANL, ORNL, NREL ARIES) for real-time power grid dispatch optimization, materials discovery, and nuclear deterrence simulation.
 
 ---
 
 ## 2. Quantum Annealing Hardware (Advantage & Advantage2 Systems)
 - **D-Wave 2000Q & 1,800-Qubit Lattice:** 2,000 flux qubits with 6-way Chimera connectivity, upgraded at LANL in March 2019 and utilized for 2018 *Science* and *Nature* topological quantum material simulation breakthroughs.
-- **Advantage™ System (GA September 2020):** Built for production commercial use featuring **5,000+ flux qubits** with 15-way **Pegasus™** connectivity (2.5x higher connectivity than Chimera graph), enabling complex graph embedding and multi-variable enterprise optimization.
-- **Advantage2™ System & Zephyr Topology:**
-  - **Qubit & Coupler Density:** Built on the 20-way **Zephyr™** qubit interconnect topology, offering 4,400+ active qubits and 48,000+ tunable couplers in production configurations.
+- **Advantage™ System (GA September 2020):** Built for production commercial use featuring **5,000+ flux qubits** with 15-way **Pegasus™** connectivity (2.5x higher connectivity than Chimera graph), received major performance update in October 2021 for higher precision and lower noise.
+- **Advantage2™ System & Zephyr Topology (Unveiled 2021 Clarity Roadmap):**
+  - **Qubit & Coupler Density:** Built on the 20-way **Zephyr™** qubit interconnect topology, offering 7,000+ qubits and 48,000+ tunable couplers in production configurations.
   - **Coherence & Performance:** 2x increase in energy scale, 40% reduction in thermal noise, and improved magnetic shielding delivering up to 10x speedup on complex, highly connected hard optimization problems.
   - **Multi-Chip Scalability:** Roadmap targeting 100,000+ flux qubits via multi-chip 3D integrated superconducting packaging and cryogenic control electronics.
 
@@ -36,25 +37,26 @@
 
 ---
 
-## 4. Hybrid Cloud Infrastructure (Leap, Leap 2 & Qiskit Interoperability)
-- **Leap™ & Leap 2 Quantum Cloud Service:** Launched in October 2018 and expanded in February 2020 with **Leap 2**, providing real-time cloud access to QPUs and hybrid quantum-classical solvers supporting 10,000+ variable problems.
+## 4. Hybrid Cloud Infrastructure (Leap, Leap 2 & CQM Solver)
+- **Leap™ & Leap 2 Quantum Cloud Service:** Launched in October 2018, expanded in February 2020 with Leap 2, and expanded internationally to Singapore in February 2021.
+- **Constrained Quadratic Model (CQM) Solver (October 2021):** Breakthrough hybrid solver engine enabling developers to formulate and solve complex optimization problems with explicit constraints across integer and continuous variables.
 - **European Leap Node (JUNIQ / Jülich):** European research hub hosting D-Wave Leap quantum cloud access for European research institutions and industrial partners.
-- **Cross-System Interoperability (Qiskit Compilation):** Released tools in December 2020 enabling IBM Qiskit software developers to compile, format, and execute optimization routines directly on D-Wave Advantage QPUs.
-- **Ocean™ Software Development Kit & D-Wave Hybrid:** Open-source Python software suite (`dwave-ocean-sdk`) enabling developers to translate real-world optimization problems into QUBO and CQM formulations.
+- **Cross-System Interoperability (Qiskit Compilation):** Released tools enabling IBM Qiskit software developers to compile, format, and execute optimization routines directly on D-Wave Advantage QPUs.
 
 ---
 
 ## 5. Federal, National Laboratory & Enterprise Applications
-- **COVID-19 Global Research Initiative (March 2020):** Provided free Leap quantum cloud access and technical support to researchers worldwide for COVID-19 logistics, mutation modeling, and drug candidate discovery.
-- **NEC Corporation (Japan):** $10 Million equity investment and joint commercial alliance announced June 2020 to co-develop hybrid quantum/supercomputing algorithms for Japanese enterprise markets.
-- **Los Alamos National Laboratory (LANL):** Upgraded on-premise system to D-Wave 2000Q in 2019 and contracted for Advantage QPU on-premises installation for nuclear physics and stockpile stewardship.
+- **SPAC Business Combination (Churchill Capital Corp X, Dec 2021):** $1.6 Billion transaction agreement establishing D-Wave as a public company on NYSE (`QBTS`).
+- **COVID-19 Global Research Initiative:** Free Leap quantum cloud access and technical support to researchers worldwide for COVID-19 logistics, mutation modeling, and drug candidate discovery.
+- **NEC Corporation (Japan):** $10 Million equity investment and joint commercial alliance announced 2020 to co-develop hybrid quantum/supercomputing algorithms for Japanese enterprise markets.
+- **Los Alamos National Laboratory (LANL):** On-premises deployment of D-Wave quantum annealing systems for materials science research, stockpile hydrodynamics simulation, and complex graph partitioning.
 - **Forschungszentrum Jülich (JUNIQ, Germany):** European research node hosting Leap cloud services.
 - **Volkswagen Group (Web Summit 2018 & Engadget Coverage):** Real-time quantum traffic management system ([*Engadget Coverage*](https://www.dwavequantum.com/company/newsroom/media-coverage/engadget-volkswagen-wants-to-use-quantum-computers-to-optimize-traffic/)) routing 10,000+ public transit and taxi vehicles simultaneously via Leap.
 - **Oak Ridge National Laboratory (ORNL) & NREL ARIES:** Coupling D-Wave quantum annealing with megawatt-scale power grid simulators for real-time electric vehicle charging and grid dispatch optimization.
 
 ---
 
-## 6. Complete Chronological Press & Reference Index (`?y=2018`, `?y=2019` & `?y=2020` Archive Focus)
+## 6. Complete Chronological Press & Reference Index (`?y=2018`, `?y=2019`, `?y=2020` & `?y=2021` Archive Focus)
 
 | Date | Article Title & Reference Link | Category / Topic | Primary Technical Focus |
 | :--- | :--- | :--- | :--- |
@@ -77,6 +79,12 @@
 | **2020-06-17** | [NEC and D-Wave Announce Strategic Partnership and $10 Million Investment](https://www.dwavequantum.com/company/newsroom/press-release/nec-dwave-strategic-partnership-investment/) | Strategic Investment | $10M equity investment and commercial alliance with NEC Corporation for Japanese enterprise markets. |
 | **2020-09-29** | [D-Wave Announces General Availability of 5,000-Qubit Advantage Quantum System](https://www.dwavequantum.com/company/newsroom/press-release/d-wave-announces-general-availability-of-advantage-system/) | Hardware GA | Commercial GA release of Advantage QPU with 5,000+ flux qubits and Pegasus 15-way topology. |
 | **2020-12-08** | [D-Wave Enables Cross-System Interoperability Between Qiskit and Advantage System](https://www.dwavequantum.com/company/newsroom/press-release/d-wave-enables-qiskit-cross-system-interoperability/) | Interoperability | Open-source tools enabling IBM Qiskit users to compile and run optimization routines on D-Wave Advantage. |
+| **2021-02-18** | [D-Wave Expands Leap Quantum Cloud Access to Singapore](https://www.dwavequantum.com/company/newsroom/press-release/d-wave-expands-leap-cloud-access-singapore/) | Global Cloud Expansion | Regional Leap quantum cloud access expansion for developers and enterprise customers in Singapore. |
+| **2021-05-18** | [D-Wave Announces Launch Program Expansion for Commercial Enterprise Quantum Adoption](https://www.dwavequantum.com/company/newsroom/press-release/d-wave-launch-program-expansion/) | Professional Services | Expansion of D-Wave Launch onboarding program for enterprise quantum optimization deployment. |
+| **2021-10-05** | [D-Wave Unveils Clarity Product Roadmap & Next-Generation Advantage2 Architecture](https://www.dwavequantum.com/company/newsroom/press-release/d-wave-unveils-clarity-roadmap/) | Strategy Roadmap | Clarity product roadmap unveiling Advantage2 system with 7,000+ qubits and 20-way Zephyr topology. |
+| **2021-10-05** | [D-Wave Introduces Constrained Quadratic Model (CQM) Hybrid Solver in Leap](https://www.dwavequantum.com/company/newsroom/press-release/d-wave-introduces-cqm-solver-leap/) | Hybrid Solvers | Breakthrough CQM solver engine handling constrained optimization with integer and continuous variables. |
+| **2021-10-05** | [D-Wave Releases Performance Update for 5,000+ Qubit Advantage Quantum System](https://www.dwavequantum.com/company/newsroom/press-release/d-wave-advantage-performance-update/) | Hardware Update | Performance upgrade for Advantage QPU delivering higher precision, lower noise, and enhanced speed. |
+| **2021-12-08** | [D-Wave Announces Definitive Merger Agreement with Churchill Capital Corp X to Go Public](https://www.dwavequantum.com/company/newsroom/press-release/d-wave-announces-merger-churchill-capital-corp-x/) | Corporate / SPAC Merger | Business combination agreement valued at ~$1.6B to list D-Wave publicly on NYSE under ticker QBTS. |
 
 ---
 
@@ -84,6 +92,7 @@
 1. **D-Wave Quantum Official Site**. [D-Wave 2018 Newsroom & Press Releases](https://www.dwavequantum.com/company/newsroom/?y=2018).
 2. **D-Wave Quantum Official Site**. [D-Wave 2019 Newsroom & Press Releases](https://www.dwavequantum.com/company/newsroom/?y=2019).
 3. **D-Wave Quantum Official Site**. [D-Wave 2020 Newsroom & Press Releases](https://www.dwavequantum.com/company/newsroom/?y=2020).
-4. **Nature Journal**. [Observation of topological phenomena in a programmable lattice of 1,800 qubits](https://www.nature.com/articles/s41586-018-0410-x). Nature 560, 456–460 (2018).
-5. **Science Journal**. [Phase transitions in a programmable 3D spin glass simulator](https://www.science.org/journal/science). Science (2018).
-6. **D-Wave Quantum Dedicated Child Paper**. [D-Wave Quantum Technical Architecture & Reference Index](https://github.com/donutloop/donutloop-genesis/blob/main/chhild_papers/d-wave.md). GitHub Open-Source Technical Documentation, 2026.
+4. **D-Wave Quantum Official Site**. [D-Wave 2021 Newsroom & Press Releases](https://www.dwavequantum.com/company/newsroom/?y=2021).
+5. **Nature Journal**. [Observation of topological phenomena in a programmable lattice of 1,800 qubits](https://www.nature.com/articles/s41586-018-0410-x). Nature 560, 456–460 (2018).
+6. **Science Journal**. [Phase transitions in a programmable 3D spin glass simulator](https://www.science.org/journal/science). Science (2018).
+7. **D-Wave Quantum Dedicated Child Paper**. [D-Wave Quantum Technical Architecture & Reference Index](https://github.com/donutloop/donutloop-genesis/blob/main/chhild_papers/d-wave.md). GitHub Open-Source Technical Documentation, 2026.
