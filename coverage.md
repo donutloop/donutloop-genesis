@@ -63,7 +63,7 @@
 | 31 | [D-Wave](https://www.dwavesys.com/) | ✅ Full Profile | §2.2, §3.1 | $100M; annealing + gate-model superconducting |
 | 32 | [Diraq](https://www.diraq.com/) | ✅ Full Profile | §2.2, §3.1 | $38M LOI; silicon spin CMOS quantum dot |
 | 33 | [GlobalFoundries](https://gf.com/) | ✅ Full Profile | §2.2, §3.1 | $375M; GF Labs; GlobalShuttle™ MPW; silicon photonics |
-| 34 | [Infleqtion](https://www.infleqtion.com/) | ✅ Full Profile | §2.2, §3.1 | $100M LOI; 3 DOE awards; Sqale; Tiqker; Superstaq |
+| 34 | [Infleqtion](https://www.infleqtion.com/) | ✅ Full Profile | §2.2, §3.1 | About portal (infleqtion.com/about), $100M LOI, 3 DOE awards, Sqale, Tiqker & Superstaq |
 | 35 | [PsiQuantum](https://psiquantum.com/) | ✅ Full Profile | §2.2, §3.1 | $100M LOI; photonic; PsiFactory; BTO switches |
 | 36 | [Quantinuum](https://www.quantinuum.com/) | ✅ Full Profile | §2.2, §3.1 | $100M LOI; trapped-ion; Monarch Quantum |
 | 37 | [Rigetti Computing](https://www.rigetti.com/) | ✅ Full Profile | §2.2, §3.1 | $100M LOI; Ankaa/Lyra; cryogenic readout; fusion sims |

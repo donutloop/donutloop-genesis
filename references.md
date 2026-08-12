@@ -52,7 +52,7 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
 * [HPE](https://www.hpe.com/)
 * [Hugging Face](https://huggingface.co/)
 * [IBM](https://www.ibm.com/)
-* [Infleqtion](https://www.infleqtion.com/)
+* [Infleqtion](https://www.infleqtion.com/): [Infleqtion — About Us](https://infleqtion.com/about/)
 * [ISO New England](https://www.iso-ne.com/)
 * [Kitware](https://www.kitware.com/)
 * [LILA](https://www.lila.ai/): [Powering American Science: LILA to Join DOE's Genesis Mission](https://www.lila.ai/news/powering-american-science-lila-to-join-does-genesis-mission)
