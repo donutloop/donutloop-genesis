@@ -5,6 +5,16 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.1.5] - 2026-08-12
+
+### Added
+- **Processed Infleqtion Q2 2026 Earnings & Commercialization Reference**: Processed reference link `https://infleqtion.com/infleqtion-reports-record-q2-revenue-raises-2026-outlook-as-quantum-commercialization-accelerates/` (*Infleqtion Reports Record Q2 Revenue, Raises 2026 Outlook as Quantum Commercialization Accelerates* by Infleqtion, Inc.), adding entry to [`references.md`](file:///home/donutloop/Workspace/donutloop-genesis/references.md#L190) Section 2 under Collaborators.
+- **Ecosystem & Master Index Audit**: Registered Master Index Entry `#43` in [`reference_coverage.md`](file:///home/donutloop/Workspace/donutloop-genesis/reference_coverage.md) (updating total metrics to **521 / 521 Processed**, 100% Complete with 503 Web items), renumbered downstream index rows `#44` to `#521`, and updated Infleqtion notes in [`coverage.md`](file:///home/donutloop/Workspace/donutloop-genesis/coverage.md#L66) to highlight record Q2 2026 revenue ($12.6M, +116% YoY, raised $43M FY outlook), 3 DOE Genesis awards, 30 logical qubit roadmap, and IQMP 2027 quantum computer deployment.
+- **Enriched Section 2.2 in English & German Papers**: Integrated Infleqtion's Q2 revenue growth, raised FY26 outlook, Safran optical clock partnership, and IQMP 2027 100-logical-qubit neutral-atom roadmap into Section 2.2 in [`README.md`](file:///home/donutloop/Workspace/donutloop-genesis/README.md#L527) and [`README.de.md`](file:///home/donutloop/Workspace/donutloop-genesis/README.de.md#L523).
+- **Version Bump**: Incremented version string to `3.1.5` across [`README.md`](file:///home/donutloop/Workspace/donutloop-genesis/README.md) and [`README.de.md`](file:///home/donutloop/Workspace/donutloop-genesis/README.de.md).
+
+---
+
 ## [3.1.4] - 2026-08-12
 
 ### Added

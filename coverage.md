@@ -62,9 +62,9 @@
 | 30 | [Atom Computing](https://atom-computing.com/) | ✅ Full Profile | §2.2, §3.1 | About portal (atom-computing.com/about-us), $100M LOI, neutral-atom & NREL grid co-sim |
 | 31 | [D-Wave](https://www.dwavesys.com/) | ✅ Full Profile | §2.2, §3.1 | About portal (dwavequantum.com/company/about-d-wave), $100M LOI, annealing + gate-model superconducting |
 | 32 | [Diraq](https://www.diraq.com/) | ✅ Full Profile | §2.2, §3.1 | About portal (diraq.com/about), $38M LOI & silicon spin CMOS quantum dot |
-| 33 | [GlobalFoundries](https://gf.com/) | ✅ Full Profile | §2.2, §3.1 | Portal (gf.com/technologies/quantum-technology), $375M, GF Labs, GlobalShuttle™ MPW & silicon photonics |
-| 34 | [Infleqtion](https://www.infleqtion.com/) | ✅ Full Profile | §2.2, §3.1 | About portal (infleqtion.com/about), $100M LOI, 3 DOE awards, Sqale, Tiqker & Superstaq |
-| 35 | [PsiQuantum](https://psiquantum.com/) | ✅ Full Profile | §2.2, §3.1 | About portal (psiquantum.com/about), $100M LOI, photonic, PsiFactory & BTO switches |
+| 33 | [IBM Quantum](https://www.ibm.com/quantum) | ✅ Full Profile | §2.2, §3.1 | About portal (ibm.com/quantum), System Two, Heron QPU, Qiskit & ORNL-Cleveland Clinic fusion materials |
+| 34 | [Infleqtion](https://www.infleqtion.com/) | ✅ Full Profile | §2.2, §3.1 | Record Q2 2026 revenue ($12.6M, +116% YoY, raised $43M FY outlook), $100M DOC LOI, 3 DOE Genesis awards, IQMP 2027 deployment & 30 logical qubits |
+| 35 | [Intel](https://www.intel.com/) | ✅ Full Profile | §2.2, §3.1 | About portal (intel.com/newsroom), Tunnel Falls spin qubit & ArchEvolve agentic chip co-design |
 | 36 | [Quantinuum](https://www.quantinuum.com/) | ✅ Full Profile | §2.2, §3.1 | About portal (quantinuum.com/company/about), $100M LOI, trapped-ion QCCD & Monarch Quantum |
 | 37 | [Rigetti Computing](https://www.rigetti.com/) | ✅ Full Profile | §2.2, §3.1 | About portal (rigetti.com/about-rigetti-computing), $100M LOI, Ankaa/Lyra, cryogenic readout & fusion sims |
 
