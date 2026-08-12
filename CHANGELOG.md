@@ -5,6 +5,16 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.0.63] - 2026-08-12
+
+### Added
+- **Processed Genesis Mission Platform Demo Video Reference**: Processed reference link `https://youtu.be/D-uYWkkQgm4` (*Genesis Mission Platform Demo—Genesis Mission Summit 2026*), adding entry to [`references.md`](file:///home/donutloop/Workspace/donutloop-genesis/references.md#L556) Section 6 under Additional Event Materials & Reference Links.
+- **Master Index Audit**: Registered Master Index Entry `#474` in [`reference_coverage.md`](file:///home/donutloop/Workspace/donutloop-genesis/reference_coverage.md) (updating total metrics to **486 / 486 Processed**, 100% Complete across 225 unique target domains with 469 Web/News items), renumbered downstream index rows `#475` to `#486`, and updated DOE notes in [`coverage.md`](file:///home/donutloop/Workspace/donutloop-genesis/coverage.md#L137).
+- **Enriched Section 3.4 in English & German Papers**: Integrated official Genesis Mission Summit 2026 platform demonstration video detailing the American Science and Security Platform (AmSC) capabilities, federated multi-lab data architectures, and hybrid cloud-hpc workflows in [`README.md`](file:///home/donutloop/Workspace/donutloop-genesis/README.md#L706) and [`README.de.md`](file:///home/donutloop/Workspace/donutloop-genesis/README.de.md#L699).
+- **Version Bump**: Incremented version string to `3.0.63` across [`README.md`](file:///home/donutloop/Workspace/donutloop-genesis/README.md) and [`README.de.md`](file:///home/donutloop/Workspace/donutloop-genesis/README.de.md).
+
+---
+
 ## [3.0.62] - 2026-08-12
 
 ### Added

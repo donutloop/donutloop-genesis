@@ -553,6 +553,7 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
 * **U.S. Department of Energy (DOE):** [The Genesis Mission Official Executive Video](https://youtu.be/Jon_mN4_yzM)
 * **Genesis Mission Summit 2026:** [Closing Remarks from Deputy Secretary James Danly](https://youtu.be/AO5ELxVOcYM)
 * **Genesis Mission Summit 2026:** [Ambassador Yamada Fireside Chat](https://youtu.be/drGt8WuHvnY)
+* **Genesis Mission Summit 2026:** [Genesis Mission Platform Demo](https://youtu.be/D-uYWkkQgm4)
 
 ## 7. Technical Documents, RFA Guidance & Official Webinars
 * [U.S. Department of Energy: Genesis Mission RFI Analysis (PDF)](https://www.energy.gov/sites/default/files/2026-07/Genesis-Mission-RFI-Analysis.pdf)
