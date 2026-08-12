@@ -51,7 +51,7 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
 * [Groq](https://groq.com/): [Groq Partners with U.S. Department of Energy to Advance AI Inference and Next-Generation Computing Infrastructure](https://groq.com/newsroom/groq-partners-with-us-department-of-energy-to-advance-ai-inference-and-next-generation-computing-infrastructure)
 * [HPE](https://www.hpe.com/)
 * [Hugging Face](https://huggingface.co/)
-* [IBM](https://www.ibm.com/)
+* [IBM](https://www.ibm.com/): [IBM Quantum Portal](https://www.ibm.com/quantum)
 * [Infleqtion](https://www.infleqtion.com/): [Infleqtion — About Us](https://infleqtion.com/about/)
 * [ISO New England](https://www.iso-ne.com/)
 * [Kitware](https://www.kitware.com/)
