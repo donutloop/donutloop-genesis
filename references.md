@@ -40,7 +40,7 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
 * [Critical Materials Recycling](https://www.cmrecycling.com/)
 * [Dell Technologies](https://www.dell.com/)
 * [Diraq](https://diraq.com/)
-* [D-Wave](https://www.dwavesys.com/)
+* [D-Wave](https://www.dwavesys.com/): [D-Wave Quantum — About Us](https://www.dwavequantum.com/company/about-d-wave/)
 * [Emerald Cloud Lab](https://www.emeraldcloudlab.com/)
 * [EPRI](https://www.epri.com/)
 * [Esri](https://www.esri.com/)
