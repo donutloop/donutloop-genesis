@@ -5,6 +5,14 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.0.89] - 2026-08-12
+
+### Added
+- **Updated Appendix A.6 Video Materials & Multimedia Coverage Table**: Added DOE ANL Autonomous Materials Discovery video reference link `https://www.youtube.com/watch?v=AvLHUgHujlg` (*The Genesis Mission: AI and Autonomous Experiments in Materials Discovery*) to the Appendix A.6 multimedia coverage tables in [`README.md`](file:///home/donutloop/Workspace/donutloop-genesis/README.md#L1081) and [`README.de.md`](file:///home/donutloop/Workspace/donutloop-genesis/README.de.md#L1046).
+- **Version Bump**: Incremented version string to `3.0.89` across [`README.md`](file:///home/donutloop/Workspace/donutloop-genesis/README.md) and [`README.de.md`](file:///home/donutloop/Workspace/donutloop-genesis/README.de.md).
+
+---
+
 ## [3.0.88] - 2026-08-12
 
 ### Added
