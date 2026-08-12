@@ -5,6 +5,14 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.4.9] - 2026-08-13
+
+### Corrected & Translated
+- **Full D-Wave Quantum German Child Paper Translation**: Completed 100% full German translation of [`child_papers/d-wave.de.md`](./child_papers/d-wave.de.md) matching [`child_papers/d-wave.md`](./child_papers/d-wave.md), fully translating all 6 technical sections, dual-platform hardware strategy (Advantage™ & Advantage2™ annealing with 20-way Zephyr™ topology, dual-rail flux qubit gate-model architecture), Leap™ quantum cloud & CQM solvers, CHIPS Act LOI ($100M), DOE Genesis Mission & national laboratory deployments (LANL, ORNL, NREL ARIES), enterprise partnerships (Mastercard, Nasdaq Verafin, Davidson Tech, Volkswagen, Pattison Food Group), and all 57 chronological press & reference index links from 2018 through 2026.
+- **Patch Version Release**: Incremented version string to `3.4.9` across [`README.md`](./README.md) and [`README.de.md`](./README.de.md).
+
+---
+
 ## [3.4.8] - 2026-08-13
 
 ### Corrected & Translated
