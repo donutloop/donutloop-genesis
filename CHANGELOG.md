@@ -5,6 +5,16 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.0.96] - 2026-08-12
+
+### Added
+- **Processed ANL Self-Driving Discovery of MXene Memristors Document Reference**: Processed reference link `https://anl.app.box.com/s/fcspkkrc8cu5xly9r6efm48xq0wppv3h` (*Self-Driving Discovery of MXene Memristors* by Wyatt et al., Argonne National Laboratory Document Hub), adding entry to [`references.md`](file:///home/donutloop/Workspace/donutloop-genesis/references.md#L298) Section 5 under National Labs (ANL).
+- **Master Index Audit**: Registered Master Index Entry `#268` in [`reference_coverage.md`](file:///home/donutloop/Workspace/donutloop-genesis/reference_coverage.md) (updating total metrics to **515 / 515 Processed**, 100% Complete across 227 unique target domains with 498 Web/News items), renumbered downstream index rows `#269` to `#515`, and updated ANL notes in [`coverage.md`](file:///home/donutloop/Workspace/donutloop-genesis/coverage.md#L154).
+- **Enriched Section 3.2 in English & German Papers**: Integrated ANL Self-Driving Discovery of MXene Memristors document link into Section 3.2 in [`README.md`](file:///home/donutloop/Workspace/donutloop-genesis/README.md#L581) and [`README.de.md`](file:///home/donutloop/Workspace/donutloop-genesis/README.de.md#L577).
+- **Version Bump**: Incremented version string to `3.0.96` across [`README.md`](file:///home/donutloop/Workspace/donutloop-genesis/README.md) and [`README.de.md`](file:///home/donutloop/Workspace/donutloop-genesis/README.de.md).
+
+---
+
 ## [3.0.95] - 2026-08-12
 
 ### Added

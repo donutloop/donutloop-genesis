@@ -295,6 +295,7 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
   * [AI-Enabled Digital Twins for Commercializing Fuel Recycling and Securing Advanced Reactor Fuel Supply Chains](https://www.anl.gov/genesis-mission/projects/ai-enabled-digital-twins-for-commercializing-fuel-recycling-and-securing-advanced-reactor-fuel-supply-chains)
   * [Physics-Informed Machine Learning of Cloud Microphysics for High-Resolution Earth System Modeling](https://www.anl.gov/genesis-mission/projects/physics-Informed-machine-learning-of-cloud-microphysics-for-high-resolution-earth-system-modeling-with-observationally-constrained-online-training)
   * [AI-Enabled Optimization of Quantum Circuit Design for Realistic Nuclear Problems](https://www.anl.gov/genesis-mission/projects/ai-enabled-optimization-of-quantum-circuit-design-for-realistic-nuclear-problems)
+  * [Self-Driving Discovery of MXene Memristors (Wyatt et al., ANL Document Hub)](https://anl.app.box.com/s/fcspkkrc8cu5xly9r6efm48xq0wppv3h)
   * [Argonne National Laboratory: Genesis Open Models Platform & Scientific Model Repository](https://genesisopenmodels.anl.gov/)
   * [Argonne National Laboratory: Genesis Open Models — About Genesis-Science-1 (GS1)](https://genesisopenmodels.anl.gov/about-gs1/)
   * [GridMind: Powering the Control Room of the Future with AI Agents](https://www.anl.gov/article/gridmind-powering-the-control-room-of-the-future-with-ai-agents)
