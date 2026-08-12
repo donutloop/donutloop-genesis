@@ -134,7 +134,7 @@
 | # | Agency | Coverage | Paper Section | Notes |
 |---|--------|----------|---------------|-------|
 | 76 | [White House OSTP](https://www.whitehouse.gov/ostp/) | ✅ Full Profile | §1, §3.4, A.1 | Executive direction, National S&T Challenge coordination & interagency AI/quantum policy |
-| 77 | [U.S. Department of Energy (DOE) — Office of Science](https://www.energy.gov/science/) | ✅ Full Profile | §1, §2, §3.4, §4, A.1 | Lead funding authority (DE-FOA-0003612), 100k AI workforce RFI, 26 S&T Challenges & exascale lab lead |
+| 77 | [U.S. Department of Energy (DOE) — Office of Science](https://www.energy.gov/science/) | ✅ Full Profile | §1, §2, §3.4, §4, A.1 | Lead funding authority (DE-FOA-0003612), official executive video release, 100k AI workforce RFI, 26 S&T Challenges & exascale lab lead |
 | 78 | [U.S. Department of Commerce — NIST / CHIPS R&D](https://www.nist.gov/) | ✅ Full Profile | §1, §2.2, §3.4, A.1 | CHIPS Act LOI execution, $2B quantum semiconductor incentives & NIST measurement standards |
 | 79 | [National Science Foundation (NSF)](https://www.nsf.gov/) | ✅ Full Profile | §1, §2.1, §3.4, A.1 | $100M State & Regional AI Hubs (NSF 26-513), NSB Next Gen NSF & Genesis Mission partnership, NAIRR pilot |
 | 80 | [National Institutes of Health (NIH) / HHS](https://www.nih.gov/) | ✅ Full Profile | §1, §3.4, A.1 | Bio Genesis Mission co-lead, biomedical AI, structural biology foundation models & therapeutic screening |
