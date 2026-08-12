@@ -5,6 +5,14 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.4.8] - 2026-08-13
+
+### Corrected & Translated
+- **Full Diraq German Child Paper Translation**: Completed 100% full German translation of [`child_papers/diraq.de.md`](./child_papers/diraq.de.md) matching [`child_papers/diraq.md`](./child_papers/diraq.md), fully translating all 6 technical sections, CMOS silicon quantum dot spin qubit architecture, 300mm industrial foundry pilot line manufacturing with Imec, FinFET/FDSOI transistor gate re-purposing, isotopically purified $^{28}\text{Si}$ substrates, electric dipole spin resonance (EDSR), >1 Kelvin high-temperature qubit operation, 1-billion qubit scaling target, U.S. CHIPS Act LOI ($38M USD) & Australian NRFC investment ($20M AUD), and all 73 chronological newsdesk reference links across 4 offset pages down to January 14, 2023.
+- **Patch Version Release**: Incremented version string to `3.4.8` across [`README.md`](./README.md) and [`README.de.md`](./README.de.md).
+
+---
+
 ## [3.4.7] - 2026-08-13
 
 ### Corrected & Translated
