@@ -134,7 +134,7 @@
 | # | Agency | Coverage | Paper Section | Notes |
 |---|--------|----------|---------------|-------|
 | 76 | [White House OSTP](https://www.whitehouse.gov/ostp/) | ✅ Full Profile | §1, §3.4, A.1 | Executive direction, National S&T Challenge coordination & interagency AI/quantum policy |
-| 77 | [U.S. Department of Energy (DOE) — Office of Science](https://www.energy.gov/science/) | ✅ Full Profile | §1, §2, §3.4, §4, A.1 | Lead funding authority (DE-FOA-0003612), exascale lab network lead & national AI-for-science hub |
+| 77 | [U.S. Department of Energy (DOE) — Office of Science](https://www.energy.gov/science/) | ✅ Full Profile | §1, §2, §3.4, §4, A.1 | Lead funding authority (DE-FOA-0003612), 100k AI workforce RFI, 26 S&T Challenges & exascale lab lead |
 | 78 | [U.S. Department of Commerce — NIST / CHIPS R&D](https://www.nist.gov/) | ✅ Full Profile | §1, §2.2, §3.4, A.1 | CHIPS Act LOI execution, $2B quantum semiconductor incentives & NIST measurement standards |
 | 79 | [National Science Foundation (NSF)](https://www.nsf.gov/) | ✅ Full Profile | §1, §2.1, §3.4, A.1 | $100M State & Regional AI Hubs (NSF 26-513), NSB Next Gen NSF & Genesis Mission partnership, NAIRR pilot |
 | 80 | [National Institutes of Health (NIH) / HHS](https://www.nih.gov/) | ✅ Full Profile | §1, §3.4, A.1 | Bio Genesis Mission co-lead, biomedical AI, structural biology foundation models & therapeutic screening |
@@ -228,7 +228,7 @@
 | 154 | [University of Illinois Urbana-Champaign](https://illinois.edu/) | ✅ Full Profile | §3.3, A.5 | Petascale AI model training, open-source model registry platforms & semiconductor PDKs |
 | 155 | [University of Kentucky](https://www.uky.edu/) | ✅ Full Profile | §3.3, A.5 | Coal byproduct mineral extraction (NETL), battery recycling & bio-energy materials |
 | 156 | [University of Maine](https://umaine.edu/) | ✅ Full Profile | §3.3, A.5 | Large-scale bio-composite additive manufacturing & offshore floating wind AI models |
-| 157 | [University of Michigan](https://umich.edu/) | ✅ Full Profile | §3.3, A.5 | 2 Genesis awards: autonomous materials discovery, microelectronics & nuclear engineering |
+| 157 | [University of Michigan](https://umich.edu/) | ✅ Full Profile | §3.3, A.5 | 3 Genesis awards: ArchEvolve agentic AI chip co-design ($750k w/ LANL & Intel), real-time 3D X-ray imaging, materials discovery & nuclear engineering |
 | 158 | [University of Minnesota](https://twin-cities.umn.edu/) | ✅ Full Profile | §3.3, A.5 | Chemical catalysis foundation models, spintronics materials & computational biology |
 | 159 | [University of Missouri](https://missouri.edu/) | ✅ Full Profile | §3.3, A.5 | Radioisotope production accelerators, nuclear medicine R&D & plant phenomics AI |
 | 160 | [University of Nebraska–Lincoln](https://www.unl.edu/) | ✅ Full Profile | §3.3, A.5 | AI-driven "autopilot" co-designer for 6G Radio Access Networks (RAN) |

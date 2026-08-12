@@ -232,6 +232,7 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
 * [DOE Office of Science: Genesis Mission RFA Awards List (PDF)](https://science.osti.gov/-/media/funding/pdf/Awards-Lists/2026/GM-RFA-Awards-List.pdf)
 * [House Committee on Science, Space, and Technology: Ranking Member Ross Opening Statement at Hearing on the Genesis Mission](https://democrats-science.house.gov/news/press-releases/ranking-member-ross-opening-statement-at-hearing-on-the-genesis-mission)
 * DOE Interactive Portal: [Genesis Mission Official Interactive Demonstration Hub](https://www.energy.gov/genesis-mission-demonstration)
+* [U.S. Department of Energy (DOE): Seeks Input on Advancing AI for Science & Engineering Workforce Development and Genesis Mission Challenges](https://www.energy.gov/science/articles/department-energy-seeks-input-advancing-ai-science-and-engineering-workforce)
 * [Domino Data Lab: Domino Joins Genesis Mission Consortium](https://domino.ai/press-releases/genesis-consortium)
 * [NSF: New NSF Initiative Aims to Unlock Dataset Value for AI-Enabled Research](https://www.nsf.gov/news/new-nsf-initiative-aims-unlock-dataset-value-ai-enabled)
 * [NSF: Unlocking Dataset Value for AI-Enabled Scientific Discovery (AI Datasets)](https://www.nsf.gov/funding/opportunities/ai-datasets-unlocking-dataset-value-ai-enabled-scientific-discovery)
@@ -496,6 +497,7 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
   * [Selected for Department of Energy Genesis Mission Initiative](https://news.umich.edu/u-m-selected-for-department-of-energy-genesis-mission-initiative/)
   * [The University Record: U-M Selected for Department of Energy Genesis Mission Initiative](https://record.umich.edu/articles/u-m-selected-for-department-of-energy-genesis-mission-initiative/)
   * [U-M Researchers to Develop AI Tools for Real-Time 3D X-Ray Imaging Under Genesis Mission](https://news.umich.edu/u-m-researchers-to-develop-ai-tools-for-real-time-3d-xray-imaging-under-genesis-mission/)
+  * [U-M Researchers Receive DOE Genesis Mission Award to Advance AI-Driven Chip Design](https://ece.engin.umich.edu/stories/u-m-researchers-receive-doe-genesis-mission-award-to-advance-ai-driven-chip-design)
   * [University of Michigan Office of Research: Genesis Mission Portal](https://research.umich.edu/office-of-national-labs/genesis-mission/)
 * **University of Minnesota:** [Receives DOE Genesis Mission Funding to Advance AI Breakthroughs](https://twin-cities.umn.edu/news-events/university-minnesota-receives-doe-genesis-mission-funding-advance-ai-breakthroughs)
 * **University of Missouri (Mizzou):**
