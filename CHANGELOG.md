@@ -5,6 +5,16 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.0.68] - 2026-08-12
+
+### Added
+- **Processed Princeton Plasma Physics Laboratory (PPPL) About Us Reference**: Processed reference link `https://www.pppl.gov/about-us` (*Princeton Plasma Physics Laboratory (PPPL) — About Us*), adding entry to [`references.md`](file:///home/donutloop/Workspace/donutloop-genesis/references.md#L396) Section 5 under National Labs & University Coverage (PPPL).
+- **Master Index Audit**: Registered Master Index Entry `#344` in [`reference_coverage.md`](file:///home/donutloop/Workspace/donutloop-genesis/reference_coverage.md) (updating total metrics to **489 / 489 Processed**, 100% Complete across 225 unique target domains with 472 Web/News items), renumbered downstream index rows `#345` to `#489`, and updated PPPL notes in [`coverage.md`](file:///home/donutloop/Workspace/donutloop-genesis/coverage.md#L168).
+- **Enriched Section 3.2 in English & German Papers**: Integrated official PPPL About Us organizational portal link under Section 3.2 in [`README.md`](file:///home/donutloop/Workspace/donutloop-genesis/README.md#L644) and [`README.de.md`](file:///home/donutloop/Workspace/donutloop-genesis/README.de.md#L639).
+- **Version Bump**: Incremented version string to `3.0.68` across [`README.md`](file:///home/donutloop/Workspace/donutloop-genesis/README.md) and [`README.de.md`](file:///home/donutloop/Workspace/donutloop-genesis/README.de.md).
+
+---
+
 ## [3.0.67] - 2026-08-12
 
 ### Fixed
