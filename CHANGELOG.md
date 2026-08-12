@@ -5,6 +5,14 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.4.7] - 2026-08-13
+
+### Corrected & Translated
+- **Full Infleqtion German Child Paper Translation**: Completed 100% full German translation of [`child_papers/infleqtion.de.md`](./child_papers/infleqtion.de.md) matching [`child_papers/infleqtion.md`](./child_papers/infleqtion.md), fully translating all 6 technical sections, dual-track portfolio (Hilbert, SqORPIOS, Sqale neutral atom QPUs, Tiqker™ optical atomic clocks, Quantum Spectrum™ Rydberg RF sensing, miniMOT™ platforms, cold-atom gravimeters), Superstaq™ deep-compiler suite, SEC S-4 NYSE public listing (INFQ), DOE Genesis Mission & national laboratory deployments (3 awards: ANL, BNL, LLNL, UK NQCC 100-qubit system), and all 176 chronological newsroom reference links.
+- **Patch Version Release**: Incremented version string to `3.4.7` across [`README.md`](./README.md) and [`README.de.md`](./README.de.md).
+
+---
+
 ## [3.4.6] - 2026-08-13
 
 ### Corrected & Translated
