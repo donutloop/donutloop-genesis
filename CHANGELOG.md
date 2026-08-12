@@ -5,6 +5,16 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.0.70] - 2026-08-12
+
+### Added
+- **Processed DOE Office of Science Genesis Mission FOAs Portal Reference**: Processed reference link `https://science.osti.gov/grants/FOAs/Genesis-Mission` (*DOE Office of Science: Genesis Mission Funding Opportunity Announcements (FOAs) Portal*), adding entry to [`references.md`](file:///home/donutloop/Workspace/donutloop-genesis/references.md#L574) Section 7 under Technical Documents, RFA Guidance & Official Webinars.
+- **Master Index Audit**: Registered Master Index Entry `#490` in [`reference_coverage.md`](file:///home/donutloop/Workspace/donutloop-genesis/reference_coverage.md) (updating total metrics to **491 / 491 Processed**, 100% Complete across 226 unique target domains with 474 Web/News items), renumbered downstream index rows `#491`, and updated DOE notes in [`coverage.md`](file:///home/donutloop/Workspace/donutloop-genesis/coverage.md#L137).
+- **Enriched Section 3.4 in English & German Papers**: Integrated official DOE Office of Science FOAs landing page link `science.osti.gov/grants/FOAs/Genesis-Mission` under Section 3.4 in [`README.md`](file:///home/donutloop/Workspace/donutloop-genesis/README.md#L706) and [`README.de.md`](file:///home/donutloop/Workspace/donutloop-genesis/README.de.md#L699).
+- **Version Bump**: Incremented version string to `3.0.70` across [`README.md`](file:///home/donutloop/Workspace/donutloop-genesis/README.md) and [`README.de.md`](file:///home/donutloop/Workspace/donutloop-genesis/README.de.md).
+
+---
+
 ## [3.0.69] - 2026-08-12
 
 ### Added

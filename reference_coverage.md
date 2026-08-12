@@ -1,7 +1,7 @@
 # Genesis Mission — Master Reference Coverage Report
 
 > **Document Overview:**
-> This report provides a comprehensive coverage analysis, breakdown, and master audit index of all **490 external reference links** compiled within `references.md` for the **Genesis Mission** documentation repository.
+> This report provides a comprehensive coverage analysis, breakdown, and master audit index of all **491 external reference links** compiled within `references.md` for the **Genesis Mission** documentation repository.
 
 ---
 
@@ -9,13 +9,13 @@
 
 | Metric | Count / Value | Description |
 | :--- | :--- | :--- |
-| **Total Reference Links** | **490** | Unique external links indexed across all sections |
+| **Total Reference Links** | **491** | Unique external links indexed across all sections |
 | **Primary Document Sections** | **7** | High-level thematic categories in `references.md` |
 | **Unique Target Domains** | **226** | Distinct domain names referenced (government, lab, corporate, academic, news) |
 | **Official PDF Documents** | **17** | Formal RFA solicitations, webinars, slides, and executive reports |
-| **Web Portals & Press Releases** | **473** | Newsroom features, corporate blog posts, and interactive hubs |
+| **Web Portals & Press Releases** | **474** | Newsroom features, corporate blog posts, and interactive hubs |
 | **Validation Status** | **100% Validated** | All links canonicalized, formatted, and deduplicated |
-| **Processing Status** | **490 / 490 Processed** | 0 Unprocessed, 490 Processed (100% Complete) |
+| **Processing Status** | **491 / 491 Processed** | 0 Unprocessed, 491 Processed (100% Complete) |
 
 ---
 
@@ -563,4 +563,5 @@ A complete tabular listing of all 464 indexed reference links:
 | 487 | 7. Technical Documents, RFA Guidance & Official Overviews | - | U.S. Department of Energy: ModCon — Transformational AI and Data Overview | `www.energy.gov` | Web | [U.S. Department of Energy: ModCon — Transformational AI and Data Overview](https://www.energy.gov/undersecretaryforscience/genesis-mission/modcon-transformational-ai-and-data) | `Processed` |
 | 488 | 7. Technical Documents, RFA Guidance & Official Webinars | - | U.S. Department of Energy: Data Team Fact Sheet | `www.energy.gov` | Web | [U.S. Department of Energy: Data Team Fact Sheet](https://www.energy.gov/documents/data-team-fact-sheet) | `Processed` |
 | 489 | 7. Technical Documents, RFA Guidance & Official Webinars | - | U.S. Department of Defense: Artificial Intelligence Strategy for the Department of War (PDF) | `media.defense.gov` | PDF | [U.S. Department of Defense: Artificial Intelligence Strategy for the Department of War (PDF)](https://media.defense.gov/2026/Jan/12/2003855671/-1/-1/0/ARTIFICIAL-INTELLIGENCE-STRATEGY-FOR-THE-DEPARTMENT-OF-WAR.PDF) | `Processed` |
-| 490 | 7. Technical Documents, RFA Guidance & Official Webinars | - | INL GAIN / ANL: Overview of NE Focus Areas in DOE's Genesis AI Initiative Presentation — Dr. Rick Vilim (PDF) | `gain.inl.gov` | PDF | [INL GAIN / ANL: Overview of NE Focus Areas in DOE's Genesis AI Initiative Presentation — Dr. Rick Vilim (PDF)](https://gain.inl.gov/content/uploads/4/2026/06/05-Overview-of-NE-Focus-Areas-in-DOEs-Genesis-AI-Initiative-Rick-Vilim.pdf) | `Processed` |
+| 490 | 7. Technical Documents, RFA Guidance & Official Webinars | - | DOE Office of Science: Genesis Mission Funding Opportunity Announcements (FOAs) Portal | `science.osti.gov` | Web | [DOE Office of Science: Genesis Mission Funding Opportunity Announcements (FOAs) Portal](https://science.osti.gov/grants/FOAs/Genesis-Mission) | `Processed` |
+| 491 | 7. Technical Documents, RFA Guidance & Official Webinars | - | INL GAIN / ANL: Overview of NE Focus Areas in DOE's Genesis AI Initiative Presentation — Dr. Rick Vilim (PDF) | `gain.inl.gov` | PDF | [INL GAIN / ANL: Overview of NE Focus Areas in DOE's Genesis AI Initiative Presentation — Dr. Rick Vilim (PDF)](https://gain.inl.gov/content/uploads/4/2026/06/05-Overview-of-NE-Focus-Areas-in-DOEs-Genesis-AI-Initiative-Rick-Vilim.pdf) | `Processed` |
