@@ -151,7 +151,7 @@
 | # | Laboratory / Site | Coverage | Paper Section | Notes |
 |---|-----------|----------|---------------|-------|
 | 86 | [Ames National Laboratory](https://www.ameslab.gov/) | ✅ Full Profile | §3.2, A.2 | Critical Materials Institute (CMI) lead, rare earth replacement & high-throughput alloy thermodynamics |
-| 87 | [Argonne National Laboratory (ANL)](https://www.anl.gov/) | ✅ Full Profile | §2.1, §2.3C, §3.2, A.2 | ALCF Solstice/Equinox, Aurora exascale, Genesis Open Models (GS1), Active Learning Nuclear Data Engine (X-Ray Bursts), Superconducting Polychronous Computation, OutLoud AI series, APS-U & Infleqtion QPU hub |
+| 87 | [Argonne National Laboratory (ANL)](https://www.anl.gov/) | ✅ Full Profile | §2.1, §2.3C, §3.2, A.2 | ALCF Solstice/Equinox, Aurora exascale, Genesis Open Models (GS1), CONUS Surface-Groundwater Hydrological AI, Active Learning Nuclear Data Engine, Superconducting Polychronous Computation, OutLoud AI series, APS-U & Infleqtion QPU hub |
 | 88 | [Brookhaven National Laboratory (BNL)](https://www.bnl.gov/) | ✅ Full Profile | §3.2, A.2 | C2QA quantum co-design center lead, NSLS-II synchrotron beamlines & heavy-ion physics AI |
 | 89 | [Fermi National Accelerator Laboratory (Fermilab)](https://www.fnal.gov/) | ✅ Full Profile | §3.2, A.2 | SQMS quantum center lead, SRF 3D cavity qubits & xLight EUV lithography FEL CRADA partner |
 | 90 | [Idaho National Laboratory (INL)](https://inl.gov/) | ✅ Full Profile | §2.3D, §3.1, §3.2, A.2 | Nuclear energy AI, small modular reactor (SMR) digital twins, AWS cloud HPC & autonomous reactor control |
