@@ -15,6 +15,13 @@ The workflow receives an Atom Computing URL parameter supplied via prompt invoca
 
 ## Execution Rules & Pipeline Workflow
 
+### MANDATORY EXHAUSTIVE MULTI-PAGE & API CRAWLING RULE
+- **CRITICAL DIRECTIVE:** NEVER assume that page 1 or initial single-page fetching contains all links.
+- Always check for pagination parameters (`?page=N`, `?offset=TIMESTAMP`), underlying REST APIs (e.g. WordPress `/wp-json/wp/v2/posts?per_page=100`, Squarespace JSON feeds `?format=json`), or paginated Webflow collections.
+- Exhaustively crawl and parse ALL pages until reaching the final historical archive link or specified verification landmark.
+- **ZERO OMISSION RULE:** Retain 100% of all extracted newsroom/press release links in Section 6 (*Complete Chronological Press & Reference Index*) without dropping, omitting, or truncating any link under any circumstances.
+
+
 ### 1. Target Input Check
 - Target URL: `https://atom-computing.com/news-resources/` (and press release archives)
 - Ensure all news items and press releases are exhaustively crawled across all archive pages.
