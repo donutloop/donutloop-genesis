@@ -5,6 +5,16 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.2.1] - 2026-08-13
+
+### Added
+- **Child Papers Header Backlinks**: Added prominent header backlinks ([`← Back to Main Genesis Mission Paper`](./README.md) and [`← Zurück zum Haupt-Papier der Genesis Mission`](./README.de.md)) across all 16 English (`.md`) and German (`.de.md`) child papers in `child_papers/`.
+- **Self-Referential Links Cleanup**: Purged self-referential child paper links from the References & Document Sources sections across all child papers.
+- **Section 2.2 Relative Link Audit**: Verified that all Section 2.2 organization links in [`README.md`](./README.md#L292-L305) and [`README.de.md`](./README.de.md#L290-L305) cleanly point to local child paper files.
+- **Version Bump**: Incremented patch version string to `3.2.1` across [`README.md`](./README.md) and [`README.de.md`](./README.de.md).
+
+---
+
 ## [3.2.0] - 2026-08-13
 
 ### Added
