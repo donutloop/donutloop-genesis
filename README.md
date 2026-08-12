@@ -295,14 +295,14 @@ To provide exhaustive technical depth, hardware specifications, architectural di
 
 | Organization / Quantum Leader | Primary Architecture & Reference Index Scope |
 | :--- | :--- |
-| [**Atom Computing**](file:///home/donutloop/Workspace/donutloop-genesis/child_papers/atom_computing.md) | Ytterbium-171 ($^{171}\text{Yb}$) nuclear spin qubits, 3D optical tweezers (1,180+ qubits), Microsoft Azure Quantum (50 logical qubits), DARPA QBI, and 121 complete newsroom links. |
-| [**Diraq**](file:///home/donutloop/Workspace/donutloop-genesis/child_papers/diraq.md) | Silicon quantum dot spin qubits, 300mm CMOS wafer lines with Imec, cryo-CMOS control, NVIDIA GH200/NVQLink, $38M CHIPS Act LOI, and 73 complete newsroom links across 4 offset pages. |
-| [**D-Wave Quantum**](file:///home/donutloop/Workspace/donutloop-genesis/child_papers/d-wave.md) | Advantage2 flux quantum annealing (5,000+ qubits), dual-rail superconducting flux qubits, Leap hybrid solvers across DOE Labs, $100M CHIPS Act LOI, and focused press index. |
-| [**Infleqtion**](file:///home/donutloop/Workspace/donutloop-genesis/child_papers/infleqtion.md) | Sqale neutral-atom hardware, Tiqker optical atomic clocks, Superstaq compiler, 3 DOE Genesis Mission awards (ANL/BNL/LLNL), $100M CHIPS Act LOI, and 176 complete newsroom links. |
-| [**PsiQuantum**](file:///home/donutloop/Workspace/donutloop-genesis/child_papers/psiquantum.md) | Fusion-Based Quantum Computing (FBQC), 300mm silicon photonics (GlobalFoundries & SkyWater), Active Volume Architecture, A$940M Brisbane + Chicago facilities, and press index. |
-| [**Quantinuum**](file:///home/donutloop/Workspace/donutloop-genesis/child_papers/quantinuum.md) | Trapped-ion QCCD processors (System H1/H2, Helios), 48 logical qubits with Microsoft, TKET / InQuanto software, $100M CHIPS Act LOI, and 77 complete newsroom links down to 2021. |
-| [**Rigetti Computing**](file:///home/donutloop/Workspace/donutloop-genesis/child_papers/rigetti.md) | Full-stack superconducting QPUs (Ankaa-3, Novera, Lyra), Fab-1 200mm MEMS foundry, QCS cloud, fusion plasma sims with LLNL, $100M CHIPS Act LOI, and 196 complete newsroom links. |
-| [**xLight**](file:///home/donutloop/Workspace/donutloop-genesis/child_papers/xlight.md) | Free-Electron Laser (FEL) & ERL EUV light sources for sub-2nm lithography, $150M CHIPS Act final award, DOE Genesis CRADA with Fermilab, Pat Gelsinger & Dr. Caulfield leadership, and 10 complete links. |
+| [**Atom Computing**](./child_papers/atom_computing.md) | Ytterbium-171 ($^{171}\text{Yb}$) nuclear spin qubits, 3D optical tweezers (1,180+ qubits), Microsoft Azure Quantum (50 logical qubits), DARPA QBI, and 121 complete newsroom links. |
+| [**Diraq**](./child_papers/diraq.md) | Silicon quantum dot spin qubits, 300mm CMOS wafer lines with Imec, cryo-CMOS control, NVIDIA GH200/NVQLink, $38M CHIPS Act LOI, and 73 complete newsroom links across 4 offset pages. |
+| [**D-Wave Quantum**](./child_papers/d-wave.md) | Advantage2 flux quantum annealing (5,000+ qubits), dual-rail superconducting flux qubits, Leap hybrid solvers across DOE Labs, $100M CHIPS Act LOI, and focused press index. |
+| [**Infleqtion**](./child_papers/infleqtion.md) | Sqale neutral-atom hardware, Tiqker optical atomic clocks, Superstaq compiler, 3 DOE Genesis Mission awards (ANL/BNL/LLNL), $100M CHIPS Act LOI, and 176 complete newsroom links. |
+| [**PsiQuantum**](./child_papers/psiquantum.md) | Fusion-Based Quantum Computing (FBQC), 300mm silicon photonics (GlobalFoundries & SkyWater), Active Volume Architecture, A$940M Brisbane + Chicago facilities, and press index. |
+| [**Quantinuum**](./child_papers/quantinuum.md) | Trapped-ion QCCD processors (System H1/H2, Helios), 48 logical qubits with Microsoft, TKET / InQuanto software, $100M CHIPS Act LOI, and 77 complete newsroom links down to 2021. |
+| [**Rigetti Computing**](./child_papers/rigetti.md) | Full-stack superconducting QPUs (Ankaa-3, Novera, Lyra), Fab-1 200mm MEMS foundry, QCS cloud, fusion plasma sims with LLNL, $100M CHIPS Act LOI, and 196 complete newsroom links. |
+| [**xLight**](./child_papers/xlight.md) | Free-Electron Laser (FEL) & ERL EUV light sources for sub-2nm lithography, $150M CHIPS Act final award, DOE Genesis CRADA with Fermilab, Pat Gelsinger & Dr. Caulfield leadership, and 10 complete links. |
 
 Key modality highlights across quantum commitments include:
 
