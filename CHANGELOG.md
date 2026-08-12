@@ -5,6 +5,16 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.1.0] - 2026-08-12
+
+### Added
+- **Processed DOE Office of AI and Quantum (AIQ) Congressional Justification Reference**: Processed reference link `https://www.energy.gov/documents/doe-fy-2027-volume-4-aiq` (*Office of Artificial Intelligence and Quantum (AIQ) Congressional Justification - FY 2027 Volume 4* by U.S. Department of Energy), adding entry to [`references.md`](file:///home/donutloop/Workspace/donutloop-genesis/references.md#L141) Section 4 under Executive, Federal & Partner Announcements.
+- **Master Index Audit**: Registered Master Index Entry `#137` in [`reference_coverage.md`](file:///home/donutloop/Workspace/donutloop-genesis/reference_coverage.md) (updating total metrics to **516 / 516 Processed**, 100% Complete across 227 unique target domains with 18 PDF documents), renumbered downstream index rows `#138` to `#516`, and updated DOE notes in [`coverage.md`](file:///home/donutloop/Workspace/donutloop-genesis/coverage.md#L137).
+- **Enriched Section 1.1 in English & German Papers**: Integrated DOE FY 2027 $1.2B AIQ Congressional Justification mandate for Genesis Mission delivery, AI supercomputing deployments at ANL and ORNL, and quantum computing competitions into Section 1.1 in [`README.md`](file:///home/donutloop/Workspace/donutloop-genesis/README.md#L73) and [`README.de.md`](file:///home/donutloop/Workspace/donutloop-genesis/README.de.md#L71).
+- **Version Bump**: Incremented version string to `3.1.0` across [`README.md`](file:///home/donutloop/Workspace/donutloop-genesis/README.md) and [`README.de.md`](file:///home/donutloop/Workspace/donutloop-genesis/README.de.md).
+
+---
+
 ## [3.0.96] - 2026-08-12
 
 ### Added
