@@ -1,7 +1,7 @@
 # D-Wave Quantum — Technical Architecture, Quantum Systems, and Ecosystem Reference Index
 
 > **Child Paper Overview:**
-> This document serves as the dedicated deep-dive technical paper and curated reference index for **D-Wave Quantum Inc.** (NYSE: QBTS), detailing its dual-platform quantum hardware development (commercial flux quantum annealing and gate-model superconducting architectures), hybrid cloud infrastructure (Leap & Ocean SDK), federal and DOE National Laboratory collaborations under the **Genesis Mission**, and a focused 2018 chronological press and reference index (`https://www.dwavequantum.com/company/newsroom/?y=2018`) managed strictly within `chhild_papers/`.
+> This document serves as the dedicated deep-dive technical paper and curated reference index for **D-Wave Quantum Inc.** (NYSE: QBTS), detailing its dual-platform quantum hardware development (commercial flux quantum annealing and gate-model superconducting architectures), hybrid cloud infrastructure (Leap & Ocean SDK), federal and DOE National Laboratory collaborations under the **Genesis Mission**, and a focused 2018–2019 chronological press and reference index (`https://www.dwavequantum.com/company/newsroom/?y=2018` & `?y=2019`) managed strictly within `chhild_papers/`.
 
 ---
 
@@ -10,18 +10,16 @@
   1. **Commercial Quantum Annealing:** Production-grade flux-qubit quantum annealing systems optimized for complex combinatorial optimization, materials simulation, machine learning, and supply chain scheduling.
   2. **Gate-Model Superconducting Architecture:** High-coherence flux-qubit gate-model quantum processors targeting fault-tolerant utility-scale quantum computing with a roadmap toward 100 logical qubits by 2032.
 - **CHIPS and Science Act LOI:** D-Wave entered into a **$100 Million** Letter of Intent (LOI) with the U.S. Department of Commerce under the CHIPS and Science Act to scale domestic quantum hardware manufacturing and packaging across facilities in California, Colorado, and Florida.
-- **2018 Breakthrough Year (`?y=2018` Archive Focus):**
-  - **Commercial Traction:** Surpassed $80 Million in global customer contracts across Japan, Europe, and North America.
-  - **Peer-Reviewed Scientific Breakthroughs:** Published groundbreaking quantum material simulations in *Science* (3D spin glass phase transitions) and *Nature* (1,800-qubit Kosterlitz-Thouless topological phase transition).
-  - **Leap™ Quantum Cloud Launch:** Officially launched **Leap™**, providing real-time cloud QPU access and the open-source **Ocean SDK**.
-  - **Industrial Deployment:** Partnered with Volkswagen for quantum traffic flow optimization at Web Summit 2018 and released **D-Wave Hybrid** for developer application building.
+- **2018–2019 Expansion Years (`?y=2018` & `?y=2019` Archive Focus):**
+  - **2018 Breakthroughs:** Surpassed $80 Million in customer contracts, published milestone quantum simulations in *Science* (spin glass phase transitions) and *Nature* (1,800-qubit Kosterlitz-Thouless topological phase transition), launched **Leap™** quantum cloud, and partnered with Volkswagen for Web Summit traffic management.
+  - **2019 Milestones:** Officially named the **Advantage™** system with 15-way **Pegasus™** topology (5,000+ qubits), signed LANL as first on-premises Advantage customer, established European Leap cloud node at Forschungszentrum Jülich (JUNIQ), signed milestone commercial contract with Sigma-i, and established strategic commercial partnership with NEC Corporation.
 - **Genesis Mission & Federal Integration:** Integrates hybrid classical-quantum cloud solvers via **Leap** across DOE National Laboratories (LANL, ORNL, NREL ARIES) for real-time power grid dispatch optimization, materials discovery, and nuclear deterrence simulation.
 
 ---
 
 ## 2. Quantum Annealing Hardware (Advantage & Advantage2 Systems)
-- **D-Wave 2000Q & 1,800-Qubit Lattice:** 2,000 flux qubits with 6-way Chimera connectivity, utilized for 2018 *Science* and *Nature* topological quantum material simulation breakthroughs.
-- **Advantage™ System & Pegasus Topology:** 5,000+ flux qubits with Pegasus 15-way connectivity (2.5x higher connectivity than Chimera), enabling complex graph embedding and multi-variable optimization.
+- **D-Wave 2000Q & 1,800-Qubit Lattice:** 2,000 flux qubits with 6-way Chimera connectivity, upgraded at LANL in March 2019 and utilized for 2018 *Science* and *Nature* topological quantum material simulation breakthroughs.
+- **Advantage™ System & Pegasus Topology:** Unveiled in 2019 featuring 5,000+ flux qubits with Pegasus 15-way connectivity (2.5x higher connectivity than Chimera graph), enabling complex graph embedding and multi-variable enterprise optimization.
 - **Advantage2™ System & Zephyr Topology:**
   - **Qubit & Coupler Density:** Built on the 20-way **Zephyr™** qubit interconnect topology, offering 4,400+ active qubits and 48,000+ tunable couplers in production configurations.
   - **Coherence & Performance:** 2x increase in energy scale, 40% reduction in thermal noise, and improved magnetic shielding delivering up to 10x speedup on complex, highly connected hard optimization problems.
@@ -38,22 +36,24 @@
 ---
 
 ## 4. Hybrid Cloud Infrastructure (Leap & Ocean SDK)
-- **Leap™ Quantum Cloud Service:** Launched in 2018 to provide real-time, high-availability cloud access to D-Wave quantum processing units (QPUs) and hybrid quantum-classical solvers with >99.9% uptime.
-- **Ocean™ Software Development Kit:** Open-source Python software suite (`dwave-ocean-sdk`) enabling developers to translate real-world optimization problems into Quadratic Unconstrained Binary Optimization (QUBO) and Constrained Quadratic Model (CQM) formulations.
-- **D-Wave Hybrid Framework:** Released in December 2018 as an open-source workflow platform allowing developers to combine classical and quantum computing solvers for complex enterprise problems.
+- **Leap™ Quantum Cloud Service:** Launched in October 2018 to provide real-time, high-availability cloud access to D-Wave quantum processing units (QPUs) and hybrid quantum-classical solvers with >99.9% uptime.
+- **European Leap Node (JUNIQ / Jülich):** Announced in October 2019 to house D-Wave's first Leap quantum cloud node outside North America at Forschungszentrum Jülich in Germany.
+- **Ocean™ Software Development Kit & D-Wave Hybrid:** Open-source Python software suite (`dwave-ocean-sdk`) and D-Wave Hybrid framework (GA released June 2019) enabling developers to translate real-world optimization problems into Quadratic Unconstrained Binary Optimization (QUBO) and Constrained Quadratic Model (CQM) formulations.
 
 ---
 
 ## 5. Federal, National Laboratory & Enterprise Applications
-- **Los Alamos National Laboratory (LANL):** On-premise deployment of D-Wave quantum annealing systems for materials science research, stockpile hydrodynamics simulation, and complex graph partitioning.
+- **Los Alamos National Laboratory (LANL):** Upgraded on-premise system to D-Wave 2000Q in March 2019 and contracted as first on-premises customer for Advantage QPU in September 2019 for materials science and stockpile hydrodynamics.
+- **Forschungszentrum Jülich (JUNIQ, Germany):** European research hub hosting D-Wave Leap quantum cloud access for European research institutions and industrial partners.
+- **NEC Corporation (Japan):** Strategic partnership announced in December 2019 to co-develop hybrid quantum software and market D-Wave quantum systems globally.
+- **Sigma-i (Japan):** Commercial quantum cloud contract signed July 2019 for enterprise manufacturing optimization.
 - **Volkswagen Group (Web Summit 2018 & Engadget Coverage):** Joint development of a real-time quantum traffic management system ([*Engadget Coverage*](https://www.dwavequantum.com/company/newsroom/media-coverage/engadget-volkswagen-wants-to-use-quantum-computers-to-optimize-traffic/)) to calculate optimal public transport and taxi fleet routing across 10,000+ vehicles simultaneously on D-Wave annealing hardware via Leap.
 - **DENSO Corporation:** Factory automation proof-of-concept for real-time automated guided vehicle (AGV) control and routing using D-Wave quantum annealing.
-- **Oak Ridge National Laboratory (ORNL):** Hybrid classical-quantum algorithms running on Frontier and Leap for materials modeling and grid resilience.
-- **National Renewable Energy Laboratory (NREL ARIES):** Coupling D-Wave quantum annealing with megawatt-scale power grid simulators for real-time electric vehicle charging and grid dispatch optimization.
+- **Oak Ridge National Laboratory (ORNL) & NREL ARIES:** Coupling D-Wave quantum annealing with megawatt-scale power grid simulators for real-time electric vehicle charging and grid dispatch optimization.
 
 ---
 
-## 6. Complete Chronological Press & Reference Index (`?y=2018` Archive Focus)
+## 6. Complete Chronological Press & Reference Index (`?y=2018` & `?y=2019` Archive Focus)
 
 | Date | Article Title & Reference Link | Category / Topic | Primary Technical Focus |
 | :--- | :--- | :--- | :--- |
@@ -64,11 +64,19 @@
 | **2018-11-05** | [D-Wave and Volkswagen Announce Quantum Traffic Management System at Web Summit](https://www.dwavequantum.com/company/newsroom/press-release/d-wave-volkswagen-quantum-traffic-management/) | Industrial AI | Web Summit 2018 demonstration of quantum traffic flow optimization for public transport and taxi routing. |
 | **2018-11-05** | [Engadget: Volkswagen Wants to Use Quantum Computers to Optimize Traffic](https://www.dwavequantum.com/company/newsroom/media-coverage/engadget-volkswagen-wants-to-use-quantum-computers-to-optimize-traffic/) | Media Coverage / Smart Transit | Real-time traffic flow optimization for public transport and taxi fleets using D-Wave quantum annealing. |
 | **2018-12-10** | [D-Wave Releases D-Wave Hybrid Developer Preview for Quantum-Classical Workflows](https://www.dwavequantum.com/company/newsroom/press-release/d-wave-releases-d-wave-hybrid-developer-preview/) | Software Tools | Release of D-Wave Hybrid open-source framework within Leap QAE for hybrid quantum-classical application building. |
+| **2019-02-27** | [D-Wave Previews Next-Generation Quantum Platform with 5,000-Qubit Pegasus Topology](https://www.dwavequantum.com/company/newsroom/press-release/d-wave-previews-pegasus-topology/) | Architecture Preview | Pegasus 15-way qubit connectivity (2.5x higher connectivity than Chimera graph) and 5,000+ qubit roadmap. |
+| **2019-03-05** | [D-Wave Upgrades Los Alamos National Laboratory System to D-Wave 2000Q](https://www.dwavequantum.com/company/newsroom/press-release/d-wave-upgrades-lanl-system-to-dwave-2000q/) | Federal R&D | On-premises upgrade of LANL quantum system to 2,000-qubit D-Wave 2000Q processor. |
+| **2019-06-26** | [D-Wave Announces Quantum Hybrid Strategy and General Availability of D-Wave Hybrid](https://www.dwavequantum.com/company/newsroom/press-release/d-wave-announces-quantum-hybrid-strategy/) | Hybrid Solvers | General availability of D-Wave Hybrid platform within Leap QAE for enterprise hybrid application development. |
+| **2019-07-01** | [Sigma-i and D-Wave Announce Milestone Quantum Cloud Contract](https://www.dwavequantum.com/company/newsroom/press-release/sigma-i-dwave-milestone-quantum-cloud-contract/) | Commercial Contract | Large-scale quantum cloud contract with Japanese AI startup Sigma-i for enterprise manufacturing optimization. |
+| **2019-09-24** | [D-Wave Names Next-Generation Quantum System Advantage and Announces LANL as First On-Premises Customer](https://www.dwavequantum.com/company/newsroom/press-release/d-wave-names-advantage-quantum-system/) | System Naming & Contract | Official naming of Advantage QPU with Pegasus topology and LANL contract for on-premises installation. |
+| **2019-10-25** | [D-Wave to House First Leap Quantum System Outside North America at Forschungszentrum Jülich](https://www.dwavequantum.com/company/newsroom/press-release/d-wave-leap-system-juelich-germany/) | European Expansion | Agreement to deploy European Leap quantum cloud node at Jülich UNified Infrastructure for Quantum computing (JUNIQ). |
+| **2019-12-11** | [D-Wave and NEC Announce Strategic Partnership to Advance Commercial Quantum Computing](https://www.dwavequantum.com/company/newsroom/press-release/d-wave-nec-strategic-partnership/) | Strategic Alliance | Strategic partnership with NEC Corporation to co-develop hybrid quantum software and market annealing systems globally. |
 
 ---
 
 ## References & Document Sources
 1. **D-Wave Quantum Official Site**. [D-Wave 2018 Newsroom & Press Releases](https://www.dwavequantum.com/company/newsroom/?y=2018).
-2. **Nature Journal**. [Observation of topological phenomena in a programmable lattice of 1,800 qubits](https://www.nature.com/articles/s41586-018-0410-x). Nature 560, 456–460 (2018).
-3. **Science Journal**. [Phase transitions in a programmable 3D spin glass simulator](https://www.science.org/journal/science). Science (2018).
-4. **D-Wave Quantum Dedicated Child Paper**. [D-Wave Quantum Technical Architecture & Reference Index](https://github.com/donutloop/donutloop-genesis/blob/main/chhild_papers/d-wave.md). GitHub Open-Source Technical Documentation, 2026.
+2. **D-Wave Quantum Official Site**. [D-Wave 2019 Newsroom & Press Releases](https://www.dwavequantum.com/company/newsroom/?y=2019).
+3. **Nature Journal**. [Observation of topological phenomena in a programmable lattice of 1,800 qubits](https://www.nature.com/articles/s41586-018-0410-x). Nature 560, 456–460 (2018).
+4. **Science Journal**. [Phase transitions in a programmable 3D spin glass simulator](https://www.science.org/journal/science). Science (2018).
+5. **D-Wave Quantum Dedicated Child Paper**. [D-Wave Quantum Technical Architecture & Reference Index](https://github.com/donutloop/donutloop-genesis/blob/main/chhild_papers/d-wave.md). GitHub Open-Source Technical Documentation, 2026.
