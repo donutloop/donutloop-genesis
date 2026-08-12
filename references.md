@@ -83,7 +83,7 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
 * [Synopsys](https://www.synopsys.com/)
 * [TdVib](https://tdvib.com/)
 * [Tennessee Valley Authority](https://www.tva.com/)
-* [xLight](https://xlight.ai/)
+* [xLight](https://xlight.ai/): [xLight — About Us](https://www.xlight.com/about)
 
 ---
 

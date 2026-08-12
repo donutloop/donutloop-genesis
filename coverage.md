@@ -87,7 +87,7 @@
 | 48 | [Semiconductor Industry Association](https://www.semiconductors.org/) | ✅ Full Profile | §3.1, A.3 | CHIPS Act microelectronics policy coordination, workforce development & supply chain strategy |
 | 49 | [Siemens](https://www.siemens.com/) | ✅ Full Profile | §3.1, A.3 | Industrial AI software, Xcelerator digital twins, DOE strategic MOU & smart grid automation |
 | 50 | [Synopsys](https://www.synopsys.com/) | ✅ Full Profile | §3.1, A.3 | Synopsys.ai EDA platform (DSO.ai, VSO.ai, TSO.ai, AgentEngineer™), Custom Compiler, TCAD, PrimeTime & HAV emulation for AI chips and quantum control ASICs |
-| 51 | [xLight](https://xlight.inc/) | ✅ Full Profile | §3.1, A.3 | $150M CHIPS Act; FEL EUV lithography; Fermilab CRADA |
+| 51 | [xLight](https://xlight.inc/) | ✅ Full Profile | §3.1, A.3 | About portal (xlight.com/about), $150M CHIPS Act, FEL EUV lithography & Fermilab CRADA |
 
 ---
 
