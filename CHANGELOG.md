@@ -5,6 +5,16 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.0.94] - 2026-08-12
+
+### Added
+- **Processed ANL Physics-Informed ML of Cloud Microphysics Reference**: Processed reference link `https://www.anl.gov/genesis-mission/projects/physics-Informed-machine-learning-of-cloud-microphysics-for-high-resolution-earth-system-modeling-with-observationally-constrained-online-training` (*Physics-Informed Machine Learning of Cloud Microphysics for High-Resolution Earth System Modeling with Observationally Constrained Online Training* by Argonne National Laboratory), adding entry to [`references.md`](file:///home/donutloop/Workspace/donutloop-genesis/references.md#L296) Section 5 under National Labs (ANL).
+- **Master Index Audit**: Registered Master Index Entry `#266` in [`reference_coverage.md`](file:///home/donutloop/Workspace/donutloop-genesis/reference_coverage.md) (updating total metrics to **513 / 513 Processed**, 100% Complete across 226 unique target domains with 496 Web/News items), renumbered downstream index rows `#267` to `#513`, and updated ANL notes in [`coverage.md`](file:///home/donutloop/Workspace/donutloop-genesis/coverage.md#L154).
+- **Enriched Section 3.2 in English & German Papers**: Integrated ANL Physics-Informed ML of Cloud Microphysics project portal and technical overview into Section 3.2 in [`README.md`](file:///home/donutloop/Workspace/donutloop-genesis/README.md#L581) and [`README.de.md`](file:///home/donutloop/Workspace/donutloop-genesis/README.de.md#L577).
+- **Version Bump**: Incremented version string to `3.0.94` across [`README.md`](file:///home/donutloop/Workspace/donutloop-genesis/README.md) and [`README.de.md`](file:///home/donutloop/Workspace/donutloop-genesis/README.de.md).
+
+---
+
 ## [3.0.93] - 2026-08-12
 
 ### Added
