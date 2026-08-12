@@ -15,7 +15,7 @@
 | **Official PDF Documents** | **18** | Formal RFA solicitations, webinars, slides, and executive reports |
 | **Web Portals & Press Releases** | **503** | Newsroom features, corporate blog posts, and interactive hubs |
 | **Validation Status** | **100% Validated** | All links canonicalized, formatted, and deduplicated |
-| **Processing Status** | **521 / 521 Processed** | 0 Unprocessed, 521 Processed (100% Complete) |
+| **Processing Status** | **522 / 522 Processed** | 0 Unprocessed, 521 Processed (100% Complete) |
 
 ---
 
@@ -594,3 +594,4 @@ A complete tabular listing of all 464 indexed reference links:
 | 519 | 7. Technical Documents, RFA Guidance & Official Webinars | - | U.S. Department of Defense: Artificial Intelligence Strategy for the Department of War (PDF) | `media.defense.gov` | PDF | [U.S. Department of Defense: Artificial Intelligence Strategy for the Department of War (PDF)](https://media.defense.gov/2026/Jan/12/2003855671/-1/-1/0/ARTIFICIAL-INTELLIGENCE-STRATEGY-FOR-THE-DEPARTMENT-OF-WAR.PDF) | `Processed` |
 | 520 | 7. Technical Documents, RFA Guidance & Official Webinars | - | DOE Office of Science: Genesis Mission Funding Opportunity Announcements (FOAs) Portal | `science.osti.gov` | Web | [DOE Office of Science: Genesis Mission Funding Opportunity Announcements (FOAs) Portal](https://science.osti.gov/grants/FOAs/Genesis-Mission) | `Processed` |
 | 521 | 7. Technical Documents, RFA Guidance & Official Webinars | - | INL GAIN / ANL: Overview of NE Focus Areas in DOE's Genesis AI Initiative Presentation — Dr. Rick Vilim (PDF) | `gain.inl.gov` | PDF | [INL GAIN / ANL: Overview of NE Focus Areas in DOE's Genesis AI Initiative Presentation — Dr. Rick Vilim (PDF)](https://gain.inl.gov/content/uploads/4/2026/06/05-Overview-of-NE-Focus-Areas-in-DOEs-Genesis-AI-Initiative-Rick-Vilim.pdf) | `Processed` |
+| 522 | 5. National Labs & University Coverage | - | UT Austin CS: UT Computer Science Wins DOE Genesis Mission Award to Bring Autonomous Robotics to Scientific Research — Prof. Volkan Isler (SAFE-BOLT) | `cs.utexas.edu` | Web | [UT Austin CS: UT Computer Science Wins DOE Genesis Mission Award to Bring Autonomous Robotics to Scientific Research](https://www.cs.utexas.edu/news/2026/ut-computer-science-wins-doe-genesis-mission-award-bring-autonomous-robotics-scientific) | `Processed` |

@@ -5,6 +5,16 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.4.0] - 2026-08-13
+
+### Added
+- **Processed UT Austin CS SAFE-BOLT Autonomous Robotics Reference**: Processed official news announcement [`https://www.cs.utexas.edu/news/2026/ut-computer-science-wins-doe-genesis-mission-award-bring-autonomous-robotics-scientific`](https://www.cs.utexas.edu/news/2026/ut-computer-science-wins-doe-genesis-mission-award-bring-autonomous-robotics-scientific) (*UT Computer Science Wins DOE Genesis Mission Award to Bring Autonomous Robotics to Scientific Research* by UT Austin Department of Computer Science), adding reference to [`references.md`](./references.md#L537) Section 5.
+- **Ecosystem & Master Index Audit**: Registered Master Index Entry `#522` in [`reference_coverage.md`](./reference_coverage.md) (updating total metrics to **522 / 522 Processed**, 100% Complete with 504 Web items), and updated UT Austin's profile in [`coverage.md`](./coverage.md#L154) to detail Prof. Volkan Isler's **SAFE-BOLT** project (Safety-Assured Force-Aware Execution for Bimanual Operations on Lab Tools) integrating Texas Robotics, Materials Discovery Research Institute (MDRI), optofluidics (Prof. Yuebing Zheng), and commercial partner Medra AI.
+- **Enriched Section 3.3 & Appendix A.5 in English & German Papers**: Integrated UT Austin's SAFE-BOLT autonomous robotic assistant platform into Section 3.3 and Appendix A.5 in [`README.md`](./README.md#L33) and [`README.de.md`](./README.de.md#L33).
+- **Minor Version Release**: Bumped version to `3.4.0` across [`README.md`](./README.md) and [`README.de.md`](./README.de.md).
+
+---
+
 ## [3.3.1] - 2026-08-13
 
 ### Corrected & Refined
