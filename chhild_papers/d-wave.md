@@ -10,8 +10,11 @@
   1. **Commercial Quantum Annealing:** Production-grade flux-qubit quantum annealing systems optimized for complex combinatorial optimization, materials simulation, machine learning, and supply chain scheduling.
   2. **Gate-Model Superconducting Architecture:** High-coherence flux-qubit gate-model quantum processors targeting fault-tolerant utility-scale quantum computing with a roadmap toward 100 logical qubits by 2032.
 - **CHIPS and Science Act LOI:** D-Wave entered into a **$100 Million** Letter of Intent (LOI) with the U.S. Department of Commerce under the CHIPS and Science Act to scale domestic quantum hardware manufacturing and packaging across facilities in California, Colorado, and Florida.
+- **Financial & Commercial Growth trajectory (2024–2026):**
+  - **FY 2024:** 56% YoY revenue growth in Q1 2024 with record annual customer bookings driven by enterprise adoption of QCaaS.
+  - **FY 2025:** Record Q1 2025 revenue of $15 Million (+500% YoY increase), Q2 revenue & GAAP gross profit +42% YoY, Q3 YTD revenue +235% YoY, leading to FY 2025 total revenue growth of 179% YoY.
+  - **FY 2026:** Continued commercial acceleration with record Q2 2026 revenue growth, expanded liquidity, and National Research Council of Canada (NRC) R&D funding.
 - **Genesis Mission & Federal Integration:** Integrates hybrid classical-quantum cloud solvers via **Leap** across DOE National Laboratories (LANL, ORNL, NREL ARIES) for real-time power grid dispatch optimization, materials discovery, and nuclear deterrence simulation.
-- **Canadian NRC R&D Award:** Recipient of National Research Council of Canada (NRC) funding to advance commercial annealing QPU manufacturing and deployment for high-impact clean energy and logistics infrastructure.
 
 ---
 
@@ -52,6 +55,15 @@
 
 | Date | Article Title & Reference Link | Category / Topic | Primary Technical Focus |
 | :--- | :--- | :--- | :--- |
+| **2024-05-13** | [D-Wave Reports First Quarter 2024 Financial Results](https://www.dwavequantum.com/company/newsroom/press-release/d-wave-reports-first-quarter-2024-financial-results/) | Financial Performance | 56% YoY revenue growth and 54% YoY growth in bookings. |
+| **2024-08-08** | [D-Wave Reports Second Quarter 2024 Financial Results](https://www.dwavequantum.com/company/newsroom/press-release/d-wave-reports-second-quarter-2024-financial-results/) | Financial Performance | Expansion of commercial annealing quantum computing applications across energy and manufacturing. |
+| **2024-11-14** | [D-Wave Reports Third Quarter 2024 Financial Results](https://www.dwavequantum.com/company/newsroom/press-release/d-wave-reports-third-quarter-2024-financial-results/) | Financial Performance | Updated FY24 financial guidance and launch of new hybrid cloud solver features on Leap. |
+| **2025-01-10** | [D-Wave Reports Record Annual Bookings for Fiscal Year 2024](https://www.dwavequantum.com/company/newsroom/press-release/d-wave-reports-record-annual-bookings-for-fiscal-year-2024/) | Commercial Milestones | Record customer bookings driven by enterprise adoption of QCaaS. |
+| **2025-03-13** | [D-Wave Reports Fourth Quarter and Full Year 2024 Financial Results](https://www.dwavequantum.com/company/newsroom/press-release/d-wave-reports-fourth-quarter-and-full-year-2024-financial-results/) | Financial Performance | Complete FY24 results and Advantage2 QPU commercial rollout progress. |
+| **2025-05-08** | [D-Wave Reports First Quarter 2025 Financial Results](https://www.dwavequantum.com/company/newsroom/press-release/d-wave-reports-first-quarter-2025-financial-results/) | Financial Performance | Record quarterly revenue of $15 million (+500% YoY increase). |
+| **2025-08-07** | [D-Wave Reports Second Quarter 2025 Financial Results](https://www.dwavequantum.com/company/newsroom/press-release/d-wave-reports-second-quarter-2025-financial-results/) | Financial Performance | Q2 revenue and GAAP gross profit increased 42% YoY. |
+| **2025-11-06** | [D-Wave Reports Third Quarter 2025 Financial Results](https://www.dwavequantum.com/company/newsroom/press-release/d-wave-reports-third-quarter-2025-financial-results/) | Financial Performance | Q3 and YTD revenue up 100% and 235% YoY. |
+| **2026-02-26** | [D-Wave Reports Fourth Quarter and Full Year 2025 Financial Results](https://www.dwavequantum.com/company/newsroom/press-release/d-wave-reports-fourth-quarter-and-full-year-2025-financial-results/) | Financial Performance | FY25 revenue increased 179% YoY. |
 | **2026-06-18** | [D-Wave Announces World's First Gate-Model Quantum Computing Simulator for Error-Aware Programming](https://www.dwavequantum.com/company/newsroom/press-release/d-wave-announces-worlds-first-gate-model-quantum-computing-simulator-for-error-aware-programming/) | Gate-Model Simulation | Error-aware quantum programming and flux qubit simulator for fault-tolerant algorithmic development. |
 | **2026-08-03** | [D-Wave and Nasdaq Verafin Announce Agreement for Quantum Computing Application Development](https://www.dwavequantum.com/company/newsroom/press-release/d-wave-and-nasdaq-verafin-announce-agreement-for-quantum-computing-application-development/) | Financial Technology | Hybrid quantum-classical optimization algorithms for anti-financial-crime and fraud detection. |
 | **2026-08-05** | [D-Wave Demonstrates Major Hardware Breakthrough for Quantum Error Correction](https://www.dwavequantum.com/company/newsroom/press-release/d-wave-demonstrates-major-hardware-breakthrough-for-quantum-error-correction/) | Error Correction | Physical hardware demonstration of error correction on flux qubit gate-model quantum processors. |
