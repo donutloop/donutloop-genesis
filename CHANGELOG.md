@@ -5,6 +5,14 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.4.5] - 2026-08-13
+
+### Corrected & Translated
+- **Full Rigetti Computing German Child Paper Translation**: Completed 100% full German translation of [`child_papers/rigetti.de.md`](./child_papers/rigetti.de.md) matching [`child_papers/rigetti.md`](./child_papers/rigetti.md), fully translating all 6 technical sections, transmon QPU roadmap (Ankaa™, Cepheus™, Novera™, Aspen™-M), Fab-1 200mm MEMS foundry architecture in Fremont, CA, 3D TSV packaging, QCS cloud platform, Quil/PyQuil compiler stack, DOE Genesis Mission & national laboratory deployments (Fermilab SQMS, ORNL, UK NQCC, PSC/HPE), and all 196 chronological newsroom reference links down to company inception.
+- **Patch Version Release**: Incremented version string to `3.4.5` across [`README.md`](./README.md) and [`README.de.md`](./README.de.md).
+
+---
+
 ## [3.4.4] - 2026-08-13
 
 ### Corrected & Translated
