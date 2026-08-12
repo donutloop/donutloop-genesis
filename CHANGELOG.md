@@ -5,6 +5,16 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.3.1] - 2026-08-13
+
+### Corrected & Refined
+- **Physical Accuracy & Manufacturing Rigor Audit**: Corrected Section 5 (Conclusion) in [`README.md`](./README.md#L817) and [`README.de.md`](./README.de.md#L817) based on empirical semiconductor physics and control engineering:
+  - *Lithography Feature Sizes*: Explicitly demarcated sub-2nm EUV lithography (xLight $150M CHIPS Act award for high-power FEL EUV light sources driving leading-edge classical logic foundries) from mature-node quantum foundry fabrication (GlobalFoundries 22FDX, IBM Anderon 300mm, SkyWater, typically operating at 22nm–90nm legacy nodes to preserve 200–500nm photonic waveguides and mK/1K qubit structures).
+  - *Accelerator Control Realities*: Clarified that particle accelerator beam trajectory and SRF cavity RF phase control (Fermilab AXESS, LANL R&D) rely on localized, sub-microsecond low-latency edge FPGAs/DSPs, while exascale HPC nodes execute offline physical model training and materials design.
+- **Version Bump**: Incremented version string to `3.3.1` across [`README.md`](./README.md) and [`README.de.md`](./README.de.md).
+
+---
+
 ## [3.3.0] - 2026-08-13
 
 ### Added
