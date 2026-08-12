@@ -1,7 +1,7 @@
 # D-Wave Quantum — Technical Architecture, Quantum Systems, and Ecosystem Reference Index
 
 > **Child Paper Overview:**
-> This document serves as the dedicated deep-dive technical paper and curated reference index for **D-Wave Quantum Inc.** (NYSE: QBTS), detailing its dual-platform quantum hardware development (commercial flux quantum annealing and gate-model superconducting architectures), hybrid cloud infrastructure (Leap & Ocean SDK), federal and DOE National Laboratory collaborations under the **Genesis Mission**, and a focused 2018–2025 chronological press and reference index (`https://www.dwavequantum.com/company/newsroom/?y=2018`, `?y=2019`, `?y=2020`, `?y=2021`, `?y=2022`, `?y=2023`, `?y=2024` & `?y=2025`) managed strictly within `chhild_papers/`.
+> This document serves as the dedicated deep-dive technical paper and curated reference index for **D-Wave Quantum Inc.** (NYSE: QBTS), detailing its dual-platform quantum hardware development (commercial flux quantum annealing and gate-model superconducting architectures), hybrid cloud infrastructure (Leap & Ocean SDK), federal and DOE National Laboratory collaborations under the **Genesis Mission**, and a focused 2018–2026 chronological press and reference index (`https://www.dwavequantum.com/company/newsroom/?y=2018` through `?y=2026`) managed strictly within `chhild_papers/`.
 
 ---
 
@@ -10,7 +10,7 @@
   1. **Commercial Quantum Annealing:** Production-grade flux-qubit quantum annealing systems optimized for complex combinatorial optimization, materials simulation, machine learning, and supply chain scheduling.
   2. **Gate-Model Superconducting Architecture:** High-coherence flux-qubit gate-model quantum processors targeting fault-tolerant utility-scale quantum computing with a roadmap toward 100 logical qubits by 2032.
 - **CHIPS and Science Act LOI:** D-Wave entered into a **$100 Million** Letter of Intent (LOI) with the U.S. Department of Commerce under the CHIPS and Science Act to scale domestic quantum hardware manufacturing and packaging across facilities in California, Colorado, and Florida.
-- **2018–2025 Expansion Years (`?y=2018` through `?y=2025` Archive Focus):**
+- **2018–2026 Decadal Expansion (`?y=2018` through `?y=2026` Archive Focus):**
   - **2018 Breakthroughs:** Surpassed $80 Million in customer contracts, published milestone quantum simulations in *Science* (spin glass phase transitions) and *Nature* (1,800-qubit Kosterlitz-Thouless topological phase transition), launched **Leap™** quantum cloud, and partnered with Volkswagen for Web Summit traffic management.
   - **2019 Milestones:** Officially named the **Advantage™** system with 15-way **Pegasus™** topology (5,000+ qubits), signed LANL as first on-premises Advantage customer, established European Leap cloud node at Forschungszentrum Jülich (JUNIQ), signed milestone commercial contract with Sigma-i, and established strategic commercial partnership with NEC Corporation.
   - **2020 GA & Innovation:** Launched **Leap 2** with hybrid solvers supporting up to 10,000 variables, opened free Leap cloud access for COVID-19 research teams worldwide, secured a **$10 Million equity investment and strategic alliance with NEC**, achieved **General Availability of the 5,000-qubit Advantage system**, and enabled cross-system interoperability with IBM Qiskit.
@@ -18,7 +18,8 @@
   - **2022 NYSE Listing & Mastercard Alliance:** Completed public listing on the NYSE under ticker **QBTS** on August 8, 2022, deployed first U.S.-based Advantage QPU in Leap cloud, released early hardware access to the 500+ qubit Advantage2 experimental prototype on 20-way Zephyr topology, and established multi-year financial technology strategic alliance with **Mastercard** (NYSE: MA).
   - **2023 Commercial Expansion & Security Audit:** Signed multi-year defense reseller agreement with **Davidson Technologies** for missile defense optimization, expanded Leap cloud service to Israel, achieved **SOC 2 Type 1** security compliance certification, and showcased commercial enterprise adoption across Pattison Food Group, Recruit Group, and SavantX at Qubits 2023.
   - **2024 Advantage2 Hardware Scaling & Nonlinear Solvers:** Made the lower-noise **1,200+ qubit Advantage2 prototype** available in Leap (20x speedup), released sub-microsecond **fast-anneal** feature, launched new **nonlinear hybrid quantum solver** at Qubits 2024, and benchmarked the sixth-generation **4,400+ qubit Advantage2 processor** with 48,000+ couplers.
-  - **2025 Revenue Surges & Quantum-HPC Supercomputing Integration:** Reported record FY24 customer bookings exceeding $23 Million (+120% YoY), achieved record Q1 2025 revenue of $15 Million (+500% YoY), hosted Qubits 2025 ("Quantum Realized") in Scottsdale, and demonstrated quantum-HPC supercomputing integration and Quantum AI workflows at SC25.
+  - **2025 Revenue Surges & Supercomputing Integration:** Reported record FY24 customer bookings exceeding $23 Million (+120% YoY), achieved record Q1 2025 revenue of $15 Million (+500% YoY), hosted Qubits 2025 ("Quantum Realized") in Scottsdale, and demonstrated quantum-HPC supercomputing integration and Quantum AI workflows at SC25.
+  - **2026 Error Correction Breakthroughs & Federal R&D:** Achieved 179% YoY revenue growth in FY 2025, demonstrated physical hardware quantum error correction on flux qubit gate-model processors, released the world's first gate-model error-aware simulator, partnered with Nasdaq Verafin for anti-financial crime application development, and received National Research Council of Canada funding.
 - **Genesis Mission & Federal Integration:** Integrates hybrid classical-quantum cloud solvers via **Leap** across DOE National Laboratories (LANL, ORNL, NREL ARIES) for real-time power grid dispatch optimization, materials discovery, and nuclear deterrence simulation.
 
 ---
@@ -26,30 +27,31 @@
 ## 2. Quantum Annealing Hardware (Advantage & Advantage2 Systems)
 - **D-Wave 2000Q & 1,800-Qubit Lattice:** 2,000 flux qubits with 6-way Chimera connectivity, upgraded at LANL in March 2019 and utilized for 2018 *Science* and *Nature* topological quantum material simulation breakthroughs.
 - **Advantage™ System (GA September 2020):** Built for production commercial use featuring **5,000+ flux qubits** with 15-way **Pegasus™** connectivity (2.5x higher connectivity than Chimera graph), deployed in the US via Leap in May 2022.
-- **Advantage2™ Prototype & 4,400+ Qubit Processor Scaling (2024–2025):**
-  - **1,200+ Qubit Prototype (Feb 2024):** Available in Leap featuring lower-noise multilayer fabrication, 20-way Zephyr topology, and 20x speedup on hard optimization problems.
-  - **Sub-Microsecond Fast-Anneal (April 2024):** Enabled sub-microsecond annealing times to suppress thermal noise and study non-equilibrium quantum dynamics.
-  - **4,400+ Qubit Processor Benchmark (Nov 2024):** Successfully calibrated sixth-generation Advantage2 QPU with 4,400+ active qubits and 48,000+ couplers on 20-way Zephyr topology.
+- **Advantage2™ System & Zephyr Topology (4,400+ Qubits):**
+  - **Qubit & Coupler Density:** Built on the 20-way **Zephyr™** qubit interconnect topology, offering 4,400+ active qubits and 48,000+ tunable couplers in production configurations.
+  - **Coherence & Performance:** 2x increase in energy scale, 40% reduction in thermal noise, and improved magnetic shielding delivering up to 10x speedup on complex, highly connected hard optimization problems.
   - **Multi-Chip Scalability:** Roadmap targeting 100,000+ flux qubits via multi-chip 3D integrated superconducting packaging and cryogenic control electronics.
 
 ---
 
-## 3. Gate-Model Superconducting Architecture & Fault-Tolerance
+## 3. Gate-Model Supercomputing Architecture & Fault-Tolerance (2026 Hardware Demonstrations)
 - **Flux Qubit Advantage:** Leverages flux-qubit architectures with high anharmonicity and robust protection against charge noise, providing longer coherence times relative to conventional transmon qubits.
-- **Quantum Error Correction Breakthrough:** Demonstrated physical hardware error correction using dual-rail flux qubit encodings, achieving logical error suppression below physical qubit thresholds.
-- **Error-Aware Gate-Model Simulator:** Released the world's first gate-model quantum computing simulator tailored for error-aware programming, allowing developers to write and test error-mitigated quantum algorithms prior to hardware execution.
+- **Hardware Error Correction Demonstration (August 2026):** Physical hardware demonstration of error correction using dual-rail flux qubit encodings, achieving logical error suppression below physical qubit thresholds.
+- **Error-Aware Gate-Model Simulator (June 2026):** Released the world's first gate-model quantum computing simulator tailored for error-aware programming, allowing developers to write and test error-mitigated quantum algorithms prior to hardware execution.
 - **100-Logical-Qubit Target:** Progressing from multi-qubit gate demonstration chips toward fault-tolerant logical qubits and 100 logical qubits by 2032.
 
 ---
 
-## 4. Hybrid Cloud Infrastructure (Leap, Quantum-HPC & Quantum AI)
+## 4. Hybrid Cloud Infrastructure (Leap, CQM & Error-Aware Solvers)
 - **Leap™ Quantum Cloud Service:** High-availability cloud infrastructure with global deployment nodes in North America, Europe (JUNIQ / Jülich), Singapore, and Israel, maintaining SOC 2 Type 1 security certification.
-- **Quantum-HPC & Supercomputing Integration (SC25):** Seamless coupling of Leap quantum annealing cloud solvers with top-tier classical supercomputers (ORNL Frontier, NREL ARIES) for hybrid HPC workflows.
+- **Nasdaq Verafin Anti-Financial Crime Partnership (August 2026):** Joint application development agreement with Nasdaq Verafin using hybrid quantum algorithms for anti-money laundering and complex financial fraud detection.
 - **Nonlinear & CQM Solvers:** Supports mixed-integer linear, quadratic, and nonlinear constraints with sub-microsecond QPU anneal timing controls and Quantum AI feature selection.
 
 ---
 
 ## 5. Federal, National Laboratory & Enterprise Applications
+- **NRC Canada R&D Funding Award (August 2026):** Awarded National Research Council of Canada funding to scale commercial quantum annealing systems for energy and logistics applications.
+- **Nasdaq Verafin (Financial Fraud & AML):** Joint application development agreement with Nasdaq Verafin using hybrid quantum algorithms for anti-financial crime.
 - **Davidson Technologies (Defense & Aerospace Reseller Agreement):** Deploying D-Wave hybrid quantum solvers for U.S. missile defense planning, radar resource allocation, and defense logistics.
 - **Pattison Food Group (Supply Chain & Retail):** Commercial deployment of hybrid quantum annealing for retail grocery logistics, inventory distribution, and shelf scheduling.
 - **NYSE Public Listing (NYSE: QBTS):** Traded publicly on NYSE, expanding R&D investment for Advantage2 quantum annealing and flux-qubit gate-model systems.
@@ -59,7 +61,7 @@
 
 ---
 
-## 6. Complete Chronological Press & Reference Index (`?y=2018` through `?y=2025` Archive Focus)
+## 6. Complete Chronological Press & Reference Index (`?y=2018` through `?y=2026` Archive Focus)
 
 | Date | Article Title & Reference Link | Category / Topic | Primary Technical Focus |
 | :--- | :--- | :--- | :--- |
@@ -113,6 +115,13 @@
 | **2025-08-07** | [D-Wave Reports Second Quarter 2025 Financial Results](https://www.dwavequantum.com/company/newsroom/press-release/d-wave-reports-second-quarter-2025-financial-results/) | Financial Performance | Q2 2025 revenue and GAAP gross profit up 42% YoY. |
 | **2025-11-06** | [D-Wave Reports Third Quarter 2025 Financial Results](https://www.dwavequantum.com/company/newsroom/press-release/d-wave-reports-third-quarter-2025-financial-results/) | Financial Performance | Q3 and YTD revenue up 100% and 235% YoY driven by enterprise QCaaS growth. |
 | **2025-11-10** | [D-Wave Showcases Quantum-HPC Integration and Quantum AI at SC25 Supercomputing Conference](https://www.dwavequantum.com/company/newsroom/press-release/d-wave-showcases-quantum-hpc-integration-sc25/) | HPC Integration | Demonstration of hybrid quantum-classical supercomputing integration and Quantum AI workflows at SC25. |
+| **2026-02-26** | [D-Wave Reports Fourth Quarter and Full Year 2025 Financial Results](https://www.dwavequantum.com/company/newsroom/press-release/d-wave-reports-fourth-quarter-and-full-year-2025-financial-results/) | Financial Performance | FY25 total revenue increased 179% YoY. |
+| **2026-06-18** | [D-Wave Announces World's First Gate-Model Quantum Computing Simulator for Error-Aware Programming](https://www.dwavequantum.com/company/newsroom/press-release/d-wave-announces-worlds-first-gate-model-quantum-computing-simulator-for-error-aware-programming/) | Gate-Model Simulation | Error-aware quantum programming and flux qubit simulator for fault-tolerant algorithmic development. |
+| **2026-08-03** | [D-Wave and Nasdaq Verafin Announce Agreement for Quantum Computing Application Development](https://www.dwavequantum.com/company/newsroom/press-release/d-wave-and-nasdaq-verafin-announce-agreement-for-quantum-computing-application-development/) | Financial Technology | Hybrid quantum-classical optimization algorithms for anti-financial-crime and fraud detection. |
+| **2026-08-05** | [D-Wave Demonstrates Major Hardware Breakthrough for Quantum Error Correction](https://www.dwavequantum.com/company/newsroom/press-release/d-wave-demonstrates-major-hardware-breakthrough-for-quantum-error-correction/) | Error Correction | Physical hardware demonstration of error correction on flux qubit gate-model quantum processors. |
+| **2026-08-06** | [D-Wave Reports Second Quarter 2026 Financial Results](https://www.dwavequantum.com/company/newsroom/press-release/d-wave-reports-second-quarter-2026-financial-results/) | Financial Performance | Q2 2026 commercial revenue growth, QCaaS bookings, and cash reserves for quantum hardware expansion. |
+| **2026-08-10** | [D-Wave Quantum to Participate in Upcoming 2026 Investor Conferences](https://www.dwavequantum.com/company/newsroom/press-release/d-wave-quantum-to-participate-in-upcoming-2026-investor-conferences/) | Investor Relations | Executive presentations at Needham & Deutsche Bank tech conferences. |
+| **2026-08-12** | [D-Wave Awarded National Research Council of Canada Funding to Advance Commercial Annealing Quantum Computing](https://www.dwavequantum.com/company/newsroom/press-release/d-wave-awarded-national-research-council-of-canada-funding-to-advance-commercial-annealing-quantum-computing/) | Canadian Federal R&D | NRC funding award to scale commercial quantum annealing systems for energy and logistics applications. |
 
 ---
 
@@ -125,6 +134,7 @@
 6. **D-Wave Quantum Official Site**. [D-Wave 2023 Newsroom & Press Releases](https://www.dwavequantum.com/company/newsroom/?y=2023).
 7. **D-Wave Quantum Official Site**. [D-Wave 2024 Newsroom & Press Releases](https://www.dwavequantum.com/company/newsroom/?y=2024).
 8. **D-Wave Quantum Official Site**. [D-Wave 2025 Newsroom & Press Releases](https://www.dwavequantum.com/company/newsroom/?y=2025).
-9. **Nature Journal**. [Observation of topological phenomena in a programmable lattice of 1,800 qubits](https://www.nature.com/articles/s41586-018-0410-x). Nature 560, 456–460 (2018).
-10. **Science Journal**. [Phase transitions in a programmable 3D spin glass simulator](https://www.science.org/journal/science). Science (2018).
-11. **D-Wave Quantum Dedicated Child Paper**. [D-Wave Quantum Technical Architecture & Reference Index](https://github.com/donutloop/donutloop-genesis/blob/main/chhild_papers/d-wave.md). GitHub Open-Source Technical Documentation, 2026.
+9. **D-Wave Quantum Official Site**. [D-Wave 2026 Newsroom & Press Releases](https://www.dwavequantum.com/company/newsroom/?y=2026).
+10. **Nature Journal**. [Observation of topological phenomena in a programmable lattice of 1,800 qubits](https://www.nature.com/articles/s41586-018-0410-x). Nature 560, 456–460 (2018).
+11. **Science Journal**. [Phase transitions in a programmable 3D spin glass simulator](https://www.science.org/journal/science). Science (2018).
+12. **D-Wave Quantum Dedicated Child Paper**. [D-Wave Quantum Technical Architecture & Reference Index](https://github.com/donutloop/donutloop-genesis/blob/main/chhild_papers/d-wave.md). GitHub Open-Source Technical Documentation, 2026.
