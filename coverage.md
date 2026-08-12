@@ -61,7 +61,7 @@
 |---|---------|----------|---------------|-------|
 | 30 | [Atom Computing](https://atom-computing.com/) | ✅ Full Profile | §2.2, §3.1 | $100M LOI; neutral-atom; NREL grid co-sim |
 | 31 | [D-Wave](https://www.dwavesys.com/) | ✅ Full Profile | §2.2, §3.1 | About portal (dwavequantum.com/company/about-d-wave), $100M LOI, annealing + gate-model superconducting |
-| 32 | [Diraq](https://www.diraq.com/) | ✅ Full Profile | §2.2, §3.1 | $38M LOI; silicon spin CMOS quantum dot |
+| 32 | [Diraq](https://www.diraq.com/) | ✅ Full Profile | §2.2, §3.1 | About portal (diraq.com/about), $38M LOI & silicon spin CMOS quantum dot |
 | 33 | [GlobalFoundries](https://gf.com/) | ✅ Full Profile | §2.2, §3.1 | $375M; GF Labs; GlobalShuttle™ MPW; silicon photonics |
 | 34 | [Infleqtion](https://www.infleqtion.com/) | ✅ Full Profile | §2.2, §3.1 | About portal (infleqtion.com/about), $100M LOI, 3 DOE awards, Sqale, Tiqker & Superstaq |
 | 35 | [PsiQuantum](https://psiquantum.com/) | ✅ Full Profile | §2.2, §3.1 | About portal (psiquantum.com/about), $100M LOI, photonic, PsiFactory & BTO switches |

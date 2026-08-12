@@ -39,7 +39,7 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
 * [Cornelis Networks](https://www.cornelisnetworks.com/): [Cornelis Partners with U.S. Department of Energy on the Genesis Mission](https://www.cornelis.com/stories/cornelis-partners-with-us-department-of-energy-on-the-genesis-mission)
 * [Critical Materials Recycling](https://www.cmrecycling.com/)
 * [Dell Technologies](https://www.dell.com/)
-* [Diraq](https://diraq.com/)
+* [Diraq](https://diraq.com/): [Diraq — About Us](https://www.diraq.com/about)
 * [D-Wave](https://www.dwavesys.com/): [D-Wave Quantum — About Us](https://www.dwavequantum.com/company/about-d-wave/)
 * [Emerald Cloud Lab](https://www.emeraldcloudlab.com/)
 * [EPRI](https://www.epri.com/)
