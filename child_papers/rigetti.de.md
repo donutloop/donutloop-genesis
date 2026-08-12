@@ -285,4 +285,3 @@
 1. **Rigetti Computing Official Site**. [Rigetti Newsroom & Press Archive](https://www.rigetti.com/rigetti-computing-news).
 2. **Rigetti Investor Relations**. [Rigetti Investor Relations Portal](https://investors.rigetti.com/).
 3. **UK National Quantum Computing Centre**. [Rigetti NQCC Superconducting QPU Deployment](https://www.nqcc.ac.uk/).
-4. **Rigetti Dedicated Child Paper**. [Rigetti Technical Architecture & Reference Index](https://github.com/donutloop/donutloop-genesis/blob/main/child_papers/rigetti.md). GitHub Open-Source Technical Documentation, 2026.

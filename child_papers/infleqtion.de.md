@@ -303,4 +303,3 @@
 1. **Infleqtion Official Site**. [Infleqtion Corporate Announcements & Newsroom](https://infleqtion.com/newsroom/announcements/).
 2. **Infleqtion Investor Relations**. [Infleqtion Investor Relations Portal](https://ir.infleqtion.com).
 3. **UK National Quantum Computing Centre**. [Infleqtion NQCC Neutral Atom Quantum Computer Deployment](https://www.nqcc.ac.uk/).
-4. **Infleqtion Dedicated Child Paper**. [Infleqtion Technical Architecture & Reference Index](https://github.com/donutloop/donutloop-genesis/blob/main/chhild_papers/infleqtion.md). GitHub Open-Source Technical Documentation, 2026.

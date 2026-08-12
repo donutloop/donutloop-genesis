@@ -85,4 +85,3 @@
 3. **Fermi National Accelerator Laboratory**. [Fermilab & xLight DOE Genesis Mission CRADA Announcement Letter](https://www.fnal.gov/). April 4, 2024.
 4. **SPIE Advanced Lithography 2026**. [xLight Public Architecture White Paper](https://cdn.prod.website-files.com/69b41585dfb26ff2bd336332/6a035273113237be25916942_SPIE-AL-2026-xLight-Public.pdf).
 5. **xLight Technology Architecture**. [xLight Accelerator EUV System Specification](https://www.xlight.com/technology).
-6. **xLight Dedicated Child Paper**. [xLight Technical Architecture & Reference Index](https://github.com/donutloop/donutloop-genesis/blob/main/child_papers/xlight.md). GitHub Open-Source Technical Documentation, 2026.

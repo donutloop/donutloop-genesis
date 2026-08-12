@@ -202,4 +202,3 @@
 1. **Atom Computing Official Site**. [Atom Computing Corporate News & Resources](https://atom-computing.com/news-resources/).
 2. **Microsoft Azure Quantum & Atom Computing**. [Atom Computing & Microsoft 50 Logical Qubits Release](https://azure.microsoft.com/en-us/solutions/quantum-computing/).
 3. **Ars Technica Science**. [Atom Computing 1,000-Qubit Milestone Announcement](https://arstechnica.com/science/2023/10/atom-computing-is-the-first-to-announce-a-1000-qubit-quantum-computer/). Oct 24, 2023.
-4. **Atom Computing Dedicated Child Paper**. [Atom Computing Technical Architecture & Reference Index](https://github.com/donutloop/donutloop-genesis/blob/main/child_papers/atom_computing.md). GitHub Open-Source Technical Documentation, 2026.

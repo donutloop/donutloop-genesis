@@ -150,4 +150,3 @@
 1. **Diraq Official Site**. [Diraq Corporate Newsdesk & Press Archive](https://www.diraq.com/newsdesk).
 2. **Diraq Page 4 Verification Landmark**. [Behind the Paper: On-Demand Electrical Control of Spin Qubits](https://www.diraq.com/newsdesk/blog-post-title-one-sfk9t-ljz2f). Jan 14, 2023.
 3. **Imec Semiconductor Research**. [Diraq & Imec 300mm Silicon Quantum Dot Partnership](https://www.imec-int.com/).
-4. **Diraq Dedicated Child Paper**. [Diraq Technical Architecture & Reference Index](https://github.com/donutloop/donutloop-genesis/blob/main/child_papers/diraq.md). GitHub Open-Source Technical Documentation, 2026.

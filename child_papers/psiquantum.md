@@ -95,4 +95,3 @@
 1. **PsiQuantum Official Site**. [PsiQuantum Corporate Newsroom & Press Archive](https://www.psiquantum.com/news).
 2. **PsiQuantum Verification Landmark**. [PsiQuantum Announces Breakthrough in Architectures for Error-Corrected Quantum Computing](https://www.psiquantum.com/news-import/psiquantum-announces-breakthrough-in-architectures-for-error-corrected-quantum-computing). Jan 30, 2023.
 3. **UK Science and Technology Facilities Council**. [PsiQuantum STFC Daresbury Laboratory Cryogenic Facility](https://www.ukri.org/councils/stfc/).
-4. **PsiQuantum Dedicated Child Paper**. [PsiQuantum Technical Architecture & Reference Index](https://github.com/donutloop/donutloop-genesis/blob/main/child_papers/psiquantum.md). GitHub Open-Source Technical Documentation, 2026.

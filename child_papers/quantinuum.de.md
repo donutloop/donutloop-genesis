@@ -173,4 +173,3 @@
 1. **Quantinuum Official Site**. [Quantinuum Corporate Newsroom & Press Archive](https://www.quantinuum.com/news/news#press-release).
 2. **Quantinuum Investor Relations**. [Quantinuum Investor Relations Portal](https://ir.quantinuum.com/).
 3. **UK National Quantum Computing Centre**. [Quantinuum Trapped-Ion System Deployment](https://www.nqcc.ac.uk/).
-4. **Quantinuum Dedicated Child Paper**. [Quantinuum Technical Architecture & Reference Index](https://github.com/donutloop/donutloop-genesis/blob/main/child_papers/quantinuum.md). GitHub Open-Source Technical Documentation, 2026.

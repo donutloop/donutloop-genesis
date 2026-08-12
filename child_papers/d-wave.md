@@ -142,4 +142,3 @@
 9. **D-Wave Quantum Official Site**. [D-Wave 2026 Newsroom & Press Releases](https://www.dwavequantum.com/company/newsroom/?y=2026).
 10. **Nature Journal**. [Observation of topological phenomena in a programmable lattice of 1,800 qubits](https://www.nature.com/articles/s41586-018-0410-x). Nature 560, 456–460 (2018).
 11. **Science Journal**. [Phase transitions in a programmable 3D spin glass simulator](https://www.science.org/journal/science). Science (2018).
-12. **D-Wave Quantum Dedicated Child Paper**. [D-Wave Quantum Technical Architecture & Reference Index](https://github.com/donutloop/donutloop-genesis/blob/main/chhild_papers/d-wave.md). GitHub Open-Source Technical Documentation, 2026.
