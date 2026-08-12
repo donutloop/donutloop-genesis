@@ -1,5 +1,7 @@
 # Diraq — Comprehensive Technical Architecture, Silicon Spin Qubit QPUs, and Ecosystem Reference Index
 
+[← Back to Main Genesis Mission Paper](../README.md)
+
 > **Child Paper Overview:**
 > This document serves as the dedicated deep-dive technical paper and curated reference index for **Diraq Pty Ltd.** (spun out from UNSW Sydney in 2022), detailing its silicon quantum dot spin qubit architecture, 300mm commercial CMOS semiconductor foundry integration (with Imec), FinFET/FDSOI qubit re-purposing, cryo-CMOS control electronics, 1-Billion qubit scaling roadmap, NVIDIA CUDA-Q and NVQLink acceleration, U.S. and Australian federal partnerships ($38M U.S. CHIPS Act LOI, $20M AUD NRFC investment), and a complete chronological newsdesk index (`https://www.diraq.com/newsdesk`) compiling **all 73 newsdesk links across all 4 pages** down to the Page 4 verification landmark on **January 14, 2023** (`https://www.diraq.com/newsdesk/blog-post-title-one-sfk9t-ljz2f`), managed strictly within `child_papers/`.
 >

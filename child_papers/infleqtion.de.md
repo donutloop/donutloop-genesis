@@ -1,5 +1,7 @@
 # Infleqtion — Umfassende technische Architektur, Neutral Atom Systems, and Ecosystem Reference Index
 
+[← Zurück zum Haupt-Papier der Genesis Mission](../README.de.md)
+
 > **Übersicht des technischen Vertiefungspapiers:**
 > This document serves as the dedicated deep-dive technical paper and curated reference index for **Infleqtion Inc.** (formerly ColdQuanta, Inc.), detailing its dual-track quantum technology portfolio: full-stack neutral atom quantum computers (Hilbert, SqORPIOS, Sqale), quantum sensing and precision timing hardware (Tiqker™ optical atomic clocks, Rydberg Quantum RF receivers, miniMOT™ platforms, cold-atom gravimeters), deep compilation software (Superstaq™, QContext, SupercheQ), federal and DOE National Laboratory co-simulations under the **[Genesis Mission](https://www.energy.gov/genesis-mission)**, and a complete 176-release chronological newsroom index (`https://infleqtion.com/newsroom/announcements/`) managed strictly within `chhild_papers/`.
 >

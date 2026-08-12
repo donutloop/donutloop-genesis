@@ -1,5 +1,7 @@
 # PsiQuantum — Comprehensive Technical Architecture, Silicon Photonic QPUs, and Ecosystem Reference Index
 
+[← Back to Main Genesis Mission Paper](../README.md)
+
 > **Child Paper Overview:**
 > This document serves as the dedicated deep-dive technical paper and curated reference index for **PsiQuantum Corp.**, detailing its Fusion-Based Quantum Computing (FBQC) architecture, 300mm silicon photonics semiconductor foundry manufacturing (GlobalFoundries & SkyWater Technology), Omega photonic chipsets, Superconducting Nanowire Single-Photon Detectors (SNSPDs), Active Volume Architecture fault-tolerant breakthroughs, Construct software suite, U.S. and Australian government utility-scale deployments (A$940M Brisbane Facility, Illinois Quantum Park Chicago), DARPA Quantum Benchmarking Initiative (QBI) awards, DOE Genesis Mission projects, and a complete chronological press index (`https://www.psiquantum.com/news`) extending down to the verification landmark on **January 30, 2023** (`https://www.psiquantum.com/news-import/psiquantum-announces-breakthrough-in-architectures-for-error-corrected-quantum-computing`), managed strictly within `child_papers/`.
 >

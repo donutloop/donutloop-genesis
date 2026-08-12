@@ -1,5 +1,7 @@
 # Quantinuum — Umfassende technische Architektur, Trapped-Ion QCCD Systems, and Ecosystem Reference Index
 
+[← Zurück zum Haupt-Papier der Genesis Mission](../README.de.md)
+
 > **Übersicht des technischen Vertiefungspapiers:**
 > This document serves as the dedicated deep-dive technical paper and curated reference index for **Quantinuum Inc.** (formed on **November 30, 2021** by combining Honeywell Quantum Solutions & Cambridge Quantum Computing), detailing its trapped-ion QCCD quantum processors (System Model H1-1, H1-2, H2-1, Helios, Reimei), 99.999% single-qubit and 99.9% two-qubit gate fidelities, logical qubit error correction breakthroughs (48 logical qubits with Microsoft), quantum software suite (TKET, InQuanto, Quantum Origin), federal & DOE National Laboratory co-simulations under the **[Genesis Mission](https://www.energy.gov/genesis-mission)**, DARPA Quantum Benchmarking awards, and a complete 77-release chronological press index (`https://www.quantinuum.com/news/news#press-release`) spanning from current releases down to company formation on **November 30, 2021**, managed strictly within `child_papers/`.
 >

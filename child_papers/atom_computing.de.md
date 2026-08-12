@@ -1,5 +1,7 @@
 # Atom Computing — Umfassende technische Architektur, Neutral Atom 3D Tweezer QPUs, and Ecosystem Reference Index
 
+[← Zurück zum Haupt-Papier der Genesis Mission](../README.de.md)
+
 > **Übersicht des technischen Vertiefungspapiers:**
 > This document serves as the dedicated deep-dive technical paper and curated reference index for **Atom Computing Inc.**, detailing its neutral atom quantum computing architecture based on Ytterbium-171 ($^{171}\text{Yb}$) nuclear spin qubits, 3D optical tweezer arrays (1,180+ physical qubits milestone, 1,225 trap sites), Rydberg blockade entangling gates, optical clock laser control, Toric Code Quantum Error Correction breakthroughs, joint commercial partnership with Microsoft Azure Quantum (50 fault-tolerant logical qubits milestone), strategic alliances with NVIDIA (NVQLink & Ising), Cisco (quantum networking), Phasecraft, and Nu Quantum, DARPA US2QC & Quantum Benchmarking Initiative (QBI) awards, U.S. Department of Energy (DOE Genesis Mission awards), $300M+ total capital raises ($100M Series C, $60M Series B, $100M CHIPS Act LOI), executive leadership (CEO Rob Hays, Founder & CTO Dr. Ben Bloom), and a complete chronological newsroom index compiling **all 121 archive entries across the entire 25-page newsroom collection** (`https://atom-computing.com/news-resources/`), managed strictly within `child_papers/`.
 >

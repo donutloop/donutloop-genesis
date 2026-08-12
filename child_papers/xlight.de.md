@@ -1,5 +1,7 @@
 # xLight — Umfassende technische Architektur, Accelerator-Driven EUV Light Sources, and Ecosystem Reference Index
 
+[← Zurück zum Haupt-Papier der Genesis Mission](../README.de.md)
+
 > **Übersicht des technischen Vertiefungspapiers:**
 > This document serves as the dedicated deep-dive technical paper and curated reference index for **xLight, Inc.**, detailing its particle accelerator-based Free-Electron Laser (FEL) and Energy Recovery Linac (ERL) Extreme Ultraviolet (EUV) light source technology for leading-edge semiconductor lithography (3nm, 2nm, 1.4nm nodes), U.S. CHIPS and Science Act funding ($150 Million final award letter with Commerce Dept/NIST), U.S. Department of Energy (DOE) **[Genesis Mission](https://www.energy.gov/genesis-mission)** partnership, $40 Million Series B funding, strategic National Laboratory CRADAs (Fermilab & Los Alamos National Laboratory), star executive leadership (Executive Chairman Pat Gelsinger, Board Director Dr. Thomas Caulfield, Chief Scientist Dr. Gennady Stupakov), and a complete chronological newsroom index (`https://www.xlight.com/news`), managed strictly within `child_papers/`.
 >

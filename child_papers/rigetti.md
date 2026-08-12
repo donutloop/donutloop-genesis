@@ -1,5 +1,7 @@
 # Rigetti Computing — Comprehensive Technical Architecture, Superconducting Transmon QPUs, and Ecosystem Reference Index
 
+[← Back to Main Genesis Mission Paper](../README.md)
+
 > **Child Paper Overview:**
 > This document serves as the dedicated deep-dive technical paper and curated reference index for **Rigetti Computing, Inc.** (NASDAQ: RGTI), detailing its full-stack superconducting quantum computing platforms (Ankaa™, Cepheus™, Novera™, Aspen™-M), in-house 200mm MEMS semiconductor foundry (**Fab-1**), Quantum Cloud Services infrastructure (**QCS™**), Quil™ & PyQuil software compilation, federal & DOE National Laboratory co-simulations under the **[Genesis Mission](https://www.energy.gov/genesis-mission)**, and a complete 196-release chronological newsroom index (`https://www.rigetti.com/rigetti-computing-news/`) managed strictly within `child_papers/`.
 >
