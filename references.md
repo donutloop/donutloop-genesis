@@ -289,6 +289,7 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
   * [Energy Department Launches Genesis Mission to Transform American Science and Innovation Through AI](https://www.alcf.anl.gov/news/energy-department-launches-genesis-mission-transform-american-science-and-innovation-through)
   * [SPOTTER: AI Scientific Provenance-Oriented Threat Tracing and Attribution for Genesis Workflows](https://www.anl.gov/genesis-mission/projects/spotter-ai-scientific-provenance-oriented-threat-tracing-and-attribution-for-genesis-workflows)
   * [Prometheus: Automated Rapid Design and Licensing of Advanced Nuclear Technologies Using AI](https://www.anl.gov/genesis-mission/projects/prometheus)
+  * [Superconducting Polychronous Computation Near Criticality](https://www.anl.gov/genesis-mission/projects/superconducting-polychronous-computation-near-criticality)
   * [Argonne National Laboratory: Genesis Open Models Platform & Scientific Model Repository](https://genesisopenmodels.anl.gov/)
   * [Argonne National Laboratory: Genesis Open Models — About Genesis-Science-1 (GS1)](https://genesisopenmodels.anl.gov/about-gs1/)
   * [GridMind: Powering the Control Room of the Future with AI Agents](https://www.anl.gov/article/gridmind-powering-the-control-room-of-the-future-with-ai-agents)
