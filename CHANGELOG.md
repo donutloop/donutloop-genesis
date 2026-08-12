@@ -5,6 +5,16 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.0.65] - 2026-08-12
+
+### Added
+- **Processed Genesis Mission Summit 2026 Panel Discussion & Breakout Groups Video Reference**: Processed reference link `https://youtu.be/ZHk2Kdg0fIw` (*Panel Discussion and Breakout Groups—Genesis Mission Summit 2026*), adding entry to [`references.md`](file:///home/donutloop/Workspace/donutloop-genesis/references.md#L558) Section 6 under Additional Event Materials & Reference Links.
+- **Master Index Audit**: Registered Master Index Entry `#476` in [`reference_coverage.md`](file:///home/donutloop/Workspace/donutloop-genesis/reference_coverage.md) (updating total metrics to **488 / 488 Processed**, 100% Complete across 225 unique target domains with 471 Web/News items), renumbered downstream index rows `#477` to `#488`, and updated DOE notes in [`coverage.md`](file:///home/donutloop/Workspace/donutloop-genesis/coverage.md#L137).
+- **Enriched Section 3.4 in English & German Papers**: Integrated official Summit 2026 panel discussion and technical breakout group video featuring Rick Stevens (ANL), Brian Spears (LLNL), Kelly Rose (NETL), and Gina Taurasi (ORNL) in [`README.md`](file:///home/donutloop/Workspace/donutloop-genesis/README.md#L706) and [`README.de.md`](file:///home/donutloop/Workspace/donutloop-genesis/README.de.md#L699).
+- **Version Bump**: Incremented version string to `3.0.65` across [`README.md`](file:///home/donutloop/Workspace/donutloop-genesis/README.md) and [`README.de.md`](file:///home/donutloop/Workspace/donutloop-genesis/README.de.md).
+
+---
+
 ## [3.0.64] - 2026-08-12
 
 ### Added
