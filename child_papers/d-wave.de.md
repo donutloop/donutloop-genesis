@@ -3,9 +3,9 @@
 [← Zurück zum Haupt-Papier der Genesis Mission](../README.de.md)
 
 > **Übersicht des technischen Vertiefungspapiers:**
-> This document serves as the dedicated deep-dive technical paper and curated reference index for **D-Wave Quantum Inc.** (NYSE: QBTS), detailing its dual-platform quantum hardware development (commercial flux quantum annealing and gate-model superconducting architectures), hybrid cloud infrastructure (Leap & Ocean SDK), federal and DOE National Laboratory collaborations under the **[Genesis Mission](https://www.energy.gov/genesis-mission)**, and a focused 2018–2026 chronological press and reference index (`https://www.dwavequantum.com/company/newsroom/?y=2018` through `?y=2026`) managed strictly within `chhild_papers/`.
+> Dieses Dokument dient als dediziertes vertiefendes technisches Papier und kuratierter Referenzindex für **D-Wave Quantum Inc.** (NYSE: QBTS), mit Details zu seiner dual-platform quantum hardware development (commercial flux quantum annealing and gate-model superconducting architectures), hybrid cloud infrastructure (Leap & Ocean SDK), federal and DOE National Laboratory collaborations under the **[Genesis Mission](https://www.energy.gov/genesis-mission)**, and a focused 2018–2026 chronological press and reference index (`https://www.dwavequantum.com/company/newsroom/?y=2018` through `?y=2026`) managed strictly within `chhild_papers/`.
 >
-> **Version:** `v1.0.0` (Released 2026-08-12)
+> **Version:** `v1.0.0` (Veröffentlicht am 2026-08-12)
 
 ---
 
@@ -41,7 +41,7 @@
 ## 3. Gate-Model Supercomputing Architecture & Fault-Tolerance (2026 Hardware Demonstrations)
 - **Flux Qubit Advantage:** Leverages flux-qubit architectures with high anharmonicity and robust protection against charge noise, providing longer coherence times relative to conventional transmon qubits.
 - **Hardware Error Correction Demonstration (August 2026):** Physical hardware demonstration of error correction using dual-rail flux qubit encodings, achieving logical error suppression below physical qubit thresholds.
-- **Error-Aware Gate-Model Simulator (June 2026):** Released the world's first gate-model quantum computing simulator tailored for error-aware programming, allowing developers to write and test error-mitigated quantum algorithms prior to hardware execution.
+- **Error-Aware Gate-Model Simulator (June 2026):** Veröffentlicht am the world's first gate-model quantum computing simulator tailored for error-aware programming, allowing developers to write and test error-mitigated quantum algorithms prior to hardware execution.
 - **100-Logical-Qubit Target:** Progressing from multi-qubit gate demonstration chips toward fault-tolerant logical qubits and 100 logical qubits by 2032.
 
 ---
@@ -70,7 +70,7 @@
 | Datum | Artikeltitel & Referenzlink | Kategorie / Thema | Primärer technischer Fokus |
 | :--- | :--- | :--- | :--- |
 | **2018-06-06** | [D-Wave Reports Customer Growth and $80 Million in Total Customer Contracts](https://www.dwavequantum.com/company/newsroom/press-release/d-wave-reports-customer-growth-80M-contracts/) | Commercial Milestones | Global customer growth surpassing $80M in customer commitments across Japan, Europe, and North America. |
-| **2018-07-12** | [D-Wave Announces Science Journal Publication on Quantum Spin Glass Phase Transitions](https://www.dwavequantum.com/company/newsroom/press-release/d-wave-science-journal-quantum-spin-glass/) | Academic Publication | Publication in *Science* detailing quantum simulation of phase transitions in 3D spin glasses on D-Wave 2000Q. |
+| **2018-07-12** | [D-Wave Announces Fachzeitschrift Science Publication on Quantum Spin Glass Phase Transitions](https://www.dwavequantum.com/company/newsroom/press-release/d-wave-science-journal-quantum-spin-glass/) | Academic Publication | Publication in *Science* detailing quantum simulation of phase transitions in 3D spin glasses on D-Wave 2000Q. |
 | **2018-08-22** | [D-Wave Demonstrates Topological Quantum Simulation in Nature](https://www.nature.com/articles/s41586-018-0410-x) | Quantum Physics | Publication in *Nature* demonstrating Kosterlitz-Thouless topological phase transition in a 1,800-qubit lattice. |
 | **2018-10-04** | [D-Wave Launches Leap Real-Time Quantum Cloud Service](https://www.dwavequantum.com/company/newsroom/press-release/d-wave-launches-leap-quantum-cloud-service/) | Cloud Infrastructure | Commercial launch of Leap quantum cloud service and open-source Ocean SDK for real-time QPU access. |
 | **2018-11-05** | [D-Wave and Volkswagen Announce Quantum Traffic Management System at Web Summit](https://www.dwavequantum.com/company/newsroom/press-release/d-wave-volkswagen-quantum-traffic-management/) | Industrial AI | Web Summit 2018 demonstration of quantum traffic flow optimization for public transport and taxi routing. |
@@ -133,14 +133,14 @@
 6. **Genesis Mission Consortium**. [Quantum Supercomputing & Industrial Co-Design Platform](https://www.genesismissionconsortium.org/).
 
 ## Referenzen & Dokumentenquellen
-1. **D-Wave Quantum Official Site**. [D-Wave 2018 Newsroom & Press Releases](https://www.dwavequantum.com/company/newsroom/?y=2018).
-2. **D-Wave Quantum Official Site**. [D-Wave 2019 Newsroom & Press Releases](https://www.dwavequantum.com/company/newsroom/?y=2019).
-3. **D-Wave Quantum Official Site**. [D-Wave 2020 Newsroom & Press Releases](https://www.dwavequantum.com/company/newsroom/?y=2020).
-4. **D-Wave Quantum Official Site**. [D-Wave 2021 Newsroom & Press Releases](https://www.dwavequantum.com/company/newsroom/?y=2021).
-5. **D-Wave Quantum Official Site**. [D-Wave 2022 Newsroom & Press Releases](https://www.dwavequantum.com/company/newsroom/?y=2022).
-6. **D-Wave Quantum Official Site**. [D-Wave 2023 Newsroom & Press Releases](https://www.dwavequantum.com/company/newsroom/?y=2023).
-7. **D-Wave Quantum Official Site**. [D-Wave 2024 Newsroom & Press Releases](https://www.dwavequantum.com/company/newsroom/?y=2024).
-8. **D-Wave Quantum Official Site**. [D-Wave 2025 Newsroom & Press Releases](https://www.dwavequantum.com/company/newsroom/?y=2025).
-9. **D-Wave Quantum Official Site**. [D-Wave 2026 Newsroom & Press Releases](https://www.dwavequantum.com/company/newsroom/?y=2026).
-10. **Nature Journal**. [Observation of topological phenomena in a programmable lattice of 1,800 qubits](https://www.nature.com/articles/s41586-018-0410-x). Nature 560, 456–460 (2018).
-11. **Science Journal**. [Phase transitions in a programmable 3D spin glass simulator](https://www.science.org/journal/science). Science (2018).
+1. **D-Wave Quantum Offizielle Website**. [D-Wave 2018 Newsroom & Pressemitteilungen](https://www.dwavequantum.com/company/newsroom/?y=2018).
+2. **D-Wave Quantum Offizielle Website**. [D-Wave 2019 Newsroom & Pressemitteilungen](https://www.dwavequantum.com/company/newsroom/?y=2019).
+3. **D-Wave Quantum Offizielle Website**. [D-Wave 2020 Newsroom & Pressemitteilungen](https://www.dwavequantum.com/company/newsroom/?y=2020).
+4. **D-Wave Quantum Offizielle Website**. [D-Wave 2021 Newsroom & Pressemitteilungen](https://www.dwavequantum.com/company/newsroom/?y=2021).
+5. **D-Wave Quantum Offizielle Website**. [D-Wave 2022 Newsroom & Pressemitteilungen](https://www.dwavequantum.com/company/newsroom/?y=2022).
+6. **D-Wave Quantum Offizielle Website**. [D-Wave 2023 Newsroom & Pressemitteilungen](https://www.dwavequantum.com/company/newsroom/?y=2023).
+7. **D-Wave Quantum Offizielle Website**. [D-Wave 2024 Newsroom & Pressemitteilungen](https://www.dwavequantum.com/company/newsroom/?y=2024).
+8. **D-Wave Quantum Offizielle Website**. [D-Wave 2025 Newsroom & Pressemitteilungen](https://www.dwavequantum.com/company/newsroom/?y=2025).
+9. **D-Wave Quantum Offizielle Website**. [D-Wave 2026 Newsroom & Pressemitteilungen](https://www.dwavequantum.com/company/newsroom/?y=2026).
+10. **Fachzeitschrift Nature**. [Observation of topological phenomena in a programmable lattice of 1,800 qubits](https://www.nature.com/articles/s41586-018-0410-x). Nature 560, 456–460 (2018).
+11. **Fachzeitschrift Science**. [Phase transitions in a programmable 3D spin glass simulator](https://www.science.org/journal/science). Science (2018).

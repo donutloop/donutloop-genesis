@@ -3,9 +3,9 @@
 [← Zurück zum Haupt-Papier der Genesis Mission](../README.de.md)
 
 > **Übersicht des technischen Vertiefungspapiers:**
-> This document serves as the dedicated deep-dive technical paper and curated reference index for **xLight, Inc.**, detailing its particle accelerator-based Free-Electron Laser (FEL) and Energy Recovery Linac (ERL) Extreme Ultraviolet (EUV) light source technology for leading-edge semiconductor lithography (3nm, 2nm, 1.4nm nodes), U.S. CHIPS and Science Act funding ($150 Million final award letter with Commerce Dept/NIST), U.S. Department of Energy (DOE) **[Genesis Mission](https://www.energy.gov/genesis-mission)** partnership, $40 Million Series B funding, strategic National Laboratory CRADAs (Fermilab & Los Alamos National Laboratory), star executive leadership (Executive Chairman Pat Gelsinger, Board Director Dr. Thomas Caulfield, Chief Scientist Dr. Gennady Stupakov), and a complete chronological newsroom index (`https://www.xlight.com/news`), managed strictly within `child_papers/`.
+> Dieses Dokument dient als dediziertes vertiefendes technisches Papier und kuratierter Referenzindex für **xLight, Inc.**, mit Details zu seiner particle accelerator-based Free-Electron Laser (FEL) and Energy Recovery Linac (ERL) Extreme Ultraviolet (EUV) light source technology for leading-edge semiconductor lithography (3nm, 2nm, 1.4nm nodes), U.S. CHIPS and Science Act funding ($150 Million final award letter with Commerce Dept/NIST), U.S. Department of Energy (DOE) **[Genesis Mission](https://www.energy.gov/genesis-mission)** partnership, $40 Million Series B funding, strategic National Laboratory CRADAs (Fermilab & Los Alamos National Laboratory), star executive leadership (Executive Chairman Pat Gelsinger, Board Director Dr. Thomas Caulfield, Chief Scientist Dr. Gennady Stupakov), and a complete chronological newsroom index (`https://www.xlight.com/news`), verwaltet ausschließlich in `child_papers/`.
 >
-> **Version:** `v1.0.0` (Released 2026-08-13)
+> **Version:** `v1.0.0` (Veröffentlicht am 2026-08-13)
 
 ---
 
@@ -82,7 +82,7 @@
 6. **Genesis Mission Consortium**. [Quantum Supercomputing & Industrial Co-Design Platform](https://www.genesismissionconsortium.org/).
 
 ## Referenzen & Dokumentenquellen
-1. **xLight Official Site**. [xLight Corporate Newsroom & Press Archive](https://www.xlight.com/news).
+1. **xLight Offizielle Website**. [xLight Corporate Newsroom & Press Archive](https://www.xlight.com/news).
 2. **U.S. Department of Commerce & NIST**. [CHIPS and Science Act $150 Million Final Award Letter to xLight](https://www.commerce.gov/). June 2, 2026.
 3. **Fermi National Accelerator Laboratory**. [Fermilab & xLight DOE Genesis Mission CRADA Announcement Letter](https://www.fnal.gov/). April 4, 2024.
 4. **SPIE Advanced Lithography 2026**. [xLight Public Architecture White Paper](https://cdn.prod.website-files.com/69b41585dfb26ff2bd336332/6a035273113237be25916942_SPIE-AL-2026-xLight-Public.pdf).
