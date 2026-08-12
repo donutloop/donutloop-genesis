@@ -5,6 +5,14 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.0.67] - 2026-08-12
+
+### Fixed
+- **Cleaned Appendix A.6 Video Table**: Removed non-YouTube event portal link (*The Next Frontier: How AI Is Reshaping Discovery at Argonne*, `anl.gov/event`) from Appendix A.6 multimedia table in [`README.md`](file:///home/donutloop/Workspace/donutloop-genesis/README.md#L1066) and [`README.de.md`](file:///home/donutloop/Workspace/donutloop-genesis/README.de.md#L1030), ensuring Appendix A.6 exclusively indexes direct video recording links (10 YouTube videos).
+- **Version Bump**: Incremented version string to `3.0.67` across [`README.md`](file:///home/donutloop/Workspace/donutloop-genesis/README.md) and [`README.de.md`](file:///home/donutloop/Workspace/donutloop-genesis/README.de.md).
+
+---
+
 ## [3.0.66] - 2026-08-12
 
 ### Added

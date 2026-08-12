@@ -1,4 +1,4 @@
-**Version**: 3.0.66
+**Version**: 3.0.67
 
 # Die Genesis-Mission: Architektur, strategische Initiativen und das multi-institutionelle Ökosystem für KI- und quantengetriebene wissenschaftliche Entdeckungen
 
@@ -1043,7 +1043,6 @@ Die folgenden technischen Präsentationsaufzeichnungen, Führungskräfte-Briefin
 | [Panel Discussion and Breakout Groups—Genesis Mission Summit 2026](https://youtu.be/ZHk2Kdg0fIw) | U.S. Department of Energy (DOE) | Rick Stevens (ANL), Brian Spears (LLNL), Kelly Rose (NETL), Gina Taurasi (ORNL) | Technische Podiumsdiskussion zu agentischen KI-Schwungrädern, Theory of Change, Shared-Platform-Gear-Sites, Datenzentriertheit, laborübergreifender Datenföderation, Sicherheits-Governance und behördenübergreifender KI-Zusammenarbeit. |
 | [Ambassador Yamada Fireside Chat—Genesis Mission Summit 2026](https://youtu.be/drGt8WuHvnY) | U.S. Department of Energy (DOE) | S.E. Shigeo Yamada (Botschafter Japans in den USA) & DOE-Führung | Internationaler Fireside Chat über wissenschaftliche Rechenallianzen zwischen den USA und Japan, gemeinsames HPC- & KI-Supercomputer-Co-Design (RIKEN, Fujitsu, NVIDIA, ANL FugakuNEXT), Teilen offener wissenschaftlicher Basismodelle und Quanten-Exascale-Kooperation. |
 | [Closing Remarks from Deputy Secretary James Danly—Genesis Mission Summit 2026](https://youtu.be/AO5ELxVOcYM) | U.S. Department of Energy (DOE) | James Danly (Stellvertretender Energieminister) | Schlussansprache des Summit 2026 zur Zusammenfassung von über 800 Mio. $ an Infrastrukturzusagen der Partner, 300 initialen Phase-I/II-Forschungsprojekten und nationalen Sicherheitsrichtlinien. |
-| [The Next Frontier: How AI Is Reshaping Discovery at Argonne](https://www.anl.gov/event/the-next-frontier-how-ai-is-reshaping-discovery-at-argonne) | Argonne National Laboratory (ANL) | Michael Papka (ALCF), Ilke Arslan, Katrin Heitmann, Ravi Madduri | Öffentliche Vorlesungsreihe Argonne OutLoud zu KI-Basismodellen für die Wissenschaft, Aurora-Exascale-Supercomputing, autonomen Laborabläufen, Klimamodellierung und Strukturbiologie. |
 
 ---
 

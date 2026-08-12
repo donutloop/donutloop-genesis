@@ -1,4 +1,4 @@
-**Version**: 3.0.66
+**Version**: 3.0.67
 
 # The Genesis Mission: Architecture, Strategic Initiatives, and the Multi-Institutional Ecosystem for AI and Quantum-Driven Scientific Discovery
 
@@ -1079,7 +1079,6 @@ The following key technical presentation recordings, executive briefings, and mu
 | [Panel Discussion and Breakout Groups—Genesis Mission Summit 2026](https://youtu.be/ZHk2Kdg0fIw) | U.S. Department of Energy (DOE) | Rick Stevens (ANL), Brian Spears (LLNL), Kelly Rose (NETL), Gina Taurasi (ORNL) | Technical panel session detailing agentic AI flywheels, theory of change, shared platform gear sites, data centrality, multi-lab data federation, security governance, and multi-agency AI collaboration. |
 | [Ambassador Yamada Fireside Chat—Genesis Mission Summit 2026](https://youtu.be/drGt8WuHvnY) | U.S. Department of Energy (DOE) | H.E. Shigeo Yamada (Ambassador of Japan to the U.S.) & DOE Leadership | International fireside chat on U.S.-Japan scientific computing alliances, joint HPC & AI supercomputer co-design (RIKEN, Fujitsu, NVIDIA, ANL FugakuNEXT), open scientific foundation model sharing, and quantum-exascale cooperation. |
 | [Closing Remarks from Deputy Secretary James Danly—Genesis Mission Summit 2026](https://youtu.be/AO5ELxVOcYM) | U.S. Department of Energy (DOE) | James Danly (Deputy Secretary of Energy) | Summit 2026 closing address summarizing $800M+ partner infrastructure commitments, 300 initial Phase-I/II research projects, and national security directives. |
-| [The Next Frontier: How AI Is Reshaping Discovery at Argonne](https://www.anl.gov/event/the-next-frontier-how-ai-is-reshaping-discovery-at-argonne) | Argonne National Laboratory (ANL) | Michael Papka (ALCF), Ilke Arslan, Katrin Heitmann, Ravi Madduri | Argonne OutLoud public lecture series on AI foundation models for science, Aurora exascale supercomputing, autonomous laboratory workflows, climate modeling, and structural biology. |
 
 ---
 
