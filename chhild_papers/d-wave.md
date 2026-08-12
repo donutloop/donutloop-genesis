@@ -1,7 +1,7 @@
 # D-Wave Quantum — Technical Architecture, Quantum Systems, and Ecosystem Reference Index
 
 > **Child Paper Overview:**
-> This document serves as the dedicated deep-dive technical paper and curated reference index for **D-Wave Quantum Inc.** (NYSE: QBTS), detailing its dual-platform quantum hardware development (commercial flux quantum annealing and gate-model superconducting architectures), hybrid cloud infrastructure (Leap & Ocean SDK), federal and DOE National Laboratory collaborations under the **Genesis Mission**, and a focused 2018–2023 chronological press and reference index (`https://www.dwavequantum.com/company/newsroom/?y=2018`, `?y=2019`, `?y=2020`, `?y=2021`, `?y=2022` & `?y=2023`) managed strictly within `chhild_papers/`.
+> This document serves as the dedicated deep-dive technical paper and curated reference index for **D-Wave Quantum Inc.** (NYSE: QBTS), detailing its dual-platform quantum hardware development (commercial flux quantum annealing and gate-model superconducting architectures), hybrid cloud infrastructure (Leap & Ocean SDK), federal and DOE National Laboratory collaborations under the **Genesis Mission**, and a focused 2018–2024 chronological press and reference index (`https://www.dwavequantum.com/company/newsroom/?y=2018`, `?y=2019`, `?y=2020`, `?y=2021`, `?y=2022`, `?y=2023` & `?y=2024`) managed strictly within `chhild_papers/`.
 
 ---
 
@@ -10,13 +10,14 @@
   1. **Commercial Quantum Annealing:** Production-grade flux-qubit quantum annealing systems optimized for complex combinatorial optimization, materials simulation, machine learning, and supply chain scheduling.
   2. **Gate-Model Superconducting Architecture:** High-coherence flux-qubit gate-model quantum processors targeting fault-tolerant utility-scale quantum computing with a roadmap toward 100 logical qubits by 2032.
 - **CHIPS and Science Act LOI:** D-Wave entered into a **$100 Million** Letter of Intent (LOI) with the U.S. Department of Commerce under the CHIPS and Science Act to scale domestic quantum hardware manufacturing and packaging across facilities in California, Colorado, and Florida.
-- **2018–2023 Expansion Years (`?y=2018`, `?y=2019`, `?y=2020`, `?y=2021`, `?y=2022` & `?y=2023` Archive Focus):**
+- **2018–2024 Expansion Years (`?y=2018` through `?y=2024` Archive Focus):**
   - **2018 Breakthroughs:** Surpassed $80 Million in customer contracts, published milestone quantum simulations in *Science* (spin glass phase transitions) and *Nature* (1,800-qubit Kosterlitz-Thouless topological phase transition), launched **Leap™** quantum cloud, and partnered with Volkswagen for Web Summit traffic management.
   - **2019 Milestones:** Officially named the **Advantage™** system with 15-way **Pegasus™** topology (5,000+ qubits), signed LANL as first on-premises Advantage customer, established European Leap cloud node at Forschungszentrum Jülich (JUNIQ), signed milestone commercial contract with Sigma-i, and established strategic commercial partnership with NEC Corporation.
   - **2020 GA & Innovation:** Launched **Leap 2** with hybrid solvers supporting up to 10,000 variables, opened free Leap cloud access for COVID-19 research teams worldwide, secured a **$10 Million equity investment and strategic alliance with NEC**, achieved **General Availability of the 5,000-qubit Advantage system**, and enabled cross-system interoperability with IBM Qiskit.
   - **2021 Clarity Roadmap:** Expanded Leap cloud access to Singapore, launched D-Wave Launch program expansion, introduced the breakthrough **Constrained Quadratic Model (CQM)** hybrid solver, and unveiled the **Clarity** product roadmap introducing the **Advantage2™** system (7,000+ qubits, 20-way Zephyr topology).
   - **2022 NYSE Listing & Mastercard Alliance:** Completed public listing on the NYSE under ticker **QBTS** on August 8, 2022, deployed first U.S.-based Advantage QPU in Leap cloud, released early hardware access to the 500+ qubit Advantage2 experimental prototype on 20-way Zephyr topology, and established multi-year financial technology strategic alliance with **Mastercard** (NYSE: MA).
   - **2023 Commercial Expansion & Security Audit:** Signed multi-year defense reseller agreement with **Davidson Technologies** for missile defense optimization, expanded Leap cloud service to Israel, achieved **SOC 2 Type 1** security compliance certification, and showcased commercial enterprise adoption across Pattison Food Group, Recruit Group, and SavantX at Qubits 2023.
+  - **2024 Advantage2 Hardware Scaling & Nonlinear Solvers:** Made the lower-noise **1,200+ qubit Advantage2 prototype** available in Leap (20x speedup), released sub-microsecond **fast-anneal** feature, launched new **nonlinear hybrid quantum solver** at Qubits 2024, and benchmarked the sixth-generation **4,400+ qubit Advantage2 processor** with 48,000+ couplers.
 - **Genesis Mission & Federal Integration:** Integrates hybrid classical-quantum cloud solvers via **Leap** across DOE National Laboratories (LANL, ORNL, NREL ARIES) for real-time power grid dispatch optimization, materials discovery, and nuclear deterrence simulation.
 
 ---
@@ -24,9 +25,10 @@
 ## 2. Quantum Annealing Hardware (Advantage & Advantage2 Systems)
 - **D-Wave 2000Q & 1,800-Qubit Lattice:** 2,000 flux qubits with 6-way Chimera connectivity, upgraded at LANL in March 2019 and utilized for 2018 *Science* and *Nature* topological quantum material simulation breakthroughs.
 - **Advantage™ System (GA September 2020):** Built for production commercial use featuring **5,000+ flux qubits** with 15-way **Pegasus™** connectivity (2.5x higher connectivity than Chimera graph), deployed in the US via Leap in May 2022.
-- **Advantage2™ Prototype & Architecture (Previewed June 2022):**
-  - **Experimental Prototype:** Released to customers via Leap in June 2022 featuring 500+ qubits (expanded to 1,200+ qubits in 2023) and 20-way Zephyr interconnect topology, executing over 3 million user problems in 2022 alone.
-  - **Full Production Target:** 7,000+ qubits and 48,000+ tunable couplers built on 20-way Zephyr topology, delivering 2x energy scale improvement and 40% thermal noise reduction.
+- **Advantage2™ Prototype & 4,400+ Qubit Processor Scaling (2024):**
+  - **1,200+ Qubit Prototype (Feb 2024):** Available in Leap featuring lower-noise multilayer fabrication, 20-way Zephyr topology, and 20x speedup on hard optimization problems.
+  - **Sub-Microsecond Fast-Anneal (April 2024):** Enabled sub-microsecond annealing times to suppress thermal noise and study non-equilibrium quantum dynamics.
+  - **4,400+ Qubit Processor Benchmark (Nov 2024):** Successfully calibrated sixth-generation Advantage2 QPU with 4,400+ active qubits and 48,000+ couplers on 20-way Zephyr topology.
   - **Multi-Chip Scalability:** Roadmap targeting 100,000+ flux qubits via multi-chip 3D integrated superconducting packaging and cryogenic control electronics.
 
 ---
@@ -39,24 +41,24 @@
 
 ---
 
-## 4. Hybrid Cloud Infrastructure (Leap, Leap 2, CQM & Security Certification)
-- **Leap™ & Leap 2 Quantum Cloud Service:** Launched in October 2018, expanded in February 2020 with Leap 2, expanded to Singapore in 2021, added U.S. Advantage deployment in 2022, and expanded access to Israel in February 2023.
-- **SOC 2 Type 1 Security Certification (April 2023):** Achieved independent SOC 2 Type 1 audit compliance, certifying security, availability, and processing integrity for Leap cloud infrastructure.
-- **Constrained Quadratic Model (CQM) Solver & Performance Upgrades:** Breakthrough hybrid solver engine handling constrained optimization problems with integer and continuous variables across commercial workflows, with performance speedups released in August 2023.
+## 4. Hybrid Cloud Infrastructure (Leap, CQM & Nonlinear Solvers)
+- **Leap™ Quantum Cloud Service:** High-availability cloud infrastructure with global deployment nodes in North America, Europe (JUNIQ / Jülich), Singapore, and Israel, maintaining SOC 2 Type 1 security certification.
+- **Nonlinear Hybrid Quantum Solver (June 2024):** Launched at Qubits 2024 to support complex nonlinear optimization problems in workforce scheduling, manufacturing, and supply chain routing.
+- **Constrained Quadratic Model (CQM) & Fast-Anneal API:** Supports mixed-integer linear, quadratic, and nonlinear constraints with sub-microsecond QPU anneal timing controls.
 
 ---
 
 ## 5. Federal, National Laboratory & Enterprise Applications
-- **Davidson Technologies (Defense & Aerospace Reseller Agreement, Jan 2023):** Multi-year agreement to deploy D-Wave hybrid quantum applications for U.S. missile defense planning, radar resource allocation, and defense logistics.
-- **Pattison Food Group (Supply Chain & Retail):** Commercial deployment of hybrid quantum annealing for retail grocery logistics, inventory distribution, and shelf scheduling showcase at Qubits 2023.
-- **NYSE Public Listing (NYSE: QBTS, August 2022):** Completed public business combination with DPCM Capital, raising growth capital to accelerate quantum hardware manufacturing and commercial execution.
+- **Davidson Technologies (Defense & Aerospace Reseller Agreement):** Deploying D-Wave hybrid quantum solvers for U.S. missile defense planning, radar resource allocation, and defense logistics.
+- **Pattison Food Group (Supply Chain & Retail):** Commercial deployment of hybrid quantum annealing for retail grocery logistics, inventory distribution, and shelf scheduling.
+- **NYSE Public Listing (NYSE: QBTS):** Traded publicly on NYSE, expanding R&D investment for Advantage2 quantum annealing and flux-qubit gate-model systems.
 - **Mastercard (NYSE: MA):** Strategic alliance to research and deploy hybrid quantum applications for global payment networks and fraud management.
 - **Los Alamos National Laboratory (LANL):** On-premises deployment of D-Wave quantum annealing systems for materials science research, stockpile hydrodynamics simulation, and complex graph partitioning.
 - **Oak Ridge National Laboratory (ORNL) & NREL ARIES:** Coupling D-Wave quantum annealing with megawatt-scale power grid simulators for real-time electric vehicle charging and grid dispatch optimization.
 
 ---
 
-## 6. Complete Chronological Press & Reference Index (`?y=2018`, `?y=2019`, `?y=2020`, `?y=2021`, `?y=2022` & `?y=2023` Archive Focus)
+## 6. Complete Chronological Press & Reference Index (`?y=2018` through `?y=2024` Archive Focus)
 
 | Date | Article Title & Reference Link | Category / Topic | Primary Technical Focus |
 | :--- | :--- | :--- | :--- |
@@ -96,6 +98,13 @@
 | **2023-02-14** | [D-Wave Expands Leap Quantum Cloud Access to Israel & Introduces Quantum AI Feature Selection](https://www.dwavequantum.com/company/newsroom/press-release/d-wave-expands-leap-israel-quantum-ai-feature-selection/) | Cloud & AI Expansion | Expansion of Leap quantum cloud service to Israel and release of Quantum AI feature selection tools. |
 | **2023-04-20** | [D-Wave Successfully Completes SOC 2 Type 1 Audit for Quantum Cloud Service Security](https://www.dwavequantum.com/company/newsroom/press-release/d-wave-completes-soc-2-type-1-audit/) | Security Compliance | Achieved SOC 2 Type 1 compliance certification for the Leap quantum cloud service environment. |
 | **2023-08-08** | [D-Wave Announces Performance Enhancements for Hybrid Quantum Solvers in Leap](https://www.dwavequantum.com/company/newsroom/press-release/d-wave-hybrid-solver-performance-enhancements/) | Cloud Solvers | Hybrid solver engine updates enabling faster convergence and higher solution quality for enterprise optimization. |
+| **2024-02-12** | [D-Wave Announces Availability of 1,200+ Qubit Advantage2 Experimental Prototype in Leap Quantum Cloud](https://www.dwavequantum.com/company/newsroom/press-release/d-wave-availability-1200-qubit-advantage2-prototype/) | Prototype Hardware | Availability of lower-noise 1,200+ qubit Advantage2 prototype in Leap with 20x faster time-to-solution. |
+| **2024-04-18** | [D-Wave Introduces Fast-Anneal Capability for Advantage2 Quantum System Prototypes](https://www.dwavequantum.com/company/newsroom/press-release/d-wave-introduces-fast-anneal-capability/) | Feature Release | Sub-microsecond fast-anneal features allowing users to suppress thermal noise and study quantum dynamics. |
+| **2024-05-13** | [D-Wave Reports First Quarter 2024 Financial Results](https://www.dwavequantum.com/company/newsroom/press-release/d-wave-reports-first-quarter-2024-financial-results/) | Financial Performance | 56% YoY revenue growth and 54% YoY growth in customer bookings. |
+| **2024-06-17** | [D-Wave Launches New Hybrid Quantum Solver for Nonlinear Programs at Qubits 2024](https://www.dwavequantum.com/company/newsroom/press-release/d-wave-launches-nonlinear-hybrid-solver-qubits-2024/) | Solver Engine | Launch of nonlinear hybrid quantum solver in Leap for workforce, manufacturing, and flow optimization. |
+| **2024-08-08** | [D-Wave Reports Second Quarter 2024 Financial Results](https://www.dwavequantum.com/company/newsroom/press-release/d-wave-reports-second-quarter-2024-financial-results/) | Financial Performance | Q2 2024 results highlighting expanded Quantum AI product development roadmap. |
+| **2024-11-06** | [D-Wave Announces Successful Calibration and Benchmarking of 4,400+ Qubit Advantage2 Processor](https://www.dwavequantum.com/company/newsroom/press-release/d-wave-benchmarking-4400-qubit-advantage2-processor/) | Hardware Scaling | Calibration of sixth-generation 4,400+ qubit Advantage2 QPU with 48,000+ couplers on Zephyr topology. |
+| **2024-11-14** | [D-Wave Reports Third Quarter 2024 Financial Results](https://www.dwavequantum.com/company/newsroom/press-release/d-wave-reports-third-quarter-2024-financial-results/) | Financial Performance | Updated FY24 financial guidance and launch of new hybrid cloud solver features on Leap. |
 
 ---
 
@@ -106,6 +115,7 @@
 4. **D-Wave Quantum Official Site**. [D-Wave 2021 Newsroom & Press Releases](https://www.dwavequantum.com/company/newsroom/?y=2021).
 5. **D-Wave Quantum Official Site**. [D-Wave 2022 Newsroom & Press Releases](https://www.dwavequantum.com/company/newsroom/?y=2022).
 6. **D-Wave Quantum Official Site**. [D-Wave 2023 Newsroom & Press Releases](https://www.dwavequantum.com/company/newsroom/?y=2023).
-7. **Nature Journal**. [Observation of topological phenomena in a programmable lattice of 1,800 qubits](https://www.nature.com/articles/s41586-018-0410-x). Nature 560, 456–460 (2018).
-8. **Science Journal**. [Phase transitions in a programmable 3D spin glass simulator](https://www.science.org/journal/science). Science (2018).
-9. **D-Wave Quantum Dedicated Child Paper**. [D-Wave Quantum Technical Architecture & Reference Index](https://github.com/donutloop/donutloop-genesis/blob/main/chhild_papers/d-wave.md). GitHub Open-Source Technical Documentation, 2026.
+7. **D-Wave Quantum Official Site**. [D-Wave 2024 Newsroom & Press Releases](https://www.dwavequantum.com/company/newsroom/?y=2024).
+8. **Nature Journal**. [Observation of topological phenomena in a programmable lattice of 1,800 qubits](https://www.nature.com/articles/s41586-018-0410-x). Nature 560, 456–460 (2018).
+9. **Science Journal**. [Phase transitions in a programmable 3D spin glass simulator](https://www.science.org/journal/science). Science (2018).
+10. **D-Wave Quantum Dedicated Child Paper**. [D-Wave Quantum Technical Architecture & Reference Index](https://github.com/donutloop/donutloop-genesis/blob/main/chhild_papers/d-wave.md). GitHub Open-Source Technical Documentation, 2026.
