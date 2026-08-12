@@ -5,6 +5,14 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.4.6] - 2026-08-13
+
+### Corrected & Translated
+- **Full PsiQuantum German Child Paper Translation**: Completed 100% full German translation of [`child_papers/psiquantum.de.md`](./child_papers/psiquantum.de.md) matching [`child_papers/psiquantum.md`](./child_papers/psiquantum.md), fully translating all 6 technical sections, Fusion-Based Quantum Computing (FBQC) architecture, 300mm silicon photonics foundry production (GlobalFoundries & SkyWater), SNSPD cryogenic detectors (~4K), Active Volume Architecture fault tolerance, Construct software suite with NVIDIA CUDA-Q, utility scale facilities (A$940M Brisbane & Chicago Illinois Quantum Park), DARPA US2QC/QBI ($125M agreement), and all 16 chronological newsroom reference links down to January 30, 2023.
+- **Patch Version Release**: Incremented version string to `3.4.6` across [`README.md`](./README.md) and [`README.de.md`](./README.de.md).
+
+---
+
 ## [3.4.5] - 2026-08-13
 
 ### Corrected & Translated
