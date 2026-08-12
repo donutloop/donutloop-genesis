@@ -56,7 +56,7 @@
 
 ---
 
-## 6. Complete Chronological Press & Reference Index (9 Complete Newsroom Archive Links)
+## 6. Complete Chronological Press & Reference Index (10 Complete Newsroom Archive Links)
 
 | Date | Article Title & Reference Link | Category / Topic | Primary Technical Focus |
 | :--- | :--- | :--- | :--- |
@@ -69,6 +69,7 @@
 | **2024-08-25** | [xLight and Los Alamos National Laboratory Leverage Machine Learning to Manufacture Semiconductors in New R&D Project](https://www.xlight.com/blog/xlight-and-los-alamos-national-laboratory-leverage-machine-learning-to-manufacture-semiconductors-in-new-r-d-project) | National Labs & AI | LANL collaboration using machine learning for real-time electron beam and RF stabilization. |
 | **2024-04-17** | [xLight Chief Scientist Gennady Stupakov Wins Prestigious Particle Accelerator Science Award](https://www.xlight.com/blog/xlight-chief-scientist-gennady-stupakov-wins-prestigious-particle-accelerator-science-award) | Corporate & Scientific Award | IEEE/NPSS Particle Accelerator Science Award presented to xLight Chief Scientist Dr. Gennady Stupakov. |
 | **2024-04-04** | [xLight and Fermi National Accelerator Laboratory Sign CRADA](https://www.xlight.com/blog/xlight-and-fermi-national-accelerator-laboratory-sign-crada) | National Labs & Accelerators | Fermilab CRADA co-developing high-gradient SRF cavities for high-repetition-rate linacs. |
+| **2024-01-15** | [xLight Accelerator Lithography Technology & Free-Electron Laser Overview](https://www.xlight.com/technology) | Hardware Architecture | Official technical architecture specification of xLight particle accelerator EUV light source for semiconductor fabs. |
 
 ---
 
@@ -76,4 +77,5 @@
 1. **xLight Official Site**. [xLight Corporate Newsroom & Press Archive](https://www.xlight.com/news).
 2. **U.S. Department of Commerce & NIST**. [CHIPS and Science Act $150 Million Final Award to xLight](https://www.commerce.gov/). June 2, 2026.
 3. **SPIE Advanced Lithography 2026**. [xLight Public Architecture White Paper](https://cdn.prod.website-files.com/69b41585dfb26ff2bd336332/6a035273113237be25916942_SPIE-AL-2026-xLight-Public.pdf).
-4. **xLight Dedicated Child Paper**. [xLight Technical Architecture & Reference Index](https://github.com/donutloop/donutloop-genesis/blob/main/child_papers/xlight.md). GitHub Open-Source Technical Documentation, 2026.
+4. **xLight Technology Architecture**. [xLight Accelerator EUV System Specification](https://www.xlight.com/technology).
+5. **xLight Dedicated Child Paper**. [xLight Technical Architecture & Reference Index](https://github.com/donutloop/donutloop-genesis/blob/main/child_papers/xlight.md). GitHub Open-Source Technical Documentation, 2026.
