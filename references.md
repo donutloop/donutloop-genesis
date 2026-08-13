@@ -594,3 +594,7 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
 * [U.S. Department of Defense: Artificial Intelligence Strategy for the Department of War (PDF)](https://media.defense.gov/2026/Jan/12/2003855671/-1/-1/0/ARTIFICIAL-INTELLIGENCE-STRATEGY-FOR-THE-DEPARTMENT-OF-WAR.PDF)
 * [DOE Office of Science: Genesis Mission Funding Opportunity Announcements (FOAs) Portal](https://science.osti.gov/grants/FOAs/Genesis-Mission)
 * [INL GAIN / ANL: Overview of NE Focus Areas in DOE's Genesis AI Initiative Presentation — Dr. Rick Vilim (PDF)](https://gain.inl.gov/content/uploads/4/2026/06/05-Overview-of-NE-Focus-Areas-in-DOEs-Genesis-AI-Initiative-Rick-Vilim.pdf)
+
+WIP:
+
+https://news.ucr.edu/articles/2026/08/12/ucr-researchers-join-doe-effort-speed-scientific-discovery
