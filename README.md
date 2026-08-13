@@ -1,4 +1,4 @@
-**Version**: 3.4.14
+**Version**: 3.4.15
 
 # The Genesis Mission: Architecture, Strategic Initiatives, and the Multi-Institutional Ecosystem for AI- and Quantum-Driven Scientific Discoveries
 
@@ -352,6 +352,7 @@ Key modality highlights across quantum commitments include:
 
 #### A. High Energy Physics (HEP) & Particle Accelerators
 - *International Collaboration & Briefings*: As presented in formal DOE Office of High Energy Physics (DOE-HEP) briefings at the U.S. ATLAS Institutional Board Meeting (March 18, 2026; CERN Indico Event 1662511), Genesis interfaces with **ATLAS at CERN**, JLab's CEBAF, SLAC's LCLS-II, BNL's RHIC, and Fermilab's AXESS.
+- *DOE Quantum Technology Outposts at Colliders*: In August 2026, the DOE announced **$7.3 Million** for eight new **Quantum Technology Outpost** projects advancing quantum information science in high-energy physics. BNL leads **"Quantum Information Signatures at Colliders"** (in collaboration with the University of Pittsburgh), developing new methods to detect quantum entanglement and quantum information flow within particle collisions at the Large Hadron Collider and BNL's forthcoming **Electron-Ion Collider (EIC)**—probing physics beyond the Standard Model through observables inaccessible to classical techniques. These Outpost projects directly support the Genesis Mission's **Quantum Genesis** initiative targeting impactful quantum computing outcomes by 2028.
 - *AI Workflows & Acceleration*: Operating across 44 U.S. universities and DOE National Labs (BNL, ANL, LBNL), Genesis AI foundation models process multi-terabit real-time sensor feeds, optimize High-Level Trigger (HLT) candidate selection, execute jet reconstruction via Graph Neural Networks (GNNs), calibrate detector digital twins, tune SRF cavity emittance, and accelerate Monte Carlo simulations for High-Luminosity LHC (HL-LHC) readiness.
 
 #### B. Fusion Energy & Autonomous Reactor Control

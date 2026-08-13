@@ -5,6 +5,16 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.4.15] - 2026-08-13
+
+### Added
+- **Reference Index Entry #528**: Processed *Energy Department Announces $7.3M for Quantum Technology Outposts — BNL Leads Quantum Information Signatures at Colliders* (`www.bnl.gov`) — registered under Section 5 (*National Labs & University Coverage*) in `references.md` under the Brookhaven National Laboratory (BNL) block.
+- **Master Index Update**: Registered entry #528 in `reference_coverage.md`; synchronized Total Reference Links (527 → 528), Web Portals (508 → 509), Section 5 count (252 → 253, 47.8% → 47.9%), BNL domain count (`www.bnl.gov` 4 → 5, notes updated to include Quantum Technology Outposts at EIC), and Processing Status (527 / 527 → 528 / 528 Processed, 100% Complete).
+- **Research Paper Enrichment — §2.3-A HEP & Particle Accelerators (README.md & README.de.md)**: Added DOE Quantum Technology Outpost coverage — $7.3M for eight projects, BNL leading *Quantum Information Signatures at Colliders* (with University of Pittsburgh), targeting quantum entanglement observables at the LHC and Electron-Ion Collider to probe physics beyond the Standard Model, in support of the Genesis Mission Quantum Genesis initiative (2028 target).
+- **Patch Version Release**: Incremented version string to `3.4.15` across [`README.md`](./README.md) and [`README.de.md`](./README.de.md).
+
+---
+
 ## [3.4.14] - 2026-08-13
 
 ### Added
