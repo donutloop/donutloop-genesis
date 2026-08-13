@@ -5,6 +5,16 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.4.12] - 2026-08-13
+
+### Added
+- **Reference Index Entry #525**: Processed *Powering the Genesis Mission: How AI and Neutron Scattering Unlock Quantum Material* (`www.youtube.com`) — registered under Section 6 (*Additional Event Materials & Reference Links*) in `references.md` as an ORNL technical video resource.
+- **Master Index Update**: Registered entry #525 in `reference_coverage.md`; updated Total Reference Links (523 → 524), Web Portals (505 → 506), Section 6 link count (15 → 16, 2.9% → 3.1%), and Processing Status (524 → 525 Processed, 100% Complete).
+- **Research Paper Enrichment — §A.6 (README.md & README.de.md)**: Added ORNL video coverage row documenting AI-neutron scattering coupling at SNS/HFIR for accelerated quantum materials discovery and shortened experiment-to-insight cycles in Genesis Mission workflows.
+- **Patch Version Release**: Incremented version string to `3.4.12` across [`README.md`](./README.md) and [`README.de.md`](./README.de.md).
+
+---
+
 ## [3.4.11] - 2026-08-13
 
 ### Added
