@@ -1,4 +1,4 @@
-**Version**: 3.4.10
+**Version**: 3.4.11
 
 # Die Genesis-Mission: Architektur, strategische Initiativen und das multi-institutionelle Ökosystem für KI- und quantengetriebene wissenschaftliche Entdeckungen
 
@@ -1105,6 +1105,7 @@ The following key technical presentation recordings, executive briefings, and mu
 | [Science at the Speed of Light: The Genesis Mission Across DOE Labs (GTC 2026 Session S82461)](https://www.nvidia.com/en-us/on-demand/session/gtc26-s82461/) | NVIDIA Corporation / NVIDIA On-Demand | Dr. Brian Spears (LLNL) & Prof. Rick Stevens (ANL / U.Chicago) | NVIDIA-DOE exascale supercomputing co-design, Vera/Blackwell GPU acceleration for Genesis foundation models, agentic AI lab flywheels, and multi-lab platform integration. |
 | [Accelerating Scientific Discovery Through Global Innovation (GTC 2026 Session S82438)](https://www.nvidia.com/en-us/on-demand/session/gtc26-s82438/) | NVIDIA Corporation / NVIDIA On-Demand | Dr. Darío Gil (DOE Under Secretary for Science) & Ian Buck (NVIDIA VP) | Strategic DOE-NVIDIA AI infrastructure partnerships, exascale supercomputer deployment (Solstice & Equinox), global scientific foundation model sharing, and cuQuantum/Omniverse integration. |
 | [12 Genesis Awards, One Membrane Center, and 5 Emerging Aviation Fuels](https://www.youtube.com/watch?v=Hw_mpJwmT1o) | National Laboratory of the Rockies (NREL) | NREL Leadership & Computing Scientists | Overview of NREL's 12 Genesis Mission research awards, establishing an Advanced Membrane Technology Center for clean energy/carbon capture, and pioneering 5 emerging sustainable aviation fuel (SAF) pathways using AI foundation models. |
+| [Genesis Mission Annual Summit (Full Livestream)](https://youtu.be/zyERV0Z4sNo) | U.S. Department of Energy (DOE) | DOE Leadership & Genesis Mission Partners | Full annual summit livestream (July 22, 2026) featuring opening remarks by OSTP Director Michael Kratsios and Secretary Chris Wright, technical keynotes, leadership panels, fireside chat with Ambassador Yamada, platform demo, Congressional perspectives, and closing remarks by Deputy Secretary Danly. |
 
 ---
 
