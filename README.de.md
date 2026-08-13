@@ -1,4 +1,4 @@
-**Version**: 3.4.14 
+**Version**: 3.4.15 
 
 # Die Genesis-Mission: Architektur, strategische Initiativen und das multi-institutionelle Ökosystem für KI- und quantengetriebene wissenschaftliche Entdeckungen
 
@@ -350,6 +350,7 @@ Zu den wichtigsten Highlights der Modalitäten im Rahmen der Quantenzusagen geh�
 
 #### A. Hochenergiephysik (HEP) & Teilchenbeschleuniger
 - *Internationale Kollaboration & Briefings*: Wie in offiziellen Briefings des DOE Office of High Energy Physics (DOE-HEP) beim U.S. ATLAS Institutional Board Meeting (18. März 2026; CERN Indico Event 1662511) dargelegt, greift Genesis auf **ATLAS am CERN**, JLab CEBAF, SLAC LCLS-II, BNL RHIC und Fermilab AXESS zu.
+- *DOE Quanten-Technologie-Außenposten an Beschleunigern*: Im August 2026 kündigte das DOE **7,3 Millionen Dollar** für acht neue **Quantum Technology Outpost**-Projekte zur Förderung der Quanteninformationswissenschaft in der Hochenergiephysik an. BNL leitet **„Quantum Information Signatures at Colliders"** (in Zusammenarbeit mit der University of Pittsburgh) und entwickelt neue Methoden zur Erfassung quantenmechanischer Verschränkung und des Quanteninformationsflusses in Teilchenkollisionen am Large Hadron Collider und BNLs künftigem **Electron-Ion Collider (EIC)** – mit dem Ziel, Physik jenseits des Standardmodells durch klassisch unzugängliche Observablen zu erschließen. Diese Outpost-Projekte unterstützen direkt die **Quantum Genesis**-Initiative der Genesis Mission mit dem Ziel bedeutender Quanten-Computing-Ergebnisse bis 2028.
 - *KI-Arbeitsabläufe & Beschleunigung*: In 44 US-Universitäten und DOE National Labs (BNL, ANL, LBNL) verarbeiten Genesis-KI-Basismodelle Multi-Terabit-Echtzeit-Sensor-Feeds, optimieren die High-Level Trigger (HLT)-Kandidatenauswahl, führen Jet-Rekonstruktionen über Graph Neural Networks (GNNs) durch, kalibrieren digitale Detektor-Zwillinge, stimmen SRF-Kavitätsemittanzen ab und beschleunigen Monte-Carlo-Simulationsroutinen für den High-Luminosity LHC (HL-LHC).
 
 #### B. Fusionsenergie & Autonome Reaktorsteuerung

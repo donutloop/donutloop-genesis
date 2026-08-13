@@ -1,7 +1,7 @@
 # Genesis Mission — Master Reference Coverage Report
 
 > **Document Overview:**
-> This report provides a comprehensive coverage analysis, breakdown, and master audit index of all **527 external reference links** compiled within `references.md` for the **Genesis Mission** documentation repository.
+> This report provides a comprehensive coverage analysis, breakdown, and master audit index of all **528 external reference links** compiled within `references.md` for the **Genesis Mission** documentation repository.
 
 ---
 
@@ -9,13 +9,13 @@
 
 | Metric | Count / Value | Description |
 | :--- | :--- | :--- |
-| **Total Reference Links** | **527** | Unique external links indexed across all sections |
+| **Total Reference Links** | **528** | Unique external links indexed across all sections |
 | **Primary Document Sections** | **7** | High-level thematic categories in `references.md` |
 | **Unique Target Domains** | **229** | Distinct domain names referenced (government, lab, corporate, academic, news) |
 | **Official PDF Documents** | **18** | Formal RFA solicitations, webinars, slides, and executive reports |
-| **Web Portals & Press Releases** | **508** | Newsroom features, corporate blog posts, and interactive hubs |
+| **Web Portals & Press Releases** | **509** | Newsroom features, corporate blog posts, and interactive hubs |
 | **Validation Status** | **100% Validated** | All links canonicalized, formatted, and deduplicated |
-| **Processing Status** | **527 / 527 Processed** | 0 Unprocessed, 527 Processed (100% Complete) |
+| **Processing Status** | **528 / 528 Processed** | 0 Unprocessed, 528 Processed (100% Complete) |
 
 ---
 
@@ -27,7 +27,7 @@
 | 2 | `2. Collaborators` | **75** | 14.2% | Official homepage & announcement links for industrial/energy partners |
 | 3 | `3. Quantum Leadership & CHIPS Act Initiatives` | **11** | 2.1% | Department of Commerce NIST LOIs & DOE $2B quantum initiatives |
 | 4 | `4. Executive, Federal & Partner Announcements` | **157** | 29.8% | White House releases, Cabinet agency press, hyperscaler & lab announcements |
-| 5 | `5. National Labs & University Coverage` | **252** | 47.8% | National Laboratory news portals & 63 awardee university press releases |
+| 5 | `5. National Labs & University Coverage` | **253** | 47.9% | National Laboratory news portals & 63 awardee university press releases |
 | 6 | `6. Additional Event Materials & Reference Links` | **16** | 3.0% | Presentation slide decks, institutional intro files & video recordings |
 | 7 | `7. Technical Documents, RFA Guidance & Official Webinars` | **13** | 2.5% | DE-FOA-0003612 solicitations, OSTP challenge papers & SCAC presentations |
 
@@ -52,7 +52,7 @@ Below is the distribution of references grouped by top domain hosts and institut
 | `www.lanl.gov` | **6** | Los Alamos National Laboratory (LANL) | Weapons hydrodynamics, plutonium aging AI, high-explosives R&D |
 | `www.ornl.gov` | **14** | Oak Ridge National Laboratory (ORNL) | Frontier supercomputer, IBM FLiBe molten salt quantum chemistry |
 | `aws.amazon.com` | **4** | Amazon Web Services (AWS) | Public sector HPC credits, quantum post-quantum security |
-| `www.bnl.gov` | **4** | Brookhaven National Laboratory (BNL) | C2QA quantum advantage center, NSLS-II beamlines |
+| `www.bnl.gov` | **5** | Brookhaven National Laboratory (BNL) | C2QA quantum advantage center, NSLS-II beamlines, Quantum Technology Outposts at EIC |
 | `www.pppl.gov` | **4** | Princeton Plasma Physics Lab (PPPL) | Stellarator optimization, fusion plasma turbulence AI |
 | `indico.cern.ch` | **3** | CERN Indico Event System | U.S. ATLAS IB meeting slides, DOE-HEP presentation files |
 | `atom-computing.com` | **3** | Atom Computing | Neutral-atom quantum computing hardware, Commerce LOI |
@@ -71,7 +71,7 @@ Below is the distribution of references grouped by top domain hosts and institut
 
 ## 4. Master Reference Link Index
 
-A complete tabular listing of all 527 indexed reference links:
+A complete tabular listing of all 528 indexed reference links:
 
 | # | Category / Section | Entity / Subject | Title | Domain | Type | Link | Status |
 |---|---|---|---|---|:---:|---|:---:|
@@ -601,3 +601,4 @@ A complete tabular listing of all 527 indexed reference links:
 | 525 | 6. Additional Event Materials & Reference Links | Genesis Mission Summit 2026 | Genesis Mission Annual Summit (Full Livestream) | `youtu.be` | Web | [Genesis Mission Annual Summit (Full Livestream)](https://youtu.be/zyERV0Z4sNo) | `Processed` |
 | 526 | 6. Additional Event Materials & Reference Links | Oak Ridge National Laboratory (ORNL) | Powering the Genesis Mission: How AI and Neutron Scattering Unlock Quantum Material | `www.youtube.com` | Web | [Powering the Genesis Mission: How AI and Neutron Scattering Unlock Quantum Material](https://www.youtube.com/watch?v=YnP8_IZZIKU) | `Processed` |
 | 527 | 5. National Labs & University Coverage | Boston University (BU) | BU Partners on DOE Genesis Mission Award to Advance AI-Driven Plasma Physics Research | `www.bu.edu` | Web | [BU Partners on DOE Genesis Mission Award to Advance AI-Driven Plasma Physics Research](https://www.bu.edu/eng/2026/08/11/bu-partners-on-doe-genesis-mission-award-to-advance-ai-driven-plasma-physics-research/) | `Processed` |
+| 528 | 5. National Labs & University Coverage | Brookhaven National Laboratory (BNL) | Energy Department Announces $7.3M for Quantum Technology Outposts — BNL Leads Quantum Information Signatures at Colliders | `www.bnl.gov` | Web | [Energy Department Announces $7.3M for Quantum Technology Outposts — BNL Leads Quantum Information Signatures at Colliders](https://www.bnl.gov/newsroom/news.php?a=223107) | `Processed` |
