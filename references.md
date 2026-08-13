@@ -499,6 +499,7 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
   * [Department of Energy Selects 5 U of A Research Projects](https://news.arizona.edu/news/department-energy-selects-5-u-research-projects-through-new-ai-science-genesis-mission-awards)
   * [President Garimella Named to U.S. Department of Energy Advisory Committee](https://news.arizona.edu/news/president-garimella-named-us-department-energy-advisory-committee)
 * **University of California System:** [Partners with DOE to Advance Energy Discovery](https://www.universityofcalifornia.edu/news/university-california-partners-us-department-energy-advance-energy-discovery-and-national)
+  * **University of California, Riverside (UCR):** [UCR Researchers Join DOE Effort to Speed Scientific Discovery](https://news.ucr.edu/articles/2026/08/12/ucr-researchers-join-doe-effort-speed-scientific-discovery)
 * **University of Central Florida (UCF):** [UCF Researcher to Support DOE Project Using AI to Accelerate Scientific Discovery](https://www.ucf.edu/news/ucf-researcher-to-support-doe-project-using-ai-to-accelerate-scientific-discovery/)
 * **University of Colorado Boulder:**
   * [Infleqtion Secures Three Genesis Mission Projects from U.S. DOE](https://www.colorado.edu/venturepartners/2026/07/22/external-news/infleqtion-secures-three-genesis-mission-projects-us-department-energy)
