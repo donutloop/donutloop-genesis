@@ -436,6 +436,7 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
 ### Universities & Research Institutions
 * **AI Tennessee Initiative:** [About AI Tennessee](https://www.aitennessee.ai/about-ai-tennessee/)
 * **Auburn University:** [Molaei Genesis Mission Research](https://eng.auburn.edu/news/2026/08/molaei-genesis-mission)
+* **Boston University:** [BU Partners on DOE Genesis Mission Award to Advance AI-Driven Plasma Physics Research](https://www.bu.edu/eng/2026/08/11/bu-partners-on-doe-genesis-mission-award-to-advance-ai-driven-plasma-physics-research/)
 * **University of Alabama:** [University of Alabama News: UA Genesis Mission Award Will Create AI Tool for Particle Physics](https://news.ua.edu/2026/08/ua-genesis-mission-award-will-create-ai-tool-for-particle-physics/)
 * **Arizona State University (ASU):** [Awarded DOE Genesis Mission Grant for Electrical Grid Reliability](https://news.asu.edu/20260722-science-and-technology-asu-awarded-doe-genesis-mission-grant-electrical-grid-reliability)
 * **Caltech:** [Two Projects Selected for Funding](https://www.caltech.edu/about/news/two-caltech-projects-selected-for-doe-funding-as-part-of-genesis-mission)
