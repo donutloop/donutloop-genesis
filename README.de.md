@@ -1,4 +1,6 @@
-**Version**: 3.4.10 Architektur, strategische Initiativen und das multi-institutionelle Ökosystem für KI- und quantengetriebene wissenschaftliche Entdeckungen
+**Version**: 3.4.10 
+
+# Die Genesis-Mission: Architektur, strategische Initiativen und das multi-institutionelle Ökosystem für KI- und quantengetriebene wissenschaftliche Entdeckungen
 
 > **Haftungsausschluss:** Dieses Forschungspapier wurde von einem KI-Assistenten auf der Grundlage zusammengestellter öffentlicher Daten, Bundesveröffentlichungen und institutioneller Ankündigungen erstellt, die im Genesis-Mission-Repository indiziert sind. Es dient der strukturellen Referenz, Synthese und akademischen Überprüfung.
 
