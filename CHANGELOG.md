@@ -9,7 +9,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Added
 - **Reference Index Entry #314**: Processed *DUNE Uses AI to Transform the Future of Neutrino Research* (`news.fnal.gov`) — registered under Section 5 (*National Labs & University Coverage*) in `references.md` as Fermilab DUNE AI coverage.
-- **Master Index Update**: Registered entry #314 in `reference_coverage.md`; synchronized Total Reference Links (526 → 527), Web Portals (507 → 508), section distribution counts/shares, Fermilab domain coverage (`news.fnal.gov` 12 → 13), and Processing Status (526 / 526 → 527 / 527 Processed, 100% Complete).
+- **Master Index Update**: Registered entry #314 in `reference_coverage.md`; synchronized Total Reference Links (526 → 527), Web Portals (507 → 508), the section-distribution table to current repository totals, Fermilab domain coverage (`news.fnal.gov` 12 → 13), and Processing Status (526 / 526 → 527 / 527 Processed, 100% Complete).
 - **Research Paper Enrichment — §3.2 and Appendix A.2 (README.md & README.de.md)**: Added Fermilab DUNE AI coverage covering liquid-argon time projection chamber neutrino reconstruction, particle-track analysis, and supernova-alert trigger workflows across the near/far detector system.
 - **Patch Version Release**: Incremented version string to `3.4.14` across [`README.md`](./README.md) and [`README.de.md`](./README.de.md).
 
