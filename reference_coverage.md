@@ -1,7 +1,7 @@
 # Genesis Mission — Master Reference Coverage Report
 
 > **Document Overview:**
-> This report provides a comprehensive coverage analysis, breakdown, and master audit index of all **524 external reference links** compiled within `references.md` for the **Genesis Mission** documentation repository.
+> This report provides a comprehensive coverage analysis, breakdown, and master audit index of all **525 external reference links** compiled within `references.md` for the **Genesis Mission** documentation repository.
 
 ---
 
@@ -9,13 +9,13 @@
 
 | Metric | Count / Value | Description |
 | :--- | :--- | :--- |
-| **Total Reference Links** | **524** | Unique external links indexed across all sections |
+| **Total Reference Links** | **525** | Unique external links indexed across all sections |
 | **Primary Document Sections** | **7** | High-level thematic categories in `references.md` |
-| **Unique Target Domains** | **228** | Distinct domain names referenced (government, lab, corporate, academic, news) |
+| **Unique Target Domains** | **229** | Distinct domain names referenced (government, lab, corporate, academic, news) |
 | **Official PDF Documents** | **18** | Formal RFA solicitations, webinars, slides, and executive reports |
-| **Web Portals & Press Releases** | **506** | Newsroom features, corporate blog posts, and interactive hubs |
+| **Web Portals & Press Releases** | **507** | Newsroom features, corporate blog posts, and interactive hubs |
 | **Validation Status** | **100% Validated** | All links canonicalized, formatted, and deduplicated |
-| **Processing Status** | **525 / 525 Processed** | 0 Unprocessed, 525 Processed (100% Complete) |
+| **Processing Status** | **526 / 526 Processed** | 0 Unprocessed, 526 Processed (100% Complete) |
 
 ---
 
@@ -27,8 +27,8 @@
 | 2 | `2. Collaborators` | **76** | 14.5% | Official homepage & announcement links for industrial/energy partners |
 | 3 | `3. Quantum Leadership & CHIPS Act Initiatives` | **11** | 2.1% | Department of Commerce NIST LOIs & DOE $2B quantum initiatives |
 | 4 | `4. Executive, Federal & Partner Announcements` | **149** | 28.4% | White House releases, Cabinet agency press, hyperscaler & lab announcements |
-| 5 | `5. National Labs & University Coverage` | **249** | 47.5% | National Laboratory news portals & 62 awardee university press releases |
-| 6 | `6. Additional Event Materials & Reference Links` | **16** | 3.1% | Presentation slide decks, institutional intro files & video recordings |
+| 5 | `5. National Labs & University Coverage` | **250** | 47.6% | National Laboratory news portals & 63 awardee university press releases |
+| 6 | `6. Additional Event Materials & Reference Links` | **16** | 3.0% | Presentation slide decks, institutional intro files & video recordings |
 | 7 | `7. Technical Documents, RFA Guidance & Official Webinars` | **12** | 2.3% | DE-FOA-0003612 solicitations, OSTP challenge papers & SCAC presentations |
 
 ---
@@ -47,6 +47,7 @@ Below is the distribution of references grouped by top domain hosts and institut
 | `news.fnal.gov` | **12** | Fermi National Accelerator Laboratory | SQMS quantum center, xLight EUV lithography FEL CRADA |
 | `blogs.nvidia.com` | **6** | NVIDIA Corporation | Solstice/Equinox supercomputers, National Quantum Initiative, NSF AI Hubs, AI leadership |
 | `www.nist.gov` | **5** | NIST / Department of Commerce | CHIPS Act LOIs, quantum semiconductor incentives, NIST AI join launch |
+| `www.bu.edu` | **1** | University Newsroom | Boston University College of Engineering Genesis Mission plasma physics award coverage |
 | `newscenter.lbl.gov` | **5** | Lawrence Berkeley National Lab (LBNL) | 13 AI projects lead, ModCon platform, Cech system delivery |
 | `www.lanl.gov` | **6** | Los Alamos National Laboratory (LANL) | Weapons hydrodynamics, plutonium aging AI, high-explosives R&D |
 | `www.ornl.gov` | **14** | Oak Ridge National Laboratory (ORNL) | Frontier supercomputer, IBM FLiBe molten salt quantum chemistry |
@@ -598,3 +599,4 @@ A complete tabular listing of all 464 indexed reference links:
 | 523 | 5. National Labs & University Coverage | University of California, Riverside (UCR) | UCR Researchers Join DOE Effort to Speed Scientific Discovery | `news.ucr.edu` | Web | [UCR Researchers Join DOE Effort to Speed Scientific Discovery](https://news.ucr.edu/articles/2026/08/12/ucr-researchers-join-doe-effort-speed-scientific-discovery) | `Processed` |
 | 524 | 6. Additional Event Materials & Reference Links | Genesis Mission Summit 2026 | Genesis Mission Annual Summit (Full Livestream) | `youtu.be` | Web | [Genesis Mission Annual Summit (Full Livestream)](https://youtu.be/zyERV0Z4sNo) | `Processed` |
 | 525 | 6. Additional Event Materials & Reference Links | Oak Ridge National Laboratory (ORNL) | Powering the Genesis Mission: How AI and Neutron Scattering Unlock Quantum Material | `www.youtube.com` | Web | [Powering the Genesis Mission: How AI and Neutron Scattering Unlock Quantum Material](https://www.youtube.com/watch?v=YnP8_IZZIKU) | `Processed` |
+| 526 | 5. National Labs & University Coverage | Boston University (BU) | BU Partners on DOE Genesis Mission Award to Advance AI-Driven Plasma Physics Research | `www.bu.edu` | Web | [BU Partners on DOE Genesis Mission Award to Advance AI-Driven Plasma Physics Research](https://www.bu.edu/eng/2026/08/11/bu-partners-on-doe-genesis-mission-award-to-advance-ai-driven-plasma-physics-research/) | `Processed` |

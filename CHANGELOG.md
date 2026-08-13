@@ -5,6 +5,17 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.4.13] - 2026-08-13
+
+### Added
+- **Reference Index Entry #526**: Processed *BU Partners on DOE Genesis Mission Award to Advance AI-Driven Plasma Physics Research* (`www.bu.edu`) — registered under Section 5 (*National Labs & University Coverage*) in `references.md` as Boston University Genesis Mission coverage.
+- **Master Index Update**: Registered entry #526 in `reference_coverage.md`; updated Total Reference Links (524 → 525), Unique Target Domains (228 → 229), Web Portals (506 → 507), Section 5 link count (249 → 250, 47.5% → 47.6%), and Processing Status (525 / 525 → 526 / 526 Processed, 100% Complete).
+- **Research Paper Enrichment — §3.3 and §A.5 (README.md & README.de.md)**: Added BU plasma-physics award coverage, including the FLARE digital twin neural-network project with PPPL/Princeton/LANL/UCSB/TAE collaborators, and inserted Boston University into the university appendix tables.
+- **Coverage Matrix Update (`coverage.md`)**: Added Boston University as a university reference-only entry (`❌ Not Covered`) and synchronized university and total coverage summary metrics.
+- **Patch Version Release**: Incremented version string to `3.4.13` across [`README.md`](./README.md) and [`README.de.md`](./README.de.md).
+
+---
+
 ## [3.4.12] - 2026-08-13
 
 ### Added

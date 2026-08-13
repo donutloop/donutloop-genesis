@@ -3,7 +3,7 @@
 > **Scope & Coverage Definition:**
 > - **Flagship Consortium Scope:** Tracks **all 184 primary flagship participants**—lead contractors, federal agencies, national laboratories, awardee universities, strategic industrial partners, and philanthropic foundations—explicitly profiled or referenced in the Genesis Mission paper (`README.md`) and reference index.
 > - **Broader National Awardee Network Context:** Under solicitation DE-FOA-0003612 and interagency challenges, the broader national initiative encompasses **342 total participating institutions** (157 companies, 142 universities, 16 national labs, 13 non-profits, 14 other entities across 278 projects).
-> - **Coverage Status:** **184 / 184 (100%)** of the tracked consortium entities have dedicated, detailed technical profiles.
+> - **Coverage Status:** **184 / 185 (99.5%)** of the tracked consortium entities have dedicated, detailed technical profiles.
 
 **Legend:**
 - ✅ **Full Profile** — Dedicated section with detailed technical write-up (Sections 2.2 / 3.1 / 3.2 / 3.3 / 3.4 / 3.5)
@@ -181,69 +181,70 @@
 |---|-----------|----------|---------------|-------|
 | 108 | [Arizona State University (ASU)](https://www.asu.edu/) | ✅ Full Profile | §2.3D, §3.3, A.5 | Power grid reliability AI, smart energy infrastructure & NREL ARIES co-simulation |
 | 109 | [Auburn University](https://www.auburn.edu/) | ✅ Full Profile | §3.3, A.5 | Advanced additive manufacturing, extreme thermal materials & defense engineering |
-| 110 | [University of Alabama](https://www.ua.edu/) | ✅ Full Profile | §3.3, A.5 | High-energy particle physics AI workflow automation (Fermilab partner) & LHC CMS data analytics |
-| 111 | [Caltech](https://www.caltech.edu/) | ✅ Full Profile | §3.3, A.5 | Quantum optics, photonic QPU co-design, computational physics & AI foundation models |
-| 112 | [Carnegie Mellon University](https://www.cmu.edu/) | ✅ Full Profile | §3.3, A.5 | Autonomous scientific AI agents, robotics, SciML & materials discovery algorithms |
-| 113 | [Colorado State University](https://www.colostate.edu/) | ✅ Full Profile | §3.3, A.5 | Atmospheric modeling, climate AI foundation models & high-power laser physics |
-| 114 | [Columbia University](https://www.columbia.edu/) | ✅ Full Profile | §3.3, A.5 | Quantum materials science, strongly correlated electronic models & SciML algorithms |
-| 115 | [Cornell University](https://www.cornell.edu/) | ✅ Full Profile | §3.3, A.5 | Accelerator physics, synchrotron x-ray characterization (CHESS) & materials co-design |
-| 116 | [Dakota State University](https://dsu.edu/) | ✅ Full Profile | §3.3, A.5 | AI-enabled quantum circuit design optimization for nuclear physics problems & Argonne partnership |
-| 117 | [Emory University](https://www.emory.edu/) | ✅ Full Profile | §3.3, A.5 | Bio Genesis Mission, structural biology AI foundation models & therapeutic screening |
-| 118 | [Florida State University](https://www.fsu.edu/) | ✅ Full Profile | §3.3, A.5 | High-magnetic-field physics (MagLab), superconductor materials & cryogenic testing |
-| 119 | [George Mason University](https://www.gmu.edu/) | ✅ Full Profile | §3.3, A.5 | DOE Genesis award for breakthrough AI-HPC research & exascale supercomputing optimization |
-| 120 | [Georgia Institute of Technology](https://www.gatech.edu/) | ✅ Full Profile | §3.3, A.5 | High-throughput chemical synthesis automation, microelectronics packaging & robotics |
-| 121 | [Iowa State University](https://www.iastate.edu/) | ✅ Full Profile | §3.3, A.5 | Critical minerals thermodynamics, bio-based materials & Ames National Lab alignment |
-| 122 | [Lehigh University](https://www.lehigh.edu/) | ✅ Full Profile | §3.3, A.5 | Structural alloy corrosion modeling, materials informatics & industrial AI digital twins |
-| 123 | [Louisiana State University (LSU)](https://www.lsu.edu/) | ✅ Full Profile | §3.3, A.5 | Coastal climate modeling, heavy-ion nuclear physics & petascale CFD algorithms |
-| 124 | [Michigan State University (FRIB)](https://frib.msu.edu/) | ✅ Full Profile | §3.3, A.5 | Rare isotope beam physics (FRIB), AI nuclear structure models & heavy-ion dynamics |
-| 125 | [Michigan Technological University](https://www.mtu.edu/) | ✅ Full Profile | §3.3, A.5 | Extreme environment material sensors, critical mineral refining & power electronics |
-| 126 | [Mississippi State University](https://www.msstate.edu/) | ✅ Full Profile | §3.3, A.5 | Computational fluid dynamics (CFD), autonomous systems & agricultural remote sensing |
-| 127 | [Missouri S&T](https://www.mst.edu/) | ✅ Full Profile | §3.3, A.5 | High-temperature ceramics, pyrometallurgical critical material recovery & mining AI |
-| 128 | [MIT](https://www.mit.edu/) | ✅ Full Profile | §3.3, A.5 | Superconducting & trapped-ion QPU algorithms, quantum error correction & nuclear AI |
-| 129 | [New Jersey Institute of Technology (NJIT)](https://www.njit.edu/) | ✅ Full Profile | §3.3, A.5 | Solar physics AI models, materials informatics & dynamic network optimization |
-| 130 | [New Mexico State University (NMSU)](https://www.nmsu.edu/) | ✅ Full Profile | §3.3, A.5 | High-energy nuclear physics, desert hydrology modeling & space payload sensors |
-| 131 | [New York University (NYU)](https://www.nyu.edu/) | ✅ Full Profile | §3.3, A.5 | 3 flagship SciML awards, partial differential equation (PDE) neural operators & Bio AI |
-| 132 | [Northwestern University](https://www.northwestern.edu/) | ✅ Full Profile | §3.3, A.5 | High-throughput inorganic crystal discovery, catalyst screening & automated robotics |
-| 133 | [Oklahoma State University](https://news.okstate.edu/) | ✅ Full Profile | §3.3, A.5 | Selected for DOE Genesis Mission initiative & sustainable engineering research |
-| 134 | [Penn State University](https://www.psu.edu/) | ✅ Full Profile | §3.3, A.5 | Extreme-environment materials, 2D semiconductors & nuclear reactor digital twins |
-| 135 | [Princeton University](https://www.princeton.edu/) | ✅ Full Profile | §3.3, A.5 | Tokamak fusion plasma physics (PPPL), quantum information theory & SciML operators |
-| 136 | [Purdue University](https://www.purdue.edu/) | ✅ Full Profile | §3.3, A.5 | 2 Genesis awards: Electron-Ion Collider real-time AI trigger/compression (w/ LANL & Fermilab) & LLM training data direct citation (w/ ORNL) |
-| 137 | [Rensselaer Polytechnic Institute (RPI)](https://www.rpi.edu/) | ✅ Full Profile | §3.3, A.5 | Particle accelerator beam dynamics simulation (Sirepo), quantum algorithms & HPC |
-| 138 | [Rice University](https://www.rice.edu/) | ✅ Full Profile | §3.3, A.5 | Carbon nanotube synthesis, nanostructured energy materials & quantum chemistry |
-| 139 | [Stanford University](https://www.stanford.edu/) | ✅ Full Profile | §3.3, A.5 | Synchrotron beamlines (SLAC), AI foundation models, quantum optics & biosecurity |
-| 140 | [Stony Brook University](https://www.stonybrook.edu/) | ✅ Full Profile | §3.3, A.5 | Relativistic heavy-ion physics (BNL RHIC), nuclear structure AI & high-performance compute |
-| 141 | [Texas A&M University](https://www.tamu.edu/) | ✅ Full Profile | §3.3, A.5 | Nuclear materials degradation modeling, cyber-physical grid security & hypersonics CFD |
-| 142 | [Texas State University](https://www.txstate.edu/) | ✅ Full Profile | §3.3, A.5 | Next-generation semiconductor lithography materials & microelectronics fabrication |
-| 143 | [Tulane University](https://tulane.edu/) | ✅ Full Profile | §2.3D, §3.3, A.5 | Generative AI design agents coupled with robotic wet labs (Emerald Cloud Lab) |
-| 144 | [UC Berkeley](https://www.berkeley.edu/) | ✅ Full Profile | §3.3, A.5 | 13 LBNL project co-investigations, ModCon platform, SciML algorithms & quantum QIS |
-| 145 | [UC Davis](https://www.ucdavis.edu/) | ✅ Full Profile | §3.3, A.5 | Sustainable agriculture AI models, environmental bio-foundries & energy storage chemistry |
-| 146 | [UC Santa Barbara (UCSB)](https://www.ucsb.edu/) | ✅ Full Profile | §3.3, A.5 | Quantum materials, topological insulator synthesis & cryogenic QPU control electronics |
-| 147 | [UNC Charlotte](https://www.charlotte.edu/) | ✅ Full Profile | §3.3, A.5 | Precision optical manufacturing, smart grid power distribution & AI machine vision |
-| 148 | [University at Buffalo](https://www.buffalo.edu/) | ✅ Full Profile | §3.3, A.5 | Computational materials design, battery electrolyte discovery & AI molecular screening |
-| 149 | [University of Arizona](https://www.arizona.edu/) | ✅ Full Profile | §3.3, A.5 | 5 Genesis awards: Earth science AI (AlphaEarth), water resources & planetary modeling |
-| 150 | [University of California System](https://www.universityofcalifornia.edu/) | ✅ Full Profile | §3.3, A.5 | Systemwide AI-for-science coordination, national lab co-management & STEM pipelines |
-| 151 | [University of Central Florida (UCF)](https://www.ucf.edu/) | ✅ Full Profile | §3.3, A.5 | Attosecond laser physics, space payload optics & quantum sensing instrumentation |
-| 152 | [University of Colorado Boulder](https://www.colorado.edu/) | ✅ Full Profile | §3.1, §3.3, A.5 | Infleqtion quantum sensing project, neutral-atom QPUs & Rigetti fusion plasma co-sims |
-| 153 | [University of Connecticut (UConn)](https://uconn.edu/) | ✅ Full Profile | §3.3, A.5 | High-temperature alloy synthesis, smart grid cybersecurity & materials informatics |
-| 154 | [University of Florida](https://www.ufl.edu/) | ✅ Full Profile | §3.3, A.5 | High-performance computing AI workloads, agricultural genomics & materials screening |
-| 155 | [University of Houston](https://www.uh.edu/) | ✅ Full Profile | §3.3, A.5 | AMMPT AI framework for real-time critical mineral mapping & characterization while drilling (w/ SNL) |
-| 156 | [University of Illinois Urbana-Champaign](https://illinois.edu/) | ✅ Full Profile | §3.3, A.5 | Petascale AI model training, open-source model registry platforms & semiconductor PDKs |
-| 157 | [University of Kentucky](https://www.uky.edu/) | ✅ Full Profile | §3.3, A.5 | Coal byproduct mineral extraction (NETL), battery recycling & bio-energy materials |
-| 158 | [University of Maine](https://umaine.edu/) | ✅ Full Profile | §3.3, A.5 | Large-scale bio-composite additive manufacturing & offshore floating wind AI models |
-| 159 | [University of Michigan](https://umich.edu/) | ✅ Full Profile | §3.3, A.5 | 3 Genesis awards: ArchEvolve agentic AI chip co-design ($750k w/ LANL & Intel), real-time 3D X-ray imaging, materials discovery & nuclear engineering |
-| 160 | [University of Minnesota](https://twin-cities.umn.edu/) | ✅ Full Profile | §3.3, A.5 | Chemical catalysis foundation models, spintronics materials & computational biology |
-| 161 | [University of Missouri](https://missouri.edu/) | ✅ Full Profile | §3.3, A.5 | Radioisotope production accelerators, nuclear medicine R&D & plant phenomics AI |
-| 162 | [University of Nebraska–Lincoln](https://www.unl.edu/) | ✅ Full Profile | §3.3, A.5 | AI-driven "autopilot" co-designer for 6G Radio Access Networks (RAN) |
-| 163 | [University of New Mexico](https://www.unm.edu/) | ✅ Full Profile | §3.3, A.5 | Quantum information science, optics fabrication & Sandia/Los Alamos national lab co-R&D |
-| 164 | [University of North Dakota (UND)](https://und.edu/) | ✅ Full Profile | §3.3, A.5 | 2 Genesis awards: rare earth mineral extraction from coal ash & autonomous energy AI |
-| 165 | [University of Pittsburgh](https://www.pitt.edu/) | ✅ Full Profile | §3.3, A.5 | Computational drug discovery foundation models, vascular bio-foundries & SciML |
-| 166 | [University of Southern California (USC)](https://usc.edu/) | ✅ Full Profile | §3.3, A.5 | Quantum annealing algorithms, microelectronics reliability & autonomous AI agents |
-| 167 | [University of Texas at Arlington](https://www.uta.edu/) | ✅ Full Profile | §3.3, A.5 | DOE Genesis Mission award for real-time AI trust & resilience in EPICS control workflows (LANL partner) |
-| 168 | [University of Texas at Austin](https://www.utexas.edu/) | ✅ Full Profile | §3.3, A.5 | Microelectronics lithography modeling, exascale AI model optimization & power grid AI |
-| 169 | [University of Utah](https://www.utah.edu/) | ✅ Full Profile | §3.3, A.5 | Geothermal energy reservoir simulation, net-zero carbon fuels & materials informatics |
-| 170 | [University of Wisconsin–Madison](https://www.wisc.edu/) | ✅ Full Profile | §3.3, A.5 | Fusion plasma stellarator physics, quantum dot QPU architectures & clean energy AI |
-| 171 | [Virginia Tech](https://www.vt.edu/) | ✅ Full Profile | §3.3, A.5 | $20M NSF PCL semiconductor lab node, cyber-physical power grid security & SciML |
-| 172 | [Yale University](https://www.yale.edu/) | ✅ Full Profile | §3.3, A.5 | Superconducting cavity QED quantum architecture, QIS error mitigation & molecular AI |
+| 110 | [Boston University](https://www.bu.edu/) | ❌ Not Covered | — | DOE Genesis Mission plasma-physics award coverage (reference only) |
+| 111 | [University of Alabama](https://www.ua.edu/) | ✅ Full Profile | §3.3, A.5 | High-energy particle physics AI workflow automation (Fermilab partner) & LHC CMS data analytics |
+| 112 | [Caltech](https://www.caltech.edu/) | ✅ Full Profile | §3.3, A.5 | Quantum optics, photonic QPU co-design, computational physics & AI foundation models |
+| 113 | [Carnegie Mellon University](https://www.cmu.edu/) | ✅ Full Profile | §3.3, A.5 | Autonomous scientific AI agents, robotics, SciML & materials discovery algorithms |
+| 114 | [Colorado State University](https://www.colostate.edu/) | ✅ Full Profile | §3.3, A.5 | Atmospheric modeling, climate AI foundation models & high-power laser physics |
+| 115 | [Columbia University](https://www.columbia.edu/) | ✅ Full Profile | §3.3, A.5 | Quantum materials science, strongly correlated electronic models & SciML algorithms |
+| 116 | [Cornell University](https://www.cornell.edu/) | ✅ Full Profile | §3.3, A.5 | Accelerator physics, synchrotron x-ray characterization (CHESS) & materials co-design |
+| 117 | [Dakota State University](https://dsu.edu/) | ✅ Full Profile | §3.3, A.5 | AI-enabled quantum circuit design optimization for nuclear physics problems & Argonne partnership |
+| 118 | [Emory University](https://www.emory.edu/) | ✅ Full Profile | §3.3, A.5 | Bio Genesis Mission, structural biology AI foundation models & therapeutic screening |
+| 119 | [Florida State University](https://www.fsu.edu/) | ✅ Full Profile | §3.3, A.5 | High-magnetic-field physics (MagLab), superconductor materials & cryogenic testing |
+| 120 | [George Mason University](https://www.gmu.edu/) | ✅ Full Profile | §3.3, A.5 | DOE Genesis award for breakthrough AI-HPC research & exascale supercomputing optimization |
+| 121 | [Georgia Institute of Technology](https://www.gatech.edu/) | ✅ Full Profile | §3.3, A.5 | High-throughput chemical synthesis automation, microelectronics packaging & robotics |
+| 122 | [Iowa State University](https://www.iastate.edu/) | ✅ Full Profile | §3.3, A.5 | Critical minerals thermodynamics, bio-based materials & Ames National Lab alignment |
+| 123 | [Lehigh University](https://www.lehigh.edu/) | ✅ Full Profile | §3.3, A.5 | Structural alloy corrosion modeling, materials informatics & industrial AI digital twins |
+| 124 | [Louisiana State University (LSU)](https://www.lsu.edu/) | ✅ Full Profile | §3.3, A.5 | Coastal climate modeling, heavy-ion nuclear physics & petascale CFD algorithms |
+| 125 | [Michigan State University (FRIB)](https://frib.msu.edu/) | ✅ Full Profile | §3.3, A.5 | Rare isotope beam physics (FRIB), AI nuclear structure models & heavy-ion dynamics |
+| 126 | [Michigan Technological University](https://www.mtu.edu/) | ✅ Full Profile | §3.3, A.5 | Extreme environment material sensors, critical mineral refining & power electronics |
+| 127 | [Mississippi State University](https://www.msstate.edu/) | ✅ Full Profile | §3.3, A.5 | Computational fluid dynamics (CFD), autonomous systems & agricultural remote sensing |
+| 128 | [Missouri S&T](https://www.mst.edu/) | ✅ Full Profile | §3.3, A.5 | High-temperature ceramics, pyrometallurgical critical material recovery & mining AI |
+| 129 | [MIT](https://www.mit.edu/) | ✅ Full Profile | §3.3, A.5 | Superconducting & trapped-ion QPU algorithms, quantum error correction & nuclear AI |
+| 130 | [New Jersey Institute of Technology (NJIT)](https://www.njit.edu/) | ✅ Full Profile | §3.3, A.5 | Solar physics AI models, materials informatics & dynamic network optimization |
+| 131 | [New Mexico State University (NMSU)](https://www.nmsu.edu/) | ✅ Full Profile | §3.3, A.5 | High-energy nuclear physics, desert hydrology modeling & space payload sensors |
+| 132 | [New York University (NYU)](https://www.nyu.edu/) | ✅ Full Profile | §3.3, A.5 | 3 flagship SciML awards, partial differential equation (PDE) neural operators & Bio AI |
+| 133 | [Northwestern University](https://www.northwestern.edu/) | ✅ Full Profile | §3.3, A.5 | High-throughput inorganic crystal discovery, catalyst screening & automated robotics |
+| 134 | [Oklahoma State University](https://news.okstate.edu/) | ✅ Full Profile | §3.3, A.5 | Selected for DOE Genesis Mission initiative & sustainable engineering research |
+| 135 | [Penn State University](https://www.psu.edu/) | ✅ Full Profile | §3.3, A.5 | Extreme-environment materials, 2D semiconductors & nuclear reactor digital twins |
+| 136 | [Princeton University](https://www.princeton.edu/) | ✅ Full Profile | §3.3, A.5 | Tokamak fusion plasma physics (PPPL), quantum information theory & SciML operators |
+| 137 | [Purdue University](https://www.purdue.edu/) | ✅ Full Profile | §3.3, A.5 | 2 Genesis awards: Electron-Ion Collider real-time AI trigger/compression (w/ LANL & Fermilab) & LLM training data direct citation (w/ ORNL) |
+| 138 | [Rensselaer Polytechnic Institute (RPI)](https://www.rpi.edu/) | ✅ Full Profile | §3.3, A.5 | Particle accelerator beam dynamics simulation (Sirepo), quantum algorithms & HPC |
+| 139 | [Rice University](https://www.rice.edu/) | ✅ Full Profile | §3.3, A.5 | Carbon nanotube synthesis, nanostructured energy materials & quantum chemistry |
+| 140 | [Stanford University](https://www.stanford.edu/) | ✅ Full Profile | §3.3, A.5 | Synchrotron beamlines (SLAC), AI foundation models, quantum optics & biosecurity |
+| 141 | [Stony Brook University](https://www.stonybrook.edu/) | ✅ Full Profile | §3.3, A.5 | Relativistic heavy-ion physics (BNL RHIC), nuclear structure AI & high-performance compute |
+| 142 | [Texas A&M University](https://www.tamu.edu/) | ✅ Full Profile | §3.3, A.5 | Nuclear materials degradation modeling, cyber-physical grid security & hypersonics CFD |
+| 143 | [Texas State University](https://www.txstate.edu/) | ✅ Full Profile | §3.3, A.5 | Next-generation semiconductor lithography materials & microelectronics fabrication |
+| 144 | [Tulane University](https://tulane.edu/) | ✅ Full Profile | §2.3D, §3.3, A.5 | Generative AI design agents coupled with robotic wet labs (Emerald Cloud Lab) |
+| 145 | [UC Berkeley](https://www.berkeley.edu/) | ✅ Full Profile | §3.3, A.5 | 13 LBNL project co-investigations, ModCon platform, SciML algorithms & quantum QIS |
+| 146 | [UC Davis](https://www.ucdavis.edu/) | ✅ Full Profile | §3.3, A.5 | Sustainable agriculture AI models, environmental bio-foundries & energy storage chemistry |
+| 147 | [UC Santa Barbara (UCSB)](https://www.ucsb.edu/) | ✅ Full Profile | §3.3, A.5 | Quantum materials, topological insulator synthesis & cryogenic QPU control electronics |
+| 148 | [UNC Charlotte](https://www.charlotte.edu/) | ✅ Full Profile | §3.3, A.5 | Precision optical manufacturing, smart grid power distribution & AI machine vision |
+| 149 | [University at Buffalo](https://www.buffalo.edu/) | ✅ Full Profile | §3.3, A.5 | Computational materials design, battery electrolyte discovery & AI molecular screening |
+| 150 | [University of Arizona](https://www.arizona.edu/) | ✅ Full Profile | §3.3, A.5 | 5 Genesis awards: Earth science AI (AlphaEarth), water resources & planetary modeling |
+| 151 | [University of California System](https://www.universityofcalifornia.edu/) | ✅ Full Profile | §3.3, A.5 | Systemwide AI-for-science coordination, national lab co-management & STEM pipelines |
+| 152 | [University of Central Florida (UCF)](https://www.ucf.edu/) | ✅ Full Profile | §3.3, A.5 | Attosecond laser physics, space payload optics & quantum sensing instrumentation |
+| 153 | [University of Colorado Boulder](https://www.colorado.edu/) | ✅ Full Profile | §3.1, §3.3, A.5 | Infleqtion quantum sensing project, neutral-atom QPUs & Rigetti fusion plasma co-sims |
+| 154 | [University of Connecticut (UConn)](https://uconn.edu/) | ✅ Full Profile | §3.3, A.5 | High-temperature alloy synthesis, smart grid cybersecurity & materials informatics |
+| 155 | [University of Florida](https://www.ufl.edu/) | ✅ Full Profile | §3.3, A.5 | High-performance computing AI workloads, agricultural genomics & materials screening |
+| 156 | [University of Houston](https://www.uh.edu/) | ✅ Full Profile | §3.3, A.5 | AMMPT AI framework for real-time critical mineral mapping & characterization while drilling (w/ SNL) |
+| 157 | [University of Illinois Urbana-Champaign](https://illinois.edu/) | ✅ Full Profile | §3.3, A.5 | Petascale AI model training, open-source model registry platforms & semiconductor PDKs |
+| 158 | [University of Kentucky](https://www.uky.edu/) | ✅ Full Profile | §3.3, A.5 | Coal byproduct mineral extraction (NETL), battery recycling & bio-energy materials |
+| 159 | [University of Maine](https://umaine.edu/) | ✅ Full Profile | §3.3, A.5 | Large-scale bio-composite additive manufacturing & offshore floating wind AI models |
+| 160 | [University of Michigan](https://umich.edu/) | ✅ Full Profile | §3.3, A.5 | 3 Genesis awards: ArchEvolve agentic AI chip co-design ($750k w/ LANL & Intel), real-time 3D X-ray imaging, materials discovery & nuclear engineering |
+| 161 | [University of Minnesota](https://twin-cities.umn.edu/) | ✅ Full Profile | §3.3, A.5 | Chemical catalysis foundation models, spintronics materials & computational biology |
+| 162 | [University of Missouri](https://missouri.edu/) | ✅ Full Profile | §3.3, A.5 | Radioisotope production accelerators, nuclear medicine R&D & plant phenomics AI |
+| 163 | [University of Nebraska–Lincoln](https://www.unl.edu/) | ✅ Full Profile | §3.3, A.5 | AI-driven "autopilot" co-designer for 6G Radio Access Networks (RAN) |
+| 164 | [University of New Mexico](https://www.unm.edu/) | ✅ Full Profile | §3.3, A.5 | Quantum information science, optics fabrication & Sandia/Los Alamos national lab co-R&D |
+| 165 | [University of North Dakota (UND)](https://und.edu/) | ✅ Full Profile | §3.3, A.5 | 2 Genesis awards: rare earth mineral extraction from coal ash & autonomous energy AI |
+| 166 | [University of Pittsburgh](https://www.pitt.edu/) | ✅ Full Profile | §3.3, A.5 | Computational drug discovery foundation models, vascular bio-foundries & SciML |
+| 167 | [University of Southern California (USC)](https://usc.edu/) | ✅ Full Profile | §3.3, A.5 | Quantum annealing algorithms, microelectronics reliability & autonomous AI agents |
+| 168 | [University of Texas at Arlington](https://www.uta.edu/) | ✅ Full Profile | §3.3, A.5 | DOE Genesis Mission award for real-time AI trust & resilience in EPICS control workflows (LANL partner) |
+| 169 | [University of Texas at Austin](https://www.utexas.edu/) | ✅ Full Profile | §3.3, A.5 | Microelectronics lithography modeling, exascale AI model optimization & power grid AI |
+| 170 | [University of Utah](https://www.utah.edu/) | ✅ Full Profile | §3.3, A.5 | Geothermal energy reservoir simulation, net-zero carbon fuels & materials informatics |
+| 171 | [University of Wisconsin–Madison](https://www.wisc.edu/) | ✅ Full Profile | §3.3, A.5 | Fusion plasma stellarator physics, quantum dot QPU architectures & clean energy AI |
+| 172 | [Virginia Tech](https://www.vt.edu/) | ✅ Full Profile | §3.3, A.5 | $20M NSF PCL semiconductor lab node, cyber-physical power grid security & SciML |
+| 173 | [Yale University](https://www.yale.edu/) | ✅ Full Profile | §3.3, A.5 | Superconducting cavity QED quantum architecture, QIS error mitigation & molecular AI |
 
 ---
 
@@ -251,18 +252,18 @@
 
 | # | Organization | Coverage | Paper Section | Notes |
 |---|-------------|----------|---------------|-------|
-| 173 | [AI Tennessee Initiative](https://www.aitennessee.ai/) | ✅ Full Profile | §3.5, A.5 | Statewide AI research coordination (UT System / ORNL), Frontier exascale AI workforce & AgTech AI |
-| 174 | [Astera Institute](https://astera.org/) | ✅ Full Profile | §3.1, §3.4, A.4 | Non-profit open-science foundation, open AI model development & biosecurity governance |
-| 175 | [Cleveland Clinic](https://my.clevelandclinic.org/) | ✅ Full Profile | §2.3B, §3.1, §3.5, A.5 | ORNL–Cleveland Clinic–IBM FLiBe fusion quantum chemistry pipeline & biomedical AI discovery |
-| 176 | [Foundation for Energy Security and Innovation (FESI)](https://fesi.org/) | ✅ Full Profile | §3.4, A.4 | DOE statutory non-profit foundation, public-private partnership acceleration & technology transfer |
-| 177 | [Illinois Quantum & Microelectronics Park (IQMP)](https://iqmp.org/) | ✅ Full Profile | §3.5, A.4 | Regional quantum co-design testbed, microelectronics campus & PsiQuantum QPU deployment site |
-| 178 | [Johns Hopkins University APL (JHU APL)](https://www.jhuapl.edu/) | ✅ Full Profile | §3.1, §3.5, A.5 | Autonomous self-driving materials synthesis labs (MSFT Discovery partner) & defense alloys |
-| 179 | [Renaissance Philanthropy](https://www.renaissancephilanthropy.org/) | ✅ Full Profile | §3.4, A.4 | Catalytic scientific philanthropy, venture research grants & AI for Science acceleration |
-| 180 | [RTI International](https://www.rti.org/) | ✅ Full Profile | §3.5, A.5 | Environmental risk AI modeling, carbon capture technology scaling & life-cycle assessment engines |
-| 181 | [Schmidt Sciences](https://www.schmidtsciences.org/) | ✅ Full Profile | §3.4, A.4 | Non-profit research foundation, AI for Science fellowships & open scientific model grants |
-| 182 | [Association of American Universities (AAU)](https://www.aau.edu/) | ✅ Full Profile | §3.4, A.1 | Higher education association representing 71 research universities, DOE RFI academic talent mobilization response, graduate fellowships & IP/CRADA frameworks |
-| 183 | [RIKEN](https://www.riken.jp/) | ✅ Full Profile | §3.5 | Japan's premier natural sciences research institute & 1st international Genesis partner (MEXT/METI/DOE agreement, TRIP/TRIP-AGIS, Fugaku & SPring-8 integration) |
-| ✅ Full Profile | 184 | 100.0% |
+| 174 | [AI Tennessee Initiative](https://www.aitennessee.ai/) | ✅ Full Profile | §3.5, A.5 | Statewide AI research coordination (UT System / ORNL), Frontier exascale AI workforce & AgTech AI |
+| 175 | [Astera Institute](https://astera.org/) | ✅ Full Profile | §3.1, §3.4, A.4 | Non-profit open-science foundation, open AI model development & biosecurity governance |
+| 176 | [Cleveland Clinic](https://my.clevelandclinic.org/) | ✅ Full Profile | §2.3B, §3.1, §3.5, A.5 | ORNL–Cleveland Clinic–IBM FLiBe fusion quantum chemistry pipeline & biomedical AI discovery |
+| 177 | [Foundation for Energy Security and Innovation (FESI)](https://fesi.org/) | ✅ Full Profile | §3.4, A.4 | DOE statutory non-profit foundation, public-private partnership acceleration & technology transfer |
+| 178 | [Illinois Quantum & Microelectronics Park (IQMP)](https://iqmp.org/) | ✅ Full Profile | §3.5, A.4 | Regional quantum co-design testbed, microelectronics campus & PsiQuantum QPU deployment site |
+| 179 | [Johns Hopkins University APL (JHU APL)](https://www.jhuapl.edu/) | ✅ Full Profile | §3.1, §3.5, A.5 | Autonomous self-driving materials synthesis labs (MSFT Discovery partner) & defense alloys |
+| 180 | [Renaissance Philanthropy](https://www.renaissancephilanthropy.org/) | ✅ Full Profile | §3.4, A.4 | Catalytic scientific philanthropy, venture research grants & AI for Science acceleration |
+| 181 | [RTI International](https://www.rti.org/) | ✅ Full Profile | §3.5, A.5 | Environmental risk AI modeling, carbon capture technology scaling & life-cycle assessment engines |
+| 182 | [Schmidt Sciences](https://www.schmidtsciences.org/) | ✅ Full Profile | §3.4, A.4 | Non-profit research foundation, AI for Science fellowships & open scientific model grants |
+| 183 | [Association of American Universities (AAU)](https://www.aau.edu/) | ✅ Full Profile | §3.4, A.1 | Higher education association representing 71 research universities, DOE RFI academic talent mobilization response, graduate fellowships & IP/CRADA frameworks |
+| 184 | [RIKEN](https://www.riken.jp/) | ✅ Full Profile | §3.5 | Japan's premier natural sciences research institute & 1st international Genesis partner (MEXT/METI/DOE agreement, TRIP/TRIP-AGIS, Fugaku & SPring-8 integration) |
+| ✅ Full Profile | 184 | 99.5% |
 
 ---
 
@@ -275,17 +276,17 @@
 | Industry Partners | 75 | 75 | 0 | 0 |
 | Federal Agencies | 10 | 10 | 0 | 0 |
 | National Laboratories & Defense Sites | 22 | 22 | 0 | 0 |
-| Universities | 65 | 65 | 0 | 0 |
+| Universities | 66 | 65 | 0 | 1 |
 | Philanthropy, Policy & Regional Hubs | 11 | 11 | 0 | 0 |
-| **Total** | **184** | **184** | **0** | **0** |
+| **Total** | **185** | **184** | **0** | **1** |
 
 ### By Coverage Level
 
 | Coverage Level | Count | Percentage |
 |:---|:---:|:---:|
-| ✅ Full Profile | 184 | 100.0% |
+| ✅ Full Profile | 184 | 99.5% |
 | 📋 Brief Mention | 0 | 0.0% |
-| ❌ Not Covered | 0 | 0.0% |
-| **Total Entities** | **184** | **100%** |
+| ❌ Not Covered | 1 | 0.5% |
+| **Total Entities** | **185** | **100%** |
 
-> **Note:** All 184 tracked Genesis Mission ecosystem participants have dedicated, detailed technical write-ups (achieving 100.0% full profile coverage across all 75 industry partners, 22 national lab/defense sites, 65 research universities, 10 federal agencies, and 11 philanthropy, policy, and regional hubs). The broader sub-grantee network of 342 participating institutions represents secondary academic and sub-contractor nodes across the 278 national project awards.
+> **Note:** The tracker now covers 185 Genesis Mission ecosystem participants, with 184 entities in dedicated technical write-ups (99.5% full-profile coverage) and 1 university currently reference-only (Boston University) pending full-profile expansion. The broader sub-grantee network of 342 participating institutions represents secondary academic and sub-contractor nodes across the 278 national project awards.
