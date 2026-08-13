@@ -51,7 +51,8 @@ The workflow receives a single URL parameter supplied via prompt invocation:
 - **Merge Only:** NEVER overwrite or erase existing document content; append and integrate additively.
 
 ### 7. Version Bump & Changelog Synchronization
-- **Version Bump:** Increment the patch version string on line 1 of both `README.md` and `README.de.md` (e.g., `2.4.10` → `2.4.11`).
+- **Version Bump:** Increment only the patch version string on line 1 of both `README.md` and `README.de.md` (e.g., `**Version**: 2.4.10` → `**Version**: 2.4.11`).
+- **Headline Preservation Rule:** Do not modify the main document headline while updating the version. Keep the blank line after the version and leave line 3 in both files unchanged.
 - **Changelog Entry:** Add a new release section `## [X.Y.Z] - YYYY-MM-DD` in `CHANGELOG.md` logging:
   - The processed reference link (Index `#`, Title, Host Domain).
   - Specific paper sections enriched.
