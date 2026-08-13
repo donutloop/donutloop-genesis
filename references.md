@@ -578,6 +578,7 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
 * **Genesis Mission Summit 2026:** [Genesis Mission Annual Summit (Full Livestream)](https://youtu.be/zyERV0Z4sNo)
 * **DOE Office of Science:** [The Genesis Mission: Transforming Science and Energy with AI Funding Opportunity Webinar](https://www.youtube.com/watch?v=rjo2CV3ju9Y)
 * **DOE Office of Science / ANL:** [The Genesis Mission: AI and Autonomous Experiments in Materials Discovery](https://www.youtube.com/watch?v=AvLHUgHujlg)
+* **Oak Ridge National Laboratory (ORNL):** [Powering the Genesis Mission: How AI and Neutron Scattering Unlock Quantum Material](https://www.youtube.com/watch?v=YnP8_IZZIKU)
 * **NVIDIA GTC 2026:** [Science at the Speed of Light: The Genesis Mission Across DOE Labs (Brian Spears & Rick Stevens)](https://www.nvidia.com/en-us/on-demand/session/gtc26-s82461/)
 * **NVIDIA GTC 2026:** [Accelerating Scientific Discovery Through Global Innovation (Dr. Darío Gil & Ian Buck)](https://www.nvidia.com/en-us/on-demand/session/gtc26-s82438/)
 * **National Laboratory of the Rockies (NREL):** [12 Genesis Awards, One Membrane Center, and 5 Emerging Aviation Fuels](https://www.youtube.com/watch?v=Hw_mpJwmT1o)
