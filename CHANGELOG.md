@@ -5,6 +5,17 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.5.1] - 2026-08-14
+
+### Added
+- **Reference Index Entry #530**: Processed *UVA Engineering's Ferdinando Fioretto Selected for U.S. Department of Energy Genesis Mission* (`engineering.virginia.edu`) — registered under Section 5 (*National Labs & University Coverage*) in `references.md`.
+- **Master Index Update**: Registered entry #530 in `reference_coverage.md`; synchronized Total Reference Links (529 → 530), Web Portals (510 → 511), Unique Target Domains (230 → 231, added `engineering.virginia.edu`), Section 5 count (253 → 254, 47.8% → 47.9%), Section 4 share (29.9% → 29.8%), and Processing Status (529 / 529 → 530 / 530 Processed, 100% Complete).
+- **Coverage Matrix Update**: Added **University of Virginia (UVA)** (#171) to `coverage.md` under *Research Universities* with status `✅ Full Profile` (Paper Section: §3.3, A.5); renumbered subsequent rows (University of Wisconsin–Madison 171 → 172, Virginia Tech 172 → 173, Yale 173 → 174, all Philanthropy rows 174–185 → 175–186); updated summary tables (Universities 66 → 67, Total 186 → 187, Full Profile 186 → 187); updated header coverage status to **187 / 187 (100%)**.
+- **Research Paper Enrichment — §3.3 & Appendix A.5 (README.md & README.de.md)**: Added UVA Computer Science Prof. Ferdinando Fioretto's DOE Genesis Mission project *"From Static to Adaptive Grids: Autonomous Topology Control at Scale"* — AI-driven reinforcement learning for autonomous electric power grid topology reconfiguration in real time, adapting to dynamic load profiles, renewable variability, and extreme weather; one of the first cohort of 278 selected Genesis Mission projects. Added UVA row to Appendix A.5 university table in both papers.
+- **Patch Version Release**: Incremented version string to `3.5.1` across [`README.md`](./README.md) and [`README.de.md`](./README.de.md). Index completion: **530 / 530 Processed, 100% Complete**.
+
+---
+
 ## [3.5.0] - 2026-08-14
 
 ### Added
