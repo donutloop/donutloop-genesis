@@ -5,6 +5,17 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.4.16] - 2026-08-14
+
+### Added
+- **Reference Index Entry #247**: Processed *FIA Urges U.S. DOE to Match Its Fusion Ambition With Strong FY28 Federal Budget* (`www.fusionindustryassociation.org`) — registered under Section 4 (*Executive, Federal & Partner Announcements*) in `references.md`.
+- **Master Index Update**: Registered entry #247 in `reference_coverage.md`; renumbered all subsequent entries (#247–528 → #248–529); synchronized Total Reference Links (528 → 529), Web Portals (509 → 510), Unique Target Domains (229 → 230), Section 4 count (157 → 158, 29.8% → 29.9%), Section 5 share (47.9% → 47.8%), added `www.fusionindustryassociation.org` domain entry, and Processing Status (528 / 528 → 529 / 529 Processed, 100% Complete).
+- **Coverage Matrix Update**: Added **Fusion Industry Association (FIA)** (#185) to `coverage.md` under *Philanthropy, Non-Profit Foundations & Regional Hubs* with status `❌ Not Covered (reference only)`; updated summary tables (Philanthropy 11 → 12, Total 185 → 186, Not Covered 1 → 2, Full Profile 99.5% → 98.9%).
+- **Research Paper Enrichment — §4.3 Energy Security Vector 3 (README.md & README.de.md)**: Added FIA August 2026 advocacy coverage — $1.114B total DOE fusion investment ask, $2B Fusion Milestone program, $3B commercial pilot plant demonstration tier, $50M INFUSE, $50M Inertial Fusion Energy, $180M FIRE Collaborative, in support of White House FY28 R&D Priority targeting commercial fusion by mid-2030s and Genesis Mission AI/exascale/quantum infrastructure for fusion.
+- **Patch Version Release**: Incremented version string to `3.4.16` across [`README.md`](./README.md) and [`README.de.md`](./README.de.md).
+
+---
+
 ## [3.4.15] - 2026-08-13
 
 ### Added
