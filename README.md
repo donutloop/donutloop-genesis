@@ -1,4 +1,4 @@
-**Version**: 3.4.16
+**Version**: 3.5.0
 
 # The Genesis Mission: Architecture, Strategic Initiatives, and the Multi-Institutional Ecosystem for AI- and Quantum-Driven Scientific Discoveries
 
@@ -735,6 +735,7 @@ Executive oversight, funding solicitation execution, and interagency alignment a
 * **Foundation for Energy Security and Innovation (FESI):** The official statutory non-profit foundation of the U.S. Department of Energy (established under the CHIPS and Science Act), facilitating high-impact public-private partnerships, philanthropic capital deployment, and rapid commercialization of Genesis Mission scientific breakthroughs.
 * **Renaissance Philanthropy:** Strategic scientific philanthropy hub providing targeted catalytic grant funding, venture philanthropy capital, and high-risk/high-reward research acceleration for Genesis Mission AI for Science initiatives.
 * **Schmidt Sciences:** Non-profit research foundation providing direct grant funding, AI for Science research fellowships, and open-access scientific foundation model tooling across academic and national laboratory research teams under Genesis.
+* **Fusion Industry Association (FIA):** The leading U.S. fusion energy industry trade association formally advocating federal investment alignment for the Genesis Mission fusion roadmap. In August 2026, FIA directly urged DOE Secretary Wright to fully fund the DOE Fusion Science & Technology Roadmap in support of the White House FY28 R&D Priority targeting commercial fusion power by the mid-2030s, recommending **$1.114 billion** in total annual DOE fusion investment, **$2 billion** to fully fund the Fusion Milestone program, a new **$3 billion** commercial pilot plant demonstration tier, **$50 million** for Alternative & Enabling Concepts (including at least $10 million for **INFUSE**), **$50 million** for Inertial Fusion Energy research, and **$180 million** for the **FIRE Collaborative** programs—alongside sustained support for public-private partnerships, supply chain development, and the Genesis Mission's AI, exascale, and quantum computing infrastructure required to accelerate fusion commercialization ([www.fusionindustryassociation.org/fia-urges-u-s-doe-to-match-its-fusion-ambition-with-strong-fy28-federal-budget/](https://www.fusionindustryassociation.org/fia-urges-u-s-doe-to-match-its-fusion-ambition-with-strong-fy28-federal-budget/)).
 
 ### 3.5 Specialized Research & Healthcare Institutions
 Specialized non-profit research institutes, healthcare centers, and regional hubs drive cross-disciplinary innovation across the Genesis Mission ecosystem:
@@ -1081,6 +1082,7 @@ Over 58 research universities receive competitive project awards under DE-FOA-00
 | [Foundation for Energy Security and Innovation (FESI)](https://fesi.org/) | DOE statutory non-profit foundation, public-private partnership acceleration & technology transfer |
 | [Renaissance Philanthropy](https://www.renaissancephilanthropy.org/) | Catalytic scientific philanthropy, venture research grants & AI for Science acceleration |
 | [Schmidt Sciences](https://www.schmidtsciences.org/) | Non-profit research foundation, AI for Science fellowships & open scientific model grants |
+| [Fusion Industry Association (FIA)](https://www.fusionindustryassociation.org/) | Fusion energy industry trade association; FY28 DOE fusion investment advocacy ($1.114B total, $2B Fusion Milestone, $3B commercial pilot tier, $50M INFUSE, $180M FIRE Collaborative) in support of Genesis Mission fusion roadmap |
 | [Illinois Quantum & Microelectronics Park (IQMP)](https://iqmp.org/) | Regional quantum co-design testbed, microelectronics campus & PsiQuantum QPU deployment site |
 | [Kansas City National Security Campus (KCNSC)](https://kcnsc.doe.gov/) | NNSA microelectronics manufacturing, AI quality assurance & stockpile component digital twins |
 | [Nevada National Security Sites (NNSS)](https://www.nnss.gov/) | Subcritical nuclear experiment diagnostics, high-speed optical sensors & physics AI modeling |

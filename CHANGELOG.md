@@ -5,6 +5,16 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.5.0] - 2026-08-14
+
+### Added
+- **Full Profile Expansion — Fusion Industry Association (FIA)**: Upgraded status from `❌ Not Covered` to `✅ Full Profile` in `coverage.md` (Paper Section: §3.4, §4.3, A.5). Added dedicated entry in `README.md` §3.4 (*Federal Agencies & Policy Bodies*) alongside FESI, Renaissance Philanthropy, and Schmidt Sciences, documenting FIA's formal August 2026 advocacy letter to DOE Secretary Wright recommending **$1.114B** in total annual DOE fusion investment, **$2B** Fusion Milestone program, **$3B** commercial pilot plant demonstration tier, **$50M** INFUSE, **$50M** Inertial Fusion Energy, and **$180M** FIRE Collaborative—in direct support of the White House FY28 R&D Priority targeting commercial fusion power by the mid-2030s and Genesis Mission AI/exascale/quantum infrastructure. Added FIA row to Appendix A.5 *Additional Academic & Research Organizations* table.
+- **Full Profile Expansion — Boston University (BU)**: Upgraded status from `❌ Not Covered` to `✅ Full Profile` in `coverage.md` (Paper Section: §3.3, A.5). BU's technical profile—including the DOE Genesis Mission project *"Toward a FLARE Digital Twin: Accelerating Experimental Research Using Neural Networks"* (neural-network plasma-measurement reconstruction, plasmoid detection, AI-driven fusion plasma physics discovery in collaboration with PPPL, Princeton, LANL, UCSB, and TAE Technologies)—was already documented in `README.md` §3.3 and Appendix A.5; coverage status now correctly reflects existing paper content.
+- **Coverage Matrix Update (`coverage.md`)**: Incremented ✅ Full Profile from 184 → 186; decremented ❌ Not Covered from 2 → 0; updated header coverage status to **186 / 186 (100%)**; updated By Entity Type table (Universities 65 → 66 Full, Philanthropy/Policy 11 → 12 Full, Not Covered 0 for all categories); updated By Coverage Level table (Full Profile 98.9% → 100.0%, Not Covered 1.1% → 0.0%); updated closing footnote to reflect 100% full-profile coverage across all 186 tracked participants.
+- **Minor Version Release**: Incremented version string to `3.5.0` across [`README.md`](./README.md) and [`README.de.md`](./README.de.md), marking achievement of 100% full-profile coverage across all 186 Genesis Mission consortium participants.
+
+---
+
 ## [3.4.16] - 2026-08-14
 
 ### Added

@@ -3,7 +3,7 @@
 > **Scope & Coverage Definition:**
 > - **Flagship Consortium Scope:** Tracks **all 184 primary flagship participants**—lead contractors, federal agencies, national laboratories, awardee universities, strategic industrial partners, and philanthropic foundations—explicitly profiled or referenced in the Genesis Mission paper (`README.md`) and reference index.
 > - **Broader National Awardee Network Context:** Under solicitation DE-FOA-0003612 and interagency challenges, the broader national initiative encompasses **342 total participating institutions** (157 companies, 142 universities, 16 national labs, 13 non-profits, 14 other entities across 278 projects).
-> - **Coverage Status:** **184 / 185 (99.5%)** of the tracked consortium entities have dedicated, detailed technical profiles.
+> - **Coverage Status:** **186 / 186 (100%)** of the tracked consortium entities have dedicated, detailed technical profiles.
 
 **Legend:**
 - ✅ **Full Profile** — Dedicated section with detailed technical write-up (Sections 2.2 / 3.1 / 3.2 / 3.3 / 3.4 / 3.5)
@@ -181,7 +181,7 @@
 |---|-----------|----------|---------------|-------|
 | 108 | [Arizona State University (ASU)](https://www.asu.edu/) | ✅ Full Profile | §2.3D, §3.3, A.5 | Power grid reliability AI, smart energy infrastructure & NREL ARIES co-simulation |
 | 109 | [Auburn University](https://www.auburn.edu/) | ✅ Full Profile | §3.3, A.5 | Advanced additive manufacturing, extreme thermal materials & defense engineering |
-| 110 | [Boston University](https://www.bu.edu/) | ❌ Not Covered | — | DOE Genesis Mission plasma-physics award coverage (reference only) |
+| 110 | [Boston University](https://www.bu.edu/) | ✅ Full Profile | §3.3, A.5 | DOE Genesis Mission plasma-physics award; FLARE digital twin neural networks, plasmoid detection & PPPL/LANL/UCSB/TAE collaboration |
 | 111 | [University of Alabama](https://www.ua.edu/) | ✅ Full Profile | §3.3, A.5 | High-energy particle physics AI workflow automation (Fermilab partner) & LHC CMS data analytics |
 | 112 | [Caltech](https://www.caltech.edu/) | ✅ Full Profile | §3.3, A.5 | Quantum optics, photonic QPU co-design, computational physics & AI foundation models |
 | 113 | [Carnegie Mellon University](https://www.cmu.edu/) | ✅ Full Profile | §3.3, A.5 | Autonomous scientific AI agents, robotics, SciML & materials discovery algorithms |
@@ -263,7 +263,7 @@
 | 182 | [Schmidt Sciences](https://www.schmidtsciences.org/) | ✅ Full Profile | §3.4, A.4 | Non-profit research foundation, AI for Science fellowships & open scientific model grants |
 | 183 | [Association of American Universities (AAU)](https://www.aau.edu/) | ✅ Full Profile | §3.4, A.1 | Higher education association representing 71 research universities, DOE RFI academic talent mobilization response, graduate fellowships & IP/CRADA frameworks |
 | 184 | [RIKEN](https://www.riken.jp/) | ✅ Full Profile | §3.5 | Japan's premier natural sciences research institute & 1st international Genesis partner (MEXT/METI/DOE agreement, TRIP/TRIP-AGIS, Fugaku & SPring-8 integration) |
-| 185 | [Fusion Industry Association (FIA)](https://www.fusionindustryassociation.org/) | ❌ Not Covered | — | (reference only) Fusion energy industry trade association; urged U.S. DOE FY28 $1.114B fusion investment, $2B Fusion Milestone program, $3B commercial pilot plant tier, $50M INFUSE & $180M FIRE Collaborative in August 2026 letter to Secretary Wright |
+| 185 | [Fusion Industry Association (FIA)](https://www.fusionindustryassociation.org/) | ✅ Full Profile | §3.4, §4.3, A.5 | Fusion energy industry trade association; FY28 DOE fusion investment advocacy ($1.114B total, $2B Fusion Milestone, $3B commercial pilot tier, $50M INFUSE, $180M FIRE Collaborative) in support of Genesis Mission fusion roadmap |
 
 ---
 
@@ -276,17 +276,17 @@
 | Industry Partners | 75 | 75 | 0 | 0 |
 | Federal Agencies | 10 | 10 | 0 | 0 |
 | National Laboratories & Defense Sites | 22 | 22 | 0 | 0 |
-| Universities | 66 | 65 | 0 | 1 |
-| Philanthropy, Policy & Regional Hubs | 12 | 11 | 0 | 1 |
-| **Total** | **186** | **184** | **0** | **2** |
+| Universities | 66 | 66 | 0 | 0 |
+| Philanthropy, Policy & Regional Hubs | 12 | 12 | 0 | 0 |
+| **Total** | **186** | **186** | **0** | **0** |
 
 ### By Coverage Level
 
 | Coverage Level | Count | Percentage |
 |:---|:---:|:---:|
-| ✅ Full Profile | 184 | 98.9% |
+| ✅ Full Profile | 186 | 100.0% |
 | 📋 Brief Mention | 0 | 0.0% |
-| ❌ Not Covered | 2 | 1.1% |
+| ❌ Not Covered | 0 | 0.0% |
 | **Total Entities** | **186** | **100%** |
 
-> **Note:** The tracker now covers 186 Genesis Mission ecosystem participants, with 184 entities in dedicated technical write-ups (98.9% full-profile coverage) and 2 entities currently reference-only (Boston University and Fusion Industry Association) pending full-profile expansion. The broader sub-grantee network of 342 participating institutions represents secondary academic and sub-contractor nodes across the 278 national project awards.
+> **Note:** The tracker now covers 186 Genesis Mission ecosystem participants, with all 186 entities in dedicated technical write-ups (100% full-profile coverage). The broader sub-grantee network of 342 participating institutions represents secondary academic and sub-contractor nodes across the 278 national project awards.
