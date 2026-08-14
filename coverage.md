@@ -263,7 +263,7 @@
 | 182 | [Schmidt Sciences](https://www.schmidtsciences.org/) | ✅ Full Profile | §3.4, A.4 | Non-profit research foundation, AI for Science fellowships & open scientific model grants |
 | 183 | [Association of American Universities (AAU)](https://www.aau.edu/) | ✅ Full Profile | §3.4, A.1 | Higher education association representing 71 research universities, DOE RFI academic talent mobilization response, graduate fellowships & IP/CRADA frameworks |
 | 184 | [RIKEN](https://www.riken.jp/) | ✅ Full Profile | §3.5 | Japan's premier natural sciences research institute & 1st international Genesis partner (MEXT/METI/DOE agreement, TRIP/TRIP-AGIS, Fugaku & SPring-8 integration) |
-| ✅ Full Profile | 184 | 99.5% |
+| 185 | [Fusion Industry Association (FIA)](https://www.fusionindustryassociation.org/) | ❌ Not Covered | — | (reference only) Fusion energy industry trade association; urged U.S. DOE FY28 $1.114B fusion investment, $2B Fusion Milestone program, $3B commercial pilot plant tier, $50M INFUSE & $180M FIRE Collaborative in August 2026 letter to Secretary Wright |
 
 ---
 
@@ -277,16 +277,16 @@
 | Federal Agencies | 10 | 10 | 0 | 0 |
 | National Laboratories & Defense Sites | 22 | 22 | 0 | 0 |
 | Universities | 66 | 65 | 0 | 1 |
-| Philanthropy, Policy & Regional Hubs | 11 | 11 | 0 | 0 |
-| **Total** | **185** | **184** | **0** | **1** |
+| Philanthropy, Policy & Regional Hubs | 12 | 11 | 0 | 1 |
+| **Total** | **186** | **184** | **0** | **2** |
 
 ### By Coverage Level
 
 | Coverage Level | Count | Percentage |
 |:---|:---:|:---:|
-| ✅ Full Profile | 184 | 99.5% |
+| ✅ Full Profile | 184 | 98.9% |
 | 📋 Brief Mention | 0 | 0.0% |
-| ❌ Not Covered | 1 | 0.5% |
-| **Total Entities** | **185** | **100%** |
+| ❌ Not Covered | 2 | 1.1% |
+| **Total Entities** | **186** | **100%** |
 
-> **Note:** The tracker now covers 185 Genesis Mission ecosystem participants, with 184 entities in dedicated technical write-ups (99.5% full-profile coverage) and 1 university currently reference-only (Boston University) pending full-profile expansion. The broader sub-grantee network of 342 participating institutions represents secondary academic and sub-contractor nodes across the 278 national project awards.
+> **Note:** The tracker now covers 186 Genesis Mission ecosystem participants, with 184 entities in dedicated technical write-ups (98.9% full-profile coverage) and 2 entities currently reference-only (Boston University and Fusion Industry Association) pending full-profile expansion. The broader sub-grantee network of 342 participating institutions represents secondary academic and sub-contractor nodes across the 278 national project awards.
