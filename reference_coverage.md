@@ -1,7 +1,7 @@
 # Genesis Mission — Master Reference Coverage Report
 
 > **Document Overview:**
-> This report provides a comprehensive coverage analysis, breakdown, and master audit index of all **534 external reference links** compiled within `references.md` for the **Genesis Mission** documentation repository.
+> This report provides a comprehensive coverage analysis, breakdown, and master audit index of all **535 external reference links** compiled within `references.md` for the **Genesis Mission** documentation repository.
 
 ---
 
@@ -9,13 +9,13 @@
 
 | Metric | Count / Value | Description |
 | :--- | :--- | :--- |
-| **Total Reference Links** | **534** | Unique external links indexed across all sections |
+| **Total Reference Links** | **535** | Unique external links indexed across all sections |
 | **Primary Document Sections** | **7** | High-level thematic categories in `references.md` |
 | **Unique Target Domains** | **233** | Distinct domain names referenced (government, lab, corporate, academic, news) |
 | **Official PDF Documents** | **18** | Formal RFA solicitations, webinars, slides, and executive reports |
-| **Web Portals & Press Releases** | **515** | Newsroom features, corporate blog posts, and interactive hubs |
+| **Web Portals & Press Releases** | **516** | Newsroom features, corporate blog posts, and interactive hubs |
 | **Validation Status** | **100% Validated** | All links canonicalized, formatted, and deduplicated |
-| **Processing Status** | **534 / 534 Processed** | 0 Unprocessed, 534 Processed (100% Complete) |
+| **Processing Status** | **535 / 535 Processed** | 0 Unprocessed, 535 Processed (100% Complete) |
 
 ---
 
@@ -28,7 +28,7 @@
 | 3 | `3. Quantum Leadership & CHIPS Act Initiatives` | **11** | 2.1% | Department of Commerce NIST LOIs & DOE $2B quantum initiatives |
 | 4 | `4. Executive, Federal & Partner Announcements` | **160** | 30.0% | White House releases, Cabinet agency press, hyperscaler & lab announcements |
 | 5 | `5. National Labs & University Coverage` | **256** | 47.9% | National Laboratory news portals & 66 awardee university press releases |
-| 6 | `6. Additional Event Materials & Reference Links` | **16** | 3.0% | Presentation slide decks, institutional intro files & video recordings |
+| 6 | `6. Additional Event Materials & Reference Links` | **17** | 3.2% | Presentation slide decks, institutional intro files & video recordings |
 | 7 | `7. Technical Documents, RFA Guidance & Official Webinars` | **13** | 2.4% | DE-FOA-0003612 solicitations, OSTP challenge papers & SCAC presentations |
 
 ---
@@ -52,6 +52,7 @@ Below is the distribution of references grouped by top domain hosts and institut
 | `www.lanl.gov` | **6** | Los Alamos National Laboratory (LANL) | Weapons hydrodynamics, plutonium aging AI, high-explosives R&D |
 | `www.ornl.gov` | **14** | Oak Ridge National Laboratory (ORNL) | Frontier supercomputer, IBM FLiBe molten salt quantum chemistry |
 | `aws.amazon.com` | **4** | Amazon Web Services (AWS) | Public sector HPC credits, quantum post-quantum security |
+| `www.youtube.com` | **6** | YouTube | Genesis Mission summit, technical presentation, webinar, and national-laboratory video recordings |
 | `www.bnl.gov` | **5** | Brookhaven National Laboratory (BNL) | C2QA quantum advantage center, NSLS-II beamlines, Quantum Technology Outposts at EIC |
 | `www.pppl.gov` | **4** | Princeton Plasma Physics Lab (PPPL) | Stellarator optimization, fusion plasma turbulence AI |
 | `indico.cern.ch` | **3** | CERN Indico Event System | U.S. ATLAS IB meeting slides, DOE-HEP presentation files |
@@ -74,7 +75,7 @@ Below is the distribution of references grouped by top domain hosts and institut
 
 ## 4. Master Reference Link Index
 
-A complete tabular listing of all 534 indexed reference links:
+A complete tabular listing of all 535 indexed reference links:
 
 | # | Category / Section | Entity / Subject | Title | Domain | Type | Link | Status |
 |---|---|---|---|---|:---:|---|:---:|
@@ -611,3 +612,4 @@ A complete tabular listing of all 534 indexed reference links:
 | 532 | 5. National Labs & University Coverage | St. Joseph's University, New York (SJNY) | Students to Gain Hands-On AI Research Experience Through DOE Grant | `oncampus.sjny.edu` | Web | [Students to Gain Hands-On AI Research Experience Through DOE Grant](https://oncampus.sjny.edu/sjny-students-to-gain-hands-on-ai-research-experience-through-doe-grant/) | `Processed` |
 | 533 | 4. Executive, Federal & Partner Announcements | Kristen Ellis | DOE Office of the Under Secretary for Science: Kristen Ellis, Associate Principal Deputy Under Secretary | `www.energy.gov` | Web | [DOE Office of the Under Secretary for Science: Kristen Ellis, Associate Principal Deputy Under Secretary](https://www.energy.gov/undersecretaryforscience/person/kristen-ellis) | `Processed` |
 | 534 | 4. Executive, Federal & Partner Announcements | U.S. Department of Energy (DOE) | DOE Announces $10M SBIR/STTR Funding Opportunity Supporting the Genesis Mission | `www.energy.gov` | Web | [DOE Announces $10M SBIR/STTR Funding Opportunity Supporting the Genesis Mission](https://www.energy.gov/technologycommercialization/articles/doe-announces-10m-sbirsttr-funding-opportunity-supporting) | `Processed` |
+| 535 | 6. Additional Event Materials & Reference Links | ORISE Peer Review | Genesis Mission Annual Summit | `youtu.be` | Web | [Genesis Mission Annual Summit](https://youtu.be/TobhuGA4W20) | `Processed` |

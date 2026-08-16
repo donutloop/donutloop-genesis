@@ -3,7 +3,7 @@
 > **Scope & Coverage Definition:**
 > - **Flagship Consortium Scope:** Tracks **all 189 primary flagship participants**—lead contractors, federal agencies, national laboratories, awardee universities, strategic industrial partners, and philanthropic foundations—explicitly profiled or referenced in the Genesis Mission paper (`README.md`) and reference index.
 > - **Broader National Awardee Network Context:** Under solicitation DE-FOA-0003612 and interagency challenges, the broader national initiative encompasses **342 total participating institutions** (157 companies, 142 universities, 16 national labs, 13 non-profits, 14 other entities across 278 projects).
-> - **Coverage Status:** **188 / 189 (99.5%)** of the tracked consortium entities have dedicated, detailed technical profiles.
+> - **Coverage Status:** **187 / 189 (98.9%)** of the tracked consortium entities have dedicated, detailed technical profiles.
 
 **Legend:**
 - ✅ **Full Profile** — Dedicated section with detailed technical write-up (Sections 2.2 / 3.1 / 3.2 / 3.3 / 3.4 / 3.5)
@@ -267,6 +267,7 @@
 | 186 | [Association of American Universities (AAU)](https://www.aau.edu/) | ✅ Full Profile | §3.4, A.1 | Higher education association representing 71 research universities, DOE RFI academic talent mobilization response, graduate fellowships & IP/CRADA frameworks |
 | 187 | [RIKEN](https://www.riken.jp/) | ✅ Full Profile | §3.5 | Japan's premier natural sciences research institute & 1st international Genesis partner (MEXT/METI/DOE agreement, TRIP/TRIP-AGIS, Fugaku & SPring-8 integration) |
 | 188 | [Fusion Industry Association (FIA)](https://www.fusionindustryassociation.org/) | ✅ Full Profile | §3.4, §4.3, A.5 | Fusion energy industry trade association; FY28 DOE fusion investment advocacy ($1.114B total, $2B Fusion Milestone, $3B commercial pilot tier, $50M INFUSE, $180M FIRE Collaborative) in support of Genesis Mission fusion roadmap |
+| 189 | [Oak Ridge Institute for Science and Education (ORISE)](https://orise.orau.gov/) | ❌ Not Covered | — | Genesis Mission Annual Summit recording published through the ORISE Peer Review channel (reference only) |
 
 ---
 
@@ -280,16 +281,16 @@
 | Federal Agencies | 10 | 10 | 0 | 0 |
 | National Laboratories & Defense Sites | 22 | 22 | 0 | 0 |
 | Universities | 69 | 68 | 0 | 1 |
-| Philanthropy, Policy & Regional Hubs | 12 | 12 | 0 | 0 |
-| **Total** | **189** | **188** | **0** | **1** |
+| Philanthropy, Policy & Regional Hubs | 13 | 12 | 0 | 1 |
+| **Total** | **189** | **187** | **0** | **2** |
 
 ### By Coverage Level
 
 | Coverage Level | Count | Percentage |
 |:---|:---:|:---:|
-| ✅ Full Profile | 188 | 99.5% |
+| ✅ Full Profile | 187 | 98.9% |
 | 📋 Brief Mention | 0 | 0.0% |
-| ❌ Not Covered | 1 | 0.5% |
+| ❌ Not Covered | 2 | 1.1% |
 | **Total Entities** | **189** | **100%** |
 
-> **Note:** The tracker now covers 189 Genesis Mission ecosystem participants, with 188 entities in dedicated technical write-ups (99.5% full-profile coverage) and St. Joseph's University, New York registered as a reference-only participant. The broader sub-grantee network of 342 participating institutions represents secondary academic and sub-contractor nodes across the 278 national project awards.
+> **Note:** The tracker now covers 189 Genesis Mission ecosystem participants, with 187 entities in dedicated technical write-ups (98.9% full-profile coverage) and St. Joseph's University, New York and ORISE registered as reference-only participants. The broader sub-grantee network of 342 participating institutions represents secondary academic and sub-contractor nodes across the 278 national project awards.
