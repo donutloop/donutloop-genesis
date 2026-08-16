@@ -5,6 +5,17 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.5.21] - 2026-08-16
+
+### Added
+- **Reference Index Entry #550**: Processed *X-energy Joins Project Prometheus for AI-Accelerated Advanced Nuclear Deployment* (`x-energy.com`) under Section 4 (*Executive, Federal & Partner Announcements*) in `references.md`.
+- **Master Index Update**: Registered entry #550 in `reference_coverage.md`; synchronized Total Reference Links (549 → 550), Web Portals (528 → 529), the Section 4 count (162 → 163), and the new `x-energy.com` domain. Processing Status: **550 / 550 Processed, 100% Complete**.
+- **Research Paper Enrichment — §2.3D and §2.4A (README.md & README.de.md)**: Added X-energy's Tier 1 role, $10M private-capital contribution, Xe-100 SMR and TRISO-X fuel designs, and APEX multi-agentic AI platform experience in Project Prometheus.
+- **Coverage Tracker Update**: Registered X-energy as a reference-only energy participant in `coverage.md`.
+- **Patch Version Release**: Incremented version strings to `3.5.21` across `README.md` and `README.de.md`. Index completion: **550 / 550 Processed, 100% Complete**.
+
+---
+
 ## [3.5.20] - 2026-08-16
 
 ### Added

@@ -1,4 +1,4 @@
-**Version**: 3.5.20
+**Version**: 3.5.21
 
 # Die Genesis-Mission: Architektur, strategische Initiativen und das multi-institutionelle Ökosystem für KI- und quantengetriebene wissenschaftliche Entdeckungen
 
@@ -370,6 +370,7 @@ Zu den wichtigsten Highlights der Modalitäten im Rahmen der Quantenzusagen geh�
 
 #### D. Kernenergie, Netzsicherheit und Materialwissenschaften
 - *Idaho National Laboratory (INL)*: Leitet Kernenergie-F&E und führt **Project Prometheus** (32-Partner-60-Mio.-$-Phase-II-Projekt mit 200+ Mio. $ Industrie-Match neben NVIDIA, AWS, ORNL, ANL, SNL, X-energy, Oklo, TerraPower), das Reaktorlizenzierungs- und Betriebskosten um 50 % senkt. Das INL demonstrierte die Fernsteuerung des NRAD-Reaktors und arbeitet mit TVA beim Clinch River SMR zusammen.
+- *X-energy*: Tritt Project Prometheus als Tier-1-Partner bei und stellt 10 Mio. $ privates Kapital sowie seine Xe-100-SMR- und TRISO-X-Brennstoffdesigns für die dreijährige KI-Forschungskampagne zu Entwurf, Lizenzierung, Fertigung, Bau, semi-autonomem Betrieb und Brennstoffherstellung bereit.
 - *National Energy Technology Laboratory (NETL) & ASU*: KI-Agenten zur Überwachung von Stromnetzinstabilitäten und Optimierung der Kohlenstoffabscheidung.
 - *National Renewable Energy Laboratory (NREL) & Atom Computing*: Neutralatom-QPUs integriert in die NREL ARIES-Plattform für Echtzeit-**Quantum-in-the-Loop**-Netzsimulationen.
 - *Ames National Laboratory*: Leitet **AIM-MAG** (AI-Guided Manufacturing of High-Performance Heavy Rare-Earth-Free Magnets), entdeckte $\text{Fe}_{16}\text{N}_2$ Clean Earth Magnets und eliminiert Abhängigkeiten von schweren Seltenen Erden.
@@ -386,6 +387,7 @@ Die Genesis-Mission setzt die übergeordneten Strategien der US-Bundesbehörden 
 * **Project Prometheus (Idaho National Laboratory, NVIDIA, AWS, ORNL, ANL, SNL, X-energy, Oklo, TerraPower, SHINE Technologies):**
   - *Konsortial-Umfang*: 32-Partner-, 60-Millionen-Dollar-Phase-II-Kernenergie-KI-Konsortium mit über 200 Millionen Dollar an Industrie-Kostenbeteiligung für kleine modulare Reaktoren (SMRs).
   - *Technische Innovation*: Setzt physikgestützte digitale Zwillinge und autonome Multi-Agenten-Netzwerke für Thermohydraulik, Transientenanalyse und Neutronikmodellierung ein.
+  - *X-energy-Beitrag*: Tier-1-Partner mit 10 Mio. $ privatem Kapital, Xe-100-SMR- und TRISO-X-Brennstoffdesigns sowie Erfahrung mit der multi-agentischen KI-Plattform APEX für Entscheidungen in Engineering, Lizenzierung und Betrieb.
   - *Auswirkungsmetrik*: Verkürzt Reaktorlizenzierungszeiten und Betriebskosten um 50 %. Demonstrierte autonome Fernsteuerung des NRAD-Reaktors.
 
 * **Gordian AI Regulatory Compiler (Everstar, INL, ANL, Microsoft):**
