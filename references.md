@@ -406,6 +406,7 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
   * [The Genesis Mission (Oak Ridge National Laboratory Official Overview Video)](https://youtu.be/zWVEq_35yPo)
 * **Pacific Northwest National Laboratory (PNNL):**
   * [Genesis Mission Project Portal](https://www.pnnl.gov/projects/genesis-mission)
+  * [Energy Department Launches ‘Genesis Mission’ to Transform American Science and Innovation Through the AI Computing Revolution](https://www.pnnl.gov/news-media/energy-department-launches-genesis-mission)
   * [PNNL Powers Biotechnology, Grid Operations, Nuclear Science Through Genesis AI for Science Mission](https://www.pnnl.gov/news-media/pnnl-powers-biotechnology-grid-operations-nuclear-science-through-genesis-ai-science)
   * [Inside PNNL’s Lab-Wide Push for Trustworthy Autonomous Science](https://www.pnnl.gov/news-media/inside-pnnls-lab-wide-push-trustworthy-autonomous-science)
 * **Princeton Plasma Physics Laboratory (PPPL):** 

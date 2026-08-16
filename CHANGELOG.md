@@ -5,6 +5,16 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.5.13] - 2026-08-16
+
+### Added
+- **Reference Index Entry #542**: Processed *Energy Department Launches ‘Genesis Mission’ to Transform American Science and Innovation Through the AI Computing Revolution* (`www.pnnl.gov`) under Section 5 (*National Labs & University Coverage*) in `references.md`.
+- **Master Index Update**: Registered entry #542 in `reference_coverage.md`; synchronized Total Reference Links (541 → 542), Web Portals (522 → 523), and Section 5 count (260 → 261). Processing Status: **542 / 542 Processed, 100% Complete**.
+- **Research Paper Enrichment — §3.2 (README.md & README.de.md)**: Added PNNL’s November 2025 launch perspective on mobilizing all 17 DOE national laboratories for AI-enabled discovery and the decade productivity objective.
+- **Patch Version Release**: Incremented version strings to `3.5.13` across `README.md` and `README.de.md`. Index completion: **542 / 542 Processed, 100% Complete**.
+
+---
+
 ## [3.5.12] - 2026-08-16
 
 ### Added
