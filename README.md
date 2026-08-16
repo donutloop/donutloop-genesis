@@ -1,4 +1,4 @@
-**Version**: 3.5.7
+**Version**: 3.5.8
 
 # The Genesis Mission: Architecture, Strategic Initiatives, and the Multi-Institutional Ecosystem for AI- and Quantum-Driven Scientific Discoveries
 
@@ -367,6 +367,7 @@ Key modality highlights across quantum commitments include:
   - **University of Utah Price Engineering AURORA Cloud Lab**: $20 Million network integrating AI with MonArk Quantum Foundry and CloudLab for automated device fabrication.
   - **Johns Hopkins University Applied Physics Laboratory (JHU APL)**: Multi-agent robotic wet-lab synthesis.
   - **Tulane University / Emerald Cloud Lab**: Automated execution of over 200 lab protocols.
+- *Generative Closed-Loop Scientific Method*: A 2026 peer-reviewed review frames the full loop—hypothesis generation, experiment design and execution, and result validation—as a high-leverage architecture for fundamental science, while requiring graded autonomy: human control of objectives and evaluation criteria, verifiable domain-appropriate reasoning, and recorded data and method provenance. These safeguards help prevent recursive bias and preserve reproducibility as autonomous laboratory systems scale.
 
 #### D. Nuclear Energy, Grid Security, and Material Science
 - *Idaho National Laboratory (INL)*: Directs nuclear R&D and leads **Project Prometheus** (32-partner $60M Phase II project with $200M+ industry match alongside NVIDIA, AWS, ORNL, ANL, SNL, X-energy, Oklo, TerraPower), cutting reactor licensing and operating costs by 50%. INL demonstrated real-time remote control of the NRAD reactor and partners with TVA on Clinch River SMR deployment.
@@ -1127,3 +1128,4 @@ The following key technical presentation recordings, executive briefings, and mu
 ## References & Document Sources
 
 1. **donutloop Repository**. [Donutloop Genesis Repository: Genesis Mission Curated Research & Technical Reference Index](https://github.com/donutloop/donutloop-genesis/blob/main/references.md). GitHub Open-Source Technical Documentation, 2026.
+2. **Zenil, H., Tegnér, J., Abrahão, F. S., et al.** [The Future of Fundamental Science Led by Generative Closed-Loop Artificial Intelligence](https://pmc.ncbi.nlm.nih.gov/articles/PMC12932417/). *Frontiers in Artificial Intelligence*, 2026.

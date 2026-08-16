@@ -5,6 +5,16 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.5.8] - 2026-08-16
+
+### Added
+- **Reference Index Entry #537**: Processed *The Future of Fundamental Science Led by Generative Closed-Loop Artificial Intelligence* (`pmc.ncbi.nlm.nih.gov`) under Section 7 (*Technical Documents, RFA Guidance & Official Webinars*) in `references.md`.
+- **Master Index Update**: Registered entry #537 in `reference_coverage.md`; synchronized Total Reference Links (536 → 537), Web Portals (517 → 518), unique domains (233 → 234), Section 7 count (13 → 14), and Processing Status (**537 / 537 Processed, 100% Complete**).
+- **Research Paper Enrichment — §2.3C (README.md & README.de.md)**: Added the peer-reviewed generative closed-loop AI model for hypothesis-to-validation workflows, with graded autonomy, human evaluation control, provenance, reproducibility, and recursive-bias safeguards.
+- **Patch Version Release**: Incremented version strings to `3.5.8` across `README.md` and `README.de.md`. Index completion: **537 / 537 Processed, 100% Complete**.
+
+---
+
 ## [3.5.7] - 2026-08-16
 
 ### Added
