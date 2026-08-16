@@ -5,6 +5,16 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.5.15] - 2026-08-16
+
+### Added
+- **Reference Index Entry #544**: Processed *DOE Genesis Award Recipients* (`research.ucdavis.edu`) under Section 5 (*National Labs & University Coverage*) in `references.md`.
+- **Master Index Update**: Registered entry #544 in `reference_coverage.md`; synchronized Total Reference Links (543 → 544), Web Portals (523 → 524), unique domains (236 → 237), and Section 5 count (261 → 262). Processing Status: **544 / 544 Processed, 100% Complete**.
+- **Research Paper Enrichment — §3.3 (README.md & README.de.md)**: Added UC Davis's five inaugural award recipients, including AI-enabled quantum rotation-gadget discovery, heavy-ion collision data/simulation linkage, and closed-loop alloy design for extreme environments.
+- **Patch Version Release**: Incremented version strings to `3.5.15` across `README.md` and `README.de.md`. Index completion: **544 / 544 Processed, 100% Complete**.
+
+---
+
 ## [3.5.14] - 2026-08-16
 
 ### Added
