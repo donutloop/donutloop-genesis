@@ -236,8 +236,8 @@
 | 162 | [University of Missouri](https://missouri.edu/) | ✅ Full Profile | §3.3, A.5 | Radioisotope production accelerators, nuclear medicine R&D & plant phenomics AI |
 | 163 | [University of Nebraska–Lincoln](https://www.unl.edu/) | ✅ Full Profile | §3.3, A.5 | AI-driven "autopilot" co-designer for 6G Radio Access Networks (RAN) |
 | 164 | [University of New Mexico](https://www.unm.edu/) | ✅ Full Profile | §3.3, A.5 | Quantum information science, optics fabrication & Sandia/Los Alamos national lab co-R&D |
-| 165 | [University of North Dakota (UND)](https://und.edu/) | ✅ Full Profile | §3.3, A.5 | 2 Genesis awards: rare earth mineral extraction from coal ash & autonomous energy AI |
-| 166 | [University of Nevada, Las Vegas (UNLV)](https://www.unlv.edu/) | ✅ Full Profile | §3.3, A.5 | $750K Phase I AI automation for MELCOR nuclear reactor safety simulations |
+| 165 | [University of Nevada, Las Vegas (UNLV)](https://www.unlv.edu/) | ✅ Full Profile | §3.3, A.5 | $750K Phase I AI automation for MELCOR nuclear reactor safety simulations |
+| 166 | [University of North Dakota (UND)](https://und.edu/) | ✅ Full Profile | §3.3, A.5 | 2 Genesis awards: rare earth mineral extraction from coal ash & autonomous energy AI |
 | 167 | [University of Pittsburgh](https://www.pitt.edu/) | ✅ Full Profile | §3.3, A.5 | Computational drug discovery foundation models, vascular bio-foundries & SciML |
 | 168 | [University of Southern California (USC)](https://usc.edu/) | ✅ Full Profile | §3.3, A.5 | Quantum annealing algorithms, microelectronics reliability & autonomous AI agents |
 | 169 | [University of Texas at Arlington](https://www.uta.edu/) | ✅ Full Profile | §3.3, A.5 | DOE Genesis Mission award for real-time AI trust & resilience in EPICS control workflows (LANL partner) |

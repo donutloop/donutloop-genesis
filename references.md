@@ -530,10 +530,10 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
   * [Husker-Led Project Receives Genesis Mission Funding to Advance AI & 6G](https://news.unl.edu/article/husker-led-project-receives-genesis-mission-funding-to-advance-ai-6g)
   * [The Genesis Mission: Transforming Science and Energy with AI](https://research.unl.edu/fundingopps/2026/03/18/the-genesis-mission-transforming-science-and-energy-with-ai/)
 * **University of New Mexico (UNM):** [Researchers Selected for Mission](https://news.unm.edu/news/unm-researchers-selected-for-u-s-does-genesis-mission)
+* **University of Nevada, Las Vegas (UNLV):** [UNLV College of Engineering Project Selected for Prestigious Genesis Mission](https://www.unlv.edu/news/accomplishments/unlv-college-engineering)
 * **University of North Dakota (UND):**
   * [Selected for Inaugural U.S. Department of Energy Genesis Mission Project](https://blogs.und.edu/und-today/2026/07/und-selected-for-inaugural-u-s-department-of-energy-genesis-mission-project/)
   * [Selected for Inaugural U.S. Department of Energy Genesis Mission Project (ULetter)](https://blogs.und.edu/uletter/2026/08/und-selected-for-inaugural-u-s-department-of-energy-genesis-mission-project/)
-* **University of Nevada, Las Vegas (UNLV):** [UNLV College of Engineering Project Selected for Prestigious Genesis Mission](https://www.unlv.edu/news/accomplishments/unlv-college-engineering)
 * **University of Pittsburgh:** [PittWire: Genesis Mission AI and Quantum Science](https://www.pittwire.pitt.edu/features-articles/2026/07/24/genesis-mission-ai-quantum)
 * **University of Southern California (USC):**
   * [USC Leads National AI Research Project](https://today.usc.edu/usc-leads-national-ai-research-project-to-accelerate-scientific-discovery/)

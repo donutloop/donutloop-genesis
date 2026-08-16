@@ -1027,8 +1027,8 @@ Diese Organisationen verfügen über CHIPS Act Absichtserklärungen und/oder DOE
 | [University of Missouri](https://missouri.edu/about) | Beschleuniger für die Radioisotopenproduktion, Nuklearmedizin-F&E & Pflanzenphänomik-KI |
 | [University of Nebraska–Lincoln (UNL)](https://www.unl.edu/about/) | KI-gestützter „Autopilot“-Co-Designer für 6G-Radio-Access-Networks (RAN), BNL- & HPE-Partnerschaft |
 | [University of New Mexico](https://www.unm.edu/about/) | Quanteninformationswissenschaft, Optikfertigung & Co-F&E mit Sandia/Los Alamos |
-| [University of North Dakota (UND)](https://und.edu/about/) | 2 Genesis-Preise: Extraktion seltener Erden aus Kohleasche & autonome Energie-KI |
 | [University of Nevada, Las Vegas (UNLV)](https://www.unlv.edu/) | 750.000-$-Phase-I-KI-Automatisierung für MELCOR-Schwerunfall-Reaktorsicherheitssimulationen (Prof. WooHyun Jung) |
+| [University of North Dakota (UND)](https://und.edu/about/) | 2 Genesis-Preise: Extraktion seltener Erden aus Kohleasche & autonome Energie-KI |
 | [University of Pittsburgh](https://www.pitt.edu/about) | Computergestützte Wirkstoffentdeckungs-Basismodelle, vaskuläre Bio-Gießereien & SciML |
 | [University of Southern California (USC)](https://about.usc.edu/) | Quanten-Annealing-Algorithmen, Mikroelektronik-Zuverlässigkeit & autonome KI-Agenten |
 | [University of Texas at Arlington (UTA)](https://www.uta.edu/about) | Echtzeit-KI-Vertrauen & Resilienz für EPICS-Steuerungssysteme & LANL-Partner |
