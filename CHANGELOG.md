@@ -5,6 +5,16 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.5.10] - 2026-08-16
+
+### Added
+- **Reference Index Entry #539**: Processed *DOE Genesis Mission: Transforming Science and Energy with AI (DE-FOA-0003612)* (`researchsupport.psu.edu`) under Section 5 (*National Labs & University Coverage*) in `references.md`.
+- **Master Index Update**: Registered entry #539 in `reference_coverage.md`; synchronized Total Reference Links (538 → 539), Web Portals (519 → 520), unique domains (234 → 235), and Section 5 count (258 → 259). Processing Status: **539 / 539 Processed, 100% Complete**.
+- **Research Paper Enrichment — §3.3 (README.md & README.de.md)**: Added Penn State's one-lead-application-per-focus-area constraint across the Phase I and II competition, alongside unlimited non-lead participation for national-lab, industry, and university teams.
+- **Patch Version Release**: Incremented version strings to `3.5.10` across `README.md` and `README.de.md`. Index completion: **539 / 539 Processed, 100% Complete**.
+
+---
+
 ## [3.5.9] - 2026-08-16
 
 ### Added

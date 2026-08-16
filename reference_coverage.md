@@ -1,7 +1,7 @@
 # Genesis Mission — Master Reference Coverage Report
 
 > **Document Overview:**
-> This report provides a comprehensive coverage analysis, breakdown, and master audit index of all **538 external reference links** compiled within `references.md` for the **Genesis Mission** documentation repository.
+> This report provides a comprehensive coverage analysis, breakdown, and master audit index of all **539 external reference links** compiled within `references.md` for the **Genesis Mission** documentation repository.
 
 ---
 
@@ -9,13 +9,13 @@
 
 | Metric | Count / Value | Description |
 | :--- | :--- | :--- |
-| **Total Reference Links** | **538** | Unique external links indexed across all sections |
+| **Total Reference Links** | **539** | Unique external links indexed across all sections |
 | **Primary Document Sections** | **7** | High-level thematic categories in `references.md` |
-| **Unique Target Domains** | **234** | Distinct domain names referenced (government, lab, corporate, academic, news) |
+| **Unique Target Domains** | **235** | Distinct domain names referenced (government, lab, corporate, academic, news) |
 | **Official PDF Documents** | **18** | Formal RFA solicitations, webinars, slides, and executive reports |
-| **Web Portals & Press Releases** | **519** | Newsroom features, corporate blog posts, and interactive hubs |
+| **Web Portals & Press Releases** | **520** | Newsroom features, corporate blog posts, and interactive hubs |
 | **Validation Status** | **100% Validated** | All links canonicalized, formatted, and deduplicated |
-| **Processing Status** | **538 / 538 Processed** | 0 Unprocessed, 538 Processed (100% Complete) |
+| **Processing Status** | **539 / 539 Processed** | 0 Unprocessed, 539 Processed (100% Complete) |
 
 ---
 
@@ -27,7 +27,7 @@
 | 2 | `2. Collaborators` | **75** | 13.9% | Official homepage & announcement links for industrial/energy partners |
 | 3 | `3. Quantum Leadership & CHIPS Act Initiatives` | **11** | 2.0% | Department of Commerce NIST LOIs & DOE $2B quantum initiatives |
 | 4 | `4. Executive, Federal & Partner Announcements` | **160** | 29.7% | White House releases, Cabinet agency press, hyperscaler & lab announcements |
-| 5 | `5. National Labs & University Coverage` | **258** | 48.0% | National Laboratory news portals & 66 awardee university press releases |
+| 5 | `5. National Labs & University Coverage` | **259** | 48.1% | National Laboratory news portals & 66 awardee university press releases |
 | 6 | `6. Additional Event Materials & Reference Links` | **17** | 3.2% | Presentation slide decks, institutional intro files & video recordings |
 | 7 | `7. Technical Documents, RFA Guidance & Official Webinars` | **14** | 2.6% | DE-FOA-0003612 solicitations, OSTP challenge papers, SCAC presentations & peer-reviewed AI-for-science research |
 
@@ -71,12 +71,13 @@ Below is the distribution of references grouped by top domain hosts and institut
 | `www.unlv.edu` | **1** | University Newsroom | UNLV College of Engineering Genesis Mission nuclear reactor safety AI project |
 | `oncampus.sjny.edu` | **1** | University Newsroom | St. Joseph's University, New York DOE Genesis Mission nuclear-data AI research |
 | `pmc.ncbi.nlm.nih.gov` | **1** | PubMed Central | Peer-reviewed analysis of generative closed-loop AI for fundamental science |
+| `researchsupport.psu.edu` | **1** | Penn State Research Support | Limited-submission guidance for DOE Genesis Mission DE-FOA-0003612 |
 
 ---
 
 ## 4. Master Reference Link Index
 
-A complete tabular listing of all 538 indexed reference links:
+A complete tabular listing of all 539 indexed reference links:
 
 | # | Category / Section | Entity / Subject | Title | Domain | Type | Link | Status |
 |---|---|---|---|---|:---:|---|:---:|
@@ -617,3 +618,4 @@ A complete tabular listing of all 538 indexed reference links:
 | 536 | 5. National Labs & University Coverage | Argonne National Laboratory (ANL) | What Were Argonne's Top Science Research Breakthroughs in 2025? | `www.anl.gov` | Web | [What Were Argonne's Top Science Research Breakthroughs in 2025?](https://www.anl.gov/article/what-were-argonnes-top-science-research-breakthroughs-in-2025) | `Processed` |
 | 537 | 7. Technical Documents, RFA Guidance & Official Webinars | Generative Closed-Loop AI | The Future of Fundamental Science Led by Generative Closed-Loop Artificial Intelligence | `pmc.ncbi.nlm.nih.gov` | Web | [The Future of Fundamental Science Led by Generative Closed-Loop Artificial Intelligence](https://pmc.ncbi.nlm.nih.gov/articles/PMC12932417/) | `Processed` |
 | 538 | 5. National Labs & University Coverage | Brookhaven National Laboratory (BNL) | Complete List of Brookhaven Lab Genesis Mission Phase I Projects | `www.bnl.gov` | Web | [Complete List of Brookhaven Lab Genesis Mission Phase I Projects](https://www.bnl.gov/newsroom/news.php?a=223070) | `Processed` |
+| 539 | 5. National Labs & University Coverage | Penn State University | DOE Genesis Mission: Transforming Science and Energy with AI (DE-FOA-0003612) | `researchsupport.psu.edu` | Web | [DOE Genesis Mission: Transforming Science and Energy with AI (DE-FOA-0003612)](https://researchsupport.psu.edu/limited-submission/doe-genesis-mission-transforming-science-and-energy-with-ai-de-foa-0003612/) | `Processed` |
