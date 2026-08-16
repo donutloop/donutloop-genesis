@@ -178,6 +178,7 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
 * [JHU APL: Autonomous Materials Discovery & AI Robotics Partnership](https://www.jhuapl.edu/news/news-releases/250402-artificial-intelligence-advance-robotics-materials-discovery)
 * [Idaho National Laboratory: INL & Microsoft Streamline Nuclear Permitting with AI](https://inl.gov/news-release/idaho-national-laboratory-collaborates-with-microsoft-to-streamline-nuclear-licensing/)
 * [Idaho National Laboratory: Remote Autonomous Power Control of Research Reactor](https://inl.gov/news-release/researchers-achieve-remote-autonomous-power-control-of-a-research-reactor-in-real-time/)
+* [X-energy: Joins Project Prometheus for AI-Accelerated Advanced Nuclear Deployment](https://x-energy.com/news/x-energy-joins-project-prometheus-for-ai-accelerated-advanced-nuclear-deployment/)
 * [OpenAI: Advancing the Next Era of National Science](https://openai.com/index/advancing-the-next-era-of-national-science/)
 * [Oracle: Collaboration with US DOE to Accelerate AI Initiatives](https://www.oracle.com/news/announcement/oracle-and-the-us-department-of-energy-collaborate-to-accelerate-ai-initiatives-2025-12-18/)
 * [AWS: Powering America's Genesis Mission from Day One](https://aws.amazon.com/blogs/publicsector/aws-powering-americas-genesis-mission-from-day-one/)

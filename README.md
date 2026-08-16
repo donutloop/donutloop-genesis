@@ -1,4 +1,4 @@
-**Version**: 3.5.20
+**Version**: 3.5.21
 
 # The Genesis Mission: Architecture, Strategic Initiatives, and the Multi-Institutional Ecosystem for AI- and Quantum-Driven Scientific Discoveries
 
@@ -372,6 +372,7 @@ Key modality highlights across quantum commitments include:
 
 #### D. Nuclear Energy, Grid Security, and Material Science
 - *Idaho National Laboratory (INL)*: Directs nuclear R&D and leads **Project Prometheus** (32-partner $60M Phase II project with $200M+ industry match alongside NVIDIA, AWS, ORNL, ANL, SNL, X-energy, Oklo, TerraPower), cutting reactor licensing and operating costs by 50%. INL demonstrated real-time remote control of the NRAD reactor and partners with TVA on Clinch River SMR deployment.
+- *X-energy*: Joins Project Prometheus as a Tier 1 partner, contributing $10M in private capital and its Xe-100 SMR and TRISO-X fuel designs to the three-year AI research campaign spanning design, licensing, manufacturing, construction, semi-autonomous operations, and fuel fabrication.
 - *National Energy Technology Laboratory (NETL) & ASU*: AI agents monitoring power grid instability and optimizing carbon capture chemistry.
 - *National Renewable Energy Laboratory (NREL) & Atom Computing*: Optically trapped neutral-atom QPUs integrated into NREL ARIES platform for real-time **quantum-in-the-loop** power grid simulation.
 - *Ames National Laboratory*: Leads **AIM-MAG** (AI-Guided Manufacturing of High-Performance Heavy Rare-Earth-Free Magnets), discovering $\text{Fe}_{16}\text{N}_2$ Clean Earth Magnets and eliminating heavy rare-earth dependencies.
@@ -388,6 +389,7 @@ The Genesis Mission translates federal interagency strategy into domain breakthr
 * **Project Prometheus (Idaho National Laboratory, NVIDIA, AWS, ORNL, ANL, SNL, X-energy, Oklo, TerraPower, SHINE Technologies):**
   - *Consortium Scope*: 32-partner, $60 Million Phase II nuclear AI consortium with over $200 Million in industry co-investment across advanced Small Modular Reactors (SMRs).
   - *Technical Innovation*: Deploys physics-informed digital twins and autonomous human-in-the-loop multi-agent networks automating thermal-hydraulics, transient analysis, and neutronics modeling.
+  - *X-energy Contribution*: A Tier 1 partner providing $10 Million in private capital, Xe-100 SMR and TRISO-X fuel designs, and its APEX multi-agentic AI platform experience for engineering, licensing, and operational decision-making.
   - *Impact Metric*: Compresses nuclear reactor licensing timelines and operating costs by 50%. Demonstrated real-time remote control of INL's NRAD reactor.
 
 * **Gordian AI Regulatory Compiler (Everstar, INL, ANL, Microsoft):**
