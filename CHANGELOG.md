@@ -5,6 +5,17 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.5.23] - 2026-08-16
+
+### Added
+- **Reference Index Entry #552**: Processed *Wiley Joins U.S. Department of Energy's Genesis Mission Consortium to Advance AI-Powered Scientific Discovery* (`newsroom.wiley.com`) under Section 4 (*Executive, Federal & Partner Announcements*) in `references.md`.
+- **Master Index Update**: Registered entry #552 in `reference_coverage.md`; synchronized Total Reference Links (551 → 552), Web Portals (530 → 531), the Section 4 count (164 → 165), and the new Wiley domain. Processing Status: **552 / 552 Processed, 100% Complete**.
+- **Research Paper Enrichment — §3.1 (README.md & README.de.md)**: Added Wiley's role as the Consortium's only scientific publisher, including its AI-powered research infrastructure, expert-validated workflows, research-intelligence tools, operational integration support, and evidence-linked content for AI provenance and reproducibility.
+- **Coverage Tracker Update**: Registered Wiley as a reference-only scientific-publishing and research-intelligence participant.
+- **Patch Version Release**: Incremented version strings to `3.5.23` across `README.md` and `README.de.md`. Index completion: **552 / 552 Processed, 100% Complete**.
+
+---
+
 ## [3.5.22] - 2026-08-16
 
 ### Added
