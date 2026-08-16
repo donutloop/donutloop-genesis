@@ -5,6 +5,16 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.5.7] - 2026-08-16
+
+### Added
+- **Reference Index Entry #536**: Processed *What Were Argonne's Top Science Research Breakthroughs in 2025?* (`www.anl.gov`) under Section 5 (*National Labs & University Coverage*) in `references.md`.
+- **Master Index Update**: Registered entry #536 in `reference_coverage.md`; synchronized Total Reference Links (535 → 536), Web Portals (516 → 517), the `www.anl.gov` domain count (19 → 20), Section 5 count (256 → 257), and Processing Status (**536 / 536 Processed, 100% Complete**).
+- **Research Paper Enrichment — Appendix A.2 (README.md & README.de.md)**: Added Argonne's 2025 retrospective covering Aurora-enabled AI and simulation research, the upgraded APS's record-low electron-beam emittance and X-ray beams up to 500 times brighter, and Polybot's autonomous materials-discovery workflow.
+- **Patch Version Release**: Incremented version strings to `3.5.7` across `README.md` and `README.de.md`. Index completion: **536 / 536 Processed, 100% Complete**.
+
+---
+
 ## [3.5.6] - 2026-08-16
 
 ### Added

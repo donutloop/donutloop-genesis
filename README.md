@@ -1,4 +1,4 @@
-**Version**: 3.5.6
+**Version**: 3.5.7
 
 # The Genesis Mission: Architecture, Strategic Initiatives, and the Multi-Institutional Ecosystem for AI- and Quantum-Driven Scientific Discoveries
 
@@ -897,6 +897,8 @@ The DOE's 17 National Laboratories serve as the primary execution nodes for Gene
 | [Savannah River National Laboratory](https://srnl.doe.gov/) | SRNL | Radiochemical separation flowsheets, nuclear safeguards AI, tritium processing & hydrogen storage |
 | [SLAC National Accelerator Laboratory](https://www.slac.stanford.edu/) | SLAC | LCLS-II ultrafast attosecond X-ray science, deep RL beamline optimization & SRF accelerator cavities |
 | [Thomas Jefferson National Accelerator Facility](https://www.jlab.org/) | TJNAF | CEBAF accelerator, AI-driven nuclear femtography, SRF cavity tuning & subatomic physics AI |
+
+  - *2025 Scientific Breakthroughs*: Argonne's 2025 retrospective (*What Were Argonne's Top Science Research Breakthroughs in 2025?*, [www.anl.gov/article/what-were-argonnes-top-science-research-breakthroughs-in-2025](https://www.anl.gov/article/what-were-argonnes-top-science-research-breakthroughs-in-2025)) highlights Aurora-enabled AI and simulation research, the upgraded APS's world-record low electron-beam emittance and X-ray beams up to 500 times brighter, and Polybot's active-learning robotics workflow for autonomous materials discovery.
 
 ### A.3 Industry & Technology Partners
 

@@ -1,4 +1,4 @@
-**Version**: 3.5.6
+**Version**: 3.5.7
 
 # Die Genesis-Mission: Architektur, strategische Initiativen und das multi-institutionelle Ökosystem für KI- und quantengetriebene wissenschaftliche Entdeckungen
 
@@ -864,6 +864,8 @@ Die 17 Nationalen Laboratorien des DOE dienen als primäre Ausführungsknoten f�
 | [Savannah River National Laboratory](https://srnl.doe.gov/) | SRNL | Radiochemische Trennungsfließbilder, nukleare Sicherheitsmaßnahmen-KI, Tritiumverarbeitung & Wasserstoffspeicherung |
 | [SLAC National Accelerator Laboratory](https://www.slac.stanford.edu/) | SLAC | LCLS-II Attosekunden-Röntgenlaser, Deep-RL-Strahlemittanzoptimierung & SRF-Beschleunigerkavitäten |
 | [Thomas Jefferson National Accelerator Facility](https://www.jlab.org/) | TJNAF | CEBAF-Beschleuniger, KI-gestützte nukleare Femtografie, SRF-Kavitätstuning & Subatomarphysik-KI |
+
+  - *Wissenschaftliche Durchbrüche 2025*: Argonnes Rückblick (*What Were Argonne's Top Science Research Breakthroughs in 2025?*, [www.anl.gov/article/what-were-argonnes-top-science-research-breakthroughs-in-2025](https://www.anl.gov/article/what-were-argonnes-top-science-research-breakthroughs-in-2025)) hebt Aurora-gestützte KI- und Simulationsforschung, die rekordniedrige Elektronenstrahlemittanz des aufgerüsteten APS mit bis zu 500-mal helleren Röntgenstrahlen sowie Polybots Active-Learning-Robotik-Workflow zur autonomen Materialentdeckung hervor.
 
 ### A.3 Industrie- & Technologiepartner
 
