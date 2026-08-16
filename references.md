@@ -122,6 +122,7 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
 * [Federal Register: Presidential Document - Executive Order 14363 Public Inspection Copy (PDF)](https://public-inspection.federalregister.gov/2025-21665.pdf?1764173712)
 * [U.S. Department of Energy: Artificial Intelligence Topics & Initiatives](https://www.energy.gov/topics/artificial-intelligence)
 * [DOE Office of Science: Under Secretary Gil's Letter to the Community](https://www.energy.gov/science/articles/under-secretary-gils-letter-community)
+* [DOE Office of the Under Secretary for Science: Kristen Ellis, Associate Principal Deputy Under Secretary](https://www.energy.gov/undersecretaryforscience/person/kristen-ellis)
 * [DOE Overview: Building the World's Most Powerful Scientific Platform](https://www.energy.gov/undersecretaryforscience/genesis-mission/genesis-mission)
 * [DOE Overview: American Science and Security Platform](https://www.energy.gov/undersecretaryforscience/genesis-mission/american-science-and-security-platform)
 * [DOE Overview: Genesis Mission Collaborations](https://www.energy.gov/undersecretaryforscience/genesis-mission/genesis-mission-collaboration)

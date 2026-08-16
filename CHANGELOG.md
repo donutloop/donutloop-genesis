@@ -5,6 +5,16 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.5.4] - 2026-08-16
+
+### Added
+- **Reference Index Entry #533**: Processed *Kristen Ellis, Associate Principal Deputy Under Secretary* (`www.energy.gov`) under Section 4 (*Executive, Federal & Partner Announcements*) in `references.md`.
+- **Master Index Update**: Registered entry #533 in `reference_coverage.md`; synchronized Total Reference Links (532 → 533), Web Portals (513 → 514), `www.energy.gov` domain count (30 → 31), Section 4 count (158 → 159), and Processing Status (**533 / 533 Processed, 100% Complete**).
+- **Research Paper Enrichment — §1.1 (README.md & README.de.md)**: Added Kristen Ellis's Office of the Under Secretary for Science leadership responsibilities, including management of DOE's research portfolio, 10 national laboratories, user facilities, and technology commercialization oversight.
+- **Patch Version Release**: Incremented version strings to `3.5.4` across `README.md` and `README.de.md`. Index completion: **533 / 533 Processed, 100% Complete**.
+
+---
+
 ## [3.5.3] - 2026-08-16
 
 ### Added

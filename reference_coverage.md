@@ -1,7 +1,7 @@
 # Genesis Mission — Master Reference Coverage Report
 
 > **Document Overview:**
-> This report provides a comprehensive coverage analysis, breakdown, and master audit index of all **532 external reference links** compiled within `references.md` for the **Genesis Mission** documentation repository.
+> This report provides a comprehensive coverage analysis, breakdown, and master audit index of all **533 external reference links** compiled within `references.md` for the **Genesis Mission** documentation repository.
 
 ---
 
@@ -9,13 +9,13 @@
 
 | Metric | Count / Value | Description |
 | :--- | :--- | :--- |
-| **Total Reference Links** | **532** | Unique external links indexed across all sections |
+| **Total Reference Links** | **533** | Unique external links indexed across all sections |
 | **Primary Document Sections** | **7** | High-level thematic categories in `references.md` |
 | **Unique Target Domains** | **233** | Distinct domain names referenced (government, lab, corporate, academic, news) |
 | **Official PDF Documents** | **18** | Formal RFA solicitations, webinars, slides, and executive reports |
-| **Web Portals & Press Releases** | **513** | Newsroom features, corporate blog posts, and interactive hubs |
+| **Web Portals & Press Releases** | **514** | Newsroom features, corporate blog posts, and interactive hubs |
 | **Validation Status** | **100% Validated** | All links canonicalized, formatted, and deduplicated |
-| **Processing Status** | **532 / 532 Processed** | 0 Unprocessed, 532 Processed (100% Complete) |
+| **Processing Status** | **533 / 533 Processed** | 0 Unprocessed, 533 Processed (100% Complete) |
 
 ---
 
@@ -26,8 +26,8 @@
 | 1 | `1. Key Presentation Details` | **3** | 0.6% | Briefing agendas, U.S. ATLAS IB meeting details & CERN links |
 | 2 | `2. Collaborators` | **75** | 14.1% | Official homepage & announcement links for industrial/energy partners |
 | 3 | `3. Quantum Leadership & CHIPS Act Initiatives` | **11** | 2.1% | Department of Commerce NIST LOIs & DOE $2B quantum initiatives |
-| 4 | `4. Executive, Federal & Partner Announcements` | **158** | 29.7% | White House releases, Cabinet agency press, hyperscaler & lab announcements |
-| 5 | `5. National Labs & University Coverage` | **256** | 48.1% | National Laboratory news portals & 66 awardee university press releases |
+| 4 | `4. Executive, Federal & Partner Announcements` | **159** | 29.8% | White House releases, Cabinet agency press, hyperscaler & lab announcements |
+| 5 | `5. National Labs & University Coverage` | **256** | 48.0% | National Laboratory news portals & 66 awardee university press releases |
 | 6 | `6. Additional Event Materials & Reference Links` | **16** | 3.0% | Presentation slide decks, institutional intro files & video recordings |
 | 7 | `7. Technical Documents, RFA Guidance & Official Webinars` | **13** | 2.4% | DE-FOA-0003612 solicitations, OSTP challenge papers & SCAC presentations |
 
@@ -39,7 +39,7 @@ Below is the distribution of references grouped by top domain hosts and institut
 
 | Domain Host | Reference Count | Host Category | Key Represented Institutions / Content |
 | :--- | :---: | :--- | :--- |
-| `www.energy.gov` | **30** | U.S. Department of Energy (DOE) | FOA releases, Secretary announcements, OSTP challenge docs |
+| `www.energy.gov` | **31** | U.S. Department of Energy (DOE) | FOA releases, Secretary announcements, OSTP challenge docs, and Office of the Under Secretary for Science leadership |
 | `www.anl.gov` | **19** | Argonne National Laboratory (ANL) | ALCF compute platforms, Genesis Open Models, SPOTTER, RoSA robotics, MIRAGE |
 | `science.osti.gov` | **9** | DOE Office of Science (OSTI) | DE-FOA-0003612 guidance, BES/FES/HEP webinars, FAQs |
 | `www.whitehouse.gov` | **7** | White House OSTP / Executive Office | Presidential executive actions, OSTP wins reports, press releases |
@@ -74,7 +74,7 @@ Below is the distribution of references grouped by top domain hosts and institut
 
 ## 4. Master Reference Link Index
 
-A complete tabular listing of all 532 indexed reference links:
+A complete tabular listing of all 533 indexed reference links:
 
 | # | Category / Section | Entity / Subject | Title | Domain | Type | Link | Status |
 |---|---|---|---|---|:---:|---|:---:|
@@ -609,3 +609,4 @@ A complete tabular listing of all 532 indexed reference links:
 | 530 | 5. National Labs & University Coverage | University of Virginia (UVA) | UVA Engineering's Ferdinando Fioretto Selected for U.S. Department of Energy Genesis Mission | `engineering.virginia.edu` | Web | [UVA Engineering's Ferdinando Fioretto Selected for U.S. Department of Energy Genesis Mission](https://engineering.virginia.edu/news-events/news/uva-engineerings-ferdinando-fioretto-selected-us-department-energy-genesis-mission) | `Processed` |
 | 531 | 5. National Labs & University Coverage | University of Nevada, Las Vegas (UNLV) | UNLV College of Engineering Project Selected for Prestigious Genesis Mission | `www.unlv.edu` | Web | [UNLV College of Engineering Project Selected for Prestigious Genesis Mission](https://www.unlv.edu/news/accomplishments/unlv-college-engineering) | `Processed` |
 | 532 | 5. National Labs & University Coverage | St. Joseph's University, New York (SJNY) | Students to Gain Hands-On AI Research Experience Through DOE Grant | `oncampus.sjny.edu` | Web | [Students to Gain Hands-On AI Research Experience Through DOE Grant](https://oncampus.sjny.edu/sjny-students-to-gain-hands-on-ai-research-experience-through-doe-grant/) | `Processed` |
+| 533 | 4. Executive, Federal & Partner Announcements | Kristen Ellis | DOE Office of the Under Secretary for Science: Kristen Ellis, Associate Principal Deputy Under Secretary | `www.energy.gov` | Web | [DOE Office of the Under Secretary for Science: Kristen Ellis, Associate Principal Deputy Under Secretary](https://www.energy.gov/undersecretaryforscience/person/kristen-ellis) | `Processed` |
