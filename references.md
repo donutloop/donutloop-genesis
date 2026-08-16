@@ -263,6 +263,7 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
 * [Dataera.ai: Dataera.ai Collaborates with U.S. Department of Energy on Genesis Mission](https://www.dataerai.com/doe-genesis-partnership.html)
 * [Veritone: Joins Genesis Mission Consortium to Advance U.S. Department of Energy's National AI Initiatives](https://investors.veritone.com/news-events/press-releases/detail/429/veritone-joins-genesis-mission-consortium-to-advance-u-s-department-of-energys-national-ai-initiatives)
 * [Association of American Universities (AAU): Responds to DOE RFI on Mobilizing Academic Talent for Genesis Mission](https://www.aau.edu/resource-library/aau-responds-doe-rfi-mobilizing-talent-genesis-mission)
+* [Many AAU Institutions Among DOE's First Genesis Awards](https://www.aau.edu/newsroom/many-aau-institutions-among-does-first-genesis-awards)
 * [Ministry of Education and Culture of Finland (OKM): Genesis Mission — Manhattan Project of the 2020s](https://okm.fi/-/genesis-mission-manhattan-project-of-the-2020s-)
 * [Nextgov/FCW: Argonne Launches High-Performance Computing-Backed AI Research Service](https://www.nextgov.com/artificial-intelligence/2026/05/argonne-launches-high-performance-computing-backed-ai-research-service/413798/)
 * [Orchestrated Platform for Autonomous Laboratories (OPAL) Official Portal: Energy Department Launches Genesis Mission Release](https://opal-doe.org/2025/11/24/energy-department-launches-genesis-mission-to-transform-american-science-and-innovation-through-the-ai-computing-revolution/)

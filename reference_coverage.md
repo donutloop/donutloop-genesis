@@ -1,7 +1,7 @@
 # Genesis Mission — Master Reference Coverage Report
 
 > **Document Overview:**
-> This report provides a comprehensive coverage analysis, breakdown, and master audit index for the **550 external reference links** compiled within `references.md` for the **Genesis Mission** documentation repository.
+> This report provides a comprehensive coverage analysis, breakdown, and master audit index for the **551 external reference links** compiled within `references.md` for the **Genesis Mission** documentation repository.
 
 ---
 
@@ -9,13 +9,13 @@
 
 | Metric | Count / Value | Description |
 | :--- | :--- | :--- |
-| **Total Reference Links** | **550** | Unique external links indexed across all sections |
+| **Total Reference Links** | **551** | Unique external links indexed across all sections |
 | **Primary Document Sections** | **7** | High-level thematic categories in `references.md` |
 | **Unique Target Domains** | **242** | Distinct domain names referenced (government, lab, corporate, academic, news) |
 | **Official PDF Documents** | **20** | Formal RFA solicitations, webinars, slides, and executive reports |
-| **Web Portals & Press Releases** | **529** | Newsroom features, corporate blog posts, and interactive hubs |
+| **Web Portals & Press Releases** | **530** | Newsroom features, corporate blog posts, and interactive hubs |
 | **Validation Status** | **100% Validated** | All links canonicalized, formatted, and deduplicated |
-| **Processing Status** | **550 / 550 Processed** | 0 Unprocessed, 550 Processed (100% Complete) |
+| **Processing Status** | **551 / 551 Processed** | 0 Unprocessed, 551 Processed (100% Complete) |
 
 ---
 
@@ -26,8 +26,8 @@
 | 1 | `1. Key Presentation Details` | **3** | 0.5% | Briefing agendas, U.S. ATLAS IB meeting details & CERN links |
 | 2 | `2. Collaborators` | **75** | 13.6% | Official homepage & announcement links for industrial/energy partners |
 | 3 | `3. Quantum Leadership & CHIPS Act Initiatives` | **11** | 2.0% | Department of Commerce NIST LOIs & DOE $2B quantum initiatives |
-| 4 | `4. Executive, Federal & Partner Announcements` | **163** | 29.6% | White House releases, Cabinet agency press, hyperscaler & lab announcements |
-| 5 | `5. National Labs & University Coverage` | **265** | 48.2% | National Laboratory news portals & 66 awardee university press releases |
+| 4 | `4. Executive, Federal & Partner Announcements` | **164** | 29.8% | White House releases, Cabinet agency press, hyperscaler & lab announcements |
+| 5 | `5. National Labs & University Coverage` | **265** | 48.1% | National Laboratory news portals & 66 awardee university press releases |
 | 6 | `6. Additional Event Materials & Reference Links` | **17** | 3.1% | Presentation slide decks, institutional intro files & video recordings |
 | 7 | `7. Technical Documents, RFA Guidance & Official Webinars` | **16** | 2.9% | DE-FOA-0003612 solicitations, OSTP challenge papers, SCAC presentations & peer-reviewed AI-for-science research |
 
@@ -81,12 +81,13 @@ Below is the distribution of references grouped by top domain hosts and institut
 | `mikekennedy.house.gov` | **1** | U.S. House of Representatives | Rep. Mike Kennedy's GENESIS Act legislative announcement |
 | `www.minesnewsroom.com` | **1** | Colorado School of Mines Newsroom | Colorado School of Mines Genesis Mission critical-mineral exploration and nuclear-energy project coverage |
 | `x-energy.com` | **1** | X-energy | Project Prometheus AI-accelerated advanced-nuclear deployment announcement |
+| `www.aau.edu` | **2** | Association of American Universities (AAU) | Academic talent-mobilization policy response and first Genesis Awards university-participation coverage |
 
 ---
 
 ## 4. Master Reference Link Index
 
-A tabular master index for the 550-reference collection:
+A tabular master index for the 551-reference collection:
 
 | # | Category / Section | Entity / Subject | Title | Domain | Type | Link | Status |
 |---|---|---|---|---|:---:|---|:---:|
@@ -639,3 +640,4 @@ A tabular master index for the 550-reference collection:
 | 548 | 4. Executive, Federal & Partner Announcements | Rep. Mike Kennedy (UT-03) | Rep. Kennedy Introduces GENESIS Act to Accelerate Scientific Discovery Through AI | `mikekennedy.house.gov` | Web | [Rep. Kennedy Introduces GENESIS Act to Accelerate Scientific Discovery Through AI](https://mikekennedy.house.gov/media/press-releases/rep-kennedy-introduces-genesis-act-accelerate-scientific-discovery-through) | `Processed` |
 | 549 | 5. National Labs & University Coverage | Colorado School of Mines | Mines Selected for 2 Genesis Mission Projects to Apply AI to Critical Mineral Exploration and Nuclear Energy | `www.minesnewsroom.com` | Web | [Mines Selected for 2 Genesis Mission Projects to Apply AI to Critical Mineral Exploration and Nuclear Energy](https://www.minesnewsroom.com/news/mines-selected-2-genesis-mission-projects-apply-ai-critical-mineral-exploration-nuclear-energy) | `Processed` |
 | 550 | 4. Executive, Federal & Partner Announcements | X-energy | X-energy Joins Project Prometheus for AI-Accelerated Advanced Nuclear Deployment | `x-energy.com` | Web | [X-energy Joins Project Prometheus for AI-Accelerated Advanced Nuclear Deployment](https://x-energy.com/news/x-energy-joins-project-prometheus-for-ai-accelerated-advanced-nuclear-deployment/) | `Processed` |
+| 551 | 4. Executive, Federal & Partner Announcements | Association of American Universities (AAU) | Many AAU Institutions Among DOE's First Genesis Awards | `www.aau.edu` | Web | [Many AAU Institutions Among DOE's First Genesis Awards](https://www.aau.edu/newsroom/many-aau-institutions-among-does-first-genesis-awards) | `Processed` |
