@@ -1,7 +1,7 @@
 # Genesis Mission — Master Reference Coverage Report
 
 > **Document Overview:**
-> This report provides a comprehensive coverage analysis, breakdown, and master audit index for the **548 external reference links** compiled within `references.md` for the **Genesis Mission** documentation repository.
+> This report provides a comprehensive coverage analysis, breakdown, and master audit index for the **549 external reference links** compiled within `references.md` for the **Genesis Mission** documentation repository.
 
 ---
 
@@ -9,13 +9,13 @@
 
 | Metric | Count / Value | Description |
 | :--- | :--- | :--- |
-| **Total Reference Links** | **548** | Unique external links indexed across all sections |
+| **Total Reference Links** | **549** | Unique external links indexed across all sections |
 | **Primary Document Sections** | **7** | High-level thematic categories in `references.md` |
-| **Unique Target Domains** | **240** | Distinct domain names referenced (government, lab, corporate, academic, news) |
+| **Unique Target Domains** | **241** | Distinct domain names referenced (government, lab, corporate, academic, news) |
 | **Official PDF Documents** | **20** | Formal RFA solicitations, webinars, slides, and executive reports |
-| **Web Portals & Press Releases** | **527** | Newsroom features, corporate blog posts, and interactive hubs |
+| **Web Portals & Press Releases** | **528** | Newsroom features, corporate blog posts, and interactive hubs |
 | **Validation Status** | **100% Validated** | All links canonicalized, formatted, and deduplicated |
-| **Processing Status** | **548 / 548 Processed** | 0 Unprocessed, 548 Processed (100% Complete) |
+| **Processing Status** | **549 / 549 Processed** | 0 Unprocessed, 549 Processed (100% Complete) |
 
 ---
 
@@ -26,8 +26,8 @@
 | 1 | `1. Key Presentation Details` | **3** | 0.5% | Briefing agendas, U.S. ATLAS IB meeting details & CERN links |
 | 2 | `2. Collaborators` | **75** | 13.7% | Official homepage & announcement links for industrial/energy partners |
 | 3 | `3. Quantum Leadership & CHIPS Act Initiatives` | **11** | 2.0% | Department of Commerce NIST LOIs & DOE $2B quantum initiatives |
-| 4 | `4. Executive, Federal & Partner Announcements` | **162** | 29.6% | White House releases, Cabinet agency press, hyperscaler & lab announcements |
-| 5 | `5. National Labs & University Coverage` | **264** | 48.2% | National Laboratory news portals & 66 awardee university press releases |
+| 4 | `4. Executive, Federal & Partner Announcements` | **162** | 29.5% | White House releases, Cabinet agency press, hyperscaler & lab announcements |
+| 5 | `5. National Labs & University Coverage` | **265** | 48.3% | National Laboratory news portals & 66 awardee university press releases |
 | 6 | `6. Additional Event Materials & Reference Links` | **17** | 3.1% | Presentation slide decks, institutional intro files & video recordings |
 | 7 | `7. Technical Documents, RFA Guidance & Official Webinars` | **16** | 2.9% | DE-FOA-0003612 solicitations, OSTP challenge papers, SCAC presentations & peer-reviewed AI-for-science research |
 
@@ -79,12 +79,13 @@ Below is the distribution of references grouped by top domain hosts and institut
 | `researchsupport.psu.edu` | **1** | Penn State Research Support | Limited-submission guidance for DOE Genesis Mission DE-FOA-0003612 |
 | `research.ucdavis.edu` | **1** | UC Davis Research | DOE Genesis Mission award-recipient project details |
 | `mikekennedy.house.gov` | **1** | U.S. House of Representatives | Rep. Mike Kennedy's GENESIS Act legislative announcement |
+| `www.minesnewsroom.com` | **1** | Colorado School of Mines Newsroom | Colorado School of Mines Genesis Mission critical-mineral exploration and nuclear-energy project coverage |
 
 ---
 
 ## 4. Master Reference Link Index
 
-A tabular master index for the 548-reference collection:
+A tabular master index for the 549-reference collection:
 
 | # | Category / Section | Entity / Subject | Title | Domain | Type | Link | Status |
 |---|---|---|---|---|:---:|---|:---:|
@@ -635,3 +636,4 @@ A tabular master index for the 548-reference collection:
 | 546 | 5. National Labs & University Coverage | UC Santa Barbara (UCSB) | Two UCSB-Led Projects Selected for DOE's Genesis Mission | `engineering.ucsb.edu` | Web | [Two UCSB-Led Projects Selected for DOE's Genesis Mission](https://engineering.ucsb.edu/news/2026-Genesis-DOE-Projects) | `Processed` |
 | 547 | 5. National Labs & University Coverage | UC Santa Barbara (UCSB) | Two UC Santa Barbara-Led Projects Selected for DOE's Genesis Mission | `bioengineering.ucsb.edu` | Web | [Two UC Santa Barbara-Led Projects Selected for DOE's Genesis Mission](https://bioengineering.ucsb.edu/news/all/2026/two-uc-santa-barbara-led-projects-selected-does-genesis-mission) | `Processed` |
 | 548 | 4. Executive, Federal & Partner Announcements | Rep. Mike Kennedy (UT-03) | Rep. Kennedy Introduces GENESIS Act to Accelerate Scientific Discovery Through AI | `mikekennedy.house.gov` | Web | [Rep. Kennedy Introduces GENESIS Act to Accelerate Scientific Discovery Through AI](https://mikekennedy.house.gov/media/press-releases/rep-kennedy-introduces-genesis-act-accelerate-scientific-discovery-through) | `Processed` |
+| 549 | 5. National Labs & University Coverage | Colorado School of Mines | Mines Selected for 2 Genesis Mission Projects to Apply AI to Critical Mineral Exploration and Nuclear Energy | `www.minesnewsroom.com` | Web | [Mines Selected for 2 Genesis Mission Projects to Apply AI to Critical Mineral Exploration and Nuclear Energy](https://www.minesnewsroom.com/news/mines-selected-2-genesis-mission-projects-apply-ai-critical-mineral-exploration-nuclear-energy) | `Processed` |

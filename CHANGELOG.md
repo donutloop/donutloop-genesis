@@ -5,6 +5,17 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.5.20] - 2026-08-16
+
+### Added
+- **Reference Index Entry #549**: Processed *Mines Selected for 2 Genesis Mission Projects to Apply AI to Critical Mineral Exploration and Nuclear Energy* (`www.minesnewsroom.com`) under Section 5 (*National Labs & University Coverage*) in `references.md`.
+- **Master Index Update**: Registered entry #549 in `reference_coverage.md`; synchronized Total Reference Links (548 → 549), Web Portals (527 → 528), the Section 5 count (264 → 265), and the new `www.minesnewsroom.com` domain. Processing Status: **549 / 549 Processed, 100% Complete**.
+- **Research Paper Enrichment — §3.3 (README.md & README.de.md)**: Added Colorado School of Mines' AGAPEX physics-constrained AI workflow for critical-mineral exploration and its AI-enabled nuclear-fuel-recycling project.
+- **Coverage Tracker Update**: Registered Colorado School of Mines as a reference-only university participant in `coverage.md`.
+- **Patch Version Release**: Incremented version strings to `3.5.20` across `README.md` and `README.de.md`. Index completion: **549 / 549 Processed, 100% Complete**.
+
+---
+
 ## [3.5.19] - 2026-08-16
 
 ### Added
