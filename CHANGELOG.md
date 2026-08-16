@@ -5,6 +5,16 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.5.17] - 2026-08-16
+
+### Added
+- **Reference Index Entry #546**: Processed *Two UCSB-Led Projects Selected for DOE's Genesis Mission* (`engineering.ucsb.edu`) under Section 5 (*National Labs & University Coverage*) in `references.md`.
+- **Master Index Update**: Registered entry #546 in `reference_coverage.md`; synchronized Total Reference Links (545 → 546), Web Portals (524 → 525), the Section 5 count (262 → 263), and the new `engineering.ucsb.edu` domain. Processing Status: **546 / 546 Processed, 100% Complete**.
+- **Research Paper Enrichment — §3.3 (README.md & README.de.md)**: Added UCSB's two Phase I project leads, Michelle O'Malley and Justin Wilson, and their AI-integrated scientific-workflow focus.
+- **Patch Version Release**: Incremented version strings to `3.5.17` across `README.md` and `README.de.md`. Index completion: **546 / 546 Processed, 100% Complete**.
+
+---
+
 ## [3.5.16] - 2026-08-16
 
 ### Added
