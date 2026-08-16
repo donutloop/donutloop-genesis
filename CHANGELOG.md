@@ -5,6 +5,16 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.5.12] - 2026-08-16
+
+### Added
+- **Reference Index Entry #541**: Processed *Chemists Justin Wilson and Yang Yang Join DOE's Genesis Mission* (`science.ucsb.edu`) under Section 5 (*National Labs & University Coverage*) in `references.md`.
+- **Master Index Update**: Registered entry #541 in `reference_coverage.md`; synchronized Total Reference Links (540 → 541), Web Portals (521 → 522), unique domains (235 → 236), and Section 5 count (259 → 260). Processing Status: **541 / 541 Processed, 100% Complete**.
+- **Research Paper Enrichment — §3.3 (README.md & README.de.md)**: Added UCSB's HARVEST-CMM project, applying AI and protein design to more selective critical-mineral extraction and separation.
+- **Patch Version Release**: Incremented version strings to `3.5.12` across `README.md` and `README.de.md`. Index completion: **541 / 541 Processed, 100% Complete**.
+
+---
+
 ## [3.5.11] - 2026-08-16
 
 ### Added

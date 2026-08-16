@@ -1,7 +1,7 @@
 # Genesis Mission — Master Reference Coverage Report
 
 > **Document Overview:**
-> This report provides a comprehensive coverage analysis, breakdown, and master audit index of all **540 external reference links** compiled within `references.md` for the **Genesis Mission** documentation repository.
+> This report provides a comprehensive coverage analysis, breakdown, and master audit index of all **541 external reference links** compiled within `references.md` for the **Genesis Mission** documentation repository.
 
 ---
 
@@ -9,13 +9,13 @@
 
 | Metric | Count / Value | Description |
 | :--- | :--- | :--- |
-| **Total Reference Links** | **540** | Unique external links indexed across all sections |
+| **Total Reference Links** | **541** | Unique external links indexed across all sections |
 | **Primary Document Sections** | **7** | High-level thematic categories in `references.md` |
-| **Unique Target Domains** | **235** | Distinct domain names referenced (government, lab, corporate, academic, news) |
+| **Unique Target Domains** | **236** | Distinct domain names referenced (government, lab, corporate, academic, news) |
 | **Official PDF Documents** | **18** | Formal RFA solicitations, webinars, slides, and executive reports |
-| **Web Portals & Press Releases** | **521** | Newsroom features, corporate blog posts, and interactive hubs |
+| **Web Portals & Press Releases** | **522** | Newsroom features, corporate blog posts, and interactive hubs |
 | **Validation Status** | **100% Validated** | All links canonicalized, formatted, and deduplicated |
-| **Processing Status** | **540 / 540 Processed** | 0 Unprocessed, 540 Processed (100% Complete) |
+| **Processing Status** | **541 / 541 Processed** | 0 Unprocessed, 541 Processed (100% Complete) |
 
 ---
 
@@ -27,7 +27,7 @@
 | 2 | `2. Collaborators` | **75** | 13.9% | Official homepage & announcement links for industrial/energy partners |
 | 3 | `3. Quantum Leadership & CHIPS Act Initiatives` | **11** | 2.0% | Department of Commerce NIST LOIs & DOE $2B quantum initiatives |
 | 4 | `4. Executive, Federal & Partner Announcements` | **161** | 29.8% | White House releases, Cabinet agency press, hyperscaler & lab announcements |
-| 5 | `5. National Labs & University Coverage` | **259** | 48.0% | National Laboratory news portals & 66 awardee university press releases |
+| 5 | `5. National Labs & University Coverage` | **260** | 48.1% | National Laboratory news portals & 66 awardee university press releases |
 | 6 | `6. Additional Event Materials & Reference Links` | **17** | 3.1% | Presentation slide decks, institutional intro files & video recordings |
 | 7 | `7. Technical Documents, RFA Guidance & Official Webinars` | **14** | 2.6% | DE-FOA-0003612 solicitations, OSTP challenge papers, SCAC presentations & peer-reviewed AI-for-science research |
 
@@ -71,6 +71,7 @@ Below is the distribution of references grouped by top domain hosts and institut
 | `www.fusionindustryassociation.org` | **1** | Fusion Industry Association (FIA) | FIA FY28 federal budget advocacy — $1.114B DOE fusion investment, $2B Fusion Milestone program |
 | `www.unlv.edu` | **1** | University Newsroom | UNLV College of Engineering Genesis Mission nuclear reactor safety AI project |
 | `oncampus.sjny.edu` | **1** | University Newsroom | St. Joseph's University, New York DOE Genesis Mission nuclear-data AI research |
+| `science.ucsb.edu` | **1** | University Newsroom | UC Santa Barbara HARVEST-CMM critical-mineral extraction and protein-design research |
 | `pmc.ncbi.nlm.nih.gov` | **1** | PubMed Central | Peer-reviewed analysis of generative closed-loop AI for fundamental science |
 | `researchsupport.psu.edu` | **1** | Penn State Research Support | Limited-submission guidance for DOE Genesis Mission DE-FOA-0003612 |
 
@@ -78,7 +79,7 @@ Below is the distribution of references grouped by top domain hosts and institut
 
 ## 4. Master Reference Link Index
 
-A complete tabular listing of all 539 indexed reference links:
+A complete tabular listing of all 541 indexed reference links:
 
 | # | Category / Section | Entity / Subject | Title | Domain | Type | Link | Status |
 |---|---|---|---|---|:---:|---|:---:|
@@ -621,3 +622,4 @@ A complete tabular listing of all 539 indexed reference links:
 | 538 | 5. National Labs & University Coverage | Brookhaven National Laboratory (BNL) | Complete List of Brookhaven Lab Genesis Mission Phase I Projects | `www.bnl.gov` | Web | [Complete List of Brookhaven Lab Genesis Mission Phase I Projects](https://www.bnl.gov/newsroom/news.php?a=223070) | `Processed` |
 | 539 | 5. National Labs & University Coverage | Penn State University | DOE Genesis Mission: Transforming Science and Energy with AI (DE-FOA-0003612) | `researchsupport.psu.edu` | Web | [DOE Genesis Mission: Transforming Science and Energy with AI (DE-FOA-0003612)](https://researchsupport.psu.edu/limited-submission/doe-genesis-mission-transforming-science-and-energy-with-ai-de-foa-0003612/) | `Processed` |
 | 540 | 4. Executive, Federal & Partner Announcements | Google Cloud | AlphaEvolve Is Available for Everyone | `cloud.google.com` | Web | [AlphaEvolve Is Available for Everyone](https://cloud.google.com/blog/products/ai-machine-learning/alphaevolve-is-available-for-everyone) | `Processed` |
+| 541 | 5. National Labs & University Coverage | UC Santa Barbara (UCSB) | Chemists Justin Wilson and Yang Yang Join DOE's Genesis Mission | `science.ucsb.edu` | Web | [Chemists Justin Wilson and Yang Yang Join DOE's Genesis Mission](https://science.ucsb.edu/news/chemists-justin-wilson-and-yang-yang-join-does-genesis-mission) | `Processed` |
