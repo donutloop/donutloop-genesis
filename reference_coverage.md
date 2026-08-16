@@ -1,7 +1,7 @@
 # Genesis Mission — Master Reference Coverage Report
 
 > **Document Overview:**
-> This report provides a comprehensive coverage analysis, breakdown, and master audit index for the **546 external reference links** compiled within `references.md` for the **Genesis Mission** documentation repository.
+> This report provides a comprehensive coverage analysis, breakdown, and master audit index for the **547 external reference links** compiled within `references.md` for the **Genesis Mission** documentation repository.
 
 ---
 
@@ -9,13 +9,13 @@
 
 | Metric | Count / Value | Description |
 | :--- | :--- | :--- |
-| **Total Reference Links** | **546** | Unique external links indexed across all sections |
+| **Total Reference Links** | **547** | Unique external links indexed across all sections |
 | **Primary Document Sections** | **7** | High-level thematic categories in `references.md` |
-| **Unique Target Domains** | **238** | Distinct domain names referenced (government, lab, corporate, academic, news) |
+| **Unique Target Domains** | **239** | Distinct domain names referenced (government, lab, corporate, academic, news) |
 | **Official PDF Documents** | **20** | Formal RFA solicitations, webinars, slides, and executive reports |
-| **Web Portals & Press Releases** | **525** | Newsroom features, corporate blog posts, and interactive hubs |
+| **Web Portals & Press Releases** | **526** | Newsroom features, corporate blog posts, and interactive hubs |
 | **Validation Status** | **100% Validated** | All links canonicalized, formatted, and deduplicated |
-| **Processing Status** | **546 / 546 Processed** | 0 Unprocessed, 546 Processed (100% Complete) |
+| **Processing Status** | **547 / 547 Processed** | 0 Unprocessed, 547 Processed (100% Complete) |
 
 ---
 
@@ -23,11 +23,11 @@
 
 | # | Section Header | Link Count | Share (%) | Primary Focus Area |
 |---|:---|:---:|:---:|:---|
-| 1 | `1. Key Presentation Details` | **3** | 0.6% | Briefing agendas, U.S. ATLAS IB meeting details & CERN links |
-| 2 | `2. Collaborators` | **75** | 13.8% | Official homepage & announcement links for industrial/energy partners |
+| 1 | `1. Key Presentation Details` | **3** | 0.5% | Briefing agendas, U.S. ATLAS IB meeting details & CERN links |
+| 2 | `2. Collaborators` | **75** | 13.7% | Official homepage & announcement links for industrial/energy partners |
 | 3 | `3. Quantum Leadership & CHIPS Act Initiatives` | **11** | 2.0% | Department of Commerce NIST LOIs & DOE $2B quantum initiatives |
-| 4 | `4. Executive, Federal & Partner Announcements` | **161** | 29.5% | White House releases, Cabinet agency press, hyperscaler & lab announcements |
-| 5 | `5. National Labs & University Coverage` | **263** | 48.2% | National Laboratory news portals & 66 awardee university press releases |
+| 4 | `4. Executive, Federal & Partner Announcements` | **161** | 29.4% | White House releases, Cabinet agency press, hyperscaler & lab announcements |
+| 5 | `5. National Labs & University Coverage` | **264** | 48.3% | National Laboratory news portals & 66 awardee university press releases |
 | 6 | `6. Additional Event Materials & Reference Links` | **17** | 3.1% | Presentation slide decks, institutional intro files & video recordings |
 | 7 | `7. Technical Documents, RFA Guidance & Official Webinars` | **16** | 2.9% | DE-FOA-0003612 solicitations, OSTP challenge papers, SCAC presentations & peer-reviewed AI-for-science research |
 
@@ -74,6 +74,7 @@ Below is the distribution of references grouped by top domain hosts and institut
 | `oncampus.sjny.edu` | **1** | University Newsroom | St. Joseph's University, New York DOE Genesis Mission nuclear-data AI research |
 | `science.ucsb.edu` | **1** | University Newsroom | UC Santa Barbara HARVEST-CMM critical-mineral extraction and protein-design research |
 | `engineering.ucsb.edu` | **1** | University Newsroom | UC Santa Barbara College of Engineering Genesis Mission project coverage |
+| `bioengineering.ucsb.edu` | **1** | University Newsroom | UC Santa Barbara Bioengineering Genesis Mission project coverage |
 | `pmc.ncbi.nlm.nih.gov` | **1** | PubMed Central | Peer-reviewed analysis of generative closed-loop AI for fundamental science |
 | `researchsupport.psu.edu` | **1** | Penn State Research Support | Limited-submission guidance for DOE Genesis Mission DE-FOA-0003612 |
 | `research.ucdavis.edu` | **1** | UC Davis Research | DOE Genesis Mission award-recipient project details |
@@ -82,7 +83,7 @@ Below is the distribution of references grouped by top domain hosts and institut
 
 ## 4. Master Reference Link Index
 
-A tabular master index for the 546-reference collection:
+A tabular master index for the 547-reference collection:
 
 | # | Category / Section | Entity / Subject | Title | Domain | Type | Link | Status |
 |---|---|---|---|---|:---:|---|:---:|
@@ -631,3 +632,4 @@ A tabular master index for the 546-reference collection:
 | 544 | 5. National Labs & University Coverage | University of California, Davis (UC Davis) | DOE Genesis Award Recipients | `research.ucdavis.edu` | Web | [DOE Genesis Award Recipients](https://research.ucdavis.edu/doe-genesis-award-recipients/) | `Processed` |
 | 545 | 7. Technical Documents, RFA Guidance & Official Webinars | Boise State University Office of Sponsored Programs | DE-FOA-0003612 Topic Focus Areas | `www.boisestate.edu` | PDF | [DE-FOA-0003612 Topic Focus Areas](https://www.boisestate.edu/research-osp/wp-content/uploads/sites/233/2026/03/DE-FOA-0003612-Topic-Focus-Areas-1.pdf) | `Processed` |
 | 546 | 5. National Labs & University Coverage | UC Santa Barbara (UCSB) | Two UCSB-Led Projects Selected for DOE's Genesis Mission | `engineering.ucsb.edu` | Web | [Two UCSB-Led Projects Selected for DOE's Genesis Mission](https://engineering.ucsb.edu/news/2026-Genesis-DOE-Projects) | `Processed` |
+| 547 | 5. National Labs & University Coverage | UC Santa Barbara (UCSB) | Two UC Santa Barbara-Led Projects Selected for DOE's Genesis Mission | `bioengineering.ucsb.edu` | Web | [Two UC Santa Barbara-Led Projects Selected for DOE's Genesis Mission](https://bioengineering.ucsb.edu/news/all/2026/two-uc-santa-barbara-led-projects-selected-does-genesis-mission) | `Processed` |
