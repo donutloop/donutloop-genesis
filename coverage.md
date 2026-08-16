@@ -118,7 +118,7 @@
 
 | # | Company | Coverage | Paper Section | Notes |
 |---|---------|----------|---------------|-------|
-| 69 | [Accenture Federal Services](https://www.accenture.com/) | ✅ Full Profile | §3.1, A.3 | CM2US operating capability, federal AI systems integration & multi-agency program management |
+| 68 | [Accenture Federal Services](https://www.accenture.com/) | ✅ Full Profile | §3.1, A.3 | CM2US operating capability, federal AI systems integration & multi-agency program management |
 | 69 | [Atomic Canyon](https://www.atomiccanyon.com/) | ✅ Full Profile | §3.1, A.3 | AI-driven nuclear energy research platforms, regulatory document search (NeutronAI) & nuclear knowledge graphs |
 | 70 | [Chemspeed](https://www.chemspeed.com/) | ✅ Full Profile | §2.3D, §3.1, A.3 | Automated chemical synthesis workstation platforms, robotic dispensing & closed-loop AI experimentation |
 | 71 | [Emerald Cloud Lab](https://www.emeraldcloudlab.com/) | ✅ Full Profile | §2.3D, §3.1, A.3 | Cloud-based robotic laboratory automation, remote API-driven experiment execution & FAIR datasets |
