@@ -5,6 +5,16 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.5.24] - 2026-08-16
+
+### Added
+- **Reference Index Entry #553**: Processed *Turning Uncertainty into a Design Tool for AI-Engineered Molecules* (`www.bnl.gov`) under Section 5 (*National Labs & University Coverage*) in `references.md`.
+- **Master Index Update**: Registered entry #553 in `reference_coverage.md`; synchronized Total Reference Links (552 → 553), Web Portals (531 → 532), the Section 5 count (265 → 266), and the BNL domain count (6 → 7). Processing Status: **553 / 553 Processed, 100% Complete**.
+- **Research Paper Enrichment — §3.2 (README.md & README.de.md)**: Added BNL and Texas A&M's uncertainty-aware generative-AI approach to molecular exploration for drug and materials discovery.
+- **Patch Version Release**: Incremented version strings to `3.5.24` across `README.md` and `README.de.md`. Index completion: **553 / 553 Processed, 100% Complete**.
+
+---
+
 ## [3.5.23] - 2026-08-16
 
 ### Added

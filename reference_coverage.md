@@ -1,7 +1,7 @@
 # Genesis Mission — Master Reference Coverage Report
 
 > **Document Overview:**
-> This report provides a comprehensive coverage analysis, breakdown, and master audit index for the **552 external reference links** compiled within `references.md` for the **Genesis Mission** documentation repository.
+> This report provides a comprehensive coverage analysis, breakdown, and master audit index for the **553 external reference links** compiled within `references.md` for the **Genesis Mission** documentation repository.
 
 ---
 
@@ -9,13 +9,13 @@
 
 | Metric | Count / Value | Description |
 | :--- | :--- | :--- |
-| **Total Reference Links** | **552** | Unique external links indexed across all sections |
+| **Total Reference Links** | **553** | Unique external links indexed across all sections |
 | **Primary Document Sections** | **7** | High-level thematic categories in `references.md` |
 | **Unique Target Domains** | **243** | Distinct domain names referenced (government, lab, corporate, academic, news) |
 | **Official PDF Documents** | **20** | Formal RFA solicitations, webinars, slides, and executive reports |
-| **Web Portals & Press Releases** | **531** | Newsroom features, corporate blog posts, and interactive hubs |
+| **Web Portals & Press Releases** | **532** | Newsroom features, corporate blog posts, and interactive hubs |
 | **Validation Status** | **100% Validated** | All links canonicalized, formatted, and deduplicated |
-| **Processing Status** | **552 / 552 Processed** | 0 Unprocessed, 552 Processed (100% Complete) |
+| **Processing Status** | **553 / 553 Processed** | 0 Unprocessed, 553 Processed (100% Complete) |
 
 ---
 
@@ -27,7 +27,7 @@
 | 2 | `2. Collaborators` | **75** | 13.6% | Official homepage & announcement links for industrial/energy partners |
 | 3 | `3. Quantum Leadership & CHIPS Act Initiatives` | **11** | 2.0% | Department of Commerce NIST LOIs & DOE $2B quantum initiatives |
 | 4 | `4. Executive, Federal & Partner Announcements` | **165** | 29.9% | White House releases, Cabinet agency press, hyperscaler & lab announcements |
-| 5 | `5. National Labs & University Coverage` | **265** | 48.0% | National Laboratory news portals & 66 awardee university press releases |
+| 5 | `5. National Labs & University Coverage` | **266** | 48.1% | National Laboratory news portals & 66 awardee university press releases |
 | 6 | `6. Additional Event Materials & Reference Links` | **17** | 3.1% | Presentation slide decks, institutional intro files & video recordings |
 | 7 | `7. Technical Documents, RFA Guidance & Official Webinars` | **16** | 2.9% | DE-FOA-0003612 solicitations, OSTP challenge papers, SCAC presentations & peer-reviewed AI-for-science research |
 
@@ -55,7 +55,7 @@ Below is the distribution of references grouped by top domain hosts and institut
 | `aws.amazon.com` | **4** | Amazon Web Services (AWS) | Public sector HPC credits, quantum post-quantum security |
 | `cloud.google.com` | **3** | Google Cloud | Genesis Mission support and AlphaEvolve evolutionary code optimization |
 | `www.youtube.com` | **6** | YouTube | Genesis Mission summit, technical presentation, webinar, and national-laboratory video recordings |
-| `www.bnl.gov` | **6** | Brookhaven National Laboratory (BNL) | C2QA quantum advantage center, NSLS-II beamlines, Quantum Technology Outposts at EIC, and seven Phase I project leads |
+| `www.bnl.gov` | **7** | Brookhaven National Laboratory (BNL) | C2QA quantum advantage center, NSLS-II beamlines, uncertainty-guided molecular design, Quantum Technology Outposts at EIC, and seven Phase I project leads |
 | `www.pppl.gov` | **4** | Princeton Plasma Physics Lab (PPPL) | Stellarator optimization, fusion plasma turbulence AI |
 | `indico.cern.ch` | **3** | CERN Indico Event System | U.S. ATLAS IB meeting slides, DOE-HEP presentation files |
 | `atom-computing.com` | **3** | Atom Computing | Neutral-atom quantum computing hardware, Commerce LOI |
@@ -88,7 +88,7 @@ Below is the distribution of references grouped by top domain hosts and institut
 
 ## 4. Master Reference Link Index
 
-A tabular master index for the 552-reference collection:
+A tabular master index for the 553-reference collection:
 
 | # | Category / Section | Entity / Subject | Title | Domain | Type | Link | Status |
 |---|---|---|---|---|:---:|---|:---:|
@@ -643,3 +643,4 @@ A tabular master index for the 552-reference collection:
 | 550 | 4. Executive, Federal & Partner Announcements | X-energy | X-energy Joins Project Prometheus for AI-Accelerated Advanced Nuclear Deployment | `x-energy.com` | Web | [X-energy Joins Project Prometheus for AI-Accelerated Advanced Nuclear Deployment](https://x-energy.com/news/x-energy-joins-project-prometheus-for-ai-accelerated-advanced-nuclear-deployment/) | `Processed` |
 | 551 | 4. Executive, Federal & Partner Announcements | Association of American Universities (AAU) | Many AAU Institutions Among DOE's First Genesis Awards | `www.aau.edu` | Web | [Many AAU Institutions Among DOE's First Genesis Awards](https://www.aau.edu/newsroom/many-aau-institutions-among-does-first-genesis-awards) | `Processed` |
 | 552 | 4. Executive, Federal & Partner Announcements | Wiley | Wiley Joins U.S. Department of Energy's Genesis Mission Consortium to Advance AI-Powered Scientific Discovery | `newsroom.wiley.com` | Web | [Wiley Joins U.S. Department of Energy's Genesis Mission Consortium to Advance AI-Powered Scientific Discovery](https://newsroom.wiley.com/press-releases/press-release-details/2026/Wiley-Joins-U-S--Department-of-Energys-Genesis-Mission-Consortium-to-Advance-AI-Powered-Scientific-Discovery/default.aspx) | `Processed` |
+| 553 | 5. National Labs & University Coverage | Brookhaven National Laboratory (BNL) | Turning Uncertainty into a Design Tool for AI-Engineered Molecules | `www.bnl.gov` | Web | [Turning Uncertainty into a Design Tool for AI-Engineered Molecules](https://www.bnl.gov/newsroom/news.php?a=222882) | `Processed` |
