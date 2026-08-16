@@ -239,6 +239,7 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
 * [NVIDIA: Joins NSF State and Regional AI Hubs Program to Expand AI Research and Education Across the US](https://blogs.nvidia.com/blog/nsf-state-regional-ai-hub-program/)
 * [DOE Office of Science: Genesis Mission RFA Awards List (PDF)](https://science.osti.gov/-/media/funding/pdf/Awards-Lists/2026/GM-RFA-Awards-List.pdf)
 * [House Committee on Science, Space, and Technology: Ranking Member Ross Opening Statement at Hearing on the Genesis Mission](https://democrats-science.house.gov/news/press-releases/ranking-member-ross-opening-statement-at-hearing-on-the-genesis-mission)
+* [Rep. Mike Kennedy: Introduces GENESIS Act to Accelerate Scientific Discovery Through AI](https://mikekennedy.house.gov/media/press-releases/rep-kennedy-introduces-genesis-act-accelerate-scientific-discovery-through)
 * DOE Interactive Portal: [Genesis Mission Official Interactive Demonstration Hub](https://www.energy.gov/genesis-mission-demonstration)
 * [U.S. Department of Energy (DOE): Seeks Input on Advancing AI for Science & Engineering Workforce Development and Genesis Mission Challenges](https://www.energy.gov/science/articles/department-energy-seeks-input-advancing-ai-science-and-engineering-workforce)
 * [Domino Data Lab: Domino Joins Genesis Mission Consortium](https://domino.ai/press-releases/genesis-consortium)

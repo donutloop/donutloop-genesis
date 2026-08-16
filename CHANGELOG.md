@@ -5,6 +5,16 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.5.19] - 2026-08-16
+
+### Added
+- **Reference Index Entry #548**: Processed *Rep. Kennedy Introduces GENESIS Act to Accelerate Scientific Discovery Through AI* (`mikekennedy.house.gov`) under Section 4 (*Executive, Federal & Partner Announcements*) in `references.md`.
+- **Master Index Update**: Registered entry #548 in `reference_coverage.md`; synchronized Total Reference Links (547 → 548), Web Portals (526 → 527), the Section 4 count (161 → 162), and the new `mikekennedy.house.gov` domain. Processing Status: **548 / 548 Processed, 100% Complete**.
+- **Research Paper Enrichment — §4 (README.md & README.de.md)**: Added the GENESIS Act's proposed statutory framework for DOE AI and automation, closed-loop experimentation, scientific foundation models, and autonomous laboratories.
+- **Patch Version Release**: Incremented version strings to `3.5.19` across `README.md` and `README.de.md`. Index completion: **548 / 548 Processed, 100% Complete**.
+
+---
+
 ## [3.5.18] - 2026-08-16
 
 ### Added
