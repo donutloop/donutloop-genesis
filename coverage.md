@@ -1,9 +1,9 @@
 # Genesis Mission — Full Ecosystem Coverage Tracker
 
 > **Scope & Coverage Definition:**
-> - **Flagship Consortium Scope:** Tracks **all 191 primary flagship participants**—lead contractors, federal agencies, national laboratories, awardee universities, strategic industrial partners, and philanthropic foundations—explicitly profiled or referenced in the Genesis Mission paper (`README.md`) and reference index.
+> - **Flagship Consortium Scope:** Tracks **all 192 primary flagship participants**—lead contractors, federal agencies, national laboratories, awardee universities, strategic industrial partners, and philanthropic foundations—explicitly profiled or referenced in the Genesis Mission paper (`README.md`) and reference index.
 > - **Broader National Awardee Network Context:** Under solicitation DE-FOA-0003612 and interagency challenges, the broader national initiative encompasses **342 total participating institutions** (157 companies, 142 universities, 16 national labs, 13 non-profits, 14 other entities across 278 projects).
-> - **Coverage Status:** **187 / 191 (97.9%)** of the tracked consortium entities have dedicated, detailed technical profiles.
+> - **Coverage Status:** **187 / 192 (97.4%)** of the tracked consortium entities have dedicated, detailed technical profiles.
 
 **Legend:**
 - ✅ **Full Profile** — Dedicated section with detailed technical write-up (Sections 2.2 / 3.1 / 3.2 / 3.3 / 3.4 / 3.5)
