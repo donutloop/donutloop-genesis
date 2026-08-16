@@ -5,6 +5,17 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.5.22] - 2026-08-16
+
+### Added
+- **Reference Index Entry #551**: Processed *Many AAU Institutions Among DOE's First Genesis Awards* (`www.aau.edu`) under Section 4 (*Executive, Federal & Partner Announcements*) in `references.md`.
+- **Master Index Update**: Registered entry #551 in `reference_coverage.md`; synchronized Total Reference Links (550 → 551), Web Portals (529 → 530), the Section 4 count (163 → 164), and the AAU domain count (1 → 2). Processing Status: **551 / 551 Processed, 100% Complete**.
+- **Research Paper Enrichment — §3.4 (README.md & README.de.md)**: Added AAU-reported participation figures for the initial 278-project portfolio, including 168 university-led projects and 142 participating universities, with Carnegie Mellon and Stony Brook examples.
+- **Coverage Tracker Update**: Expanded the existing AAU full-profile note with first Genesis Awards university-participation coverage.
+- **Patch Version Release**: Incremented version strings to `3.5.22` across `README.md` and `README.de.md`. Index completion: **551 / 551 Processed, 100% Complete**.
+
+---
+
 ## [3.5.21] - 2026-08-16
 
 ### Added
