@@ -1,4 +1,4 @@
-**Version**: 3.5.5
+**Version**: 3.5.6
 
 # Die Genesis-Mission: Architektur, strategische Initiativen und das multi-institutionelle Ökosystem für KI- und quantengetriebene wissenschaftliche Entdeckungen
 
@@ -1082,6 +1082,7 @@ Die folgenden technischen Präsentationsaufzeichnungen, Führungskräfte-Briefin
 | [Accelerating Scientific Discovery Through Global Innovation (GTC 2026 Session S82438)](https://www.nvidia.com/en-us/on-demand/session/gtc26-s82438/) | NVIDIA Corporation / NVIDIA On-Demand | Dr. Darío Gil (DOE-Stellvertretender Staatssekretär für Wissenschaft) & Ian Buck (NVIDIA-Vizepräsident) | Strategische DOE-NVIDIA-KI-Infrastrukturpartnerschaften, Exascale-Supercomputer-Bereitstellung (Solstice & Equinox), weltweites Teilen wissenschaftlicher Basismodelle und cuQuantum/Omniverse-Integration. |
 | [12 Genesis Awards, One Membrane Center, and 5 Emerging Aviation Fuels](https://www.youtube.com/watch?v=Hw_mpJwmT1o) | National Laboratory of the Rockies (NREL) | NREL Leadership & Computing Scientists | Übersicht über die 12 Genesis-Mission-Forschungspreise des NREL, die Einrichtung eines Zentrums für fortschrittliche Membrantechnologie für saubere Energie/Kohlenstoffabscheidung und die Entwicklung von 5 neuen nachhaltigen Flugkraftstoffpfaden (SAF) mittels KI-Basismodellen. |
 | [Genesis Mission Annual Summit (Full Livestream)](https://youtu.be/zyERV0Z4sNo) | U.S. Department of Energy (DOE) | DOE-Führung & Genesis-Mission-Partner | Vollständige Livestream-Aufzeichnung des jährlichen Gipfeltreffens (22. Juli 2026) mit Eröffnungsansprachen von OSTP-Direktor Michael Kratsios und Energieminister Chris Wright, technischen Keynotes, Führungspanels, dem Fireside Chat mit Botschafter Yamada, der Plattform-Demo, parlamentarischen Perspektiven sowie der Schlussansprache von Stellvertretendem Minister Danly. |
+| [Genesis Mission Annual Summit](https://youtu.be/TobhuGA4W20) | ORISE Peer Review | Vertreter von Bundesbehörden, Industrie, nationalen Laboratorien und Forschungsgemeinschaft | Gipfelaufzeichnung zur Integration von Supercomputern, Experimentieranlagen, KI-Systemen, einzigartigen Datensätzen und Quantentechnologien in der nationalen wissenschaftlichen KI-Plattform für Energie-, nationale Sicherheits- und Entdeckungsanwendungen. |
 
 ---
 
