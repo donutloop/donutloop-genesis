@@ -1,7 +1,7 @@
 # Genesis Mission — Master Reference Coverage Report
 
 > **Document Overview:**
-> This report provides a comprehensive coverage analysis, breakdown, and master audit index of all **537 external reference links** compiled within `references.md` for the **Genesis Mission** documentation repository.
+> This report provides a comprehensive coverage analysis, breakdown, and master audit index of all **538 external reference links** compiled within `references.md` for the **Genesis Mission** documentation repository.
 
 ---
 
@@ -9,13 +9,13 @@
 
 | Metric | Count / Value | Description |
 | :--- | :--- | :--- |
-| **Total Reference Links** | **537** | Unique external links indexed across all sections |
+| **Total Reference Links** | **538** | Unique external links indexed across all sections |
 | **Primary Document Sections** | **7** | High-level thematic categories in `references.md` |
 | **Unique Target Domains** | **234** | Distinct domain names referenced (government, lab, corporate, academic, news) |
 | **Official PDF Documents** | **18** | Formal RFA solicitations, webinars, slides, and executive reports |
-| **Web Portals & Press Releases** | **518** | Newsroom features, corporate blog posts, and interactive hubs |
+| **Web Portals & Press Releases** | **519** | Newsroom features, corporate blog posts, and interactive hubs |
 | **Validation Status** | **100% Validated** | All links canonicalized, formatted, and deduplicated |
-| **Processing Status** | **537 / 537 Processed** | 0 Unprocessed, 537 Processed (100% Complete) |
+| **Processing Status** | **538 / 538 Processed** | 0 Unprocessed, 538 Processed (100% Complete) |
 
 ---
 
@@ -24,10 +24,10 @@
 | # | Section Header | Link Count | Share (%) | Primary Focus Area |
 |---|:---|:---:|:---:|:---|
 | 1 | `1. Key Presentation Details` | **3** | 0.6% | Briefing agendas, U.S. ATLAS IB meeting details & CERN links |
-| 2 | `2. Collaborators` | **75** | 14.0% | Official homepage & announcement links for industrial/energy partners |
-| 3 | `3. Quantum Leadership & CHIPS Act Initiatives` | **11** | 2.1% | Department of Commerce NIST LOIs & DOE $2B quantum initiatives |
-| 4 | `4. Executive, Federal & Partner Announcements` | **160** | 29.9% | White House releases, Cabinet agency press, hyperscaler & lab announcements |
-| 5 | `5. National Labs & University Coverage` | **257** | 47.9% | National Laboratory news portals & 66 awardee university press releases |
+| 2 | `2. Collaborators` | **75** | 13.9% | Official homepage & announcement links for industrial/energy partners |
+| 3 | `3. Quantum Leadership & CHIPS Act Initiatives` | **11** | 2.0% | Department of Commerce NIST LOIs & DOE $2B quantum initiatives |
+| 4 | `4. Executive, Federal & Partner Announcements` | **160** | 29.7% | White House releases, Cabinet agency press, hyperscaler & lab announcements |
+| 5 | `5. National Labs & University Coverage` | **258** | 48.0% | National Laboratory news portals & 66 awardee university press releases |
 | 6 | `6. Additional Event Materials & Reference Links` | **17** | 3.2% | Presentation slide decks, institutional intro files & video recordings |
 | 7 | `7. Technical Documents, RFA Guidance & Official Webinars` | **14** | 2.6% | DE-FOA-0003612 solicitations, OSTP challenge papers, SCAC presentations & peer-reviewed AI-for-science research |
 
@@ -53,7 +53,7 @@ Below is the distribution of references grouped by top domain hosts and institut
 | `www.ornl.gov` | **14** | Oak Ridge National Laboratory (ORNL) | Frontier supercomputer, IBM FLiBe molten salt quantum chemistry |
 | `aws.amazon.com` | **4** | Amazon Web Services (AWS) | Public sector HPC credits, quantum post-quantum security |
 | `www.youtube.com` | **6** | YouTube | Genesis Mission summit, technical presentation, webinar, and national-laboratory video recordings |
-| `www.bnl.gov` | **5** | Brookhaven National Laboratory (BNL) | C2QA quantum advantage center, NSLS-II beamlines, Quantum Technology Outposts at EIC |
+| `www.bnl.gov` | **6** | Brookhaven National Laboratory (BNL) | C2QA quantum advantage center, NSLS-II beamlines, Quantum Technology Outposts at EIC, and seven Phase I project leads |
 | `www.pppl.gov` | **4** | Princeton Plasma Physics Lab (PPPL) | Stellarator optimization, fusion plasma turbulence AI |
 | `indico.cern.ch` | **3** | CERN Indico Event System | U.S. ATLAS IB meeting slides, DOE-HEP presentation files |
 | `atom-computing.com` | **3** | Atom Computing | Neutral-atom quantum computing hardware, Commerce LOI |
@@ -76,7 +76,7 @@ Below is the distribution of references grouped by top domain hosts and institut
 
 ## 4. Master Reference Link Index
 
-A complete tabular listing of all 537 indexed reference links:
+A complete tabular listing of all 538 indexed reference links:
 
 | # | Category / Section | Entity / Subject | Title | Domain | Type | Link | Status |
 |---|---|---|---|---|:---:|---|:---:|
@@ -616,3 +616,4 @@ A complete tabular listing of all 537 indexed reference links:
 | 535 | 6. Additional Event Materials & Reference Links | ORISE Peer Review | Genesis Mission Annual Summit | `youtu.be` | Web | [Genesis Mission Annual Summit](https://youtu.be/TobhuGA4W20) | `Processed` |
 | 536 | 5. National Labs & University Coverage | Argonne National Laboratory (ANL) | What Were Argonne's Top Science Research Breakthroughs in 2025? | `www.anl.gov` | Web | [What Were Argonne's Top Science Research Breakthroughs in 2025?](https://www.anl.gov/article/what-were-argonnes-top-science-research-breakthroughs-in-2025) | `Processed` |
 | 537 | 7. Technical Documents, RFA Guidance & Official Webinars | Generative Closed-Loop AI | The Future of Fundamental Science Led by Generative Closed-Loop Artificial Intelligence | `pmc.ncbi.nlm.nih.gov` | Web | [The Future of Fundamental Science Led by Generative Closed-Loop Artificial Intelligence](https://pmc.ncbi.nlm.nih.gov/articles/PMC12932417/) | `Processed` |
+| 538 | 5. National Labs & University Coverage | Brookhaven National Laboratory (BNL) | Complete List of Brookhaven Lab Genesis Mission Phase I Projects | `www.bnl.gov` | Web | [Complete List of Brookhaven Lab Genesis Mission Phase I Projects](https://www.bnl.gov/newsroom/news.php?a=223070) | `Processed` |
