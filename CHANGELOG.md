@@ -5,6 +5,16 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.6.1] - 2026-08-16
+
+### Added
+- **Reference Index Entry #554**: Processed *Research Universities, DOE Kick Off Partnership to Accelerate Science Through AI* (`www.aau.edu`) under Section 4 (*Executive, Federal & Partner Announcements*) in `references.md`.
+- **Master Index Update**: Registered entry #554 in `reference_coverage.md`; synchronized Total Reference Links (553 → 554), Web Portals (532 → 533), the Section 4 count (165 → 166), and the AAU domain count (2 → 3). Processing Status: **554 / 554 Processed, 100% Complete**.
+- **Research Paper Enrichment — §3.4 (README.md & README.de.md)**: Added the AAU–DOE partnership framing research universities as operational AI-for-science and STEM-workforce partners.
+- **Patch Version Release**: Incremented version strings to `3.6.1` across `README.md` and `README.de.md`. Index completion: **554 / 554 Processed, 100% Complete**.
+
+---
+
 ## [3.6.0] - 2026-08-16
 
 ### Added
