@@ -1,4 +1,4 @@
-**Version**: 3.5.2
+**Version**: 3.5.3
 
 # Die Genesis-Mission: Architektur, strategische Initiativen und das multi-institutionelle Ökosystem für KI- und quantengetriebene wissenschaftliche Entdeckungen
 
@@ -599,6 +599,7 @@ Durch die Integration weltweit führender Exascale-Supercomputer (**Frontier**, 
 
 * **Brookhaven National Laboratory (BNL):**
   - *Nutzeranlagen*: Betreibt den **Relativistic Heavy Ion Collider (RHIC)**, die Synchrotron-Lichtquelle **National Synchrotron Light Source II (NSLS-II)** (3,0-GeV-Elektronen-Speicherring) und das National Nuclear Data Center (NNDC, Herausgeber der WANDA-2024-Konferenzberichte [www.nndc.bnl.gov/ndwg/docs/wanda/WANDA-2024-Proceedings.pdf](https://www.nndc.bnl.gov/ndwg/docs/wanda/WANDA-2024-Proceedings.pdf)).
+  - *KI-Ausbildungspartnerschaft für Kernstrukturdaten*: Gemeinsam mit der St. Joseph's University, New York (SJNY), entwickelt BNL einen physikinformierten KI-Rahmen, der Kernphysik und maschinelles Lernen zur Modernisierung der **Evaluated Nuclear Structure Data File (ENSDF)** verbindet; der DOE-Genesis-Mission-Zuschuss vermittelt SJNY-Studierenden praktische Erfahrung mit Hochleistungsrechnen, KI-Methoden und wissenschaftlichen Datensätzen im großen Maßstab ([Students to Gain Hands-On AI Research Experience Through DOE Grant](https://oncampus.sjny.edu/sjny-students-to-gain-hands-on-ai-research-experience-through-doe-grant/)).
   - *Offizielle Bekanntgaben*: (*Genesis Mission Coverage & Research Leadership*, [www.bnl.gov/newsroom/news.php?a=123041](https://www.bnl.gov/newsroom/news.php?a=123041), *BNL Highlights Strategic Genesis Mission Projects*, [www.bnl.gov/newsroom/news.php?a=122827](https://www.bnl.gov/newsroom/news.php?a=122827), *Inaugural Genesis Mission Initiatives*, [www.bnl.gov/newsroom/news.php?a=122725](https://www.bnl.gov/newsroom/news.php?a=122725) und *Genesis Mission Science and Computing Breakthroughs*, [www.bnl.gov/newsroom/news.php?a=222774](https://www.bnl.gov/newsroom/news.php?a=222774)).
   - *Genesis-Projekte & Technologien*: Setzt agentische KI in autonomen Laboren, Biomoleküldesign-Modelle und Quantensensorik im Rahmen der Genesis-Mission ein.
 

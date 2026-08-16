@@ -5,6 +5,17 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.5.3] - 2026-08-16
+
+### Added
+- **Reference Index Entry #532**: Processed *Students to Gain Hands-On AI Research Experience Through DOE Grant* (`oncampus.sjny.edu`) under Section 5 (*National Labs & University Coverage*) in `references.md`.
+- **Master Index Update**: Registered entry #532 in `reference_coverage.md`; synchronized Total Reference Links (531 → 532), Web Portals (512 → 513), Unique Target Domains (232 → 233), Section 5 count (255 → 256), and Processing Status (**532 / 532 Processed, 100% Complete**).
+- **Coverage Matrix Update**: Added St. Joseph's University, New York (SJNY) (#176) to `coverage.md` as a reference-only research university; updated university and overall totals to 69 and 189, respectively.
+- **Research Paper Enrichment — §3.2 (README.md & README.de.md)**: Added the Brookhaven National Laboratory–SJNY physics-informed AI collaboration to modernize the Evaluated Nuclear Structure Data File (ENSDF), giving students hands-on HPC, AI, and large-scale scientific-data experience.
+- **Patch Version Release**: Incremented version strings to `3.5.3` across `README.md` and `README.de.md`. Index completion: **532 / 532 Processed, 100% Complete**.
+
+---
+
 ## [3.5.2] - 2026-08-16
 
 ### Added
