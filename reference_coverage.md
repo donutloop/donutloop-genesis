@@ -1,7 +1,7 @@
 # Genesis Mission — Master Reference Coverage Report
 
 > **Document Overview:**
-> This report provides a comprehensive coverage analysis, breakdown, and master audit index of all **539 external reference links** compiled within `references.md` for the **Genesis Mission** documentation repository.
+> This report provides a comprehensive coverage analysis, breakdown, and master audit index of all **540 external reference links** compiled within `references.md` for the **Genesis Mission** documentation repository.
 
 ---
 
@@ -9,13 +9,13 @@
 
 | Metric | Count / Value | Description |
 | :--- | :--- | :--- |
-| **Total Reference Links** | **539** | Unique external links indexed across all sections |
+| **Total Reference Links** | **540** | Unique external links indexed across all sections |
 | **Primary Document Sections** | **7** | High-level thematic categories in `references.md` |
 | **Unique Target Domains** | **235** | Distinct domain names referenced (government, lab, corporate, academic, news) |
 | **Official PDF Documents** | **18** | Formal RFA solicitations, webinars, slides, and executive reports |
-| **Web Portals & Press Releases** | **520** | Newsroom features, corporate blog posts, and interactive hubs |
+| **Web Portals & Press Releases** | **521** | Newsroom features, corporate blog posts, and interactive hubs |
 | **Validation Status** | **100% Validated** | All links canonicalized, formatted, and deduplicated |
-| **Processing Status** | **539 / 539 Processed** | 0 Unprocessed, 539 Processed (100% Complete) |
+| **Processing Status** | **540 / 540 Processed** | 0 Unprocessed, 540 Processed (100% Complete) |
 
 ---
 
@@ -26,9 +26,9 @@
 | 1 | `1. Key Presentation Details` | **3** | 0.6% | Briefing agendas, U.S. ATLAS IB meeting details & CERN links |
 | 2 | `2. Collaborators` | **75** | 13.9% | Official homepage & announcement links for industrial/energy partners |
 | 3 | `3. Quantum Leadership & CHIPS Act Initiatives` | **11** | 2.0% | Department of Commerce NIST LOIs & DOE $2B quantum initiatives |
-| 4 | `4. Executive, Federal & Partner Announcements` | **160** | 29.7% | White House releases, Cabinet agency press, hyperscaler & lab announcements |
-| 5 | `5. National Labs & University Coverage` | **259** | 48.1% | National Laboratory news portals & 66 awardee university press releases |
-| 6 | `6. Additional Event Materials & Reference Links` | **17** | 3.2% | Presentation slide decks, institutional intro files & video recordings |
+| 4 | `4. Executive, Federal & Partner Announcements` | **161** | 29.8% | White House releases, Cabinet agency press, hyperscaler & lab announcements |
+| 5 | `5. National Labs & University Coverage` | **259** | 48.0% | National Laboratory news portals & 66 awardee university press releases |
+| 6 | `6. Additional Event Materials & Reference Links` | **17** | 3.1% | Presentation slide decks, institutional intro files & video recordings |
 | 7 | `7. Technical Documents, RFA Guidance & Official Webinars` | **14** | 2.6% | DE-FOA-0003612 solicitations, OSTP challenge papers, SCAC presentations & peer-reviewed AI-for-science research |
 
 ---
@@ -52,6 +52,7 @@ Below is the distribution of references grouped by top domain hosts and institut
 | `www.lanl.gov` | **6** | Los Alamos National Laboratory (LANL) | Weapons hydrodynamics, plutonium aging AI, high-explosives R&D |
 | `www.ornl.gov` | **14** | Oak Ridge National Laboratory (ORNL) | Frontier supercomputer, IBM FLiBe molten salt quantum chemistry |
 | `aws.amazon.com` | **4** | Amazon Web Services (AWS) | Public sector HPC credits, quantum post-quantum security |
+| `cloud.google.com` | **3** | Google Cloud | Genesis Mission support and AlphaEvolve evolutionary code optimization |
 | `www.youtube.com` | **6** | YouTube | Genesis Mission summit, technical presentation, webinar, and national-laboratory video recordings |
 | `www.bnl.gov` | **6** | Brookhaven National Laboratory (BNL) | C2QA quantum advantage center, NSLS-II beamlines, Quantum Technology Outposts at EIC, and seven Phase I project leads |
 | `www.pppl.gov` | **4** | Princeton Plasma Physics Lab (PPPL) | Stellarator optimization, fusion plasma turbulence AI |
@@ -619,3 +620,4 @@ A complete tabular listing of all 539 indexed reference links:
 | 537 | 7. Technical Documents, RFA Guidance & Official Webinars | Generative Closed-Loop AI | The Future of Fundamental Science Led by Generative Closed-Loop Artificial Intelligence | `pmc.ncbi.nlm.nih.gov` | Web | [The Future of Fundamental Science Led by Generative Closed-Loop Artificial Intelligence](https://pmc.ncbi.nlm.nih.gov/articles/PMC12932417/) | `Processed` |
 | 538 | 5. National Labs & University Coverage | Brookhaven National Laboratory (BNL) | Complete List of Brookhaven Lab Genesis Mission Phase I Projects | `www.bnl.gov` | Web | [Complete List of Brookhaven Lab Genesis Mission Phase I Projects](https://www.bnl.gov/newsroom/news.php?a=223070) | `Processed` |
 | 539 | 5. National Labs & University Coverage | Penn State University | DOE Genesis Mission: Transforming Science and Energy with AI (DE-FOA-0003612) | `researchsupport.psu.edu` | Web | [DOE Genesis Mission: Transforming Science and Energy with AI (DE-FOA-0003612)](https://researchsupport.psu.edu/limited-submission/doe-genesis-mission-transforming-science-and-energy-with-ai-de-foa-0003612/) | `Processed` |
+| 540 | 4. Executive, Federal & Partner Announcements | Google Cloud | AlphaEvolve Is Available for Everyone | `cloud.google.com` | Web | [AlphaEvolve Is Available for Everyone](https://cloud.google.com/blog/products/ai-machine-learning/alphaevolve-is-available-for-everyone) | `Processed` |

@@ -167,6 +167,7 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
 * [Google DeepMind: Supporting US DOE on Genesis Mission](https://deepmind.google/blog/google-deepmind-supports-us-department-of-energy-on-genesis/)
 * [Google Public Sector & DeepMind: Powering the Genesis Mission](https://cloud.google.com/blog/topics/public-sector/how-google-public-sector-and-google-deepmind-can-power-the-genesis-mission-and-a-new-era-of-scientific-discovery)
 * [Google Cloud: Accelerating Scientific Discovery with $40M Commitment](https://cloud.google.com/blog/topics/public-sector/accelerating-frontiers-of-scientific-discovery-40-million-dollar-commitment-genesis-mission)
+* [Google Cloud: AlphaEvolve Is Available for Everyone](https://cloud.google.com/blog/products/ai-machine-learning/alphaevolve-is-available-for-everyone)
 * [IBM: Committing $50 Million in Quantum Compute Access](https://www.ibm.com/quantum/us-genesis-mission)
 * [Microsoft: Commitment to Scientific Discovery](https://blogs.microsoft.com/blog/2026/07/22/powering-americas-genesis-mission-microsofts-commitment-to-scientific-discovery/)
 * [Microsoft Public Sector: Accelerating Science with the U.S. Department of Energy](https://techcommunity.microsoft.com/blog/publicsectorblog/genesis-mission-how-microsoft--the-u-s-department-of-energy-accelerate-science/4495259)
