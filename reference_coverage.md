@@ -1,7 +1,7 @@
 # Genesis Mission — Master Reference Coverage Report
 
 > **Document Overview:**
-> This report provides a comprehensive coverage analysis, breakdown, and master audit index of all **530 external reference links** compiled within `references.md` for the **Genesis Mission** documentation repository.
+> This report provides a comprehensive coverage analysis, breakdown, and master audit index of all **531 external reference links** compiled within `references.md` for the **Genesis Mission** documentation repository.
 
 ---
 
@@ -9,13 +9,13 @@
 
 | Metric | Count / Value | Description |
 | :--- | :--- | :--- |
-| **Total Reference Links** | **530** | Unique external links indexed across all sections |
+| **Total Reference Links** | **531** | Unique external links indexed across all sections |
 | **Primary Document Sections** | **7** | High-level thematic categories in `references.md` |
-| **Unique Target Domains** | **231** | Distinct domain names referenced (government, lab, corporate, academic, news) |
+| **Unique Target Domains** | **232** | Distinct domain names referenced (government, lab, corporate, academic, news) |
 | **Official PDF Documents** | **18** | Formal RFA solicitations, webinars, slides, and executive reports |
-| **Web Portals & Press Releases** | **511** | Newsroom features, corporate blog posts, and interactive hubs |
+| **Web Portals & Press Releases** | **512** | Newsroom features, corporate blog posts, and interactive hubs |
 | **Validation Status** | **100% Validated** | All links canonicalized, formatted, and deduplicated |
-| **Processing Status** | **530 / 530 Processed** | 0 Unprocessed, 530 Processed (100% Complete) |
+| **Processing Status** | **531 / 531 Processed** | 0 Unprocessed, 531 Processed (100% Complete) |
 
 ---
 
@@ -24,12 +24,12 @@
 | # | Section Header | Link Count | Share (%) | Primary Focus Area |
 |---|:---|:---:|:---:|:---|
 | 1 | `1. Key Presentation Details` | **3** | 0.6% | Briefing agendas, U.S. ATLAS IB meeting details & CERN links |
-| 2 | `2. Collaborators` | **75** | 14.2% | Official homepage & announcement links for industrial/energy partners |
+| 2 | `2. Collaborators` | **75** | 14.1% | Official homepage & announcement links for industrial/energy partners |
 | 3 | `3. Quantum Leadership & CHIPS Act Initiatives` | **11** | 2.1% | Department of Commerce NIST LOIs & DOE $2B quantum initiatives |
 | 4 | `4. Executive, Federal & Partner Announcements` | **158** | 29.8% | White House releases, Cabinet agency press, hyperscaler & lab announcements |
-| 5 | `5. National Labs & University Coverage` | **254** | 47.9% | National Laboratory news portals & 64 awardee university press releases |
+| 5 | `5. National Labs & University Coverage` | **255** | 48.0% | National Laboratory news portals & 65 awardee university press releases |
 | 6 | `6. Additional Event Materials & Reference Links` | **16** | 3.0% | Presentation slide decks, institutional intro files & video recordings |
-| 7 | `7. Technical Documents, RFA Guidance & Official Webinars` | **13** | 2.5% | DE-FOA-0003612 solicitations, OSTP challenge papers & SCAC presentations |
+| 7 | `7. Technical Documents, RFA Guidance & Official Webinars` | **13** | 2.4% | DE-FOA-0003612 solicitations, OSTP challenge papers & SCAC presentations |
 
 ---
 
@@ -67,12 +67,13 @@ Below is the distribution of references grouped by top domain hosts and institut
 | `www.newswise.com` | **3** | Scientific News Distribution Network (Newswise) | Argonne, PPPL, Georgia Tech DOE Genesis press releases |
 | `opal-doe.org` | **1** | Orchestrated Platform for Autonomous Labs (OPAL) | Multi-lab autonomous laboratory orchestration platform (`opal-doe.org`) |
 | `www.fusionindustryassociation.org` | **1** | Fusion Industry Association (FIA) | FIA FY28 federal budget advocacy — $1.114B DOE fusion investment, $2B Fusion Milestone program |
+| `www.unlv.edu` | **1** | University Newsroom | UNLV College of Engineering Genesis Mission nuclear reactor safety AI project |
 
 ---
 
 ## 4. Master Reference Link Index
 
-A complete tabular listing of all 530 indexed reference links:
+A complete tabular listing of all 531 indexed reference links:
 
 | # | Category / Section | Entity / Subject | Title | Domain | Type | Link | Status |
 |---|---|---|---|---|:---:|---|:---:|
@@ -605,3 +606,4 @@ A complete tabular listing of all 530 indexed reference links:
 | 528 | 5. National Labs & University Coverage | Boston University (BU) | BU Partners on DOE Genesis Mission Award to Advance AI-Driven Plasma Physics Research | `www.bu.edu` | Web | [BU Partners on DOE Genesis Mission Award to Advance AI-Driven Plasma Physics Research](https://www.bu.edu/eng/2026/08/11/bu-partners-on-doe-genesis-mission-award-to-advance-ai-driven-plasma-physics-research/) | `Processed` |
 | 529 | 5. National Labs & University Coverage | Brookhaven National Laboratory (BNL) | Energy Department Announces $7.3M for Quantum Technology Outposts — BNL Leads Quantum Information Signatures at Colliders | `www.bnl.gov` | Web | [Energy Department Announces $7.3M for Quantum Technology Outposts — BNL Leads Quantum Information Signatures at Colliders](https://www.bnl.gov/newsroom/news.php?a=223107) | `Processed` |
 | 530 | 5. National Labs & University Coverage | University of Virginia (UVA) | UVA Engineering's Ferdinando Fioretto Selected for U.S. Department of Energy Genesis Mission | `engineering.virginia.edu` | Web | [UVA Engineering's Ferdinando Fioretto Selected for U.S. Department of Energy Genesis Mission](https://engineering.virginia.edu/news-events/news/uva-engineerings-ferdinando-fioretto-selected-us-department-energy-genesis-mission) | `Processed` |
+| 531 | 5. National Labs & University Coverage | University of Nevada, Las Vegas (UNLV) | UNLV College of Engineering Project Selected for Prestigious Genesis Mission | `www.unlv.edu` | Web | [UNLV College of Engineering Project Selected for Prestigious Genesis Mission](https://www.unlv.edu/news/accomplishments/unlv-college-engineering) | `Processed` |
