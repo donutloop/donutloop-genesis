@@ -1,4 +1,4 @@
-**Version**: 3.5.24
+**Version**: 3.6.0
 
 # Die Genesis-Mission: Architektur, strategische Initiativen und das multi-institutionelle Ökosystem für KI- und quantengetriebene wissenschaftliche Entdeckungen
 
@@ -909,6 +909,7 @@ Industrielle Mitwirkende umfassen Cloud- und KI-Hyperscaler, Halbleiterherstelle
 | [LILA](https://www.lila.ai/) | Kollaborative KI-Plattform für wissenschaftliche Entdeckungen; multi-institutioneller Hub & agentische Arbeitsabläufe |
 | [Everstar](https://www.everstar.ai/) | KI-Biopharma & multi-agentische wissenschaftliche Entdeckungsplattform; Proteindesign & MSFT Discovery-Integration |
 | [Arcee AI](https://arcee.ai/) | Genesis-Science-1 (GS1) Open-Weight wissenschaftliche KI-Modellfamilie Co-Entwicklung, Datensatzkuratierung & verwaltete Arbeitsumgebungen |
+| [Wiley](https://www.wiley.com/) | Wissenschaftlicher Verlag des Konsortiums; KI-gestützte Forschungsinfrastruktur, fachlich validierte Workflows, Research Intelligence & evidenzverknüpfte Inhalte für vertrauenswürdige wissenschaftliche KI |
 
 #### Halbleiter, EDA & Industriepartner
 | Organisation | Primärer Beitrag |
