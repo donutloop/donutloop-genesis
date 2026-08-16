@@ -273,26 +273,34 @@
 
 ---
 
+## Scientific Publishing & Research Intelligence
+
+| # | Organization | Coverage | Paper Section | Notes |
+|---|-------------|----------|---------------|-------|
+| 192 | [Wiley](https://www.wiley.com/) | ❌ Not Covered | — | Genesis Mission Consortium member; AI-powered research infrastructure, expert-validated workflows, and evidence-linked scientific content (reference only) |
+
+---
+
 ## Summary
 
 ### By Entity Type
 
 | Entity Type | Total | ✅ Full | 📋 Brief | ❌ Not Covered |
 |:---|:---:|:---:|:---:|:---:|
-| Industry Partners | 76 | 75 | 0 | 1 |
+| Industry Partners | 77 | 75 | 0 | 2 |
 | Federal Agencies | 10 | 10 | 0 | 0 |
 | National Laboratories & Defense Sites | 22 | 22 | 0 | 0 |
 | Universities | 70 | 68 | 0 | 2 |
 | Philanthropy, Policy & Regional Hubs | 13 | 12 | 0 | 1 |
-| **Total** | **191** | **187** | **0** | **4** |
+| **Total** | **192** | **187** | **0** | **5** |
 
 ### By Coverage Level
 
 | Coverage Level | Count | Percentage |
 |:---|:---:|:---:|
-| ✅ Full Profile | 187 | 97.9% |
+| ✅ Full Profile | 187 | 97.4% |
 | 📋 Brief Mention | 0 | 0.0% |
-| ❌ Not Covered | 4 | 2.1% |
-| **Total Entities** | **191** | **100%** |
+| ❌ Not Covered | 5 | 2.6% |
+| **Total Entities** | **192** | **100%** |
 
-> **Note:** The tracker now covers 191 Genesis Mission ecosystem participants, with 187 entities in dedicated technical write-ups (97.9% full-profile coverage) and X-energy, Colorado School of Mines, St. Joseph's University, New York, and ORISE registered as reference-only participants. The broader sub-grantee network of 342 participating institutions represents secondary academic and sub-contractor nodes across the 278 national project awards.
+> **Note:** The tracker now covers 192 Genesis Mission ecosystem participants, with 187 entities in dedicated technical write-ups (97.4% full-profile coverage) and Wiley, X-energy, Colorado School of Mines, St. Joseph's University, New York, and ORISE registered as reference-only participants. The broader sub-grantee network of 342 participating institutions represents secondary academic and sub-contractor nodes across the 278 national project awards.
