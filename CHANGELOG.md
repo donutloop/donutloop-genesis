@@ -5,6 +5,16 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.5.14] - 2026-08-16
+
+### Added
+- **Reference Index Entry #543**: Processed *Genesis Mission National Science and Technology Challenges Team Fact Sheet* (`www.energy.gov`) under Section 7 (*Technical Documents, RFA Guidance & Official Webinars*) in `references.md`.
+- **Master Index Update**: Registered entry #543 in `reference_coverage.md`; synchronized Total Reference Links (542 → 543), Official PDFs (18 → 19), the `www.energy.gov` domain count (32 → 33), and Section 7 count (14 → 15). Processing Status: **543 / 543 Processed, 100% Complete**.
+- **Research Paper Enrichment — §1.1 (README.md & README.de.md)**: Added the Challenges Team's federated, co-designed execution model for the original 26 challenges across energy dominance, discovery science, and national security.
+- **Patch Version Release**: Incremented version strings to `3.5.14` across `README.md` and `README.de.md`. Index completion: **543 / 543 Processed, 100% Complete**.
+
+---
+
 ## [3.5.13] - 2026-08-16
 
 ### Added
