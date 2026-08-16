@@ -579,6 +579,7 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
 * **University of Virginia (UVA):** [Ferdinando Fioretto Selected for U.S. Department of Energy Genesis Mission](https://engineering.virginia.edu/news-events/news/uva-engineerings-ferdinando-fioretto-selected-us-department-energy-genesis-mission)
 * **University of Washington:** [White House Launches Genesis Mission for AI (Federal Relations)](https://www.washington.edu/federalrelations/2025/11/25/wh-launches-genesis-mission-for-ai/)
 * **George Mason University:** [Computer Scientist Receives DOE Genesis Award for Breakthrough AI-HPC Research](https://www.gmu.edu/news/2026-08/george-mason-computer-scientist-receives-doe-genesis-award-breakthrough-ai-hpc)
+* **The Ohio State University:** [Ohio State Researchers to Lead National Teams Exploring Science, AI Innovation](https://news.osu.edu/ohio-state-researchers-to-lead-national-teams-exploring-science-ai-innovation/)
 * **Oklahoma State University:** [Selected for U.S. Department of Energy's Genesis Mission Initiative](https://news.okstate.edu/articles/engineering-architecture-technology/2026/oklahoma-state-university-selected-for-u.s.-department-of-energys-genesis-mission-initiative)
 * **University of Wisconsin–Madison:**
   * [5 Projects Receive Funding](https://news.wisc.edu/5-projects-at-uwmadison-aimed-at-transforming-science-and-energy-with-ai-receive-doe-genesis-mission-funding/)

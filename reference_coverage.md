@@ -1,7 +1,7 @@
 # Genesis Mission — Master Reference Coverage Report
 
 > **Document Overview:**
-> This report provides a comprehensive coverage analysis, breakdown, and master audit index for the **554 external reference links** compiled within `references.md` for the **Genesis Mission** documentation repository.
+> This report provides a comprehensive coverage analysis, breakdown, and master audit index for the **555 external reference links** compiled within `references.md` for the **Genesis Mission** documentation repository.
 
 ---
 
@@ -9,13 +9,13 @@
 
 | Metric | Count / Value | Description |
 | :--- | :--- | :--- |
-| **Total Reference Links** | **554** | Unique external links indexed across all sections |
+| **Total Reference Links** | **555** | Unique external links indexed across all sections |
 | **Primary Document Sections** | **7** | High-level thematic categories in `references.md` |
-| **Unique Target Domains** | **243** | Distinct domain names referenced (government, lab, corporate, academic, news) |
+| **Unique Target Domains** | **244** | Distinct domain names referenced (government, lab, corporate, academic, news) |
 | **Official PDF Documents** | **20** | Formal RFA solicitations, webinars, slides, and executive reports |
-| **Web Portals & Press Releases** | **533** | Newsroom features, corporate blog posts, and interactive hubs |
+| **Web Portals & Press Releases** | **534** | Newsroom features, corporate blog posts, and interactive hubs |
 | **Validation Status** | **100% Validated** | All links canonicalized, formatted, and deduplicated |
-| **Processing Status** | **554 / 554 Processed** | 0 Unprocessed, 554 Processed (100% Complete) |
+| **Processing Status** | **555 / 555 Processed** | 0 Unprocessed, 555 Processed (100% Complete) |
 
 ---
 
@@ -26,8 +26,8 @@
 | 1 | `1. Key Presentation Details` | **3** | 0.5% | Briefing agendas, U.S. ATLAS IB meeting details & CERN links |
 | 2 | `2. Collaborators` | **75** | 13.5% | Official homepage & announcement links for industrial/energy partners |
 | 3 | `3. Quantum Leadership & CHIPS Act Initiatives` | **11** | 2.0% | Department of Commerce NIST LOIs & DOE $2B quantum initiatives |
-| 4 | `4. Executive, Federal & Partner Announcements` | **166** | 30.0% | White House releases, Cabinet agency press, hyperscaler & lab announcements |
-| 5 | `5. National Labs & University Coverage` | **266** | 48.0% | National Laboratory news portals & 66 awardee university press releases |
+| 4 | `4. Executive, Federal & Partner Announcements` | **166** | 29.9% | White House releases, Cabinet agency press, hyperscaler & lab announcements |
+| 5 | `5. National Labs & University Coverage` | **267** | 48.1% | National Laboratory news portals & 66 awardee university press releases |
 | 6 | `6. Additional Event Materials & Reference Links` | **17** | 3.1% | Presentation slide decks, institutional intro files & video recordings |
 | 7 | `7. Technical Documents, RFA Guidance & Official Webinars` | **16** | 2.9% | DE-FOA-0003612 solicitations, OSTP challenge papers, SCAC presentations & peer-reviewed AI-for-science research |
 
@@ -83,12 +83,13 @@ Below is the distribution of references grouped by top domain hosts and institut
 | `x-energy.com` | **1** | X-energy | Project Prometheus AI-accelerated advanced-nuclear deployment announcement |
 | `www.aau.edu` | **3** | Association of American Universities (AAU) | Academic talent-mobilization policy response, first Genesis Awards university-participation coverage, and DOE research-university AI-for-science partnership |
 | `newsroom.wiley.com` | **1** | Wiley | Scientific-publisher Genesis Mission Consortium announcement and trusted AI research-intelligence support |
+| `news.osu.edu` | **1** | The Ohio State University | Ohio State-led AI-for-orbital-electronics materials and robust bidirectional PINN complex-flow modeling teams |
 
 ---
 
 ## 4. Master Reference Link Index
 
-A tabular master index for the 554-reference collection:
+A tabular master index for the 555-reference collection:
 
 | # | Category / Section | Entity / Subject | Title | Domain | Type | Link | Status |
 |---|---|---|---|---|:---:|---|:---:|
@@ -645,3 +646,4 @@ A tabular master index for the 554-reference collection:
 | 552 | 4. Executive, Federal & Partner Announcements | Wiley | Wiley Joins U.S. Department of Energy's Genesis Mission Consortium to Advance AI-Powered Scientific Discovery | `newsroom.wiley.com` | Web | [Wiley Joins U.S. Department of Energy's Genesis Mission Consortium to Advance AI-Powered Scientific Discovery](https://newsroom.wiley.com/press-releases/press-release-details/2026/Wiley-Joins-U-S--Department-of-Energys-Genesis-Mission-Consortium-to-Advance-AI-Powered-Scientific-Discovery/default.aspx) | `Processed` |
 | 553 | 5. National Labs & University Coverage | Brookhaven National Laboratory (BNL) | Turning Uncertainty into a Design Tool for AI-Engineered Molecules | `www.bnl.gov` | Web | [Turning Uncertainty into a Design Tool for AI-Engineered Molecules](https://www.bnl.gov/newsroom/news.php?a=222882) | `Processed` |
 | 554 | 4. Executive, Federal & Partner Announcements | Association of American Universities (AAU) | Research Universities, DOE Kick Off Partnership to Accelerate Science Through AI | `www.aau.edu` | Web | [Research Universities, DOE Kick Off Partnership to Accelerate Science Through AI](https://www.aau.edu/newsroom/research-universities-doe-kick-partnership-accelerate) | `Processed` |
+| 555 | 5. National Labs & University Coverage | The Ohio State University | Ohio State Researchers to Lead National Teams Exploring Science, AI Innovation | `news.osu.edu` | Web | [Ohio State Researchers to Lead National Teams Exploring Science, AI Innovation](https://news.osu.edu/ohio-state-researchers-to-lead-national-teams-exploring-science-ai-innovation/) | `Processed` |
