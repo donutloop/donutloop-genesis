@@ -501,7 +501,9 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
 * **Texas State University:** [DOE Genesis Mission Awards Coverage](https://news.txst.edu/research-and-innovation/2026/doe-genesis-mission.html)
 * **Tulane University:** [Team Selected to Discover Next Generation Materials Using AI](https://news.tulane.edu/pr/department-energys-genesis-mission-selects-tulane-team-using-ai-discover-next-generation)
 * **UC Berkeley (College of Chemistry):** [Awarded DOE Genesis Mission Grant](https://chemistry.berkeley.edu/news/uc-berkeley-college-chemistry-awarded-doe-genesis-mission-grant)
-* **UC Davis:** [Researchers Selected for Landmark DOE Genesis Mission Awards](https://www.ucdavis.edu/news/uc-davis-researchers-selected-landmark-doe-genesis-mission-awards-harness-ai-scientific)
+* **UC Davis:**
+  * [Researchers Selected for Landmark DOE Genesis Mission Awards](https://www.ucdavis.edu/news/uc-davis-researchers-selected-landmark-doe-genesis-mission-awards-harness-ai-scientific)
+  * [DOE Genesis Award Recipients](https://research.ucdavis.edu/doe-genesis-award-recipients/)
 * **UC Santa Barbara (UCSB):**
   * [Two UCSB-Led Projects Selected for DOE's Genesis Mission](https://news.ucsb.edu/2026/022708/two-ucsb-led-projects-selected-does-genesis-mission)
   * [Chemists Justin Wilson and Yang Yang Join DOE's Genesis Mission](https://science.ucsb.edu/news/chemists-justin-wilson-and-yang-yang-join-does-genesis-mission)
