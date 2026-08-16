@@ -501,7 +501,9 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
 * **Tulane University:** [Team Selected to Discover Next Generation Materials Using AI](https://news.tulane.edu/pr/department-energys-genesis-mission-selects-tulane-team-using-ai-discover-next-generation)
 * **UC Berkeley (College of Chemistry):** [Awarded DOE Genesis Mission Grant](https://chemistry.berkeley.edu/news/uc-berkeley-college-chemistry-awarded-doe-genesis-mission-grant)
 * **UC Davis:** [Researchers Selected for Landmark DOE Genesis Mission Awards](https://www.ucdavis.edu/news/uc-davis-researchers-selected-landmark-doe-genesis-mission-awards-harness-ai-scientific)
-* **UC Santa Barbara (UCSB):** [Two UCSB-Led Projects Selected for DOE's Genesis Mission](https://news.ucsb.edu/2026/022708/two-ucsb-led-projects-selected-does-genesis-mission)
+* **UC Santa Barbara (UCSB):**
+  * [Two UCSB-Led Projects Selected for DOE's Genesis Mission](https://news.ucsb.edu/2026/022708/two-ucsb-led-projects-selected-does-genesis-mission)
+  * [Chemists Justin Wilson and Yang Yang Join DOE's Genesis Mission](https://science.ucsb.edu/news/chemists-justin-wilson-and-yang-yang-join-does-genesis-mission)
 * **UNC Charlotte:**
   * [Projects Named in First Cohort of DOE Genesis Mission](https://inside.charlotte.edu/2026/07/22/unc-charlotte-projects-named-in-first-cohort-of-u-s-department-of-energy-genesis-mission/)
   * [Projects Join DOE Genesis Mission and Student AI Fellows Put LLMs to Work](https://inside.charlotte.edu/2026/07/27/unc-charlotte-projects-join-the-department-of-energy-genesis-mission-and-student-ai-fellows-put-large-language-models-to-work/)
