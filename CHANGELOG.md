@@ -5,6 +5,16 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.5.9] - 2026-08-16
+
+### Added
+- **Reference Index Entry #538**: Processed *Complete List of Brookhaven Lab Genesis Mission Phase I Projects* (`www.bnl.gov`) under Section 5 (*National Labs & University Coverage*) in `references.md`.
+- **Master Index Update**: Registered entry #538 in `reference_coverage.md`; synchronized Total Reference Links (537 → 538), Web Portals (518 → 519), the `www.bnl.gov` domain count (5 → 6), and Section 5 count (257 → 258). Processing Status: **538 / 538 Processed, 100% Complete**.
+- **Research Paper Enrichment — §3.2 (README.md & README.de.md)**: Added BNL's seven Phase I leads and 29 partner projects, covering accelerator digital twins, composable foundation models, cloud microphysics, MARS multi-agent RL, cold-atom quantum sensing, microelectronics co-design, and AI-ready collider computing.
+- **Patch Version Release**: Incremented version strings to `3.5.9` across `README.md` and `README.de.md`. Index completion: **538 / 538 Processed, 100% Complete**.
+
+---
+
 ## [3.5.8] - 2026-08-16
 
 ### Added

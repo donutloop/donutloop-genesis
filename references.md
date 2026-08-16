@@ -337,6 +337,7 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
   * [Inaugural Genesis Mission Initiatives at BNL](https://www.bnl.gov/newsroom/news.php?a=122725)
   * [Genesis Mission Science and Computing Breakthroughs](https://www.bnl.gov/newsroom/news.php?a=222774)
   * [Energy Department Announces $7.3M for Quantum Technology Outposts — BNL Leads Quantum Information Signatures at Colliders](https://www.bnl.gov/newsroom/news.php?a=223107)
+  * [Complete List of Brookhaven Lab Genesis Mission Phase I Projects](https://www.bnl.gov/newsroom/news.php?a=223070)
   * [WANDA 2024 Proceedings (Nuclear Data Working Group PDF)](https://www.nndc.bnl.gov/ndwg/docs/wanda/WANDA-2024-Proceedings.pdf)
 * **Fermilab:** 
   * [DOE Invests to Accelerate AI-Enabled Discovery](https://news.fnal.gov/2026/07/u-s-department-of-energy-invests-in-fermilab-projects-to-accelerate-ai-enabled-scientific-discovery/)
