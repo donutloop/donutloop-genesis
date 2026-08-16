@@ -508,6 +508,7 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
   * [Two UCSB-Led Projects Selected for DOE's Genesis Mission](https://news.ucsb.edu/2026/022708/two-ucsb-led-projects-selected-does-genesis-mission)
   * [Chemists Justin Wilson and Yang Yang Join DOE's Genesis Mission](https://science.ucsb.edu/news/chemists-justin-wilson-and-yang-yang-join-does-genesis-mission)
   * [Two UCSB-Led Projects Selected for DOE's Genesis Mission](https://engineering.ucsb.edu/news/2026-Genesis-DOE-Projects)
+  * [Two UC Santa Barbara-Led Projects Selected for DOE's Genesis Mission](https://bioengineering.ucsb.edu/news/all/2026/two-uc-santa-barbara-led-projects-selected-does-genesis-mission)
 * **UNC Charlotte:**
   * [Projects Named in First Cohort of DOE Genesis Mission](https://inside.charlotte.edu/2026/07/22/unc-charlotte-projects-named-in-first-cohort-of-u-s-department-of-energy-genesis-mission/)
   * [Projects Join DOE Genesis Mission and Student AI Fellows Put LLMs to Work](https://inside.charlotte.edu/2026/07/27/unc-charlotte-projects-join-the-department-of-energy-genesis-mission-and-student-ai-fellows-put-large-language-models-to-work/)

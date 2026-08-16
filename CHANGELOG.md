@@ -5,6 +5,16 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.5.18] - 2026-08-16
+
+### Added
+- **Reference Index Entry #547**: Processed *Two UC Santa Barbara-Led Projects Selected for DOE's Genesis Mission* (`bioengineering.ucsb.edu`) under Section 5 (*National Labs & University Coverage*) in `references.md`.
+- **Master Index Update**: Registered entry #547 in `reference_coverage.md`; synchronized Total Reference Links (546 → 547), Web Portals (525 → 526), the Section 5 count (263 → 264), and the new `bioengineering.ucsb.edu` domain. Processing Status: **547 / 547 Processed, 100% Complete**.
+- **Research Paper Enrichment — §3.3 (README.md & README.de.md)**: Added the UCSB Bioengineering source for the O'Malley and Wilson Phase I projects, including the HARVEST-CMM AI-enabled critical-mineral extraction and protein-design workflow.
+- **Patch Version Release**: Incremented version strings to `3.5.18` across `README.md` and `README.de.md`. Index completion: **547 / 547 Processed, 100% Complete**.
+
+---
+
 ## [3.5.17] - 2026-08-16
 
 ### Added
