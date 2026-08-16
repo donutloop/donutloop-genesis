@@ -608,6 +608,7 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
 * [DOE Office of Science: Genesis Mission RFA Informational Webinar — Basic Energy Sciences (BES) (PDF)](https://science.osti.gov/-/media/grants/pdf/foas-resources/2026/Genesis-Mission-RFA-Informational-Webinar--BES-v1-public.pdf)
 * [DOE Office of Science: HEP & NP Genesis Mission RFA Informational Webinar (PDF)](https://science.osti.gov/-/media/grants/pdf/foas-resources/2026/HEP-NP-Genesis-Mission-RFA-Informational-Webinar.pdf)
 * [DOE Office of Science: Genesis Mission RFA Informational Webinar — Fusion Energy Sciences (FES) (PDF)](https://science.osti.gov/-/media/grants/pdf/foas-resources/2026/Genesis-Mission-RFA-Informational-Webinar-v2-public--clean--FES.pdf)
+* [Boise State University Office of Sponsored Programs: DE-FOA-0003612 Topic Focus Areas (PDF)](https://www.boisestate.edu/research-osp/wp-content/uploads/sites/233/2026/03/DE-FOA-0003612-Topic-Focus-Areas-1.pdf)
 * [DOE Office of Science: DE-FOA-0003612 Amendment 000003 (PDF)](https://science.osti.gov/-/media/grants/pdf/foas/2026/DE-FOA-0003612-000003.pdf)
 * [DOE Office of Science (SCAC): DOE Genesis Mission Launched Presentation (PDF)](https://science.osti.gov/-/media/About/pdf/scac/meetings/2026/DOE-Genesis-Mission-Launched---2026-03-27.pdf)
 * [OSTP: OSTP Genesis Mission Science and Technology Challenges Document](https://www.energy.gov/documents/ostp-genesis-mission-science-and-technology-challenges)

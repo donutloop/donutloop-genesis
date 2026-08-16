@@ -5,6 +5,16 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.5.16] - 2026-08-16
+
+### Added
+- **Reference Index Entry #545**: Processed *DE-FOA-0003612 Topic Focus Areas* (`www.boisestate.edu`) under Section 7 (*Technical Documents, RFA Guidance & Official Webinars*) in `references.md`.
+- **Master Index Update**: Registered entry #545 in `reference_coverage.md`; synchronized Total Reference Links (544 → 545), Official PDFs (19 → 20), unique domains (237 → 238), and Section 7 count (15 → 16). Processing Status: **545 / 545 Processed, 100% Complete**.
+- **Research Paper Enrichment — §3.3 (README.md & README.de.md)**: Added the FOA’s eight AI-enabled topic focus areas: advanced manufacturing, biotechnology, critical materials, nuclear fission and fusion, quantum information science, semiconductors and microelectronics, discovery science, and energy systems.
+- **Patch Version Release**: Incremented version strings to `3.5.16` across `README.md` and `README.de.md`. Index completion: **545 / 545 Processed, 100% Complete**.
+
+---
+
 ## [3.5.15] - 2026-08-16
 
 ### Added

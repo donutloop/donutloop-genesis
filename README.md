@@ -1,4 +1,4 @@
-**Version**: 3.5.15
+**Version**: 3.5.16
 
 # The Genesis Mission: Architecture, Strategic Initiatives, and the Multi-Institutional Ecosystem for AI- and Quantum-Driven Scientific Discoveries
 
@@ -780,7 +780,7 @@ The financial architecture of the Genesis Mission integrates five distinct capit
 +------------------+ +------------------------+ +------------------------+ +-----------------+
 ```
 
-1. **DE-FOA-0003612 (DOE Office of Science Direct Grants & Partner Support):** The flagship solicitation DE-FOA-0003612 (*The Genesis Mission: Transforming Science and Energy with AI*, Assistance Listing 81.049) provides **$293 Million** in direct DOE funding, awarding **278 research project awards** (spanning 342 institutions across all 50 states: 87 National Lab-led, 168 University-led, 19 Industry-led, 4 Non-profit-led) across Phase I ($500k–$750k 9-month exploratory) and Phase II ($6M–$15M 3-year scale-up) grants. This federal baseline catalyzed **over $800 Million** in committed partner support across 41 Genesis Mission Consortium members.
+1. **DE-FOA-0003612 (DOE Office of Science Direct Grants & Partner Support):** The flagship solicitation DE-FOA-0003612 (*The Genesis Mission: Transforming Science and Energy with AI*, Assistance Listing 81.049) provides **$293 Million** in direct DOE funding, awarding **278 research project awards** (spanning 342 institutions across all 50 states: 87 National Lab-led, 168 University-led, 19 Industry-led, 4 Non-profit-led) across Phase I ($500k–$750k 9-month exploratory) and Phase II ($6M–$15M 3-year scale-up) grants. Its topic-focus-area guide directs AI-enabled, multidisciplinary proposals toward advanced manufacturing; biotechnology; critical materials; nuclear fission and fusion; quantum information science; semiconductors and microelectronics; discovery science; and energy systems. This federal baseline catalyzed **over $800 Million** in committed partner support across 41 Genesis Mission Consortium members.
 2. **Interagency & Federal S&T Challenge Allocations:** Over **$3.5 Billion** in dedicated multi-year federal funding spanning participating executive agencies:
    * **DOE Quantum Genesis Initiative:** **$2 Billion** (announced June 2026) to build and deploy scientifically relevant, fault-tolerant quantum supercomputers by 2028 via the DOE Q Competition (150–250 logical qubits), National Quantum Supercomputing User Facility, and QC-ADDS.
    * **NIH / HHS Bio Genesis Mission:** Over **$1.2 Billion** in FY2026/2027 allocations across 6 biomedical challenges (Predicting Living Systems, Scaling Biomanufacturing, Biosecurity, Pediatric Cancer, Drug Discovery, Chronic Disease).
