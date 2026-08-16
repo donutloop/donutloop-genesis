@@ -5,6 +5,16 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.5.11] - 2026-08-16
+
+### Added
+- **Reference Index Entry #540**: Processed *AlphaEvolve Is Available for Everyone* (`cloud.google.com`) under Section 4 (*Executive, Federal & Partner Announcements*) in `references.md`.
+- **Master Index Update**: Registered entry #540 in `reference_coverage.md`; synchronized Total Reference Links (539 → 540), Web Portals (520 → 521), the `cloud.google.com` domain count (2 → 3), and Section 4 count (160 → 161). Processing Status: **540 / 540 Processed, 100% Complete**.
+- **Research Paper Enrichment — §3.1 (README.md & README.de.md)**: Added AlphaEvolve's broad Google Cloud availability and its Gemini-powered evolutionary optimization loop for scientific and HPC code.
+- **Patch Version Release**: Incremented version strings to `3.5.11` across `README.md` and `README.de.md`. Index completion: **540 / 540 Processed, 100% Complete**.
+
+---
+
 ## [3.5.10] - 2026-08-16
 
 ### Added
