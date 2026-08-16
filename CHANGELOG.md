@@ -5,6 +5,17 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.5.2] - 2026-08-16
+
+### Added
+- **Reference Index Entry #531**: Processed *UNLV College of Engineering Project Selected for Prestigious Genesis Mission* (`www.unlv.edu`) under Section 5 (*National Labs & University Coverage*) in `references.md`.
+- **Master Index Update**: Registered entry #531 in `reference_coverage.md`; synchronized Total Reference Links (530 → 531), Web Portals (511 → 512), Unique Target Domains (231 → 232), Section 5 count (254 → 255), and Processing Status (531 / 531 Processed, 100% Complete).
+- **Coverage Matrix Update**: Added **University of Nevada, Las Vegas (UNLV)** (#165) to `coverage.md` under *Research Universities* with status `✅ Full Profile`; updated university and overall profile totals to **68** and **188**, respectively.
+- **Research Paper Enrichment — §3.3 & Appendix A.5 (README.md & README.de.md)**: Added UNLV Prof. WooHyun Jung's $750,000 nine-month Phase I project applying AI to MELCOR severe-accident safety simulations, with a target to reduce model-development time from months to weeks.
+- **Patch Version Release**: Incremented version strings to `3.5.2` across `README.md` and `README.de.md`. Index completion: **531 / 531 Processed, 100% Complete**.
+
+---
+
 ## [3.5.1] - 2026-08-14
 
 ### Added
