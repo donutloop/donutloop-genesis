@@ -1,7 +1,7 @@
 # Genesis Mission — Master Reference Coverage Report
 
 > **Document Overview:**
-> This report provides a comprehensive coverage analysis, breakdown, and master audit index of all **535 external reference links** compiled within `references.md` for the **Genesis Mission** documentation repository.
+> This report provides a comprehensive coverage analysis, breakdown, and master audit index of all **536 external reference links** compiled within `references.md` for the **Genesis Mission** documentation repository.
 
 ---
 
@@ -9,13 +9,13 @@
 
 | Metric | Count / Value | Description |
 | :--- | :--- | :--- |
-| **Total Reference Links** | **535** | Unique external links indexed across all sections |
+| **Total Reference Links** | **536** | Unique external links indexed across all sections |
 | **Primary Document Sections** | **7** | High-level thematic categories in `references.md` |
 | **Unique Target Domains** | **233** | Distinct domain names referenced (government, lab, corporate, academic, news) |
 | **Official PDF Documents** | **18** | Formal RFA solicitations, webinars, slides, and executive reports |
-| **Web Portals & Press Releases** | **516** | Newsroom features, corporate blog posts, and interactive hubs |
+| **Web Portals & Press Releases** | **517** | Newsroom features, corporate blog posts, and interactive hubs |
 | **Validation Status** | **100% Validated** | All links canonicalized, formatted, and deduplicated |
-| **Processing Status** | **535 / 535 Processed** | 0 Unprocessed, 535 Processed (100% Complete) |
+| **Processing Status** | **536 / 536 Processed** | 0 Unprocessed, 536 Processed (100% Complete) |
 
 ---
 
@@ -26,8 +26,8 @@
 | 1 | `1. Key Presentation Details` | **3** | 0.6% | Briefing agendas, U.S. ATLAS IB meeting details & CERN links |
 | 2 | `2. Collaborators` | **75** | 14.0% | Official homepage & announcement links for industrial/energy partners |
 | 3 | `3. Quantum Leadership & CHIPS Act Initiatives` | **11** | 2.1% | Department of Commerce NIST LOIs & DOE $2B quantum initiatives |
-| 4 | `4. Executive, Federal & Partner Announcements` | **160** | 30.0% | White House releases, Cabinet agency press, hyperscaler & lab announcements |
-| 5 | `5. National Labs & University Coverage` | **256** | 47.9% | National Laboratory news portals & 66 awardee university press releases |
+| 4 | `4. Executive, Federal & Partner Announcements` | **160** | 29.9% | White House releases, Cabinet agency press, hyperscaler & lab announcements |
+| 5 | `5. National Labs & University Coverage` | **257** | 47.9% | National Laboratory news portals & 66 awardee university press releases |
 | 6 | `6. Additional Event Materials & Reference Links` | **17** | 3.2% | Presentation slide decks, institutional intro files & video recordings |
 | 7 | `7. Technical Documents, RFA Guidance & Official Webinars` | **13** | 2.4% | DE-FOA-0003612 solicitations, OSTP challenge papers & SCAC presentations |
 
@@ -40,7 +40,7 @@ Below is the distribution of references grouped by top domain hosts and institut
 | Domain Host | Reference Count | Host Category | Key Represented Institutions / Content |
 | :--- | :---: | :--- | :--- |
 | `www.energy.gov` | **32** | U.S. Department of Energy (DOE) | FOA releases, Secretary announcements, OSTP challenge docs, Office of the Under Secretary for Science leadership, and SBIR/STTR funding |
-| `www.anl.gov` | **19** | Argonne National Laboratory (ANL) | ALCF compute platforms, Genesis Open Models, SPOTTER, RoSA robotics, MIRAGE |
+| `www.anl.gov` | **20** | Argonne National Laboratory (ANL) | ALCF compute platforms, Genesis Open Models, SPOTTER, RoSA robotics, MIRAGE, 2025 research breakthroughs |
 | `science.osti.gov` | **9** | DOE Office of Science (OSTI) | DE-FOA-0003612 guidance, BES/FES/HEP webinars, FAQs |
 | `www.whitehouse.gov` | **7** | White House OSTP / Executive Office | Presidential executive actions, OSTP wins reports, press releases |
 | `inl.gov` | **6** | Idaho National Laboratory (INL) | SMR digital twins, nuclear AI permitting, autonomous reactor control |
@@ -75,7 +75,7 @@ Below is the distribution of references grouped by top domain hosts and institut
 
 ## 4. Master Reference Link Index
 
-A complete tabular listing of all 535 indexed reference links:
+A complete tabular listing of all 536 indexed reference links:
 
 | # | Category / Section | Entity / Subject | Title | Domain | Type | Link | Status |
 |---|---|---|---|---|:---:|---|:---:|
@@ -613,3 +613,4 @@ A complete tabular listing of all 535 indexed reference links:
 | 533 | 4. Executive, Federal & Partner Announcements | Kristen Ellis | DOE Office of the Under Secretary for Science: Kristen Ellis, Associate Principal Deputy Under Secretary | `www.energy.gov` | Web | [DOE Office of the Under Secretary for Science: Kristen Ellis, Associate Principal Deputy Under Secretary](https://www.energy.gov/undersecretaryforscience/person/kristen-ellis) | `Processed` |
 | 534 | 4. Executive, Federal & Partner Announcements | U.S. Department of Energy (DOE) | DOE Announces $10M SBIR/STTR Funding Opportunity Supporting the Genesis Mission | `www.energy.gov` | Web | [DOE Announces $10M SBIR/STTR Funding Opportunity Supporting the Genesis Mission](https://www.energy.gov/technologycommercialization/articles/doe-announces-10m-sbirsttr-funding-opportunity-supporting) | `Processed` |
 | 535 | 6. Additional Event Materials & Reference Links | ORISE Peer Review | Genesis Mission Annual Summit | `youtu.be` | Web | [Genesis Mission Annual Summit](https://youtu.be/TobhuGA4W20) | `Processed` |
+| 536 | 5. National Labs & University Coverage | Argonne National Laboratory (ANL) | What Were Argonne's Top Science Research Breakthroughs in 2025? | `www.anl.gov` | Web | [What Were Argonne's Top Science Research Breakthroughs in 2025?](https://www.anl.gov/article/what-were-argonnes-top-science-research-breakthroughs-in-2025) | `Processed` |
