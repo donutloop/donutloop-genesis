@@ -1,4 +1,4 @@
-**Version**: 3.5.7
+**Version**: 3.5.8
 
 # Die Genesis-Mission: Architektur, strategische Initiativen und das multi-institutionelle Ökosystem für KI- und quantengetriebene wissenschaftliche Entdeckungen
 
@@ -365,6 +365,7 @@ Zu den wichtigsten Highlights der Modalitäten im Rahmen der Quantenzusagen geh�
   - **University of Utah Price Engineering AURORA Cloud Lab**: 20-Mio.-$-Netzwerk zur Integration von KI mit MonArk Quantum Foundry und CloudLab für automatisierte Bauelementfertigung.
   - **Johns Hopkins University Applied Physics Laboratory (JHU APL)**: Robotische Multi-Agenten-Nasslaborsynthese.
   - **Tulane University / Emerald Cloud Lab**: Automatisierte Ausführung von über 200 Laborprotokollen.
+- *Generative Closed-Loop-Wissenschaftsmethodik*: Eine begutachtete Übersicht aus dem Jahr 2026 beschreibt den vollständigen Kreislauf – Hypothesengenerierung, Versuchsplanung und -ausführung sowie Ergebnisvalidierung – als leistungsstarke Architektur für die Grundlagenforschung, verlangt jedoch abgestufte Autonomie: menschliche Kontrolle über Ziele und Bewertungskriterien, überprüfbares domänengerechtes Schlussfolgern sowie aufgezeichnete Daten- und Methodenprovenienz. Diese Schutzmechanismen begrenzen rekursive Verzerrungen und sichern die Reproduzierbarkeit, wenn autonome Laborsysteme skaliert werden.
 
 #### D. Kernenergie, Netzsicherheit und Materialwissenschaften
 - *Idaho National Laboratory (INL)*: Leitet Kernenergie-F&E und führt **Project Prometheus** (32-Partner-60-Mio.-$-Phase-II-Projekt mit 200+ Mio. $ Industrie-Match neben NVIDIA, AWS, ORNL, ANL, SNL, X-energy, Oklo, TerraPower), das Reaktorlizenzierungs- und Betriebskosten um 50 % senkt. Das INL demonstrierte die Fernsteuerung des NRAD-Reaktors und arbeitet mit TVA beim Clinch River SMR zusammen.
@@ -1091,3 +1092,4 @@ Die folgenden technischen Präsentationsaufzeichnungen, Führungskräfte-Briefin
 ## Referenzen & Dokumentenquellen
 
 1. **donutloop Repository**. [Donutloop Genesis Repository: Genesis Mission Curated Research & Technical Reference Index](https://github.com/donutloop/donutloop-genesis/blob/main/references.md). GitHub Open-Source Technical Documentation, 2026.
+2. **Zenil, H., Tegnér, J., Abrahão, F. S., et al.** [The Future of Fundamental Science Led by Generative Closed-Loop Artificial Intelligence](https://pmc.ncbi.nlm.nih.gov/articles/PMC12932417/). *Frontiers in Artificial Intelligence*, 2026.

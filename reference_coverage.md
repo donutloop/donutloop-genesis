@@ -1,7 +1,7 @@
 # Genesis Mission — Master Reference Coverage Report
 
 > **Document Overview:**
-> This report provides a comprehensive coverage analysis, breakdown, and master audit index of all **536 external reference links** compiled within `references.md` for the **Genesis Mission** documentation repository.
+> This report provides a comprehensive coverage analysis, breakdown, and master audit index of all **537 external reference links** compiled within `references.md` for the **Genesis Mission** documentation repository.
 
 ---
 
@@ -9,13 +9,13 @@
 
 | Metric | Count / Value | Description |
 | :--- | :--- | :--- |
-| **Total Reference Links** | **536** | Unique external links indexed across all sections |
+| **Total Reference Links** | **537** | Unique external links indexed across all sections |
 | **Primary Document Sections** | **7** | High-level thematic categories in `references.md` |
-| **Unique Target Domains** | **233** | Distinct domain names referenced (government, lab, corporate, academic, news) |
+| **Unique Target Domains** | **234** | Distinct domain names referenced (government, lab, corporate, academic, news) |
 | **Official PDF Documents** | **18** | Formal RFA solicitations, webinars, slides, and executive reports |
-| **Web Portals & Press Releases** | **517** | Newsroom features, corporate blog posts, and interactive hubs |
+| **Web Portals & Press Releases** | **518** | Newsroom features, corporate blog posts, and interactive hubs |
 | **Validation Status** | **100% Validated** | All links canonicalized, formatted, and deduplicated |
-| **Processing Status** | **536 / 536 Processed** | 0 Unprocessed, 536 Processed (100% Complete) |
+| **Processing Status** | **537 / 537 Processed** | 0 Unprocessed, 537 Processed (100% Complete) |
 
 ---
 
@@ -29,7 +29,7 @@
 | 4 | `4. Executive, Federal & Partner Announcements` | **160** | 29.9% | White House releases, Cabinet agency press, hyperscaler & lab announcements |
 | 5 | `5. National Labs & University Coverage` | **257** | 47.9% | National Laboratory news portals & 66 awardee university press releases |
 | 6 | `6. Additional Event Materials & Reference Links` | **17** | 3.2% | Presentation slide decks, institutional intro files & video recordings |
-| 7 | `7. Technical Documents, RFA Guidance & Official Webinars` | **13** | 2.4% | DE-FOA-0003612 solicitations, OSTP challenge papers & SCAC presentations |
+| 7 | `7. Technical Documents, RFA Guidance & Official Webinars` | **14** | 2.6% | DE-FOA-0003612 solicitations, OSTP challenge papers, SCAC presentations & peer-reviewed AI-for-science research |
 
 ---
 
@@ -70,12 +70,13 @@ Below is the distribution of references grouped by top domain hosts and institut
 | `www.fusionindustryassociation.org` | **1** | Fusion Industry Association (FIA) | FIA FY28 federal budget advocacy — $1.114B DOE fusion investment, $2B Fusion Milestone program |
 | `www.unlv.edu` | **1** | University Newsroom | UNLV College of Engineering Genesis Mission nuclear reactor safety AI project |
 | `oncampus.sjny.edu` | **1** | University Newsroom | St. Joseph's University, New York DOE Genesis Mission nuclear-data AI research |
+| `pmc.ncbi.nlm.nih.gov` | **1** | PubMed Central | Peer-reviewed analysis of generative closed-loop AI for fundamental science |
 
 ---
 
 ## 4. Master Reference Link Index
 
-A complete tabular listing of all 536 indexed reference links:
+A complete tabular listing of all 537 indexed reference links:
 
 | # | Category / Section | Entity / Subject | Title | Domain | Type | Link | Status |
 |---|---|---|---|---|:---:|---|:---:|
@@ -614,3 +615,4 @@ A complete tabular listing of all 536 indexed reference links:
 | 534 | 4. Executive, Federal & Partner Announcements | U.S. Department of Energy (DOE) | DOE Announces $10M SBIR/STTR Funding Opportunity Supporting the Genesis Mission | `www.energy.gov` | Web | [DOE Announces $10M SBIR/STTR Funding Opportunity Supporting the Genesis Mission](https://www.energy.gov/technologycommercialization/articles/doe-announces-10m-sbirsttr-funding-opportunity-supporting) | `Processed` |
 | 535 | 6. Additional Event Materials & Reference Links | ORISE Peer Review | Genesis Mission Annual Summit | `youtu.be` | Web | [Genesis Mission Annual Summit](https://youtu.be/TobhuGA4W20) | `Processed` |
 | 536 | 5. National Labs & University Coverage | Argonne National Laboratory (ANL) | What Were Argonne's Top Science Research Breakthroughs in 2025? | `www.anl.gov` | Web | [What Were Argonne's Top Science Research Breakthroughs in 2025?](https://www.anl.gov/article/what-were-argonnes-top-science-research-breakthroughs-in-2025) | `Processed` |
+| 537 | 7. Technical Documents, RFA Guidance & Official Webinars | Generative Closed-Loop AI | The Future of Fundamental Science Led by Generative Closed-Loop Artificial Intelligence | `pmc.ncbi.nlm.nih.gov` | Web | [The Future of Fundamental Science Led by Generative Closed-Loop Artificial Intelligence](https://pmc.ncbi.nlm.nih.gov/articles/PMC12932417/) | `Processed` |
