@@ -1,7 +1,7 @@
 # Genesis Mission — Master Reference Coverage Report
 
 > **Document Overview:**
-> This report provides a comprehensive coverage analysis, breakdown, and master audit index of all **544 external reference links** compiled within `references.md` for the **Genesis Mission** documentation repository.
+> This report provides a comprehensive coverage analysis, breakdown, and master audit index for the **545 external reference links** compiled within `references.md` for the **Genesis Mission** documentation repository.
 
 ---
 
@@ -9,13 +9,13 @@
 
 | Metric | Count / Value | Description |
 | :--- | :--- | :--- |
-| **Total Reference Links** | **544** | Unique external links indexed across all sections |
+| **Total Reference Links** | **545** | Unique external links indexed across all sections |
 | **Primary Document Sections** | **7** | High-level thematic categories in `references.md` |
-| **Unique Target Domains** | **237** | Distinct domain names referenced (government, lab, corporate, academic, news) |
-| **Official PDF Documents** | **19** | Formal RFA solicitations, webinars, slides, and executive reports |
+| **Unique Target Domains** | **238** | Distinct domain names referenced (government, lab, corporate, academic, news) |
+| **Official PDF Documents** | **20** | Formal RFA solicitations, webinars, slides, and executive reports |
 | **Web Portals & Press Releases** | **524** | Newsroom features, corporate blog posts, and interactive hubs |
 | **Validation Status** | **100% Validated** | All links canonicalized, formatted, and deduplicated |
-| **Processing Status** | **544 / 544 Processed** | 0 Unprocessed, 544 Processed (100% Complete) |
+| **Processing Status** | **545 / 545 Processed** | 0 Unprocessed, 545 Processed (100% Complete) |
 
 ---
 
@@ -26,10 +26,10 @@
 | 1 | `1. Key Presentation Details` | **3** | 0.6% | Briefing agendas, U.S. ATLAS IB meeting details & CERN links |
 | 2 | `2. Collaborators` | **75** | 13.8% | Official homepage & announcement links for industrial/energy partners |
 | 3 | `3. Quantum Leadership & CHIPS Act Initiatives` | **11** | 2.0% | Department of Commerce NIST LOIs & DOE $2B quantum initiatives |
-| 4 | `4. Executive, Federal & Partner Announcements` | **161** | 29.6% | White House releases, Cabinet agency press, hyperscaler & lab announcements |
-| 5 | `5. National Labs & University Coverage` | **262** | 48.2% | National Laboratory news portals & 66 awardee university press releases |
+| 4 | `4. Executive, Federal & Partner Announcements` | **161** | 29.5% | White House releases, Cabinet agency press, hyperscaler & lab announcements |
+| 5 | `5. National Labs & University Coverage` | **262** | 48.1% | National Laboratory news portals & 66 awardee university press releases |
 | 6 | `6. Additional Event Materials & Reference Links` | **17** | 3.1% | Presentation slide decks, institutional intro files & video recordings |
-| 7 | `7. Technical Documents, RFA Guidance & Official Webinars` | **15** | 2.8% | DE-FOA-0003612 solicitations, OSTP challenge papers, SCAC presentations & peer-reviewed AI-for-science research |
+| 7 | `7. Technical Documents, RFA Guidance & Official Webinars` | **16** | 2.9% | DE-FOA-0003612 solicitations, OSTP challenge papers, SCAC presentations & peer-reviewed AI-for-science research |
 
 ---
 
@@ -47,6 +47,7 @@ Below is the distribution of references grouped by top domain hosts and institut
 | `news.fnal.gov` | **13** | Fermi National Accelerator Laboratory | SQMS quantum center, xLight EUV lithography FEL CRADA, DUNE AI neutrino reconstruction & supernova alert workflows |
 | `blogs.nvidia.com` | **6** | NVIDIA Corporation | Solstice/Equinox supercomputers, National Quantum Initiative, NSF AI Hubs, AI leadership |
 | `www.nist.gov` | **5** | NIST / Department of Commerce | CHIPS Act LOIs, quantum semiconductor incentives, NIST AI join launch |
+| `www.boisestate.edu` | **1** | Boise State University Office of Sponsored Programs | DE-FOA-0003612 topic focus areas (PDF) |
 | `www.bu.edu` | **1** | University Newsroom | Boston University College of Engineering Genesis Mission plasma physics award coverage |
 | `newscenter.lbl.gov` | **5** | Lawrence Berkeley National Lab (LBNL) | 13 AI projects lead, ModCon platform, Cech system delivery |
 | `www.lanl.gov` | **6** | Los Alamos National Laboratory (LANL) | Weapons hydrodynamics, plutonium aging AI, high-explosives R&D |
@@ -80,7 +81,7 @@ Below is the distribution of references grouped by top domain hosts and institut
 
 ## 4. Master Reference Link Index
 
-A complete tabular listing of all 544 indexed reference links:
+A tabular master index for the 545-reference collection:
 
 | # | Category / Section | Entity / Subject | Title | Domain | Type | Link | Status |
 |---|---|---|---|---|:---:|---|:---:|
@@ -627,3 +628,4 @@ A complete tabular listing of all 544 indexed reference links:
 | 542 | 5. National Labs & University Coverage | Pacific Northwest National Laboratory (PNNL) | Energy Department Launches ‘Genesis Mission’ to Transform American Science and Innovation Through the AI Computing Revolution | `www.pnnl.gov` | Web | [Energy Department Launches ‘Genesis Mission’ to Transform American Science and Innovation Through the AI Computing Revolution](https://www.pnnl.gov/news-media/energy-department-launches-genesis-mission) | `Processed` |
 | 543 | 7. Technical Documents, RFA Guidance & Official Webinars | U.S. Department of Energy (DOE) | Genesis Mission National Science and Technology Challenges Team Fact Sheet | `www.energy.gov` | PDF | [Genesis Mission National Science and Technology Challenges Team Fact Sheet](https://www.energy.gov/documents/challenges-team-fact-sheet) | `Processed` |
 | 544 | 5. National Labs & University Coverage | University of California, Davis (UC Davis) | DOE Genesis Award Recipients | `research.ucdavis.edu` | Web | [DOE Genesis Award Recipients](https://research.ucdavis.edu/doe-genesis-award-recipients/) | `Processed` |
+| 545 | 7. Technical Documents, RFA Guidance & Official Webinars | Boise State University Office of Sponsored Programs | DE-FOA-0003612 Topic Focus Areas | `www.boisestate.edu` | PDF | [DE-FOA-0003612 Topic Focus Areas](https://www.boisestate.edu/research-osp/wp-content/uploads/sites/233/2026/03/DE-FOA-0003612-Topic-Focus-Areas-1.pdf) | `Processed` |

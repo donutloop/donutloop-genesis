@@ -1,4 +1,4 @@
-**Version**: 3.5.15
+**Version**: 3.5.16
 
 # Die Genesis-Mission: Architektur, strategische Initiativen und das multi-institutionelle Ökosystem für KI- und quantengetriebene wissenschaftliche Entdeckungen
 
@@ -768,7 +768,7 @@ Die Finanzinfrastruktur der Genesis-Mission integriert vier verschiedene Kapital
 +------------------+ +-------------------+ +-------------------+ +------------------+
 ```
 
-1. **DE-FOA-0003612 (DOE Office of Science Direktzuschüsse):** Über **800 Millionen US-Dollar** an wettbewerbsfähigen Bundeszuschüssen, verteilt auf 26 Flaggschiff-Projekte.
+1. **DE-FOA-0003612 (DOE Office of Science Direktzuschüsse):** Über **800 Millionen US-Dollar** an wettbewerbsfähigen Bundeszuschüssen, verteilt auf 26 Flaggschiff-Projekte. Der Leitfaden zu den Themenschwerpunkten richtet KI-gestützte, interdisziplinäre Vorschläge auf fortschrittliche Fertigung, Biotechnologie, kritische Materialien, Kernspaltung und Kernfusion, Quanteninformationswissenschaft, Halbleiter und Mikroelektronik, Entdeckungswissenschaft sowie Energiesysteme aus.
 2. **Finanzierung von Herausforderungen für die nationale Sicherheit & das Stromnetz:** **293 Millionen US-Dollar**, die sich speziell an hochprioritäre nationale Imperative richten (Smart-Grid-Resilienz, SMR-Lizenzierung, Vorratsverwaltung von Kernwaffen und Rückgewinnung kritischer Mineralien).
 3. **CHIPS and Science Act & DOC Quanten-LOIs:** Über **2 Milliarden US-Dollar** an Absichtserklärungen (LOIs) und Bundes-Matching-Anreizen, verwaltet vom US-Handelsministerium (NIST / CHIPS R&D Office) für inländische Halbleitergießereien und Quantenfertigungsplattformen.
 4. **Hyperscaler & Industrie-Ressourcenkapital:** Über **400 Millionen US-Dollar** an direkten Cloud-Rechen-Gutschriften, KI-Token-Zuweisungen, Hardware-Installationen und spezialisierten Engineering-Services privater Technologieanbieter (AWS, Microsoft, Google, IBM, NVIDIA, AMD, Dell, HPE, Oracle, SambaNova, Groq, Anthropic, OpenAI, Scale AI).
