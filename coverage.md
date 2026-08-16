@@ -277,7 +277,7 @@
 
 | # | Organization | Coverage | Paper Section | Notes |
 |---|-------------|----------|---------------|-------|
-| 192 | [Wiley](https://www.wiley.com/) | ❌ Not Covered | — | Genesis Mission Consortium member; AI-powered research infrastructure, expert-validated workflows, and evidence-linked scientific content (reference only) |
+| 192 | [Wiley](https://www.wiley.com/) | ✅ Full Profile | §3.1, A.3 | Consortium scientific publisher; AI-powered research infrastructure, expert-validated workflows, research intelligence & evidence-linked content for trustworthy scientific AI |
 
 ---
 
@@ -287,20 +287,20 @@
 
 | Entity Type | Total | ✅ Full | 📋 Brief | ❌ Not Covered |
 |:---|:---:|:---:|:---:|:---:|
-| Industry Partners | 77 | 75 | 0 | 2 |
+| Industry Partners | 77 | 76 | 0 | 1 |
 | Federal Agencies | 10 | 10 | 0 | 0 |
 | National Laboratories & Defense Sites | 22 | 22 | 0 | 0 |
 | Universities | 70 | 68 | 0 | 2 |
 | Philanthropy, Policy & Regional Hubs | 13 | 12 | 0 | 1 |
-| **Total** | **192** | **187** | **0** | **5** |
+| **Total** | **192** | **188** | **0** | **4** |
 
 ### By Coverage Level
 
 | Coverage Level | Count | Percentage |
 |:---|:---:|:---:|
-| ✅ Full Profile | 187 | 97.4% |
+| ✅ Full Profile | 188 | 97.9% |
 | 📋 Brief Mention | 0 | 0.0% |
-| ❌ Not Covered | 5 | 2.6% |
+| ❌ Not Covered | 4 | 2.1% |
 | **Total Entities** | **192** | **100%** |
 
-> **Note:** The tracker now covers 192 Genesis Mission ecosystem participants, with 187 entities in dedicated technical write-ups (97.4% full-profile coverage) and Wiley, X-energy, Colorado School of Mines, St. Joseph's University, New York, and ORISE registered as reference-only participants. The broader sub-grantee network of 342 participating institutions represents secondary academic and sub-contractor nodes across the 278 national project awards.
+> **Note:** The tracker now covers 192 Genesis Mission ecosystem participants, with 188 entities in dedicated technical write-ups (97.9% full-profile coverage). X-energy, Colorado School of Mines, St. Joseph's University, New York, and ORISE remain registered as reference-only participants. The broader sub-grantee network of 342 participating institutions represents secondary academic and sub-contractor nodes across the 278 national project awards.

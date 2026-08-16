@@ -5,6 +5,16 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.6.0] - 2026-08-16
+
+### Added
+- **Wiley Full Profile**: Formally documented Wiley's Consortium role in `README.md` §3.1 and Appendix A.3, covering its AI-powered research infrastructure, expert-validated workflows, research-intelligence tools, and evidence-linked scientific content.
+- **German Paper Parity**: Added Wiley to the corresponding Appendix A.3 table in `README.de.md`.
+- **Coverage Tracker Update**: Upgraded Wiley from reference-only to **✅ Full Profile** in `coverage.md`, recalculating full-profile coverage to **188 / 192 (97.9%)**.
+- **Version Release**: Updated `README.md` and `README.de.md` to version `3.6.0`.
+
+---
+
 ## [3.5.24] - 2026-08-16
 
 ### Added
