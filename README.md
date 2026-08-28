@@ -1,4 +1,4 @@
-**Version**: 3.6.8
+**Version**: 3.6.9
 
 # The Genesis Mission: Architecture, Strategic Initiatives, and the Multi-Institutional Ecosystem for AI- and Quantum-Driven Scientific Discoveries
 
@@ -275,6 +275,7 @@ To establish quantum supremacy in error-corrected and fault-tolerant regimes, th
 1. **DOE Q Competition**: Demonstrate fault-tolerant quantum systems targeting **150–250 logical qubits** by 2028.
 2. **National Quantum Supercomputing User Facility**: Provide scientists access to fault-tolerant QPUs integrated with exascale HPC and AI grids at DOE National Laboratories.
 3. **QC-ADDS Program**: Targeted R&D through *Quantum Computer for Application Development and Discovery Science* across chemistry, materials, plasma, and high-energy physics.
+4. **Historical & Technological Milestones in Superconducting Circuits**: Superconducting qubits trace their foundations to landmark 1985 experiments at the University of California, Berkeley by John Clarke, Michel Devoret, and John Martinis, which first demonstrated quantum-mechanical behavior in macroscopic superconducting circuits. In July 2026, Princeton University researchers achieved a major coherence breakthrough, demonstrating superconducting qubit lifetimes exceeding **1 millisecond** (a 15x improvement over the current industry standard of ~70 microseconds) using architectures fully compatible with existing industrial chip designs. This milestone significantly accelerates the timeline for the Quantum Genesis initiative's fault-tolerant goals.
 
 This DOE investment is matched by **$2.013 Billion in Department of Commerce Letters of Intent** with 9 companies announced by **NIST on May 21, 2026** under the CHIPS and Science Act **CHIPS Xcelerate 2X** program. The federal investment targets 2 quantum foundries (IBM, GlobalFoundries) and 7 quantum computing companies spanning superconducting, trapped-ion, photonic, neutral-atom, and silicon-spin modalities, plus advanced EUV lithography (xLight). Under LOI terms, the Department of Commerce secures a **minority, non-controlling equity stake** in each quantum recipient.
 
