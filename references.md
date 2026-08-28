@@ -532,6 +532,7 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
   * [Limited Submission Opportunity: DOE Genesis Mission](https://www.colorado.edu/researchinnovation/node/8528/funding/limited-submission-funding-opportunities/doe-genesis-mission-transforming-science)
 * **Colorado School of Mines:** [Mines Selected for 2 Genesis Mission Projects to Apply AI to Critical Mineral Exploration and Nuclear Energy](https://www.minesnewsroom.com/news/mines-selected-2-genesis-mission-projects-apply-ai-critical-mineral-exploration-nuclear-energy)
 * **University of Connecticut (UConn):** [Researchers Win Inaugural DOE Genesis Mission Award](https://today.uconn.edu/2026/07/uconn-researchers-win-inaugural-doe-genesis-mission-award/)
+* **University of Delaware:** [UD team tapped to push next-gen supercomputer to its limits](https://www.udel.edu/udaily/2026/july/sunita-chandrasekaran-discovery-supercomputer-testing-fusion-energy/)
 * **University of Florida:** [Receives Genesis Mission Grant](https://news.ufl.edu/2026/07/genesis-mission-grant/)
 * **University of Illinois Urbana-Champaign:** [Illinois-Led Team Selected for Award](https://news.illinois.edu/illinois-led-team-selected-for-doe-genesis-mission-award/)
 * **University of Houston (Cullen College of Engineering):** [Huang, Wu, Chen Lead Cullen Portion of DOE’s Genesis Mission on Critical Minerals Exploration](https://www.egr.uh.edu/news/202608/huang-wu-chen-lead-cullen-portion-doe%E2%80%99s-genesis-mission-critical-minerals-exploration)
