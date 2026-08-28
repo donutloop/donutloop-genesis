@@ -5,6 +5,17 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.6.6] - 2026-08-28
+
+### Added
+- **Reference Index Entry #559**: Processed *University of Hawaiʻi at Mānoa's selected DOE projects STRATOS and Zepeng Li's neutrinoless double-beta decay AI foundation model* (`manoa.hawaii.edu`) under Section 5 (*National Labs & University Coverage*) in `references.md`.
+- **Master Index Update**: Registered entry #559 in `reference_coverage.md`; shifted subsequent entries and renumbered index sequentially up to #559. Synchronized Total Reference Links (558 → 559), Web Portals & Press Releases (537 → 539, correcting previous math typo), unique domains (245 → 246), and Section 5 count (270 → 271). Added `manoa.hawaii.edu` classification to Section 3. Processing Status: **559 / 559 Processed, 100% Complete**.
+- **Coverage Update**: Registered *University of Hawaiʻi at Mānoa* as entity #159 with `❌ Not Covered` status, incrementing total flagship participants to 195, shifting subsequent entities, and updating all coverage level summaries, percentages, and footnotes in `coverage.md` (Full Profile coverage becomes 96.4%).
+- **Research Paper Enrichment — §3.3 & Appendix A.5 (README.md & README.de.md)**: Enriched the Nuclear Physics, Particle Acceleration & Extreme Environments section in English and German to include University of Hawaiʻi at Mānoa's two projects: STRATOS (Security and Trust Runtime Architecture for Time-critical Operational Science) led by Assistant Professor Liuwan Zhu for grid security, and Zepeng Li's scientific AI foundation model designed to accelerate the search for neutrinoless double-beta decay ($0\nu\beta\beta$) by unifying experimental data from global collaborations. Added University of Hawaiʻi at Mānoa rows to Appendix A.5 universities tables in English and German.
+- **Patch Version Release**: Incremented version strings to `3.6.6` across `README.md` and `README.de.md`. Index completion: **559 / 559 Processed, 100% Complete**.
+
+---
+
 ## [3.6.5] - 2026-08-28
 
 ### Added
