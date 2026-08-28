@@ -1,7 +1,7 @@
 # Genesis Mission — Master Reference Coverage Report
 
 > **Document Overview:**
-> This report provides a comprehensive coverage analysis, breakdown, and master audit index for the **559 external reference links** compiled within `references.md` for the **Genesis Mission** documentation repository.
+> This report provides a comprehensive coverage analysis, breakdown, and master audit index for the **560 external reference links** compiled within `references.md` for the **Genesis Mission** documentation repository.
 
 ---
 
@@ -9,13 +9,13 @@
 
 | Metric | Count / Value | Description |
 | :--- | :--- | :--- |
-| **Total Reference Links** | **559** | Unique external links indexed across all sections |
+| **Total Reference Links** | **560** | Unique external links indexed across all sections |
 | **Primary Document Sections** | **7** | High-level thematic categories in `references.md` |
 | **Unique Target Domains** | **246** | Distinct domain names referenced (government, lab, corporate, academic, news) |
 | **Official PDF Documents** | **20** | Formal RFA solicitations, webinars, slides, and executive reports |
-| **Web Portals & Press Releases** | **539** | Newsroom features, corporate blog posts, and interactive hubs |
+| **Web Portals & Press Releases** | **540** | Newsroom features, corporate blog posts, and interactive hubs |
 | **Validation Status** | **100% Validated** | All links canonicalized, formatted, and deduplicated |
-| **Processing Status** | **559 / 559 Processed** | 0 Unprocessed, 559 Processed (100% Complete) |
+| **Processing Status** | **560 / 560 Processed** | 0 Unprocessed, 560 Processed (100% Complete) |
 
 ---
 
@@ -26,7 +26,7 @@
 | 1 | `1. Key Presentation Details` | **3** | 0.5% | Briefing agendas, U.S. ATLAS IB meeting details & CERN links |
 | 2 | `2. Collaborators` | **75** | 13.4% | Official homepage & announcement links for industrial/energy partners |
 | 3 | `3. Quantum Leadership & CHIPS Act Initiatives` | **11** | 2.0% | Department of Commerce NIST LOIs & DOE $2B quantum initiatives |
-| 4 | `4. Executive, Federal & Partner Announcements` | **166** | 29.7% | White House releases, Cabinet agency press, hyperscaler & lab announcements |
+| 4 | `4. Executive, Federal & Partner Announcements` | **167** | 29.8% | White House releases, Cabinet agency press, hyperscaler & lab announcements |
 | 5 | `5. National Labs & University Coverage` | **271** | 48.5% | National Laboratory news portals & 68 awardee university press releases |
 | 6 | `6. Additional Event Materials & Reference Links` | **17** | 3.0% | Presentation slide decks, institutional intro files & video recordings |
 | 7 | `7. Technical Documents, RFA Guidance & Official Webinars` | **16** | 2.9% | DE-FOA-0003612 solicitations, OSTP challenge papers, SCAC presentations & peer-reviewed AI-for-science research |
@@ -61,7 +61,7 @@ Below is the distribution of references grouped by top domain hosts and institut
 | `atom-computing.com` | **3** | Atom Computing | Neutral-atom quantum computing hardware, Commerce LOI |
 | `gf.com` | **3** | GlobalFoundries | Quantum wafer foundry LOI, CHIPS Act incentives |
 | `research.ibm.com` | **3** | IBM Research | $1B quantum foundry subsidiary, $50M compute commitment |
-| `openai.com` | **3** | OpenAI | Federal scientific AI partnership, DOE collaboration MOU |
+| `openai.com` | **4** | OpenAI | Federal scientific AI partnership, DOE collaboration MOU |
 | `psiquantum.com` | **3** | PsiQuantum | Photonic quantum computing hardware, Commerce LOI |
 | `public-inspection.federalregister.gov` | **1** | Federal Register | Executive Order 14363 public inspection document (PDF) |
 | `media.defense.gov` | **1** | Department of War / DoD | Defense AI strategy and national security S&T guidance (PDF) |
@@ -653,3 +653,4 @@ A tabular master index for the 559-reference collection:
 | 557 | 4. Executive, Federal & Partner Announcements | Association of American Universities (AAU) | Research Universities, DOE Kick Off Partnership to Accelerate Science Through AI | `www.aau.edu` | Web | [Research Universities, DOE Kick Off Partnership to Accelerate Science Through AI](https://www.aau.edu/newsroom/research-universities-doe-kick-partnership-accelerate) | `Processed` |
 | 558 | 5. National Labs & University Coverage | The Ohio State University | Ohio State Researchers to Lead National Teams Exploring Science, AI Innovation | `news.osu.edu` | Web | [Ohio State Researchers to Lead National Teams Exploring Science, AI Innovation](https://news.osu.edu/ohio-state-researchers-to-lead-national-teams-exploring-science-ai-innovation/) | `Processed` |
 | 559 | 5. National Labs & University Coverage | University of Delaware | UD team tapped to push next-gen supercomputer to its limits | `www.udel.edu` | Web | [UD team tapped to push next-gen supercomputer to its limits](https://www.udel.edu/udaily/2026/july/sunita-chandrasekaran-discovery-supercomputer-testing-fusion-energy/) | `Processed` |
+| 560 | 4. Executive, Federal & Partner Announcements | OpenAI | Accelerating Scientific Discovery with ChatGPT for Academic Researchers | `openai.com` | Web | [Accelerating Scientific Discovery with ChatGPT for Academic Researchers](https://openai.com/index/chatgpt-for-academic-researchers/) | `Processed` |

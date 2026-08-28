@@ -231,6 +231,7 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
 * [U.S. Department of Energy (CMEI): DOE's Office of Critical Minerals and Energy Innovation Announces $134 Million to Bolster Supply Chains](https://www.energy.gov/cmei/articles/does-office-critical-minerals-and-energy-innovation-announces-134-million-bolster)
 * [U.S. Department of Energy (NE): Department of Energy Unleashes AI to Reduce Reactor Licensing Timelines](https://www.energy.gov/ne/articles/department-energy-unleashes-ai-reduce-reactor-licensing-timelines)
 * [OpenAI: U.S. Department of Energy Collaboration](https://openai.com/index/us-department-of-energy-collaboration/)
+* [OpenAI: Accelerating Scientific Discovery with ChatGPT for Academic Researchers](https://openai.com/index/chatgpt-for-academic-researchers/)
 * [Arcee AI: Arcee AI Collaborates with DOE on Genesis-Science-1](https://www.arcee.ai/blog/genesis-science-1-doe-partnership)
 * [OLI Systems: OLI Selected as an Official Collaborator in the U.S. Department of Energy's Genesis Mission](https://olisystems.com/resources/news/oli-selected-as-an-official-collaborator-in-the-u-s-department-of-energys-genesis-mission/)
 * [OLI Systems: AI for Critical Materials Is Only as Good as the Chemistry That Supports It](https://olisystems.com/resources/blog/ai-for-critical-materials-is-only-as-good-as-the-chemistry-that-supports-it/)
