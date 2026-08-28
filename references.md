@@ -575,6 +575,7 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
   * [College of Science: Researchers Selected for Multiple DOE Genesis Mission Awards](https://science.utah.edu/faculty/u-researchers-selected-for-multiple-doe-genesis-mission-awards/)
   * [Price Engineering Researchers Among First Class of Genesis Mission Awardees](https://www.price.utah.edu/2026/07/22/price-engineering-researchers-among-first-class-of-genesis-mission-awardees)
   * [SCI: Price Engineering Researchers Among First Class of Genesis Mission Awardees](https://sci.utah.edu/price-engineering-researchers-among-first-class-of-genesis-mission-awardees/)
+  * [SCI: Part of a $24.5 Million NSF Award to Expand AI-Ready Data Infrastructure](https://sci.utah.edu/ai-ready-data-infrastructure/)
   * [Genesis Mission Call for Proposals](https://www.research.utah.edu/funding-item/genesis-call/)
   * [U Selected for Elite National Network of AI-Driven Cloud Laboratories](https://attheu.utah.edu/science-technology/u-selected-for-elite-national-network-of-ai-driven-cloud-laboratories/)
   * [From Parallel Play to True Collaboration: Where Funding Is Headed](https://www.research.utah.edu/funding-item/from-parallel-play-to-true-collaboration-where-funding-is-headed/)

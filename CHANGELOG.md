@@ -5,6 +5,17 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.6.8] - 2026-08-28
+
+### Added
+- **Reference Index Entry #486**: Processed *SCI: Part of a $24.5 Million NSF Award to Expand AI-Ready Data Infrastructure* (`sci.utah.edu`) under Section 5 (*National Labs & University Coverage*) in `references.md`.
+- **Master Index Update**: Registered entry #486 in `reference_coverage.md`; shifted subsequent entries and renumbered index sequentially up to #561. Synchronized Total Reference Links (560 → 561), Section 5 count (271 → 272), and processing status to **561 / 561 Processed, 100% Complete**.
+- **Coverage Update**: Registered *UC San Diego* (#149), *University of Massachusetts Amherst* (#165), and *University of Washington* (#180) as reference-only universities under `❌ Not Covered` status, incrementing total flagship participants to 198, shifting subsequent entities, and updating all coverage summaries, percentages, and footnotes in `coverage.md` (Full Profile coverage becomes 94.9%).
+- **Research Paper Enrichment — §3.3 (README.md & README.de.md)**: Enriched the AI Architecture, Foundation Models & Agentic Discovery section in English and German to include University of Utah SCI Institute's role (co-led by Manish Parashar) as a key partner in the $24.5 Million NSF National Data Platform (NDP) award, alongside UC San Diego, University of Massachusetts Amherst, and the University of Washington, highlighting integration with Utah's state-wide $50 Million Redtail AI Factory supercomputer and $18.6 Million Utah Health AI Vault.
+- **Patch Version Release**: Incremented version strings to `3.6.8` across `README.md` and `README.de.md`.
+
+---
+
 ## [3.6.7] - 2026-08-28
 
 ### Added
