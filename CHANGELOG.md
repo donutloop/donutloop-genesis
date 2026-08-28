@@ -5,6 +5,16 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.6.3] - 2026-08-28
+
+### Added
+- **Reference Index Entry #556**: Processed *Carnegie Mellon's AI Science Foundry Selected by NSF To Help Build National Infrastructure for AI* (`www.cmu.edu`) under Section 5 (*National Labs & University Coverage*) in `references.md`.
+- **Master Index Update**: Registered entry #556 in `reference_coverage.md`; synchronized Total Reference Links (555 → 556), Web Portals (534 → 535), and Section 5 count (267 → 268). Processing Status: **556 / 556 Processed, 100% Complete**.
+- **Research Paper Enrichment — §1.3 & §3.3 (README.md & README.de.md)**: Enriched the NSF PCL Testbed network description in English and German to include Carnegie Mellon's $20 million AI Science Foundry node and its 80+ robotically controlled instruments executing continuous AI-guided design-test-learn experiment cycles.
+- **Patch Version Release**: Incremented version strings to `3.6.3` across `README.md` and `README.de.md`. Index completion: **556 / 556 Processed, 100% Complete**.
+
+---
+
 ## [3.6.2] - 2026-08-16
 
 ### Added
