@@ -1,7 +1,7 @@
 # Genesis Mission — Master Reference Coverage Report
 
 > **Document Overview:**
-> This report provides a comprehensive coverage analysis, breakdown, and master audit index for the **558 external reference links** compiled within `references.md` for the **Genesis Mission** documentation repository.
+> This report provides a comprehensive coverage analysis, breakdown, and master audit index for the **559 external reference links** compiled within `references.md` for the **Genesis Mission** documentation repository.
 
 ---
 
@@ -9,13 +9,13 @@
 
 | Metric | Count / Value | Description |
 | :--- | :--- | :--- |
-| **Total Reference Links** | **558** | Unique external links indexed across all sections |
+| **Total Reference Links** | **559** | Unique external links indexed across all sections |
 | **Primary Document Sections** | **7** | High-level thematic categories in `references.md` |
-| **Unique Target Domains** | **245** | Distinct domain names referenced (government, lab, corporate, academic, news) |
+| **Unique Target Domains** | **246** | Distinct domain names referenced (government, lab, corporate, academic, news) |
 | **Official PDF Documents** | **20** | Formal RFA solicitations, webinars, slides, and executive reports |
-| **Web Portals & Press Releases** | **537** | Newsroom features, corporate blog posts, and interactive hubs |
+| **Web Portals & Press Releases** | **539** | Newsroom features, corporate blog posts, and interactive hubs |
 | **Validation Status** | **100% Validated** | All links canonicalized, formatted, and deduplicated |
-| **Processing Status** | **558 / 558 Processed** | 0 Unprocessed, 558 Processed (100% Complete) |
+| **Processing Status** | **559 / 559 Processed** | 0 Unprocessed, 559 Processed (100% Complete) |
 
 ---
 
@@ -27,7 +27,7 @@
 | 2 | `2. Collaborators` | **75** | 13.4% | Official homepage & announcement links for industrial/energy partners |
 | 3 | `3. Quantum Leadership & CHIPS Act Initiatives` | **11** | 2.0% | Department of Commerce NIST LOIs & DOE $2B quantum initiatives |
 | 4 | `4. Executive, Federal & Partner Announcements` | **166** | 29.7% | White House releases, Cabinet agency press, hyperscaler & lab announcements |
-| 5 | `5. National Labs & University Coverage` | **270** | 48.4% | National Laboratory news portals & 67 awardee university press releases |
+| 5 | `5. National Labs & University Coverage` | **271** | 48.5% | National Laboratory news portals & 68 awardee university press releases |
 | 6 | `6. Additional Event Materials & Reference Links` | **17** | 3.0% | Presentation slide decks, institutional intro files & video recordings |
 | 7 | `7. Technical Documents, RFA Guidance & Official Webinars` | **16** | 2.9% | DE-FOA-0003612 solicitations, OSTP challenge papers, SCAC presentations & peer-reviewed AI-for-science research |
 
@@ -85,6 +85,7 @@ Below is the distribution of references grouped by top domain hosts and institut
 | `newsroom.wiley.com` | **1** | Wiley | Scientific-publisher Genesis Mission Consortium announcement and trusted AI research-intelligence support |
 | `news.osu.edu` | **1** | The Ohio State University | Ohio State-led AI-for-orbital-electronics materials and robust bidirectional PINN complex-flow modeling teams |
 | `www.udel.edu` | **1** | University Newsroom | University of Delaware team tapped to stress-test Oak Ridge National Laboratory's upcoming Discovery supercomputer using PIConGPU for fusion energy simulations |
+| `manoa.hawaii.edu` | **1** | University Newsroom | University of Hawaiʻi at Mānoa researchers selected for DOE Genesis Mission STRATOS and rare-decay AI foundation model projects |
 
 ---
 
