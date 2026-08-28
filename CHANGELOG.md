@@ -5,6 +5,16 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.6.7] - 2026-08-28
+
+### Added
+- **Reference Index Entry #560**: Processed *OpenAI: Accelerating Scientific Discovery with ChatGPT for Academic Researchers* (`openai.com`) under Section 4 (*Executive, Federal & Partner Announcements*) in `references.md`.
+- **Master Index Update**: Registered entry #560 in `reference_coverage.md`. Synchronized Total Reference Links (559 → 560), Web Portals & Press Releases (539 → 540), Section 4 count (166 → 167, 29.7% → 29.8%), and `openai.com` domain count (3 → 4). Processing Status: **560 / 560 Processed, 100% Complete**.
+- **Research Paper Enrichment — §3.1 (README.md & README.de.md)**: Enriched the OpenAI partner paragraph in English and German to include the **ChatGPT for Academic Researchers** program — OpenAI's commitment to provide up to 100,000 academic researchers worldwide with free access to frontier models (GPT-5.6 Sol Pro, Codex, ChatGPT Work) through 2027, starting with 10,000 researchers in summer 2026 at IAS and ENS, as part of a broader $250 Million investment in external scientific research.
+- **Patch Version Release**: Incremented version strings to `3.6.7` across `README.md` and `README.de.md`. Index completion: **560 / 560 Processed, 100% Complete**.
+
+---
+
 ## [3.6.6] - 2026-08-28
 
 ### Added
