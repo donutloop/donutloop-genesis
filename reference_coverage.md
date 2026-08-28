@@ -27,7 +27,7 @@
 | 2 | `2. Collaborators` | **75** | 13.4% | Official homepage & announcement links for industrial/energy partners |
 | 3 | `3. Quantum Leadership & CHIPS Act Initiatives` | **11** | 2.0% | Department of Commerce NIST LOIs & DOE $2B quantum initiatives |
 | 4 | `4. Executive, Federal & Partner Announcements` | **167** | 29.8% | White House releases, Cabinet agency press, hyperscaler & lab announcements |
-| 5 | `5. National Labs & University Coverage` | **272** | 48.5% | National Laboratory news portals & 68 awardee university press releases |
+| 5 | `5. National Labs & University Coverage` | **272** | 48.5% | National Laboratory news portals & 69 awardee university press releases |
 | 6 | `6. Additional Event Materials & Reference Links` | **17** | 3.0% | Presentation slide decks, institutional intro files & video recordings |
 | 7 | `7. Technical Documents, RFA Guidance & Official Webinars` | **16** | 2.9% | DE-FOA-0003612 solicitations, OSTP challenge papers, SCAC presentations & peer-reviewed AI-for-science research |
 
