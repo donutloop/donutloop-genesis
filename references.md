@@ -480,6 +480,7 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
   * [MIT Projects Selected for Funding Under U.S. DOE's Genesis Mission (Physics Dept)](https://physics.mit.edu/news/mit-projects-selected-for-funding-under-us-department-of-energys-genesis-mission/)
   * [MIT Projects Selected for Funding Under U.S. DOE's Genesis Mission (MIT Climate)](https://climate.mit.edu/posts/mit-projects-selected-funding-under-us-department-energys-genesis-mission)
   * [Cristina Rea Lead on MIT Projects Selected for Genesis Mission Fusion AI](https://www.psfc.mit.edu/resources/news/cristina-rea-mit-projects-selected-funding-genesis-mission-fusion-ai/)
+  * [Jesse Thaler named director of the Laboratory for Nuclear Science](https://news.mit.edu/2026/jesse-thaler-named-director-laboratory-nuclear-science-0707)
 * **New Jersey Institute of Technology (NJIT):** [Genesis Mission - Transforming Science and Energy with AI](https://research.njit.edu/genesis-mission-transforming-science-and-energy-ai)
 * **New Mexico State University (NMSU):** [NMSU-Led Team Selected for $800M Initiative](https://newsroom.nmsu.edu/news/nmsu-led-team-among-those-selected-for--800-million-doe-genesis-mission/s/16c85a82-19d1-45ea-922e-6aba73e11383)
 * **New York University (NYU):** [Faculty Drive Three U.S. Department of Energy Genesis Mission Projects](https://www.nyu.edu/about/news-publications/news/2026/july/nyu-faculty-drive-three-us-department-of-energy-genesis-mission-.html?challenge=d06e90d7-4d8f-4b88-9d8c-10b73beb60f1)

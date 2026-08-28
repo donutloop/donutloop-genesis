@@ -5,6 +5,16 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.6.4] - 2026-08-28
+
+### Added
+- **Reference Index Entry #557**: Processed *Jesse Thaler named director of the Laboratory for Nuclear Science* (`news.mit.edu`) under Section 5 (*National Labs & University Coverage*) in `references.md`.
+- **Master Index Update**: Registered entry #557 in `reference_coverage.md`; synchronized Total Reference Links (556 → 557), Web Portals (535 → 536), and Section 5 count (268 → 269). Processing Status: **557 / 557 Processed, 100% Complete**.
+- **Research Paper Enrichment — §3.3 (README.md & README.de.md)**: Enriched the Nuclear Physics, Particle Acceleration & Extreme Environments section in English and German to include MIT's Laboratory for Nuclear Science (LNS) and the appointment of Jesse Thaler as director to lead new AI-enabled scientific discovery projects through the Department of Energy's Genesis Mission.
+- **Patch Version Release**: Incremented version strings to `3.6.4` across `README.md` and `README.de.md`. Index completion: **557 / 557 Processed, 100% Complete**.
+
+---
+
 ## [3.6.3] - 2026-08-28
 
 ### Added
