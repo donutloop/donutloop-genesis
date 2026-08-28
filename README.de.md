@@ -1,4 +1,4 @@
-**Version**: 3.6.8
+**Version**: 3.6.9
 
 # Die Genesis-Mission: Architektur, strategische Initiativen und das multi-institutionelle Ökosystem für KI- und quantengetriebene wissenschaftliche Entdeckungen
 
@@ -273,6 +273,7 @@ Um die Quantenüberlegenheit in fehlertoleranten Regimes zu etablieren, hat das 
 1. **DOE Q Competition**: Demonstration fehlertoleranter Quantensysteme mit **150–250 logischen Qubits** bis 2028.
 2. **National Quantum Supercomputing User Facility**: Bereitstellung des Zugangs zu fehlertoleranten QPUs integriert mit Exascale-HPC und KI-Grids an DOE National Laboratories.
 3. **QC-ADDS Program**: Fokussierte F&E durch *Quantum Computer for Application Development and Discovery Science* für Chemie, Materialwissenschaften, Plasma und Hochenergiephysik.
+4. **Historische und technologische Meilensteine bei supraleitenden Schaltkreisen**: Supraleitende Qubits gehen auf bahnbrechende Experimente an der University of California, Berkeley im Jahr 1985 von John Clarke, Michel Devoret und John Martinis zurück, die erstmals quantenmechanisches Verhalten in makroskopischen supraleitenden Schaltkreisen nachwiesen. Im Juli 2026 erzielten Forscher der Princeton University einen bedeutenden Kohärenzdurchbruch und demonstrierten Lebensdauern von supraleitenden Qubits von über **1 Millisekunde** (eine 15-fache Verbesserung gegenüber dem aktuellen Industriestandard von ~70 Mikrosekunden) unter Verwendung von Architekturen, die vollständig mit bestehenden industriellen Chipdesigns kompatibel sind. Dieser Meilenstein beschleunigt den Zeitplan für die fehlertoleranten Ziele der Quantum Genesis Initiative erheblich.
 
 Diese DOE-Investition wird ergänzt durch **2,013 Milliarden US-Dollar an Absichtserklärungen (Letters of Intent) des Handelsministeriums** mit 9 Unternehmen, angekündigt vom **NIST am 21. Mai 2026** im Rahmen des CHIPS and Science Act **CHIPS Xcelerate 2X**-Programms. Die Bundesinvestition zielt auf 2 Quantengießereien (IBM, GlobalFoundries) und 7 Quantencomputing-Unternehmen ab, die supraleitende, Ionenfallen-, photonische, Neutralatom- und Silizium-Spin-Modalitäten abdecken, sowie fortschrittliche EUV-Lithografie (xLight). Im Rahmen der LOI-Bedingungen sichert sich das Handelsministerium eine **Minderheits-Eigenkapitalbeteiligung ohne Kontrolle** an jedem Quantenempfänger.
 
