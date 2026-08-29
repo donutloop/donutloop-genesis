@@ -649,6 +649,7 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
   * [University Receives $20 Million Grant for Cloud-Based Semiconductor Lab](https://news.vt.edu/articles/2026/08/NSF-grant-semiconductor-lab.html)
 * **Yale University:** [Researchers Receive Awards to Pursue AI Advances](https://news.yale.edu/2026/07/22/yale-researchers-receive-genesis-mission-awards-pursue-ai-advances)
 * **University of Maryland:** [Can AI See the Next Flood Coming?](https://today.umd.edu/can-ai-see-the-next-flood-coming)
+* **University of Oklahoma (OU):** [OU Researchers Selected for Department of Energy Genesis Mission](https://www.ou.edu/news/articles/2026/august/researchers-selected-department-of-energy-genesis-mission) - Two OU-led teams received nearly $1.4 million in Phase I funding for AI-enabled enhanced geothermal systems (EGS) stimulation control and quantum computing, with a third OU researcher supporting a Los Alamos National Laboratory-led Earth-system prediction project.
 
 ---
 

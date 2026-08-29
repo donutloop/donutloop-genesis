@@ -5,6 +5,16 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.6.59] - 2026-08-29
+
+### Added
+- **Reference Index Entry #611**: Processed `https://www.ou.edu/news/articles/2026/august/researchers-selected-department-of-energy-genesis-mission` (*OU Researchers Selected for Department of Energy Genesis Mission*, host domain `www.ou.edu`) under Section 5 (*National Labs & University Coverage — Universities & Research Institutions*) in `references.md`.
+- **Master Index Update**: Registered new entry #611 at the bottom of the Section 4 Master Reference Link Index table in `reference_coverage.md`. Synchronized all summary metrics: Total Reference Links (610 → 611), Unique Target Domains (293 → 294), Web Portals & Press Releases (588 → 589), and Processing Status (**611 / 611 Processed, 100% Complete**). Section 5 count increased (310 → 311, 50.8% → 50.9%), Section 6 share adjusted (3.0% → 2.9%), and the new top domain host `www.ou.edu` was registered in the Section 3 domain table with a count of 1.
+- **Coverage Matrix Update**: Added new entity `University of Oklahoma (OU)` to the `Universities & Academic Institutions` section of `coverage.md` as "❌ Not Covered" (reference only). Synchronized all summary metrics: Total Consortium Entities (223 → 224), Universities (84 → 85) and Universities Not Covered (16 → 17), total Not Covered (34 → 35, 15.2% → 15.6%), and Full Profile share (84.8% → 84.4%).
+
+### Changed
+- **Research Paper Enrichment — §3.3 & Appendix A.5 (README.md & README.de.md)**: Added a University of Oklahoma profile to the "Grid Decarbonization, Climate & Geospatial AI" cluster of §3.3 in both the English and German flagship papers, documenting OU's selection among only 168 institutions from more than 5,000 national applications, nearly $1.4 million in Phase I funding across two OU-led teams, Prof. Ahmad Ghassemi's (with Jie Cao and Hao Hu) *"AI-Enabled Rapid Analysis and Control of EGS Stimulation Using Machine Learning & Physics-Based Hydraulic Fracture/Natural Fracture (HF/NF) Interaction Modeling"* project for enhanced geothermal system stimulation control, and additional OU work spanning quantum computing and LANL-led Earth-system prediction. Added the corresponding Appendix A.5 university table rows and bumped the version string to `3.6.59` across `README.md` and `README.de.md`.
+
 ## [3.6.58] - 2026-08-29
 
 ### Changed

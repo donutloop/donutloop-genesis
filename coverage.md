@@ -1,9 +1,9 @@
 # Genesis Mission — Full Ecosystem Coverage Tracker
 
 > **Scope & Coverage Definition:**
-> - **Flagship Consortium Scope:** Tracks **all 223 primary flagship participants**—lead contractors, federal agencies, national laboratories, awardee universities, strategic industrial partners, and philanthropic foundations—explicitly profiled or referenced in the Genesis Mission paper (`README.md`) and reference index.
+> - **Flagship Consortium Scope:** Tracks **all 224 primary flagship participants**—lead contractors, federal agencies, national laboratories, awardee universities, strategic industrial partners, and philanthropic foundations—explicitly profiled or referenced in the Genesis Mission paper (`README.md`) and reference index.
 > - **Broader National Awardee Network Context:** Under solicitation DE-FOA-0003612 and interagency challenges, the broader national initiative encompasses **342 total participating institutions** (157 companies, 142 universities, 16 national labs, 13 non-profits, 14 other entities across 278 projects).
-> - **Coverage Status:** **189 / 223 (84.8%)** of the tracked consortium entities have dedicated, detailed technical profiles.
+> - **Coverage Status:** **189 / 224 (84.4%)** of the tracked consortium entities have dedicated, detailed technical profiles.
 
 **Legend:**
 - ✅ **Full Profile** — Dedicated section with detailed technical write-up (Sections 2.2 / 3.1 / 3.2 / 3.3 / 3.4 / 3.5)
@@ -277,6 +277,7 @@
 | [Kent State University](https://www.kent.edu/) | ❌ Not Covered | — | Dr. David Costello leads an AI-driven probabilistic source mapping project utilizing 50 years of water-quality records to locate critical minerals (reference only) |
 | [University of Maryland](https://www.umd.edu/) | ❌ Not Covered | — | Leads a DOE Genesis Mission flood forecasting effort using agentic and generative AI with E3SM to produce localized seasonal-to-multiyear water hazard predictions (reference only) |
 | [La Sierra University](https://lasierra.edu/) | ❌ Not Covered | — | Collaborative EV battery management system (BMS) adversarial AI robustness framework partner (reference only) |
+| [University of Oklahoma (OU)](https://www.ou.edu/) | ❌ Not Covered | — | Two OU-led Phase I teams (~$1.4M) in AI-enabled EGS geothermal stimulation control and quantum computing, plus LANL-led Earth-system prediction support (reference only) |
 
 ---
 
@@ -321,17 +322,17 @@
 | Industry Partners | 87 | 77 | 0 | 10 |
 | Federal Agencies | 10 | 10 | 0 | 0 |
 | National Laboratories & Defense Sites | 25 | 22 | 0 | 3 |
-| Universities | 84 | 68 | 0 | 16 |
+| Universities | 85 | 68 | 0 | 17 |
 | Philanthropy, Policy & Regional Hubs | 17 | 12 | 0 | 5 |
-| **Total** | **223** | **189** | **0** | **34** |
+| **Total** | **224** | **189** | **0** | **35** |
 
 ### By Coverage Level
 
 | Coverage Level | Count | Percentage |
 |:---|:---:|:---:|
-| ✅ Full Profile | 189 | 84.8% |
+| ✅ Full Profile | 189 | 84.4% |
 | 📋 Brief Mention | 0 | 0.0% |
-| ❌ Not Covered | 34 | 15.2% |
-| **Total Entities** | **223** | **100%** |
+| ❌ Not Covered | 35 | 15.6% |
+| **Total Entities** | **224** | **100%** |
 
-> **Note:** The tracker now covers 223 Genesis Mission ecosystem participants, with 189 entities in dedicated technical write-ups (84.8% full-profile coverage). George Washington University, X-energy, Cosylab, Brown University, Heidelberg University, Howard University, European Coalition for AI in Fundamental Physics (EuCAIF), Colorado School of Mines, UC San Diego, University of Delaware, University of Hawaiʻi at Mānoa, University of Massachusetts Amherst, University of Washington, Boise State University, St. Joseph's University, New York, The Ohio State University, Kent State University, University of Maryland, ChipNexus, Southeastern Universities Research Association (SURA), ORISE, Energy Sciences Coalition (ESC), Krell Institute, Antares Nuclear, Valar Atomics, Deployable Energy, Radiant, La Sierra University, Clean Republic SODO, LLC, Molecular Foundry, Joint Genome Institute (JGI), Oak Ridge Leadership Computing Facility (OLCF), EdenCode, and Aclara Technologies remain registered as reference-only participants. The broader sub-grantee network of 342 participating institutions represents secondary academic and sub-contractor nodes across the 278 national project awards.
+> **Note:** The tracker now covers 224 Genesis Mission ecosystem participants, with 189 entities in dedicated technical write-ups (84.4% full-profile coverage). George Washington University, X-energy, Cosylab, Brown University, Heidelberg University, Howard University, European Coalition for AI in Fundamental Physics (EuCAIF), Colorado School of Mines, UC San Diego, University of Delaware, University of Hawaiʻi at Mānoa, University of Massachusetts Amherst, University of Washington, Boise State University, St. Joseph's University, New York, The Ohio State University, Kent State University, University of Maryland, ChipNexus, Southeastern Universities Research Association (SURA), ORISE, Energy Sciences Coalition (ESC), Krell Institute, Antares Nuclear, Valar Atomics, Deployable Energy, Radiant, La Sierra University, Clean Republic SODO, LLC, Molecular Foundry, Joint Genome Institute (JGI), Oak Ridge Leadership Computing Facility (OLCF), EdenCode, Aclara Technologies, and University of Oklahoma (OU) remain registered as reference-only participants. The broader sub-grantee network of 342 participating institutions represents secondary academic and sub-contractor nodes across the 278 national project awards.
