@@ -1,7 +1,7 @@
 # Genesis Mission — Master Reference Coverage Report
 
 > **Document Overview:**
-> This report provides a comprehensive coverage analysis, breakdown, and master audit index for the **587 external reference links** compiled within `references.md` for the **Genesis Mission** documentation repository.
+> This report provides a comprehensive coverage analysis, breakdown, and master audit index for the **588 external reference links** compiled within `references.md` for the **Genesis Mission** documentation repository.
 
 ---
 
@@ -9,13 +9,13 @@
 
 | Metric | Count / Value | Description |
 | :--- | :--- | :--- |
-| **Total Reference Links** | **587** | Unique external links indexed across all sections |
+| **Total Reference Links** | **588** | Unique external links indexed across all sections |
 | **Primary Document Sections** | **7** | High-level thematic categories in `references.md` |
-| **Unique Target Domains** | **281** | Distinct domain names referenced (government, lab, corporate, academic, news) |
+| **Unique Target Domains** | **282** | Distinct domain names referenced (government, lab, corporate, academic, news) |
 | **Official PDF Documents** | **21** | Formal RFA solicitations, webinars, slides, and executive reports |
-| **Web Portals & Press Releases** | **566** | Newsroom features, corporate blog posts, and interactive hubs |
+| **Web Portals & Press Releases** | **567** | Newsroom features, corporate blog posts, and interactive hubs |
 | **Validation Status** | **100% Validated** | All links canonicalized, formatted, and deduplicated |
-| **Processing Status** | **587 / 587 Processed** | 0 Unprocessed, 587 Processed (100% Complete) |
+| **Processing Status** | **588 / 588 Processed** | 0 Unprocessed, 588 Processed (100% Complete) |
 
 ---
 
@@ -27,7 +27,7 @@
 | `2. Collaborators` | **76** | 12.9% | Official homepage & announcement links for industrial/energy partners |
 | `3. Quantum Leadership & CHIPS Act Initiatives` | **11** | 1.9% | Department of Commerce NIST LOIs & DOE $2B quantum initiatives |
 | `4. Executive, Federal & Partner Announcements` | **170** | 29.0% | White House releases, Cabinet agency press, hyperscaler & lab announcements |
-| `5. National Labs & University Coverage` | **291** | 49.6% | National Laboratory news portals & 71 awardee university press releases |
+| `5. National Labs & University Coverage` | **292** | 49.7% | National Laboratory news portals & 71 awardee university press releases |
 | `6. Additional Event Materials & Reference Links` | **18** | 3.1% | Presentation slide decks, institutional intro files & video recordings |
 | `7. Technical Documents, RFA Guidance & Official Webinars` | **18** | 3.1% | DE-FOA-0003612 solicitations, OSTP challenge papers, SCAC presentations & peer-reviewed AI-for-science research |
 
@@ -102,12 +102,13 @@ Below is the distribution of references grouped by top domain hosts and institut
 | `www.engineering.columbia.edu` | **1** | University Newsroom | Columbia Engineering faculty members Kyle Bishop, Norman Christ, and Kara Lamb awarded DOE Genesis Mission funding for bio-programmable matter operating systems, nuclear force simulation, and cloud models |
 | `www.krellinst.org` | **1** | Fellowship Administrator | Hosts the DOE CSGF Annual Program Review and publishes presentation videos and abstracts for pioneering computational science research |
 | `www.kent.edu` | **1** | University Newsroom | Kent State University researcher Dr. David Costello receives inaugural DOE Genesis Mission Award for AI-driven probabilistic source mapping of critical minerals |
+| `www.hawaii.edu` | **1** | University Newsroom | University of Hawaiʻi systemwide news coverage of STRATOS and rare-decay AI foundation model Genesis Mission awards |
 
 ---
 
 ## 4. Master Reference Link Index
 
-A tabular master index for the 587-reference collection:
+A tabular master index for the 588-reference collection:
 
 | Category / Section | Entity / Subject | Title | Domain | Type | Link | Status |
 |---|---|---|---|:---:|---|:---:|
@@ -698,5 +699,6 @@ A tabular master index for the 587-reference collection:
 | 6. Additional Event Materials & Reference Links | DOE CSGF Annual Program Review | The Genesis Mission: Nation-Scale AI and the Future of Scientific Work (Brian Spears, LLNL) | `www.krellinst.org` | Web | [The Genesis Mission: Nation-Scale AI and the Future of Scientific Work (Brian Spears, LLNL)](https://www.krellinst.org/csgf/conf/2026/video/spears2026) | `Processed` |
 | 4. Executive, Federal & Partner Announcements | DOE Office of Nuclear Energy | One Year After Executive Orders, U.S. Nuclear Energy Renaissance Is in Full Swing | `www.energy.gov` | Web | [One Year After Executive Orders, U.S. Nuclear Energy Renaissance Is in Full Swing](https://www.energy.gov/ne/articles/one-year-after-executive-orders-us-nuclear-energy-renaissance-full-swing) | `Processed` |
 | 5. National Labs & University Coverage | Kent State University | Kent State Researcher Selected for DOE Genesis Mission Award | `www.kent.edu` | Web | [Kent State Researcher Selected for DOE Genesis Mission Award](https://www.kent.edu/today/news/kent-state-researcher-selected-doe-genesis-mission-award-critical-minerals) | `Processed` |
+| 5. National Labs & University Coverage | University of Hawaiʻi at Mānoa | UH News: Genesis Mission Awards | `www.hawaii.edu` | Web | [UH News: Genesis Mission Awards](https://www.hawaii.edu/news/2026/07/27/genesis-mission-awards/) | `Processed` |
 
 

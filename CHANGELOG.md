@@ -5,6 +5,13 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.6.35] - 2026-08-29
+
+### Added
+- **Reference Index Entry #588**: Processed University of Hawaiʻi systemwide news link `https://www.hawaii.edu/news/2026/07/27/genesis-mission-awards/` (*UH News: Genesis Mission Awards*) under Section 5 (*National Labs & University Coverage*) in `references.md`.
+- **Master Index Update**: Registered new entry #588 in `reference_coverage.md` at the bottom of the table to avoid large renumbering updates. Synchronized all summary metrics: Total Reference Links (587 → 588), Web Portals & Press Releases (566 → 567), Unique Target Domains (281 → 282), and 100% Processing Status (588 / 588 Processed, 100% Complete). Section 5 count increased (291 → 292, 49.6% → 49.7%). Added `www.hawaii.edu` top domain count of 1.
+- **Research Paper Enrichment — §3.3 (README.md & README.de.md)**: Enriched §3.3 of both English and German flagship papers with technical and strategic insights on the Phase I award funding (nine-month Phase I awards of $500,000–$750,000 each with eligibility for up to $15 million Phase II awards) and their presentation in Washington, D.C. on July 22, 2026. Bumped version string to `3.6.35` across `README.md` and `README.de.md`.
+
 ## [3.6.34] - 2026-08-29
 
 ### Added
