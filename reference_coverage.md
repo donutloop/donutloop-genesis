@@ -1,7 +1,7 @@
 # Genesis Mission — Master Reference Coverage Report
 
 > **Document Overview:**
-> This report provides a comprehensive coverage analysis, breakdown, and master audit index for the **572 external reference links** compiled within `references.md` for the **Genesis Mission** documentation repository.
+> This report provides a comprehensive coverage analysis, breakdown, and master audit index for the **636 external reference links** compiled within `references.md` for the **Genesis Mission** documentation repository.
 
 ---
 
@@ -9,13 +9,13 @@
 
 | Metric | Count / Value | Description |
 | :--- | :--- | :--- |
-| **Total Reference Links** | **572** | Unique external links indexed across all sections |
+| **Total Reference Links** | **636** | Unique external links indexed across all sections |
 | **Primary Document Sections** | **7** | High-level thematic categories in `references.md` |
-| **Unique Target Domains** | **274** | Distinct domain names referenced (government, lab, corporate, academic, news) |
-| **Official PDF Documents** | **21** | Formal RFA solicitations, webinars, slides, and executive reports |
-| **Web Portals & Press Releases** | **551** | Newsroom features, corporate blog posts, and interactive hubs |
+| **Unique Target Domains** | **308** | Distinct domain names referenced (government, lab, corporate, academic, news) |
+| **Official PDF Documents** | **22** | Formal RFA solicitations, webinars, slides, and executive reports |
+| **Web Portals & Press Releases** | **614** | Newsroom features, corporate blog posts, and interactive hubs |
 | **Validation Status** | **100% Validated** | All links canonicalized, formatted, and deduplicated |
-| **Processing Status** | **572 / 572 Processed** | 0 Unprocessed, 572 Processed (100% Complete) |
+| **Processing Status** | **636 / 636 Processed** | 0 Unprocessed, 636 Processed (100% Complete) |
 
 ---
 
@@ -24,12 +24,12 @@
 | # | Section Header | Link Count | Share (%) | Primary Focus Area |
 |---|:---|:---:|:---:|:---|
 | 1 | `1. Key Presentation Details` | **3** | 0.5% | Briefing agendas, U.S. ATLAS IB meeting details & CERN links |
-| 2 | `2. Collaborators` | **76** | 13.3% | Official homepage & announcement links for industrial/energy partners |
-| 3 | `3. Quantum Leadership & CHIPS Act Initiatives` | **11** | 1.9% | Department of Commerce NIST LOIs & DOE $2B quantum initiatives |
-| 4 | `4. Executive, Federal & Partner Announcements` | **168** | 29.4% | White House releases, Cabinet agency press, hyperscaler & lab announcements |
-| 5 | `5. National Labs & University Coverage` | **279** | 48.8% | National Laboratory news portals & 70 awardee university press releases |
-| 6 | `6. Additional Event Materials & Reference Links` | **17** | 3.0% | Presentation slide decks, institutional intro files & video recordings |
-| 7 | `7. Technical Documents, RFA Guidance & Official Webinars` | **18** | 3.1% | DE-FOA-0003612 solicitations, OSTP challenge papers, SCAC presentations & peer-reviewed AI-for-science research |
+| 2 | `2. Collaborators` | **76** | 12.0% | Official homepage & announcement links for industrial/energy partners |
+| 3 | `3. Quantum Leadership & CHIPS Act Initiatives` | **11** | 1.7% | Department of Commerce NIST LOIs & DOE $2B quantum initiatives |
+| 4 | `4. Executive, Federal & Partner Announcements` | **179** | 28.1% | White House releases, Cabinet agency press, hyperscaler & lab announcements |
+| 5 | `5. National Labs & University Coverage` | **324** | 50.9% | National Laboratory news portals & 70+ awardee university press releases |
+| 6 | `6. Additional Event Materials & Reference Links` | **20** | 3.1% | Presentation slide decks, institutional intro files & video recordings |
+| 7 | `7. Technical Documents, RFA Guidance & Official Webinars` | **23** | 3.6% | DE-FOA-0003612 solicitations, OSTP challenge papers, SCAC presentations & peer-reviewed AI-for-science research |
 
 ---
 
@@ -39,15 +39,15 @@ Below is the distribution of references grouped by top domain hosts and institut
 
 | Domain Host | Reference Count | Host Category | Key Represented Institutions / Content |
 | :--- | :---: | :--- | :--- |
-| `www.energy.gov` | **48** | U.S. Department of Energy (DOE) | FOA releases, Secretary announcements, OSTP challenge docs, Office of the Under Secretary for Science leadership, SBIR/STTR funding, and Challenges Team guidance |
-| `www.anl.gov` | **29** | Argonne National Laboratory (ANL) | ALCF compute platforms, Genesis Open Models, SPOTTER, RoSA robotics, MIRAGE, 2025 research breakthroughs |
-| `science.osti.gov` | **10** | DOE Office of Science (OSTI) | DE-FOA-0003612 guidance, BES/FES/HEP webinars, FAQs |
+| `www.energy.gov` | **51** | U.S. Department of Energy (DOE) | FOA releases, Secretary announcements, OSTP challenge docs, Office of the Under Secretary for Science leadership, commercialization profiles, and SBIR/STTR guidance |
+| `www.anl.gov` | **33** | Argonne National Laboratory (ANL) | ALCF compute platforms, Genesis Open Models, SPOTTER, RoSA robotics, MIRAGE, scientific machine learning, and AI portal coverage |
+| `science.osti.gov` | **11** | DOE Office of Science (OSTI) | DE-FOA-0003612 guidance, BES/FES/HEP webinars, FAQs, and BER awards materials |
 | `www.whitehouse.gov` | **7** | White House OSTP / Executive Office | Presidential executive actions, OSTP wins reports, press releases |
 | `inl.gov` | **6** | Idaho National Laboratory (INL) | SMR digital twins, nuclear AI permitting, autonomous reactor control |
-| `news.fnal.gov` | **12** | Fermi National Accelerator Laboratory | SQMS quantum center, xLight EUV lithography FEL CRADA, DUNE AI neutrino reconstruction & supernova alert workflows |
+| `news.fnal.gov` | **14** | Fermi National Accelerator Laboratory | SQMS quantum center, xLight EUV lithography FEL CRADA, DUNE AI neutrino reconstruction, accelerator performance, and leadership workflows |
 | `blogs.nvidia.com` | **6** | NVIDIA Corporation | Solstice/Equinox supercomputers, National Quantum Initiative, NSF AI Hubs, AI leadership |
 | `www.nist.gov` | **4** | NIST / Department of Commerce | CHIPS Act LOIs, quantum semiconductor incentives, NIST AI join launch |
-| `www.boisestate.edu` | **1** | Boise State University Office of Sponsored Programs | DE-FOA-0003612 topic focus areas (PDF) |
+| `www.boisestate.edu` | **2** | Boise State University research administration | DE-FOA-0003612 topic focus areas (PDF) and request-for-proposals guidance |
 | `www.brown.edu` | **1** | University Newsroom | Brown University National Labs Day spotlights collaboration in AI-enabled science and energy innovation |
 | `www.bu.edu` | **1** | University Newsroom | Boston University College of Engineering Genesis Mission plasma physics award coverage |
 | `newscenter.lbl.gov` | **7** | Lawrence Berkeley National Lab (LBNL) | 13 AI projects lead, ModCon platform, Cech system delivery |
@@ -56,7 +56,8 @@ Below is the distribution of references grouped by top domain hosts and institut
 | `aws.amazon.com` | **4** | Amazon Web Services (AWS) | Public sector HPC credits, quantum post-quantum security |
 | `cloud.google.com` | **3** | Google Cloud | Genesis Mission support and AlphaEvolve evolutionary code optimization |
 | `www.youtube.com` | **6** | YouTube | Genesis Mission summit, technical presentation, webinar, and national-laboratory video recordings |
-| `www.bnl.gov` | **7** | Brookhaven National Laboratory (BNL) | C2QA quantum advantage center, NSLS-II beamlines, uncertainty-guided molecular design, Quantum Technology Outposts at EIC, and seven Phase I project leads |
+| `youtube.com` | **1** | YouTube | Genesis Mission short-form video reference |
+| `www.bnl.gov` | **8** | Brookhaven National Laboratory (BNL) | C2QA quantum advantage center, NSLS-II beamlines, uncertainty-guided molecular design, next-generation AI foundation-model work, and seven Phase I project leads |
 | `www.pppl.gov` | **5** | Princeton Plasma Physics Lab (PPPL) | Stellarator optimization, fusion plasma turbulence AI |
 | `indico.cern.ch` | **3** | CERN Indico Event System | U.S. ATLAS IB meeting slides, DOE-HEP presentation files |
 | `atom-computing.com` | **4** | Atom Computing | Neutral-atom quantum computing hardware, Commerce LOI |
@@ -68,7 +69,7 @@ Below is the distribution of references grouped by top domain hosts and institut
 | `media.defense.gov` | **1** | Department of War / DoD | Defense AI strategy and national security S&T guidance (PDF) |
 | `amsc.energy.gov` | **1** | American Science Cloud (AmSC) | Official Genesis Mission federated cloud portal (`amsc.energy.gov`) |
 | `www.hpdf.science` / `hpdf.science` | **1** | High Performance Data Facility (HPDF) | Official Genesis Mission user facility portal (`hpdf.science`) |
-| `www.newswise.com` | **6** | Scientific News Distribution Network (Newswise) | Argonne, PPPL, Georgia Tech DOE Genesis press releases |
+| `www.newswise.com` | **8** | Scientific News Distribution Network (Newswise) | Argonne, PPPL, Georgia Tech, SRNL, and UNLV DOE Genesis press releases |
 | `opal-doe.org` | **1** | Orchestrated Platform for Autonomous Labs (OPAL) | Multi-lab autonomous laboratory orchestration platform (`opal-doe.org`) |
 | `www.fusionindustryassociation.org` | **1** | Fusion Industry Association (FIA) | FIA FY28 federal budget advocacy — $1.114B DOE fusion investment, $2B Fusion Milestone program |
 | `www.unlv.edu` | **1** | University Newsroom | UNLV College of Engineering Genesis Mission nuclear reactor safety AI project |
@@ -76,7 +77,7 @@ Below is the distribution of references grouped by top domain hosts and institut
 | `science.ucsb.edu` | **1** | University Newsroom | UC Santa Barbara HARVEST-CMM critical-mineral extraction and protein-design research |
 | `engineering.ucsb.edu` | **1** | University Newsroom | UC Santa Barbara College of Engineering Genesis Mission project coverage |
 | `bioengineering.ucsb.edu` | **1** | University Newsroom | UC Santa Barbara Bioengineering Genesis Mission project coverage |
-| `pmc.ncbi.nlm.nih.gov` | **1** | PubMed Central | Peer-reviewed analysis of generative closed-loop AI for fundamental science |
+| `pmc.ncbi.nlm.nih.gov` | **2** | PubMed Central | Peer-reviewed analysis of generative closed-loop AI and scientific machine learning foundation models |
 | `researchsupport.psu.edu` | **1** | Penn State Research Support | Limited-submission guidance for DOE Genesis Mission DE-FOA-0003612 |
 | `research.ucdavis.edu` | **1** | UC Davis Research | DOE Genesis Mission award-recipient project details |
 | `mikekennedy.house.gov` | **1** | U.S. House of Representatives | Rep. Mike Kennedy's GENESIS Act legislative announcement |
@@ -93,13 +94,16 @@ Below is the distribution of references grouped by top domain hosts and institut
 | `cosylab.com` | **1** | Cosylab | Slovenian-based control systems and AI integration specialist selected for Phase 1 of the DOE's Genesis Mission |
 | `www.psu.edu` | **2** | Penn State University | Penn State scientists lead three projects and the $20M LATTICE programmable cloud laboratory |
 | `www.purdue.edu` | **2** | Purdue University College of Engineering | Electron-Ion Collider AI real-time trigger & B2D7 (Bachelor's to Doctorate in 7 Years) pilot program |
+| `www.prnewswire.com` | **6** | PR Newswire | Genesis Mission partner, consortium, and commercialization press releases |
+| `today.ucsd.edu` | **2** | UC San Diego newsroom | National Data Platform and scientific AI tools coverage |
+| `www.olcf.ornl.gov` | **1** | Oak Ridge Leadership Computing Facility (ORNL) | Lux AI system technical overview |
 | `www.scidac.gov` | **1** | U.S. Department of Energy (DOE) | Scientific Discovery through Advanced Computing (SciDAC) Institutes providing mathematical algorithms and computer science tools |
 
 ---
 
 ## 4. Master Reference Link Index
 
-A tabular master index for the 572-reference collection:
+A tabular master index for the 636-reference collection:
 
 | # | Category / Section | Entity / Subject | Title | Domain | Type | Link | Status |
 |---|---|---|---|---|:---:|---|:---:|
@@ -675,3 +679,67 @@ A tabular master index for the 572-reference collection:
 | 570 | 7. Technical Documents, RFA Guidance & Official Webinars | Generative Closed-Loop AI | The Future of Fundamental Science Led by Generative Closed-Loop Artificial Intelligence | `pmc.ncbi.nlm.nih.gov` | Web | [The Future of Fundamental Science Led by Generative Closed-Loop Artificial Intelligence](https://pmc.ncbi.nlm.nih.gov/articles/PMC12932417/) | `Processed` |
 | 571 | 7. Technical Documents, RFA Guidance & Official Webinars | U.S. Department of Energy (DOE) | GEAR: Genesis Education and Resources | `gear.doe.gov` | Web | [GEAR: Genesis Education and Resources](https://gear.doe.gov/) | `Processed` |
 | 572 | 7. Technical Documents, RFA Guidance & Official Webinars | SciDAC | SciDAC: Scientific Discovery through Advanced Computing Institutes | `www.scidac.gov` | Web | [SciDAC: Scientific Discovery through Advanced Computing Institutes](https://www.scidac.gov/institutes.html) | `Processed` |
+| 573 | 5. National Labs & University Coverage | Stanford University / SLAC | Jennifer Cochran Named Vice President for SLAC Strategic Initiatives | `news.stanford.edu` | Web | [Jennifer Cochran Named Vice President for SLAC Strategic Initiatives](https://news.stanford.edu/stories/2026/06/jennifer-cochran-vice-president-slac-strategic-initiatives) | `Processed` |
+| 574 | 5. National Labs & University Coverage | Rensselaer Polytechnic Institute (RPI) | RPI President Schmidt Appointed to DOE Advisory Committee | `news.rpi.edu` | Web | [RPI President Schmidt Appointed to DOE Advisory Committee](https://news.rpi.edu/2026/02/09/rpi-president-schmidt-appointed-doe-advisory-committee) | `Processed` |
+| 575 | 4. Executive, Federal & Partner Announcements | Association of American Universities (AAU) | FY27 Energy Science Coalition Appropriation Recommendation | `www.aau.edu` | Web | [FY27 Energy Science Coalition Appropriation Recommendation](https://www.aau.edu/resource-library/fy27-energy-science-coalition-appropriation-recommendation) | `Processed` |
+| 576 | 5. National Labs & University Coverage | UC San Diego | National Data Platform Receives NSF Category I Award to Expand AI-Ready Data Infrastructure for U.S. | `today.ucsd.edu` | Web | [National Data Platform Receives NSF Category I Award to Expand AI-Ready Data Infrastructure for U.S.](https://today.ucsd.edu/story/national-data-platform-receives-nsf-category-i-award-to-expand-ai-ready-data-infrastructure-for-u.s) | `Processed` |
+| 577 | 5. National Labs & University Coverage | Howard University | Howard University Experts Discuss Multidisciplinary AI Research, Tech, Genesis Mission and More | `thedig.howard.edu` | Web | [Howard University Experts Discuss Multidisciplinary AI Research, Tech, Genesis Mission and More](https://thedig.howard.edu/all-stories/howard-university-experts-discuss-multidisciplinary-ai-research-tech-genesis-mission-and-more-during) | `Processed` |
+| 578 | 7. Technical Documents, RFA Guidance & Official Webinars | Argonne National Laboratory (ANL) | Argonne Leads Team to Build Foundation Models for Scientific Machine Learning | `www.anl.gov` | Web | [Argonne Leads Team to Build Foundation Models for Scientific Machine Learning](https://www.anl.gov/argonne-scientific-publications/pub/204829) | `Processed` |
+| 579 | 5. National Labs & University Coverage | University of Nevada, Las Vegas (UNLV) | UNLV College of Engineering Project Selected for Prestigious Genesis Mission | `www.newswise.com` | Web | [UNLV College of Engineering Project Selected for Prestigious Genesis Mission](https://www.newswise.com/articles/unlv-college-of-engineering-project-selected-for-prestigious-genesis-mission) | `Processed` |
+| 580 | 5. National Labs & University Coverage | Savannah River National Laboratory (SRNL) | SRNL's Advanced Manufacturing Collaborative Celebrates First Year as Nexus of Innovation | `www.newswise.com` | Web | [SRNL's Advanced Manufacturing Collaborative Celebrates First Year as Nexus of Innovation](https://www.newswise.com/articles/srnl-s-advanced-manufacturing-collaborative-celebrates-first-year-as-nexus-of-innovation) | `Processed` |
+| 581 | 4. Executive, Federal & Partner Announcements | HiddenLayer | HiddenLayer Selected to Support DOE’s $60 Million PROMETHEUS Initiative Under the GENESIS Mission | `www.prnewswire.com` | Web | [HiddenLayer Selected to Support DOE’s $60 Million PROMETHEUS Initiative Under the GENESIS Mission](https://www.prnewswire.com/news-releases/hiddenlayer-selected-to-support-does-60-million-prometheus-initiative-under-the-genesis-mission-302853514.html) | `Processed` |
+| 582 | 5. National Labs & University Coverage | UC San Diego | Genesis Mission to Fund New Scientific AI Tools | `today.ucsd.edu` | Web | [Genesis Mission to Fund New Scientific AI Tools](https://today.ucsd.edu/story/genesis-mission-to-fund-new-scientific-ai-tools) | `Processed` |
+| 583 | 5. National Labs & University Coverage | Fermi National Accelerator Laboratory (Fermilab) | DOE Selects Fermilab-Led AI Initiative to Advance Particle Accelerator Performance | `news.fnal.gov` | Web | [DOE Selects Fermilab-Led AI Initiative to Advance Particle Accelerator Performance](https://news.fnal.gov/2026/08/doe-selects-fermilab-led-ai-initiative-to-advance-particle-accelerator-performance/) | `Processed` |
+| 584 | 5. National Labs & University Coverage | University of North Carolina at Chapel Hill | Carolina Researchers Probe the Universe's Origins | `www.unc.edu` | Web | [Carolina Researchers Probe the Universe's Origins](https://www.unc.edu/posts/2026/08/20/carolina-researchers-probe-the-universes-origins/) | `Processed` |
+| 585 | 5. National Labs & University Coverage | Princeton University | DOE and Princeton University Extend, Strengthen Partnership | `www.princeton.edu` | Web | [DOE and Princeton University Extend, Strengthen Partnership](https://www.princeton.edu/news/2026/08/24/doe-and-princeton-university-extend-strengthen-partnership) | `Processed` |
+| 586 | 5. National Labs & University Coverage | University of Oklahoma | Welcome, Class of 2030! | `ou.edu` | Web | [Welcome, Class of 2030!](https://ou.edu/news/articles/2026/august/class-of-2030) | `Processed` |
+| 587 | 5. National Labs & University Coverage | Stony Brook University / Brookhaven National Laboratory | Stony Brook, Brookhaven Lab Researchers Demonstrate Wireless Capability for Quantum Network | `news.stonybrook.edu` | Web | [Stony Brook, Brookhaven Lab Researchers Demonstrate Wireless Capability for Quantum Network](https://news.stonybrook.edu/university/stony-brook-brookhaven-lab-researchers-demonstrate-wireless-capability-for-quantum-network/) | `Processed` |
+| 588 | 4. Executive, Federal & Partner Announcements | U.S. Department of Energy (DOE) | Shawn Whitman: Department of Energy | `www.energy.gov` | Web | [Shawn Whitman: Department of Energy](https://www.energy.gov/undersecretaryforscience/person/shawn-whitman) | `Processed` |
+| 589 | 4. Executive, Federal & Partner Announcements | University of Arizona | Opinion: AI Agent Just Broke Containment. Congress Needs a $3 Billion Response | `news.arizona.edu` | Web | [Opinion: AI Agent Just Broke Containment. Congress Needs a $3 Billion Response](https://news.arizona.edu/news/opinion-ai-agent-just-broke-containment-congress-needs-3-billion-response) | `Processed` |
+| 590 | 5. National Labs & University Coverage | University of Hawaiʻi | UH Faculty Win Department of Energy Genesis Mission Awards | `www.hawaii.edu` | Web | [UH Faculty Win Department of Energy Genesis Mission Awards](https://www.hawaii.edu/news/2026/07/27/genesis-mission-awards/) | `Processed` |
+| 591 | 7. Technical Documents, RFA Guidance & Official Webinars | DOE Office of Science | 2026 Genesis Awards Flyer (PDF) | `science.osti.gov` | PDF | [2026 Genesis Awards Flyer (PDF)](https://science.osti.gov/-/media/ber/pdf/News-and-Resources/26-Genesis-Awards-Flyer_0820.pdf) | `Processed` |
+| 592 | 5. National Labs & University Coverage | University of Southern California (USC) | Unlocking the Physics of Turbulence with AI | `viterbischool.usc.edu` | Web | [Unlocking the Physics of Turbulence with AI](https://viterbischool.usc.edu/news/2026/08/unlocking-the-physics-of-turbulence-with-ai/) | `Processed` |
+| 593 | 5. National Labs & University Coverage | Washington University in St. Louis | Hengen Applies Lessons From Brain to Quantum Sensing | `source.washu.edu` | Web | [Hengen Applies Lessons From Brain to Quantum Sensing](https://source.washu.edu/2026/08/hengen-applies-lessons-from-brain-to-quantum-sensing/) | `Processed` |
+| 594 | 5. National Labs & University Coverage | University of Maryland | Can AI See Next Flood Coming? UMD Team Aims to Transform Water Forecasting | `www.cs.umd.edu` | Web | [Can AI See Next Flood Coming? UMD Team Aims to Transform Water Forecasting](https://www.cs.umd.edu/article/2026/08/can-ai-see-next-flood-coming-umd-team-aims-transform-water-forecasting) | `Processed` |
+| 595 | 4. Executive, Federal & Partner Announcements | NLR | Q&A with Steve Hammond: AI, Data Center Challenges, and NLR Solutions | `www.nlr.gov` | Web | [Q&A with Steve Hammond: AI, Data Center Challenges, and NLR Solutions](https://www.nlr.gov/news/detail/program/2026/q-a-with-steve-hammond-ai-data-center-challenges-and-nlr-solutions) | `Processed` |
+| 596 | 5. National Labs & University Coverage | Tulane University | AI-Driven Discovery: Genesis Mission and the Future of Energy Innovation | `energyforum.tulane.edu` | Web | [AI-Driven Discovery: Genesis Mission and the Future of Energy Innovation](https://energyforum.tulane.edu/ai-driven-discovery-genesis-mission-future-energy-innovation) | `Processed` |
+| 597 | 5. National Labs & University Coverage | Columbia University | Tanvir Ahmed Khan Awarded Genesis Mission Funding | `www.ee.columbia.edu` | Web | [Tanvir Ahmed Khan Awarded Genesis Mission Funding](https://www.ee.columbia.edu/news/tanvir-ahmed-khan-awarded-genesis-mission-funding) | `Processed` |
+| 598 | 5. National Labs & University Coverage | University of Oklahoma | Researchers Selected for Department of Energy Genesis Mission | `www.ou.edu` | Web | [Researchers Selected for Department of Energy Genesis Mission](https://www.ou.edu/news/articles/2026/august/researchers-selected-department-of-energy-genesis-mission) | `Processed` |
+| 599 | 5. National Labs & University Coverage | Texas A&M University System | DOE Research Development: The Texas A&M University System | `www.tamus.edu` | Web | [DOE Research Development: The Texas A&M University System](https://www.tamus.edu/research/development/doe/) | `Processed` |
+| 600 | 5. National Labs & University Coverage | University of Washington | Hossein Naghavi: Terahertz Waves, Augmented Reality, and the Genesis Mission | `www.washington.edu` | Web | [Hossein Naghavi: Terahertz Waves, Augmented Reality, and the Genesis Mission](https://www.washington.edu/news/2026/08/18/hossein-naghavi-terahertz-waves-augmented-reality-genesis-mission/) | `Processed` |
+| 601 | 4. Executive, Federal & Partner Announcements | U.S. Department of Agriculture (USDA) | Actuality: White House Genesis Mission and Ag Science and Tech | `www.usda.gov` | Web | [Actuality: White House Genesis Mission and Ag Science and Tech](https://www.usda.gov/about-usda/news/radio/daily-newsline/2026-08-21/actuality-white-house-genesis-mission-and-ag-science-and-tech) | `Processed` |
+| 602 | 5. National Labs & University Coverage | Pacific Northwest National Laboratory (PNNL) | New Life for Used Nuclear Fuel | `www.pnnl.gov` | Web | [New Life for Used Nuclear Fuel](https://www.pnnl.gov/news-media/new-life-used-nuclear-fuel) | `Processed` |
+| 603 | 4. Executive, Federal & Partner Announcements | Cellebrite | Cellebrite Genesis for Enterprise Now Generally Available, Regional Availability Expands to More Global Markets | `www.prnewswire.com` | Web | [Cellebrite Genesis for Enterprise Now Generally Available, Regional Availability Expands to More Global Markets](https://www.prnewswire.com/il/news-releases/cellebrite-genesis-for-enterprise-now-generally-available-regional-availability-expands-to-more-global-markets-302854865.html) | `Processed` |
+| 604 | 4. Executive, Federal & Partner Announcements | Aclara Technologies | Aclara Technologies Selected for DOE Federal Funding to Advance AI-Driven Heavy Rare Earth Processing | `www.vtcrc.com` | Web | [Aclara Technologies Selected for DOE Federal Funding to Advance AI-Driven Heavy Rare Earth Processing](https://www.vtcrc.com/aclara-technologies-selected-for-doe-federal-funding-to-advance-ai-driven-heavy-rare-earth-processing/) | `Processed` |
+| 605 | 5. National Labs & University Coverage | Argonne National Laboratory (ANL) | Streamline Uses AI to Tackle One of Nuclear Physics' Toughest Problems | `www.anl.gov` | Web | [Streamline Uses AI to Tackle One of Nuclear Physics' Toughest Problems](https://www.anl.gov/article/streamline-uses-ai-to-tackle-one-of-nuclear-physics-toughest-problems) | `Processed` |
+| 606 | 6. Additional Event Materials & Reference Links | YouTube | YouTube Short: Genesis Mission Reference Clip (u96gp5cGhHk) | `youtube.com` | Web | [YouTube Short: Genesis Mission Reference Clip (u96gp5cGhHk)](https://youtube.com/shorts/u96gp5cGhHk?is=hLkmzbCpbPzVXubz) | `Processed` |
+| 607 | 5. National Labs & University Coverage | Oak Ridge National Laboratory (ORNL) | Lux: Oak Ridge Leadership Computing Facility | `www.olcf.ornl.gov` | Web | [Lux: Oak Ridge Leadership Computing Facility](https://www.olcf.ornl.gov/olcf-resources/compute-systems/lux/) | `Processed` |
+| 608 | 4. Executive, Federal & Partner Announcements | Rescale | Rescale Selected from Record 8,000 Applicants for DOE GENESIS Mission to Reduce Engineering Time Fivefold | `fenado.ai` | Web | [Rescale Selected from Record 8,000 Applicants for DOE GENESIS Mission to Reduce Engineering Time Fivefold](https://fenado.ai/articles/rescale-selected-from-record-8000-applicants-for-doe-genesis-mission-to-reduce-engineering-time-fivefold) | `Processed` |
+| 609 | 5. National Labs & University Coverage | Oak Ridge National Laboratory (ORNL) | Research Scientist, Agentic Workflows | `jobs.ornl.gov` | Web | [Research Scientist, Agentic Workflows](https://jobs.ornl.gov/job/Oak-Ridge-Research-Scientist%2C-Agentic-Workflows-TN-37830/1422626200) | `Processed` |
+| 610 | 6. Additional Event Materials & Reference Links | Lawrence Berkeley National Laboratory (LBNL) | AUM 2026 Recap: Building the Future of Advanced User Materials | `foundry.lbl.gov` | Web | [AUM 2026 Recap: Building the Future of Advanced User Materials](https://foundry.lbl.gov/2026/08/24/aum2026recap/) | `Processed` |
+| 611 | 5. National Labs & University Coverage | Argonne National Laboratory (ANL) | Weather Is Community: Argonne Researchers Talk Atmospheric Science, AI, and Citizen Science at the New | `www.anl.gov` | Web | [Weather Is Community: Argonne Researchers Talk Atmospheric Science, AI, and Citizen Science at the New](https://www.anl.gov/cels/article/weather-is-community-argonne-researchers-talk-atmospheric-science-ai-and-citizen-science-at-the-new) | `Processed` |
+| 612 | 5. National Labs & University Coverage | Argonne National Laboratory (ANL) | AI at Argonne | `www.anl.gov` | Web | [AI at Argonne](https://www.anl.gov/ai) | `Processed` |
+| 613 | 5. National Labs & University Coverage | La Sierra University | La Sierra Profs' Team Selected for DOE Genesis Mission AI Research Award | `lasierra.edu` | Web | [La Sierra Profs' Team Selected for DOE Genesis Mission AI Research Award](https://lasierra.edu/article/la-sierra-profs-team-selected-for-doe-genesis-mission-ai-research-award/) | `Processed` |
+| 614 | 5. National Labs & University Coverage | Idaho National Laboratory (INL) | National Laboratory Research Collaboration Focuses on Accelerated Qualification of Critical Nuclear Components | `inl.gov` | Web | [National Laboratory Research Collaboration Focuses on Accelerated Qualification of Critical Nuclear Components](https://inl.gov/news-release/national-laboratory-research-collaboration-focuses-on-accelerated-qualification-of-critical-nuclear-components/) | `Processed` |
+| 615 | 5. National Labs & University Coverage | University of Maryland | Can AI See the Next Flood Coming | `today.umd.edu` | Web | [Can AI See the Next Flood Coming](https://today.umd.edu/can-ai-see-the-next-flood-coming) | `Processed` |
+| 616 | 5. National Labs & University Coverage | SLAC National Accelerator Laboratory | SLAC to Lead Genesis Mission AI Project to Recover Critical Metals from Lithium-Ion Battery Waste | `www6.slac.stanford.edu` | Web | [SLAC to Lead Genesis Mission AI Project to Recover Critical Metals from Lithium-Ion Battery Waste](https://www6.slac.stanford.edu/news/2026-07-22-slac-lead-genesis-mission-ai-project-recover-critical-metals-lithium-ion-battery) | `Processed` |
+| 617 | 5. National Labs & University Coverage | Lehigh University | Brian Leard Selected for DOE Fusion Energy Postdoc | `engineering.lehigh.edu` | Web | [Brian Leard Selected for DOE Fusion Energy Postdoc](https://engineering.lehigh.edu/news/article/brian-leard-selected-doe-fusion-energy-postdoc) | `Processed` |
+| 618 | 5. National Labs & University Coverage | Carnegie Mellon University | Building the Future: Carnegie Mellon Is the Quintessential American Story | `www.cmu.edu` | Web | [Building the Future: Carnegie Mellon Is the Quintessential American Story](https://www.cmu.edu/news/stories/archives/2026/august/building-the-future-carnegie-mellon-is-the-quintessential-american-story) | `Processed` |
+| 619 | 5. National Labs & University Coverage | University of Minnesota | Three UMN Projects Win Inaugural DOE Genesis Mission Awards, Advance AI Innovation | `research.umn.edu` | Web | [Three UMN Projects Win Inaugural DOE Genesis Mission Awards, Advance AI Innovation](https://research.umn.edu/news/three-umn-projects-win-inaugural-doe-genesis-mission-awards-advance-ai-innovation) | `Processed` |
+| 620 | 5. National Labs & University Coverage | Kent State University | Kent State Researcher Selected for DOE Genesis Mission Award for Critical Minerals | `www.kent.edu` | Web | [Kent State Researcher Selected for DOE Genesis Mission Award for Critical Minerals](https://www.kent.edu/today/news/kent-state-researcher-selected-doe-genesis-mission-award-critical-minerals) | `Processed` |
+| 621 | 4. Executive, Federal & Partner Announcements | U.S. Department of Energy (DOE) | Office of Technology Commercialization: Department of Energy | `www.energy.gov` | Web | [Office of Technology Commercialization: Department of Energy](https://www.energy.gov/technologycommercialization/office-technology-commercialization) | `Processed` |
+| 622 | 7. Technical Documents, RFA Guidance & Official Webinars | Boise State University | Request for Proposals (RFP) | `www.boisestate.edu` | Web | [Request for Proposals (RFP)](https://www.boisestate.edu/research/request-for-proposals-rfp/) | `Processed` |
+| 623 | 7. Technical Documents, RFA Guidance & Official Webinars | Scientific Machine Learning | Advances in Large-Scale Pre-trained Foundation Models for Scientific Machine Learning | `pmc.ncbi.nlm.nih.gov` | Web | [Advances in Large-Scale Pre-trained Foundation Models for Scientific Machine Learning](https://pmc.ncbi.nlm.nih.gov/articles/PMC12183835/) | `Processed` |
+| 624 | 5. National Labs & University Coverage | Fermi National Accelerator Laboratory (Fermilab) | Associate Directors Help Shape the Future of Fermilab | `news.fnal.gov` | Web | [Associate Directors Help Shape the Future of Fermilab](https://news.fnal.gov/2026/08/associate-directors-help-shape-future-of-fermilab/) | `Processed` |
+| 625 | 7. Technical Documents, RFA Guidance & Official Webinars | Scientific Machine Learning | Foundation Models for Scientific Machine Learning: Advances, Challenges, and Opportunities | `pubmed.ncbi.nlm.nih.gov` | Web | [Foundation Models for Scientific Machine Learning: Advances, Challenges, and Opportunities](https://pubmed.ncbi.nlm.nih.gov/42531401/) | `Processed` |
+| 626 | 5. National Labs & University Coverage | William & Mary | William & Mary Receives DOE Genesis Mission Award to Advance AI-Powered Particle Physics | `news.wm.edu` | Web | [William & Mary Receives DOE Genesis Mission Award to Advance AI-Powered Particle Physics](https://news.wm.edu/2026/07/27/william-mary-receives-doe-genesis-mission-award-to-advance-ai-powered-particle-physics/) | `Processed` |
+| 627 | 5. National Labs & University Coverage | University of Central Florida (UCF) | UCF Researcher to Support DOE Project Using AI to Accelerate Scientific Discovery | `www.cecs.ucf.edu` | Web | [UCF Researcher to Support DOE Project Using AI to Accelerate Scientific Discovery](https://www.cecs.ucf.edu/ucf-researcher-to-support-doe-project-using-ai-to-accelerate-scientific-discovery/) | `Processed` |
+| 628 | 5. National Labs & University Coverage | North Carolina State University | NC State to Lead Three Department of Energy Genesis Mission Projects | `ece.ncsu.edu` | Web | [NC State to Lead Three Department of Energy Genesis Mission Projects](https://ece.ncsu.edu/2026/nc-state-to-lead-three-department-of-energy-genesis-mission-projects/) | `Processed` |
+| 629 | 6. Additional Event Materials & Reference Links | Krell Institute | Brian Spears 2026 CSGF Conference Video | `www.krellinst.org` | Web | [Brian Spears 2026 CSGF Conference Video](https://www.krellinst.org/csgf/conf/2026/video/spears2026) | `Processed` |
+| 630 | 4. Executive, Federal & Partner Announcements | U.S. Department of Energy (DOE) | Emma Quigg: Department of Energy | `www.energy.gov` | Web | [Emma Quigg: Department of Energy](https://www.energy.gov/person/emma-quigg) | `Processed` |
+| 631 | 5. National Labs & University Coverage | Columbia University | Columbia Engineering Faculty Members Awarded Genesis Mission Funding | `www.engineering.columbia.edu` | Web | [Columbia Engineering Faculty Members Awarded Genesis Mission Funding](https://www.engineering.columbia.edu/about/news/columbia-engineering-faculty-members-awarded-genesis-mission-funding) | `Processed` |
+| 632 | 5. National Labs & University Coverage | Brookhaven National Laboratory (BNL) | New $5M Project To Build Foundation for Next-Generation AI | `www.bnl.gov` | Web | [New $5M Project To Build Foundation for Next-Generation AI](https://www.bnl.gov/newsroom/news.php?a=123096) | `Processed` |
+| 633 | 5. National Labs & University Coverage | George Mason University | George Mason Computer Scientist Receives DOE Genesis Award for Breakthrough AI-HPC Research | `cec.gmu.edu` | Web | [George Mason Computer Scientist Receives DOE Genesis Award for Breakthrough AI-HPC Research](https://cec.gmu.edu/news/2026-08/george-mason-computer-scientist-receives-doe-genesis-award-breakthrough-ai-hpc) | `Processed` |
+| 634 | 5. National Labs & University Coverage | George Washington University | GW Engineering Professor Receives Department of Energy Genesis Mission Award | `gwtoday.gwu.edu` | Web | [GW Engineering Professor Receives Department of Energy Genesis Mission Award](https://gwtoday.gwu.edu/gw-engineering-professor-receives-department-energy-genesis-mission-award) | `Processed` |
+| 635 | 5. National Labs & University Coverage | University of Washington | UW ECE's Hossein Naghavi Receives DOE “Genesis Mission” Award | `www.ece.uw.edu` | Web | [UW ECE's Hossein Naghavi Receives DOE “Genesis Mission” Award](https://www.ece.uw.edu/spotlight/uw-ece-hossein-naghavi-genesis-mission/) | `Processed` |
+| 636 | 5. National Labs & University Coverage | Tulane University | Department of Energy's Genesis Mission Selects Tulane Team Using AI to Discover Next-Generation Materials | `sse.tulane.edu` | Web | [Department of Energy's Genesis Mission Selects Tulane Team Using AI to Discover Next-Generation Materials](https://sse.tulane.edu/department-energys-genesis-mission-selects-tulane-team-using-ai-discover-next-generation) | `Processed` |
