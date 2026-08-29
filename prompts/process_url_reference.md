@@ -36,13 +36,12 @@ The workflow receives a single URL parameter supplied via prompt invocation:
 ### 4. Coverage Matrix Audit (`coverage.md`)
 - Check if the reference introduces an entity (company, university, laboratory, or organization) not currently listed in `coverage.md`.
 - If new entities are present:
-  1. Add each entity to the appropriate section of `coverage.md` with status `❌ Not Covered` and note `(reference only)`.
-  2. Renumber affected rows and update all summary tables ("By Entity Type", "By Coverage Level", and header metrics).
+  1. Add each entity to the appropriate section of `coverage.md` with status `❌ Not Covered` and note `(reference only)`. Always append new entries to the bottom of the table to avoid large updates.
+  2. Update all summary tables ("By Entity Type", "By Coverage Level", and header metrics).
 
 ### 5. Register & Update Master Index (`reference_coverage.md`)
-- Register the newly added reference link in Section 4 (*Master Reference Link Index*) of `reference_coverage.md` at its designated position:
-  - Assign sequential Index `#`, Category/Section, Entity/Subject, Title, Host Domain, Resource Type, URL, and set `Status` to **`Processed`**.
-- **Row Sequential Renumbering:** Renumber all subsequent rows to maintain a continuous unbroken sequence ($1 \dots N$).
+- Register the newly added reference link in Section 4 (*Master Reference Link Index*) of `reference_coverage.md`:
+  - Assign Category/Section, Entity/Subject, Title, Host Domain, Resource Type, URL, and set `Status` to **`Processed`**. Always append new entries to the bottom of the table to avoid large updates.
 - **Executive Summary Metrics Sync:** Update all Section 1 metrics (Total Links, Web Portals/PDFs, Processing Status `N / N Processed`), Section 2 distribution table (counts and share percentages), and Section 3 top domain counts.
 
 ### 6. Enrich Research Papers (`README.md` & `README.de.md`)
@@ -54,7 +53,7 @@ The workflow receives a single URL parameter supplied via prompt invocation:
 - **Version Bump:** Increment only the patch version string on line 1 of both `README.md` and `README.de.md` (e.g., `**Version**: 2.4.10` → `**Version**: 2.4.11`).
 - **Headline Preservation Rule:** Do not modify the main document headline while updating the version. Keep the blank line after the version and leave line 3 in both files unchanged.
 - **Changelog Entry:** Add a new release section `## [X.Y.Z] - YYYY-MM-DD` in `CHANGELOG.md` logging:
-  - The processed reference link (Index `#`, Title, Host Domain).
+  - The processed reference link (Title, Host Domain).
   - Specific paper sections enriched.
   - The updated index completion ratio (**N / N Processed, 100% Complete**).
 
@@ -66,7 +65,7 @@ The workflow receives a single URL parameter supplied via prompt invocation:
   git commit -m "feat(ref): process <Entity/Title> (<Domain>)
 
   - Integrated reference link into references.md under <Section Header>
-  - Registered & processed Master Index Entry #<ID> in reference_coverage.md
+  - Registered & processed Master Index Entry in reference_coverage.md
   - Enriched §<Section> in README.md and README.de.md with <key technical detail>
   - Bumped version string to vX.Y.Z and updated CHANGELOG.md"
   ```
