@@ -1,7 +1,7 @@
 # Genesis Mission — Master Reference Coverage Report
 
 > **Document Overview:**
-> This report provides a comprehensive coverage analysis, breakdown, and master audit index for the **589 external reference links** compiled within `references.md` for the **Genesis Mission** documentation repository.
+> This report provides a comprehensive coverage analysis, breakdown, and master audit index for the **590 external reference links** compiled within `references.md` for the **Genesis Mission** documentation repository.
 
 ---
 
@@ -9,13 +9,13 @@
 
 | Metric | Count / Value | Description |
 | :--- | :--- | :--- |
-| **Total Reference Links** | **589** | Unique external links indexed across all sections |
+| **Total Reference Links** | **590** | Unique external links indexed across all sections |
 | **Primary Document Sections** | **7** | High-level thematic categories in `references.md` |
 | **Unique Target Domains** | **283** | Distinct domain names referenced (government, lab, corporate, academic, news) |
 | **Official PDF Documents** | **21** | Formal RFA solicitations, webinars, slides, and executive reports |
-| **Web Portals & Press Releases** | **568** | Newsroom features, corporate blog posts, and interactive hubs |
+| **Web Portals & Press Releases** | **569** | Newsroom features, corporate blog posts, and interactive hubs |
 | **Validation Status** | **100% Validated** | All links canonicalized, formatted, and deduplicated |
-| **Processing Status** | **589 / 589 Processed** | 0 Unprocessed, 589 Processed (100% Complete) |
+| **Processing Status** | **590 / 590 Processed** | 0 Unprocessed, 590 Processed (100% Complete) |
 
 ---
 
@@ -26,8 +26,8 @@
 | `1. Key Presentation Details` | **3** | 0.5% | Briefing agendas, U.S. ATLAS IB meeting details & CERN links |
 | `2. Collaborators` | **76** | 12.9% | Official homepage & announcement links for industrial/energy partners |
 | `3. Quantum Leadership & CHIPS Act Initiatives` | **11** | 1.9% | Department of Commerce NIST LOIs & DOE $2B quantum initiatives |
-| `4. Executive, Federal & Partner Announcements` | **170** | 28.9% | White House releases, Cabinet agency press, hyperscaler & lab announcements |
-| `5. National Labs & University Coverage` | **293** | 49.7% | National Laboratory news portals & 71 awardee university press releases |
+| `4. Executive, Federal & Partner Announcements` | **170** | 28.8% | White House releases, Cabinet agency press, hyperscaler & lab announcements |
+| `5. National Labs & University Coverage` | **294** | 49.8% | National Laboratory news portals & 71 awardee university press releases |
 | `6. Additional Event Materials & Reference Links` | **18** | 3.1% | Presentation slide decks, institutional intro files & video recordings |
 | `7. Technical Documents, RFA Guidance & Official Webinars` | **18** | 3.1% | DE-FOA-0003612 solicitations, OSTP challenge papers, SCAC presentations & peer-reviewed AI-for-science research |
 
@@ -104,6 +104,7 @@ Below is the distribution of references grouped by top domain hosts and institut
 | `www.kent.edu` | **1** | University Newsroom | Kent State University researcher Dr. David Costello receives inaugural DOE Genesis Mission Award for AI-driven probabilistic source mapping of critical minerals |
 | `www.hawaii.edu` | **1** | University Newsroom | University of Hawaiʻi systemwide news coverage of STRATOS and rare-decay AI foundation model Genesis Mission awards |
 | `research.umn.edu` | **1** | University Newsroom | University of Minnesota research news release on three inaugural DOE Genesis Mission awards advancing AI innovation in semiconductor manufacturing, geothermal energy digital twins, and critical mineral extraction |
+| `www.cmu.edu` | **4** | University Newsroom | Carnegie Mellon University newsroom featuring researchers leading three Genesis awards, autonomous lab integration, AI science foundry, and America250 future-building initiative |
 
 ---
 
@@ -702,5 +703,6 @@ A tabular master index for the 589-reference collection:
 | 5. National Labs & University Coverage | Kent State University | Kent State Researcher Selected for DOE Genesis Mission Award | `www.kent.edu` | Web | [Kent State Researcher Selected for DOE Genesis Mission Award](https://www.kent.edu/today/news/kent-state-researcher-selected-doe-genesis-mission-award-critical-minerals) | `Processed` |
 | 5. National Labs & University Coverage | University of Hawaiʻi at Mānoa | UH News: Genesis Mission Awards | `www.hawaii.edu` | Web | [UH News: Genesis Mission Awards](https://www.hawaii.edu/news/2026/07/27/genesis-mission-awards/) | `Processed` |
 | 5. National Labs & University Coverage | University of Minnesota | Three UMN Projects Win Inaugural DOE Genesis Mission Awards to Advance AI Innovation | `research.umn.edu` | Web | [Three UMN Projects Win Inaugural DOE Genesis Mission Awards to Advance AI Innovation](https://research.umn.edu/news/three-umn-projects-win-inaugural-doe-genesis-mission-awards-advance-ai-innovation) | `Processed` |
+| 5. National Labs & University Coverage | Carnegie Mellon University | Building the Future: Carnegie Mellon is the Quintessential American Story | `www.cmu.edu` | Web | [Building the Future: Carnegie Mellon is the Quintessential American Story](https://www.cmu.edu/news/stories/archives/2026/august/building-the-future-carnegie-mellon-is-the-quintessential-american-story) | `Processed` |
 
 
