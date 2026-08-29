@@ -613,6 +613,7 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
   * [USC Leads National AI Research Project](https://today.usc.edu/usc-leads-national-ai-research-project-to-accelerate-scientific-discovery/)
   * [Multiple USC-Led Projects Receive Awards to Advance AI](https://today.usc.edu/multiple-usc-led-projects-receive-u-s-department-of-energy-genesis-mission-awards-to-advance-ai/)
   * [USC Stevens Center: USC Leads National AI Research Project](https://stevens.usc.edu/news/genesis-mission-usc-leads-national-ai-research-project-to-accelerate-scientific-discovery/)
+  * [Unlocking the Physics of Turbulence with AI](https://viterbischool.usc.edu/news/2026/08/unlocking-the-physics-of-turbulence-with-ai/)
 * **University of Texas at Arlington:** [UTA Lands DOE Genesis Mission Award to Keep AI Honest in Scientific Research](https://dallasinnovates.com/uta-lands-doe-genesis-mission-award-to-keep-ai-honest-in-scientific-research/)
 * **University of Texas at Austin:**
   * [Department of Energy’s New AI for Science Genesis Mission Awards Funding to 5 UT Research Projects](https://news.utexas.edu/2026/07/22/department-of-energys-new-ai-for-science-genesis-mission-awards-funding-to-5-ut-research-projects/)

@@ -5,6 +5,14 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.6.56] - 2026-08-29
+
+### Added
+- **Reference Index Entry #609**: Processed `https://viterbischool.usc.edu/news/2026/08/unlocking-the-physics-of-turbulence-with-ai/` (*Unlocking the Physics of Turbulence with AI*) under Section 5 (*National Labs & University Coverage*) in `references.md`.
+- **Master Index Update**: Registered new entry #609 in `reference_coverage.md` at the bottom of the Section 4 Master Reference Link Index table (categorized under Section 5). Synchronized all summary metrics: Total Reference Links (608 → 609), Unique Target Domains (291 → 292), Web Portals & Press Releases (586 → 587), and 100% Processing Status (609 / 609 Processed, 100% Complete). Section 5 count increased (309 → 310, 50.8% → 50.9%), and Section 2 shares updated. Registered top domain host `viterbischool.usc.edu` in Section 3 (Top Domain table) with an updated count of 1.
+- **Coverage Matrix Update**: No new entities were introduced to `coverage.md` as the University of Southern California (USC), University of Michigan, and Argonne National Laboratory (ANL) are already fully profiled.
+- **Research Paper Enrichment — §3.3 (README.md & README.de.md)**: Enriched both English and German flagship papers with the USC Viterbi leading project *Unlocking the Physics of Turbulence with AI* under Associate Professor Iván Bermejo-Moreno, partnering with the University of Michigan and Argonne National Laboratory (ANL). Highlighted the development of an AI-driven framework for high-fidelity turbulence simulation using machine learning to identify and track coherent flow structures over time to learn physical governing rules, leveraging ANL's supercomputing resources and training USC students via Argonne's Training Program on Extreme-Scale Computing (ATPESC). Bumped version string to `3.6.56` across `README.md` and `README.de.md`.
+
 ## [3.6.55] - 2026-08-29
 
 ### Added
