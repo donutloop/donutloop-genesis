@@ -5,6 +5,16 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.6.60] - 2026-08-29
+
+### Added
+- **Reference Index Entry #612**: Processed `https://news.fnal.gov/2026/08/doe-selects-fermilab-led-ai-initiative-to-advance-particle-accelerator-performance/` (*DOE Selects Fermilab-Led AI Initiative to Advance Particle Accelerator Performance*, host domain `news.fnal.gov`) under Section 5 (*National Labs & University Coverage — Fermilab*) in `references.md`.
+- **Master Index Update**: Registered new entry #612 at the bottom of the Section 4 Master Reference Link Index table in `reference_coverage.md`. Synchronized all summary metrics: Total Reference Links (611 → 612), Web Portals & Press Releases (589 → 590), and Processing Status (**612 / 612 Processed, 100% Complete**). Section 5 count increased (311 → 312, 50.9% → 51.0%), Section 4 share adjusted (28.2% → 28.1%), and the Section 3 top domain count for `news.fnal.gov` increased (13 → 14) with its description extended to cover AI/ML resonance control for SRF cavities at PIP-II. Unique Target Domains remain 294 (no new host introduced).
+- **Coverage Matrix Audit**: No changes required in `coverage.md` — all entities named in the reference (Fermilab, Cornell University, xLight) are already registered with "✅ Full Profile" status.
+
+### Changed
+- **Research Paper Enrichment — §3.2 & Appendix A.2 (README.md & README.de.md)**: Added an *AI-Driven SRF Resonance Control & Autonomous Accelerators* entry to the Fermilab profile in §3.2 of both the English and German flagship papers, documenting the DOE Genesis Mission selection of the Fermilab-led initiative for AI/ML-based adaptive resonance control of superconducting radio-frequency (SRF) cavities, the disturbance sources addressed (helium bath pressure fluctuations, Lorentz-force detuning, microphonics) and real-time piezo/motor tuner actuation, the targeted outcomes (reduced RF power consumption, improved beam stability, extended component lifetime, multi-million-dollar annual operational savings), the demonstration platform at the **Proton Improvement Plan-II (PIP-II)** superconducting linac for LBNF/DUNE, and the collaboration with **Cornell University** (Matthias Liepe) and industry partner **xLight Inc.** toward standardized, transferable control models across DOE accelerator facilities. Updated the Appendix A.2 national laboratory table rows and bumped the version string to `3.6.60` across `README.md` and `README.de.md`.
+
 ## [3.6.59] - 2026-08-29
 
 ### Added
