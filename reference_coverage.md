@@ -1,7 +1,7 @@
 # Genesis Mission — Master Reference Coverage Report
 
 > **Document Overview:**
-> This report provides a comprehensive coverage analysis, breakdown, and master audit index for the **616 external reference links** compiled within `references.md` for the **Genesis Mission** documentation repository.
+> This report provides a comprehensive coverage analysis, breakdown, and master audit index for the **617 external reference links** compiled within `references.md` for the **Genesis Mission** documentation repository.
 
 ---
 
@@ -9,13 +9,13 @@
 
 | Metric | Count / Value | Description |
 | :--- | :--- | :--- |
-| **Total Reference Links** | **616** | Unique external links indexed across all sections |
+| **Total Reference Links** | **617** | Unique external links indexed across all sections |
 | **Primary Document Sections** | **7** | High-level thematic categories in `references.md` |
-| **Unique Target Domains** | **296** | Distinct domain names referenced (government, lab, corporate, academic, news) |
+| **Unique Target Domains** | **297** | Distinct domain names referenced (government, lab, corporate, academic, news) |
 | **Official PDF Documents** | **22** | Formal RFA solicitations, webinars, slides, and executive reports |
-| **Web Portals & Press Releases** | **594** | Newsroom features, corporate blog posts, and interactive hubs |
+| **Web Portals & Press Releases** | **595** | Newsroom features, corporate blog posts, and interactive hubs |
 | **Validation Status** | **100% Validated** | All links canonicalized, formatted, and deduplicated |
-| **Processing Status** | **616 / 616 Processed** | 0 Unprocessed, 616 Processed (100% Complete) |
+| **Processing Status** | **617 / 617 Processed** | 0 Unprocessed, 617 Processed (100% Complete) |
 
 ---
 
@@ -26,8 +26,8 @@
 | `1. Key Presentation Details` | **3** | 0.5% | Briefing agendas, U.S. ATLAS IB meeting details & CERN links |
 | `2. Collaborators` | **77** | 12.5% | Official homepage & announcement links for industrial/energy partners |
 | `3. Quantum Leadership & CHIPS Act Initiatives` | **11** | 1.8% | Department of Commerce NIST LOIs & DOE $2B quantum initiatives |
-| `4. Executive, Federal & Partner Announcements` | **173** | 28.1% | White House releases, Cabinet agency press, hyperscaler & lab announcements |
-| `5. National Labs & University Coverage` | **315** | 51.1% | National Laboratory news portals & 72 awardee university press releases |
+| `4. Executive, Federal & Partner Announcements` | **173** | 28.0% | White House releases, Cabinet agency press, hyperscaler & lab announcements |
+| `5. National Labs & University Coverage` | **316** | 51.2% | National Laboratory news portals & 72 awardee university press releases |
 | `6. Additional Event Materials & Reference Links` | **18** | 2.9% | Presentation slide decks, institutional intro files & video recordings |
 | `7. Technical Documents, RFA Guidance & Official Webinars` | **19** | 3.1% | DE-FOA-0003612 solicitations, OSTP challenge papers, SCAC presentations & peer-reviewed AI-for-science research |
 
@@ -121,6 +121,7 @@ Below is the distribution of references grouped by top domain hosts and institut
 | `www.vtcrc.com` | **1** | Research Park Newsroom | Virginia Tech Corporate Research Center (VTCRC) press coverage of Aclara Technologies' DOE Genesis Mission federal funding for AI-driven heavy rare earth processing |
 | `www.ou.edu` | **1** | University Newsroom | University of Oklahoma coverage of two OU-led Genesis Mission Phase I awards (~$1.4M) in AI-enabled geothermal stimulation and quantum computing, plus LANL-led Earth-system prediction support |
 | `ece.ncsu.edu` | **1** | University Department Newsroom | NC State Department of Electrical & Computer Engineering coverage of three NC State-led Genesis Mission Phase I projects in AI accelerator programming frameworks, agentic AI adversarial defense, and AI-embedded astrophysical simulations |
+| `www.unc.edu` | **1** | University Newsroom | UNC-Chapel Hill Genesis Mission award negotiation for AI-driven neutrinoless double-beta decay search (LEGEND) |
 | `news.wm.edu` | **1** | University Newsroom | William & Mary coverage of a Phase I Genesis Mission award for multi-detector AI foundation models in particle and nuclear physics (PI Cristiano Fanelli, with Jefferson Lab, Brookhaven and SLAC) |
 
 ---
@@ -748,3 +749,4 @@ A tabular master index for the 609-reference collection:
 | 4. Executive, Federal & Partner Announcements | Amazon Web Services (AWS) | Government Accelerator Initiatives — Genesis Accelerator & Warfighter Capability Accelerator | `aws.amazon.com` | Web | [AWS: Government Accelerator Initiatives — Genesis Accelerator & Warfighter Capability Accelerator](https://aws.amazon.com/federal/government-accelerator-initiatives/) | `Processed` |
 | 5. National Labs & University Coverage | North Carolina State University (NC State) | NC State to Lead Three Department of Energy Genesis Mission Projects | `ece.ncsu.edu` | Web | [NC State to Lead Three Department of Energy Genesis Mission Projects](https://ece.ncsu.edu/2026/nc-state-to-lead-three-department-of-energy-genesis-mission-projects/) | `Processed` |
 | 5. National Labs & University Coverage | William & Mary | William & Mary Receives DOE Genesis Mission Award to Advance AI-Powered Particle Physics | `news.wm.edu` | Web | [William & Mary Receives DOE Genesis Mission Award to Advance AI-Powered Particle Physics](https://news.wm.edu/2026/07/27/william-mary-receives-doe-genesis-mission-award-to-advance-ai-powered-particle-physics/) | `Processed` |
+| 5. National Labs & University Coverage | University of North Carolina at Chapel Hill (UNC-Chapel Hill) | New Grant Will Help Carolina Researchers Probe the Universe's Origins | `www.unc.edu` | Web | [New Grant Will Help Carolina Researchers Probe the Universe's Origins](https://www.unc.edu/posts/2026/08/20/carolina-researchers-probe-the-universes-origins/) | `Processed` |
