@@ -373,6 +373,7 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
   * [Genesis Mission Funds AI Innovation for Nuclear Energy](https://inl.gov/news-release/genesis-mission-funds-ai-innovation-to-speed-up-safe-affordable-nuclear-energy/)
   * [Accelerating Nuclear Energy Projects with AWS Cloud & AI Technologies](https://inl.gov/news-release/idaho-national-laboratory-accelerates-nuclear-energy-projects-with-amazon-web-services-cloud-and-ai-technologies/)
   * [Project Prometheus: Multi-Institutional AI Framework for Accelerated Nuclear Reactor Licensing](https://inl.gov/news-release/idaho-national-laboratory-leads-project-prometheus-under-genesis-mission/)
+  * [National Laboratory Research Collaboration Focuses on Accelerated Qualification of Critical Nuclear Components](https://inl.gov/news-release/national-laboratory-research-collaboration-focuses-on-accelerated-qualification-of-critical-nuclear-components/)
 * **Lawrence Livermore National Laboratory (LLNL):** 
   * [Selected to Lead 10 Projects](https://www.llnl.gov/article/54711/llnl-selected-lead-10-projects-under-does-genesis-mission)
   * [Big Ideas Lab Explores How Genesis Mission Aims to Accelerate Discovery](https://www.llnl.gov/article/54421/big-ideas-lab-explores-how-genesis-mission-aims-accelerate-scientific-discovery)

@@ -1,7 +1,7 @@
 # Genesis Mission — Master Reference Coverage Report
 
 > **Document Overview:**
-> This report provides a comprehensive coverage analysis, breakdown, and master audit index for the **592 external reference links** compiled within `references.md` for the **Genesis Mission** documentation repository.
+> This report provides a comprehensive coverage analysis, breakdown, and master audit index for the **593 external reference links** compiled within `references.md` for the **Genesis Mission** documentation repository.
 
 ---
 
@@ -9,13 +9,13 @@
 
 | Metric | Count / Value | Description |
 | :--- | :--- | :--- |
-| **Total Reference Links** | **592** | Unique external links indexed across all sections |
+| **Total Reference Links** | **593** | Unique external links indexed across all sections |
 | **Primary Document Sections** | **7** | High-level thematic categories in `references.md` |
 | **Unique Target Domains** | **285** | Distinct domain names referenced (government, lab, corporate, academic, news) |
 | **Official PDF Documents** | **21** | Formal RFA solicitations, webinars, slides, and executive reports |
-| **Web Portals & Press Releases** | **571** | Newsroom features, corporate blog posts, and interactive hubs |
+| **Web Portals & Press Releases** | **572** | Newsroom features, corporate blog posts, and interactive hubs |
 | **Validation Status** | **100% Validated** | All links canonicalized, formatted, and deduplicated |
-| **Processing Status** | **592 / 592 Processed** | 0 Unprocessed, 592 Processed (100% Complete) |
+| **Processing Status** | **593 / 593 Processed** | 0 Unprocessed, 593 Processed (100% Complete) |
 
 ---
 
@@ -26,8 +26,8 @@
 | `1. Key Presentation Details` | **3** | 0.5% | Briefing agendas, U.S. ATLAS IB meeting details & CERN links |
 | `2. Collaborators` | **76** | 12.8% | Official homepage & announcement links for industrial/energy partners |
 | `3. Quantum Leadership & CHIPS Act Initiatives` | **11** | 1.9% | Department of Commerce NIST LOIs & DOE $2B quantum initiatives |
-| `4. Executive, Federal & Partner Announcements` | **170** | 28.8% | White House releases, Cabinet agency press, hyperscaler & lab announcements |
-| `5. National Labs & University Coverage` | **296** | 50.0% | National Laboratory news portals & 71 awardee university press releases |
+| `4. Executive, Federal & Partner Announcements` | **170** | 28.7% | White House releases, Cabinet agency press, hyperscaler & lab announcements |
+| `5. National Labs & University Coverage` | **297** | 50.1% | National Laboratory news portals & 71 awardee university press releases |
 | `6. Additional Event Materials & Reference Links` | **18** | 3.0% | Presentation slide decks, institutional intro files & video recordings |
 | `7. Technical Documents, RFA Guidance & Official Webinars` | **18** | 3.0% | DE-FOA-0003612 solicitations, OSTP challenge papers, SCAC presentations & peer-reviewed AI-for-science research |
 
@@ -43,7 +43,7 @@ Below is the distribution of references grouped by top domain hosts and institut
 | `www.anl.gov` | **30** | Argonne National Laboratory (ANL) | ALCF compute platforms, Genesis Open Models, SPOTTER, RoSA robotics, MIRAGE, 2025 research breakthroughs |
 | `science.osti.gov` | **10** | DOE Office of Science (OSTI) | DE-FOA-0003612 guidance, BES/FES/HEP webinars, FAQs |
 | `www.whitehouse.gov` | **7** | White House OSTP / Executive Office | Presidential executive actions, OSTP wins reports, press releases |
-| `inl.gov` | **6** | Idaho National Laboratory (INL) | SMR digital twins, nuclear AI permitting, autonomous reactor control |
+| `inl.gov` | **7** | Idaho National Laboratory (INL) | SMR digital twins, nuclear AI permitting, autonomous reactor control, and robotic wire-arc additive manufacturing (WAAM) pressure vessel qualification |
 | `news.fnal.gov` | **13** | Fermi National Accelerator Laboratory | SQMS quantum center, xLight EUV lithography FEL CRADA, DUNE AI neutrino reconstruction, supernova alert workflows, and leadership reorganization |
 | `blogs.nvidia.com` | **6** | NVIDIA Corporation | Solstice/Equinox supercomputers, National Quantum Initiative, NSF AI Hubs, AI leadership |
 | `www.nist.gov` | **4** | NIST / Department of Commerce | CHIPS Act LOIs, quantum semiconductor incentives, NIST AI join launch |
@@ -708,5 +708,6 @@ A tabular master index for the 592-reference collection:
 | 5. National Labs & University Coverage | Carnegie Mellon University | Building the Future: Carnegie Mellon is the Quintessential American Story | `www.cmu.edu` | Web | [Building the Future: Carnegie Mellon is the Quintessential American Story](https://www.cmu.edu/news/stories/archives/2026/august/building-the-future-carnegie-mellon-is-the-quintessential-american-story) | `Processed` |
 | 5. National Labs & University Coverage | Universities & Research Institutions | Brian Leard Selected for DOE Fusion Energy Postdoc | `engineering.lehigh.edu` | Web | [Brian Leard Selected for DOE Fusion Energy Postdoc](https://engineering.lehigh.edu/news/article/brian-leard-selected-doe-fusion-energy-postdoc) | `Processed` |
 | 5. National Labs & University Coverage | SLAC National Accelerator Laboratory | SLAC to lead Genesis Mission AI project to recover critical metals from lithium-ion battery waste | `www6.slac.stanford.edu` | Web | [SLAC to lead Genesis Mission AI project to recover critical metals from lithium-ion battery waste](https://www6.slac.stanford.edu/news/2026-07-22-slac-lead-genesis-mission-ai-project-recover-critical-metals-lithium-ion-battery) | `Processed` |
+| 5. National Labs & University Coverage | National Laboratories | National Laboratory Research Collaboration Focuses on Accelerated Qualification of Critical Nuclear Components | `inl.gov` | Web | [National Laboratory Research Collaboration Focuses on Accelerated Qualification of Critical Nuclear Components](https://inl.gov/news-release/national-laboratory-research-collaboration-focuses-on-accelerated-qualification-of-critical-nuclear-components/) | `Processed` |
 
 
