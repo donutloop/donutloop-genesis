@@ -33,7 +33,7 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
 * [Atomic Canyon](https://www.atomiccanyon.com/)
 * [AVEVA](https://www.aveva.com/)
 * [Cerebras](https://www.cerebras.ai/company/press-release)
-* [Chemspeed](https://www.chemspeed.com/)
+* [Chemspeed](https://www.chemspeed.com/): [Chemspeed and Ames National Laboratory: Driving Innovation Together in DOE's Genesis Mission](https://www.chemspeed.com/news/chemspeed-and-ames-national-laboratory-driving-innovation-together-in-doe-s-genesis-mission/) - Automated laboratory workflows and AI-driven materials science partnership with Ames National Laboratory to accelerate discovery in energy innovation, national security, and advanced materials.
 * [Collins Aerospace](https://www.collinsaerospace.com/)
 * [ComEd](https://www.comed.com/)
 * [Cornelis Networks](https://www.cornelisnetworks.com/): [Cornelis Partners with U.S. Department of Energy on the Genesis Mission](https://www.cornelis.com/stories/cornelis-partners-with-us-department-of-energy-on-the-genesis-mission)
