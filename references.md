@@ -636,3 +636,4 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
 * [DOE Office of Science: Genesis Mission Funding Opportunity Announcements (FOAs) Portal](https://science.osti.gov/grants/FOAs/Genesis-Mission)
 * [INL GAIN / ANL: Overview of NE Focus Areas in DOE's Genesis AI Initiative Presentation — Dr. Rick Vilim (PDF)](https://gain.inl.gov/content/uploads/4/2026/06/05-Overview-of-NE-Focus-Areas-in-DOEs-Genesis-AI-Initiative-Rick-Vilim.pdf)
 * [The Future of Fundamental Science Led by Generative Closed-Loop Artificial Intelligence](https://pmc.ncbi.nlm.nih.gov/articles/PMC12932417/)
+* [GEAR: Genesis Education and Resources](https://gear.doe.gov/)
