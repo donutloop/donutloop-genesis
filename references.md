@@ -560,7 +560,9 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
 * **University of Connecticut (UConn):** [Researchers Win Inaugural DOE Genesis Mission Award](https://today.uconn.edu/2026/07/uconn-researchers-win-inaugural-doe-genesis-mission-award/)
 * **University of Delaware:** [UD team tapped to push next-gen supercomputer to its limits](https://www.udel.edu/udaily/2026/july/sunita-chandrasekaran-discovery-supercomputer-testing-fusion-energy/)
 * **University of Florida:** [Receives Genesis Mission Grant](https://news.ufl.edu/2026/07/genesis-mission-grant/)
-* **University of Hawaiʻi at Mānoa:** [UH Mānoa Researchers Selected for National Effort to Advance AI-Driven Science](https://manoa.hawaii.edu/ovprs/uh-manoa-researchers-selected-for-national-effort-to-advance-ai-driven-science/)
+* **University of Hawaiʻi at Mānoa:**
+  * [UH Mānoa Researchers Selected for National Effort to Advance AI-Driven Science](https://manoa.hawaii.edu/ovprs/uh-manoa-researchers-selected-for-national-effort-to-advance-ai-driven-science/)
+  * [UH News: Genesis Mission Awards](https://www.hawaii.edu/news/2026/07/27/genesis-mission-awards/)
 * **University of Illinois Urbana-Champaign:** [Illinois-Led Team Selected for Award](https://news.illinois.edu/illinois-led-team-selected-for-doe-genesis-mission-award/)
 * **University of Houston (Cullen College of Engineering):** [Huang, Wu, Chen Lead Cullen Portion of DOE’s Genesis Mission on Critical Minerals Exploration](https://www.egr.uh.edu/news/202608/huang-wu-chen-lead-cullen-portion-doe%E2%80%99s-genesis-mission-critical-minerals-exploration)
 * **University of Kentucky:** [6 UK Researchers Selected for Historic Mission](https://uknow.uky.edu/research/6-uk-researchers-selected-historic-doe-genesis-mission)
