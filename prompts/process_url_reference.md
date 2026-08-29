@@ -52,11 +52,11 @@ The workflow receives a single URL parameter supplied via prompt invocation:
 ### 7. Version Bump & Changelog Synchronization
 - **Version Bump:** Increment only the patch version string on line 1 of both `README.md` and `README.de.md` (e.g., `**Version**: 2.4.10` → `**Version**: 2.4.11`).
 - **Headline Preservation Rule:** Do not modify the main document headline while updating the version. Keep the blank line after the version and leave line 3 in both files unchanged.
+- **Changelog Format Hint:** Stop reading `CHANGELOG.md` after seeing the first entry; this is sufficient to understand the changelog format and saves tokens.
 - **Changelog Entry:** Add a new release section `## [X.Y.Z] - YYYY-MM-DD` in `CHANGELOG.md` logging:
   - The processed reference link (Title, Host Domain).
   - Specific paper sections enriched.
   - The updated index completion ratio (**N / N Processed, 100% Complete**).
-  - **Token Saving Hint:** Stop reading `CHANGELOG.md` after seeing the first entry; this is sufficient to understand the changelog format.
 
 ### 8. Create Understandable Git Commit & Tag
 - Stage all modified repository files:
