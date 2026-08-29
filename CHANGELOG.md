@@ -5,6 +5,14 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.6.25] - 2026-08-29
+
+### Added
+- **Reference Index Entry #300**: Processed Argonne National Laboratory (ANL) scientific publication link `https://www.anl.gov/argonne-scientific-publications/pub/204829` (*Genesis Mission-Enabled Secure AI to Fortify Energy Process Safety*) under Section 5 (*National Labs & University Coverage*) in `references.md`.
+- **Master Index Update**: Registered new entry #300 in `reference_coverage.md` and sequentially renumbered downstream index rows #300 to #577 (shifting them to #301 to #578). Synchronized all summary metrics: Total Reference Links (577 → 578), Web Portals & Press Releases (556 → 557), and 100% Processing Status (578 / 578 Processed, 100% Complete). Section 5 count increased (283 → 284, 49.1% Share). Added `www.anl.gov` count of 30 in Section 3 top domain counts.
+- **Research Paper Enrichment — §2.4 & §3.2 (README.md & README.de.md)**: Enriched §2.4.A (*Advanced Nuclear Energy, Autonomous Reactor Operations & Regulatory Compliance*) of both English and German flagship papers with Argonne's *Secure AI for Energy Process Safety* initiative, focusing on privacy-preserving, domain-specific AI frameworks for analyzing confidential industry datasets to enable real-time anomaly detection, rapid hazard identification, and proactive risk management in advanced nuclear power and offshore energy environments. Added the new publication to ANL's *Official Releases & Portals* directory under §3.2.
+- **Patch Version Release**: Incremented version strings to `3.6.25` across `README.md` and `README.de.md`.
+
 ## [3.6.24] - 2026-08-29
 
 ### Added

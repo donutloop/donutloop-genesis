@@ -327,6 +327,7 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
   * [Argonne to Lead AI Research Projects Under the Department of Energy's Genesis Mission (Newswise)](https://www.newswise.com/doescience/argonne-to-lead-ai-research-projects-under-the-department-of-energy-s-genesis-mission)
   * [Argonne Partners with RIKEN, Fujitsu, and NVIDIA to Advance AI for Science and Next-Generation Computing (Newswise)](https://www.newswise.com/doescience/argonne-partners-with-riken-fujitsu-and-nvidia-to-advance-ai-for-science-and-next-generation-computing)
   * [The Next Frontier: How AI Is Reshaping Discovery at Argonne](https://www.anl.gov/event/the-next-frontier-how-ai-is-reshaping-discovery-at-argonne)
+  * [Genesis Mission-Enabled Secure AI to Fortify Energy Process Safety](https://www.anl.gov/argonne-scientific-publications/pub/204829)
 * **Berkeley Lab (LBNL):** 
   * [Genesis Mission Hub & Scientific Strategy](https://www.lbl.gov/genesis-mission/)
   * [Genesis Mission Projects Directory](https://www.lbl.gov/genesis-mission-projects/)
