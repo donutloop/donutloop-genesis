@@ -186,6 +186,7 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
 * [AWS: Powering America's Genesis Mission from Day One](https://aws.amazon.com/blogs/publicsector/aws-powering-americas-genesis-mission-from-day-one/)
 * [AWS: $100 Million in Federal Credits for National Security & Scientific Missions](https://aws.amazon.com/blogs/publicsector/aws-announces-up-to-100-million-in-federal-credits-to-accelerate-innovation-for-national-security-and-scientific-missions/)
 * [AWS: Helping Federal Agencies Lead in Quantum Computing and Post-Quantum Security](https://aws.amazon.com/blogs/publicsector/how-aws-is-helping-federal-agencies-lead-in-quantum-computing-and-post-quantum-security/)
+* [AWS: Government Accelerator Initiatives — Genesis Accelerator & Warfighter Capability Accelerator](https://aws.amazon.com/federal/government-accelerator-initiatives/)
 * [AMD: Partnering to Accelerate AI-Driven Scientific Leadership](https://www.amd.com/en/blogs/2025/amd-powers-the-united-states--genesis-mission-to-advance-ai-enab.html)
 * [HPE Press Release: Selected for R&D Projects for U.S. DOE-Led Genesis Mission to Advance AI-Driven Innovation and Scientific Discovery](https://www.hpe.com/us/en/newsroom/press-release/2026/07/hpe-selected-for-rd-projects-for-us-doe-led-genesis-mission-to-advance-ai-driven-innovation-and-scientific-discovery.html)
 * [Anthropic: Introducing Anthropic Science & Genesis Partnership](https://www.anthropic.com/news/genesis-mission-partnership)
