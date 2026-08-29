@@ -5,6 +5,17 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.6.12] - 2026-08-29
+
+### Added
+- **Reference Index Entry #528**: Processed the Virginia Tech press release `https://news.vt.edu/articles/2026/04/science-Jefferson-Lab.html` (*Department of Energy Selects Virginia Tech Joint Venture to Manage and Operate Jefferson Lab*), adding the entry to Section 5 under Virginia Tech in `references.md`.
+- **Ecosystem Coverage Sync**: Added Southeastern Universities Research Association (SURA) under Section 10 (*Philanthropy, Non-Profit Foundations & Regional Hubs*) as row 199 in `coverage.md` with status `❌ Not Covered`. Sequentially renumbered subsequent rows and updated summary tables, raising total ecosystem entities (199 → 200).
+- **Master Index Update**: Registered new entry #528 in `reference_coverage.md`. Sequentially shifted and renumbered subsequent index rows up to #565. Synchronized all summary metrics: Total Reference Links (564 → 565), Web Portals & Press Releases (544 → 545), and 100% Processing Status (565 / 565 Processed, 100% Complete). Section 5 count increased (273 → 274, 48.4% → 48.5%).
+- **Research Paper Enrichment — §3.2 (README.md & README.de.md)**: Enriched both English and German flagship papers (TJNAF / Jefferson Lab profile) with details of SURATech, LLC (the joint venture between Virginia Tech and the Southeastern Universities Research Association / SURA) being selected by the Department of Energy to manage and operate Jefferson Lab starting June 1, 2026 under a contract valued at up to $1.83 billion, facilitating the transition of the lab to expand into advanced data science, quantum computing, and high-performance computing.
+- **Patch Version Release**: Incremented version strings to `3.6.12` across `README.md` and `README.de.md`.
+
+---
+
 ## [3.6.11] - 2026-08-29
 
 ### Added
