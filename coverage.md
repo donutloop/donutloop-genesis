@@ -1,9 +1,9 @@
 # Genesis Mission — Full Ecosystem Coverage Tracker
 
 > **Scope & Coverage Definition:**
-> - **Flagship Consortium Scope:** Tracks **all 199 primary flagship participants**—lead contractors, federal agencies, national laboratories, awardee universities, strategic industrial partners, and philanthropic foundations—explicitly profiled or referenced in the Genesis Mission paper (`README.md`) and reference index.
+> - **Flagship Consortium Scope:** Tracks **all 200 primary flagship participants**—lead contractors, federal agencies, national laboratories, awardee universities, strategic industrial partners, and philanthropic foundations—explicitly profiled or referenced in the Genesis Mission paper (`README.md`) and reference index.
 > - **Broader National Awardee Network Context:** Under solicitation DE-FOA-0003612 and interagency challenges, the broader national initiative encompasses **342 total participating institutions** (157 companies, 142 universities, 16 national labs, 13 non-profits, 14 other entities across 278 projects).
-> - **Coverage Status:** **188 / 199 (94.5%)** of the tracked consortium entities have dedicated, detailed technical profiles.
+> - **Coverage Status:** **188 / 200 (94.0%)** of the tracked consortium entities have dedicated, detailed technical profiles.
 
 **Legend:**
 - ✅ **Full Profile** — Dedicated section with detailed technical write-up (Sections 2.2 / 3.1 / 3.2 / 3.3 / 3.4 / 3.5)
@@ -277,6 +277,7 @@
 | 196 | [RIKEN](https://www.riken.jp/) | ✅ Full Profile | §3.5 | Japan's premier natural sciences research institute & 1st international Genesis partner (MEXT/METI/DOE agreement, TRIP/TRIP-AGIS, Fugaku & SPring-8 integration) |
 | 197 | [Fusion Industry Association (FIA)](https://www.fusionindustryassociation.org/) | ✅ Full Profile | §3.4, §4.3, A.5 | Fusion energy industry trade association; FY28 DOE fusion investment advocacy ($1.114B total, $2B Fusion Milestone, $3B commercial pilot tier, $50M INFUSE, $180M FIRE Collaborative) in support of Genesis Mission fusion roadmap |
 | 198 | [Oak Ridge Institute for Science and Education (ORISE)](https://orise.orau.gov/) | ❌ Not Covered | — | Genesis Mission Annual Summit recording published through the ORISE Peer Review channel (reference only) |
+| 199 | [Southeastern Universities Research Association (SURA)](https://sura.org/) | ❌ Not Covered | — | Member consortium co-operating the Thomas Jefferson National Accelerator Facility via the SURATech joint venture (reference only) |
 
 ---
 
@@ -284,7 +285,7 @@
 
 | # | Organization | Coverage | Paper Section | Notes |
 |---|-------------|----------|---------------|-------|
-| 199 | [Wiley](https://www.wiley.com/) | ✅ Full Profile | §3.1, A.3 | Consortium scientific publisher; AI-powered research infrastructure, expert-validated workflows, research intelligence & evidence-linked content for trustworthy scientific AI |
+| 200 | [Wiley](https://www.wiley.com/) | ✅ Full Profile | §3.1, A.3 | Consortium scientific publisher; AI-powered research infrastructure, expert-validated workflows, research intelligence & evidence-linked content for trustworthy scientific AI |
 
 ---
 
@@ -298,16 +299,16 @@
 | Federal Agencies | 10 | 10 | 0 | 0 |
 | National Laboratories & Defense Sites | 22 | 22 | 0 | 0 |
 | Universities | 77 | 68 | 0 | 9 |
-| Philanthropy, Policy & Regional Hubs | 13 | 12 | 0 | 1 |
-| **Total** | **199** | **188** | **0** | **11** |
+| Philanthropy, Policy & Regional Hubs | 14 | 12 | 0 | 2 |
+| **Total** | **200** | **188** | **0** | **12** |
 
 ### By Coverage Level
 
 | Coverage Level | Count | Percentage |
 |:---|:---:|:---:|
-| ✅ Full Profile | 188 | 94.5% |
+| ✅ Full Profile | 188 | 94.0% |
 | 📋 Brief Mention | 0 | 0.0% |
-| ❌ Not Covered | 11 | 5.5% |
-| **Total Entities** | **199** | **100%** |
+| ❌ Not Covered | 12 | 6.0% |
+| **Total Entities** | **200** | **100%** |
 
-> **Note:** The tracker now covers 199 Genesis Mission ecosystem participants, with 188 entities in dedicated technical write-ups (94.5% full-profile coverage). X-energy, Brown University, Colorado School of Mines, UC San Diego, University of Delaware, University of Hawaiʻi at Mānoa, University of Massachusetts Amherst, University of Washington, St. Joseph's University, New York, The Ohio State University, and ORISE remain registered as reference-only participants. The broader sub-grantee network of 342 participating institutions represents secondary academic and sub-contractor nodes across the 278 national project awards.
+> **Note:** The tracker now covers 200 Genesis Mission ecosystem participants, with 188 entities in dedicated technical write-ups (94.0% full-profile coverage). X-energy, Brown University, Colorado School of Mines, UC San Diego, University of Delaware, University of Hawaiʻi at Mānoa, University of Massachusetts Amherst, University of Washington, St. Joseph's University, New York, The Ohio State University, Southeastern Universities Research Association (SURA), and ORISE remain registered as reference-only participants. The broader sub-grantee network of 342 participating institutions represents secondary academic and sub-contractor nodes across the 278 national project awards.
