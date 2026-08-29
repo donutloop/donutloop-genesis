@@ -5,6 +5,14 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.6.46] - 2026-08-29
+
+### Added
+- **Reference Index Entry #599**: Processed `https://fenado.ai/articles/rescale-selected-from-record-8000-applicants-for-doe-genesis-mission-to-reduce-engineering-time-fivefold` (*Rescale Selected from Record 8,000 Applicants for DOE Genesis Mission to Reduce Engineering Time Fivefold*) under Section 4 (*Executive, Federal & Partner Announcements*) in `references.md`.
+- **Master Index Update**: Registered new entry #599 in `reference_coverage.md` at the bottom of Section 4 table. Synchronized all summary metrics: Total Reference Links (598 → 599), Web Portals & Press Releases (577 → 578), Unique Target Domains (288 → 289), and 100% Processing Status (599 / 599 Processed, 100% Complete). Section 4 count increased (170 → 171, 28.5%) and Section 5 share changed (50.5% → 50.4%). Registered new top domain host `fenado.ai` in Section 3 with a count of 1.
+- **Coverage Matrix Update**: Added `Rescale` as a new reference-only partner under "Cloud, AI & Compute Infrastructure" category in `coverage.md`. Updated total tracked entities (219 → 220) and "Not Covered" metrics (31 → 32), adjusting overall Full Profile coverage from 85.8% to 85.5%.
+- **Research Paper Enrichment — §3.1 (README.md & README.de.md)**: Enriched both English and German flagship papers with detailed insights on Rescale's selection for the DOE Genesis Mission under the Agentic HPC Pipeline Initiative (AHPI) consortium (with LBNL, LLNL, and ORNL). Detailed the deployment of agentic AI on Rescale's digital engineering platform to integrate advanced national laboratory simulation codes (such as WarpX, LiDO, and Adamantine) into self-service workflows, reducing simulation configuration/execution times and the required domain expertise by more than fivefold to accelerate industrial innovation for U.S. manufacturers. Bumped version string to `3.6.46` across `README.md` and `README.de.md`.
+
 ## [3.6.45] - 2026-08-29
 
 ### Added

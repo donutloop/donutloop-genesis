@@ -3,7 +3,7 @@
 > **Scope & Coverage Definition:**
 > - **Flagship Consortium Scope:** Tracks **all 219 primary flagship participants**—lead contractors, federal agencies, national laboratories, awardee universities, strategic industrial partners, and philanthropic foundations—explicitly profiled or referenced in the Genesis Mission paper (`README.md`) and reference index.
 > - **Broader National Awardee Network Context:** Under solicitation DE-FOA-0003612 and interagency challenges, the broader national initiative encompasses **342 total participating institutions** (157 companies, 142 universities, 16 national labs, 13 non-profits, 14 other entities across 278 projects).
-> - **Coverage Status:** **188 / 219 (85.8%)** of the tracked consortium entities have dedicated, detailed technical profiles.
+> - **Coverage Status:** **188 / 220 (85.5%)** of the tracked consortium entities have dedicated, detailed technical profiles.
 
 **Legend:**
 - ✅ **Full Profile** — Dedicated section with detailed technical write-up (Sections 2.2 / 3.1 / 3.2 / 3.3 / 3.4 / 3.5)
@@ -33,6 +33,7 @@
 | [Oracle](https://www.oracle.com/) | ✅ Full Profile | §3.1 | Enterprise cloud; HPC database infrastructure |
 | [SambaNova Systems](https://sambanova.ai/) | ✅ Full Profile | §2.1, §3.1, A.3 | Reconfigurable Dataflow Architecture (RDUs); high-throughput AI inference; ALCF deployment |
 | [Veritone](https://www.veritone.com/) | ✅ Full Profile | §3.1, A.3 | Enterprise AI platform (aiWARE), multi-modal data ingestion & semantic search engines |
+| [Rescale](https://rescale.com/) | ❌ Not Covered | — | Selected for DOE Genesis Mission; Agentic HPC Pipeline Initiative (AHPI) commercial partner with Lawrence Berkeley, Lawrence Livermore, and Oak Ridge National Laboratories (reference only) |
 
 ---
 
@@ -314,20 +315,20 @@
 
 | Entity Type | Total | ✅ Full | 📋 Brief | ❌ Not Covered |
 |:---|:---:|:---:|:---:|:---:|
-| Industry Partners | 84 | 76 | 0 | 8 |
+| Industry Partners | 85 | 76 | 0 | 9 |
 | Federal Agencies | 10 | 10 | 0 | 0 |
 | National Laboratories & Defense Sites | 24 | 22 | 0 | 2 |
 | Universities | 84 | 68 | 0 | 16 |
 | Philanthropy, Policy & Regional Hubs | 17 | 12 | 0 | 5 |
-| **Total** | **219** | **188** | **0** | **31** |
+| **Total** | **220** | **188** | **0** | **32** |
 
 ### By Coverage Level
 
 | Coverage Level | Count | Percentage |
 |:---|:---:|:---:|
-| ✅ Full Profile | 188 | 85.8% |
+| ✅ Full Profile | 188 | 85.5% |
 | 📋 Brief Mention | 0 | 0.0% |
-| ❌ Not Covered | 31 | 14.2% |
-| **Total Entities** | **219** | **100%** |
+| ❌ Not Covered | 32 | 14.5% |
+| **Total Entities** | **220** | **100%** |
 
-> **Note:** The tracker now covers 219 Genesis Mission ecosystem participants, with 188 entities in dedicated technical write-ups (85.8% full-profile coverage). George Washington University, X-energy, Cosylab, Brown University, Heidelberg University, Howard University, European Coalition for AI in Fundamental Physics (EuCAIF), Colorado School of Mines, UC San Diego, University of Delaware, University of Hawaiʻi at Mānoa, University of Massachusetts Amherst, University of Washington, Boise State University, St. Joseph's University, New York, The Ohio State University, Kent State University, University of Maryland, ChipNexus, Southeastern Universities Research Association (SURA), ORISE, Energy Sciences Coalition (ESC), Krell Institute, Antares Nuclear, Valar Atomics, Deployable Energy, Radiant, La Sierra University, Clean Republic SODO, LLC, Molecular Foundry, and Joint Genome Institute (JGI) remain registered as reference-only participants. The broader sub-grantee network of 342 participating institutions represents secondary academic and sub-contractor nodes across the 278 national project awards.
+> **Note:** The tracker now covers 220 Genesis Mission ecosystem participants, with 188 entities in dedicated technical write-ups (85.5% full-profile coverage). Rescale, George Washington University, X-energy, Cosylab, Brown University, Heidelberg University, Howard University, European Coalition for AI in Fundamental Physics (EuCAIF), Colorado School of Mines, UC San Diego, University of Delaware, University of Hawaiʻi at Mānoa, University of Massachusetts Amherst, University of Washington, Boise State University, St. Joseph's University, New York, The Ohio State University, Kent State University, University of Maryland, ChipNexus, Southeastern Universities Research Association (SURA), ORISE, Energy Sciences Coalition (ESC), Krell Institute, Antares Nuclear, Valar Atomics, Deployable Energy, Radiant, La Sierra University, Clean Republic SODO, LLC, Molecular Foundry, and Joint Genome Institute (JGI) remain registered as reference-only participants. The broader sub-grantee network of 342 participating institutions represents secondary academic and sub-contractor nodes across the 278 national project awards.
