@@ -5,6 +5,14 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.6.30] - 2026-08-29
+
+### Added
+- **Reference Index Entry #583**: Processed George Washington University (GWU) spotlight link `https://gwtoday.gwu.edu/gw-engineering-professor-receives-department-energy-genesis-mission-award` (*GW Engineering Professor Receives Department of Energy Genesis Mission Award*) under Section 5 (*National Labs & University Coverage*) in `references.md`.
+- **Master Index Update**: Registered new entry #583 in `reference_coverage.md` at the bottom of the table to avoid large renumbering updates. Synchronized all summary metrics: Total Reference Links (582 → 583), Web Portals & Press Releases (561 → 562), Unique Target Domains (277 → 278), and 100% Processing Status (583 / 583 Processed, 100% Complete). Section 5 count increased (288 → 289, 49.5% → 49.6%). Added `gwtoday.gwu.edu` top domain count of 1 with notes on AI-integrated low-temperature plasmas (LTPs) for personalized medicine and satellite propulsion.
+- **Coverage Matrix Update**: Added `George Washington University` as a new reference-only university partner to `coverage.md` under Research Universities. Updated total entity counts (207 → 208), and "Not Covered" metrics (19 → 20, 9.2% → 9.6%) across all summary tables and notes.
+- **Research Paper Enrichment — §3.3 & Appendix A.5 (README.md & README.de.md)**: Enriched the George Washington University (GWU) sub-bullet under §3.3 of both English and German flagship papers with technical and strategic insights on Professor Michael Keidar's inaugural DOE Genesis Mission Award for AI-integrated low-temperature plasmas (LTPs) in biomedicine (adaptive, personalized real-time therapies) and satellite propulsion. Also updated Appendix A.5 university tables and bumped version string to `3.6.30` across `README.md` and `README.de.md`.
+
 ## [3.6.29] - 2026-08-29
 
 ### Added

@@ -1,7 +1,7 @@
 # Genesis Mission — Master Reference Coverage Report
 
 > **Document Overview:**
-> This report provides a comprehensive coverage analysis, breakdown, and master audit index for the **582 external reference links** compiled within `references.md` for the **Genesis Mission** documentation repository.
+> This report provides a comprehensive coverage analysis, breakdown, and master audit index for the **583 external reference links** compiled within `references.md` for the **Genesis Mission** documentation repository.
 
 ---
 
@@ -9,13 +9,13 @@
 
 | Metric | Count / Value | Description |
 | :--- | :--- | :--- |
-| **Total Reference Links** | **582** | Unique external links indexed across all sections |
+| **Total Reference Links** | **583** | Unique external links indexed across all sections |
 | **Primary Document Sections** | **7** | High-level thematic categories in `references.md` |
-| **Unique Target Domains** | **277** | Distinct domain names referenced (government, lab, corporate, academic, news) |
+| **Unique Target Domains** | **278** | Distinct domain names referenced (government, lab, corporate, academic, news) |
 | **Official PDF Documents** | **21** | Formal RFA solicitations, webinars, slides, and executive reports |
-| **Web Portals & Press Releases** | **561** | Newsroom features, corporate blog posts, and interactive hubs |
+| **Web Portals & Press Releases** | **562** | Newsroom features, corporate blog posts, and interactive hubs |
 | **Validation Status** | **100% Validated** | All links canonicalized, formatted, and deduplicated |
-| **Processing Status** | **582 / 582 Processed** | 0 Unprocessed, 582 Processed (100% Complete) |
+| **Processing Status** | **583 / 583 Processed** | 0 Unprocessed, 583 Processed (100% Complete) |
 
 ---
 
@@ -24,10 +24,10 @@
 | Section Header | Link Count | Share (%) | Primary Focus Area |
 |:---|:---:|:---:|:---|
 | `1. Key Presentation Details` | **3** | 0.5% | Briefing agendas, U.S. ATLAS IB meeting details & CERN links |
-| `2. Collaborators` | **76** | 13.1% | Official homepage & announcement links for industrial/energy partners |
+| `2. Collaborators` | **76** | 13.0% | Official homepage & announcement links for industrial/energy partners |
 | `3. Quantum Leadership & CHIPS Act Initiatives` | **11** | 1.9% | Department of Commerce NIST LOIs & DOE $2B quantum initiatives |
 | `4. Executive, Federal & Partner Announcements` | **169** | 29.0% | White House releases, Cabinet agency press, hyperscaler & lab announcements |
-| `5. National Labs & University Coverage` | **288** | 49.5% | National Laboratory news portals & 70 awardee university press releases |
+| `5. National Labs & University Coverage` | **289** | 49.6% | National Laboratory news portals & 70 awardee university press releases |
 | `6. Additional Event Materials & Reference Links` | **17** | 2.9% | Presentation slide decks, institutional intro files & video recordings |
 | `7. Technical Documents, RFA Guidance & Official Webinars` | **18** | 3.1% | DE-FOA-0003612 solicitations, OSTP challenge papers, SCAC presentations & peer-reviewed AI-for-science research |
 
@@ -98,6 +98,7 @@ Below is the distribution of references grouped by top domain hosts and institut
 | `www.scidac.gov` | **1** | U.S. Department of Energy (DOE) | Scientific Discovery through Advanced Computing (SciDAC) Institutes providing mathematical algorithms and computer science tools |
 | `today.ucsd.edu` | **1** | University Newsroom | UC San Diego-led collaborative National Data Platform (NDP) receiving $24.5M NSF Category I award to expand AI-ready national data ecosystem |
 | `www.ece.uw.edu` | **1** | University Newsroom | UW ECE spotlight on Assistant Professor Hossein Naghavi's low-power neuromorphic terahertz imaging AR headset project |
+| `gwtoday.gwu.edu` | **1** | University Newsroom | GW Engineering Professor Michael Keidar receives an inaugural DOE Genesis Mission Award for real-time personalized adaptive plasma medicine and satellite propulsion |
 
 ---
 
@@ -689,4 +690,6 @@ A tabular master index for the 582-reference collection:
 | 5. National Labs & University Coverage | Brookhaven National Laboratory (BNL) | Brookhaven and Stony Brook Researchers Demonstrate 'Wireless' Capability for Quantum Network | `www.bnl.gov` | Web | [Brookhaven and Stony Brook Researchers Demonstrate 'Wireless' Capability for Quantum Network](https://www.bnl.gov/newsroom/news.php?a=123096) | `Processed` |
 | 5. National Labs & University Coverage | Fermi National Accelerator Laboratory (Fermilab) | Associate Lab Directors Help Shape Future of Fermilab | `news.fnal.gov` | Web | [Associate Lab Directors Help Shape Future of Fermilab](https://news.fnal.gov/2026/08/associate-directors-help-shape-future-of-fermilab/) | `Processed` |
 | 5. National Labs & University Coverage | University of Washington | UW ECE-led project selected for Department of Energy’s Genesis Mission | `www.ece.uw.edu` | Web | [UW ECE-led project selected for Department of Energy’s Genesis Mission](https://www.ece.uw.edu/spotlight/uw-ece-hossein-naghavi-genesis-mission/) | `Processed` |
+| 5. National Labs & University Coverage | George Washington University | GW Engineering Professor Receives Department of Energy Genesis Mission Award | `gwtoday.gwu.edu` | Web | [GW Engineering Professor Receives Department of Energy Genesis Mission Award](https://gwtoday.gwu.edu/gw-engineering-professor-receives-department-energy-genesis-mission-award) | `Processed` |
+
 
