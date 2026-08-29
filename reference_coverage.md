@@ -1,7 +1,7 @@
 # Genesis Mission — Master Reference Coverage Report
 
 > **Document Overview:**
-> This report provides a comprehensive coverage analysis, breakdown, and master audit index for the **597 external reference links** compiled within `references.md` for the **Genesis Mission** documentation repository.
+> This report provides a comprehensive coverage analysis, breakdown, and master audit index for the **598 external reference links** compiled within `references.md` for the **Genesis Mission** documentation repository.
 
 ---
 
@@ -9,13 +9,13 @@
 
 | Metric | Count / Value | Description |
 | :--- | :--- | :--- |
-| **Total Reference Links** | **597** | Unique external links indexed across all sections |
+| **Total Reference Links** | **598** | Unique external links indexed across all sections |
 | **Primary Document Sections** | **7** | High-level thematic categories in `references.md` |
-| **Unique Target Domains** | **287** | Distinct domain names referenced (government, lab, corporate, academic, news) |
+| **Unique Target Domains** | **288** | Distinct domain names referenced (government, lab, corporate, academic, news) |
 | **Official PDF Documents** | **21** | Formal RFA solicitations, webinars, slides, and executive reports |
-| **Web Portals & Press Releases** | **576** | Newsroom features, corporate blog posts, and interactive hubs |
+| **Web Portals & Press Releases** | **577** | Newsroom features, corporate blog posts, and interactive hubs |
 | **Validation Status** | **100% Validated** | All links canonicalized, formatted, and deduplicated |
-| **Processing Status** | **597 / 597 Processed** | 0 Unprocessed, 597 Processed (100% Complete) |
+| **Processing Status** | **598 / 598 Processed** | 0 Unprocessed, 598 Processed (100% Complete) |
 
 ---
 
@@ -26,8 +26,8 @@
 | `1. Key Presentation Details` | **3** | 0.5% | Briefing agendas, U.S. ATLAS IB meeting details & CERN links |
 | `2. Collaborators` | **76** | 12.7% | Official homepage & announcement links for industrial/energy partners |
 | `3. Quantum Leadership & CHIPS Act Initiatives` | **11** | 1.8% | Department of Commerce NIST LOIs & DOE $2B quantum initiatives |
-| `4. Executive, Federal & Partner Announcements` | **170** | 28.5% | White House releases, Cabinet agency press, hyperscaler & lab announcements |
-| `5. National Labs & University Coverage` | **301** | 50.4% | National Laboratory news portals & 71 awardee university press releases |
+| `4. Executive, Federal & Partner Announcements` | **170** | 28.4% | White House releases, Cabinet agency press, hyperscaler & lab announcements |
+| `5. National Labs & University Coverage` | **302** | 50.5% | National Laboratory news portals & 71 awardee university press releases |
 | `6. Additional Event Materials & Reference Links` | **18** | 3.0% | Presentation slide decks, institutional intro files & video recordings |
 | `7. Technical Documents, RFA Guidance & Official Webinars` | **18** | 3.0% | DE-FOA-0003612 solicitations, OSTP challenge papers, SCAC presentations & peer-reviewed AI-for-science research |
 
@@ -109,6 +109,7 @@ Below is the distribution of references grouped by top domain hosts and institut
 | `www6.slac.stanford.edu` | **1** | SLAC National Accelerator Laboratory | SLAC-led project assembling a multi-agent AI system to recover critical metals from spent lithium-ion batteries |
 | `today.umd.edu` | **1** | University Newsroom | University of Maryland coverage on AI-enabled flood forecasting using agentic and generative models linked with E3SM for seasonal-to-multiyear water hazard prediction |
 | `lasierra.edu` | **1** | University Newsroom | La Sierra University computer science team selected for Phase I battery management and energy science adversarial AI robustness under Genesis Mission |
+| `foundry.lbl.gov` | **1** | Berkeley Lab (LBNL) | Molecular Foundry user facility hosting AUM 2026 showcasing autonomous synthesis clusters, high-throughput STEM, and AI-driven materials automation |
 
 ---
 
@@ -715,5 +716,6 @@ A tabular master index for the 594-reference collection:
 | 5. National Labs & University Coverage | La Sierra University | La Sierra prof’s team selected for DOE Genesis Mission AI research award | `lasierra.edu` | Web | [La Sierra prof’s team selected for DOE Genesis Mission AI research award](https://lasierra.edu/article/la-sierra-profs-team-selected-for-doe-genesis-mission-ai-research-award/) | `Processed` |
 | 5. National Labs & University Coverage | Argonne National Laboratory (ANL) | Weather Is Community: Argonne Researchers Talk Atmospheric Science, AI, and Citizen Science | `www.anl.gov` | Web | [Weather Is Community: Argonne Researchers Talk Atmospheric Science, AI, and Citizen Science](https://www.anl.gov/cels/article/weather-is-community-argonne-researchers-talk-atmospheric-science-ai-and-citizen-science-at-the-new) | `Processed` |
 | 5. National Labs & University Coverage | Oak Ridge National Laboratory (ORNL) | Research Scientist, Agentic Workflows Job Posting | `jobs.ornl.gov` | Web | [Research Scientist, Agentic Workflows Job Posting](https://jobs.ornl.gov/job/Oak-Ridge-Research-Scientist%2C-Agentic-Workflows-TN-37830/1422626200) | `Processed` |
+| 5. National Labs & University Coverage | Molecular Foundry | 2026 Molecular Foundry Annual Meeting Recap | `foundry.lbl.gov` | Web | [2026 Molecular Foundry Annual Meeting Recap](https://foundry.lbl.gov/2026/08/24/aum2026recap/) | `Processed` |
 
 
