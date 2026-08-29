@@ -5,6 +5,13 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.6.38] - 2026-08-29
+
+### Added
+- **Reference Index Entry #591**: Processed Lehigh Engineering news link `https://engineering.lehigh.edu/news/article/brian-leard-selected-doe-fusion-energy-postdoc` (*Brian Leard Selected for DOE Fusion Energy Postdoc*) under Section 5 (*National Labs & University Coverage*) in `references.md`.
+- **Master Index Update**: Registered new entry #591 in `reference_coverage.md` at the bottom of the table to avoid large renumbering updates. Synchronized all summary metrics: Total Reference Links (590 → 591), Web Portals & Press Releases (569 → 570), Unique Target Domains (283 → 284), and 100% Processing Status (591 / 591 Processed, 100% Complete). Section 5 count increased (294 → 295, 49.8% → 49.9%). Added `engineering.lehigh.edu` domain count of 1 in Section 3.
+- **Research Paper Enrichment — §3.3 & Appendix A.5 (README.md & README.de.md)**: Enriched §3.3 and Appendix A.5 of both English and German flagship papers with technical and strategic insights on Lehigh University’s selection for the DOE Fusion Energy Sciences Postdoctoral Research Program, specifically highlighting Dr. Brian Leard’s (Ph.D. 2026, advisor Prof. Eugenio Schuster) project on ML-based surrogate modeling for tokamak fusion real-time observation and plasma detachment control at Oak Ridge National Laboratory under supervisor Dr. Sebastian De Pascuale. Bumped version string to `3.6.38` across `README.md` and `README.de.md`.
+
 ## [3.6.37] - 2026-08-29
 
 ### Added
