@@ -1733,8 +1733,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [2.4.41] - 2026-08-11
 
 ### Changed
-- **Reference Integration & Master Processing (`references.md` & `reference_coverage.md`)**: Formatted and integrated Fermilab's official Genesis Mission tag archive portal ([`Fermilab News Portal: Tag Archive for DOE Genesis Mission Projects`](https://news.fnal.gov/tag/genesis-misson/), `news.fnal.gov`) into Section 5 under Fermi National Accelerator Laboratory, registering it as Master Index Entry #266 and processing its status to `Processed` (**423 / 423 Processed, 100% Complete**).
-- **Research Paper Enrichment (`README.md` & `README.de.md`)**: Enriched §3.2 (Fermilab national laboratory profile) in both English and German paper editions with reference link to the official Fermilab Genesis Mission tag archive portal (`news.fnal.gov/tag/genesis-misson/`).
+- **Reference Integration & Master Processing (`references.md` & `reference_coverage.md`)**: Formatted and integrated Fermilab's official Genesis Mission tag archive portal ([`Fermilab News Portal: Tag Archive for DOE Genesis Mission Projects`](https://news.fnal.gov/tag/genesis-mission/), `news.fnal.gov`) into Section 5 under Fermi National Accelerator Laboratory, registering it as Master Index Entry #266 and processing its status to `Processed` (**423 / 423 Processed, 100% Complete**).
+- **Research Paper Enrichment (`README.md` & `README.de.md`)**: Enriched §3.2 (Fermilab national laboratory profile) in both English and German paper editions with reference link to the official Fermilab Genesis Mission tag archive portal (`news.fnal.gov/tag/genesis-mission/`).
 - **Version Bump**: Incremented patch version string to `2.4.41` in `README.md` and `README.de.md`.
 
 ---
