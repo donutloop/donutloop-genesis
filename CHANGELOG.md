@@ -5,6 +5,14 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.6.54] - 2026-08-29
+
+### Added
+- **Reference Index Entry #607**: Processed `https://science.osti.gov/-/media/ber/pdf/News-and-Resources/26-Genesis-Awards-Flyer_0820.pdf` (*DOE Office of Science: Biological and Environmental Research (BER) 26 Genesis Awards Flyer (PDF)*) under Section 7 (*Technical Documents, RFA Guidance & Official Webinars*) in `references.md`.
+- **Master Index Update**: Registered new entry #607 in `reference_coverage.md` at the bottom of the Section 4 Master Reference Link Index table (categorized under Section 7). Synchronized all summary metrics: Total Reference Links (606 → 607), Official PDF Documents (21 → 22), and 100% Processing Status (607 / 607 Processed, 100% Complete). Section 7 count increased (18 → 19, 3.0% → 3.1%). Registered top domain host `science.osti.gov` in Section 3 (Top Domain table) with an updated count of 11.
+- **Coverage Matrix Update**: No new entities were introduced to `coverage.md` as the Biological and Environmental Research (BER) division is part of the fully profiled U.S. Department of Energy (DOE) Office of Science.
+- **Research Paper Enrichment — §3.4 (README.md & README.de.md)**: Enriched both English and German flagship papers with the official Biological and Environmental Research (BER) 26 Genesis Awards Flyer (PDF), highlighting BER's strategic participation and contribution to the 26 Genesis Mission Science and Technology Challenges for AI-driven discovery in biological and environmental systems. Bumped version string to `3.6.54` across `README.md` and `README.de.md`.
+
 ## [3.6.53] - 2026-08-29
 
 ### Added
