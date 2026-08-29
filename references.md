@@ -423,6 +423,7 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
   * [AI-Boosted Particle Accelerator Operations & Design](https://www.ornl.gov/research-highlight/ai-boosted-particle-accelerator-operations-design)
   * [The Genesis Mission (Oak Ridge National Laboratory Official Overview Video)](https://youtu.be/zWVEq_35yPo)
   * [Research Scientist, Agentic Workflows Job Posting](https://jobs.ornl.gov/job/Oak-Ridge-Research-Scientist%2C-Agentic-Workflows-TN-37830/1422626200)
+  * [Lux – Oak Ridge Leadership Computing Facility](https://www.olcf.ornl.gov/olcf-resources/compute-systems/lux/)
 * **Pacific Northwest National Laboratory (PNNL):**
   * [Genesis Mission Project Portal](https://www.pnnl.gov/projects/genesis-mission)
   * [Energy Department Launches ‘Genesis Mission’ to Transform American Science and Innovation Through the AI Computing Revolution](https://www.pnnl.gov/news-media/energy-department-launches-genesis-mission)

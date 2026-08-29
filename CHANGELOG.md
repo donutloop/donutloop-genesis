@@ -5,6 +5,14 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.6.47] - 2026-08-29
+
+### Added
+- **Reference Index Entry #600**: Processed `https://www.olcf.ornl.gov/olcf-resources/compute-systems/lux/` (*Lux – Oak Ridge Leadership Computing Facility*) under Section 5 (*National Labs & University Coverage*) in `references.md`.
+- **Master Index Update**: Registered new entry #600 in `reference_coverage.md` at the bottom of Section 4 table. Synchronized all summary metrics: Total Reference Links (599 → 600), Web Portals & Press Releases (578 → 579), Unique Target Domains (289 → 290), and 100% Processing Status (600 / 600 Processed, 100% Complete). Section 5 count increased (302 → 303, 50.4% → 50.5%). Registered new top domain host `www.olcf.ornl.gov` in Section 3 with a count of 1.
+- **Coverage Matrix Update**: Added `Oak Ridge Leadership Computing Facility (OLCF)` as a new reference-only partner under "DOE National Laboratories & Defense Security Sites" category in `coverage.md`. Updated total tracked entities (220 → 221) and "Not Covered" metrics (32 → 33), adjusting overall Full Profile coverage from 85.5% to 85.1%.
+- **Research Paper Enrichment — §2.1 (README.md & README.de.md)**: Enriched both English and German flagship papers with detailed insights on Oak Ridge National Laboratory's (ORNL) Lux compute system, detailing its deployment in the second half of 2026, AMD Instinct MI355X GPUs, AMD EPYC CPUs, HPE ProLiant Compute XD685 platforms, AMD Pensando Ethernet, and advanced HPE liquid cooling with redundant, sidecar-style pump racks. Mentioned 3.5 million node-hours allocation (split evenly between public science for the Genesis Mission and proprietary research), local NVMe SSD storage (24 TB+ per node), OLCF's 600+ PB Orion Lustre shared filesystem, and DOE Moderate security controls. Bumped version string to `3.6.47` across `README.md` and `README.de.md`.
+
 ## [3.6.46] - 2026-08-29
 
 ### Added

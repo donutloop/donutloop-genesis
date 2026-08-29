@@ -1,7 +1,7 @@
 # Genesis Mission — Master Reference Coverage Report
 
 > **Document Overview:**
-> This report provides a comprehensive coverage analysis, breakdown, and master audit index for the **599 external reference links** compiled within `references.md` for the **Genesis Mission** documentation repository.
+> This report provides a comprehensive coverage analysis, breakdown, and master audit index for the **600 external reference links** compiled within `references.md` for the **Genesis Mission** documentation repository.
 
 ---
 
@@ -9,13 +9,13 @@
 
 | Metric | Count / Value | Description |
 | :--- | :--- | :--- |
-| **Total Reference Links** | **599** | Unique external links indexed across all sections |
+| **Total Reference Links** | **600** | Unique external links indexed across all sections |
 | **Primary Document Sections** | **7** | High-level thematic categories in `references.md` |
-| **Unique Target Domains** | **289** | Distinct domain names referenced (government, lab, corporate, academic, news) |
+| **Unique Target Domains** | **290** | Distinct domain names referenced (government, lab, corporate, academic, news) |
 | **Official PDF Documents** | **21** | Formal RFA solicitations, webinars, slides, and executive reports |
-| **Web Portals & Press Releases** | **578** | Newsroom features, corporate blog posts, and interactive hubs |
+| **Web Portals & Press Releases** | **579** | Newsroom features, corporate blog posts, and interactive hubs |
 | **Validation Status** | **100% Validated** | All links canonicalized, formatted, and deduplicated |
-| **Processing Status** | **599 / 599 Processed** | 0 Unprocessed, 599 Processed (100% Complete) |
+| **Processing Status** | **600 / 600 Processed** | 0 Unprocessed, 600 Processed (100% Complete) |
 
 ---
 
@@ -27,7 +27,7 @@
 | `2. Collaborators` | **76** | 12.7% | Official homepage & announcement links for industrial/energy partners |
 | `3. Quantum Leadership & CHIPS Act Initiatives` | **11** | 1.8% | Department of Commerce NIST LOIs & DOE $2B quantum initiatives |
 | `4. Executive, Federal & Partner Announcements` | **171** | 28.5% | White House releases, Cabinet agency press, hyperscaler & lab announcements |
-| `5. National Labs & University Coverage` | **302** | 50.4% | National Laboratory news portals & 71 awardee university press releases |
+| `5. National Labs & University Coverage` | **303** | 50.5% | National Laboratory news portals & 71 awardee university press releases |
 | `6. Additional Event Materials & Reference Links` | **18** | 3.0% | Presentation slide decks, institutional intro files & video recordings |
 | `7. Technical Documents, RFA Guidance & Official Webinars` | **18** | 3.0% | DE-FOA-0003612 solicitations, OSTP challenge papers, SCAC presentations & peer-reviewed AI-for-science research |
 
@@ -111,12 +111,13 @@ Below is the distribution of references grouped by top domain hosts and institut
 | `lasierra.edu` | **1** | University Newsroom | La Sierra University computer science team selected for Phase I battery management and energy science adversarial AI robustness under Genesis Mission |
 | `foundry.lbl.gov` | **1** | Berkeley Lab (LBNL) | Molecular Foundry user facility hosting AUM 2026 showcasing autonomous synthesis clusters, high-throughput STEM, and AI-driven materials automation |
 | `fenado.ai` | **1** | Tech News & Analysis | Rescale selected under DOE Genesis Mission for Agentic HPC Pipeline Initiative (AHPI) to scale agentic AI on digital engineering platform |
+| `www.olcf.ornl.gov` | **1** | Oak Ridge Leadership Computing Facility (OLCF) | Lux AI-optimized and HPC-centric compute system architecture, GPU specifications, and scientific AI allocations |
 
 ---
 
 ## 4. Master Reference Link Index
 
-A tabular master index for the 594-reference collection:
+A tabular master index for the 600-reference collection:
 
 | Category / Section | Entity / Subject | Title | Domain | Type | Link | Status |
 |---|---|---|---|:---:|---|:---:|
@@ -719,5 +720,6 @@ A tabular master index for the 594-reference collection:
 | 5. National Labs & University Coverage | Oak Ridge National Laboratory (ORNL) | Research Scientist, Agentic Workflows Job Posting | `jobs.ornl.gov` | Web | [Research Scientist, Agentic Workflows Job Posting](https://jobs.ornl.gov/job/Oak-Ridge-Research-Scientist%2C-Agentic-Workflows-TN-37830/1422626200) | `Processed` |
 | 5. National Labs & University Coverage | Molecular Foundry | 2026 Molecular Foundry Annual Meeting Recap | `foundry.lbl.gov` | Web | [2026 Molecular Foundry Annual Meeting Recap](https://foundry.lbl.gov/2026/08/24/aum2026recap/) | `Processed` |
 | 4. Executive, Federal & Partner Announcements | Rescale | Rescale Selected from Record 8,000 Applicants for DOE Genesis Mission to Reduce Engineering Time Fivefold | `fenado.ai` | Web | [Rescale Selected from Record 8,000 Applicants for DOE Genesis Mission to Reduce Engineering Time Fivefold](https://fenado.ai/articles/rescale-selected-from-record-8000-applicants-for-doe-genesis-mission-to-reduce-engineering-time-fivefold) | `Processed` |
+| 5. National Labs & University Coverage | Oak Ridge Leadership Computing Facility (OLCF) | Lux – Oak Ridge Leadership Computing Facility | `www.olcf.ornl.gov` | Web | [Lux – Oak Ridge Leadership Computing Facility](https://www.olcf.ornl.gov/olcf-resources/compute-systems/lux/) | `Processed` |
 
 
