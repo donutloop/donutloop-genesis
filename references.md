@@ -642,7 +642,7 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
 * **Pacific Northwest National Laboratory (PNNL):** [New Life for Used Nuclear Fuel](https://www.pnnl.gov/news-media/new-life-used-nuclear-fuel)
 * **Argonne National Laboratory (ANL):** [Streamline Uses AI to Tackle One of Nuclear Physics' Toughest Problems](https://www.anl.gov/article/streamline-uses-ai-to-tackle-one-of-nuclear-physics-toughest-problems)
 * **Oak Ridge National Laboratory (ORNL):** [Lux: Oak Ridge Leadership Computing Facility](https://www.olcf.ornl.gov/olcf-resources/compute-systems/lux/)
-* **Argonne National Laboratory (ANL):** [Weather Is Community: Argonne Researchers Talk Atmospheric Science, AI, and Citizen Science at the New](https://www.anl.gov/cels/article/weather-is-community-argonne-researchers-talk-atmospheric-science-ai-and-citizen-science-at-the-new)
+* **Argonne National Laboratory (ANL):** [Weather Is Community: Argonne Researchers Talk Atmospheric Science, AI, and Citizen Science at the New Lenox Public Library](https://www.anl.gov/cels/article/weather-is-community-argonne-researchers-talk-atmospheric-science-ai-and-citizen-science-at-the-new)
 * **Argonne National Laboratory (ANL):** [AI at Argonne](https://www.anl.gov/ai)
 * **La Sierra University:** [La Sierra Profs' Team Selected for DOE Genesis Mission AI Research Award](https://lasierra.edu/article/la-sierra-profs-team-selected-for-doe-genesis-mission-ai-research-award/)
 * **Idaho National Laboratory (INL):** [National Laboratory Research Collaboration Focuses on Accelerated Qualification of Critical Nuclear Components](https://inl.gov/news-release/national-laboratory-research-collaboration-focuses-on-accelerated-qualification-of-critical-nuclear-components/)
