@@ -1,7 +1,7 @@
 # Genesis Mission — Master Reference Coverage Report
 
 > **Document Overview:**
-> This report provides a comprehensive coverage analysis, breakdown, and master audit index for the **606 external reference links** compiled within `references.md` for the **Genesis Mission** documentation repository.
+> This report provides a comprehensive coverage analysis, breakdown, and master audit index for the **607 external reference links** compiled within `references.md` for the **Genesis Mission** documentation repository.
 
 ---
 
@@ -9,13 +9,13 @@
 
 | Metric | Count / Value | Description |
 | :--- | :--- | :--- |
-| **Total Reference Links** | **606** | Unique external links indexed across all sections |
+| **Total Reference Links** | **607** | Unique external links indexed across all sections |
 | **Primary Document Sections** | **7** | High-level thematic categories in `references.md` |
 | **Unique Target Domains** | **291** | Distinct domain names referenced (government, lab, corporate, academic, news) |
-| **Official PDF Documents** | **21** | Formal RFA solicitations, webinars, slides, and executive reports |
+| **Official PDF Documents** | **22** | Formal RFA solicitations, webinars, slides, and executive reports |
 | **Web Portals & Press Releases** | **585** | Newsroom features, corporate blog posts, and interactive hubs |
 | **Validation Status** | **100% Validated** | All links canonicalized, formatted, and deduplicated |
-| **Processing Status** | **606 / 606 Processed** | 0 Unprocessed, 606 Processed (100% Complete) |
+| **Processing Status** | **607 / 607 Processed** | 0 Unprocessed, 607 Processed (100% Complete) |
 
 ---
 
@@ -27,9 +27,9 @@
 | `2. Collaborators` | **77** | 12.7% | Official homepage & announcement links for industrial/energy partners |
 | `3. Quantum Leadership & CHIPS Act Initiatives` | **11** | 1.8% | Department of Commerce NIST LOIs & DOE $2B quantum initiatives |
 | `4. Executive, Federal & Partner Announcements` | **171** | 28.2% | White House releases, Cabinet agency press, hyperscaler & lab announcements |
-| `5. National Labs & University Coverage` | **308** | 50.8% | National Laboratory news portals & 72 awardee university press releases |
+| `5. National Labs & University Coverage` | **308** | 50.7% | National Laboratory news portals & 72 awardee university press releases |
 | `6. Additional Event Materials & Reference Links` | **18** | 3.0% | Presentation slide decks, institutional intro files & video recordings |
-| `7. Technical Documents, RFA Guidance & Official Webinars` | **18** | 3.0% | DE-FOA-0003612 solicitations, OSTP challenge papers, SCAC presentations & peer-reviewed AI-for-science research |
+| `7. Technical Documents, RFA Guidance & Official Webinars` | **19** | 3.1% | DE-FOA-0003612 solicitations, OSTP challenge papers, SCAC presentations & peer-reviewed AI-for-science research |
 
 ---
 
@@ -41,7 +41,7 @@ Below is the distribution of references grouped by top domain hosts and institut
 | :--- | :---: | :--- | :--- |
 | `www.energy.gov` | **49** | U.S. Department of Energy (DOE) | FOA releases, Secretary announcements, OSTP challenge docs, Office of the Under Secretary for Science leadership, SBIR/STTR funding, and Challenges Team guidance |
 | `www.anl.gov` | **32** | Argonne National Laboratory (ANL) | ALCF compute platforms, Genesis Open Models, SPOTTER, RoSA robotics, MIRAGE, 2025 research breakthroughs, STREAMLINE AI nuclear physics |
-| `science.osti.gov` | **10** | DOE Office of Science (OSTI) | DE-FOA-0003612 guidance, BES/FES/HEP webinars, FAQs |
+| `science.osti.gov` | **11** | DOE Office of Science (OSTI) | DE-FOA-0003612 guidance, BES/FES/HEP/BER webinars, FAQs, award flyer |
 | `www.whitehouse.gov` | **7** | White House OSTP / Executive Office | Presidential executive actions, OSTP wins reports, press releases |
 | `inl.gov` | **7** | Idaho National Laboratory (INL) | SMR digital twins, nuclear AI permitting, autonomous reactor control, and robotic wire-arc additive manufacturing (WAAM) pressure vessel qualification |
 | `news.fnal.gov` | **13** | Fermi National Accelerator Laboratory | SQMS quantum center, xLight EUV lithography FEL CRADA, DUNE AI neutrino reconstruction, supernova alert workflows, and leadership reorganization |
@@ -730,4 +730,5 @@ A tabular master index for the 606-reference collection:
 | 5. National Labs & University Coverage | Universities & Research Institutions | DOE Partners with RTI to Launch Genesis Mission Consortium | `www.rti.org` | Web | [DOE Partners with RTI to Launch Genesis Mission Consortium](https://www.rti.org/news/doe-genesis-mission-consortium-techwerx) | `Processed` |
 | 5. National Labs & University Coverage | Pacific Northwest National Laboratory (PNNL) | Genesis Mission Phase 1 Projects | `www.pnnl.gov` | Web | [Genesis Mission Phase 1 Projects](https://www.pnnl.gov/projects/genesis-mission/phase-1-projects) | `Processed` |
 | 5. National Labs & University Coverage | UC San Diego (UCSD) | UC San Diego Receives Department of Energy Genesis Mission Award to Fund New Scientific AI Tools | `today.ucsd.edu` | Web | [UC San Diego Receives Department of Energy Genesis Mission Award to Fund New Scientific AI Tools](https://today.ucsd.edu/story/genesis-mission-to-fund-new-scientific-ai-tools) | `Processed` |
+| 7. Technical Documents, RFA Guidance & Official Webinars | - | DOE Office of Science: Biological and Environmental Research (BER) 26 Genesis Awards Flyer (PDF) | `science.osti.gov` | PDF | [DOE Office of Science: Biological and Environmental Research (BER) 26 Genesis Awards Flyer (PDF)](https://science.osti.gov/-/media/ber/pdf/News-and-Resources/26-Genesis-Awards-Flyer_0820.pdf) | `Processed` |
 
