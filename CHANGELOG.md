@@ -5,6 +5,13 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.6.31] - 2026-08-29
+
+### Added
+- **Reference Index Entry #584**: Processed Columbia University Engineering news link `https://www.engineering.columbia.edu/about/news/columbia-engineering-faculty-members-awarded-genesis-mission-funding` (*Columbia Engineering Faculty Members Awarded Genesis Mission Funding*) under Section 5 (*National Labs & University Coverage*) in `references.md`.
+- **Master Index Update**: Registered new entry #584 in `reference_coverage.md` at the bottom of the table to avoid large renumbering updates. Synchronized all summary metrics: Total Reference Links (583 → 584), Web Portals & Press Releases (562 → 563), Unique Target Domains (278 → 279), and 100% Processing Status (584 / 584 Processed, 100% Complete). Section 5 count increased (289 → 290, 49.6% → 49.7%). Added `www.engineering.columbia.edu` top domain count of 1 with notes on AI-enabled bio-programmable matter physical operating systems, nuclear force simulations, and observationally constrained cloud models.
+- **Research Paper Enrichment — §3.3 (README.md & README.de.md)**: Enriched the Columbia University sub-bullet under §3.3 of both English and German flagship papers with technical and strategic insights on the three projects led by Professors Kyle Bishop, Norman Christ, and Kara Lamb, detailing AI-enabled physical operating systems for bio-programmable matter, AI-accelerated simulations of nuclear force quarks, and observationally-constrained cloud/precipitation modeling. Bumped version string to `3.6.31` across `README.md` and `README.de.md`.
+
 ## [3.6.30] - 2026-08-29
 
 ### Added

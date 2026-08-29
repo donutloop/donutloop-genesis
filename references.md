@@ -471,7 +471,9 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
   * [Connecting Autonomous Laboratories to Speed Scientific Advancement](https://www.cmu.edu/news/stories/archives/2026/july/connecting-autonomous-laboratories-to-speed-scientific-advancement)
   * [Carnegie Mellon's AI Science Foundry Selected by NSF To Help Build National Infrastructure for AI](https://www.cmu.edu/news/stories/archives/2026/july/carnegie-mellons-ai-science-foundry-selected-by-nsf-to-help-build-national-infrastructure-for-ai)
 * **Colorado State University:** [Researchers Selected for Two Highly Competitive Projects](https://source.colostate.edu/csu-researchers-selected-for-two-highly-competitive-department-of-energy-genesis-mission-projects/)
-* **Columbia University:** [Projects Receive Genesis Mission Funding](https://news.columbia.edu/news/columbia-university-projects-receive-genesis-mission-funding)
+* **Columbia University:**
+  * [Projects Receive Genesis Mission Funding](https://news.columbia.edu/news/columbia-university-projects-receive-genesis-mission-funding)
+  * [Columbia Engineering Faculty Members Awarded Genesis Mission Funding](https://www.engineering.columbia.edu/about/news/columbia-engineering-faculty-members-awarded-genesis-mission-funding)
 * **Cornell University:** [Awards Will Advance AI-Driven Science](https://news.cornell.edu/stories/2026/07/doe-genesis-mission-awards-will-advance-ai-driven-science)
 * **Dakota State University:** [DSU’s Dr. Peng Guo Joins Argonne-Led Quantum Computing Project](https://dsu.edu/news/2026/peng-guo-argonne.html)
 * **Emory University:** [Scientists Selected for Awards to Speed Discovery Through AI](https://news.emory.edu/stories/2026/07/emory-scientists-selected-us-genesis-mission-awards-speed-discovery-through-ai)
