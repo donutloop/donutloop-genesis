@@ -5,6 +5,15 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.6.29] - 2026-08-29
+
+### Added
+- **Reference Index Entry #582**: Processed University of Washington Department of Electrical & Computer Engineering (UW ECE) spotlight link `https://www.ece.uw.edu/spotlight/uw-ece-hossein-naghavi-genesis-mission/` (*UW ECE-led project selected for Department of Energy’s Genesis Mission*) under Section 5 (*National Labs & University Coverage*) in `references.md`.
+- **Master Index Update**: Registered new entry #582 in `reference_coverage.md` at the bottom of the table to avoid large renumbering updates. Synchronized all summary metrics: Total Reference Links (581 → 582), Web Portals & Press Releases (560 → 561), Unique Target Domains (276 → 277), and 100% Processing Status (582 / 582 Processed, 100% Complete). Section 5 count increased (287 → 288, 49.4% → 49.5%). Added `www.ece.uw.edu` top domain count of 1 with notes on neuromorphic terahertz imaging AR hardware.
+- **Coverage Matrix Update**: Added `ChipNexus` as a new reference-only industry partner to `coverage.md`. Updated total entity counts (206 → 207), and "Not Covered" metrics (18 → 19, 8.7% → 9.2%) across all summary tables and notes.
+- **Research Paper Enrichment — §1.2 & §3.3 (README.md & README.de.md)**: Enriched the University of Washington (UW) sub-bullet under §3.3 of both English and German flagship papers with technical and strategic insights on Assistant Professor Hossein Naghavi's TIME Lab project on Neuromorphic Terahertz Imaging via Analog Compute-in-Memory for AI-driven Augmented Reality hardware, detailing the terahertz waves superhuman vision capabilities for emergency response and partnerships with Texas A&M, University of Utah, ChipNexus, and NVIDIA, including the system's real-time digital twin. Also updated the version and added the press release to the respective references.
+- **Patch Version Release**: Incremented version strings to `3.6.29` across `README.md` and `README.de.md`.
+
 ## [3.6.28] - 2026-08-29
 
 ### Added

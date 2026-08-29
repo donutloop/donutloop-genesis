@@ -1,7 +1,7 @@
 # Genesis Mission — Master Reference Coverage Report
 
 > **Document Overview:**
-> This report provides a comprehensive coverage analysis, breakdown, and master audit index for the **581 external reference links** compiled within `references.md` for the **Genesis Mission** documentation repository.
+> This report provides a comprehensive coverage analysis, breakdown, and master audit index for the **582 external reference links** compiled within `references.md` for the **Genesis Mission** documentation repository.
 
 ---
 
@@ -9,13 +9,13 @@
 
 | Metric | Count / Value | Description |
 | :--- | :--- | :--- |
-| **Total Reference Links** | **581** | Unique external links indexed across all sections |
+| **Total Reference Links** | **582** | Unique external links indexed across all sections |
 | **Primary Document Sections** | **7** | High-level thematic categories in `references.md` |
-| **Unique Target Domains** | **276** | Distinct domain names referenced (government, lab, corporate, academic, news) |
+| **Unique Target Domains** | **277** | Distinct domain names referenced (government, lab, corporate, academic, news) |
 | **Official PDF Documents** | **21** | Formal RFA solicitations, webinars, slides, and executive reports |
-| **Web Portals & Press Releases** | **560** | Newsroom features, corporate blog posts, and interactive hubs |
+| **Web Portals & Press Releases** | **561** | Newsroom features, corporate blog posts, and interactive hubs |
 | **Validation Status** | **100% Validated** | All links canonicalized, formatted, and deduplicated |
-| **Processing Status** | **581 / 581 Processed** | 0 Unprocessed, 581 Processed (100% Complete) |
+| **Processing Status** | **582 / 582 Processed** | 0 Unprocessed, 582 Processed (100% Complete) |
 
 ---
 
@@ -26,8 +26,8 @@
 | `1. Key Presentation Details` | **3** | 0.5% | Briefing agendas, U.S. ATLAS IB meeting details & CERN links |
 | `2. Collaborators` | **76** | 13.1% | Official homepage & announcement links for industrial/energy partners |
 | `3. Quantum Leadership & CHIPS Act Initiatives` | **11** | 1.9% | Department of Commerce NIST LOIs & DOE $2B quantum initiatives |
-| `4. Executive, Federal & Partner Announcements` | **169** | 29.1% | White House releases, Cabinet agency press, hyperscaler & lab announcements |
-| `5. National Labs & University Coverage` | **287** | 49.4% | National Laboratory news portals & 70 awardee university press releases |
+| `4. Executive, Federal & Partner Announcements` | **169** | 29.0% | White House releases, Cabinet agency press, hyperscaler & lab announcements |
+| `5. National Labs & University Coverage` | **288** | 49.5% | National Laboratory news portals & 70 awardee university press releases |
 | `6. Additional Event Materials & Reference Links` | **17** | 2.9% | Presentation slide decks, institutional intro files & video recordings |
 | `7. Technical Documents, RFA Guidance & Official Webinars` | **18** | 3.1% | DE-FOA-0003612 solicitations, OSTP challenge papers, SCAC presentations & peer-reviewed AI-for-science research |
 
@@ -97,12 +97,13 @@ Below is the distribution of references grouped by top domain hosts and institut
 | `www.purdue.edu` | **2** | Purdue University College of Engineering | Electron-Ion Collider AI real-time trigger & B2D7 (Bachelor's to Doctorate in 7 Years) pilot program |
 | `www.scidac.gov` | **1** | U.S. Department of Energy (DOE) | Scientific Discovery through Advanced Computing (SciDAC) Institutes providing mathematical algorithms and computer science tools |
 | `today.ucsd.edu` | **1** | University Newsroom | UC San Diego-led collaborative National Data Platform (NDP) receiving $24.5M NSF Category I award to expand AI-ready national data ecosystem |
+| `www.ece.uw.edu` | **1** | University Newsroom | UW ECE spotlight on Assistant Professor Hossein Naghavi's low-power neuromorphic terahertz imaging AR headset project |
 
 ---
 
 ## 4. Master Reference Link Index
 
-A tabular master index for the 579-reference collection:
+A tabular master index for the 582-reference collection:
 
 | Category / Section | Entity / Subject | Title | Domain | Type | Link | Status |
 |---|---|---|---|:---:|---|:---:|
@@ -687,4 +688,5 @@ A tabular master index for the 579-reference collection:
 | 7. Technical Documents, RFA Guidance & Official Webinars | SciDAC | SciDAC: Scientific Discovery through Advanced Computing Institutes | `www.scidac.gov` | Web | [SciDAC: Scientific Discovery through Advanced Computing Institutes](https://www.scidac.gov/institutes.html) | `Processed` |
 | 5. National Labs & University Coverage | Brookhaven National Laboratory (BNL) | Brookhaven and Stony Brook Researchers Demonstrate 'Wireless' Capability for Quantum Network | `www.bnl.gov` | Web | [Brookhaven and Stony Brook Researchers Demonstrate 'Wireless' Capability for Quantum Network](https://www.bnl.gov/newsroom/news.php?a=123096) | `Processed` |
 | 5. National Labs & University Coverage | Fermi National Accelerator Laboratory (Fermilab) | Associate Lab Directors Help Shape Future of Fermilab | `news.fnal.gov` | Web | [Associate Lab Directors Help Shape Future of Fermilab](https://news.fnal.gov/2026/08/associate-directors-help-shape-future-of-fermilab/) | `Processed` |
+| 5. National Labs & University Coverage | University of Washington | UW ECE-led project selected for Department of Energy’s Genesis Mission | `www.ece.uw.edu` | Web | [UW ECE-led project selected for Department of Energy’s Genesis Mission](https://www.ece.uw.edu/spotlight/uw-ece-hossein-naghavi-genesis-mission/) | `Processed` |
 
