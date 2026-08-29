@@ -5,6 +5,16 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.6.62] - 2026-08-29
+
+### Added
+- **Reference Index Entry #614**: Processed `https://aws.amazon.com/federal/government-accelerator-initiatives/` (*Government Accelerator Initiatives — Genesis Accelerator & Warfighter Capability Accelerator*, host domain `aws.amazon.com`) under Section 4 (*Executive, Federal & Partner Announcements — AWS*) in `references.md`.
+- **Master Index Update**: Registered new entry #614 at the bottom of the Section 4 Master Reference Link Index table in `reference_coverage.md`. Synchronized all summary metrics: Total Reference Links (613 → 614), Web Portals & Press Releases (591 → 592), and Processing Status (**614 / 614 Processed, 100% Complete**). Section 4 count increased (172 → 173, 28.1% → 28.2%), with share adjustments in Section 2 (12.6% → 12.5%) and Section 5 (51.1% → 51.0%). The Section 3 top domain count for `aws.amazon.com` increased (4 → 5) with its description extended to cover the federal accelerator intake portal. Unique Target Domains remain 294 (no new host introduced).
+- **Coverage Matrix Audit**: No changes required in `coverage.md` — all entities named in the reference (Amazon Web Services, DOE/NNSA, Idaho National Laboratory) are already registered with "✅ Full Profile" status.
+
+### Changed
+- **Research Paper Enrichment — §3.1 (README.md & README.de.md)**: Added a *Government Accelerator Initiatives Intake Portal (2026–2028)* entry to the AWS profile in §3.1 of both the English and German flagship papers, documenting the combined **up to $100 Million** credit pool (AWS cloud services, generative AI technology, technical expertise, and training) across a three-year **2026–2028** window, the **AWS Genesis Accelerator Initiative** (up to **$50 Million** for biotechnology, nuclear fission and fusion energy, supercomputing, and quantum information science) with eligibility for DOE/**NNSA**, all associated national laboratories, federal research organizations, and private-sector research entities across all security classifications (Idaho National Laboratory civil nuclear innovation example), the parallel **AWS Warfighter Capability Accelerator Initiative** (up to **$50 Million** for Department of War entities, the defense industrial base, and defense contractors across AI/autonomous systems, battle management, homeland defense, advanced manufacturing and shipbuilding, contested logistics, cybersecurity, and space-based systems), and the portal-based engagement path. Bumped the version string to `3.6.62` across `README.md` and `README.de.md`.
+
 ## [3.6.61] - 2026-08-29
 
 ### Added
