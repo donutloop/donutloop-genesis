@@ -5,6 +5,14 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.6.45] - 2026-08-29
+
+### Added
+- **Reference Index Entry #598**: Processed Lawrence Berkeley National Laboratory (LBNL) Molecular Foundry news link `https://foundry.lbl.gov/2026/08/24/aum2026recap/` (*2026 Molecular Foundry Annual Meeting Recap*) under Section 5 (*National Labs & University Coverage*) in `references.md`.
+- **Master Index Update**: Registered new entry #598 in `reference_coverage.md` at the bottom of the table to avoid large renumbering updates. Synchronized all summary metrics: Total Reference Links (597 → 598), Web Portals & Press Releases (576 → 577), Unique Target Domains (287 → 288), and 100% Processing Status (598 / 598 Processed, 100% Complete). Section 5 count increased (301 → 302, 50.4% → 50.5%). Registered new top domain host `foundry.lbl.gov` in Section 3 with a count of 1.
+- **Coverage Matrix Update**: Added `Molecular Foundry` and `Joint Genome Institute (JGI)` as new reference-only partners under "DOE National Laboratories & Defense Security Sites" category in `coverage.md`. Updated total tracked entities (217 → 219) and "Not Covered" metrics (29 → 31), adjusting overall Full Profile coverage from 86.6% to 85.8%.
+- **Research Paper Enrichment — §3.2 & Appendix A.2 (README.md & README.de.md)**: Enriched both English and German flagship papers with detailed insights on LBNL's Molecular Foundry Annual User Meeting (AUM 2026), detailing new autonomous laboratories—*Materials Foundry* for powder synthesis automation and *NanoBio MDS* for metalloprotein discovery automation—along with upcoming user upgrades such as an autonomous synthesis cluster for hard materials, high-throughput STEM, and multimodal optoelectronic aberration-corrected STEM, and advanced collaborations with the Joint Genome Institute (JGI) on biology-aided materials separation. Bumped version string to `3.6.45` across `README.md` and `README.de.md`.
+
 ## [3.6.44] - 2026-08-29
 
 ### Added

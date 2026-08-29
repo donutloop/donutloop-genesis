@@ -344,6 +344,7 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
   * [How the Genesis Mission's American Science Cloud Advances Innovation](https://newscenter.lbl.gov/2026/07/15/how-the-genesis-missions-american-science-cloud-advances-innovation/)
   * [How a Machine Learning Pipeline Could Accelerate Innovation](https://newscenter.lbl.gov/2026/02/02/how-a-machine-learning-pipeline-could-accelerate-innovation/)
   * [Scientists Release Biggest 2D Map of the Universe](https://newscenter.lbl.gov/2026/08/10/scientists-release-biggest-2d-map-of-the-universe/)
+  * [2026 Molecular Foundry Annual Meeting Recap](https://foundry.lbl.gov/2026/08/24/aum2026recap/)
 * **Brookhaven National Laboratory (BNL):** 
   * [Genesis Mission Coverage & Research Leadership](https://www.bnl.gov/newsroom/news.php?a=123041)
   * [BNL Highlights Strategic Genesis Mission Projects](https://www.bnl.gov/newsroom/news.php?a=122827)
