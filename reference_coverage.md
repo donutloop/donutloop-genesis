@@ -1,7 +1,7 @@
 # Genesis Mission — Master Reference Coverage Report
 
 > **Document Overview:**
-> This report provides a comprehensive coverage analysis, breakdown, and master audit index for the **609 external reference links** compiled within `references.md` for the **Genesis Mission** documentation repository.
+> This report provides a comprehensive coverage analysis, breakdown, and master audit index for the **610 external reference links** compiled within `references.md` for the **Genesis Mission** documentation repository.
 
 ---
 
@@ -9,13 +9,13 @@
 
 | Metric | Count / Value | Description |
 | :--- | :--- | :--- |
-| **Total Reference Links** | **609** | Unique external links indexed across all sections |
+| **Total Reference Links** | **610** | Unique external links indexed across all sections |
 | **Primary Document Sections** | **7** | High-level thematic categories in `references.md` |
-| **Unique Target Domains** | **292** | Distinct domain names referenced (government, lab, corporate, academic, news) |
+| **Unique Target Domains** | **293** | Distinct domain names referenced (government, lab, corporate, academic, news) |
 | **Official PDF Documents** | **22** | Formal RFA solicitations, webinars, slides, and executive reports |
-| **Web Portals & Press Releases** | **587** | Newsroom features, corporate blog posts, and interactive hubs |
+| **Web Portals & Press Releases** | **588** | Newsroom features, corporate blog posts, and interactive hubs |
 | **Validation Status** | **100% Validated** | All links canonicalized, formatted, and deduplicated |
-| **Processing Status** | **609 / 609 Processed** | 0 Unprocessed, 609 Processed (100% Complete) |
+| **Processing Status** | **610 / 610 Processed** | 0 Unprocessed, 610 Processed (100% Complete) |
 
 ---
 
@@ -26,8 +26,8 @@
 | `1. Key Presentation Details` | **3** | 0.5% | Briefing agendas, U.S. ATLAS IB meeting details & CERN links |
 | `2. Collaborators` | **77** | 12.6% | Official homepage & announcement links for industrial/energy partners |
 | `3. Quantum Leadership & CHIPS Act Initiatives` | **11** | 1.8% | Department of Commerce NIST LOIs & DOE $2B quantum initiatives |
-| `4. Executive, Federal & Partner Announcements` | **171** | 28.1% | White House releases, Cabinet agency press, hyperscaler & lab announcements |
-| `5. National Labs & University Coverage` | **310** | 50.9% | National Laboratory news portals & 72 awardee university press releases |
+| `4. Executive, Federal & Partner Announcements` | **172** | 28.2% | White House releases, Cabinet agency press, hyperscaler & lab announcements |
+| `5. National Labs & University Coverage` | **310** | 50.8% | National Laboratory news portals & 72 awardee university press releases |
 | `6. Additional Event Materials & Reference Links` | **18** | 3.0% | Presentation slide decks, institutional intro files & video recordings |
 | `7. Technical Documents, RFA Guidance & Official Webinars` | **19** | 3.1% | DE-FOA-0003612 solicitations, OSTP challenge papers, SCAC presentations & peer-reviewed AI-for-science research |
 
@@ -117,6 +117,7 @@ Below is the distribution of references grouped by top domain hosts and institut
 | `www.pnnl.gov` | **6** | Pacific Northwest National Laboratory (PNNL) | Official project portal, news media, biotechnology, grid operations, nuclear science, and Phase I projects |
 | `news.arizona.edu` | **3** | University Newsroom | University of Arizona Genesis Mission awards, advisory committee appointment, and Suresh Garimella's congressional funding call |
 | `viterbischool.usc.edu` | **1** | University Newsroom | USC Viterbi School of Engineering leading DOE Genesis Mission AI-driven fluid turbulence simulation research project under Associate Professor Iván Bermejo-Moreno |
+| `www.vtcrc.com` | **1** | Research Park Newsroom | Virginia Tech Corporate Research Center (VTCRC) press coverage of Aclara Technologies' DOE Genesis Mission federal funding for AI-driven heavy rare earth processing |
 
 ---
 
@@ -735,4 +736,5 @@ A tabular master index for the 609-reference collection:
 | 7. Technical Documents, RFA Guidance & Official Webinars | - | DOE Office of Science: Biological and Environmental Research (BER) 26 Genesis Awards Flyer (PDF) | `science.osti.gov` | PDF | [DOE Office of Science: Biological and Environmental Research (BER) 26 Genesis Awards Flyer (PDF)](https://science.osti.gov/-/media/ber/pdf/News-and-Resources/26-Genesis-Awards-Flyer_0820.pdf) | `Processed` |
 | 5. National Labs & University Coverage | Universities & Research Institutions | Opinion: An AI Agent Just Broke Containment. Congress Needs a $3 Billion Response | `news.arizona.edu` | Web | [Opinion: An AI Agent Just Broke Containment. Congress Needs a $3 Billion Response](https://news.arizona.edu/news/opinion-ai-agent-just-broke-containment-congress-needs-3-billion-response) | `Processed` |
 | 5. National Labs & University Coverage | University of Southern California (USC) | Unlocking the Physics of Turbulence with AI | `viterbischool.usc.edu` | Web | [Unlocking the Physics of Turbulence with AI](https://viterbischool.usc.edu/news/2026/08/unlocking-the-physics-of-turbulence-with-ai/) | `Processed` |
+| 4. Executive, Federal & Partner Announcements | Aclara Technologies | Aclara Technologies Selected for DOE Federal Funding to Advance AI-Driven Heavy Rare Earth Processing | `www.vtcrc.com` | Web | [Aclara Technologies Selected for DOE Federal Funding to Advance AI-Driven Heavy Rare Earth Processing](https://www.vtcrc.com/aclara-technologies-selected-for-doe-federal-funding-to-advance-ai-driven-heavy-rare-earth-processing/) | `Processed` |
 
