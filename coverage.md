@@ -281,6 +281,7 @@
 | 200 | [Fusion Industry Association (FIA)](https://www.fusionindustryassociation.org/) | ✅ Full Profile | §3.4, §4.3, A.5 | Fusion energy industry trade association; FY28 DOE fusion investment advocacy ($1.114B total, $2B Fusion Milestone, $3B commercial pilot tier, $50M INFUSE, $180M FIRE Collaborative) in support of Genesis Mission fusion roadmap |
 | 201 | [Oak Ridge Institute for Science and Education (ORISE)](https://orise.orau.gov/) | ❌ Not Covered | — | Genesis Mission Annual Summit recording published through the ORISE Peer Review channel (reference only) |
 | 202 | [Southeastern Universities Research Association (SURA)](https://sura.org/) | ❌ Not Covered | — | Member consortium co-operating the Thomas Jefferson National Accelerator Facility via the SURATech joint venture (reference only) |
+| 203 | [Energy Sciences Coalition (ESC)](https://www.aau.edu/key-issues/fy27-energy-science-coalition-appropriation-recommendation) | ❌ Not Covered | — | Coalition of over 100 member universities, scientific societies, and national laboratories advocating for robust federal funding for the DOE Office of Science; FY27 appropriation recommendation (reference only) |
 
 ---
 
@@ -288,7 +289,7 @@
 
 | # | Organization | Coverage | Paper Section | Notes |
 |---|-------------|----------|---------------|-------|
-| 203 | [Wiley](https://www.wiley.com/) | ✅ Full Profile | §3.1, A.3 | Consortium scientific publisher; AI-powered research infrastructure, expert-validated workflows, research intelligence & evidence-linked content for trustworthy scientific AI |
+| 204 | [Wiley](https://www.wiley.com/) | ✅ Full Profile | §3.1, A.3 | Consortium scientific publisher; AI-powered research infrastructure, expert-validated workflows, research intelligence & evidence-linked content for trustworthy scientific AI |
 
 ---
 
@@ -302,16 +303,16 @@
 | Federal Agencies | 10 | 10 | 0 | 0 |
 | National Laboratories & Defense Sites | 22 | 22 | 0 | 0 |
 | Universities | 78 | 68 | 0 | 10 |
-| Philanthropy, Policy & Regional Hubs | 15 | 12 | 0 | 3 |
-| **Total** | **203** | **188** | **0** | **15** |
+| Philanthropy, Policy & Regional Hubs | 16 | 12 | 0 | 4 |
+| **Total** | **204** | **188** | **0** | **16** |
 
 ### By Coverage Level
 
 | Coverage Level | Count | Percentage |
 |:---|:---:|:---:|
-| ✅ Full Profile | 188 | 92.6% |
+| ✅ Full Profile | 188 | 92.2% |
 | 📋 Brief Mention | 0 | 0.0% |
-| ❌ Not Covered | 15 | 7.4% |
-| **Total Entities** | **203** | **100%** |
+| ❌ Not Covered | 16 | 7.8% |
+| **Total Entities** | **204** | **100%** |
 
-> **Note:** The tracker now covers 203 Genesis Mission ecosystem participants, with 188 entities in dedicated technical write-ups (92.6% full-profile coverage). X-energy, Cosylab, Brown University, Heidelberg University, European Coalition for AI in Fundamental Physics (EuCAIF), Colorado School of Mines, UC San Diego, University of Delaware, University of Hawaiʻi at Mānoa, University of Massachusetts Amherst, University of Washington, St. Joseph's University, New York, The Ohio State University, Southeastern Universities Research Association (SURA), and ORISE remain registered as reference-only participants. The broader sub-grantee network of 342 participating institutions represents secondary academic and sub-contractor nodes across the 278 national project awards.
+> **Note:** The tracker now covers 204 Genesis Mission ecosystem participants, with 188 entities in dedicated technical write-ups (92.2% full-profile coverage). X-energy, Cosylab, Brown University, Heidelberg University, European Coalition for AI in Fundamental Physics (EuCAIF), Colorado School of Mines, UC San Diego, University of Delaware, University of Hawaiʻi at Mānoa, University of Massachusetts Amherst, University of Washington, St. Joseph's University, New York, The Ohio State University, Southeastern Universities Research Association (SURA), ORISE, and Energy Sciences Coalition (ESC) remain registered as reference-only participants. The broader sub-grantee network of 342 participating institutions represents secondary academic and sub-contractor nodes across the 278 national project awards.
