@@ -5,6 +5,16 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.6.63] - 2026-08-29
+
+### Added
+- **Reference Index Entry #615**: Processed `https://ece.ncsu.edu/2026/nc-state-to-lead-three-department-of-energy-genesis-mission-projects/` (*NC State to Lead Three Department of Energy Genesis Mission Projects*, host domain `ece.ncsu.edu`) under Section 5 (*National Labs & University Coverage — Universities & Research Institutions*) in `references.md`.
+- **Master Index Update**: Registered new entry #615 at the bottom of the Section 4 Master Reference Link Index table in `reference_coverage.md`. Synchronized all summary metrics: Total Reference Links (614 → 615), Web Portals & Press Releases (592 → 593), Unique Target Domains (294 → 295, new host `ece.ncsu.edu`), and Processing Status (**615 / 615 Processed, 100% Complete**). Section 5 count increased (313 → 314, 51.0% → 51.1%) with a share adjustment in Section 4 (28.2% → 28.1%). Added the `ece.ncsu.edu` row to the Section 3 top domain classification table.
+- **Coverage Matrix Audit**: Added **North Carolina State University (NC State)** to the *Research Universities* section of `coverage.md` with status `❌ Not Covered` *(reference only)*. Updated summary metrics: total tracked participants (224 → 225), Universities row (85 → 86 total, 17 → 18 not covered), Not Covered total (35 → 36, 15.6% → 16.0%), and full-profile coverage ratio (189 / 224, 84.4% → 189 / 225, 84.0%).
+
+### Changed
+- **Research Paper Enrichment — §3.3 & Appendix A.5 (README.md & README.de.md)**: Added an *NC State* entry to the *AI Architecture, Foundation Models & Agentic Discovery* grouping in §3.3 of both the English and German flagship papers, documenting three NC State-led **Phase I** projects (each under **$1 Million**, less than one year, eligible for larger **Phase II** awards): an **AI-powered programming framework** for generating, debugging, and optimizing code for emerging **AI accelerators** (PI **Michela Becchi**, Electrical & Computer Engineering, with **Argonne National Laboratory**), **adversarial-attack defense for agentic AI** scientific workflows against result corruption, false conclusions, and data leakage (PI **Xiaorui Liu**, Computer Science, with the **University of Tennessee, Knoxville**, **Michigan State University**, and **Depict Bio**), and **AI-embedded astrophysical simulations** of **neutron star mergers** and **supernovae** probing the cosmic origin of the elements and the role of **neutrinos** (PI **Gail McLaughlin**, Physics, with the University of Tennessee, **Penn State**, **Notre Dame**, **UC Berkeley**, and **Oak Ridge National Laboratory**), plus NC State's partner role on two nuclear energy projects including a **Texas A&M**-led reactor safety AI effort. Added matching Appendix A.5 university table rows. Bumped the version string to `3.6.63` across `README.md` and `README.de.md`.
+
 ## [3.6.62] - 2026-08-29
 
 ### Added
