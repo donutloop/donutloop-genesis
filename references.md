@@ -685,12 +685,14 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
 * **NVIDIA GTC 2026:** [Science at the Speed of Light: The Genesis Mission Across DOE Labs (Brian Spears & Rick Stevens)](https://www.nvidia.com/en-us/on-demand/session/gtc26-s82461/)
 * **NVIDIA GTC 2026:** [Accelerating Scientific Discovery Through Global Innovation (Dr. Darío Gil & Ian Buck)](https://www.nvidia.com/en-us/on-demand/session/gtc26-s82438/)
 * **National Laboratory of the Rockies (NREL):** [12 Genesis Awards, One Membrane Center, and 5 Emerging Aviation Fuels](https://www.youtube.com/watch?v=Hw_mpJwmT1o)
-* **Supplemental Short-Form Video:** [Genesis Mission YouTube Shorts Reference](https://youtube.com/shorts/u96gp5cGhHk?is=hLkmzbCpbPzVXubz)
-* **Peripheral / Non-DOE Commercial Branding:** [Cellebrite Genesis for Enterprise Now Generally Available, Regional Availability Expands to More Global Markets (unrelated commercial product branding)](https://www.prnewswire.com/il/news-releases/cellebrite-genesis-for-enterprise-now-generally-available-regional-availability-expands-to-more-global-markets-302854865.html)
+* **Supplemental Short-Form Video:** [Genesis Mission YouTube Shorts Reference](https://www.youtube.com/shorts/u96gp5cGhHk?is=hLkmzbCpbPzVXubz)
 * **University of Oklahoma (Campus Workforce Context):** [Welcome, Class of 2030!](https://ou.edu/news/articles/2026/august/class-of-2030)
 * **Oak Ridge National Laboratory Careers:** [Research Scientist, Agentic Workflows](https://jobs.ornl.gov/job/Oak-Ridge-Research-Scientist%2C-Agentic-Workflows-TN-37830/1422626200)
 * **Molecular Foundry / LBNL:** [AUM 2026 Recap: Building the Future of Advanced User Materials](https://foundry.lbl.gov/2026/08/24/aum2026recap/)
 * **Krell Institute / CSGF:** [Brian Spears 2026 Conference Video](https://www.krellinst.org/csgf/conf/2026/video/spears2026)
+
+### Excluded / Non-DOE Brand Collisions
+* **Peripheral / Non-DOE Commercial Branding:** [Cellebrite Genesis for Enterprise Now Generally Available, Regional Availability Expands to More Global Markets (unrelated commercial product branding)](https://www.prnewswire.com/il/news-releases/cellebrite-genesis-for-enterprise-now-generally-available-regional-availability-expands-to-more-global-markets-302854865.html)
 
 ## 7. Technical Documents, RFA Guidance & Official Webinars
 * [U.S. Department of Energy: Genesis Mission RFI Analysis (PDF)](https://www.energy.gov/sites/default/files/2026-07/Genesis-Mission-RFI-Analysis.pdf)
