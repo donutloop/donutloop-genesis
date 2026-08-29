@@ -1,7 +1,7 @@
 # Genesis Mission — Master Reference Coverage Report
 
 > **Document Overview:**
-> This report provides a comprehensive coverage analysis, breakdown, and master audit index for the **571 external reference links** compiled within `references.md` for the **Genesis Mission** documentation repository.
+> This report provides a comprehensive coverage analysis, breakdown, and master audit index for the **572 external reference links** compiled within `references.md` for the **Genesis Mission** documentation repository.
 
 ---
 
@@ -9,13 +9,13 @@
 
 | Metric | Count / Value | Description |
 | :--- | :--- | :--- |
-| **Total Reference Links** | **571** | Unique external links indexed across all sections |
+| **Total Reference Links** | **572** | Unique external links indexed across all sections |
 | **Primary Document Sections** | **7** | High-level thematic categories in `references.md` |
-| **Unique Target Domains** | **273** | Distinct domain names referenced (government, lab, corporate, academic, news) |
+| **Unique Target Domains** | **274** | Distinct domain names referenced (government, lab, corporate, academic, news) |
 | **Official PDF Documents** | **21** | Formal RFA solicitations, webinars, slides, and executive reports |
-| **Web Portals & Press Releases** | **550** | Newsroom features, corporate blog posts, and interactive hubs |
+| **Web Portals & Press Releases** | **551** | Newsroom features, corporate blog posts, and interactive hubs |
 | **Validation Status** | **100% Validated** | All links canonicalized, formatted, and deduplicated |
-| **Processing Status** | **571 / 571 Processed** | 0 Unprocessed, 571 Processed (100% Complete) |
+| **Processing Status** | **572 / 572 Processed** | 0 Unprocessed, 572 Processed (100% Complete) |
 
 ---
 
@@ -27,9 +27,9 @@
 | 2 | `2. Collaborators` | **76** | 13.3% | Official homepage & announcement links for industrial/energy partners |
 | 3 | `3. Quantum Leadership & CHIPS Act Initiatives` | **11** | 1.9% | Department of Commerce NIST LOIs & DOE $2B quantum initiatives |
 | 4 | `4. Executive, Federal & Partner Announcements` | **168** | 29.4% | White House releases, Cabinet agency press, hyperscaler & lab announcements |
-| 5 | `5. National Labs & University Coverage` | **279** | 48.9% | National Laboratory news portals & 70 awardee university press releases |
+| 5 | `5. National Labs & University Coverage` | **279** | 48.8% | National Laboratory news portals & 70 awardee university press releases |
 | 6 | `6. Additional Event Materials & Reference Links` | **17** | 3.0% | Presentation slide decks, institutional intro files & video recordings |
-| 7 | `7. Technical Documents, RFA Guidance & Official Webinars` | **17** | 3.0% | DE-FOA-0003612 solicitations, OSTP challenge papers, SCAC presentations & peer-reviewed AI-for-science research |
+| 7 | `7. Technical Documents, RFA Guidance & Official Webinars` | **18** | 3.1% | DE-FOA-0003612 solicitations, OSTP challenge papers, SCAC presentations & peer-reviewed AI-for-science research |
 
 ---
 
@@ -93,12 +93,13 @@ Below is the distribution of references grouped by top domain hosts and institut
 | `cosylab.com` | **1** | Cosylab | Slovenian-based control systems and AI integration specialist selected for Phase 1 of the DOE's Genesis Mission |
 | `www.psu.edu` | **2** | Penn State University | Penn State scientists lead three projects and the $20M LATTICE programmable cloud laboratory |
 | `www.purdue.edu` | **2** | Purdue University College of Engineering | Electron-Ion Collider AI real-time trigger & B2D7 (Bachelor's to Doctorate in 7 Years) pilot program |
+| `www.scidac.gov` | **1** | U.S. Department of Energy (DOE) | Scientific Discovery through Advanced Computing (SciDAC) Institutes providing mathematical algorithms and computer science tools |
 
 ---
 
 ## 4. Master Reference Link Index
 
-A tabular master index for the 570-reference collection:
+A tabular master index for the 572-reference collection:
 
 | # | Category / Section | Entity / Subject | Title | Domain | Type | Link | Status |
 |---|---|---|---|---|:---:|---|:---:|
@@ -673,3 +674,4 @@ A tabular master index for the 570-reference collection:
 | 569 | 7. Technical Documents, RFA Guidance & Official Webinars | - | INL GAIN / ANL: Overview of NE Focus Areas in DOE's Genesis AI Initiative Presentation — Dr. Rick Vilim (PDF) | `gain.inl.gov` | PDF | [INL GAIN / ANL: Overview of NE Focus Areas in DOE's Genesis AI Initiative Presentation — Dr. Rick Vilim (PDF)](https://gain.inl.gov/content/uploads/4/2026/06/05-Overview-of-NE-Focus-Areas-in-DOEs-Genesis-AI-Initiative-Rick-Vilim.pdf) | `Processed` |
 | 570 | 7. Technical Documents, RFA Guidance & Official Webinars | Generative Closed-Loop AI | The Future of Fundamental Science Led by Generative Closed-Loop Artificial Intelligence | `pmc.ncbi.nlm.nih.gov` | Web | [The Future of Fundamental Science Led by Generative Closed-Loop Artificial Intelligence](https://pmc.ncbi.nlm.nih.gov/articles/PMC12932417/) | `Processed` |
 | 571 | 7. Technical Documents, RFA Guidance & Official Webinars | U.S. Department of Energy (DOE) | GEAR: Genesis Education and Resources | `gear.doe.gov` | Web | [GEAR: Genesis Education and Resources](https://gear.doe.gov/) | `Processed` |
+| 572 | 7. Technical Documents, RFA Guidance & Official Webinars | SciDAC | SciDAC: Scientific Discovery through Advanced Computing Institutes | `www.scidac.gov` | Web | [SciDAC: Scientific Discovery through Advanced Computing Institutes](https://www.scidac.gov/institutes.html) | `Processed` |
