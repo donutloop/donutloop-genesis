@@ -5,6 +5,17 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.6.11] - 2026-08-29
+
+### Added
+- **Reference Index Entry #411**: Added Brown University's *National Labs Day* reference link under Section 5 (*National Labs & University Coverage*) in `references.md`.
+- **Ecosystem Coverage Sync**: Inserted Brown University alphabetically under Section 2 (*Research Universities*) as row 112 in `coverage.md` with status `❌ Not Covered`. Sequentially renumbered subsequent rows from 113 up to 199 and updated summary tables, raising total University nodes (76 → 77) and total tracked ecosystem entities (198 → 199).
+- **Master Index Update**: Registered new entry #411 in `reference_coverage.md`. Sequentially shifted and renumbered subsequent index rows up to #564. Synchronized all summary metrics: Total Reference Links (563 → 564), Unique Target Domains (268 → 269), Web Portals & Press Releases (543 → 544), and 100% Processing Status (564 / 564 Processed). Section 5 count increased (272 → 273, 48.3% → 48.4%), and registered `www.brown.edu` as a new top domain host.
+- **Research Paper Enrichment — §3.3 & Appendix A.5 (README.md & README.de.md)**: Enriched both English and German flagship papers with strategic and technical details of Brown University's May 14, 2026 National Labs Day, featuring PNNL Chief Data Scientist James Ang's keynote and key collaborations with LLNL (Brendan Keith's structural co-design), PNNL/Sandia (George Karniadakis' leadership in SEA-CROGS), batteries, solar/fuel cells, and fundamental physics.
+- **Patch Version Release**: Incremented version strings to `3.6.11` across `README.md` and `README.de.md`.
+
+---
+
 ## [3.6.10] - 2026-08-29
 
 ### Added
