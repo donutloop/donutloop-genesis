@@ -5,6 +5,16 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.6.65] - 2026-08-29
+
+### Added
+- **Reference Index Entry #617**: Processed `https://www.unc.edu/posts/2026/08/20/carolina-researchers-probe-the-universes-origins/` (*New Grant Will Help Carolina Researchers Probe the Universe's Origins*, host domain `www.unc.edu`) under Section 5 (*National Labs & University Coverage — Universities & Research Institutions*) in `references.md`.
+- **Master Index Update**: Registered new entry #617 at the bottom of the Section 4 Master Reference Link Index table in `reference_coverage.md`. Synchronized all summary metrics: Total Reference Links (616 → 617), Web Portals & Press Releases (594 → 595), Unique Target Domains (296 → 297, new host `www.unc.edu`), and Processing Status (**617 / 617 Processed, 100% Complete**). Section 5 count increased (315 → 316, 51.1% → 51.2%) with a share adjustment in Section 4 (28.1% → 28.0%). Added the `www.unc.edu` row to the Section 3 top domain classification table.
+- **Coverage Matrix Audit**: Added **University of North Carolina at Chapel Hill (UNC-Chapel Hill)** to the *Research Universities* section of `coverage.md` with status `❌ Not Covered` *(reference only)*. Updated summary metrics: total tracked participants (226 → 227), Universities row (87 → 88 total, 19 → 20 not covered), Not Covered total (37 → 38, 16.4% → 16.7%), and full-profile coverage ratio (189 / 226, 83.6% → 189 / 227, 83.3%).
+
+### Changed
+- **Research Paper Enrichment — §3.3 & Appendix A.5 (README.md & README.de.md)**: Added a *UNC-Chapel Hill* entry to the *AI Architecture, Foundation Models & Agentic Discovery* grouping in §3.3 of both the English and German flagship papers, documenting the selection of nuclear physicists **Julieta Gruszko** (Associate Professor) and **Reyco Henning** (Professor) of the **Department of Physics and Astronomy** for Genesis Mission **award negotiations**. The project applies **AI** and **advanced computing** to the search for **neutrinoless double-beta decay** — a rare nuclear process whose observation would show that neutrinos are their own antiparticles and explain the universe's **matter–antimatter asymmetry** — within the international **LEGEND** collaboration (*Large Enriched Germanium Experiment for Neutrinoless Double-beta Decay*, ~**60 institutions**), spanning the operating **LEGEND-200** detector and the next-generation **LEGEND-1000** design, using AI to sift ultra-low-background germanium waveform data for candidate signatures and reject backgrounds. Added matching Appendix A.5 university table rows. Bumped the version string to `3.6.65` across `README.md` and `README.de.md`.
+
 ## [3.6.64] - 2026-08-29
 
 ### Added
