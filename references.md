@@ -536,6 +536,7 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
   * [Stanford University: Genesis Mission AI Research Initiatives](https://news.stanford.edu/stories/2026/08/stanford-genesis-mission-ai-initiatives)
   * [AI Laboratories Award](https://med.stanford.edu/news/all-news/2026/08/ai-laboratories-award.html)
   * [Stanford Report: Stanford-Led Collaboration Receives $20M Award to Help Build National Network of AI-Driven, Remotely Operated Cloud Laboratories](https://news.stanford.edu/stories/2026/08/ai-cloud-laboratories-research-award)
+  * [Stanford DoResearch: Resources for Selected Funding Programs](https://doresearch.stanford.edu/stanford-research-development-office/writing-your-proposal/resources-selected-funding-programs-1)
 * **St. Joseph's University, New York (SJNY):** [Students to Gain Hands-On AI Research Experience Through DOE Grant](https://oncampus.sjny.edu/sjny-students-to-gain-hands-on-ai-research-experience-through-doe-grant/)
 * **Stony Brook University:**
   * [Researchers Chosen for Landmark AI for Science Awards](https://news.stonybrook.edu/newsroom/press-release/general/stony-brook-university-researchers-chosen-for-landmark-doe-genesis-mission-ai-for-science-awards-2/)

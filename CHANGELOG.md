@@ -5,6 +5,14 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.6.50] - 2026-08-29
+
+### Added
+- **Reference Index Entry #603**: Processed `https://doresearch.stanford.edu/stanford-research-development-office/writing-your-proposal/resources-selected-funding-programs-1` (*Stanford DoResearch: Resources for Selected Funding Programs*) under Section 5 (*National Labs & University Coverage*) in `references.md`.
+- **Master Index Update**: Registered new entry #603 in `reference_coverage.md` at the bottom of Section 4 table. Synchronized all summary metrics: Total Reference Links (602 → 603), Web Portals & Press Releases (581 → 582), Unique Target Domains (290 → 291), and 100% Processing Status (603 / 603 Processed, 100% Complete). Section 5 count increased (304 → 305, 50.5% → 50.6%). Registered new top domain host `doresearch.stanford.edu` in Section 3 with a count of 1.
+- **Coverage Matrix Update**: No new entities were introduced to `coverage.md` as Stanford University is already fully profiled.
+- **Research Paper Enrichment — §4.2 & Appendix A.5 (README.md & README.de.md)**: Enriched both English and German flagship papers with detailed insights on Stanford University's Research Development Office (RDO) and its institutional guide "Resources for Selected Funding Programs" supporting proposals for major federal initiatives such as DOE Energy Frontier Research Centers (EFRC), the Genesis Mission, and various NSF programs (e.g., CAREER, POSE, STC). Highlighted the role of strategic search and proposal tools (such as GrantForward, DeepResearch) and institutional booster mechanisms (such as Propel Grants and Grant Boosters) in optimizing competitive multi-institutional proposals. Bumped version string to `3.6.50` across `README.md` and `README.de.md`.
+
 ## [3.6.49] - 2026-08-29
 
 ### Added

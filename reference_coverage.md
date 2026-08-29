@@ -1,7 +1,7 @@
 # Genesis Mission — Master Reference Coverage Report
 
 > **Document Overview:**
-> This report provides a comprehensive coverage analysis, breakdown, and master audit index for the **602 external reference links** compiled within `references.md` for the **Genesis Mission** documentation repository.
+> This report provides a comprehensive coverage analysis, breakdown, and master audit index for the **603 external reference links** compiled within `references.md` for the **Genesis Mission** documentation repository.
 
 ---
 
@@ -9,13 +9,13 @@
 
 | Metric | Count / Value | Description |
 | :--- | :--- | :--- |
-| **Total Reference Links** | **602** | Unique external links indexed across all sections |
+| **Total Reference Links** | **603** | Unique external links indexed across all sections |
 | **Primary Document Sections** | **7** | High-level thematic categories in `references.md` |
-| **Unique Target Domains** | **290** | Distinct domain names referenced (government, lab, corporate, academic, news) |
+| **Unique Target Domains** | **291** | Distinct domain names referenced (government, lab, corporate, academic, news) |
 | **Official PDF Documents** | **21** | Formal RFA solicitations, webinars, slides, and executive reports |
-| **Web Portals & Press Releases** | **581** | Newsroom features, corporate blog posts, and interactive hubs |
+| **Web Portals & Press Releases** | **582** | Newsroom features, corporate blog posts, and interactive hubs |
 | **Validation Status** | **100% Validated** | All links canonicalized, formatted, and deduplicated |
-| **Processing Status** | **602 / 602 Processed** | 0 Unprocessed, 602 Processed (100% Complete) |
+| **Processing Status** | **603 / 603 Processed** | 0 Unprocessed, 603 Processed (100% Complete) |
 
 ---
 
@@ -27,7 +27,7 @@
 | `2. Collaborators` | **77** | 12.8% | Official homepage & announcement links for industrial/energy partners |
 | `3. Quantum Leadership & CHIPS Act Initiatives` | **11** | 1.8% | Department of Commerce NIST LOIs & DOE $2B quantum initiatives |
 | `4. Executive, Federal & Partner Announcements` | **171** | 28.4% | White House releases, Cabinet agency press, hyperscaler & lab announcements |
-| `5. National Labs & University Coverage` | **304** | 50.5% | National Laboratory news portals & 71 awardee university press releases |
+| `5. National Labs & University Coverage` | **305** | 50.6% | National Laboratory news portals & 71 awardee university press releases |
 | `6. Additional Event Materials & Reference Links` | **18** | 3.0% | Presentation slide decks, institutional intro files & video recordings |
 | `7. Technical Documents, RFA Guidance & Official Webinars` | **18** | 3.0% | DE-FOA-0003612 solicitations, OSTP challenge papers, SCAC presentations & peer-reviewed AI-for-science research |
 
@@ -112,6 +112,7 @@ Below is the distribution of references grouped by top domain hosts and institut
 | `foundry.lbl.gov` | **1** | Berkeley Lab (LBNL) | Molecular Foundry user facility hosting AUM 2026 showcasing autonomous synthesis clusters, high-throughput STEM, and AI-driven materials automation |
 | `fenado.ai` | **1** | Tech News & Analysis | Rescale selected under DOE Genesis Mission for Agentic HPC Pipeline Initiative (AHPI) to scale agentic AI on digital engineering platform |
 | `www.olcf.ornl.gov` | **1** | Oak Ridge Leadership Computing Facility (OLCF) | Lux AI-optimized and HPC-centric compute system architecture, GPU specifications, and scientific AI allocations |
+| `doresearch.stanford.edu` | **1** | Stanford University Research Office | Stanford Research Development Office guidelines, resources, and institutional support tools for major federal funding programs |
 
 ---
 
@@ -723,4 +724,5 @@ A tabular master index for the 601-reference collection:
 | 5. National Labs & University Coverage | Oak Ridge Leadership Computing Facility (OLCF) | Lux – Oak Ridge Leadership Computing Facility | `www.olcf.ornl.gov` | Web | [Lux – Oak Ridge Leadership Computing Facility](https://www.olcf.ornl.gov/olcf-resources/compute-systems/lux/) | `Processed` |
 | 5. National Labs & University Coverage | Argonne National Laboratory (ANL) | STREAMLINE uses AI to tackle one of nuclear physics’ toughest problems | `www.anl.gov` | Web | [STREAMLINE uses AI to tackle one of nuclear physics’ toughest problems](https://www.anl.gov/article/streamline-uses-ai-to-tackle-one-of-nuclear-physics-toughest-problems) | `Processed` |
 | 2. Collaborators | Chemspeed | Chemspeed and Ames National Laboratory: Driving Innovation Together in DOE's Genesis Mission | `www.chemspeed.com` | Web | [Chemspeed and Ames National Laboratory: Driving Innovation Together in DOE's Genesis Mission](https://www.chemspeed.com/news/chemspeed-and-ames-national-laboratory-driving-innovation-together-in-doe-s-genesis-mission/) | `Processed` |
+| 5. National Labs & University Coverage | Universities & Research Institutions | Stanford DoResearch: Resources for Selected Funding Programs | `doresearch.stanford.edu` | Web | [Stanford DoResearch: Resources for Selected Funding Programs](https://doresearch.stanford.edu/stanford-research-development-office/writing-your-proposal/resources-selected-funding-programs-1) | `Processed` |
 
