@@ -5,6 +5,16 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.6.19] - 2026-08-29
+
+### Added
+- **Reference Index Entry #572**: Processed SciDAC Institutes official URL `https://www.scidac.gov/institutes.html` (*SciDAC: Scientific Discovery through Advanced Computing Institutes*) under Section 7 (*Technical Documents, RFA Guidance & Official Webinars*) in `references.md`.
+- **Master Index Update**: Registered new entry #572 in `reference_coverage.md`. Synchronized all summary metrics: Total Reference Links (571 → 572), Unique Target Domains (273 → 274), Web Portals & Press Releases (550 → 551), and 100% Processing Status (572 / 572 Processed, 100% Complete). Section 7 count increased (17 → 18, 3.0% → 3.1%) and Section 5 share adjusted (48.9% → 48.8%). Registered `www.scidac.gov` as a new target domain with 1 count in Section 3 top domain counts.
+- **Research Paper Enrichment — §3.5 (README.md & README.de.md)**: Enriched §3.5 (Specialized Research & Healthcare Institutions) of both English and German flagship papers with technical and strategic details of the DOE's **SciDAC Institutes (FASTMath & RAPIDS)**. Described their role under Advanced Scientific Computing Research (ASCR) in delivering scalable mathematical algorithms, adaptive discretizations, algebraic solvers, high-performance I/O, campaign-scale data management, and in-situ visualization to optimize massive simulation and AI/ML workflows on exascale computing resources.
+- **Patch Version Release**: Incremented version strings to `3.6.19` across `README.md` and `README.de.md`.
+
+---
+
 ## [3.6.18] - 2026-08-29
 
 ### Added
