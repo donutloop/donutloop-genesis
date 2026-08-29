@@ -5,6 +5,17 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.6.22] - 2026-08-29
+
+### Added
+- **Reference Index Entry #249**: Processed AAU Resource Library link `https://www.aau.edu/resource-library/fy27-energy-science-coalition-appropriation-recommendation` (*FY27 Energy Science Coalition Appropriation Recommendation*) under Section 4 (*Executive, Federal & Partner Announcements*) in `references.md`.
+- **Master Index Update**: Registered new entry #249 in `reference_coverage.md` and sequentially renumbered downstream index rows #249 to #574 (shifting them to #250 to #575). Synchronized all summary metrics: Total Reference Links (574 → 575), Web Portals & Press Releases (553 → 554), and 100% Processing Status (575 / 575 Processed, 100% Complete). Section 4 count increased (168 → 169, 29.3% → 29.4%). Incremented `www.aau.edu` count of 3 to 4 in Section 3 top domain counts.
+- **Coverage Matrix Update**: Added `Energy Sciences Coalition (ESC)` as a new reference-only participant to `coverage.md` at Entry #203, shifting the Wiley entry to #204. Updated total entity counts (203 → 204) and "Not Covered" metrics (15 → 16, 7.4% → 7.8%) across all summary tables and notes.
+- **Research Paper Enrichment — §4.2 & Appendix A.5 (README.md & README.de.md)**: Enriched the Higher Education Policy / Academic Workforce section of both English and German flagship papers with the Energy Sciences Coalition (ESC) FY27 recommendation of $9.5 billion for the DOE Office of Science. Also integrated the ESC and Fusion Industry Association (FIA) into the Additional Academic & Research Organizations directory (Appendix A.5) for both papers.
+- **Patch Version Release**: Incremented version strings to `3.6.22` across `README.md` and `README.de.md`.
+
+---
+
 ## [3.6.21] - 2026-08-29
 
 ### Added
