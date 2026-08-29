@@ -5,6 +5,13 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.6.43] - 2026-08-29
+
+### Added
+- **Reference Index Entry #596**: Processed Argonne National Laboratory news link `https://www.anl.gov/cels/article/weather-is-community-argonne-researchers-talk-atmospheric-science-ai-and-citizen-science-at-the-new` (*Weather Is Community: Argonne Researchers Talk Atmospheric Science, AI, and Citizen Science*) under Section 5 (*National Labs & University Coverage*) in `references.md`.
+- **Master Index Update**: Registered new entry #596 in `reference_coverage.md` at the bottom of the table to avoid large renumbering updates. Synchronized all summary metrics: Total Reference Links (595 → 596), Web Portals & Press Releases (574 → 575), Unique Target Domains (287 → 287 - no change), and 100% Processing Status (596 / 596 Processed, 100% Complete). Section 5 count increased (299 → 300, 50.3% → 50.3%) and Section 4 share adjusted (28.6% → 28.5%). Added `www.anl.gov` top domain count of 31 (previously 30) to Section 3.
+- **Research Paper Enrichment — §3.2 & Public Outreach (README.md & README.de.md)**: Enriched both English and German flagship research papers with linguistic parity, detailing Argonne National Laboratory's AI Roadshow community outreach program and the "Soil, Sky, and AI: The Science of Rain and Weather" event. Enriched with details of ANL researchers Paytsar Muradyan and Matthew Tuftedal utilizing atmospheric sensors, 3D-printed weather stations, and anemometers to engage citizen scientists, demonstrating how consumer-grade backyard weather station datasets fill spatial observation gaps to improve short- and long-term AI-driven predictive weather models. Bumped version string to `3.6.43` across `README.md` and `README.de.md`.
+
 ## [3.6.42] - 2026-08-29
 
 ### Added
