@@ -452,7 +452,9 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
   * [Jefferson Lab Genesis Mission RFA Phase I Grants Portal](https://www.jlab.org/AI/genesis/RFAPhaseIgrants)
 ### Universities & Research Institutions
 * **AI Tennessee Initiative:** [About AI Tennessee](https://www.aitennessee.ai/about-ai-tennessee/)
-* **Auburn University:** [Molaei Genesis Mission Research](https://eng.auburn.edu/news/2026/08/molaei-genesis-mission)
+* **Auburn University:**
+  * [Molaei Genesis Mission Research](https://eng.auburn.edu/news/2026/08/molaei-genesis-mission)
+  * [Auburn-DOE Partnership to Improve AI-Driven Models](https://cfwe.auburn.edu/auburn-doe-partnership-to-improve-ai-driven-models/)
 * **Boston University:** [BU Partners on DOE Genesis Mission Award to Advance AI-Driven Plasma Physics Research](https://www.bu.edu/eng/2026/08/11/bu-partners-on-doe-genesis-mission-award-to-advance-ai-driven-plasma-physics-research/)
 * **Brown University:** [Brown’s National Labs Day spotlights collaboration in AI-enabled science](https://www.brown.edu/news/2026-05-15/national-labs-day)
 * **University of Alabama:** [University of Alabama News: UA Genesis Mission Award Will Create AI Tool for Particle Physics](https://news.ua.edu/2026/08/ua-genesis-mission-award-will-create-ai-tool-for-particle-physics/)

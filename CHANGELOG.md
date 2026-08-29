@@ -5,6 +5,16 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.6.13] - 2026-08-29
+
+### Added
+- **Reference Index Entry #410**: Added Auburn University's College of Forestry, Wildlife and Environment (CFWE) partnership news release link `https://cfwe.auburn.edu/auburn-doe-partnership-to-improve-ai-driven-models/` (*Auburn-DOE Partnership to Improve AI-Driven Models*) under Section 5 (*National Labs & University Coverage*) in `references.md`.
+- **Master Index Update**: Registered new entry #410 in `reference_coverage.md`. Sequentially shifted and renumbered all subsequent index rows up to #566. Synchronized all summary metrics: Total Reference Links (565 → 566), Unique Target Domains (269 → 270), Web Portals & Press Releases (545 → 546), and 100% Processing Status (566 / 566 Processed, 100% Complete). Section 5 count increased (274 → 275, 48.5% → 48.6%), and registered `cfwe.auburn.edu` as a new target domain.
+- **Research Paper Enrichment — §3.3 (README.md & README.de.md)**: Enriched both English and German flagship papers (Grid Decarbonization, Climate & Geospatial AI) with strategic and technical details of Auburn University's CFWE partnership with the U.S. Department of Energy (DOE) and Oak Ridge National Laboratory (ORNL) under the Genesis Mission to develop a next-generation AI-driven modeling framework to improve predictive understanding of complex underground processes across diverse ecosystems.
+- **Patch Version Release**: Incremented version strings to `3.6.13` across `README.md` and `README.de.md`.
+
+---
+
 ## [3.6.12] - 2026-08-29
 
 ### Added
