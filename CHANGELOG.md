@@ -5,6 +5,13 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.6.58] - 2026-08-29
+
+### Changed
+- **Company Coverage Expansion — Rescale**: Upgraded `Rescale` in `coverage.md` from "❌ Not Covered" to "✅ Full Profile" (`§3.1, A.3`) under the "Cloud, AI & Compute Infrastructure" category, summarizing its Agentic HPC Pipeline Initiative (AHPI) role with LBNL, LLNL, and ORNL, its cloud-native digital engineering platform, multi-cloud HPC orchestration, and agentic simulation workflows (WarpX, LiDO, Adamantine).
+- **Coverage Metrics Recalculation**: Synchronized all summary metrics in `coverage.md` — Industry Partners Full (76 → 77) and Not Covered (11 → 10); total Full Profile (188 → 189, 84.3% → 84.8%) and Not Covered (35 → 34, 15.7% → 15.2%); updated the closing reference-only footnote accordingly.
+- **Research Paper Enrichment — §3.1 & Appendix A.3 (README.md & README.de.md)**: Expanded the Rescale profile in §3.1 of both English and German flagship papers with its selection from a record 8,000 applicants, multi-cloud HPC scheduling across heterogeneous CPU/GPU fleets, containerized solver environments, metadata-tracked simulation provenance, and AI-driven surrogate modeling enabling agentic mesh configuration, solver selection, parameter sweeps, and validation against national laboratory reference codes. Added Rescale to the Appendix A.3 "Cloud, AI & Compute Infrastructure" partner tables. Bumped version string to `3.6.58` across `README.md` and `README.de.md`.
+
 ## [3.6.57] - 2026-08-29
 
 ### Added
