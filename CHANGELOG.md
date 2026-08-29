@@ -5,6 +5,15 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.6.26] - 2026-08-29
+
+### Added
+- **Reference Index Entry #414**: Processed Boise State University Request for Proposals (RFP) link `https://www.boisestate.edu/research/request-for-proposals-rfp/` (*Request for Proposals (RFP)*) under Section 5 (*National Labs & University Coverage*) in `references.md`.
+- **Master Index Update**: Registered new entry #414 in `reference_coverage.md` and sequentially renumbered downstream index rows #414 to #578 (shifting them to #415 to #579). Synchronized all summary metrics: Total Reference Links (578 → 579), Web Portals & Press Releases (557 → 558), and 100% Processing Status (579 / 579 Processed, 100% Complete). Section 5 count increased (284 → 285, 49.1% → 49.2%). Added `www.boisestate.edu` with count of 2 in Section 3 top domain counts.
+- **Coverage Matrix Update**: Added `Boise State University` as a new reference-only participant to `coverage.md` at Entry #112, shifting all subsequent entries from #112 to #205 (shifting them to #113 to #206). Updated total entity counts (205 → 206), and "Not Covered" metrics (17 → 18, 8.3% → 8.7%) across all summary tables and notes.
+- **Research Paper Enrichment — §3.3 & Appendix A.5 (README.md & README.de.md)**: Enriched the University Research Partners section (§3.3) of both English and German flagship papers with Boise State University's DRED seed funding program details (Track 1 travel grants and Track 2 collaborative seed funding), highlighting focus areas: Genesis Mission, Quantum-AI, Cybersecurity, Advanced Manufacturing, Quantum Information Science, and Critical Minerals, and partnerships with INL/PNNL. Added Boise State University to the Academic Contributors directory (Appendix A.5) in both papers.
+- **Patch Version Release**: Incremented version strings to `3.6.26` across `README.md` and `README.de.md`.
+
 ## [3.6.25] - 2026-08-29
 
 ### Added
