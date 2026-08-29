@@ -5,6 +5,14 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.6.48] - 2026-08-29
+
+### Added
+- **Reference Index Entry #601**: Processed `https://www.anl.gov/article/streamline-uses-ai-to-tackle-one-of-nuclear-physics-toughest-problems` (*STREAMLINE uses AI to tackle one of nuclear physics’ toughest problems*) under Section 5 (*National Labs & University Coverage*) in `references.md`.
+- **Master Index Update**: Registered new entry #601 in `reference_coverage.md` at the bottom of Section 4 table. Synchronized all summary metrics: Total Reference Links (600 → 601), Web Portals & Press Releases (579 → 580), and 100% Processing Status (601 / 601 Processed, 100% Complete). Section 5 count increased (303 → 304, 50.5% → 50.6%). Incremented the reference count for top domain host `www.anl.gov` from 31 to 32 and updated the represented content list to include the STREAMLINE AI nuclear physics project.
+- **Coverage Matrix Update**: No new entities were introduced to `coverage.md` as Argonne National Laboratory (ANL) is already fully profiled. Added §2.3D to ANL's sections list and updated its notes to include the STREAMLINE AI project.
+- **Research Paper Enrichment — §2.3.D & §3.2 (README.md & README.de.md)**: Enriched both English and German flagship papers with detailed insights on Argonne National Laboratory's STREAMLINE project under Alessandro Lovato. Detailed the project's use of artificial intelligence, machine learning, and neural network techniques—specifically Neural Quantum States (NQS)—to approximate complex quantum many-body interactions and scale atomic nuclei simulations from a dozen particles up to 100 particles on Polaris and Aurora supercomputers. Bumped version string to `3.6.48` across `README.md` and `README.de.md`.
+
 ## [3.6.47] - 2026-08-29
 
 ### Added
