@@ -448,6 +448,7 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
 * **SLAC National Accelerator Laboratory:** 
   * [Leading Projects Alongside Stanford](https://news.stanford.edu/stories/2026/07/stanford-and-slac-to-lead-genesis-mission-projects)
   * [SLAC ISDCI Genesis Portal](https://isdci.slac.stanford.edu/genesis)
+  * [SLAC to lead Genesis Mission AI project to recover critical metals from lithium-ion battery waste](https://www6.slac.stanford.edu/news/2026-07-22-slac-lead-genesis-mission-ai-project-recover-critical-metals-lithium-ion-battery)
 * **Thomas Jefferson National Accelerator Facility (TJNAF / Jefferson Lab):**
   * [Jefferson Lab AI-Driven Nuclear Femtography & Accelerator Optimization](https://www.jlab.org/news/releases/ai-science-genesis-mission)
   * [Jefferson Lab AI Genesis Mission Portal](https://www.jlab.org/AI/genesis)
