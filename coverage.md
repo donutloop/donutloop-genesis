@@ -1,9 +1,9 @@
 # Genesis Mission — Full Ecosystem Coverage Tracker
 
 > **Scope & Coverage Definition:**
-> - **Flagship Consortium Scope:** Tracks **all 215 primary flagship participants**—lead contractors, federal agencies, national laboratories, awardee universities, strategic industrial partners, and philanthropic foundations—explicitly profiled or referenced in the Genesis Mission paper (`README.md`) and reference index.
+> - **Flagship Consortium Scope:** Tracks **all 217 primary flagship participants**—lead contractors, federal agencies, national laboratories, awardee universities, strategic industrial partners, and philanthropic foundations—explicitly profiled or referenced in the Genesis Mission paper (`README.md`) and reference index.
 > - **Broader National Awardee Network Context:** Under solicitation DE-FOA-0003612 and interagency challenges, the broader national initiative encompasses **342 total participating institutions** (157 companies, 142 universities, 16 national labs, 13 non-profits, 14 other entities across 278 projects).
-> - **Coverage Status:** **188 / 215 (87.4%)** of the tracked consortium entities have dedicated, detailed technical profiles.
+> - **Coverage Status:** **188 / 217 (86.6%)** of the tracked consortium entities have dedicated, detailed technical profiles.
 
 **Legend:**
 - ✅ **Full Profile** — Dedicated section with detailed technical write-up (Sections 2.2 / 3.1 / 3.2 / 3.3 / 3.4 / 3.5)
@@ -116,6 +116,7 @@
 | [Valar Atomics](https://valaratomics.com/) | ❌ Not Covered | — | Advanced reactor developer focused on industrial heat; achieved criticality under the Reactor Pilot Program (reference only) |
 | [Deployable Energy](https://www.deployable.energy) | ❌ Not Covered | — | Microreactor developer with portable designs; achieved criticality under the Reactor Pilot Program (reference only) |
 | [Radiant](https://www.radiantnuclear.com) | ❌ Not Covered | — | Microreactor developer, scheduled to test its design at INL's DOME test bed (reference only) |
+| [Clean Republic SODO, LLC](https://www.electric-bike-kit.com/) | ❌ Not Covered | — | Electric vehicle battery management and energy science workflows partner (reference only) |
 
 ---
 
@@ -269,6 +270,7 @@
 | [George Washington University](https://www.gwu.edu/) | ❌ Not Covered | — | Inaugural DOE Genesis Mission Award for real-time personalized low-temperature plasma (LTP) therapies and satellite propulsion (reference only) |
 | [Kent State University](https://www.kent.edu/) | ❌ Not Covered | — | Dr. David Costello leads an AI-driven probabilistic source mapping project utilizing 50 years of water-quality records to locate critical minerals (reference only) |
 | [University of Maryland](https://www.umd.edu/) | ❌ Not Covered | — | Leads a DOE Genesis Mission flood forecasting effort using agentic and generative AI with E3SM to produce localized seasonal-to-multiyear water hazard predictions (reference only) |
+| [La Sierra University](https://lasierra.edu/) | ❌ Not Covered | — | Collaborative EV battery management system (BMS) adversarial AI robustness framework partner (reference only) |
 
 ---
 
@@ -310,20 +312,20 @@
 
 | Entity Type | Total | ✅ Full | 📋 Brief | ❌ Not Covered |
 |:---|:---:|:---:|:---:|:---:|
-| Industry Partners | 83 | 76 | 0 | 7 |
+| Industry Partners | 84 | 76 | 0 | 8 |
 | Federal Agencies | 10 | 10 | 0 | 0 |
 | National Laboratories & Defense Sites | 22 | 22 | 0 | 0 |
-| Universities | 83 | 68 | 0 | 15 |
+| Universities | 84 | 68 | 0 | 16 |
 | Philanthropy, Policy & Regional Hubs | 17 | 12 | 0 | 5 |
-| **Total** | **215** | **188** | **0** | **27** |
+| **Total** | **217** | **188** | **0** | **29** |
 
 ### By Coverage Level
 
 | Coverage Level | Count | Percentage |
 |:---|:---:|:---:|
-| ✅ Full Profile | 188 | 87.4% |
+| ✅ Full Profile | 188 | 86.6% |
 | 📋 Brief Mention | 0 | 0.0% |
-| ❌ Not Covered | 27 | 12.6% |
-| **Total Entities** | **215** | **100%** |
+| ❌ Not Covered | 29 | 13.4% |
+| **Total Entities** | **217** | **100%** |
 
-> **Note:** The tracker now covers 215 Genesis Mission ecosystem participants, with 188 entities in dedicated technical write-ups (87.4% full-profile coverage). George Washington University, X-energy, Cosylab, Brown University, Heidelberg University, Howard University, European Coalition for AI in Fundamental Physics (EuCAIF), Colorado School of Mines, UC San Diego, University of Delaware, University of Hawaiʻi at Mānoa, University of Massachusetts Amherst, University of Washington, Boise State University, St. Joseph's University, New York, The Ohio State University, Kent State University, University of Maryland, ChipNexus, Southeastern Universities Research Association (SURA), ORISE, Energy Sciences Coalition (ESC), Krell Institute, Antares Nuclear, Valar Atomics, Deployable Energy, and Radiant remain registered as reference-only participants. The broader sub-grantee network of 342 participating institutions represents secondary academic and sub-contractor nodes across the 278 national project awards.
+> **Note:** The tracker now covers 217 Genesis Mission ecosystem participants, with 188 entities in dedicated technical write-ups (86.6% full-profile coverage). George Washington University, X-energy, Cosylab, Brown University, Heidelberg University, Howard University, European Coalition for AI in Fundamental Physics (EuCAIF), Colorado School of Mines, UC San Diego, University of Delaware, University of Hawaiʻi at Mānoa, University of Massachusetts Amherst, University of Washington, Boise State University, St. Joseph's University, New York, The Ohio State University, Kent State University, University of Maryland, ChipNexus, Southeastern Universities Research Association (SURA), ORISE, Energy Sciences Coalition (ESC), Krell Institute, Antares Nuclear, Valar Atomics, Deployable Energy, Radiant, La Sierra University, and Clean Republic SODO, LLC remain registered as reference-only participants. The broader sub-grantee network of 342 participating institutions represents secondary academic and sub-contractor nodes across the 278 national project awards.

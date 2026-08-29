@@ -9,13 +9,13 @@
 
 | Metric | Count / Value | Description |
 | :--- | :--- | :--- |
-| **Total Reference Links** | **594** | Unique external links indexed across all sections |
+| **Total Reference Links** | **595** | Unique external links indexed across all sections |
 | **Primary Document Sections** | **7** | High-level thematic categories in `references.md` |
-| **Unique Target Domains** | **286** | Distinct domain names referenced (government, lab, corporate, academic, news) |
+| **Unique Target Domains** | **287** | Distinct domain names referenced (government, lab, corporate, academic, news) |
 | **Official PDF Documents** | **21** | Formal RFA solicitations, webinars, slides, and executive reports |
-| **Web Portals & Press Releases** | **573** | Newsroom features, corporate blog posts, and interactive hubs |
+| **Web Portals & Press Releases** | **574** | Newsroom features, corporate blog posts, and interactive hubs |
 | **Validation Status** | **100% Validated** | All links canonicalized, formatted, and deduplicated |
-| **Processing Status** | **594 / 594 Processed** | 0 Unprocessed, 594 Processed (100% Complete) |
+| **Processing Status** | **595 / 595 Processed** | 0 Unprocessed, 595 Processed (100% Complete) |
 
 ---
 
@@ -25,9 +25,9 @@
 |:---|:---:|:---:|:---|
 | `1. Key Presentation Details` | **3** | 0.5% | Briefing agendas, U.S. ATLAS IB meeting details & CERN links |
 | `2. Collaborators` | **76** | 12.8% | Official homepage & announcement links for industrial/energy partners |
-| `3. Quantum Leadership & CHIPS Act Initiatives` | **11** | 1.9% | Department of Commerce NIST LOIs & DOE $2B quantum initiatives |
+| `3. Quantum Leadership & CHIPS Act Initiatives` | **11** | 1.8% | Department of Commerce NIST LOIs & DOE $2B quantum initiatives |
 | `4. Executive, Federal & Partner Announcements` | **170** | 28.6% | White House releases, Cabinet agency press, hyperscaler & lab announcements |
-| `5. National Labs & University Coverage` | **298** | 50.2% | National Laboratory news portals & 71 awardee university press releases |
+| `5. National Labs & University Coverage` | **299** | 50.3% | National Laboratory news portals & 71 awardee university press releases |
 | `6. Additional Event Materials & Reference Links` | **18** | 3.0% | Presentation slide decks, institutional intro files & video recordings |
 | `7. Technical Documents, RFA Guidance & Official Webinars` | **18** | 3.0% | DE-FOA-0003612 solicitations, OSTP challenge papers, SCAC presentations & peer-reviewed AI-for-science research |
 
@@ -108,6 +108,7 @@ Below is the distribution of references grouped by top domain hosts and institut
 | `engineering.lehigh.edu` | **1** | Lehigh Engineering News | Dr. Brian Leard selected for DOE Fusion Energy Sciences Postdoctoral Research Program to develop ML-based surrogate modeling at ORNL |
 | `www6.slac.stanford.edu` | **1** | SLAC National Accelerator Laboratory | SLAC-led project assembling a multi-agent AI system to recover critical metals from spent lithium-ion batteries |
 | `today.umd.edu` | **1** | University Newsroom | University of Maryland coverage on AI-enabled flood forecasting using agentic and generative models linked with E3SM for seasonal-to-multiyear water hazard prediction |
+| `lasierra.edu` | **1** | University Newsroom | La Sierra University computer science team selected for Phase I battery management and energy science adversarial AI robustness under Genesis Mission |
 
 ---
 
@@ -711,4 +712,6 @@ A tabular master index for the 594-reference collection:
 | 5. National Labs & University Coverage | SLAC National Accelerator Laboratory | SLAC to lead Genesis Mission AI project to recover critical metals from lithium-ion battery waste | `www6.slac.stanford.edu` | Web | [SLAC to lead Genesis Mission AI project to recover critical metals from lithium-ion battery waste](https://www6.slac.stanford.edu/news/2026-07-22-slac-lead-genesis-mission-ai-project-recover-critical-metals-lithium-ion-battery) | `Processed` |
 | 5. National Labs & University Coverage | National Laboratories | National Laboratory Research Collaboration Focuses on Accelerated Qualification of Critical Nuclear Components | `inl.gov` | Web | [National Laboratory Research Collaboration Focuses on Accelerated Qualification of Critical Nuclear Components](https://inl.gov/news-release/national-laboratory-research-collaboration-focuses-on-accelerated-qualification-of-critical-nuclear-components/) | `Processed` |
 | 5. National Labs & University Coverage | University of Maryland | Can AI See the Next Flood Coming? | `today.umd.edu` | Web | [Can AI See the Next Flood Coming?](https://today.umd.edu/can-ai-see-the-next-flood-coming) | `Processed` |
+| 5. National Labs & University Coverage | La Sierra University | La Sierra prof’s team selected for DOE Genesis Mission AI research award | `lasierra.edu` | Web | [La Sierra prof’s team selected for DOE Genesis Mission AI research award](https://lasierra.edu/article/la-sierra-profs-team-selected-for-doe-genesis-mission-ai-research-award/) | `Processed` |
+
 
