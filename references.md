@@ -508,6 +508,7 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
 * **Rice University:** [Researchers Earn 2 Awards](https://news.rice.edu/news/2026/rice-researchers-earn-2-doe-genesis-mission-awards)
 * **RTI International:** [Research Teams Selected for DOE Genesis Mission](https://www.rti.org/news/doe-genesis-mission-research-teams)
 * **Stanford University:**
+  * [Jennifer Cochran is the New Stanford Vice President for SLAC and for Strategic Initiatives](https://news.stanford.edu/stories/2026/06/jennifer-cochran-vice-president-slac-strategic-initiatives)
   * [Stanford University: Genesis Mission AI Research Initiatives](https://news.stanford.edu/stories/2026/08/stanford-genesis-mission-ai-initiatives)
   * [AI Laboratories Award](https://med.stanford.edu/news/all-news/2026/08/ai-laboratories-award.html)
   * [Stanford Report: Stanford-Led Collaboration Receives $20M Award to Help Build National Network of AI-Driven, Remotely Operated Cloud Laboratories](https://news.stanford.edu/stories/2026/08/ai-cloud-laboratories-research-award)
