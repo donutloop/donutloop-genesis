@@ -5,6 +5,14 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.6.41] - 2026-08-29
+
+### Added
+- **Reference Index Entry #594**: Processed University of Maryland news link `https://today.umd.edu/can-ai-see-the-next-flood-coming` (*Can AI See the Next Flood Coming?*) under Section 5 (*National Labs & University Coverage*) in `references.md`.
+- **Master Index Update**: Registered new entry #594 in `reference_coverage.md` at the bottom of the table to avoid large renumbering updates. Synchronized all summary metrics: Total Reference Links (593 → 594), Web Portals & Press Releases (572 → 573), Unique Target Domains (285 → 286), and 100% Processing Status (594 / 594 Processed, 100% Complete). Section 5 count increased (297 → 298, 50.1% → 50.2%) and Section 4 share adjusted (28.7% → 28.6%). Added `today.umd.edu` top domain count of 1 in Section 3.
+- **Coverage Matrix Update**: Added `University of Maryland` as a new reference-only partner in `coverage.md` under Research Universities. Updated total tracked entities (214 → 215), university totals (82 → 83), and not-covered metrics (26 → 27, 12.1% → 12.6%) across summary sections.
+- **Research Paper Enrichment — §3.3 & Appendix A.5 (README.md & README.de.md)**: Enriched both English and German flagship papers with linguistic parity, adding University of Maryland's Genesis Mission flood-forecasting effort that combines agentic and generative AI with DOE's E3SM for localized seasonal-to-multiyear water hazard prediction in collaboration with ORNL, University of Florida, University of Colorado Boulder, and Silurian AI. Bumped version string to `3.6.41` across `README.md` and `README.de.md`.
+
 ## [3.6.40] - 2026-08-29
 
 ### Added

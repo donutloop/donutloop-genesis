@@ -633,6 +633,7 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
   * [Research Projects Selected for Genesis Mission](https://news.vt.edu/articles/2026/07/research-genesis-mission.html)
   * [University Receives $20 Million Grant for Cloud-Based Semiconductor Lab](https://news.vt.edu/articles/2026/08/NSF-grant-semiconductor-lab.html)
 * **Yale University:** [Researchers Receive Awards to Pursue AI Advances](https://news.yale.edu/2026/07/22/yale-researchers-receive-genesis-mission-awards-pursue-ai-advances)
+* **University of Maryland:** [Can AI See the Next Flood Coming?](https://today.umd.edu/can-ai-see-the-next-flood-coming)
 
 ---
 
