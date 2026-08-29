@@ -5,6 +5,14 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.6.49] - 2026-08-29
+
+### Added
+- **Reference Index Entry #602**: Processed `https://www.chemspeed.com/news/chemspeed-and-ames-national-laboratory-driving-innovation-together-in-doe-s-genesis-mission/` (*Chemspeed and Ames National Laboratory: Driving Innovation Together in DOE's Genesis Mission*) under Section 2 (*Collaborators*) in `references.md`.
+- **Master Index Update**: Registered new entry #602 in `reference_coverage.md` at the bottom of Section 4 table. Synchronized all summary metrics: Total Reference Links (601 → 602), Web Portals & Press Releases (580 → 581), and 100% Processing Status (602 / 602 Processed, 100% Complete). Section 2 count increased (76 → 77, 12.6% → 12.8%).
+- **Coverage Matrix Update**: No new entities were introduced to `coverage.md` as both Chemspeed and Ames National Laboratory are already fully profiled.
+- **Research Paper Enrichment — §3.1 & §3.2 (README.md & README.de.md)**: Enriched both English and German flagship papers with detailed insights on Chemspeed's partnership with Ames National Laboratory under the Genesis Mission. Described the integration of Chemspeed's advanced laboratory automation (including liquid-handling robots, FLEX LIQUIDOSE, and mobile manipulators) with Ames Lab's materials science and machine learning expertise to enable autonomous, self-driving laboratory workflows. Detailed how this partnership accelerates discovery cycles, standardizes experimental workflows, and generates high-quality, AI-ready data in energy innovation, national security, and critical materials science. Bumped version string to `3.6.49` across `README.md` and `README.de.md`.
+
 ## [3.6.48] - 2026-08-29
 
 ### Added

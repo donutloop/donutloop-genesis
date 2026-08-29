@@ -1,7 +1,7 @@
 # Genesis Mission — Master Reference Coverage Report
 
 > **Document Overview:**
-> This report provides a comprehensive coverage analysis, breakdown, and master audit index for the **601 external reference links** compiled within `references.md` for the **Genesis Mission** documentation repository.
+> This report provides a comprehensive coverage analysis, breakdown, and master audit index for the **602 external reference links** compiled within `references.md` for the **Genesis Mission** documentation repository.
 
 ---
 
@@ -9,13 +9,13 @@
 
 | Metric | Count / Value | Description |
 | :--- | :--- | :--- |
-| **Total Reference Links** | **601** | Unique external links indexed across all sections |
+| **Total Reference Links** | **602** | Unique external links indexed across all sections |
 | **Primary Document Sections** | **7** | High-level thematic categories in `references.md` |
 | **Unique Target Domains** | **290** | Distinct domain names referenced (government, lab, corporate, academic, news) |
 | **Official PDF Documents** | **21** | Formal RFA solicitations, webinars, slides, and executive reports |
-| **Web Portals & Press Releases** | **580** | Newsroom features, corporate blog posts, and interactive hubs |
+| **Web Portals & Press Releases** | **581** | Newsroom features, corporate blog posts, and interactive hubs |
 | **Validation Status** | **100% Validated** | All links canonicalized, formatted, and deduplicated |
-| **Processing Status** | **601 / 601 Processed** | 0 Unprocessed, 601 Processed (100% Complete) |
+| **Processing Status** | **602 / 602 Processed** | 0 Unprocessed, 602 Processed (100% Complete) |
 
 ---
 
@@ -24,10 +24,10 @@
 | Section Header | Link Count | Share (%) | Primary Focus Area |
 |:---|:---:|:---:|:---|
 | `1. Key Presentation Details` | **3** | 0.5% | Briefing agendas, U.S. ATLAS IB meeting details & CERN links |
-| `2. Collaborators` | **76** | 12.6% | Official homepage & announcement links for industrial/energy partners |
+| `2. Collaborators` | **77** | 12.8% | Official homepage & announcement links for industrial/energy partners |
 | `3. Quantum Leadership & CHIPS Act Initiatives` | **11** | 1.8% | Department of Commerce NIST LOIs & DOE $2B quantum initiatives |
-| `4. Executive, Federal & Partner Announcements` | **171** | 28.5% | White House releases, Cabinet agency press, hyperscaler & lab announcements |
-| `5. National Labs & University Coverage` | **304** | 50.6% | National Laboratory news portals & 71 awardee university press releases |
+| `4. Executive, Federal & Partner Announcements` | **171** | 28.4% | White House releases, Cabinet agency press, hyperscaler & lab announcements |
+| `5. National Labs & University Coverage` | **304** | 50.5% | National Laboratory news portals & 71 awardee university press releases |
 | `6. Additional Event Materials & Reference Links` | **18** | 3.0% | Presentation slide decks, institutional intro files & video recordings |
 | `7. Technical Documents, RFA Guidance & Official Webinars` | **18** | 3.0% | DE-FOA-0003612 solicitations, OSTP challenge papers, SCAC presentations & peer-reviewed AI-for-science research |
 
@@ -722,4 +722,5 @@ A tabular master index for the 601-reference collection:
 | 4. Executive, Federal & Partner Announcements | Rescale | Rescale Selected from Record 8,000 Applicants for DOE Genesis Mission to Reduce Engineering Time Fivefold | `fenado.ai` | Web | [Rescale Selected from Record 8,000 Applicants for DOE Genesis Mission to Reduce Engineering Time Fivefold](https://fenado.ai/articles/rescale-selected-from-record-8000-applicants-for-doe-genesis-mission-to-reduce-engineering-time-fivefold) | `Processed` |
 | 5. National Labs & University Coverage | Oak Ridge Leadership Computing Facility (OLCF) | Lux – Oak Ridge Leadership Computing Facility | `www.olcf.ornl.gov` | Web | [Lux – Oak Ridge Leadership Computing Facility](https://www.olcf.ornl.gov/olcf-resources/compute-systems/lux/) | `Processed` |
 | 5. National Labs & University Coverage | Argonne National Laboratory (ANL) | STREAMLINE uses AI to tackle one of nuclear physics’ toughest problems | `www.anl.gov` | Web | [STREAMLINE uses AI to tackle one of nuclear physics’ toughest problems](https://www.anl.gov/article/streamline-uses-ai-to-tackle-one-of-nuclear-physics-toughest-problems) | `Processed` |
+| 2. Collaborators | Chemspeed | Chemspeed and Ames National Laboratory: Driving Innovation Together in DOE's Genesis Mission | `www.chemspeed.com` | Web | [Chemspeed and Ames National Laboratory: Driving Innovation Together in DOE's Genesis Mission](https://www.chemspeed.com/news/chemspeed-and-ames-national-laboratory-driving-innovation-together-in-doe-s-genesis-mission/) | `Processed` |
 
