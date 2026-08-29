@@ -1,7 +1,7 @@
 # Genesis Mission — Master Reference Coverage Report
 
 > **Document Overview:**
-> This report provides a comprehensive coverage analysis, breakdown, and master audit index for the **584 external reference links** compiled within `references.md` for the **Genesis Mission** documentation repository.
+> This report provides a comprehensive coverage analysis, breakdown, and master audit index for the **585 external reference links** compiled within `references.md` for the **Genesis Mission** documentation repository.
 
 ---
 
@@ -9,13 +9,13 @@
 
 | Metric | Count / Value | Description |
 | :--- | :--- | :--- |
-| **Total Reference Links** | **584** | Unique external links indexed across all sections |
+| **Total Reference Links** | **585** | Unique external links indexed across all sections |
 | **Primary Document Sections** | **7** | High-level thematic categories in `references.md` |
-| **Unique Target Domains** | **279** | Distinct domain names referenced (government, lab, corporate, academic, news) |
+| **Unique Target Domains** | **280** | Distinct domain names referenced (government, lab, corporate, academic, news) |
 | **Official PDF Documents** | **21** | Formal RFA solicitations, webinars, slides, and executive reports |
-| **Web Portals & Press Releases** | **563** | Newsroom features, corporate blog posts, and interactive hubs |
+| **Web Portals & Press Releases** | **564** | Newsroom features, corporate blog posts, and interactive hubs |
 | **Validation Status** | **100% Validated** | All links canonicalized, formatted, and deduplicated |
-| **Processing Status** | **584 / 584 Processed** | 0 Unprocessed, 584 Processed (100% Complete) |
+| **Processing Status** | **585 / 585 Processed** | 0 Unprocessed, 585 Processed (100% Complete) |
 
 ---
 
@@ -27,8 +27,8 @@
 | `2. Collaborators` | **76** | 13.0% | Official homepage & announcement links for industrial/energy partners |
 | `3. Quantum Leadership & CHIPS Act Initiatives` | **11** | 1.9% | Department of Commerce NIST LOIs & DOE $2B quantum initiatives |
 | `4. Executive, Federal & Partner Announcements` | **169** | 28.9% | White House releases, Cabinet agency press, hyperscaler & lab announcements |
-| `5. National Labs & University Coverage` | **290** | 49.7% | National Laboratory news portals & 70 awardee university press releases |
-| `6. Additional Event Materials & Reference Links` | **17** | 2.9% | Presentation slide decks, institutional intro files & video recordings |
+| `5. National Labs & University Coverage` | **290** | 49.6% | National Laboratory news portals & 70 awardee university press releases |
+| `6. Additional Event Materials & Reference Links` | **18** | 3.1% | Presentation slide decks, institutional intro files & video recordings |
 | `7. Technical Documents, RFA Guidance & Official Webinars` | **18** | 3.1% | DE-FOA-0003612 solicitations, OSTP challenge papers, SCAC presentations & peer-reviewed AI-for-science research |
 
 ---
@@ -100,12 +100,13 @@ Below is the distribution of references grouped by top domain hosts and institut
 | `www.ece.uw.edu` | **1** | University Newsroom | UW ECE spotlight on Assistant Professor Hossein Naghavi's low-power neuromorphic terahertz imaging AR headset project |
 | `gwtoday.gwu.edu` | **1** | University Newsroom | GW Engineering Professor Michael Keidar receives an inaugural DOE Genesis Mission Award for real-time personalized adaptive plasma medicine and satellite propulsion |
 | `www.engineering.columbia.edu` | **1** | University Newsroom | Columbia Engineering faculty members Kyle Bishop, Norman Christ, and Kara Lamb awarded DOE Genesis Mission funding for bio-programmable matter operating systems, nuclear force simulation, and cloud models |
+| `www.krellinst.org` | **1** | Fellowship Administrator | Hosts the DOE CSGF Annual Program Review and publishes presentation videos and abstracts for pioneering computational science research |
 
 ---
 
 ## 4. Master Reference Link Index
 
-A tabular master index for the 582-reference collection:
+A tabular master index for the 585-reference collection:
 
 | Category / Section | Entity / Subject | Title | Domain | Type | Link | Status |
 |---|---|---|---|:---:|---|:---:|
@@ -693,5 +694,6 @@ A tabular master index for the 582-reference collection:
 | 5. National Labs & University Coverage | University of Washington | UW ECE-led project selected for Department of Energy’s Genesis Mission | `www.ece.uw.edu` | Web | [UW ECE-led project selected for Department of Energy’s Genesis Mission](https://www.ece.uw.edu/spotlight/uw-ece-hossein-naghavi-genesis-mission/) | `Processed` |
 | 5. National Labs & University Coverage | George Washington University | GW Engineering Professor Receives Department of Energy Genesis Mission Award | `gwtoday.gwu.edu` | Web | [GW Engineering Professor Receives Department of Energy Genesis Mission Award](https://gwtoday.gwu.edu/gw-engineering-professor-receives-department-energy-genesis-mission-award) | `Processed` |
 | 5. National Labs & University Coverage | Columbia University | Columbia Engineering Faculty Members Awarded Genesis Mission Funding | `www.engineering.columbia.edu` | Web | [Columbia Engineering Faculty Members Awarded Genesis Mission Funding](https://www.engineering.columbia.edu/about/news/columbia-engineering-faculty-members-awarded-genesis-mission-funding) | `Processed` |
+| 6. Additional Event Materials & Reference Links | DOE CSGF Annual Program Review | The Genesis Mission: Nation-Scale AI and the Future of Scientific Work (Brian Spears, LLNL) | `www.krellinst.org` | Web | [The Genesis Mission: Nation-Scale AI and the Future of Scientific Work (Brian Spears, LLNL)](https://www.krellinst.org/csgf/conf/2026/video/spears2026) | `Processed` |
 
 

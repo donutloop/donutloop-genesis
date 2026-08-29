@@ -1,9 +1,9 @@
 # Genesis Mission — Full Ecosystem Coverage Tracker
 
 > **Scope & Coverage Definition:**
-> - **Flagship Consortium Scope:** Tracks **all 208 primary flagship participants**—lead contractors, federal agencies, national laboratories, awardee universities, strategic industrial partners, and philanthropic foundations—explicitly profiled or referenced in the Genesis Mission paper (`README.md`) and reference index.
+> - **Flagship Consortium Scope:** Tracks **all 209 primary flagship participants**—lead contractors, federal agencies, national laboratories, awardee universities, strategic industrial partners, and philanthropic foundations—explicitly profiled or referenced in the Genesis Mission paper (`README.md`) and reference index.
 > - **Broader National Awardee Network Context:** Under solicitation DE-FOA-0003612 and interagency challenges, the broader national initiative encompasses **342 total participating institutions** (157 companies, 142 universities, 16 national labs, 13 non-profits, 14 other entities across 278 projects).
-> - **Coverage Status:** **188 / 208 (90.4%)** of the tracked consortium entities have dedicated, detailed technical profiles.
+> - **Coverage Status:** **188 / 209 (90.0%)** of the tracked consortium entities have dedicated, detailed technical profiles.
 
 **Legend:**
 - ✅ **Full Profile** — Dedicated section with detailed technical write-up (Sections 2.2 / 3.1 / 3.2 / 3.3 / 3.4 / 3.5)
@@ -286,6 +286,7 @@
 | [Oak Ridge Institute for Science and Education (ORISE)](https://orise.orau.gov/) | ❌ Not Covered | — | Genesis Mission Annual Summit recording published through the ORISE Peer Review channel (reference only) |
 | [Southeastern Universities Research Association (SURA)](https://sura.org/) | ❌ Not Covered | — | Member consortium co-operating the Thomas Jefferson National Accelerator Facility via the SURATech joint venture (reference only) |
 | [Energy Sciences Coalition (ESC)](https://www.energysciencescoalition.org/) | ❌ Not Covered | — | Coalition of over 100 member universities, scientific societies, and national laboratories advocating for robust federal funding for the DOE Office of Science; see [FY27 appropriation recommendation](https://www.aau.edu/resource-library/fy27-energy-science-coalition-appropriation-recommendation) (reference only) |
+| [Krell Institute](https://www.krellinst.org/) | ❌ Not Covered | — | Fellowship administrator hosting the DOE CSGF Annual Program Review (reference only) |
 
 ---
 
@@ -307,16 +308,16 @@
 | Federal Agencies | 10 | 10 | 0 | 0 |
 | National Laboratories & Defense Sites | 22 | 22 | 0 | 0 |
 | Universities | 81 | 68 | 0 | 13 |
-| Philanthropy, Policy & Regional Hubs | 16 | 12 | 0 | 4 |
-| **Total** | **208** | **188** | **0** | **20** |
+| Philanthropy, Policy & Regional Hubs | 17 | 12 | 0 | 5 |
+| **Total** | **209** | **188** | **0** | **21** |
 
 ### By Coverage Level
 
 | Coverage Level | Count | Percentage |
 |:---|:---:|:---:|
-| ✅ Full Profile | 188 | 90.4% |
+| ✅ Full Profile | 188 | 90.0% |
 | 📋 Brief Mention | 0 | 0.0% |
-| ❌ Not Covered | 20 | 9.6% |
-| **Total Entities** | **208** | **100%** |
+| ❌ Not Covered | 21 | 10.0% |
+| **Total Entities** | **209** | **100%** |
 
-> **Note:** The tracker now covers 208 Genesis Mission ecosystem participants, with 188 entities in dedicated technical write-ups (90.4% full-profile coverage). George Washington University, X-energy, Cosylab, Brown University, Heidelberg University, Howard University, European Coalition for AI in Fundamental Physics (EuCAIF), Colorado School of Mines, UC San Diego, University of Delaware, University of Hawaiʻi at Mānoa, University of Massachusetts Amherst, University of Washington, Boise State University, St. Joseph's University, New York, The Ohio State University, ChipNexus, Southeastern Universities Research Association (SURA), ORISE, and Energy Sciences Coalition (ESC) remain registered as reference-only participants. The broader sub-grantee network of 342 participating institutions represents secondary academic and sub-contractor nodes across the 278 national project awards.
+> **Note:** The tracker now covers 209 Genesis Mission ecosystem participants, with 188 entities in dedicated technical write-ups (90.0% full-profile coverage). George Washington University, X-energy, Cosylab, Brown University, Heidelberg University, Howard University, European Coalition for AI in Fundamental Physics (EuCAIF), Colorado School of Mines, UC San Diego, University of Delaware, University of Hawaiʻi at Mānoa, University of Massachusetts Amherst, University of Washington, Boise State University, St. Joseph's University, New York, The Ohio State University, ChipNexus, Southeastern Universities Research Association (SURA), ORISE, Energy Sciences Coalition (ESC), and Krell Institute remain registered as reference-only participants. The broader sub-grantee network of 342 participating institutions represents secondary academic and sub-contractor nodes across the 278 national project awards.
