@@ -1,4 +1,4 @@
-**Version**: 3.6.13
+**Version**: 3.6.14
 
 # Die Genesis-Mission: Architektur, strategische Initiativen und das multi-institutionelle Ökosystem für KI- und quantengetriebene wissenschaftliche Entdeckungen
 
@@ -1049,7 +1049,7 @@ Diese Organisationen verfügen über CHIPS Act Absichtserklärungen und/oder DOE
 | [University of Kentucky](https://www.uky.edu/about/) | Mineralextraktion aus Kohlenebenprodukten (NETL), Batterierecycling & Bioenergiematerialien |
 | [University of Maine](https://umaine.edu/about/) | Bio-Verbundwerkstoff-Additive Fertigung im großen Maßstab & Offshore-Schwimmwind-KI-Modelle |
 | [University of Michigan](https://umich.edu/about/) | 2 Genesis-Preise: autonome Materialentdeckung, Mikroelektronik & Kerntechnik |
-| [University of Minnesota](https://twin-cities.umn.edu/about-us) | Basismodelle für chemische Katalyse, Spintronikmaterialien & Computerbiologie |
+| [University of Minnesota](https://twin-cities.umn.edu/about-us) | Basismodelle für chemische Katalyse, Spintronikmaterialien, Computerbiologie & autonome, KI-gesteuerte Schnellentdeckung der Plasmaabscheidung für Halbleiterbauelemente der nächsten Generation |
 | [University of Missouri](https://missouri.edu/about) | Beschleuniger für die Radioisotopenproduktion, Nuklearmedizin-F&E & Pflanzenphänomik-KI |
 | [University of Nebraska–Lincoln (UNL)](https://www.unl.edu/about/) | KI-gestützter „Autopilot“-Co-Designer für 6G-Radio-Access-Networks (RAN), BNL- & HPE-Partnerschaft |
 | [University of New Mexico](https://www.unm.edu/about/) | Quanteninformationswissenschaft, Optikfertigung & Co-F&E mit Sandia/Los Alamos |

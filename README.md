@@ -1,4 +1,4 @@
-**Version**: 3.6.13
+**Version**: 3.6.14
 
 # The Genesis Mission: Architecture, Strategic Initiatives, and the Multi-Institutional Ecosystem for AI- and Quantum-Driven Scientific Discoveries
 
@@ -1083,7 +1083,7 @@ Over 60 research universities receive competitive project awards under DE-FOA-00
 | [University of Kentucky](https://www.uky.edu/about/) | Coal byproduct mineral extraction (NETL), battery recycling & bio-energy materials |
 | [University of Maine](https://umaine.edu/about/) | Large-scale bio-composite additive manufacturing & offshore floating wind AI models |
 | [University of Michigan](https://umich.edu/about/) | 2 Genesis awards: autonomous materials discovery, microelectronics & nuclear engineering |
-| [University of Minnesota](https://twin-cities.umn.edu/about-us) | Chemical catalysis foundation models, spintronics materials & computational biology |
+| [University of Minnesota](https://twin-cities.umn.edu/about-us) | Chemical catalysis foundation models, spintronics materials, computational biology & autonomous, AI-driven rapid discovery of plasma deposition for next-generation semiconductor devices |
 | [University of Missouri](https://missouri.edu/about) | Radioisotope production accelerators, nuclear medicine R&D & plant phenomics AI |
 | [University of Nebraska–Lincoln (UNL)](https://www.unl.edu/about/) | AI-driven "autopilot" co-designer for 6G Radio Access Networks (RAN), BNL & HPE partnership |
 | [University of New Mexico](https://www.unm.edu/about/) | Quantum information science, optics fabrication & Sandia/Los Alamos national lab co-R&D |
