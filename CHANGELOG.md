@@ -5,6 +5,16 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.6.14] - 2026-08-29
+
+### Added
+- **Reference Index Entry #495**: Processed the University of Minnesota (College of Science and Engineering) news release link `https://cse.umn.edu/me/news/uwe-kortshagen-and-suo-yang-receive-genesis-mission-award` (*Uwe Kortshagen and Suo Yang Receive Genesis Mission Award*) under Section 5 (*National Labs & University Coverage*) in `references.md`.
+- **Master Index Update**: Registered new entry #495 in `reference_coverage.md`. Sequentially shifted and renumbered all subsequent index rows up to #567. Synchronized all summary metrics: Total Reference Links (566 → 567), Unique Target Domains (270 → 271), Web Portals & Press Releases (546 → 547), and 100% Processing Status (567 / 567 Processed, 100% Complete). Section 5 count increased (275 → 276, 48.6% → 48.7%), and registered `cse.umn.edu` as a new target domain.
+- **Research Paper Enrichment — Appendix / Universities (README.md & README.de.md)**: Enriched both English and German flagship papers with technical and strategic details of the University of Minnesota's Genesis Mission award project ("AI-driven rapid discovery of plasma deposition for novel materials for next-generation semiconductor devices") led by Professors Uwe Kortshagen and Suo Yang.
+- **Patch Version Release**: Incremented version strings to `3.6.14` across `README.md` and `README.de.md`.
+
+---
+
 ## [3.6.13] - 2026-08-29
 
 ### Added
