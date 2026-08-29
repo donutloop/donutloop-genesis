@@ -5,6 +5,17 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.6.15] - 2026-08-29
+
+### Added
+- **Reference Index Entry #427**: Processed Heidelberg University's EuCAIFCon 2026 conference presentation reference link `https://indico.physi.uni-heidelberg.de/event/1277/contributions/4123/attachments/2096/3260/EuCAIFCon_Treasure.pdf` (*European AI for Fundamental Physics Conference (EuCAIFCon 2026) — Hunting for TREASURE in HEP Collider Data*) under Section 5 (*National Labs & University Coverage*) in `references.md`.
+- **Master Index Update**: Registered new entry #427 in `reference_coverage.md`. Sequentially shifted and renumbered all subsequent index rows up to #568. Synchronized all summary metrics: Total Reference Links (567 → 568), Unique Target Domains (271 → 272), Official PDF Documents (20 → 21), and 100% Processing Status (568 / 568 Processed, 100% Complete). Section 5 count increased (276 → 277, 48.7% → 48.8%), and registered `indico.physi.uni-heidelberg.de` as a new target domain.
+- **Ecosystem Coverage Sync**: Registered `Heidelberg University` and the `European Coalition for AI in Fundamental Physics (EuCAIF)` as reference-only entities in `coverage.md`, shifting subsequent row IDs and updating metrics (Total Entities 200 → 202, Full Profile coverage 94.0% → 93.1%).
+- **Research Paper Enrichment — §2.3.A (README.md & README.de.md)**: Enriched §2.3.A (High Energy Physics) of both English and German flagship papers with technical and strategic details of the multi-lab TREASURE project (Tokenized Representations for Energy-frontier AI Searches via Understanding and REasoning), highlighting its focus on creating standardized tokenized datasets for exabyte-scale collider data and cross-experiment self-supervised foundation models to probe Higgs couplings and electroweak precision observables.
+- **Patch Version Release**: Incremented version strings to `3.6.15` across `README.md` and `README.de.md`.
+
+---
+
 ## [3.6.14] - 2026-08-29
 
 ### Added
