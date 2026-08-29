@@ -578,6 +578,7 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
 * **University of Minnesota:**
   * [Receives DOE Genesis Mission Funding to Advance AI Breakthroughs](https://twin-cities.umn.edu/news-events/university-minnesota-receives-doe-genesis-mission-funding-advance-ai-breakthroughs)
   * [Uwe Kortshagen and Suo Yang Receive Genesis Mission Award](https://cse.umn.edu/me/news/uwe-kortshagen-and-suo-yang-receive-genesis-mission-award)
+  * [Three UMN Projects Win Inaugural DOE Genesis Mission Awards to Advance AI Innovation](https://research.umn.edu/news/three-umn-projects-win-inaugural-doe-genesis-mission-awards-advance-ai-innovation)
 * **University of Missouri (Mizzou):**
   * [Mizzou Engineering-Led Team Selected for Inaugural Mission](https://engineering.missouri.edu/2026/mizzou-led-team-selected-for-u-s-department-of-energys-inaugural-genesis-mission/)
   * [Show Me Mizzou Feature Coverage](https://showme.missouri.edu/2026/mizzou-led-team-selected-for-u-s-department-of-energys-inaugural-genesis-mission/)

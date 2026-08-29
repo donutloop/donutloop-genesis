@@ -5,6 +5,13 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.6.36] - 2026-08-29
+
+### Added
+- **Reference Index Entry #589**: Processed University of Minnesota research news link `https://research.umn.edu/news/three-umn-projects-win-inaugural-doe-genesis-mission-awards-advance-ai-innovation` (*Three UMN Projects Win Inaugural DOE Genesis Mission Awards to Advance AI Innovation*) under Section 5 (*National Labs & University Coverage*) in `references.md`.
+- **Master Index Update**: Registered new entry #589 in `reference_coverage.md` at the bottom of the table to avoid large renumbering updates. Synchronized all summary metrics: Total Reference Links (588 → 589), Web Portals & Press Releases (567 → 568), Unique Target Domains (282 → 283), and 100% Processing Status (589 / 589 Processed, 100% Complete). Section 5 count increased (292 → 293, 49.7% → 49.7%). Added `research.umn.edu` top domain count of 1 in Section 3.
+- **Research Paper Enrichment — §3.3 & Appendix A.5 (README.md & README.de.md)**: Enriched both English and German flagship papers (§3.3 and Appendix A.5 research partner table) with technical and strategic insights on the three UMN Genesis Mission awards: AI-driven discovery engine for semiconductor manufacturing (Uwe Kortshagen), generative AI digital twins for geothermal energy modeling (Qizhi He), and AI-powered fluid-flow modeling in fractured rock for critical mineral extraction (Peter Kang). Bumped version string to `3.6.36` across `README.md` and `README.de.md`.
+
 ## [3.6.35] - 2026-08-29
 
 ### Added
