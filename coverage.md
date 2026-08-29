@@ -1,9 +1,9 @@
 # Genesis Mission — Full Ecosystem Coverage Tracker
 
 > **Scope & Coverage Definition:**
-> - **Flagship Consortium Scope:** Tracks **all 206 primary flagship participants**—lead contractors, federal agencies, national laboratories, awardee universities, strategic industrial partners, and philanthropic foundations—explicitly profiled or referenced in the Genesis Mission paper (`README.md`) and reference index.
+> - **Flagship Consortium Scope:** Tracks **all 207 primary flagship participants**—lead contractors, federal agencies, national laboratories, awardee universities, strategic industrial partners, and philanthropic foundations—explicitly profiled or referenced in the Genesis Mission paper (`README.md`) and reference index.
 > - **Broader National Awardee Network Context:** Under solicitation DE-FOA-0003612 and interagency challenges, the broader national initiative encompasses **342 total participating institutions** (157 companies, 142 universities, 16 national labs, 13 non-profits, 14 other entities across 278 projects).
-> - **Coverage Status:** **188 / 206 (91.3%)** of the tracked consortium entities have dedicated, detailed technical profiles.
+> - **Coverage Status:** **188 / 207 (90.8%)** of the tracked consortium entities have dedicated, detailed technical profiles.
 
 **Legend:**
 - ✅ **Full Profile** — Dedicated section with detailed technical write-up (Sections 2.2 / 3.1 / 3.2 / 3.3 / 3.4 / 3.5)
@@ -88,6 +88,7 @@
 | [Siemens](https://www.siemens.com/) | ✅ Full Profile | §3.1, A.3 | Industrial AI software, Xcelerator digital twins, DOE strategic MOU & smart grid automation |
 | [Synopsys](https://www.synopsys.com/) | ✅ Full Profile | §3.1, A.3 | Synopsys.ai EDA platform (DSO.ai, VSO.ai, TSO.ai, AgentEngineer™), Custom Compiler, TCAD, PrimeTime & HAV emulation for AI chips and quantum control ASICs |
 | [xLight](https://xlight.inc/) | ✅ Full Profile | §3.1, A.3 | About portal (xlight.com/about), $150M CHIPS Act, FEL EUV lithography & Fermilab CRADA |
+| [ChipNexus](https://www.chipnexus.com) | ❌ Not Covered | — | Neuromorphic terahertz imaging & analog compute-in-memory hardware collaborator (reference only) |
 
 ---
 
@@ -301,20 +302,20 @@
 
 | Entity Type | Total | ✅ Full | 📋 Brief | ❌ Not Covered |
 |:---|:---:|:---:|:---:|:---:|
-| Industry Partners | 78 | 76 | 0 | 2 |
+| Industry Partners | 79 | 76 | 0 | 3 |
 | Federal Agencies | 10 | 10 | 0 | 0 |
 | National Laboratories & Defense Sites | 22 | 22 | 0 | 0 |
 | Universities | 80 | 68 | 0 | 12 |
 | Philanthropy, Policy & Regional Hubs | 16 | 12 | 0 | 4 |
-| **Total** | **206** | **188** | **0** | **18** |
+| **Total** | **207** | **188** | **0** | **19** |
 
 ### By Coverage Level
 
 | Coverage Level | Count | Percentage |
 |:---|:---:|:---:|
-| ✅ Full Profile | 188 | 91.3% |
+| ✅ Full Profile | 188 | 90.8% |
 | 📋 Brief Mention | 0 | 0.0% |
-| ❌ Not Covered | 18 | 8.7% |
-| **Total Entities** | **206** | **100%** |
+| ❌ Not Covered | 19 | 9.2% |
+| **Total Entities** | **207** | **100%** |
 
-> **Note:** The tracker now covers 206 Genesis Mission ecosystem participants, with 188 entities in dedicated technical write-ups (91.3% full-profile coverage). X-energy, Cosylab, Brown University, Heidelberg University, Howard University, European Coalition for AI in Fundamental Physics (EuCAIF), Colorado School of Mines, UC San Diego, University of Delaware, University of Hawaiʻi at Mānoa, University of Massachusetts Amherst, University of Washington, Boise State University, St. Joseph's University, New York, The Ohio State University, Southeastern Universities Research Association (SURA), ORISE, and Energy Sciences Coalition (ESC) remain registered as reference-only participants. The broader sub-grantee network of 342 participating institutions represents secondary academic and sub-contractor nodes across the 278 national project awards.
+> **Note:** The tracker now covers 207 Genesis Mission ecosystem participants, with 188 entities in dedicated technical write-ups (90.8% full-profile coverage). X-energy, Cosylab, Brown University, Heidelberg University, Howard University, European Coalition for AI in Fundamental Physics (EuCAIF), Colorado School of Mines, UC San Diego, University of Delaware, University of Hawaiʻi at Mānoa, University of Massachusetts Amherst, University of Washington, Boise State University, St. Joseph's University, New York, The Ohio State University, ChipNexus, Southeastern Universities Research Association (SURA), ORISE, and Energy Sciences Coalition (ESC) remain registered as reference-only participants. The broader sub-grantee network of 342 participating institutions represents secondary academic and sub-contractor nodes across the 278 national project awards.
