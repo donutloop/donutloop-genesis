@@ -281,7 +281,7 @@
 | 200 | [Fusion Industry Association (FIA)](https://www.fusionindustryassociation.org/) | ✅ Full Profile | §3.4, §4.3, A.5 | Fusion energy industry trade association; FY28 DOE fusion investment advocacy ($1.114B total, $2B Fusion Milestone, $3B commercial pilot tier, $50M INFUSE, $180M FIRE Collaborative) in support of Genesis Mission fusion roadmap |
 | 201 | [Oak Ridge Institute for Science and Education (ORISE)](https://orise.orau.gov/) | ❌ Not Covered | — | Genesis Mission Annual Summit recording published through the ORISE Peer Review channel (reference only) |
 | 202 | [Southeastern Universities Research Association (SURA)](https://sura.org/) | ❌ Not Covered | — | Member consortium co-operating the Thomas Jefferson National Accelerator Facility via the SURATech joint venture (reference only) |
-| 203 | [Energy Sciences Coalition (ESC)](https://www.aau.edu/key-issues/fy27-energy-science-coalition-appropriation-recommendation) | ❌ Not Covered | — | Coalition of over 100 member universities, scientific societies, and national laboratories advocating for robust federal funding for the DOE Office of Science; FY27 appropriation recommendation (reference only) |
+| 203 | [Energy Sciences Coalition (ESC)](https://www.aau.edu/resource-library/fy27-energy-science-coalition-appropriation-recommendation) | ❌ Not Covered | — | Coalition of over 100 member universities, scientific societies, and national laboratories advocating for robust federal funding for the DOE Office of Science; FY27 appropriation recommendation (reference only) |
 
 ---
 
