@@ -1,4 +1,4 @@
-**Version**: 3.7.0
+**Version**: 3.6.83
 
 # The Genesis Mission: Architecture, Strategic Initiatives, and the Multi-Institutional Ecosystem for AI- and Quantum-Driven Scientific Discoveries
 

@@ -1,20 +1,649 @@
-## [3.7.0] - 2026-08-29
-
-### Added
-- **Reference Index Entries #573-#636**: Processed 64 previously unindexed issue URLs across Section 4 (*Executive, Federal & Partner Announcements*), Section 5 (*National Labs & University Coverage*), Section 6 (*Additional Event Materials & Reference Links*), and Section 7 (*Technical Documents, RFA Guidance & Official Webinars*), including new follow-on references for AAU, DOE leadership/commercialization pages, HiddenLayer, Rescale, Aclara Technologies, Argonne, Brookhaven, Fermilab, ORNL, SLAC, SRNL, PNNL, Princeton, RPI, UC San Diego, Howard, UNC Chapel Hill, Oklahoma, Maryland, GWU, William & Mary, and other university/laboratory nodes, while clearly reclassifying peripheral commercial-branding, workforce-context, and careers references into supplemental materials.
-- **Master Index Update**: Synchronized `reference_coverage.md` totals and audit tables for the expanded corpus — Total Reference Links (**572 → 636**), Unique Target Domains (**274 → 308**), Official PDF Documents (**21 → 22**), Web Portals & Press Releases (**551 → 614**), and Processing Status (**636 / 636 Processed, 100% Complete**). Updated section distribution counts for Section 4 (**168 → 178**), Section 5 (**279 → 322**), Section 6 (**17 → 23**), and Section 7 (**18 → 23**), and refreshed affected top-domain rows (`www.energy.gov`, `www.anl.gov`, `science.osti.gov`, `news.fnal.gov`, `www.bnl.gov`, `www.newswise.com`, `pmc.ncbi.nlm.nih.gov`, `www.boisestate.edu`) while registering `www.prnewswire.com`, `today.ucsd.edu`, `www.olcf.ornl.gov`, and `youtube.com` classifications.
-- **Ecosystem Coverage Sync**: Registered 13 additional reference-only entities in `coverage.md`: HiddenLayer, Rescale, Aclara Technologies, Howard University, University of North Carolina at Chapel Hill, University of Oklahoma, Washington University in St. Louis, University of Maryland, La Sierra University, Kent State University, William & Mary, North Carolina State University, and George Washington University. Coverage totals now read **216** tracked entities with **188 / 216 (87.0%)** full-profile coverage.
-- **Research Paper Enrichment — §3.2 / §3.3 / §3.4 (`README.md` & `README.de.md`)**: Added synchronized English/German synthesis paragraphs covering newly indexed national-laboratory follow-on reporting, expanded university awardee footprint, and governance/commercialization references touching AAU FY27 appropriations, DOE personnel/commercialization pages, USDA agriculture briefings, scientific machine learning, and partner ecosystem growth, while explicitly labeling the Cellebrite item as a non-DOE commercial Genesis-branded reference.
-- **Version Release**: Incremented `README.md` and `README.de.md` version strings to `3.7.0`.
-
----
-
 # Changelog
 
 All notable changes to the Genesis Mission documentation repository will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
+
+## [3.6.20] - 2026-08-29
+
+### Added
+- **Reference Index Entry #538**: Processed reference link `https://news.stanford.edu/stories/2026/06/jennifer-cochran-vice-president-slac-strategic-initiatives` (*Jennifer Cochran Named Vice President for SLAC Strategic Initiatives*) under Section 5 (*National Labs & University Coverage*) in `references.md`.
+- **Master Index Update**: Registered new entry #538 in `reference_coverage.md`. Sequentially shifted and renumbered all subsequent index rows up to #573. Synchronized all summary metrics: Total Reference Links (572 → 573), Unique Target Domains (274 → 274), Web Portals & Press Releases (551 → 552), and 100% Processing Status (573 / 573 Processed, 100% Complete). Section 5 count increased (279 → 280, 48.8% → 48.9%), and updated `news.stanford.edu` to 4 references in Section 3 top domain counts.
+- **Research Paper Enrichment — §3.2 (README.md & README.de.md)**: Enriched §3.2 of both English and German flagship papers with institutional research context from **Jennifer Cochran Named Vice President for SLAC Strategic Initiatives**.
+- **Patch Version Release**: Incremented version strings to `3.6.20` across `README.md` and `README.de.md`.
+
+---
+
+## [3.6.21] - 2026-08-29
+
+### Added
+- **Reference Index Entry #539**: Processed reference link `https://news.rpi.edu/2026/02/09/rpi-president-schmidt-appointed-doe-advisory-committee` (*RPI President Schmidt Appointed to DOE Advisory Committee*) under Section 5 (*National Labs & University Coverage*) in `references.md`.
+- **Master Index Update**: Registered new entry #539 in `reference_coverage.md`. Sequentially shifted and renumbered all subsequent index rows up to #574. Synchronized all summary metrics: Total Reference Links (573 → 574), Unique Target Domains (274 → 274), Web Portals & Press Releases (552 → 553), and 100% Processing Status (574 / 574 Processed, 100% Complete). Section 5 count increased (280 → 281, 48.9% → 49.0%), and updated `news.rpi.edu` to 2 references in Section 3 top domain counts.
+- **Research Paper Enrichment — §3.3 (README.md & README.de.md)**: Enriched §3.3 of both English and German flagship papers with institutional research context from **RPI President Schmidt Appointed to DOE Advisory Committee**.
+- **Patch Version Release**: Incremented version strings to `3.6.21` across `README.md` and `README.de.md`.
+
+---
+
+## [3.6.22] - 2026-08-29
+
+### Added
+- **Reference Index Entry #259**: Processed reference link `https://www.aau.edu/resource-library/fy27-energy-science-coalition-appropriation-recommendation` (*FY27 Energy Science Coalition Appropriation Recommendation*) under Section 4 (*Executive, Federal & Partner Announcements*) in `references.md`.
+- **Master Index Update**: Registered new entry #259 in `reference_coverage.md`. Sequentially shifted and renumbered all subsequent index rows up to #575. Synchronized all summary metrics: Total Reference Links (574 → 575), Unique Target Domains (274 → 274), Web Portals & Press Releases (553 → 554), and 100% Processing Status (575 / 575 Processed, 100% Complete). Section 4 count increased (168 → 169, 29.3% → 29.4%), and updated `www.aau.edu` to 4 references in Section 3 top domain counts.
+- **Research Paper Enrichment — §3.4 (README.md & README.de.md)**: Enriched §3.4 of both English and German flagship papers with federal and partner context from **FY27 Energy Science Coalition Appropriation Recommendation**.
+- **Patch Version Release**: Incremented version strings to `3.6.22` across `README.md` and `README.de.md`.
+
+---
+
+## [3.6.23] - 2026-08-29
+
+### Added
+- **Reference Index Entry #541**: Processed reference link `https://today.ucsd.edu/story/national-data-platform-receives-nsf-category-i-award-to-expand-ai-ready-data-infrastructure-for-u.s` (*National Data Platform Receives NSF Category I Award to Expand AI-Ready Data Infrastructure for U.S.*) under Section 5 (*National Labs & University Coverage*) in `references.md`.
+- **Master Index Update**: Registered new entry #541 in `reference_coverage.md`. Sequentially shifted and renumbered all subsequent index rows up to #576. Synchronized all summary metrics: Total Reference Links (575 → 576), Unique Target Domains (274 → 275), Web Portals & Press Releases (554 → 555), and 100% Processing Status (576 / 576 Processed, 100% Complete). Section 5 count increased (281 → 282, 48.9% → 49.0%), and registered `today.ucsd.edu` as a new target domain in Section 3 top domain counts.
+- **Research Paper Enrichment — §3.3 (README.md & README.de.md)**: Enriched §3.3 of both English and German flagship papers with institutional research context from **National Data Platform Receives NSF Category I Award to Expand AI-Ready Data Infrastructure for U.S.**.
+- **Patch Version Release**: Incremented version strings to `3.6.23` across `README.md` and `README.de.md`.
+
+---
+
+## [3.6.24] - 2026-08-29
+
+### Added
+- **Reference Index Entry #542**: Processed reference link `https://thedig.howard.edu/all-stories/howard-university-experts-discuss-multidisciplinary-ai-research-tech-genesis-mission-and-more-during` (*Howard University Experts Discuss Multidisciplinary AI Research, Tech, Genesis Mission and More*) under Section 5 (*National Labs & University Coverage*) in `references.md`.
+- **Master Index Update**: Registered new entry #542 in `reference_coverage.md`. Sequentially shifted and renumbered all subsequent index rows up to #577. Synchronized all summary metrics: Total Reference Links (576 → 577), Unique Target Domains (275 → 276), Web Portals & Press Releases (555 → 556), and 100% Processing Status (577 / 577 Processed, 100% Complete). Section 5 count increased (282 → 283, 49.0% → 49.0%), and registered `thedig.howard.edu` as a new target domain in Section 3 top domain counts.
+- **Research Paper Enrichment — §3.3 (README.md & README.de.md)**: Enriched §3.3 of both English and German flagship papers with institutional research context from **Howard University Experts Discuss Multidisciplinary AI Research, Tech, Genesis Mission and More**.
+- **Patch Version Release**: Incremented version strings to `3.6.24` across `README.md` and `README.de.md`.
+
+---
+
+## [3.6.25] - 2026-08-29
+
+### Added
+- **Reference Index Entry #578**: Processed reference link `https://www.anl.gov/argonne-scientific-publications/pub/204829` (*Argonne Leads Team to Build Foundation Models for Scientific Machine Learning*) under Section 7 (*Technical Documents, RFA Guidance & Official Webinars*) in `references.md`.
+- **Master Index Update**: Registered new entry #578 in `reference_coverage.md`. Sequentially shifted and renumbered all subsequent index rows up to #578. Synchronized all summary metrics: Total Reference Links (577 → 578), Unique Target Domains (276 → 276), Web Portals & Press Releases (556 → 557), and 100% Processing Status (578 / 578 Processed, 100% Complete). Section 7 count increased (18 → 19, 3.1% → 3.3%), and updated `www.anl.gov` to 30 references in Section 3 top domain counts.
+- **Research Paper Enrichment — §3.5 (README.md & README.de.md)**: Enriched §3.5 of both English and German flagship papers with technical reference context from **Argonne Leads Team to Build Foundation Models for Scientific Machine Learning**.
+- **Patch Version Release**: Incremented version strings to `3.6.25` across `README.md` and `README.de.md`.
+
+---
+
+## [3.6.26] - 2026-08-29
+
+### Added
+- **Reference Index Entry #543**: Processed reference link `https://www.newswise.com/articles/unlv-college-of-engineering-project-selected-for-prestigious-genesis-mission` (*UNLV College of Engineering Project Selected for Prestigious Genesis Mission*) under Section 5 (*National Labs & University Coverage*) in `references.md`.
+- **Master Index Update**: Registered new entry #543 in `reference_coverage.md`. Sequentially shifted and renumbered all subsequent index rows up to #579. Synchronized all summary metrics: Total Reference Links (578 → 579), Unique Target Domains (276 → 276), Web Portals & Press Releases (557 → 558), and 100% Processing Status (579 / 579 Processed, 100% Complete). Section 5 count increased (283 → 284, 49.0% → 49.1%), and updated `www.newswise.com` to 7 references in Section 3 top domain counts.
+- **Research Paper Enrichment — §3.3 (README.md & README.de.md)**: Enriched §3.3 of both English and German flagship papers with institutional research context from **UNLV College of Engineering Project Selected for Prestigious Genesis Mission**.
+- **Patch Version Release**: Incremented version strings to `3.6.26` across `README.md` and `README.de.md`.
+
+---
+
+## [3.6.27] - 2026-08-29
+
+### Added
+- **Reference Index Entry #544**: Processed reference link `https://www.newswise.com/articles/srnl-s-advanced-manufacturing-collaborative-celebrates-first-year-as-nexus-of-innovation` (*SRNL's Advanced Manufacturing Collaborative Celebrates First Year as Nexus of Innovation*) under Section 5 (*National Labs & University Coverage*) in `references.md`.
+- **Master Index Update**: Registered new entry #544 in `reference_coverage.md`. Sequentially shifted and renumbered all subsequent index rows up to #580. Synchronized all summary metrics: Total Reference Links (579 → 580), Unique Target Domains (276 → 276), Web Portals & Press Releases (558 → 559), and 100% Processing Status (580 / 580 Processed, 100% Complete). Section 5 count increased (284 → 285, 49.1% → 49.1%), and updated `www.newswise.com` to 8 references in Section 3 top domain counts.
+- **Research Paper Enrichment — §3.2 (README.md & README.de.md)**: Enriched §3.2 of both English and German flagship papers with institutional research context from **SRNL's Advanced Manufacturing Collaborative Celebrates First Year as Nexus of Innovation**.
+- **Patch Version Release**: Incremented version strings to `3.6.27` across `README.md` and `README.de.md`.
+
+---
+
+## [3.6.28] - 2026-08-29
+
+### Added
+- **Reference Index Entry #260**: Processed reference link `https://www.prnewswire.com/news-releases/hiddenlayer-selected-to-support-does-60-million-prometheus-initiative-under-the-genesis-mission-302853514.html` (*HiddenLayer Selected to Support DOE’s $60 Million PROMETHEUS Initiative Under the GENESIS Mission*) under Section 4 (*Executive, Federal & Partner Announcements*) in `references.md`.
+- **Master Index Update**: Registered new entry #260 in `reference_coverage.md`. Sequentially shifted and renumbered all subsequent index rows up to #581. Synchronized all summary metrics: Total Reference Links (580 → 581), Unique Target Domains (276 → 276), Web Portals & Press Releases (559 → 560), and 100% Processing Status (581 / 581 Processed, 100% Complete). Section 4 count increased (169 → 170, 29.1% → 29.3%), and updated `www.prnewswire.com` to 5 references in Section 3 top domain counts.
+- **Research Paper Enrichment — §3.4 (README.md & README.de.md)**: Enriched §3.4 of both English and German flagship papers with federal and partner context from **HiddenLayer Selected to Support DOE’s $60 Million PROMETHEUS Initiative Under the GENESIS Mission**.
+- **Patch Version Release**: Incremented version strings to `3.6.28` across `README.md` and `README.de.md`.
+
+---
+
+## [3.6.29] - 2026-08-29
+
+### Added
+- **Reference Index Entry #546**: Processed reference link `https://today.ucsd.edu/story/genesis-mission-to-fund-new-scientific-ai-tools` (*Genesis Mission to Fund New Scientific AI Tools*) under Section 5 (*National Labs & University Coverage*) in `references.md`.
+- **Master Index Update**: Registered new entry #546 in `reference_coverage.md`. Sequentially shifted and renumbered all subsequent index rows up to #582. Synchronized all summary metrics: Total Reference Links (581 → 582), Unique Target Domains (276 → 276), Web Portals & Press Releases (560 → 561), and 100% Processing Status (582 / 582 Processed, 100% Complete). Section 5 count increased (285 → 286, 49.1% → 49.1%), and updated `today.ucsd.edu` to 2 references in Section 3 top domain counts.
+- **Research Paper Enrichment — §3.3 (README.md & README.de.md)**: Enriched §3.3 of both English and German flagship papers with institutional research context from **Genesis Mission to Fund New Scientific AI Tools**.
+- **Patch Version Release**: Incremented version strings to `3.6.29` across `README.md` and `README.de.md`.
+
+---
+
+## [3.6.30] - 2026-08-29
+
+### Added
+- **Reference Index Entry #547**: Processed reference link `https://news.fnal.gov/2026/08/doe-selects-fermilab-led-ai-initiative-to-advance-particle-accelerator-performance/` (*DOE Selects Fermilab-Led AI Initiative to Advance Particle Accelerator Performance*) under Section 5 (*National Labs & University Coverage*) in `references.md`.
+- **Master Index Update**: Registered new entry #547 in `reference_coverage.md`. Sequentially shifted and renumbered all subsequent index rows up to #583. Synchronized all summary metrics: Total Reference Links (582 → 583), Unique Target Domains (276 → 276), Web Portals & Press Releases (561 → 562), and 100% Processing Status (583 / 583 Processed, 100% Complete). Section 5 count increased (286 → 287, 49.1% → 49.2%), and updated `news.fnal.gov` to 13 references in Section 3 top domain counts.
+- **Research Paper Enrichment — §3.2 (README.md & README.de.md)**: Enriched §3.2 of both English and German flagship papers with institutional research context from **DOE Selects Fermilab-Led AI Initiative to Advance Particle Accelerator Performance**.
+- **Patch Version Release**: Incremented version strings to `3.6.30` across `README.md` and `README.de.md`.
+
+---
+
+## [3.6.31] - 2026-08-29
+
+### Added
+- **Reference Index Entry #548**: Processed reference link `https://www.unc.edu/posts/2026/08/20/carolina-researchers-probe-the-universes-origins/` (*Carolina Researchers Probe the Universe's Origins*) under Section 5 (*National Labs & University Coverage*) in `references.md`.
+- **Master Index Update**: Registered new entry #548 in `reference_coverage.md`. Sequentially shifted and renumbered all subsequent index rows up to #584. Synchronized all summary metrics: Total Reference Links (583 → 584), Unique Target Domains (276 → 277), Web Portals & Press Releases (562 → 563), and 100% Processing Status (584 / 584 Processed, 100% Complete). Section 5 count increased (287 → 288, 49.2% → 49.3%), and registered `www.unc.edu` as a new target domain in Section 3 top domain counts.
+- **Research Paper Enrichment — §3.3 (README.md & README.de.md)**: Enriched §3.3 of both English and German flagship papers with institutional research context from **Carolina Researchers Probe the Universe's Origins**.
+- **Patch Version Release**: Incremented version strings to `3.6.31` across `README.md` and `README.de.md`.
+
+---
+
+## [3.6.32] - 2026-08-29
+
+### Added
+- **Reference Index Entry #549**: Processed reference link `https://www.princeton.edu/news/2026/08/24/doe-and-princeton-university-extend-strengthen-partnership` (*DOE and Princeton University Extend, Strengthen Partnership*) under Section 5 (*National Labs & University Coverage*) in `references.md`.
+- **Master Index Update**: Registered new entry #549 in `reference_coverage.md`. Sequentially shifted and renumbered all subsequent index rows up to #585. Synchronized all summary metrics: Total Reference Links (584 → 585), Unique Target Domains (277 → 277), Web Portals & Press Releases (563 → 564), and 100% Processing Status (585 / 585 Processed, 100% Complete). Section 5 count increased (288 → 289, 49.3% → 49.4%), and updated `www.princeton.edu` to 2 references in Section 3 top domain counts.
+- **Research Paper Enrichment — §3.3 (README.md & README.de.md)**: Enriched §3.3 of both English and German flagship papers with institutional research context from **DOE and Princeton University Extend, Strengthen Partnership**.
+- **Patch Version Release**: Incremented version strings to `3.6.32` across `README.md` and `README.de.md`.
+
+---
+
+## [3.6.33] - 2026-08-29
+
+### Added
+- **Reference Index Entry #567**: Processed reference link `https://ou.edu/news/articles/2026/august/class-of-2030` (*Welcome, Class of 2030!*) under Section 6 (*Additional Event Materials & Reference Links*) in `references.md`.
+- **Master Index Update**: Registered new entry #567 in `reference_coverage.md`. Sequentially shifted and renumbered all subsequent index rows up to #586. Synchronized all summary metrics: Total Reference Links (585 → 586), Unique Target Domains (277 → 278), Web Portals & Press Releases (564 → 565), and 100% Processing Status (586 / 586 Processed, 100% Complete). Section 6 count increased (17 → 18, 2.9% → 3.1%), and registered `ou.edu` as a new target domain in Section 3 top domain counts.
+- **Research Paper Enrichment — §3.4 (README.md & README.de.md)**: Enriched §3.4 of both English and German flagship papers with supplemental ecosystem context from **Welcome, Class of 2030!**.
+- **Patch Version Release**: Incremented version strings to `3.6.33` across `README.md` and `README.de.md`.
+
+---
+
+## [3.6.34] - 2026-08-29
+
+### Added
+- **Reference Index Entry #550**: Processed reference link `https://news.stonybrook.edu/university/stony-brook-brookhaven-lab-researchers-demonstrate-wireless-capability-for-quantum-network/` (*Stony Brook, Brookhaven Lab Researchers Demonstrate Wireless Capability for Quantum Network*) under Section 5 (*National Labs & University Coverage*) in `references.md`.
+- **Master Index Update**: Registered new entry #550 in `reference_coverage.md`. Sequentially shifted and renumbered all subsequent index rows up to #587. Synchronized all summary metrics: Total Reference Links (586 → 587), Unique Target Domains (278 → 278), Web Portals & Press Releases (565 → 566), and 100% Processing Status (587 / 587 Processed, 100% Complete). Section 5 count increased (289 → 290, 49.3% → 49.4%), and updated `news.stonybrook.edu` to 4 references in Section 3 top domain counts.
+- **Research Paper Enrichment — §3.2 (README.md & README.de.md)**: Enriched §3.2 of both English and German flagship papers with institutional research context from **Stony Brook, Brookhaven Lab Researchers Demonstrate Wireless Capability for Quantum Network**.
+- **Patch Version Release**: Incremented version strings to `3.6.34` across `README.md` and `README.de.md`.
+
+---
+
+## [3.6.35] - 2026-08-29
+
+### Added
+- **Reference Index Entry #261**: Processed reference link `https://www.energy.gov/undersecretaryforscience/person/shawn-whitman` (*Shawn Whitman: Department of Energy*) under Section 4 (*Executive, Federal & Partner Announcements*) in `references.md`.
+- **Master Index Update**: Registered new entry #261 in `reference_coverage.md`. Sequentially shifted and renumbered all subsequent index rows up to #588. Synchronized all summary metrics: Total Reference Links (587 → 588), Unique Target Domains (278 → 278), Web Portals & Press Releases (566 → 567), and 100% Processing Status (588 / 588 Processed, 100% Complete). Section 4 count increased (170 → 171, 29.0% → 29.1%), and updated `www.energy.gov` to 49 references in Section 3 top domain counts.
+- **Research Paper Enrichment — §3.4 (README.md & README.de.md)**: Enriched §3.4 of both English and German flagship papers with federal and partner context from **Shawn Whitman: Department of Energy**.
+- **Patch Version Release**: Incremented version strings to `3.6.35` across `README.md` and `README.de.md`.
+
+---
+
+## [3.6.36] - 2026-08-29
+
+### Added
+- **Reference Index Entry #262**: Processed reference link `https://news.arizona.edu/news/opinion-ai-agent-just-broke-containment-congress-needs-3-billion-response` (*Opinion: AI Agent Just Broke Containment. Congress Needs a $3 Billion Response*) under Section 4 (*Executive, Federal & Partner Announcements*) in `references.md`.
+- **Master Index Update**: Registered new entry #262 in `reference_coverage.md`. Sequentially shifted and renumbered all subsequent index rows up to #589. Synchronized all summary metrics: Total Reference Links (588 → 589), Unique Target Domains (278 → 278), Web Portals & Press Releases (567 → 568), and 100% Processing Status (589 / 589 Processed, 100% Complete). Section 4 count increased (171 → 172, 29.1% → 29.2%), and updated `news.arizona.edu` to 3 references in Section 3 top domain counts.
+- **Research Paper Enrichment — §3.4 (README.md & README.de.md)**: Enriched §3.4 of both English and German flagship papers with federal and partner context from **Opinion: AI Agent Just Broke Containment. Congress Needs a $3 Billion Response**.
+- **Patch Version Release**: Incremented version strings to `3.6.36` across `README.md` and `README.de.md`.
+
+---
+
+## [3.6.37] - 2026-08-29
+
+### Added
+- **Reference Index Entry #553**: Processed reference link `https://www.hawaii.edu/news/2026/07/27/genesis-mission-awards/` (*UH Faculty Win Department of Energy Genesis Mission Awards*) under Section 5 (*National Labs & University Coverage*) in `references.md`.
+- **Master Index Update**: Registered new entry #553 in `reference_coverage.md`. Sequentially shifted and renumbered all subsequent index rows up to #590. Synchronized all summary metrics: Total Reference Links (589 → 590), Unique Target Domains (278 → 279), Web Portals & Press Releases (568 → 569), and 100% Processing Status (590 / 590 Processed, 100% Complete). Section 5 count increased (290 → 291, 49.2% → 49.3%), and registered `www.hawaii.edu` as a new target domain in Section 3 top domain counts.
+- **Research Paper Enrichment — §3.3 (README.md & README.de.md)**: Enriched §3.3 of both English and German flagship papers with institutional research context from **UH Faculty Win Department of Energy Genesis Mission Awards**.
+- **Patch Version Release**: Incremented version strings to `3.6.37` across `README.md` and `README.de.md`.
+
+---
+
+## [3.6.38] - 2026-08-29
+
+### Added
+- **Reference Index Entry #591**: Processed reference link `https://science.osti.gov/-/media/ber/pdf/News-and-Resources/26-Genesis-Awards-Flyer_0820.pdf` (*2026 Genesis Awards Flyer (PDF)*) under Section 7 (*Technical Documents, RFA Guidance & Official Webinars*) in `references.md`.
+- **Master Index Update**: Registered new entry #591 in `reference_coverage.md`. Sequentially shifted and renumbered all subsequent index rows up to #591. Synchronized all summary metrics: Total Reference Links (590 → 591), Unique Target Domains (279 → 279), Official PDF Documents (21 → 22), and 100% Processing Status (591 / 591 Processed, 100% Complete). Section 7 count increased (19 → 20, 3.2% → 3.4%), and updated `science.osti.gov` to 11 references in Section 3 top domain counts.
+- **Research Paper Enrichment — §3.5 (README.md & README.de.md)**: Enriched §3.5 of both English and German flagship papers with technical reference context from **2026 Genesis Awards Flyer (PDF)**.
+- **Patch Version Release**: Incremented version strings to `3.6.38` across `README.md` and `README.de.md`.
+
+---
+
+## [3.6.39] - 2026-08-29
+
+### Added
+- **Reference Index Entry #554**: Processed reference link `https://viterbischool.usc.edu/news/2026/08/unlocking-the-physics-of-turbulence-with-ai/` (*Unlocking the Physics of Turbulence with AI*) under Section 5 (*National Labs & University Coverage*) in `references.md`.
+- **Master Index Update**: Registered new entry #554 in `reference_coverage.md`. Sequentially shifted and renumbered all subsequent index rows up to #592. Synchronized all summary metrics: Total Reference Links (591 → 592), Unique Target Domains (279 → 280), Web Portals & Press Releases (569 → 570), and 100% Processing Status (592 / 592 Processed, 100% Complete). Section 5 count increased (291 → 292, 49.2% → 49.3%), and registered `viterbischool.usc.edu` as a new target domain in Section 3 top domain counts.
+- **Research Paper Enrichment — §3.3 (README.md & README.de.md)**: Enriched §3.3 of both English and German flagship papers with institutional research context from **Unlocking the Physics of Turbulence with AI**.
+- **Patch Version Release**: Incremented version strings to `3.6.39` across `README.md` and `README.de.md`.
+
+---
+
+## [3.6.40] - 2026-08-29
+
+### Added
+- **Reference Index Entry #555**: Processed reference link `https://source.washu.edu/2026/08/hengen-applies-lessons-from-brain-to-quantum-sensing/` (*Hengen Applies Lessons From Brain to Quantum Sensing*) under Section 5 (*National Labs & University Coverage*) in `references.md`.
+- **Master Index Update**: Registered new entry #555 in `reference_coverage.md`. Sequentially shifted and renumbered all subsequent index rows up to #593. Synchronized all summary metrics: Total Reference Links (592 → 593), Unique Target Domains (280 → 281), Web Portals & Press Releases (570 → 571), and 100% Processing Status (593 / 593 Processed, 100% Complete). Section 5 count increased (292 → 293, 49.3% → 49.4%), and registered `source.washu.edu` as a new target domain in Section 3 top domain counts.
+- **Research Paper Enrichment — §3.3 (README.md & README.de.md)**: Enriched §3.3 of both English and German flagship papers with institutional research context from **Hengen Applies Lessons From Brain to Quantum Sensing**.
+- **Patch Version Release**: Incremented version strings to `3.6.40` across `README.md` and `README.de.md`.
+
+---
+
+## [3.6.41] - 2026-08-29
+
+### Added
+- **Reference Index Entry #556**: Processed reference link `https://www.cs.umd.edu/article/2026/08/can-ai-see-next-flood-coming-umd-team-aims-transform-water-forecasting` (*Can AI See Next Flood Coming? UMD Team Aims to Transform Water Forecasting (department version)*) under Section 5 (*National Labs & University Coverage*) in `references.md`.
+- **Master Index Update**: Registered new entry #556 in `reference_coverage.md`. Sequentially shifted and renumbered all subsequent index rows up to #594. Synchronized all summary metrics: Total Reference Links (593 → 594), Unique Target Domains (281 → 282), Web Portals & Press Releases (571 → 572), and 100% Processing Status (594 / 594 Processed, 100% Complete). Section 5 count increased (293 → 294, 49.4% → 49.5%), and registered `www.cs.umd.edu` as a new target domain in Section 3 top domain counts.
+- **Research Paper Enrichment — §3.3 (README.md & README.de.md)**: Enriched §3.3 of both English and German flagship papers with institutional research context from **Can AI See Next Flood Coming? UMD Team Aims to Transform Water Forecasting (department version)**.
+- **Patch Version Release**: Incremented version strings to `3.6.41` across `README.md` and `README.de.md`.
+
+---
+
+## [3.6.42] - 2026-08-29
+
+### Added
+- **Reference Index Entry #263**: Processed reference link `https://www.nlr.gov/news/detail/program/2026/q-a-with-steve-hammond-ai-data-center-challenges-and-nlr-solutions` (*Q&A with Steve Hammond: AI, Data Center Challenges, and NLR Solutions*) under Section 4 (*Executive, Federal & Partner Announcements*) in `references.md`.
+- **Master Index Update**: Registered new entry #263 in `reference_coverage.md`. Sequentially shifted and renumbered all subsequent index rows up to #595. Synchronized all summary metrics: Total Reference Links (594 → 595), Unique Target Domains (282 → 282), Web Portals & Press Releases (572 → 573), and 100% Processing Status (595 / 595 Processed, 100% Complete). Section 4 count increased (172 → 173, 29.0% → 29.1%), and updated `www.nlr.gov` to 3 references in Section 3 top domain counts.
+- **Research Paper Enrichment — §3.4 (README.md & README.de.md)**: Enriched §3.4 of both English and German flagship papers with federal and partner context from **Q&A with Steve Hammond: AI, Data Center Challenges, and NLR Solutions**.
+- **Patch Version Release**: Incremented version strings to `3.6.42` across `README.md` and `README.de.md`.
+
+---
+
+## [3.6.43] - 2026-08-29
+
+### Added
+- **Reference Index Entry #558**: Processed reference link `https://energyforum.tulane.edu/ai-driven-discovery-genesis-mission-future-energy-innovation` (*AI-Driven Discovery: Genesis Mission and the Future of Energy Innovation*) under Section 5 (*National Labs & University Coverage*) in `references.md`.
+- **Master Index Update**: Registered new entry #558 in `reference_coverage.md`. Sequentially shifted and renumbered all subsequent index rows up to #596. Synchronized all summary metrics: Total Reference Links (595 → 596), Unique Target Domains (282 → 283), Web Portals & Press Releases (573 → 574), and 100% Processing Status (596 / 596 Processed, 100% Complete). Section 5 count increased (294 → 295, 49.4% → 49.5%), and registered `energyforum.tulane.edu` as a new target domain in Section 3 top domain counts.
+- **Research Paper Enrichment — §3.3 (README.md & README.de.md)**: Enriched §3.3 of both English and German flagship papers with institutional research context from **AI-Driven Discovery: Genesis Mission and the Future of Energy Innovation**.
+- **Patch Version Release**: Incremented version strings to `3.6.43` across `README.md` and `README.de.md`.
+
+---
+
+## [3.6.44] - 2026-08-29
+
+### Added
+- **Reference Index Entry #559**: Processed reference link `https://www.ee.columbia.edu/news/tanvir-ahmed-khan-awarded-genesis-mission-funding` (*Tanvir Ahmed Khan Awarded Genesis Mission Funding*) under Section 5 (*National Labs & University Coverage*) in `references.md`.
+- **Master Index Update**: Registered new entry #559 in `reference_coverage.md`. Sequentially shifted and renumbered all subsequent index rows up to #597. Synchronized all summary metrics: Total Reference Links (596 → 597), Unique Target Domains (283 → 284), Web Portals & Press Releases (574 → 575), and 100% Processing Status (597 / 597 Processed, 100% Complete). Section 5 count increased (295 → 296, 49.5% → 49.6%), and registered `www.ee.columbia.edu` as a new target domain in Section 3 top domain counts.
+- **Research Paper Enrichment — §3.3 (README.md & README.de.md)**: Enriched §3.3 of both English and German flagship papers with institutional research context from **Tanvir Ahmed Khan Awarded Genesis Mission Funding**.
+- **Patch Version Release**: Incremented version strings to `3.6.44` across `README.md` and `README.de.md`.
+
+---
+
+## [3.6.45] - 2026-08-29
+
+### Added
+- **Reference Index Entry #560**: Processed reference link `https://www.ou.edu/news/articles/2026/august/researchers-selected-department-of-energy-genesis-mission` (*Researchers Selected for Department of Energy Genesis Mission*) under Section 5 (*National Labs & University Coverage*) in `references.md`.
+- **Master Index Update**: Registered new entry #560 in `reference_coverage.md`. Sequentially shifted and renumbered all subsequent index rows up to #598. Synchronized all summary metrics: Total Reference Links (597 → 598), Unique Target Domains (284 → 285), Web Portals & Press Releases (575 → 576), and 100% Processing Status (598 / 598 Processed, 100% Complete). Section 5 count increased (296 → 297, 49.6% → 49.7%), and registered `www.ou.edu` as a new target domain in Section 3 top domain counts.
+- **Research Paper Enrichment — §3.3 (README.md & README.de.md)**: Enriched §3.3 of both English and German flagship papers with institutional research context from **Researchers Selected for Department of Energy Genesis Mission**.
+- **Patch Version Release**: Incremented version strings to `3.6.45` across `README.md` and `README.de.md`.
+
+---
+
+## [3.6.46] - 2026-08-29
+
+### Added
+- **Reference Index Entry #561**: Processed reference link `https://www.tamus.edu/research/development/doe/` (*DOE Research Development: The Texas A&M University System*) under Section 5 (*National Labs & University Coverage*) in `references.md`.
+- **Master Index Update**: Registered new entry #561 in `reference_coverage.md`. Sequentially shifted and renumbered all subsequent index rows up to #599. Synchronized all summary metrics: Total Reference Links (598 → 599), Unique Target Domains (285 → 286), Web Portals & Press Releases (576 → 577), and 100% Processing Status (599 / 599 Processed, 100% Complete). Section 5 count increased (297 → 298, 49.7% → 49.7%), and registered `www.tamus.edu` as a new target domain in Section 3 top domain counts.
+- **Research Paper Enrichment — §3.3 (README.md & README.de.md)**: Enriched §3.3 of both English and German flagship papers with institutional research context from **DOE Research Development: The Texas A&M University System**.
+- **Patch Version Release**: Incremented version strings to `3.6.46` across `README.md` and `README.de.md`.
+
+---
+
+## [3.6.47] - 2026-08-29
+
+### Added
+- **Reference Index Entry #562**: Processed reference link `https://www.washington.edu/news/2026/08/18/hossein-naghavi-terahertz-waves-augmented-reality-genesis-mission/` (*Hossein Naghavi: Terahertz Waves, Augmented Reality, and the Genesis Mission*) under Section 5 (*National Labs & University Coverage*) in `references.md`.
+- **Master Index Update**: Registered new entry #562 in `reference_coverage.md`. Sequentially shifted and renumbered all subsequent index rows up to #600. Synchronized all summary metrics: Total Reference Links (599 → 600), Unique Target Domains (286 → 286), Web Portals & Press Releases (577 → 578), and 100% Processing Status (600 / 600 Processed, 100% Complete). Section 5 count increased (298 → 299, 49.7% → 49.8%), and updated `www.washington.edu` to 2 references in Section 3 top domain counts.
+- **Research Paper Enrichment — §3.3 (README.md & README.de.md)**: Enriched §3.3 of both English and German flagship papers with institutional research context from **Hossein Naghavi: Terahertz Waves, Augmented Reality, and the Genesis Mission**.
+- **Patch Version Release**: Incremented version strings to `3.6.47` across `README.md` and `README.de.md`.
+
+---
+
+## [3.6.48] - 2026-08-29
+
+### Added
+- **Reference Index Entry #264**: Processed reference link `https://www.usda.gov/about-usda/news/radio/daily-newsline/2026-08-21/actuality-white-house-genesis-mission-and-ag-science-and-tech` (*Actuality: White House Genesis Mission and Ag Science and Tech*) under Section 4 (*Executive, Federal & Partner Announcements*) in `references.md`.
+- **Master Index Update**: Registered new entry #264 in `reference_coverage.md`. Sequentially shifted and renumbered all subsequent index rows up to #601. Synchronized all summary metrics: Total Reference Links (600 → 601), Unique Target Domains (286 → 286), Web Portals & Press Releases (578 → 579), and 100% Processing Status (601 / 601 Processed, 100% Complete). Section 4 count increased (173 → 174, 28.8% → 29.0%), and updated `www.usda.gov` to 2 references in Section 3 top domain counts.
+- **Research Paper Enrichment — §3.4 (README.md & README.de.md)**: Enriched §3.4 of both English and German flagship papers with federal and partner context from **Actuality: White House Genesis Mission and Ag Science and Tech**.
+- **Patch Version Release**: Incremented version strings to `3.6.48` across `README.md` and `README.de.md`.
+
+---
+
+## [3.6.49] - 2026-08-29
+
+### Added
+- **Reference Index Entry #564**: Processed reference link `https://www.pnnl.gov/news-media/new-life-used-nuclear-fuel` (*New Life for Used Nuclear Fuel*) under Section 5 (*National Labs & University Coverage*) in `references.md`.
+- **Master Index Update**: Registered new entry #564 in `reference_coverage.md`. Sequentially shifted and renumbered all subsequent index rows up to #602. Synchronized all summary metrics: Total Reference Links (601 → 602), Unique Target Domains (286 → 286), Web Portals & Press Releases (579 → 580), and 100% Processing Status (602 / 602 Processed, 100% Complete). Section 5 count increased (299 → 300, 49.8% → 49.8%), and updated `www.pnnl.gov` to 6 references in Section 3 top domain counts.
+- **Research Paper Enrichment — §3.2 (README.md & README.de.md)**: Enriched §3.2 of both English and German flagship papers with institutional research context from **New Life for Used Nuclear Fuel**.
+- **Patch Version Release**: Incremented version strings to `3.6.49` across `README.md` and `README.de.md`.
+
+---
+
+## [3.6.50] - 2026-08-29
+
+### Added
+- **Reference Index Entry #583**: Processed reference link `https://www.prnewswire.com/il/news-releases/cellebrite-genesis-for-enterprise-now-generally-available-regional-availability-expands-to-more-global-markets-302854865.html` (*Cellebrite Genesis for Enterprise Now Generally Available, Regional Availability Expands to More Global Markets (unrelated commercial product branding)*) under Section 6 (*Additional Event Materials & Reference Links*) in `references.md`.
+- **Master Index Update**: Registered new entry #583 in `reference_coverage.md`. Sequentially shifted and renumbered all subsequent index rows up to #603. Synchronized all summary metrics: Total Reference Links (602 → 603), Unique Target Domains (286 → 286), Web Portals & Press Releases (580 → 581), and 100% Processing Status (603 / 603 Processed, 100% Complete). Section 6 count increased (18 → 19, 3.0% → 3.2%), and updated `www.prnewswire.com` to 6 references in Section 3 top domain counts.
+- **Research Paper Enrichment — §3.4 (README.md & README.de.md)**: Enriched §3.4 of both English and German flagship papers with explicit peripheral / non-DOE brand-collision context.
+- **Patch Version Release**: Incremented version strings to `3.6.50` across `README.md` and `README.de.md`.
+
+---
+
+## [3.6.51] - 2026-08-29
+
+### Added
+- **Reference Index Entry #265**: Processed reference link `https://www.vtcrc.com/aclara-technologies-selected-for-doe-federal-funding-to-advance-ai-driven-heavy-rare-earth-processing/` (*Aclara Technologies Selected for DOE Federal Funding to Advance AI-Driven Heavy Rare Earth Processing*) under Section 4 (*Executive, Federal & Partner Announcements*) in `references.md`.
+- **Master Index Update**: Registered new entry #265 in `reference_coverage.md`. Sequentially shifted and renumbered all subsequent index rows up to #604. Synchronized all summary metrics: Total Reference Links (603 → 604), Unique Target Domains (286 → 287), Web Portals & Press Releases (581 → 582), and 100% Processing Status (604 / 604 Processed, 100% Complete). Section 4 count increased (174 → 175, 28.9% → 29.0%), and registered `www.vtcrc.com` as a new target domain in Section 3 top domain counts.
+- **Research Paper Enrichment — §3.4 (README.md & README.de.md)**: Enriched §3.4 of both English and German flagship papers with federal and partner context from **Aclara Technologies Selected for DOE Federal Funding to Advance AI-Driven Heavy Rare Earth Processing**.
+- **Patch Version Release**: Incremented version strings to `3.6.51` across `README.md` and `README.de.md`.
+
+---
+
+## [3.6.52] - 2026-08-29
+
+### Added
+- **Reference Index Entry #566**: Processed reference link `https://www.anl.gov/article/streamline-uses-ai-to-tackle-one-of-nuclear-physics-toughest-problems` (*Streamline Uses AI to Tackle One of Nuclear Physics' Toughest Problems*) under Section 5 (*National Labs & University Coverage*) in `references.md`.
+- **Master Index Update**: Registered new entry #566 in `reference_coverage.md`. Sequentially shifted and renumbered all subsequent index rows up to #605. Synchronized all summary metrics: Total Reference Links (604 → 605), Unique Target Domains (287 → 287), Web Portals & Press Releases (582 → 583), and 100% Processing Status (605 / 605 Processed, 100% Complete). Section 5 count increased (300 → 301, 49.7% → 49.8%), and updated `www.anl.gov` to 31 references in Section 3 top domain counts.
+- **Research Paper Enrichment — §3.2 (README.md & README.de.md)**: Enriched §3.2 of both English and German flagship papers with institutional research context from **Streamline Uses AI to Tackle One of Nuclear Physics' Toughest Problems**.
+- **Patch Version Release**: Incremented version strings to `3.6.52` across `README.md` and `README.de.md`.
+
+---
+
+## [3.6.53] - 2026-08-29
+
+### Added
+- **Reference Index Entry #586**: Processed reference link `https://youtube.com/shorts/u96gp5cGhHk?is=hLkmzbCpbPzVXubz` (*Genesis Mission YouTube Shorts Reference*) under Section 6 (*Additional Event Materials & Reference Links*) in `references.md`.
+- **Master Index Update**: Registered new entry #586 in `reference_coverage.md`. Sequentially shifted and renumbered all subsequent index rows up to #606. Synchronized all summary metrics: Total Reference Links (605 → 606), Unique Target Domains (287 → 288), Web Portals & Press Releases (583 → 584), and 100% Processing Status (606 / 606 Processed, 100% Complete). Section 6 count increased (19 → 20, 3.1% → 3.3%), and registered `youtube.com` as a new target domain in Section 3 top domain counts.
+- **Research Paper Enrichment — §3.4 (README.md & README.de.md)**: Enriched §3.4 of both English and German flagship papers with supplemental ecosystem context from **Genesis Mission YouTube Shorts Reference**.
+- **Patch Version Release**: Incremented version strings to `3.6.53` across `README.md` and `README.de.md`.
+
+---
+
+## [3.6.54] - 2026-08-29
+
+### Added
+- **Reference Index Entry #567**: Processed reference link `https://www.olcf.ornl.gov/olcf-resources/compute-systems/lux/` (*Lux: Oak Ridge Leadership Computing Facility*) under Section 5 (*National Labs & University Coverage*) in `references.md`.
+- **Master Index Update**: Registered new entry #567 in `reference_coverage.md`. Sequentially shifted and renumbered all subsequent index rows up to #607. Synchronized all summary metrics: Total Reference Links (606 → 607), Unique Target Domains (288 → 289), Web Portals & Press Releases (584 → 585), and 100% Processing Status (607 / 607 Processed, 100% Complete). Section 5 count increased (301 → 302, 49.7% → 49.8%), and registered `www.olcf.ornl.gov` as a new target domain in Section 3 top domain counts.
+- **Research Paper Enrichment — §3.2 (README.md & README.de.md)**: Enriched §3.2 of both English and German flagship papers with institutional research context from **Lux: Oak Ridge Leadership Computing Facility**.
+- **Patch Version Release**: Incremented version strings to `3.6.54` across `README.md` and `README.de.md`.
+
+---
+
+## [3.6.55] - 2026-08-29
+
+### Added
+- **Reference Index Entry #266**: Processed reference link `https://fenado.ai/articles/rescale-selected-from-record-8000-applicants-for-doe-genesis-mission-to-reduce-engineering-time-fivefold` (*Rescale Selected from Record 8,000 Applicants for DOE GENESIS Mission to Reduce Engineering Time Fivefold*) under Section 4 (*Executive, Federal & Partner Announcements*) in `references.md`.
+- **Master Index Update**: Registered new entry #266 in `reference_coverage.md`. Sequentially shifted and renumbered all subsequent index rows up to #608. Synchronized all summary metrics: Total Reference Links (607 → 608), Unique Target Domains (289 → 290), Web Portals & Press Releases (585 → 586), and 100% Processing Status (608 / 608 Processed, 100% Complete). Section 4 count increased (175 → 176, 28.8% → 28.9%), and registered `fenado.ai` as a new target domain in Section 3 top domain counts.
+- **Research Paper Enrichment — §3.4 (README.md & README.de.md)**: Enriched §3.4 of both English and German flagship papers with federal and partner context from **Rescale Selected from Record 8,000 Applicants for DOE GENESIS Mission to Reduce Engineering Time Fivefold**.
+- **Patch Version Release**: Incremented version strings to `3.6.55` across `README.md` and `README.de.md`.
+
+---
+
+## [3.6.56] - 2026-08-29
+
+### Added
+- **Reference Index Entry #589**: Processed reference link `https://jobs.ornl.gov/job/Oak-Ridge-Research-Scientist%2C-Agentic-Workflows-TN-37830/1422626200` (*Research Scientist, Agentic Workflows*) under Section 6 (*Additional Event Materials & Reference Links*) in `references.md`.
+- **Master Index Update**: Registered new entry #589 in `reference_coverage.md`. Sequentially shifted and renumbered all subsequent index rows up to #609. Synchronized all summary metrics: Total Reference Links (608 → 609), Unique Target Domains (290 → 291), Web Portals & Press Releases (586 → 587), and 100% Processing Status (609 / 609 Processed, 100% Complete). Section 6 count increased (20 → 21, 3.3% → 3.4%), and registered `jobs.ornl.gov` as a new target domain in Section 3 top domain counts.
+- **Research Paper Enrichment — §3.4 (README.md & README.de.md)**: Enriched §3.4 of both English and German flagship papers with supplemental ecosystem context from **Research Scientist, Agentic Workflows**.
+- **Patch Version Release**: Incremented version strings to `3.6.56` across `README.md` and `README.de.md`.
+
+---
+
+## [3.6.57] - 2026-08-29
+
+### Added
+- **Reference Index Entry #590**: Processed reference link `https://foundry.lbl.gov/2026/08/24/aum2026recap/` (*AUM 2026 Recap: Building the Future of Advanced User Materials*) under Section 6 (*Additional Event Materials & Reference Links*) in `references.md`.
+- **Master Index Update**: Registered new entry #590 in `reference_coverage.md`. Sequentially shifted and renumbered all subsequent index rows up to #610. Synchronized all summary metrics: Total Reference Links (609 → 610), Unique Target Domains (291 → 292), Web Portals & Press Releases (587 → 588), and 100% Processing Status (610 / 610 Processed, 100% Complete). Section 6 count increased (21 → 22, 3.4% → 3.6%), and registered `foundry.lbl.gov` as a new target domain in Section 3 top domain counts.
+- **Research Paper Enrichment — §3.4 (README.md & README.de.md)**: Enriched §3.4 of both English and German flagship papers with supplemental ecosystem context from **AUM 2026 Recap: Building the Future of Advanced User Materials**.
+- **Patch Version Release**: Incremented version strings to `3.6.57` across `README.md` and `README.de.md`.
+
+---
+
+## [3.6.58] - 2026-08-29
+
+### Added
+- **Reference Index Entry #569**: Processed reference link `https://www.anl.gov/cels/article/weather-is-community-argonne-researchers-talk-atmospheric-science-ai-and-citizen-science-at-the-new` (*Weather Is Community: Argonne Researchers Talk Atmospheric Science, AI, and Citizen Science at the New Lenox Public Library*) under Section 5 (*National Labs & University Coverage*) in `references.md`.
+- **Master Index Update**: Registered new entry #569 in `reference_coverage.md`. Sequentially shifted and renumbered all subsequent index rows up to #611. Synchronized all summary metrics: Total Reference Links (610 → 611), Unique Target Domains (292 → 292), Web Portals & Press Releases (588 → 589), and 100% Processing Status (611 / 611 Processed, 100% Complete). Section 5 count increased (302 → 303, 49.5% → 49.6%), and updated `www.anl.gov` to 32 references in Section 3 top domain counts.
+- **Research Paper Enrichment — §3.2 (README.md & README.de.md)**: Enriched §3.2 of both English and German flagship papers with institutional research context from **Weather Is Community: Argonne Researchers Talk Atmospheric Science, AI, and Citizen Science at the New Lenox Public Library**.
+- **Patch Version Release**: Incremented version strings to `3.6.58` across `README.md` and `README.de.md`.
+
+---
+
+## [3.6.59] - 2026-08-29
+
+### Added
+- **Reference Index Entry #570**: Processed reference link `https://www.anl.gov/ai` (*AI at Argonne*) under Section 5 (*National Labs & University Coverage*) in `references.md`.
+- **Master Index Update**: Registered new entry #570 in `reference_coverage.md`. Sequentially shifted and renumbered all subsequent index rows up to #612. Synchronized all summary metrics: Total Reference Links (611 → 612), Unique Target Domains (292 → 292), Web Portals & Press Releases (589 → 590), and 100% Processing Status (612 / 612 Processed, 100% Complete). Section 5 count increased (303 → 304, 49.6% → 49.7%), and updated `www.anl.gov` to 33 references in Section 3 top domain counts.
+- **Research Paper Enrichment — §3.2 (README.md & README.de.md)**: Enriched §3.2 of both English and German flagship papers with institutional research context from **AI at Argonne**.
+- **Patch Version Release**: Incremented version strings to `3.6.59` across `README.md` and `README.de.md`.
+
+---
+
+## [3.6.60] - 2026-08-29
+
+### Added
+- **Reference Index Entry #571**: Processed reference link `https://lasierra.edu/article/la-sierra-profs-team-selected-for-doe-genesis-mission-ai-research-award/` (*La Sierra Profs' Team Selected for DOE Genesis Mission AI Research Award*) under Section 5 (*National Labs & University Coverage*) in `references.md`.
+- **Master Index Update**: Registered new entry #571 in `reference_coverage.md`. Sequentially shifted and renumbered all subsequent index rows up to #613. Synchronized all summary metrics: Total Reference Links (612 → 613), Unique Target Domains (292 → 293), Web Portals & Press Releases (590 → 591), and 100% Processing Status (613 / 613 Processed, 100% Complete). Section 5 count increased (304 → 305, 49.7% → 49.8%), and registered `lasierra.edu` as a new target domain in Section 3 top domain counts.
+- **Research Paper Enrichment — §3.3 (README.md & README.de.md)**: Enriched §3.3 of both English and German flagship papers with institutional research context from **La Sierra Profs' Team Selected for DOE Genesis Mission AI Research Award**.
+- **Patch Version Release**: Incremented version strings to `3.6.60` across `README.md` and `README.de.md`.
+
+---
+
+## [3.6.61] - 2026-08-29
+
+### Added
+- **Reference Index Entry #572**: Processed reference link `https://inl.gov/news-release/national-laboratory-research-collaboration-focuses-on-accelerated-qualification-of-critical-nuclear-components/` (*National Laboratory Research Collaboration Focuses on Accelerated Qualification of Critical Nuclear Components*) under Section 5 (*National Labs & University Coverage*) in `references.md`.
+- **Master Index Update**: Registered new entry #572 in `reference_coverage.md`. Sequentially shifted and renumbered all subsequent index rows up to #614. Synchronized all summary metrics: Total Reference Links (613 → 614), Unique Target Domains (293 → 293), Web Portals & Press Releases (591 → 592), and 100% Processing Status (614 / 614 Processed, 100% Complete). Section 5 count increased (305 → 306, 49.8% → 49.8%), and updated `inl.gov` to 7 references in Section 3 top domain counts.
+- **Research Paper Enrichment — §3.2 (README.md & README.de.md)**: Enriched §3.2 of both English and German flagship papers with institutional research context from **National Laboratory Research Collaboration Focuses on Accelerated Qualification of Critical Nuclear Components**.
+- **Patch Version Release**: Incremented version strings to `3.6.61` across `README.md` and `README.de.md`.
+
+---
+
+## [3.6.62] - 2026-08-29
+
+### Added
+- **Reference Index Entry #573**: Processed reference link `https://today.umd.edu/can-ai-see-the-next-flood-coming` (*Can AI See the Next Flood Coming (campus-news version)*) under Section 5 (*National Labs & University Coverage*) in `references.md`.
+- **Master Index Update**: Registered new entry #573 in `reference_coverage.md`. Sequentially shifted and renumbered all subsequent index rows up to #615. Synchronized all summary metrics: Total Reference Links (614 → 615), Unique Target Domains (293 → 294), Web Portals & Press Releases (592 → 593), and 100% Processing Status (615 / 615 Processed, 100% Complete). Section 5 count increased (306 → 307, 49.8% → 49.9%), and registered `today.umd.edu` as a new target domain in Section 3 top domain counts.
+- **Research Paper Enrichment — §3.3 (README.md & README.de.md)**: Enriched §3.3 of both English and German flagship papers with institutional research context from **Can AI See the Next Flood Coming (campus-news version)**.
+- **Patch Version Release**: Incremented version strings to `3.6.62` across `README.md` and `README.de.md`.
+
+---
+
+## [3.6.63] - 2026-08-29
+
+### Added
+- **Reference Index Entry #574**: Processed reference link `https://www6.slac.stanford.edu/news/2026-07-22-slac-lead-genesis-mission-ai-project-recover-critical-metals-lithium-ion-battery` (*SLAC to Lead Genesis Mission AI Project to Recover Critical Metals from Lithium-Ion Battery Waste*) under Section 5 (*National Labs & University Coverage*) in `references.md`.
+- **Master Index Update**: Registered new entry #574 in `reference_coverage.md`. Sequentially shifted and renumbered all subsequent index rows up to #616. Synchronized all summary metrics: Total Reference Links (615 → 616), Unique Target Domains (294 → 295), Web Portals & Press Releases (593 → 594), and 100% Processing Status (616 / 616 Processed, 100% Complete). Section 5 count increased (307 → 308, 49.9% → 50.0%), and registered `www6.slac.stanford.edu` as a new target domain in Section 3 top domain counts.
+- **Research Paper Enrichment — §3.2 (README.md & README.de.md)**: Enriched §3.2 of both English and German flagship papers with institutional research context from **SLAC to Lead Genesis Mission AI Project to Recover Critical Metals from Lithium-Ion Battery Waste**.
+- **Patch Version Release**: Incremented version strings to `3.6.63` across `README.md` and `README.de.md`.
+
+---
+
+## [3.6.64] - 2026-08-29
+
+### Added
+- **Reference Index Entry #575**: Processed reference link `https://engineering.lehigh.edu/news/article/brian-leard-selected-doe-fusion-energy-postdoc` (*Brian Leard Selected for DOE Fusion Energy Postdoc*) under Section 5 (*National Labs & University Coverage*) in `references.md`.
+- **Master Index Update**: Registered new entry #575 in `reference_coverage.md`. Sequentially shifted and renumbered all subsequent index rows up to #617. Synchronized all summary metrics: Total Reference Links (616 → 617), Unique Target Domains (295 → 296), Web Portals & Press Releases (594 → 595), and 100% Processing Status (617 / 617 Processed, 100% Complete). Section 5 count increased (308 → 309, 50.0% → 50.1%), and registered `engineering.lehigh.edu` as a new target domain in Section 3 top domain counts.
+- **Research Paper Enrichment — §3.3 (README.md & README.de.md)**: Enriched §3.3 of both English and German flagship papers with institutional research context from **Brian Leard Selected for DOE Fusion Energy Postdoc**.
+- **Patch Version Release**: Incremented version strings to `3.6.64` across `README.md` and `README.de.md`.
+
+---
+
+## [3.6.65] - 2026-08-29
+
+### Added
+- **Reference Index Entry #576**: Processed reference link `https://www.cmu.edu/news/stories/archives/2026/august/building-the-future-carnegie-mellon-is-the-quintessential-american-story` (*Building the Future: Carnegie Mellon Is the Quintessential American Story*) under Section 5 (*National Labs & University Coverage*) in `references.md`.
+- **Master Index Update**: Registered new entry #576 in `reference_coverage.md`. Sequentially shifted and renumbered all subsequent index rows up to #618. Synchronized all summary metrics: Total Reference Links (617 → 618), Unique Target Domains (296 → 296), Web Portals & Press Releases (595 → 596), and 100% Processing Status (618 / 618 Processed, 100% Complete). Section 5 count increased (309 → 310, 50.1% → 50.2%), and updated `www.cmu.edu` to 4 references in Section 3 top domain counts.
+- **Research Paper Enrichment — §3.3 (README.md & README.de.md)**: Enriched §3.3 of both English and German flagship papers with institutional research context from **Building the Future: Carnegie Mellon Is the Quintessential American Story**.
+- **Patch Version Release**: Incremented version strings to `3.6.65` across `README.md` and `README.de.md`.
+
+---
+
+## [3.6.66] - 2026-08-29
+
+### Added
+- **Reference Index Entry #577**: Processed reference link `https://research.umn.edu/news/three-umn-projects-win-inaugural-doe-genesis-mission-awards-advance-ai-innovation` (*Three UMN Projects Win Inaugural DOE Genesis Mission Awards, Advance AI Innovation*) under Section 5 (*National Labs & University Coverage*) in `references.md`.
+- **Master Index Update**: Registered new entry #577 in `reference_coverage.md`. Sequentially shifted and renumbered all subsequent index rows up to #619. Synchronized all summary metrics: Total Reference Links (618 → 619), Unique Target Domains (296 → 297), Web Portals & Press Releases (596 → 597), and 100% Processing Status (619 / 619 Processed, 100% Complete). Section 5 count increased (310 → 311, 50.2% → 50.2%), and registered `research.umn.edu` as a new target domain in Section 3 top domain counts.
+- **Research Paper Enrichment — §3.3 (README.md & README.de.md)**: Enriched §3.3 of both English and German flagship papers with institutional research context from **Three UMN Projects Win Inaugural DOE Genesis Mission Awards, Advance AI Innovation**.
+- **Patch Version Release**: Incremented version strings to `3.6.66` across `README.md` and `README.de.md`.
+
+---
+
+## [3.6.67] - 2026-08-29
+
+### Added
+- **Reference Index Entry #578**: Processed reference link `https://www.kent.edu/today/news/kent-state-researcher-selected-doe-genesis-mission-award-critical-minerals` (*Kent State Researcher Selected for DOE Genesis Mission Award for Critical Minerals*) under Section 5 (*National Labs & University Coverage*) in `references.md`.
+- **Master Index Update**: Registered new entry #578 in `reference_coverage.md`. Sequentially shifted and renumbered all subsequent index rows up to #620. Synchronized all summary metrics: Total Reference Links (619 → 620), Unique Target Domains (297 → 298), Web Portals & Press Releases (597 → 598), and 100% Processing Status (620 / 620 Processed, 100% Complete). Section 5 count increased (311 → 312, 50.2% → 50.3%), and registered `www.kent.edu` as a new target domain in Section 3 top domain counts.
+- **Research Paper Enrichment — §3.3 (README.md & README.de.md)**: Enriched §3.3 of both English and German flagship papers with institutional research context from **Kent State Researcher Selected for DOE Genesis Mission Award for Critical Minerals**.
+- **Patch Version Release**: Incremented version strings to `3.6.67` across `README.md` and `README.de.md`.
+
+---
+
+## [3.6.68] - 2026-08-29
+
+### Added
+- **Reference Index Entry #267**: Processed reference link `https://www.energy.gov/technologycommercialization/office-technology-commercialization` (*Office of Technology Commercialization: Department of Energy*) under Section 4 (*Executive, Federal & Partner Announcements*) in `references.md`.
+- **Master Index Update**: Registered new entry #267 in `reference_coverage.md`. Sequentially shifted and renumbered all subsequent index rows up to #621. Synchronized all summary metrics: Total Reference Links (620 → 621), Unique Target Domains (298 → 298), Web Portals & Press Releases (598 → 599), and 100% Processing Status (621 / 621 Processed, 100% Complete). Section 4 count increased (176 → 177, 28.4% → 28.5%), and updated `www.energy.gov` to 50 references in Section 3 top domain counts.
+- **Research Paper Enrichment — §3.4 (README.md & README.de.md)**: Enriched §3.4 of both English and German flagship papers with federal and partner context from **Office of Technology Commercialization: Department of Energy**.
+- **Patch Version Release**: Incremented version strings to `3.6.68` across `README.md` and `README.de.md`.
+
+---
+
+## [3.6.69] - 2026-08-29
+
+### Added
+- **Reference Index Entry #622**: Processed reference link `https://www.boisestate.edu/research/request-for-proposals-rfp/` (*Request for Proposals (RFP)*) under Section 7 (*Technical Documents, RFA Guidance & Official Webinars*) in `references.md`.
+- **Master Index Update**: Registered new entry #622 in `reference_coverage.md`. Sequentially shifted and renumbered all subsequent index rows up to #622. Synchronized all summary metrics: Total Reference Links (621 → 622), Unique Target Domains (298 → 298), Web Portals & Press Releases (599 → 600), and 100% Processing Status (622 / 622 Processed, 100% Complete). Section 7 count increased (20 → 21, 3.2% → 3.4%), and updated `www.boisestate.edu` to 2 references in Section 3 top domain counts.
+- **Research Paper Enrichment — §3.5 (README.md & README.de.md)**: Enriched §3.5 of both English and German flagship papers with technical reference context from **Request for Proposals (RFP)**.
+- **Patch Version Release**: Incremented version strings to `3.6.69` across `README.md` and `README.de.md`.
+
+---
+
+## [3.6.70] - 2026-08-29
+
+### Added
+- **Reference Index Entry #623**: Processed reference link `https://pmc.ncbi.nlm.nih.gov/articles/PMC12183835/` (*Advances in Large-Scale Pre-trained Foundation Models for Scientific Machine Learning*) under Section 7 (*Technical Documents, RFA Guidance & Official Webinars*) in `references.md`.
+- **Master Index Update**: Registered new entry #623 in `reference_coverage.md`. Sequentially shifted and renumbered all subsequent index rows up to #623. Synchronized all summary metrics: Total Reference Links (622 → 623), Unique Target Domains (298 → 298), Web Portals & Press Releases (600 → 601), and 100% Processing Status (623 / 623 Processed, 100% Complete). Section 7 count increased (21 → 22, 3.4% → 3.5%), and updated `pmc.ncbi.nlm.nih.gov` to 2 references in Section 3 top domain counts.
+- **Research Paper Enrichment — §3.5 (README.md & README.de.md)**: Enriched §3.5 of both English and German flagship papers with technical reference context from **Advances in Large-Scale Pre-trained Foundation Models for Scientific Machine Learning**.
+- **Patch Version Release**: Incremented version strings to `3.6.70` across `README.md` and `README.de.md`.
+
+---
+
+## [3.6.71] - 2026-08-29
+
+### Added
+- **Reference Index Entry #580**: Processed reference link `https://news.fnal.gov/2026/08/associate-directors-help-shape-future-of-fermilab/` (*Associate Directors Help Shape the Future of Fermilab*) under Section 5 (*National Labs & University Coverage*) in `references.md`.
+- **Master Index Update**: Registered new entry #580 in `reference_coverage.md`. Sequentially shifted and renumbered all subsequent index rows up to #624. Synchronized all summary metrics: Total Reference Links (623 → 624), Unique Target Domains (298 → 298), Web Portals & Press Releases (601 → 602), and 100% Processing Status (624 / 624 Processed, 100% Complete). Section 5 count increased (312 → 313, 50.1% → 50.2%), and updated `news.fnal.gov` to 14 references in Section 3 top domain counts.
+- **Research Paper Enrichment — §3.2 (README.md & README.de.md)**: Enriched §3.2 of both English and German flagship papers with institutional research context from **Associate Directors Help Shape the Future of Fermilab**.
+- **Patch Version Release**: Incremented version strings to `3.6.71` across `README.md` and `README.de.md`.
+
+---
+
+## [3.6.72] - 2026-08-29
+
+### Added
+- **Reference Index Entry #625**: Processed reference link `https://pubmed.ncbi.nlm.nih.gov/42531401/` (*Foundation Models for Scientific Machine Learning: Advances, Challenges, and Opportunities*) under Section 7 (*Technical Documents, RFA Guidance & Official Webinars*) in `references.md`.
+- **Master Index Update**: Registered new entry #625 in `reference_coverage.md`. Sequentially shifted and renumbered all subsequent index rows up to #625. Synchronized all summary metrics: Total Reference Links (624 → 625), Unique Target Domains (298 → 299), Web Portals & Press Releases (602 → 603), and 100% Processing Status (625 / 625 Processed, 100% Complete). Section 7 count increased (22 → 23, 3.5% → 3.7%), and registered `pubmed.ncbi.nlm.nih.gov` as a new target domain in Section 3 top domain counts.
+- **Research Paper Enrichment — §3.5 (README.md & README.de.md)**: Enriched §3.5 of both English and German flagship papers with technical reference context from **Foundation Models for Scientific Machine Learning: Advances, Challenges, and Opportunities**.
+- **Patch Version Release**: Incremented version strings to `3.6.72` across `README.md` and `README.de.md`.
+
+---
+
+## [3.6.73] - 2026-08-29
+
+### Added
+- **Reference Index Entry #581**: Processed reference link `https://news.wm.edu/2026/07/27/william-mary-receives-doe-genesis-mission-award-to-advance-ai-powered-particle-physics/` (*William & Mary Receives DOE Genesis Mission Award to Advance AI-Powered Particle Physics*) under Section 5 (*National Labs & University Coverage*) in `references.md`.
+- **Master Index Update**: Registered new entry #581 in `reference_coverage.md`. Sequentially shifted and renumbered all subsequent index rows up to #626. Synchronized all summary metrics: Total Reference Links (625 → 626), Unique Target Domains (299 → 300), Web Portals & Press Releases (603 → 604), and 100% Processing Status (626 / 626 Processed, 100% Complete). Section 5 count increased (313 → 314, 50.1% → 50.2%), and registered `news.wm.edu` as a new target domain in Section 3 top domain counts.
+- **Research Paper Enrichment — §3.3 (README.md & README.de.md)**: Enriched §3.3 of both English and German flagship papers with institutional research context from **William & Mary Receives DOE Genesis Mission Award to Advance AI-Powered Particle Physics**.
+- **Patch Version Release**: Incremented version strings to `3.6.73` across `README.md` and `README.de.md`.
+
+---
+
+## [3.6.74] - 2026-08-29
+
+### Added
+- **Reference Index Entry #582**: Processed reference link `https://www.cecs.ucf.edu/ucf-researcher-to-support-doe-project-using-ai-to-accelerate-scientific-discovery/` (*UCF Researcher to Support DOE Project Using AI to Accelerate Scientific Discovery*) under Section 5 (*National Labs & University Coverage*) in `references.md`.
+- **Master Index Update**: Registered new entry #582 in `reference_coverage.md`. Sequentially shifted and renumbered all subsequent index rows up to #627. Synchronized all summary metrics: Total Reference Links (626 → 627), Unique Target Domains (300 → 301), Web Portals & Press Releases (604 → 605), and 100% Processing Status (627 / 627 Processed, 100% Complete). Section 5 count increased (314 → 315, 50.2% → 50.2%), and registered `www.cecs.ucf.edu` as a new target domain in Section 3 top domain counts.
+- **Research Paper Enrichment — §3.3 (README.md & README.de.md)**: Enriched §3.3 of both English and German flagship papers with institutional research context from **UCF Researcher to Support DOE Project Using AI to Accelerate Scientific Discovery**.
+- **Patch Version Release**: Incremented version strings to `3.6.74` across `README.md` and `README.de.md`.
+
+---
+
+## [3.6.75] - 2026-08-29
+
+### Added
+- **Reference Index Entry #583**: Processed reference link `https://ece.ncsu.edu/2026/nc-state-to-lead-three-department-of-energy-genesis-mission-projects/` (*NC State to Lead Three Department of Energy Genesis Mission Projects*) under Section 5 (*National Labs & University Coverage*) in `references.md`.
+- **Master Index Update**: Registered new entry #583 in `reference_coverage.md`. Sequentially shifted and renumbered all subsequent index rows up to #628. Synchronized all summary metrics: Total Reference Links (627 → 628), Unique Target Domains (301 → 302), Web Portals & Press Releases (605 → 606), and 100% Processing Status (628 / 628 Processed, 100% Complete). Section 5 count increased (315 → 316, 50.2% → 50.3%), and registered `ece.ncsu.edu` as a new target domain in Section 3 top domain counts.
+- **Research Paper Enrichment — §3.3 (README.md & README.de.md)**: Enriched §3.3 of both English and German flagship papers with institutional research context from **NC State to Lead Three Department of Energy Genesis Mission Projects**.
+- **Patch Version Release**: Incremented version strings to `3.6.75` across `README.md` and `README.de.md`.
+
+---
+
+## [3.6.76] - 2026-08-29
+
+### Added
+- **Reference Index Entry #606**: Processed reference link `https://www.krellinst.org/csgf/conf/2026/video/spears2026` (*Brian Spears 2026 CSGF Conference Video*) under Section 6 (*Additional Event Materials & Reference Links*) in `references.md`.
+- **Master Index Update**: Registered new entry #606 in `reference_coverage.md`. Sequentially shifted and renumbered all subsequent index rows up to #629. Synchronized all summary metrics: Total Reference Links (628 → 629), Unique Target Domains (302 → 303), Web Portals & Press Releases (606 → 607), and 100% Processing Status (629 / 629 Processed, 100% Complete). Section 6 count increased (22 → 23, 3.5% → 3.7%), and registered `www.krellinst.org` as a new target domain in Section 3 top domain counts.
+- **Research Paper Enrichment — §3.4 (README.md & README.de.md)**: Enriched §3.4 of both English and German flagship papers with supplemental ecosystem context from **Brian Spears 2026 CSGF Conference Video**.
+- **Patch Version Release**: Incremented version strings to `3.6.76` across `README.md` and `README.de.md`.
+
+---
+
+## [3.6.77] - 2026-08-29
+
+### Added
+- **Reference Index Entry #268**: Processed reference link `https://www.energy.gov/person/emma-quigg` (*Emma Quigg: Department of Energy*) under Section 4 (*Executive, Federal & Partner Announcements*) in `references.md`.
+- **Master Index Update**: Registered new entry #268 in `reference_coverage.md`. Sequentially shifted and renumbered all subsequent index rows up to #630. Synchronized all summary metrics: Total Reference Links (629 → 630), Unique Target Domains (303 → 303), Web Portals & Press Releases (607 → 608), and 100% Processing Status (630 / 630 Processed, 100% Complete). Section 4 count increased (177 → 178, 28.1% → 28.3%), and updated `www.energy.gov` to 51 references in Section 3 top domain counts.
+- **Research Paper Enrichment — §3.4 (README.md & README.de.md)**: Enriched §3.4 of both English and German flagship papers with federal and partner context from **Emma Quigg: Department of Energy**.
+- **Patch Version Release**: Incremented version strings to `3.6.77` across `README.md` and `README.de.md`.
+
+---
+
+## [3.6.78] - 2026-08-29
+
+### Added
+- **Reference Index Entry #585**: Processed reference link `https://www.engineering.columbia.edu/about/news/columbia-engineering-faculty-members-awarded-genesis-mission-funding` (*Columbia Engineering Faculty Members Awarded Genesis Mission Funding*) under Section 5 (*National Labs & University Coverage*) in `references.md`.
+- **Master Index Update**: Registered new entry #585 in `reference_coverage.md`. Sequentially shifted and renumbered all subsequent index rows up to #631. Synchronized all summary metrics: Total Reference Links (630 → 631), Unique Target Domains (303 → 304), Web Portals & Press Releases (608 → 609), and 100% Processing Status (631 / 631 Processed, 100% Complete). Section 5 count increased (316 → 317, 50.2% → 50.2%), and registered `www.engineering.columbia.edu` as a new target domain in Section 3 top domain counts.
+- **Research Paper Enrichment — §3.3 (README.md & README.de.md)**: Enriched §3.3 of both English and German flagship papers with institutional research context from **Columbia Engineering Faculty Members Awarded Genesis Mission Funding**.
+- **Patch Version Release**: Incremented version strings to `3.6.78` across `README.md` and `README.de.md`.
+
+---
+
+## [3.6.79] - 2026-08-29
+
+### Added
+- **Reference Index Entry #586**: Processed reference link `https://www.bnl.gov/newsroom/news.php?a=123096` (*New $5M Project To Build Foundation for Next-Generation AI*) under Section 5 (*National Labs & University Coverage*) in `references.md`.
+- **Master Index Update**: Registered new entry #586 in `reference_coverage.md`. Sequentially shifted and renumbered all subsequent index rows up to #632. Synchronized all summary metrics: Total Reference Links (631 → 632), Unique Target Domains (304 → 304), Web Portals & Press Releases (609 → 610), and 100% Processing Status (632 / 632 Processed, 100% Complete). Section 5 count increased (317 → 318, 50.2% → 50.3%), and updated `www.bnl.gov` to 8 references in Section 3 top domain counts.
+- **Research Paper Enrichment — §3.2 (README.md & README.de.md)**: Enriched §3.2 of both English and German flagship papers with institutional research context from **New $5M Project To Build Foundation for Next-Generation AI**.
+- **Patch Version Release**: Incremented version strings to `3.6.79` across `README.md` and `README.de.md`.
+
+---
+
+## [3.6.80] - 2026-08-29
+
+### Added
+- **Reference Index Entry #587**: Processed reference link `https://cec.gmu.edu/news/2026-08/george-mason-computer-scientist-receives-doe-genesis-award-breakthrough-ai-hpc` (*George Mason Computer Scientist Receives DOE Genesis Award for Breakthrough AI-HPC Research*) under Section 5 (*National Labs & University Coverage*) in `references.md`.
+- **Master Index Update**: Registered new entry #587 in `reference_coverage.md`. Sequentially shifted and renumbered all subsequent index rows up to #633. Synchronized all summary metrics: Total Reference Links (632 → 633), Unique Target Domains (304 → 305), Web Portals & Press Releases (610 → 611), and 100% Processing Status (633 / 633 Processed, 100% Complete). Section 5 count increased (318 → 319, 50.3% → 50.4%), and registered `cec.gmu.edu` as a new target domain in Section 3 top domain counts.
+- **Research Paper Enrichment — §3.3 (README.md & README.de.md)**: Enriched §3.3 of both English and German flagship papers with institutional research context from **George Mason Computer Scientist Receives DOE Genesis Award for Breakthrough AI-HPC Research**.
+- **Patch Version Release**: Incremented version strings to `3.6.80` across `README.md` and `README.de.md`.
+
+---
+
+## [3.6.81] - 2026-08-29
+
+### Added
+- **Reference Index Entry #588**: Processed reference link `https://gwtoday.gwu.edu/gw-engineering-professor-receives-department-energy-genesis-mission-award` (*GW Engineering Professor Receives Department of Energy Genesis Mission Award*) under Section 5 (*National Labs & University Coverage*) in `references.md`.
+- **Master Index Update**: Registered new entry #588 in `reference_coverage.md`. Sequentially shifted and renumbered all subsequent index rows up to #634. Synchronized all summary metrics: Total Reference Links (633 → 634), Unique Target Domains (305 → 306), Web Portals & Press Releases (611 → 612), and 100% Processing Status (634 / 634 Processed, 100% Complete). Section 5 count increased (319 → 320, 50.4% → 50.5%), and registered `gwtoday.gwu.edu` as a new target domain in Section 3 top domain counts.
+- **Research Paper Enrichment — §3.3 (README.md & README.de.md)**: Enriched §3.3 of both English and German flagship papers with institutional research context from **GW Engineering Professor Receives Department of Energy Genesis Mission Award**.
+- **Patch Version Release**: Incremented version strings to `3.6.81` across `README.md` and `README.de.md`.
+
+---
+
+## [3.6.82] - 2026-08-29
+
+### Added
+- **Reference Index Entry #589**: Processed reference link `https://www.ece.uw.edu/spotlight/uw-ece-hossein-naghavi-genesis-mission/` (*UW ECE's Hossein Naghavi Receives DOE “Genesis Mission” Award*) under Section 5 (*National Labs & University Coverage*) in `references.md`.
+- **Master Index Update**: Registered new entry #589 in `reference_coverage.md`. Sequentially shifted and renumbered all subsequent index rows up to #635. Synchronized all summary metrics: Total Reference Links (634 → 635), Unique Target Domains (306 → 307), Web Portals & Press Releases (612 → 613), and 100% Processing Status (635 / 635 Processed, 100% Complete). Section 5 count increased (320 → 321, 50.5% → 50.6%), and registered `www.ece.uw.edu` as a new target domain in Section 3 top domain counts.
+- **Research Paper Enrichment — §3.3 (README.md & README.de.md)**: Enriched §3.3 of both English and German flagship papers with institutional research context from **UW ECE's Hossein Naghavi Receives DOE “Genesis Mission” Award**.
+- **Patch Version Release**: Incremented version strings to `3.6.82` across `README.md` and `README.de.md`.
+
+---
+
+## [3.6.83] - 2026-08-29
+
+### Added
+- **Reference Index Entry #590**: Processed reference link `https://sse.tulane.edu/department-energys-genesis-mission-selects-tulane-team-using-ai-discover-next-generation` (*Department of Energy's Genesis Mission Selects Tulane Team Using AI to Discover Next-Generation Materials*) under Section 5 (*National Labs & University Coverage*) in `references.md`.
+- **Master Index Update**: Registered new entry #590 in `reference_coverage.md`. Sequentially shifted and renumbered all subsequent index rows up to #636. Synchronized all summary metrics: Total Reference Links (635 → 636), Unique Target Domains (307 → 308), Web Portals & Press Releases (613 → 614), and 100% Processing Status (636 / 636 Processed, 100% Complete). Section 5 count increased (321 → 322, 50.6% → 50.6%), and registered `sse.tulane.edu` as a new target domain in Section 3 top domain counts.
+- **Research Paper Enrichment — §3.3 (README.md & README.de.md)**: Enriched §3.3 of both English and German flagship papers with institutional research context from **Department of Energy's Genesis Mission Selects Tulane Team Using AI to Discover Next-Generation Materials**.
+- **Patch Version Release**: Incremented version strings to `3.6.83` across `README.md` and `README.de.md`.
+
+---
 
 ## [3.6.19] - 2026-08-29
 
