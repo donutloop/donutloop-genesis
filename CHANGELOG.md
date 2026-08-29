@@ -5,6 +5,14 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.6.34] - 2026-08-29
+
+### Added
+- **Reference Index Entry #587**: Processed Kent State University news link `https://www.kent.edu/today/news/kent-state-researcher-selected-doe-genesis-mission-award-critical-minerals` (*Kent State Researcher Selected for DOE Genesis Mission Award*) under Section 5 (*National Labs & University Coverage*) in `references.md`.
+- **Master Index Update**: Registered new entry #587 in `reference_coverage.md` at the bottom of the table to avoid large renumbering updates. Synchronized all summary metrics: Total Reference Links (586 → 587, correcting stale 585 text in overview and narrative headers), Web Portals & Press Releases (565 → 566), Unique Target Domains (280 → 281), and 100% Processing Status (587 / 587 Processed, 100% Complete). Section 5 count increased (290 → 291, 49.5% → 49.6%). Added `www.kent.edu` top domain count of 1.
+- **Coverage Matrix Update**: Added `Kent State University` as a new reference-only partner to `coverage.md` under Research Universities. Updated total entity counts (213 → 214) and "Not Covered" metrics (25 → 26, 11.7% → 12.1%) across all summary tables and notes.
+- **Research Paper Enrichment — §3.3 & Appendix A.5 (README.md & README.de.md)**: Enriched Appendix A.5 table and the materials co-design thematic cluster under §3.3 of both English and German flagship papers with technical and strategic insights on Kent State's AI-driven probabilistic source mapping of critical minerals (copper, cobalt, manganese) based on continental water-quality data. Bumped version string to `3.6.34` across `README.md` and `README.de.md`.
+
 ## [3.6.33] - 2026-08-29
 
 ### Added
