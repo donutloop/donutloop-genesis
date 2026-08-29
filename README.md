@@ -1114,7 +1114,7 @@ Over 60 research universities receive competitive project awards under DE-FOA-00
 | [University of Nebraska–Lincoln (UNL)](https://www.unl.edu/about/) | AI-driven "autopilot" co-designer for 6G Radio Access Networks (RAN), BNL & HPE partnership |
 | [University of New Mexico](https://www.unm.edu/about/) | Quantum information science, optics fabrication & Sandia/Los Alamos national lab co-R&D |
 | [University of Nevada, Las Vegas (UNLV)](https://www.unlv.edu/) | $750K Phase I AI automation for MELCOR severe-accident reactor safety simulations (Prof. WooHyun Jung) |
-| [University of North Dakota (UND)](https://und.edu/about/) | 2 Genesis awards: rare earth mineral extraction from coal ash & autonomous energy AI; leads collaborative EV battery management system (BMS) adversarial AI robustness framework (w/ La Sierra, UW-Madison, and Clean Republic SODO, LLC) |
+| [University of North Dakota (UND)](https://und.edu/about/) | 3 Genesis awards: rare earth mineral extraction from coal ash, autonomous energy AI, and electric vehicle BMS adversarial robustness (partnering with La Sierra University, UW-Madison, and Clean Republic SODO, LLC) |
 | [University of Pittsburgh](https://www.pitt.edu/about) | Computational drug discovery foundation models, vascular bio-foundries & SciML |
 | [University of Southern California (USC)](https://about.usc.edu/) | Quantum annealing algorithms, microelectronics reliability & autonomous AI agents |
 | [University of Texas at Arlington (UTA)](https://www.uta.edu/about) | Real-time AI trust & resilience for EPICS scientific control systems & LANL partner |
