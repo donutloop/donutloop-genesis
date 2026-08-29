@@ -5,6 +5,17 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.6.16] - 2026-08-29
+
+### Added
+- **Reference Index Entry #20**: Processed Cosylab's official news announcement link `https://cosylab.com/news/genesis-mission-phase1-project/` (*Cosylab selected for U.S. Department of Energy's Genesis Mission*) under Section 2 (*Collaborators*) in `references.md`.
+- **Master Index Update**: Registered new entry #20 in `reference_coverage.md`. Sequentially shifted and renumbered all subsequent index rows up to #569. Synchronized all summary metrics: Total Reference Links (568 → 569), Unique Target Domains (272 → 273), Web Portals & Press Releases (547 → 548), and 100% Processing Status (569 / 569 Processed, 100% Complete). Section 2 count increased (75 → 76, 13.2% → 13.4%), and registered `cosylab.com` as a new target domain.
+- **Ecosystem Coverage Sync**: Registered `Cosylab` as a reference-only entity in `coverage.md` at Row 71, shifting subsequent row IDs and updating metrics (Total Entities 202 → 203, Full Profile coverage 93.1% → 92.6%).
+- **Research Paper Enrichment — §3.2 (README.md & README.de.md)**: Enriched the Brookhaven National Laboratory (BNL) section of both English and German flagship papers with technical and strategic details of the Kevin Brown-led Phase I project **"AI-Driven, Self-Learning Digital Twins for Robust Operation of Particle Accelerators"**, highlighting BNL's partnership with Jefferson Lab, Cornell, RPI, RadiaSoft, and Cosylab to develop uncertainty-aware self-learning accelerator digital twins.
+- **Patch Version Release**: Incremented version strings to `3.6.16` across `README.md` and `README.de.md`.
+
+---
+
 ## [3.6.15] - 2026-08-29
 
 ### Added
