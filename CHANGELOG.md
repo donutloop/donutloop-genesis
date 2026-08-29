@@ -5,6 +5,16 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.6.23] - 2026-08-29
+
+### Added
+- **Reference Index Entry #472**: Processed UCSD today link `https://today.ucsd.edu/story/national-data-platform-receives-nsf-category-i-award-to-expand-ai-ready-data-infrastructure-for-u.s` (*National Data Platform Receives NSF Category I Award to Expand AI-Ready Data Infrastructure for U.S.*) under Section 5 (*National Labs & University Coverage*) in `references.md`.
+- **Master Index Update**: Registered new entry #472 in `reference_coverage.md` and sequentially renumbered downstream index rows #472 to #575 (shifting them to #473 to #576). Synchronized all summary metrics: Total Reference Links (575 → 576), Unique Target Domains (274 → 275), Web Portals & Press Releases (554 → 555), and 100% Processing Status (576 / 576 Processed, 100% Complete). Section 5 count increased (281 → 282, 48.9% → 49.0%). Added `today.ucsd.edu` count of 1 in Section 3 top domain counts.
+- **Research Paper Enrichment — §3.3 (README.md & README.de.md)**: Enriched the National Data Platform (NDP) and University of Utah / UC San Diego section of both English and German flagship papers with the $24.5M NSF Category I Cooperative Agreement under the Integrated Data Systems and Services (IDSS) program. Highlighted integration with established cyberinfrastructure such as TACC, CloudBank, NRP, Tapis, and MGHPCC.
+- **Patch Version Release**: Incremented version strings to `3.6.23` across `README.md` and `README.de.md`.
+
+---
+
 ## [3.6.22] - 2026-08-29
 
 ### Added
