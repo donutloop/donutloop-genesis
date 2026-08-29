@@ -610,6 +610,7 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
   * [White House Launches Genesis Mission for AI (Federal Relations)](https://www.washington.edu/federalrelations/2025/11/25/wh-launches-genesis-mission-for-ai/)
   * [UW ECE-led project selected for Department of Energy’s Genesis Mission](https://www.ece.uw.edu/spotlight/uw-ece-hossein-naghavi-genesis-mission/)
 * **George Mason University:** [Computer Scientist Receives DOE Genesis Award for Breakthrough AI-HPC Research](https://www.gmu.edu/news/2026-08/george-mason-computer-scientist-receives-doe-genesis-award-breakthrough-ai-hpc)
+* **George Washington University:** [GW Engineering Professor Receives Department of Energy Genesis Mission Award](https://gwtoday.gwu.edu/gw-engineering-professor-receives-department-energy-genesis-mission-award) - Michael Keidar received an inaugural DOE Genesis Mission Award to apply AI and low-temperature plasmas (LTPs) for adaptive, real-time personalized biomedical treatments and satellite propulsion.
 * **The Ohio State University:** [Ohio State Researchers to Lead National Teams Exploring Science, AI Innovation](https://news.osu.edu/ohio-state-researchers-to-lead-national-teams-exploring-science-ai-innovation/)
 * **Oklahoma State University:** [Selected for U.S. Department of Energy's Genesis Mission Initiative](https://news.okstate.edu/articles/engineering-architecture-technology/2026/oklahoma-state-university-selected-for-u.s.-department-of-energys-genesis-mission-initiative)
 * **University of Wisconsin–Madison:**
