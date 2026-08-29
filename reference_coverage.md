@@ -1,7 +1,7 @@
 # Genesis Mission — Master Reference Coverage Report
 
 > **Document Overview:**
-> This report provides a comprehensive coverage analysis, breakdown, and master audit index for the **607 external reference links** compiled within `references.md` for the **Genesis Mission** documentation repository.
+> This report provides a comprehensive coverage analysis, breakdown, and master audit index for the **608 external reference links** compiled within `references.md` for the **Genesis Mission** documentation repository.
 
 ---
 
@@ -9,13 +9,13 @@
 
 | Metric | Count / Value | Description |
 | :--- | :--- | :--- |
-| **Total Reference Links** | **607** | Unique external links indexed across all sections |
+| **Total Reference Links** | **608** | Unique external links indexed across all sections |
 | **Primary Document Sections** | **7** | High-level thematic categories in `references.md` |
 | **Unique Target Domains** | **291** | Distinct domain names referenced (government, lab, corporate, academic, news) |
 | **Official PDF Documents** | **22** | Formal RFA solicitations, webinars, slides, and executive reports |
-| **Web Portals & Press Releases** | **585** | Newsroom features, corporate blog posts, and interactive hubs |
+| **Web Portals & Press Releases** | **586** | Newsroom features, corporate blog posts, and interactive hubs |
 | **Validation Status** | **100% Validated** | All links canonicalized, formatted, and deduplicated |
-| **Processing Status** | **607 / 607 Processed** | 0 Unprocessed, 607 Processed (100% Complete) |
+| **Processing Status** | **608 / 608 Processed** | 0 Unprocessed, 608 Processed (100% Complete) |
 
 ---
 
@@ -26,8 +26,8 @@
 | `1. Key Presentation Details` | **3** | 0.5% | Briefing agendas, U.S. ATLAS IB meeting details & CERN links |
 | `2. Collaborators` | **77** | 12.7% | Official homepage & announcement links for industrial/energy partners |
 | `3. Quantum Leadership & CHIPS Act Initiatives` | **11** | 1.8% | Department of Commerce NIST LOIs & DOE $2B quantum initiatives |
-| `4. Executive, Federal & Partner Announcements` | **171** | 28.2% | White House releases, Cabinet agency press, hyperscaler & lab announcements |
-| `5. National Labs & University Coverage` | **308** | 50.7% | National Laboratory news portals & 72 awardee university press releases |
+| `4. Executive, Federal & Partner Announcements` | **171** | 28.1% | White House releases, Cabinet agency press, hyperscaler & lab announcements |
+| `5. National Labs & University Coverage` | **309** | 50.8% | National Laboratory news portals & 72 awardee university press releases |
 | `6. Additional Event Materials & Reference Links` | **18** | 3.0% | Presentation slide decks, institutional intro files & video recordings |
 | `7. Technical Documents, RFA Guidance & Official Webinars` | **19** | 3.1% | DE-FOA-0003612 solicitations, OSTP challenge papers, SCAC presentations & peer-reviewed AI-for-science research |
 
@@ -115,12 +115,13 @@ Below is the distribution of references grouped by top domain hosts and institut
 | `doresearch.stanford.edu` | **1** | Stanford University Research Office | Stanford Research Development Office guidelines, resources, and institutional support tools for major federal funding programs |
 | `www.rti.org` | **2** | RTI International | Administers the Genesis Mission Consortium via TechWerx, and research teams selected for DOE Genesis Mission |
 | `www.pnnl.gov` | **6** | Pacific Northwest National Laboratory (PNNL) | Official project portal, news media, biotechnology, grid operations, nuclear science, and Phase I projects |
+| `news.arizona.edu` | **3** | University Newsroom | University of Arizona Genesis Mission awards, advisory committee appointment, and Suresh Garimella's congressional funding call |
 
 ---
 
 ## 4. Master Reference Link Index
 
-A tabular master index for the 606-reference collection:
+A tabular master index for the 608-reference collection:
 
 | Category / Section | Entity / Subject | Title | Domain | Type | Link | Status |
 |---|---|---|---|:---:|---|:---:|
@@ -731,4 +732,5 @@ A tabular master index for the 606-reference collection:
 | 5. National Labs & University Coverage | Pacific Northwest National Laboratory (PNNL) | Genesis Mission Phase 1 Projects | `www.pnnl.gov` | Web | [Genesis Mission Phase 1 Projects](https://www.pnnl.gov/projects/genesis-mission/phase-1-projects) | `Processed` |
 | 5. National Labs & University Coverage | UC San Diego (UCSD) | UC San Diego Receives Department of Energy Genesis Mission Award to Fund New Scientific AI Tools | `today.ucsd.edu` | Web | [UC San Diego Receives Department of Energy Genesis Mission Award to Fund New Scientific AI Tools](https://today.ucsd.edu/story/genesis-mission-to-fund-new-scientific-ai-tools) | `Processed` |
 | 7. Technical Documents, RFA Guidance & Official Webinars | - | DOE Office of Science: Biological and Environmental Research (BER) 26 Genesis Awards Flyer (PDF) | `science.osti.gov` | PDF | [DOE Office of Science: Biological and Environmental Research (BER) 26 Genesis Awards Flyer (PDF)](https://science.osti.gov/-/media/ber/pdf/News-and-Resources/26-Genesis-Awards-Flyer_0820.pdf) | `Processed` |
+| 5. National Labs & University Coverage | Universities & Research Institutions | Opinion: An AI Agent Just Broke Containment. Congress Needs a $3 Billion Response | `news.arizona.edu` | Web | [Opinion: An AI Agent Just Broke Containment. Congress Needs a $3 Billion Response](https://news.arizona.edu/news/opinion-ai-agent-just-broke-containment-congress-needs-3-billion-response) | `Processed` |
 
