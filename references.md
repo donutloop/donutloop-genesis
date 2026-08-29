@@ -646,6 +646,7 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
 * **NVIDIA GTC 2026:** [Science at the Speed of Light: The Genesis Mission Across DOE Labs (Brian Spears & Rick Stevens)](https://www.nvidia.com/en-us/on-demand/session/gtc26-s82461/)
 * **NVIDIA GTC 2026:** [Accelerating Scientific Discovery Through Global Innovation (Dr. Darío Gil & Ian Buck)](https://www.nvidia.com/en-us/on-demand/session/gtc26-s82438/)
 * **National Laboratory of the Rockies (NREL):** [12 Genesis Awards, One Membrane Center, and 5 Emerging Aviation Fuels](https://www.youtube.com/watch?v=Hw_mpJwmT1o)
+* **DOE CSGF Annual Program Review:** [The Genesis Mission: Nation-Scale AI and the Future of Scientific Work (Brian Spears, LLNL)](https://www.krellinst.org/csgf/conf/2026/video/spears2026)
 
 ## 7. Technical Documents, RFA Guidance & Official Webinars
 * [U.S. Department of Energy: Genesis Mission RFI Analysis (PDF)](https://www.energy.gov/sites/default/files/2026-07/Genesis-Mission-RFI-Analysis.pdf)
