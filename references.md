@@ -526,6 +526,7 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
 * **Princeton University:**
   * [Researchers Awarded Grants to Lead AI Projects](https://www.princeton.edu/news/2026/07/22/princeton-researchers-awarded-genesis-mission-grants-department-energy-accelerate)
   * [Princeton Researchers Awarded Genesis Mission Grants](https://research.princeton.edu/news/princeton-researchers-awarded-genesis-mission-grants-department-energy-accelerate-ai-use-0)
+  * [DOE and Princeton University Extend, Strengthen Partnership](https://www.princeton.edu/news/2026/08/24/doe-and-princeton-university-extend-strengthen-partnership)
 * **Purdue University:**
   * [2 Purdue AI Research Projects Selected Among the First Genesis Mission Awards](https://www.purdue.edu/newsroom/2026/Q3/2-purdue-ai-research-projects-selected-among-the-first-genesis-mission-awards/)
   * [Purdue Pilots B2D7 — Bachelor’s to Doctorate in 7 Years — to Enhance U.S. Research Talent Pipeline](https://www.purdue.edu/newsroom/2026/Q1/purdue-pilots-b2d7-bachelors-to-doctorate-in-7-years-to-enhance-u-s-research-talent-pipeline/)

@@ -5,6 +5,16 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.6.61] - 2026-08-29
+
+### Added
+- **Reference Index Entry #613**: Processed `https://www.princeton.edu/news/2026/08/24/doe-and-princeton-university-extend-strengthen-partnership` (*DOE and Princeton University Extend, Strengthen Partnership*, host domain `www.princeton.edu`) under Section 5 (*National Labs & University Coverage — Princeton University*) in `references.md`.
+- **Master Index Update**: Registered new entry #613 at the bottom of the Section 4 Master Reference Link Index table in `reference_coverage.md`. Synchronized all summary metrics: Total Reference Links (612 → 613), Web Portals & Press Releases (590 → 591), and Processing Status (**613 / 613 Processed, 100% Complete**). Section 5 count increased (312 → 313, 51.0% → 51.1%), and the host `www.princeton.edu` was registered in the Section 3 top domain table with a count of 2. Unique Target Domains remain 294 (no new host introduced).
+- **Coverage Matrix Audit**: No changes required in `coverage.md` — both entities named in the reference (Princeton University, Princeton Plasma Physics Laboratory) are already registered with "✅ Full Profile" status.
+
+### Changed
+- **Research Paper Enrichment — §3.2 & Appendix A.2/A.5 (README.md & README.de.md)**: Added a *DOE–Princeton Contract Extension (August 2026)* entry to the PPPL profile in §3.2 of both the English and German flagship papers, documenting the renewal of Princeton's contract to manage and operate PPPL on the Forrestal Campus (**five-year extension beginning April 1, 2027**, continuing a relationship dating to the laboratory's founding in **1951**), the funded investments (expanded Princeton faculty collaboration, planning for a **next-generation fusion energy research facility**, infrastructure and safety system upgrades), the portfolio expansion beyond plasma and fusion into **microelectronics, quantum computing, and artificial intelligence**, the partnership channels (DOE **INFUSE**, **Milestone-Based Fusion Development** program, plasma technology commercialization), and PPPL's Genesis Mission role applying AI and high-performance computing to fusion research on **NSTX-U**. Updated the Appendix A.2 national laboratory and Appendix A.5 university table rows and bumped the version string to `3.6.61` across `README.md` and `README.de.md`.
+
 ## [3.6.60] - 2026-08-29
 
 ### Added
