@@ -497,6 +497,7 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
   * [Scientists to Lead Three Projects](https://www.psu.edu/news/research/story/penn-state-scientists-lead-three-genesis-mission-projects)
   * [Penn State Engineering Genesis Mission Projects](https://news.engr.psu.edu/2026/coe-genesis-mission-projects-2026.aspx)
   * [DOE Genesis Mission: Transforming Science and Energy with AI (DE-FOA-0003612)](https://researchsupport.psu.edu/limited-submission/doe-genesis-mission-transforming-science-and-energy-with-ai-de-foa-0003612/)
+  * [Penn State awarded $20M to lead an NSF ‘programmable cloud laboratory’](https://www.psu.edu/news/research/story/penn-state-awarded-20m-lead-nsf-programmable-cloud-laboratory)
 * **Princeton University:**
   * [Researchers Awarded Grants to Lead AI Projects](https://www.princeton.edu/news/2026/07/22/princeton-researchers-awarded-genesis-mission-grants-department-energy-accelerate)
   * [Princeton Researchers Awarded Genesis Mission Grants](https://research.princeton.edu/news/princeton-researchers-awarded-genesis-mission-grants-department-energy-accelerate-ai-use-0)
