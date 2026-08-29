@@ -5,6 +5,14 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.6.57] - 2026-08-29
+
+### Added
+- **Reference Index Entry #610**: Processed `https://www.vtcrc.com/aclara-technologies-selected-for-doe-federal-funding-to-advance-ai-driven-heavy-rare-earth-processing/` (*Aclara Technologies Selected for DOE Federal Funding to Advance AI-Driven Heavy Rare Earth Processing*) under Section 4 (*Executive, Federal & Partner Announcements*) in `references.md`.
+- **Master Index Update**: Registered new entry #610 in `reference_coverage.md` at the bottom of the Section 4 Master Reference Link Index table (categorized under Section 4). Synchronized all summary metrics: Total Reference Links (609 → 610), Unique Target Domains (292 → 293), Web Portals & Press Releases (587 → 588), and 100% Processing Status (610 / 610 Processed, 100% Complete). Section 4 count increased (171 → 172, 28.1% → 28.2%), and Section 2 shares updated. Registered top domain host `www.vtcrc.com` in Section 3 (Top Domain table) with an updated count of 1.
+- **Coverage Matrix Update**: Added new entity `Aclara Technologies` under the `Energy, Utilities & Critical Materials` section of `coverage.md` as "Not Covered" (reference only). Synchronized all summary metrics: Total Consortium Entities (222 → 223), Industry Partners (86 → 87), and Not Covered (34 → 35).
+- **Research Paper Enrichment — §3.1 & Appendix (README.md & README.de.md)**: Enriched both English and German flagship papers with Aclara Technologies' DOE Genesis Mission Phase I project, titled "AI-Enabled Process Optimization for Multi-Feed Rare Earth Separation". Detailed the development of an AI-assisted digital twin to optimize heavy rare earth extraction, utilizing operating data from Aclara's pilot plant at Virginia Tech and advanced process simulation capabilities from Argonne National Laboratory to enhance recovery, increase purity, and reduce operator intervention. Bumped version string to `3.6.57` across `README.md` and `README.de.md`.
+
 ## [3.6.56] - 2026-08-29
 
 ### Added
