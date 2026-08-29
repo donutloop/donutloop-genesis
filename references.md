@@ -280,6 +280,7 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
 * [The American Presidency Project: White House Press Release — President Trump Launches the Genesis Mission to Accelerate AI for Science](https://www.presidency.ucsb.edu/documents/white-house-press-release-president-trump-launches-the-genesis-mission-accelerate-ai-for)
 * [Fusion Industry Association (FIA): FIA Urges U.S. DOE to Match Its Fusion Ambition With Strong FY28 Federal Budget](https://www.fusionindustryassociation.org/fia-urges-u-s-doe-to-match-its-fusion-ambition-with-strong-fy28-federal-budget/)
 * [DOE Office of Nuclear Energy: One Year After Executive Orders, U.S. Nuclear Energy Renaissance Is in Full Swing](https://www.energy.gov/ne/articles/one-year-after-executive-orders-us-nuclear-energy-renaissance-full-swing)
+* [Rescale](https://rescale.com/): [Rescale Selected from Record 8,000 Applicants for DOE Genesis Mission to Reduce Engineering Time Fivefold](https://fenado.ai/articles/rescale-selected-from-record-8000-applicants-for-doe-genesis-mission-to-reduce-engineering-time-fivefold) - Selected for funding under the U.S. Department of Energy's (DOE) Genesis Mission as part of the Agentic HPC Pipeline Initiative (AHPI) in partnership with Lawrence Berkeley National Laboratory, Lawrence Livermore National Laboratory, and Oak Ridge National Laboratory to deploy agentic AI on its digital engineering platform, aiming to reduce simulation configuration and execution times fivefold.
   
 ---
 
