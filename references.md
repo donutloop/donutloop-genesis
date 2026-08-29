@@ -530,7 +530,9 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
   * [Selected for Two U.S. Department of Energy Genesis Mission Projects](https://news.rpi.edu/2026/07/31/rpi-selected-two-us-department-energy-genesis-mission-projects)
   * [RPI President Schmidt Appointed to DOE Advisory Committee](https://news.rpi.edu/2026/02/09/rpi-president-schmidt-appointed-doe-advisory-committee)
 * **Rice University:** [Researchers Earn 2 Awards](https://news.rice.edu/news/2026/rice-researchers-earn-2-doe-genesis-mission-awards)
-* **RTI International:** [Research Teams Selected for DOE Genesis Mission](https://www.rti.org/news/doe-genesis-mission-research-teams)
+* **RTI International:**
+  * [Research Teams Selected for DOE Genesis Mission](https://www.rti.org/news/doe-genesis-mission-research-teams)
+  * [DOE Partners with RTI to Launch Genesis Mission Consortium](https://www.rti.org/news/doe-genesis-mission-consortium-techwerx)
 * **Stanford University:**
   * [Jennifer Cochran is the New Stanford Vice President for SLAC and for Strategic Initiatives](https://news.stanford.edu/stories/2026/06/jennifer-cochran-vice-president-slac-strategic-initiatives)
   * [Stanford University: Genesis Mission AI Research Initiatives](https://news.stanford.edu/stories/2026/08/stanford-genesis-mission-ai-initiatives)

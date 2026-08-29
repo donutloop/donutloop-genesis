@@ -5,6 +5,14 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.6.51] - 2026-08-29
+
+### Added
+- **Reference Index Entry #604**: Processed `https://www.rti.org/news/doe-genesis-mission-consortium-techwerx` (*DOE Partners with RTI to Launch Genesis Mission Consortium*) under Section 5 (*National Labs & University Coverage*) in `references.md`.
+- **Master Index Update**: Registered new entry #604 in `reference_coverage.md` at the bottom of Section 4 table. Synchronized all summary metrics: Total Reference Links (603 → 604), Web Portals & Press Releases (582 → 583), and 100% Processing Status (604 / 604 Processed, 100% Complete). Section 5 count increased (305 → 306, 50.6% → 50.7%). Registered top domain host `www.rti.org` in Section 3 (Top Domain table) with an updated count of 2.
+- **Coverage Matrix Update**: No new entities were introduced to `coverage.md` as RTI International is already fully profiled.
+- **Research Paper Enrichment — §3.5 (README.md & README.de.md)**: Enriched both English and German flagship papers with detailed strategic insights on the launch of the Genesis Mission Consortium, administered by TechWerx (managed by RTI International). Highlighted how the initiative mobilizes national research assets to solve grand challenges in energy, science, and national security through collaborative, public-private teaming. Bumped version string to `3.6.51` across `README.md` and `README.de.md`.
+
 ## [3.6.50] - 2026-08-29
 
 ### Added
