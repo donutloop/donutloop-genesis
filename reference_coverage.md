@@ -1,7 +1,7 @@
 # Genesis Mission — Master Reference Coverage Report
 
 > **Document Overview:**
-> This report provides a comprehensive coverage analysis, breakdown, and master audit index for the **579 external reference links** compiled within `references.md` for the **Genesis Mission** documentation repository.
+> This report provides a comprehensive coverage analysis, breakdown, and master audit index for the **580 external reference links** compiled within `references.md` for the **Genesis Mission** documentation repository.
 
 ---
 
@@ -9,13 +9,13 @@
 
 | Metric | Count / Value | Description |
 | :--- | :--- | :--- |
-| **Total Reference Links** | **579** | Unique external links indexed across all sections |
+| **Total Reference Links** | **580** | Unique external links indexed across all sections |
 | **Primary Document Sections** | **7** | High-level thematic categories in `references.md` |
 | **Unique Target Domains** | **276** | Distinct domain names referenced (government, lab, corporate, academic, news) |
 | **Official PDF Documents** | **21** | Formal RFA solicitations, webinars, slides, and executive reports |
-| **Web Portals & Press Releases** | **558** | Newsroom features, corporate blog posts, and interactive hubs |
+| **Web Portals & Press Releases** | **559** | Newsroom features, corporate blog posts, and interactive hubs |
 | **Validation Status** | **100% Validated** | All links canonicalized, formatted, and deduplicated |
-| **Processing Status** | **579 / 579 Processed** | 0 Unprocessed, 579 Processed (100% Complete) |
+| **Processing Status** | **580 / 580 Processed** | 0 Unprocessed, 580 Processed (100% Complete) |
 
 ---
 
@@ -26,8 +26,8 @@
 | `1. Key Presentation Details` | **3** | 0.5% | Briefing agendas, U.S. ATLAS IB meeting details & CERN links |
 | `2. Collaborators` | **76** | 13.1% | Official homepage & announcement links for industrial/energy partners |
 | `3. Quantum Leadership & CHIPS Act Initiatives` | **11** | 1.9% | Department of Commerce NIST LOIs & DOE $2B quantum initiatives |
-| `4. Executive, Federal & Partner Announcements` | **169** | 29.2% | White House releases, Cabinet agency press, hyperscaler & lab announcements |
-| `5. National Labs & University Coverage` | **285** | 49.2% | National Laboratory news portals & 70 awardee university press releases |
+| `4. Executive, Federal & Partner Announcements` | **169** | 29.1% | White House releases, Cabinet agency press, hyperscaler & lab announcements |
+| `5. National Labs & University Coverage` | **286** | 49.3% | National Laboratory news portals & 70 awardee university press releases |
 | `6. Additional Event Materials & Reference Links` | **17** | 2.9% | Presentation slide decks, institutional intro files & video recordings |
 | `7. Technical Documents, RFA Guidance & Official Webinars` | **18** | 3.1% | DE-FOA-0003612 solicitations, OSTP challenge papers, SCAC presentations & peer-reviewed AI-for-science research |
 
@@ -56,7 +56,7 @@ Below is the distribution of references grouped by top domain hosts and institut
 | `aws.amazon.com` | **4** | Amazon Web Services (AWS) | Public sector HPC credits, quantum post-quantum security |
 | `cloud.google.com` | **3** | Google Cloud | Genesis Mission support and AlphaEvolve evolutionary code optimization |
 | `www.youtube.com` | **6** | YouTube | Genesis Mission summit, technical presentation, webinar, and national-laboratory video recordings |
-| `www.bnl.gov` | **7** | Brookhaven National Laboratory (BNL) | C2QA quantum advantage center, NSLS-II beamlines, uncertainty-guided molecular design, Quantum Technology Outposts at EIC, and seven Phase I project leads |
+| `www.bnl.gov` | **8** | Brookhaven National Laboratory (BNL) | C2QA quantum advantage center, NSLS-II beamlines, uncertainty-guided molecular design, Quantum Technology Outposts at EIC, seven Phase I project leads, and 13-mile wireless free-space quantum network link (with Stony Brook University) |
 | `www.pppl.gov` | **5** | Princeton Plasma Physics Lab (PPPL) | Stellarator optimization, fusion plasma turbulence AI |
 | `indico.cern.ch` | **3** | CERN Indico Event System | U.S. ATLAS IB meeting slides, DOE-HEP presentation files |
 | `atom-computing.com` | **4** | Atom Computing | Neutral-atom quantum computing hardware, Commerce LOI |
@@ -685,3 +685,4 @@ A tabular master index for the 579-reference collection:
 | 7. Technical Documents, RFA Guidance & Official Webinars | Generative Closed-Loop AI | The Future of Fundamental Science Led by Generative Closed-Loop Artificial Intelligence | `pmc.ncbi.nlm.nih.gov` | Web | [The Future of Fundamental Science Led by Generative Closed-Loop Artificial Intelligence](https://pmc.ncbi.nlm.nih.gov/articles/PMC12932417/) | `Processed` |
 | 7. Technical Documents, RFA Guidance & Official Webinars | U.S. Department of Energy (DOE) | GEAR: Genesis Education and Resources | `gear.doe.gov` | Web | [GEAR: Genesis Education and Resources](https://gear.doe.gov/) | `Processed` |
 | 7. Technical Documents, RFA Guidance & Official Webinars | SciDAC | SciDAC: Scientific Discovery through Advanced Computing Institutes | `www.scidac.gov` | Web | [SciDAC: Scientific Discovery through Advanced Computing Institutes](https://www.scidac.gov/institutes.html) | `Processed` |
+| 5. National Labs & University Coverage | Brookhaven National Laboratory (BNL) | Brookhaven and Stony Brook Researchers Demonstrate 'Wireless' Capability for Quantum Network | `www.bnl.gov` | Web | [Brookhaven and Stony Brook Researchers Demonstrate 'Wireless' Capability for Quantum Network](https://www.bnl.gov/newsroom/news.php?a=123096) | `Processed` |
