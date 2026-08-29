@@ -5,6 +5,14 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.6.53] - 2026-08-29
+
+### Added
+- **Reference Index Entry #606**: Processed `https://today.ucsd.edu/story/genesis-mission-to-fund-new-scientific-ai-tools` (*UC San Diego Receives Department of Energy Genesis Mission Award to Fund New Scientific AI Tools*) under Section 5 (*National Labs & University Coverage*) in `references.md`.
+- **Master Index Update**: Registered new entry #606 in `reference_coverage.md` at the bottom of the Section 4 Master Reference Link Index table (categorized under Section 5). Synchronized all summary metrics: Total Reference Links (605 → 606), Web Portals & Press Releases (584 → 585), and 100% Processing Status (606 / 606 Processed, 100% Complete). Section 5 count increased (307 → 308, 50.7% → 50.8%). Registered top domain host `today.ucsd.edu` in Section 3 (Top Domain table) with an updated count of 2.
+- **Coverage Matrix Update**: Added new entity `EdenCode` under the `Frontier AI & Data Platforms` section of `coverage.md` as "Not Covered" (reference only). Synchronized all summary metrics: Total Consortium Entities (221 → 222), Industry Partners (85 → 86), and Not Covered (33 → 34).
+- **Research Paper Enrichment — §3.3 & Appendix (README.md & README.de.md)**: Enriched both English and German flagship papers with UC San Diego's Department of Energy Genesis Mission Award details, specifically focusing on the SIDERIUS project (led by Assistant Professor Aobo Li, with Co-PI Prof. Yi-Zhuang You and subawardee AI company EdenCode founded by You and Dr. Wanda Hou) to develop an AI scientist agent designed to analyze data, design AI models, and deploy them on specialized chips for fundamental physics and quantum computing. Also highlighted UCSD's co-PI participation in four additional projects across CERN's LHC data analysis, optical simulations, and rare-decay event search. Bumped version string to `3.6.53` across `README.md` and `README.de.md`.
+
 ## [3.6.52] - 2026-08-29
 
 ### Added

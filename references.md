@@ -554,6 +554,7 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
   * [DOE Genesis Award Recipients](https://research.ucdavis.edu/doe-genesis-award-recipients/)
 * **UC San Diego (UCSD):**
   * [National Data Platform Receives NSF Category I Award to Expand AI-Ready Data Infrastructure for U.S.](https://today.ucsd.edu/story/national-data-platform-receives-nsf-category-i-award-to-expand-ai-ready-data-infrastructure-for-u.s)
+  * [UC San Diego Receives Department of Energy Genesis Mission Award to Fund New Scientific AI Tools](https://today.ucsd.edu/story/genesis-mission-to-fund-new-scientific-ai-tools)
 * **UC Santa Barbara (UCSB):**
   * [Two UCSB-Led Projects Selected for DOE's Genesis Mission](https://news.ucsb.edu/2026/022708/two-ucsb-led-projects-selected-does-genesis-mission)
   * [Chemists Justin Wilson and Yang Yang Join DOE's Genesis Mission](https://science.ucsb.edu/news/chemists-justin-wilson-and-yang-yang-join-does-genesis-mission)
