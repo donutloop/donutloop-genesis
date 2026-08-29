@@ -366,6 +366,7 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
   * [DUNE Uses AI to Transform the Future of Neutrino Research](https://news.fnal.gov/2026/08/dune-uses-ai-to-transform-the-future-of-neutrino-research/)
   * [Predicting Microelectronics Performance with Physics-Informed Artificial Intelligence (Newswise)](https://www.newswise.com/doescience/predicting-microelectronics-performance-with-physics-informed-artificial-intelligence)
   * [Fermilab News Portal: Tag Archive for DOE Genesis Mission Projects](https://news.fnal.gov/tag/genesis-mission/)
+  * [Associate Lab Directors Help Shape Future of Fermilab](https://news.fnal.gov/2026/08/associate-directors-help-shape-future-of-fermilab/)
 * **Idaho National Laboratory (INL):** 
   * [Accelerating Nuclear Energy Deployment with NVIDIA AI](https://inl.gov/news-release/idaho-national-laboratory-to-accelerate-nuclear-energy-deployment-with-nvidia-ai-through-the-genesis-mission/)
   * [Genesis Mission Funds AI Innovation for Nuclear Energy](https://inl.gov/news-release/genesis-mission-funds-ai-innovation-to-speed-up-safe-affordable-nuclear-energy/)
