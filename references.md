@@ -477,6 +477,7 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
   * [Helps Advance Genesis Mission National Effort (Newswise)](https://www.newswise.com/articles/georgia-tech-helps-advance-genesis-mission-a-national-effort-to-transform-scientific-discovery-through-ai)
 * **Heidelberg University:**
   * [European AI for Fundamental Physics Conference (EuCAIFCon 2026) — Hunting for TREASURE in HEP Collider Data (PDF)](https://indico.physi.uni-heidelberg.de/event/1277/contributions/4123/attachments/2096/3260/EuCAIFCon_Treasure.pdf)
+* **Howard University:** [Howard University Experts Discuss Multidisciplinary AI Research, Tech Genesis Mission, and More During Research Month 2026](https://thedig.howard.edu/all-stories/howard-university-experts-discuss-multidisciplinary-ai-research-tech-genesis-mission-and-more-during)
 * **Iowa State University:** [Research Projects Selected for Funding](https://www.news.iastate.edu/news/several-iowa-state-research-projects-selected-us-department-energy-genesis-mission)
 * **Lehigh University:** [Researchers Earn 2 DOE Genesis Mission Funding Awards](https://news.lehigh.edu/lehigh-researchers-earn-2-doe-genesis-mission-funding-awards)
 * **Louisiana State University (LSU):** [LSU Researchers Garner DOE Genesis Mission Awards](https://www.lsu.edu/blog/2026/07/genesis-mission-awards.php)
