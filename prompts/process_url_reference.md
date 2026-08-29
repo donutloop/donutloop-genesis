@@ -56,6 +56,7 @@ The workflow receives a single URL parameter supplied via prompt invocation:
   - The processed reference link (Title, Host Domain).
   - Specific paper sections enriched.
   - The updated index completion ratio (**N / N Processed, 100% Complete**).
+  - **Token Saving Hint:** Stop reading `CHANGELOG.md` after seeing the first entry; this is sufficient to understand the changelog format.
 
 ### 8. Create Understandable Git Commit & Tag
 - Stage all modified repository files:
