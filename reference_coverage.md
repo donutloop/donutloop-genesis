@@ -1,7 +1,7 @@
 # Genesis Mission — Master Reference Coverage Report
 
 > **Document Overview:**
-> This report provides a comprehensive coverage analysis, breakdown, and master audit index for the **617 external reference links** compiled within `references.md` for the **Genesis Mission** documentation repository.
+> This report provides a comprehensive coverage analysis, breakdown, and master audit index for the **618 external reference links** compiled within `references.md` for the **Genesis Mission** documentation repository.
 
 ---
 
@@ -9,13 +9,13 @@
 
 | Metric | Count / Value | Description |
 | :--- | :--- | :--- |
-| **Total Reference Links** | **617** | Unique external links indexed across all sections |
+| **Total Reference Links** | **618** | Unique external links indexed across all sections |
 | **Primary Document Sections** | **7** | High-level thematic categories in `references.md` |
-| **Unique Target Domains** | **297** | Distinct domain names referenced (government, lab, corporate, academic, news) |
+| **Unique Target Domains** | **298** | Distinct domain names referenced (government, lab, corporate, academic, news) |
 | **Official PDF Documents** | **22** | Formal RFA solicitations, webinars, slides, and executive reports |
-| **Web Portals & Press Releases** | **595** | Newsroom features, corporate blog posts, and interactive hubs |
+| **Web Portals & Press Releases** | **596** | Newsroom features, corporate blog posts, and interactive hubs |
 | **Validation Status** | **100% Validated** | All links canonicalized, formatted, and deduplicated |
-| **Processing Status** | **617 / 617 Processed** | 0 Unprocessed, 617 Processed (100% Complete) |
+| **Processing Status** | **618 / 618 Processed** | 0 Unprocessed, 618 Processed (100% Complete) |
 
 ---
 
@@ -27,7 +27,7 @@
 | `2. Collaborators` | **77** | 12.5% | Official homepage & announcement links for industrial/energy partners |
 | `3. Quantum Leadership & CHIPS Act Initiatives` | **11** | 1.8% | Department of Commerce NIST LOIs & DOE $2B quantum initiatives |
 | `4. Executive, Federal & Partner Announcements` | **173** | 28.0% | White House releases, Cabinet agency press, hyperscaler & lab announcements |
-| `5. National Labs & University Coverage` | **316** | 51.2% | National Laboratory news portals & 72 awardee university press releases |
+| `5. National Labs & University Coverage` | **317** | 51.3% | National Laboratory news portals & 72 awardee university press releases |
 | `6. Additional Event Materials & Reference Links` | **18** | 2.9% | Presentation slide decks, institutional intro files & video recordings |
 | `7. Technical Documents, RFA Guidance & Official Webinars` | **19** | 3.1% | DE-FOA-0003612 solicitations, OSTP challenge papers, SCAC presentations & peer-reviewed AI-for-science research |
 
@@ -109,6 +109,7 @@ Below is the distribution of references grouped by top domain hosts and institut
 | `engineering.lehigh.edu` | **1** | Lehigh Engineering News | Dr. Brian Leard selected for DOE Fusion Energy Sciences Postdoctoral Research Program to develop ML-based surrogate modeling at ORNL |
 | `www6.slac.stanford.edu` | **1** | SLAC National Accelerator Laboratory | SLAC-led project assembling a multi-agent AI system to recover critical metals from spent lithium-ion batteries |
 | `today.umd.edu` | **1** | University Newsroom | University of Maryland coverage on AI-enabled flood forecasting using agentic and generative models linked with E3SM for seasonal-to-multiyear water hazard prediction |
+| `www.cs.umd.edu` | **1** | University Department Newsroom | University of Maryland Department of Computer Science coverage of the agentic AI framework for seasonal-to-interannual U.S. water prediction coupled with DOE's E3SM |
 | `lasierra.edu` | **1** | University Newsroom | La Sierra University computer science team selected for Phase I battery management and energy science adversarial AI robustness under Genesis Mission |
 | `foundry.lbl.gov` | **1** | Berkeley Lab (LBNL) | Molecular Foundry user facility hosting AUM 2026 showcasing autonomous synthesis clusters, high-throughput STEM, and AI-driven materials automation |
 | `fenado.ai` | **1** | Tech News & Analysis | Rescale selected under DOE Genesis Mission for Agentic HPC Pipeline Initiative (AHPI) to scale agentic AI on digital engineering platform |
@@ -750,3 +751,4 @@ A tabular master index for the 609-reference collection:
 | 5. National Labs & University Coverage | North Carolina State University (NC State) | NC State to Lead Three Department of Energy Genesis Mission Projects | `ece.ncsu.edu` | Web | [NC State to Lead Three Department of Energy Genesis Mission Projects](https://ece.ncsu.edu/2026/nc-state-to-lead-three-department-of-energy-genesis-mission-projects/) | `Processed` |
 | 5. National Labs & University Coverage | William & Mary | William & Mary Receives DOE Genesis Mission Award to Advance AI-Powered Particle Physics | `news.wm.edu` | Web | [William & Mary Receives DOE Genesis Mission Award to Advance AI-Powered Particle Physics](https://news.wm.edu/2026/07/27/william-mary-receives-doe-genesis-mission-award-to-advance-ai-powered-particle-physics/) | `Processed` |
 | 5. National Labs & University Coverage | University of North Carolina at Chapel Hill (UNC-Chapel Hill) | New Grant Will Help Carolina Researchers Probe the Universe's Origins | `www.unc.edu` | Web | [New Grant Will Help Carolina Researchers Probe the Universe's Origins](https://www.unc.edu/posts/2026/08/20/carolina-researchers-probe-the-universes-origins/) | `Processed` |
+| 5. National Labs & University Coverage | University of Maryland (UMD) — Department of Computer Science | Can AI See the Next Flood Coming? UMD Team Aims to Transform Water Forecasting | `www.cs.umd.edu` | Web | [Can AI See the Next Flood Coming? UMD Team Aims to Transform Water Forecasting](https://www.cs.umd.edu/article/2026/08/can-ai-see-next-flood-coming-umd-team-aims-transform-water-forecasting) | `Processed` |
