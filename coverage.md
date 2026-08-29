@@ -1,9 +1,9 @@
 # Genesis Mission — Full Ecosystem Coverage Tracker
 
 > **Scope & Coverage Definition:**
-> - **Flagship Consortium Scope:** Tracks **all 221 primary flagship participants**—lead contractors, federal agencies, national laboratories, awardee universities, strategic industrial partners, and philanthropic foundations—explicitly profiled or referenced in the Genesis Mission paper (`README.md`) and reference index.
+> - **Flagship Consortium Scope:** Tracks **all 222 primary flagship participants**—lead contractors, federal agencies, national laboratories, awardee universities, strategic industrial partners, and philanthropic foundations—explicitly profiled or referenced in the Genesis Mission paper (`README.md`) and reference index.
 > - **Broader National Awardee Network Context:** Under solicitation DE-FOA-0003612 and interagency challenges, the broader national initiative encompasses **342 total participating institutions** (157 companies, 142 universities, 16 national labs, 13 non-profits, 14 other entities across 278 projects).
-> - **Coverage Status:** **188 / 221 (85.1%)** of the tracked consortium entities have dedicated, detailed technical profiles.
+> - **Coverage Status:** **188 / 222 (84.7%)** of the tracked consortium entities have dedicated, detailed technical profiles.
 
 **Legend:**
 - ✅ **Full Profile** — Dedicated section with detailed technical write-up (Sections 2.2 / 3.1 / 3.2 / 3.3 / 3.4 / 3.5)
@@ -53,6 +53,7 @@
 | [Periodic Labs](https://www.periodiclabs.com/) | ✅ Full Profile | §3.1, A.3 | AI-driven materials discovery agents & automated high-throughput inorganic synthesis |
 | [Reflection AI](https://www.reflection.ai/) | ✅ Full Profile | §3.1, A.3 | Advanced AI reasoning architectures & open scientific LLMs |
 | [Scale AI](https://scale.com/) | ✅ Full Profile | §3.1, A.3 | Scientific data curation engines, synthetic data generation, domain-expert RLHF & DOE MOU |
+| [EdenCode](https://github.com/EdenCodeInc) | ❌ Not Covered | — | AI startup developing real-time quantum error correction decoders; subawardee on SIDERIUS project under UC San Diego DOE Genesis Mission award (reference only) |
 
 ---
 
@@ -316,20 +317,20 @@
 
 | Entity Type | Total | ✅ Full | 📋 Brief | ❌ Not Covered |
 |:---|:---:|:---:|:---:|:---:|
-| Industry Partners | 85 | 76 | 0 | 9 |
+| Industry Partners | 86 | 76 | 0 | 10 |
 | Federal Agencies | 10 | 10 | 0 | 0 |
 | National Laboratories & Defense Sites | 25 | 22 | 0 | 3 |
 | Universities | 84 | 68 | 0 | 16 |
 | Philanthropy, Policy & Regional Hubs | 17 | 12 | 0 | 5 |
-| **Total** | **221** | **188** | **0** | **33** |
+| **Total** | **222** | **188** | **0** | **34** |
 
 ### By Coverage Level
 
 | Coverage Level | Count | Percentage |
 |:---|:---:|:---:|
-| ✅ Full Profile | 188 | 85.1% |
+| ✅ Full Profile | 188 | 84.7% |
 | 📋 Brief Mention | 0 | 0.0% |
-| ❌ Not Covered | 33 | 14.9% |
-| **Total Entities** | **221** | **100%** |
+| ❌ Not Covered | 34 | 15.3% |
+| **Total Entities** | **222** | **100%** |
 
-> **Note:** The tracker now covers 221 Genesis Mission ecosystem participants, with 188 entities in dedicated technical write-ups (85.1% full-profile coverage). Rescale, George Washington University, X-energy, Cosylab, Brown University, Heidelberg University, Howard University, European Coalition for AI in Fundamental Physics (EuCAIF), Colorado School of Mines, UC San Diego, University of Delaware, University of Hawaiʻi at Mānoa, University of Massachusetts Amherst, University of Washington, Boise State University, St. Joseph's University, New York, The Ohio State University, Kent State University, University of Maryland, ChipNexus, Southeastern Universities Research Association (SURA), ORISE, Energy Sciences Coalition (ESC), Krell Institute, Antares Nuclear, Valar Atomics, Deployable Energy, Radiant, La Sierra University, Clean Republic SODO, LLC, Molecular Foundry, Joint Genome Institute (JGI), and Oak Ridge Leadership Computing Facility (OLCF) remain registered as reference-only participants. The broader sub-grantee network of 342 participating institutions represents secondary academic and sub-contractor nodes across the 278 national project awards.
+> **Note:** The tracker now covers 222 Genesis Mission ecosystem participants, with 188 entities in dedicated technical write-ups (84.7% full-profile coverage). Rescale, George Washington University, X-energy, Cosylab, Brown University, Heidelberg University, Howard University, European Coalition for AI in Fundamental Physics (EuCAIF), Colorado School of Mines, UC San Diego, University of Delaware, University of Hawaiʻi at Mānoa, University of Massachusetts Amherst, University of Washington, Boise State University, St. Joseph's University, New York, The Ohio State University, Kent State University, University of Maryland, ChipNexus, Southeastern Universities Research Association (SURA), ORISE, Energy Sciences Coalition (ESC), Krell Institute, Antares Nuclear, Valar Atomics, Deployable Energy, Radiant, La Sierra University, Clean Republic SODO, LLC, Molecular Foundry, Joint Genome Institute (JGI), Oak Ridge Leadership Computing Facility (OLCF), and EdenCode remain registered as reference-only participants. The broader sub-grantee network of 342 participating institutions represents secondary academic and sub-contractor nodes across the 278 national project awards.
