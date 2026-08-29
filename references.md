@@ -37,6 +37,7 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
 * [Collins Aerospace](https://www.collinsaerospace.com/)
 * [ComEd](https://www.comed.com/)
 * [Cornelis Networks](https://www.cornelisnetworks.com/): [Cornelis Partners with U.S. Department of Energy on the Genesis Mission](https://www.cornelis.com/stories/cornelis-partners-with-us-department-of-energy-on-the-genesis-mission)
+* [Cosylab](https://www.cosylab.com/): [Cosylab selected for U.S. Department of Energy's Genesis Mission](https://cosylab.com/news/genesis-mission-phase1-project/) - Slovenian-based control systems and AI integration specialist partnering with Brookhaven National Laboratory to develop self-learning, uncertainty-aware digital twins for particle accelerators.
 * [Critical Materials Recycling](https://www.cmrecycling.com/)
 * [Dell Technologies](https://www.dell.com/)
 * [Diraq](https://diraq.com/): [Diraq — About Us](https://www.diraq.com/about)
