@@ -5,6 +5,14 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.6.28] - 2026-08-29
+
+### Added
+- **Reference Index Entry #581**: Processed Fermi National Accelerator Laboratory (Fermilab) newsroom link `https://news.fnal.gov/2026/08/associate-directors-help-shape-future-of-fermilab/` (*Associate lab directors help shape future of Fermilab*) under Section 5 (*National Labs & University Coverage*) in `references.md`.
+- **Master Index Update**: Registered new entry #581 in `reference_coverage.md` at the bottom of the table to avoid large renumbering updates. Synchronized all summary metrics: Total Reference Links (580 → 581), Web Portals & Press Releases (559 → 560), and 100% Processing Status (581 / 581 Processed, 100% Complete). Section 5 count increased (286 → 287, 49.3% → 49.4%). Updated the `news.fnal.gov` top domain count from 12 to 13.
+- **Research Paper Enrichment — §3.2 (README.md & README.de.md)**: Enriched the Fermi National Accelerator Laboratory (Fermilab) subsection in §3.2 of both English and German flagship papers with technical and strategic insights from the strategic August 2026 reorganization, detailing the three unified science-focused directorates (Accelerator led by Alexander Valishev, Physics led by Doug Glenzinski, and Technology led by Anna Grassellino/CTO/SQMS) coordinating efforts to deliver the primary proton beam for DUNE/LBNF by 2031. Also added the press release to the *Official Releases & Portals* / *Offizielle Bekanntgaben & Portale* directories in both papers.
+- **Patch Version Release**: Incremented version strings to `3.6.28` across `README.md` and `README.de.md`.
+
 ## [3.6.27] - 2026-08-29
 
 ### Added
