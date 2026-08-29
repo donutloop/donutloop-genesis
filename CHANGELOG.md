@@ -5,6 +5,16 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.6.64] - 2026-08-29
+
+### Added
+- **Reference Index Entry #616**: Processed `https://news.wm.edu/2026/07/27/william-mary-receives-doe-genesis-mission-award-to-advance-ai-powered-particle-physics/` (*William & Mary Receives DOE Genesis Mission Award to Advance AI-Powered Particle Physics*, host domain `news.wm.edu`) under Section 5 (*National Labs & University Coverage — Universities & Research Institutions*) in `references.md`.
+- **Master Index Update**: Registered new entry #616 at the bottom of the Section 4 Master Reference Link Index table in `reference_coverage.md`. Synchronized all summary metrics: Total Reference Links (615 → 616), Web Portals & Press Releases (593 → 594), Unique Target Domains (295 → 296, new host `news.wm.edu`), and Processing Status (**616 / 616 Processed, 100% Complete**). Section 5 count increased (314 → 315, share held at 51.1%). Added the `news.wm.edu` row to the Section 3 top domain classification table.
+- **Coverage Matrix Audit**: Added **William & Mary** to the *Research Universities* section of `coverage.md` with status `❌ Not Covered` *(reference only)*. Updated summary metrics: total tracked participants (225 → 226), Universities row (86 → 87 total, 18 → 19 not covered), Not Covered total (36 → 37, 16.0% → 16.4%), and full-profile coverage ratio (189 / 225, 84.0% → 189 / 226, 83.6%).
+
+### Changed
+- **Research Paper Enrichment — §3.3 & Appendix A.5 (README.md & README.de.md)**: Added a *William & Mary* entry to the *AI Architecture, Foundation Models & Agentic Discovery* grouping in §3.3 of both the English and German flagship papers, documenting the ~**$1 Million Phase I** award to the **School of Computing, Data Sciences & Physics** led by Associate Professor of Data Science **Cristiano Fanelli**. The project builds a unified **AI foundation model** that learns directly from **raw detector-level data across multiple detector subsystems simultaneously**, capturing cross-detector **correlations** before lossy high-level summarization, and is **task-flexible** (**simulation**, **event reconstruction**, **noise filtering**) as well as **transferable** across experiments and detector geometries — supporting **detector design and optimization** for the **Electron-Ion Collider (EIC)** at **Brookhaven National Laboratory** and **GlueX** at **Jefferson Lab**, with collaborators at **Jefferson Lab**, **Brookhaven National Laboratory**, and **SLAC National Accelerator Laboratory**. Added matching Appendix A.5 university table rows. Bumped the version string to `3.6.64` across `README.md` and `README.de.md`.
+
 ## [3.6.63] - 2026-08-29
 
 ### Added
