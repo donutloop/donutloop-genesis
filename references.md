@@ -361,7 +361,7 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
   * [Fermilab's New Director Clarifies Mission and Achieves Progress in First 100 Days](https://news.fnal.gov/2026/04/fermilabs-new-director-clarifies-mission-and-achieves-progress-in-first-100-days/)
   * [DUNE Uses AI to Transform the Future of Neutrino Research](https://news.fnal.gov/2026/08/dune-uses-ai-to-transform-the-future-of-neutrino-research/)
   * [Predicting Microelectronics Performance with Physics-Informed Artificial Intelligence (Newswise)](https://www.newswise.com/doescience/predicting-microelectronics-performance-with-physics-informed-artificial-intelligence)
-  * [Fermilab News Portal: Tag Archive for DOE Genesis Mission Projects](https://news.fnal.gov/tag/genesis-misson/)
+  * [Fermilab News Portal: Tag Archive for DOE Genesis Mission Projects](https://news.fnal.gov/tag/genesis-mission/)
 * **Idaho National Laboratory (INL):** 
   * [Accelerating Nuclear Energy Deployment with NVIDIA AI](https://inl.gov/news-release/idaho-national-laboratory-to-accelerate-nuclear-energy-deployment-with-nvidia-ai-through-the-genesis-mission/)
   * [Genesis Mission Funds AI Innovation for Nuclear Energy](https://inl.gov/news-release/genesis-mission-funds-ai-innovation-to-speed-up-safe-affordable-nuclear-energy/)
@@ -636,3 +636,4 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
 * [DOE Office of Science: Genesis Mission Funding Opportunity Announcements (FOAs) Portal](https://science.osti.gov/grants/FOAs/Genesis-Mission)
 * [INL GAIN / ANL: Overview of NE Focus Areas in DOE's Genesis AI Initiative Presentation — Dr. Rick Vilim (PDF)](https://gain.inl.gov/content/uploads/4/2026/06/05-Overview-of-NE-Focus-Areas-in-DOEs-Genesis-AI-Initiative-Rick-Vilim.pdf)
 * [The Future of Fundamental Science Led by Generative Closed-Loop Artificial Intelligence](https://pmc.ncbi.nlm.nih.gov/articles/PMC12932417/)
+* [GEAR: Genesis Education and Resources](https://gear.doe.gov/)
