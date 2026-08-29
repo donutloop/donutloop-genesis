@@ -5,6 +5,16 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.6.21] - 2026-08-29
+
+### Added
+- **Reference Index Entry #454**: Processed RPI News announcement link `https://news.rpi.edu/2026/02/09/rpi-president-schmidt-appointed-doe-advisory-committee` (*RPI President Schmidt Appointed to DOE Advisory Committee*) under Section 5 (*National Labs & University Coverage*) in `references.md`.
+- **Master Index Update**: Registered new entry #454 in `reference_coverage.md` and sequentially renumbered downstream index rows #454 to #573 (shifting them to #455 to #574). Synchronized all summary metrics: Total Reference Links (573 → 574), Web Portals & Press Releases (552 → 553), and 100% Processing Status (574 / 574 Processed, 100% Complete). Section 5 count increased (280 → 281, 48.9% → 49.0%). Added `news.rpi.edu` count of 2 to Section 3 top domain counts.
+- **Research Paper Enrichment — §3.3 (README.md & README.de.md)**: Enriched the Rensselaer Polytechnic Institute (RPI) section of both English and German flagship papers with strategic and technical details of RPI President Martin A. Schmidt's appointment to the DOE's Office of Science Advisory Committee (SCAC). Highlighted his role in advising federal leadership on fusion energy, quantum science, and major initiatives including the Genesis Mission.
+- **Patch Version Release**: Incremented version strings to `3.6.21` across `README.md` and `README.de.md`.
+
+---
+
 ## [3.6.20] - 2026-08-29
 
 ### Added

@@ -504,7 +504,9 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
 * **Purdue University:**
   * [2 Purdue AI Research Projects Selected Among the First Genesis Mission Awards](https://www.purdue.edu/newsroom/2026/Q3/2-purdue-ai-research-projects-selected-among-the-first-genesis-mission-awards/)
   * [Purdue Pilots B2D7 — Bachelor’s to Doctorate in 7 Years — to Enhance U.S. Research Talent Pipeline](https://www.purdue.edu/newsroom/2026/Q1/purdue-pilots-b2d7-bachelors-to-doctorate-in-7-years-to-enhance-u-s-research-talent-pipeline/)
-* **Rensselaer Polytechnic Institute (RPI):** [Selected for Two U.S. Department of Energy Genesis Mission Projects](https://news.rpi.edu/2026/07/31/rpi-selected-two-us-department-energy-genesis-mission-projects)
+* **Rensselaer Polytechnic Institute (RPI):**
+  * [Selected for Two U.S. Department of Energy Genesis Mission Projects](https://news.rpi.edu/2026/07/31/rpi-selected-two-us-department-energy-genesis-mission-projects)
+  * [RPI President Schmidt Appointed to DOE Advisory Committee](https://news.rpi.edu/2026/02/09/rpi-president-schmidt-appointed-doe-advisory-committee)
 * **Rice University:** [Researchers Earn 2 Awards](https://news.rice.edu/news/2026/rice-researchers-earn-2-doe-genesis-mission-awards)
 * **RTI International:** [Research Teams Selected for DOE Genesis Mission](https://www.rti.org/news/doe-genesis-mission-research-teams)
 * **Stanford University:**
