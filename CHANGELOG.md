@@ -5,6 +5,13 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.6.37] - 2026-08-29
+
+### Added
+- **Reference Index Entry #590**: Processed Carnegie Mellon University news link `https://www.cmu.edu/news/stories/archives/2026/august/building-the-future-carnegie-mellon-is-the-quintessential-american-story` (*Building the Future: Carnegie Mellon is the Quintessential American Story*) under Section 5 (*National Labs & University Coverage*) in `references.md`.
+- **Master Index Update**: Registered new entry #590 in `reference_coverage.md` at the bottom of the table to avoid large renumbering updates. Synchronized all summary metrics: Total Reference Links (589 → 590), Web Portals & Press Releases (568 → 569), and 100% Processing Status (590 / 590 Processed, 100% Complete). Section 5 count increased (293 → 294, 49.7% → 49.8%). Added `www.cmu.edu` top domain count of 4 (previously 3) to Section 3.
+- **Research Paper Enrichment — §3.3 (README.md & README.de.md)**: Enriched §3.3 of both English and German flagship papers with technical and strategic insights on Carnegie Mellon's role as a microcosm of the American story, connecting historic rise to America250 future-building and robotic innovations such as Professor Howie Choset's star-spangled snake robots for earthquake search and rescue. Bumped version string to `3.6.37` across `README.md` and `README.de.md`.
+
 ## [3.6.36] - 2026-08-29
 
 ### Added
