@@ -1,4 +1,4 @@
-**Version**: 3.6.19
+**Version**: 3.6.20
 
 # The Genesis Mission: Architecture, Strategic Initiatives, and the Multi-Institutional Ecosystem for AI- and Quantum-Driven Scientific Discoveries
 
@@ -689,8 +689,8 @@ By integrating world-leading exascale supercomputers (**Frontier**, **Aurora**, 
 
 * **SLAC National Accelerator Laboratory (SLAC & Stanford University):**
   - *Core User Facilities & Portals*: Operates the **Linac Coherent Light Source (LCLS-II)** attosecond X-ray free-electron laser and the **Integrated Scientific Data-Intensive Computing Infrastructure (ISDCI)** portal.
-  - *Official Releases*: (*Stanford and SLAC to Lead Genesis Mission Projects*, [news.stanford.edu/stories/2026/07/stanford-and-slac-to-lead-genesis-mission-projects](https://news.stanford.edu/stories/2026/07/stanford-and-slac-to-lead-genesis-mission-projects) and *SLAC ISDCI Genesis Portal*, [isdci.slac.stanford.edu/genesis](https://isdci.slac.stanford.edu/genesis)).
-  - *Genesis R&D Focus*: Deploys deep reinforcement learning for particle beam emittance control, SRF accelerator cavity design, and AI-driven critical metal recovery.
+  - *Official Releases*: (*Stanford and SLAC to Lead Genesis Mission Projects*, [news.stanford.edu/stories/2026/07/stanford-and-slac-to-lead-genesis-mission-projects](https://news.stanford.edu/stories/2026/07/stanford-and-slac-to-lead-genesis-mission-projects), *SLAC ISDCI Genesis Portal*, [isdci.slac.stanford.edu/genesis](https://isdci.slac.stanford.edu/genesis), and *Jennifer Cochran Appointed Vice President for SLAC and Strategic Initiatives*, [news.stanford.edu/stories/2026/06/jennifer-cochran-vice-president-slac-strategic-initiatives](https://news.stanford.edu/stories/2026/06/jennifer-cochran-vice-president-slac-strategic-initiatives)).
+  - *Genesis R&D Focus*: Deploys deep reinforcement learning for particle beam emittance control, SRF accelerator cavity design, and AI-driven critical metal recovery. Guided by Jennifer Cochran, Stanford's Vice President for SLAC and for strategic initiatives, the partnership focuses on identifying new strategic opportunities between the university and the national laboratory.
 
 * **Thomas Jefferson National Accelerator Facility (TJNAF / Jefferson Lab):**
   - *Core User Facilities & Official Portals*: Operates the **Continuous Electron Beam Accelerator Facility (CEBAF)** under its official releases (*AI for Science: Jefferson Lab Genesis Mission*, [www.jlab.org/news/releases/ai-science-genesis-mission](https://www.jlab.org/news/releases/ai-science-genesis-mission), *Jefferson Lab AI Genesis Mission Portal*, [www.jlab.org/AI/genesis](https://www.jlab.org/AI/genesis), *Jefferson Lab ModCon AI Portal*, [www.jlab.org/AI/genesis/modcon](https://www.jlab.org/AI/genesis/modcon), *Jefferson Lab Scientific AI Models Repository Portal*, [www.jlab.org/AI/genesis/models](https://www.jlab.org/AI/genesis/models), *Jefferson Lab American Science Cloud (AmSC) Portal*, [www.jlab.org/AI/genesis/AmSC](https://www.jlab.org/AI/genesis/AmSC), *High Performance Data Facility (HPDF) Official User Facility Portal*, [www.hpdf.science/](https://www.hpdf.science/), and *Jefferson Lab Genesis Mission RFA Phase I Grants Portal*, [www.jlab.org/AI/genesis/RFAPhaseIgrants](https://www.jlab.org/AI/genesis/RFAPhaseIgrants)).

@@ -1,4 +1,4 @@
-**Version**: 3.6.19
+**Version**: 3.6.20
 
 # Die Genesis-Mission: Architektur, strategische Initiativen und das multi-institutionelle Ökosystem für KI- und quantengetriebene wissenschaftliche Entdeckungen
 
@@ -685,8 +685,8 @@ Durch die Integration weltweit führender Exascale-Supercomputer (**Frontier**, 
 
 * **SLAC National Accelerator Laboratory (SLAC & Stanford University):**
   - *Nutzeranlagen & Portale*: Betreibt den **Linac Coherent Light Source (LCLS-II)** Attosekunden-Röntgenlaser und das **Integrated Scientific Data-Intensive Computing Infrastructure (ISDCI)**-Portal.
-  - *Offizielle Bekanntgaben*: (*Stanford and SLAC to Lead Genesis Mission Projects*, [news.stanford.edu/stories/2026/07/stanford-and-slac-to-lead-genesis-mission-projects](https://news.stanford.edu/stories/2026/07/stanford-and-slac-to-lead-genesis-mission-projects) und *SLAC ISDCI Genesis Portal*, [isdci.slac.stanford.edu/genesis](https://isdci.slac.stanford.edu/genesis)).
-  - *Genesis F&E-Fokus*: Setzt Deep Reinforcement Learning zur Strahlemittanzsteuerung, SRF-Beschleunigerkavitäten-Modellierung und KI-gestützte Extraktion kritischer Metalle ein.
+  - *Offizielle Bekanntgaben*: (*Stanford and SLAC to Lead Genesis Mission Projects*, [news.stanford.edu/stories/2026/07/stanford-and-slac-to-lead-genesis-mission-projects](https://news.stanford.edu/stories/2026/07/stanford-and-slac-to-lead-genesis-mission-projects), *SLAC ISDCI Genesis Portal*, [isdci.slac.stanford.edu/genesis](https://isdci.slac.stanford.edu/genesis), und *Jennifer Cochran zur Vizepräsidentin für SLAC und strategische Initiativen ernannt*, [news.stanford.edu/stories/2026/06/jennifer-cochran-vice-president-slac-strategic-initiatives](https://news.stanford.edu/stories/2026/06/jennifer-cochran-vice-president-slac-strategic-initiatives)).
+  - *Genesis F&E-Fokus*: Setzt Deep Reinforcement Learning zur Strahlemittanzsteuerung, SRF-Beschleunigerkavitäten-Modellierung und KI-gestützte Extraktion kritischer Metalle ein. Unter der Leitung von Jennifer Cochran, Stanfords Vizepräsidentin für SLAC und strategische Initiativen, konzentriert sich die Partnerschaft auf die Identifizierung neuer strategischer Möglichkeiten zwischen der Universität und dem nationalen Labor.
 
 * **Thomas Jefferson National Accelerator Facility (TJNAF / Jefferson Lab):**
   - *Nutzeranlagen & Offizielle Portale*: Betreibt die **Continuous Electron Beam Accelerator Facility (CEBAF)** unter seinen offiziellen Bekanntgaben (*AI for Science: Jefferson Lab Genesis Mission*, [www.jlab.org/news/releases/ai-science-genesis-mission](https://www.jlab.org/news/releases/ai-science-genesis-mission), *Jefferson Lab AI Genesis Mission Portal*, [www.jlab.org/AI/genesis](https://www.jlab.org/AI/genesis), *Jefferson Lab ModCon AI Portal*, [www.jlab.org/AI/genesis/modcon](https://www.jlab.org/AI/genesis/modcon), *Jefferson Lab Scientific AI Models Repository Portal*, [www.jlab.org/AI/genesis/models](https://www.jlab.org/AI/genesis/models), *Jefferson Lab American Science Cloud (AmSC) Portal*, [www.jlab.org/AI/genesis/AmSC](https://www.jlab.org/AI/genesis/AmSC), *High Performance Data Facility (HPDF) Official User Facility Portal*, [www.hpdf.science/](https://www.hpdf.science/) und *Jefferson Lab Genesis Mission RFA Phase I Grants Portal*, [www.jlab.org/AI/genesis/RFAPhaseIgrants](https://www.jlab.org/AI/genesis/RFAPhaseIgrants)).
