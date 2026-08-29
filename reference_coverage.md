@@ -1,7 +1,7 @@
 # Genesis Mission — Master Reference Coverage Report
 
 > **Document Overview:**
-> This report provides a comprehensive coverage analysis, breakdown, and master audit index for the **596 external reference links** compiled within `references.md` for the **Genesis Mission** documentation repository.
+> This report provides a comprehensive coverage analysis, breakdown, and master audit index for the **597 external reference links** compiled within `references.md` for the **Genesis Mission** documentation repository.
 
 ---
 
@@ -9,13 +9,13 @@
 
 | Metric | Count / Value | Description |
 | :--- | :--- | :--- |
-| **Total Reference Links** | **596** | Unique external links indexed across all sections |
+| **Total Reference Links** | **597** | Unique external links indexed across all sections |
 | **Primary Document Sections** | **7** | High-level thematic categories in `references.md` |
 | **Unique Target Domains** | **287** | Distinct domain names referenced (government, lab, corporate, academic, news) |
 | **Official PDF Documents** | **21** | Formal RFA solicitations, webinars, slides, and executive reports |
-| **Web Portals & Press Releases** | **575** | Newsroom features, corporate blog posts, and interactive hubs |
+| **Web Portals & Press Releases** | **576** | Newsroom features, corporate blog posts, and interactive hubs |
 | **Validation Status** | **100% Validated** | All links canonicalized, formatted, and deduplicated |
-| **Processing Status** | **596 / 596 Processed** | 0 Unprocessed, 596 Processed (100% Complete) |
+| **Processing Status** | **597 / 597 Processed** | 0 Unprocessed, 597 Processed (100% Complete) |
 
 ---
 
@@ -24,10 +24,10 @@
 | Section Header | Link Count | Share (%) | Primary Focus Area |
 |:---|:---:|:---:|:---|
 | `1. Key Presentation Details` | **3** | 0.5% | Briefing agendas, U.S. ATLAS IB meeting details & CERN links |
-| `2. Collaborators` | **76** | 12.8% | Official homepage & announcement links for industrial/energy partners |
+| `2. Collaborators` | **76** | 12.7% | Official homepage & announcement links for industrial/energy partners |
 | `3. Quantum Leadership & CHIPS Act Initiatives` | **11** | 1.8% | Department of Commerce NIST LOIs & DOE $2B quantum initiatives |
 | `4. Executive, Federal & Partner Announcements` | **170** | 28.5% | White House releases, Cabinet agency press, hyperscaler & lab announcements |
-| `5. National Labs & University Coverage` | **300** | 50.3% | National Laboratory news portals & 71 awardee university press releases |
+| `5. National Labs & University Coverage` | **301** | 50.4% | National Laboratory news portals & 71 awardee university press releases |
 | `6. Additional Event Materials & Reference Links` | **18** | 3.0% | Presentation slide decks, institutional intro files & video recordings |
 | `7. Technical Documents, RFA Guidance & Official Webinars` | **18** | 3.0% | DE-FOA-0003612 solicitations, OSTP challenge papers, SCAC presentations & peer-reviewed AI-for-science research |
 
@@ -52,7 +52,7 @@ Below is the distribution of references grouped by top domain hosts and institut
 | `www.bu.edu` | **1** | University Newsroom | Boston University College of Engineering Genesis Mission plasma physics award coverage |
 | `newscenter.lbl.gov` | **7** | Lawrence Berkeley National Lab (LBNL) | 13 AI projects lead, ModCon platform, Cech system delivery |
 | `www.lanl.gov` | **6** | Los Alamos National Laboratory (LANL) | Weapons hydrodynamics, plutonium aging AI, high-explosives R&D |
-| `www.ornl.gov` | **26** | Oak Ridge National Laboratory (ORNL) | Frontier supercomputer, IBM FLiBe molten salt quantum chemistry |
+| `www.ornl.gov` / `jobs.ornl.gov` | **27** | Oak Ridge National Laboratory (ORNL) | Frontier supercomputer, IBM FLiBe molten salt quantum chemistry, agentic workflows recruitment |
 | `aws.amazon.com` | **4** | Amazon Web Services (AWS) | Public sector HPC credits, quantum post-quantum security |
 | `cloud.google.com` | **3** | Google Cloud | Genesis Mission support and AlphaEvolve evolutionary code optimization |
 | `www.youtube.com` | **6** | YouTube | Genesis Mission summit, technical presentation, webinar, and national-laboratory video recordings |
@@ -714,5 +714,6 @@ A tabular master index for the 594-reference collection:
 | 5. National Labs & University Coverage | University of Maryland | Can AI See the Next Flood Coming? | `today.umd.edu` | Web | [Can AI See the Next Flood Coming?](https://today.umd.edu/can-ai-see-the-next-flood-coming) | `Processed` |
 | 5. National Labs & University Coverage | La Sierra University | La Sierra prof’s team selected for DOE Genesis Mission AI research award | `lasierra.edu` | Web | [La Sierra prof’s team selected for DOE Genesis Mission AI research award](https://lasierra.edu/article/la-sierra-profs-team-selected-for-doe-genesis-mission-ai-research-award/) | `Processed` |
 | 5. National Labs & University Coverage | Argonne National Laboratory (ANL) | Weather Is Community: Argonne Researchers Talk Atmospheric Science, AI, and Citizen Science | `www.anl.gov` | Web | [Weather Is Community: Argonne Researchers Talk Atmospheric Science, AI, and Citizen Science](https://www.anl.gov/cels/article/weather-is-community-argonne-researchers-talk-atmospheric-science-ai-and-citizen-science-at-the-new) | `Processed` |
+| 5. National Labs & University Coverage | Oak Ridge National Laboratory (ORNL) | Research Scientist, Agentic Workflows Job Posting | `jobs.ornl.gov` | Web | [Research Scientist, Agentic Workflows Job Posting](https://jobs.ornl.gov/job/Oak-Ridge-Research-Scientist%2C-Agentic-Workflows-TN-37830/1422626200) | `Processed` |
 
 

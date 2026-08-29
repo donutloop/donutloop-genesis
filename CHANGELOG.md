@@ -5,6 +5,13 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.6.44] - 2026-08-29
+
+### Added
+- **Reference Index Entry #597**: Processed Oak Ridge National Laboratory job recruitment link `https://jobs.ornl.gov/job/Oak-Ridge-Research-Scientist%2C-Agentic-Workflows-TN-37830/1422626200` (*Research Scientist, Agentic Workflows*) under Section 5 (*National Labs & University Coverage*) in `references.md`.
+- **Master Index Update**: Registered new entry #597 in `reference_coverage.md` at the bottom of the table to avoid large renumbering updates. Synchronized all summary metrics: Total Reference Links (596 → 597), Web Portals & Press Releases (575 → 576), Unique Target Domains (287 → 287 - no change), and 100% Processing Status (597 / 597 Processed, 100% Complete). Section 5 count increased (300 → 301, 50.3% → 50.4%). Added/updated `www.ornl.gov / jobs.ornl.gov` top domain count of 27 (previously 26) in Section 3.
+- **Research Paper Enrichment — §3.2 (README.md & README.de.md)**: Enriched both English and German flagship research papers with linguistic parity, detailing Oak Ridge National Laboratory's development of agentic workflows, low-overhead workflow instrumentation, and telemetry query, storage, and streaming frameworks (such as **Flowcept**) under the Workflows and Ecosystem Services (WES) Group at the National Center for Computational Sciences (NCCS). This includes details of the W3C PROV community standard data models ensuring data lineage and workflow-data interoperability across government labs and cloud environments (such as the American Science Cloud). Bumped version string to `3.6.44` across `README.md` and `README.de.md`.
+
 ## [3.6.43] - 2026-08-29
 
 ### Added
