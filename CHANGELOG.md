@@ -5,6 +5,16 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.6.18] - 2026-08-29
+
+### Added
+- **Reference Index Entry #452**: Processed Purdue University's official news announcement link `https://www.purdue.edu/newsroom/2026/Q1/purdue-pilots-b2d7-bachelors-to-doctorate-in-7-years-to-enhance-u-s-research-talent-pipeline/` (*Purdue Pilots B2D7 — Bachelor’s to Doctorate in 7 Years — to Enhance U.S. Research Talent Pipeline*) under Section 5 (*National Labs & University Coverage*) in `references.md`.
+- **Master Index Update**: Registered new entry #452 in `reference_coverage.md`. Sequentially shifted and renumbered all subsequent index rows up to #571. Synchronized all summary metrics: Total Reference Links (570 → 571), Unique Target Domains (273 → 273), Web Portals & Press Releases (549 → 550), and 100% Processing Status (571 / 571 Processed, 100% Complete). Section 5 count increased (278 → 279, 48.8% → 48.9%), and registered `www.purdue.edu` with an updated count of 2 in Section 3 top domain counts.
+- **Research Paper Enrichment — §3.3 (README.md & README.de.md)**: Enriched §3.3 (University Research Partners) and Appendix university tables of both English and German flagship papers with technical and strategic details of Purdue University's **B2D7 (Bachelor's to Doctorate in 7 Years)** fast-track STEM pilot program under the Purdue Computes and Institute of Physical AI framework. Noted the 18 dual-degree credits, intensive undergraduate research, and early advisor matching designed to expand the domestic U.S. research talent pipeline to 100+ doctoral graduates per year in response to the workforce demands of the Genesis Mission.
+- **Patch Version Release**: Incremented version strings to `3.6.18` across `README.md` and `README.de.md`.
+
+---
+
 ## [3.6.17] - 2026-08-29
 
 ### Added
