@@ -5,6 +5,14 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.6.27] - 2026-08-29
+
+### Added
+- **Reference Index Entry #580**: Processed Brookhaven National Laboratory (BNL) newsroom link `https://www.bnl.gov/newsroom/news.php?a=123096` (*Brookhaven and Stony Brook Researchers Demonstrate 'Wireless' Capability for Quantum Network*) under Section 5 (*National Labs & University Coverage*) in `references.md`.
+- **Master Index Update**: Registered new entry #580 in `reference_coverage.md` at the bottom of the table to avoid large renumbering updates. Synchronized all summary metrics: Total Reference Links (579 → 580), Web Portals & Press Releases (558 → 559), and 100% Processing Status (580 / 580 Processed, 100% Complete). Section 5 count increased (285 → 286, 49.2% → 49.3%). Section 4 share percentage adjusted from 29.2% to 29.1%. Updated the `www.bnl.gov` top domain count from 7 to 8 and updated notes to include the 13-mile wireless free-space quantum network link (with Stony Brook University).
+- **Research Paper Enrichment — §3.2 (README.md & README.de.md)**: Enriched the Brookhaven National Laboratory (BNL) subsection in §3.2 of both English and German flagship papers with technical and strategic insights from the successful 13-mile (21-kilometer) free-space optical (FSO) wireless quantum link demonstration (with Stony Brook University), detailing the transmission of single photons and entangled photon pairs from the roof-top "Quantum Watchtower" to Upton's "Quantum Lighthouse", adaptive optics technology, 5-micron core fibers, and plans to expand the 161-mile fiber network to Yale University. Also added the press release to the *Official Announcements* / *Offizielle Bekanntgaben* directories in both papers.
+- **Patch Version Release**: Incremented version strings to `3.6.27` across `README.md` and `README.de.md`.
+
 ## [3.6.26] - 2026-08-29
 
 ### Added
