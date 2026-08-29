@@ -5,6 +5,14 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.6.52] - 2026-08-29
+
+### Added
+- **Reference Index Entry #605**: Processed `https://www.pnnl.gov/projects/genesis-mission/phase-1-projects` (*Genesis Mission Phase 1 Projects*) under Section 5 (*National Labs & University Coverage*) in `references.md`.
+- **Master Index Update**: Registered new entry #605 in `reference_coverage.md` at the bottom of the Section 4 Master Reference Link Index table (categorized under Section 5). Synchronized all summary metrics: Total Reference Links (604 → 605), Web Portals & Press Releases (583 → 584), and 100% Processing Status (605 / 605 Processed, 100% Complete). Section 5 count increased (306 → 307, 50.7% remaining stable at 50.7%). Registered top domain host `www.pnnl.gov` in Section 3 (Top Domain table) with an updated count of 6.
+- **Coverage Matrix Update**: No new entities were introduced to `coverage.md` as Pacific Northwest National Laboratory (PNNL) is already fully profiled.
+- **Research Paper Enrichment — §3.1 & §3.2 (README.md & README.de.md)**: Enriched both English and German flagship papers with PNNL's extensive Phase I project portfolio, which includes 16 led projects and 26 additional collaborative efforts (42 projects total). Detailed technical and strategic milestones including rapid multi-physics simulation for enhanced geothermal systems, geometry-aware flow system design (**GOLD-FLOW**), automated nuclear waste cleanup and domain foundation models (**WASTECHAT**), distributed workflow portability on the Genesis platform (**PORTUS**), microelectronics co-design via protein-van der Waals hybrids, and physics-constrained cloud microphysics (**EARL**). Bumped version string to `3.6.52` across `README.md` and `README.de.md`.
+
 ## [3.6.51] - 2026-08-29
 
 ### Added
