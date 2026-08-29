@@ -5,6 +5,14 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.6.33] - 2026-08-29
+
+### Added
+- **Reference Index Entry #586**: Processed DOE Office of Nuclear Energy news link `https://www.energy.gov/ne/articles/one-year-after-executive-orders-us-nuclear-energy-renaissance-full-swing` (*One Year After Executive Orders, U.S. Nuclear Energy Renaissance Is in Full Swing*) under Section 4 (*Executive, Federal & Partner Announcements*) in `references.md`.
+- **Master Index Update**: Registered new entry #586 in `reference_coverage.md` at the bottom of the table to avoid large renumbering updates. Synchronized all summary metrics: Total Reference Links (585 → 586), Web Portals & Press Releases (564 → 565), and 100% Processing Status (586 / 586 Processed, 100% Complete). Section 4 count increased (169 → 170, 28.9% → 29.0%) and Section 5 share adjusted (49.6% → 49.5%). Incremented `www.energy.gov` top domain count of 48 to 49.
+- **Coverage Matrix Update**: Added `Antares Nuclear`, `Valar Atomics`, `Deployable Energy`, and `Radiant` as new reference-only partner entities to `coverage.md` under Energy, Utilities & Critical Materials. Updated total entity counts (209 → 213) and "Not Covered" metrics (21 → 25, 10.0% → 11.7%) across all summary tables and notes.
+- **Research Paper Enrichment — §2.4 (README.md & README.de.md)**: Enriched §2.4 of both English and German flagship papers with technical and strategic insights on the U.S. nuclear energy renaissance, the Reactor Pilot Program, achieving four criticalities by July 4, 2026 (led by Antares Nuclear, Valar Atomics, and Deployable Energy), and microreactor testing at Idaho National Laboratory's DOME facility (with Radiant scheduled to test in 2026). Bumped version string to `3.6.33` across `README.md` and `README.de.md`.
+
 ## [3.6.32] - 2026-08-29
 
 ### Added

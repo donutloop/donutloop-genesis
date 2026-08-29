@@ -1,4 +1,4 @@
-**Version**: 3.6.32
+**Version**: 3.6.33
 
 # Die Genesis-Mission: Architektur, strategische Initiativen und das multi-institutionelle Ökosystem für KI- und quantengetriebene wissenschaftliche Entdeckungen
 
@@ -403,6 +403,11 @@ Die Genesis-Mission setzt die übergeordneten Strategien der US-Bundesbehörden 
 * **Sichere KI für die Sicherheit von Energieprozessen (Argonne National Laboratory):**
   - *Technische Innovation*: Setzt domänenspezifische, die Privatsphäre schützende secure KI-Frameworks ein, die für die sichere Analyse streng vertraulicher und sensibler Daten der Energiebranche entwickelt wurden. Dies ermöglicht Echtzeit-Anomalieerkennung, schnelle Gefahrenidentifizierung und proaktives Risikomanagement in hochriskanten Energieumgebungen (z. B. fortgeschrittene Kernkraftwerke und Offshore-Energieanlagen).
   - *Auswirkungsmetrik*: Stärkt die Systemsicherheit und Cybersicherheit in kritischen nationalen Energieinfrastrukturen, reduziert menschliche Fehler, beschleunigt Risikobewertungen und gewährleistet eine kontinuierliche Einhaltung gesetzlicher Vorschriften.
+
+* **U.S. Nuclear Energy Renaissance und Reactor Pilot Program (DOE Office of Nuclear Energy, INL, Antares Nuclear, Valar Atomics, Deployable Energy, Radiant):**
+  - *Strategische Politik & Infrastruktur*: Angetrieben von den Executive Orders vom 23. Mai 2025 zur Erweiterung der US-Kernkapazität von 100 GW auf 400 GW bis 2050 hat das Reactor Pilot Program des Department of Energy 11 neue Pilotprojekte initiiert und plant 10 neue Großreaktoren mit fertiggestellten Designs bis 2030.
+  - *Technische Meilensteine & Kritikalität*: Das ursprüngliche Ziel von drei Kritikalitäten bis zum 4. Juli 2026 wurde übertroffen, indem *vier* fortschrittliche Reaktoren erfolgreich zur Kritikalität geführt wurden (angeführt von Antares Nuclear, Valar Atomics und Deployable Energy).
+  - *Mikroreaktor-Tests*: Eröffnung von DOME am INL (dem weltweit ersten Mikroreaktortestbett) für fortschrittliche Entwickler, wobei Radiant planmäßig sein Mikroreaktordesign im Jahr 2026 testen wird. Diese Renaissance stellt die schnellste Expansion der amerikanischen Kernkapazität und der inländischen Brennstoffproduktion zur Beendung der Abhängigkeit von ausländischem Uran seit Mitte des 20. Jahrhunderts dar.
 
 #### B. Fusionsplasmaphysik & quantenzentrierte Reaktormaterial-Entdeckung
 * **AI4Fusion Disruption Control Platform (Princeton Plasma Physics Laboratory, UW-Madison, General Atomics):**

@@ -9,13 +9,13 @@
 
 | Metric | Count / Value | Description |
 | :--- | :--- | :--- |
-| **Total Reference Links** | **585** | Unique external links indexed across all sections |
+| **Total Reference Links** | **586** | Unique external links indexed across all sections |
 | **Primary Document Sections** | **7** | High-level thematic categories in `references.md` |
 | **Unique Target Domains** | **280** | Distinct domain names referenced (government, lab, corporate, academic, news) |
 | **Official PDF Documents** | **21** | Formal RFA solicitations, webinars, slides, and executive reports |
-| **Web Portals & Press Releases** | **564** | Newsroom features, corporate blog posts, and interactive hubs |
+| **Web Portals & Press Releases** | **565** | Newsroom features, corporate blog posts, and interactive hubs |
 | **Validation Status** | **100% Validated** | All links canonicalized, formatted, and deduplicated |
-| **Processing Status** | **585 / 585 Processed** | 0 Unprocessed, 585 Processed (100% Complete) |
+| **Processing Status** | **586 / 586 Processed** | 0 Unprocessed, 586 Processed (100% Complete) |
 
 ---
 
@@ -26,8 +26,8 @@
 | `1. Key Presentation Details` | **3** | 0.5% | Briefing agendas, U.S. ATLAS IB meeting details & CERN links |
 | `2. Collaborators` | **76** | 13.0% | Official homepage & announcement links for industrial/energy partners |
 | `3. Quantum Leadership & CHIPS Act Initiatives` | **11** | 1.9% | Department of Commerce NIST LOIs & DOE $2B quantum initiatives |
-| `4. Executive, Federal & Partner Announcements` | **169** | 28.9% | White House releases, Cabinet agency press, hyperscaler & lab announcements |
-| `5. National Labs & University Coverage` | **290** | 49.6% | National Laboratory news portals & 70 awardee university press releases |
+| `4. Executive, Federal & Partner Announcements` | **170** | 29.0% | White House releases, Cabinet agency press, hyperscaler & lab announcements |
+| `5. National Labs & University Coverage` | **290** | 49.5% | National Laboratory news portals & 70 awardee university press releases |
 | `6. Additional Event Materials & Reference Links` | **18** | 3.1% | Presentation slide decks, institutional intro files & video recordings |
 | `7. Technical Documents, RFA Guidance & Official Webinars` | **18** | 3.1% | DE-FOA-0003612 solicitations, OSTP challenge papers, SCAC presentations & peer-reviewed AI-for-science research |
 
@@ -39,7 +39,7 @@ Below is the distribution of references grouped by top domain hosts and institut
 
 | Domain Host | Reference Count | Host Category | Key Represented Institutions / Content |
 | :--- | :---: | :--- | :--- |
-| `www.energy.gov` | **48** | U.S. Department of Energy (DOE) | FOA releases, Secretary announcements, OSTP challenge docs, Office of the Under Secretary for Science leadership, SBIR/STTR funding, and Challenges Team guidance |
+| `www.energy.gov` | **49** | U.S. Department of Energy (DOE) | FOA releases, Secretary announcements, OSTP challenge docs, Office of the Under Secretary for Science leadership, SBIR/STTR funding, and Challenges Team guidance |
 | `www.anl.gov` | **30** | Argonne National Laboratory (ANL) | ALCF compute platforms, Genesis Open Models, SPOTTER, RoSA robotics, MIRAGE, 2025 research breakthroughs |
 | `science.osti.gov` | **10** | DOE Office of Science (OSTI) | DE-FOA-0003612 guidance, BES/FES/HEP webinars, FAQs |
 | `www.whitehouse.gov` | **7** | White House OSTP / Executive Office | Presidential executive actions, OSTP wins reports, press releases |
@@ -695,5 +695,6 @@ A tabular master index for the 585-reference collection:
 | 5. National Labs & University Coverage | George Washington University | GW Engineering Professor Receives Department of Energy Genesis Mission Award | `gwtoday.gwu.edu` | Web | [GW Engineering Professor Receives Department of Energy Genesis Mission Award](https://gwtoday.gwu.edu/gw-engineering-professor-receives-department-energy-genesis-mission-award) | `Processed` |
 | 5. National Labs & University Coverage | Columbia University | Columbia Engineering Faculty Members Awarded Genesis Mission Funding | `www.engineering.columbia.edu` | Web | [Columbia Engineering Faculty Members Awarded Genesis Mission Funding](https://www.engineering.columbia.edu/about/news/columbia-engineering-faculty-members-awarded-genesis-mission-funding) | `Processed` |
 | 6. Additional Event Materials & Reference Links | DOE CSGF Annual Program Review | The Genesis Mission: Nation-Scale AI and the Future of Scientific Work (Brian Spears, LLNL) | `www.krellinst.org` | Web | [The Genesis Mission: Nation-Scale AI and the Future of Scientific Work (Brian Spears, LLNL)](https://www.krellinst.org/csgf/conf/2026/video/spears2026) | `Processed` |
+| 4. Executive, Federal & Partner Announcements | DOE Office of Nuclear Energy | One Year After Executive Orders, U.S. Nuclear Energy Renaissance Is in Full Swing | `www.energy.gov` | Web | [One Year After Executive Orders, U.S. Nuclear Energy Renaissance Is in Full Swing](https://www.energy.gov/ne/articles/one-year-after-executive-orders-us-nuclear-energy-renaissance-full-swing) | `Processed` |
 
 

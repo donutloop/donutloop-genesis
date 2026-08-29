@@ -1,9 +1,9 @@
 # Genesis Mission — Full Ecosystem Coverage Tracker
 
 > **Scope & Coverage Definition:**
-> - **Flagship Consortium Scope:** Tracks **all 209 primary flagship participants**—lead contractors, federal agencies, national laboratories, awardee universities, strategic industrial partners, and philanthropic foundations—explicitly profiled or referenced in the Genesis Mission paper (`README.md`) and reference index.
+> - **Flagship Consortium Scope:** Tracks **all 213 primary flagship participants**—lead contractors, federal agencies, national laboratories, awardee universities, strategic industrial partners, and philanthropic foundations—explicitly profiled or referenced in the Genesis Mission paper (`README.md`) and reference index.
 > - **Broader National Awardee Network Context:** Under solicitation DE-FOA-0003612 and interagency challenges, the broader national initiative encompasses **342 total participating institutions** (157 companies, 142 universities, 16 national labs, 13 non-profits, 14 other entities across 278 projects).
-> - **Coverage Status:** **188 / 209 (90.0%)** of the tracked consortium entities have dedicated, detailed technical profiles.
+> - **Coverage Status:** **188 / 213 (88.3%)** of the tracked consortium entities have dedicated, detailed technical profiles.
 
 **Legend:**
 - ✅ **Full Profile** — Dedicated section with detailed technical write-up (Sections 2.2 / 3.1 / 3.2 / 3.3 / 3.4 / 3.5)
@@ -112,6 +112,10 @@
 | [Tennessee Valley Authority](https://www.tva.gov/) | ✅ Full Profile | §3.1, A.3 | Federal power utility, Clinch River SMR nuclear demonstration & exascale grid co-simulation |
 | [SHINE Technologies](https://shinetechnologies.com/) | ✅ Full Profile | §3.1, A.3 | Nuclear fuel recycling AI & radioisotope production; 2 DOE Genesis project awards |
 | [X-energy](https://x-energy.com/) | ❌ Not Covered | — | Project Prometheus Tier 1 partner; Xe-100 SMR and TRISO-X fuel designs (reference only) |
+| [Antares Nuclear](https://www.antaresindustries.com/) | ❌ Not Covered | — | Advanced microreactor developer; achieved criticality under the Reactor Pilot Program (reference only) |
+| [Valar Atomics](https://valaratomics.com/) | ❌ Not Covered | — | Advanced reactor developer focused on industrial heat; achieved criticality under the Reactor Pilot Program (reference only) |
+| [Deployable Energy](https://www.deployable.energy) | ❌ Not Covered | — | Microreactor developer with portable designs; achieved criticality under the Reactor Pilot Program (reference only) |
+| [Radiant](https://www.radiantnuclear.com) | ❌ Not Covered | — | Microreactor developer, scheduled to test its design at INL's DOME test bed (reference only) |
 
 ---
 
@@ -304,20 +308,20 @@
 
 | Entity Type | Total | ✅ Full | 📋 Brief | ❌ Not Covered |
 |:---|:---:|:---:|:---:|:---:|
-| Industry Partners | 79 | 76 | 0 | 3 |
+| Industry Partners | 83 | 76 | 0 | 7 |
 | Federal Agencies | 10 | 10 | 0 | 0 |
 | National Laboratories & Defense Sites | 22 | 22 | 0 | 0 |
 | Universities | 81 | 68 | 0 | 13 |
 | Philanthropy, Policy & Regional Hubs | 17 | 12 | 0 | 5 |
-| **Total** | **209** | **188** | **0** | **21** |
+| **Total** | **213** | **188** | **0** | **25** |
 
 ### By Coverage Level
 
 | Coverage Level | Count | Percentage |
 |:---|:---:|:---:|
-| ✅ Full Profile | 188 | 90.0% |
+| ✅ Full Profile | 188 | 88.3% |
 | 📋 Brief Mention | 0 | 0.0% |
-| ❌ Not Covered | 21 | 10.0% |
-| **Total Entities** | **209** | **100%** |
+| ❌ Not Covered | 25 | 11.7% |
+| **Total Entities** | **213** | **100%** |
 
-> **Note:** The tracker now covers 209 Genesis Mission ecosystem participants, with 188 entities in dedicated technical write-ups (90.0% full-profile coverage). George Washington University, X-energy, Cosylab, Brown University, Heidelberg University, Howard University, European Coalition for AI in Fundamental Physics (EuCAIF), Colorado School of Mines, UC San Diego, University of Delaware, University of Hawaiʻi at Mānoa, University of Massachusetts Amherst, University of Washington, Boise State University, St. Joseph's University, New York, The Ohio State University, ChipNexus, Southeastern Universities Research Association (SURA), ORISE, Energy Sciences Coalition (ESC), and Krell Institute remain registered as reference-only participants. The broader sub-grantee network of 342 participating institutions represents secondary academic and sub-contractor nodes across the 278 national project awards.
+> **Note:** The tracker now covers 213 Genesis Mission ecosystem participants, with 188 entities in dedicated technical write-ups (88.3% full-profile coverage). George Washington University, X-energy, Cosylab, Brown University, Heidelberg University, Howard University, European Coalition for AI in Fundamental Physics (EuCAIF), Colorado School of Mines, UC San Diego, University of Delaware, University of Hawaiʻi at Mānoa, University of Massachusetts Amherst, University of Washington, Boise State University, St. Joseph's University, New York, The Ohio State University, ChipNexus, Southeastern Universities Research Association (SURA), ORISE, Energy Sciences Coalition (ESC), Krell Institute, Antares Nuclear, Valar Atomics, Deployable Energy, and Radiant remain registered as reference-only participants. The broader sub-grantee network of 342 participating institutions represents secondary academic and sub-contractor nodes across the 278 national project awards.
