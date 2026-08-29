@@ -5,6 +5,14 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.6.32] - 2026-08-29
+
+### Added
+- **Reference Index Entry #585**: Processed Krell Institute DOE CSGF Annual Program Review presentation video link `https://www.krellinst.org/csgf/conf/2026/video/spears2026` (*The Genesis Mission: Nation-Scale AI and the Future of Scientific Work* — Dr. Brian Spears) under Section 6 (*Additional Event Materials & Reference Links*) in `references.md`.
+- **Master Index Update**: Registered new entry #585 in `reference_coverage.md` at the bottom of the table to avoid large renumbering updates. Synchronized all summary metrics: Total Reference Links (584 → 585), Web Portals & Press Releases (563 → 564), Unique Target Domains (279 → 280), and 100% Processing Status (585 / 585 Processed, 100% Complete). Section 6 count increased (17 → 18, 2.9% → 3.1%) and Section 5 share adjusted (49.7% → 49.6%). Added `www.krellinst.org` top domain count of 1 with notes on fellowship administration and DOE CSGF Annual Program Review presentation videos and abstracts.
+- **Coverage Matrix Update**: Added `Krell Institute` as a new reference-only partner to `coverage.md` under Philanthropy, Non-Profit Foundations & Regional Hubs. Updated total entity counts (208 → 209), and "Not Covered" metrics (20 → 21, 9.6% → 10.0%) across all summary tables and notes.
+- **Research Paper Enrichment — §3.2 & Appendix A.6 (README.md & README.de.md)**: Enriched the Lawrence Livermore National Laboratory (LLNL) section under §3.2 of both English and German flagship papers with technical and strategic insights from Dr. Brian Spears' keynote address at the 2026 DOE CSGF Annual Program Review, detailing the two-thrust nation-scale AI paradigm (Science & Technology Challenges and the agent-first Genesis Platform) and its impacts on early-career scientists and the scientific workforce. Also updated Appendix A.6 multimedia tables with the new keynote presentation and bumped version string to `3.6.32` across `README.md` and `README.de.md`.
+
 ## [3.6.31] - 2026-08-29
 
 ### Added
