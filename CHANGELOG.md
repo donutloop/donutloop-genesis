@@ -5,6 +5,16 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.6.72] - 2026-08-30
+
+### Added
+- **Reference Index Entry #624**: Processed `https://www.pnnl.gov/news-media/new-life-used-nuclear-fuel` (*New Life for Used Nuclear Fuel*, host domain `www.pnnl.gov`) under Section 5 (*National Labs & University Coverage — Pacific Northwest National Laboratory (PNNL)*) in `references.md`.
+- **Master Index Update**: Registered new entry #624 at the bottom of the Section 4 Master Reference Link Index table in `reference_coverage.md`. Synchronized all summary metrics: Total Reference Links (623 → 624), Web Portals & Press Releases (601 → 602), and Processing Status (**624 / 624 Processed, 100% Complete**). Section 5 count increased (322 → 323, 51.7% → 51.8%) and Section 2 (12.4% → 12.3%) and Section 4 (27.8% → 27.7%) shares were adjusted. Unique Target Domains remain at **300** (`www.pnnl.gov` already indexed); its Section 3 top domain count increased (6 → 7) with an expanded content description.
+- **Coverage Matrix Audit**: No new entities introduced — **Pacific Northwest National Laboratory (PNNL)** is already tracked in `coverage.md`; totals remain unchanged.
+
+### Changed
+- **Research Paper Enrichment — §3.2 (README.md & README.de.md)**: Extended the *Pacific Northwest National Laboratory (PNNL)* entry in both flagship papers with a new *AI-Enabled Used Nuclear Fuel Recycling & Online Process Monitoring* subsection, documenting that discharged commercial reactor fuel retains **over 90% of its original energy content**, PNNL's closed-fuel-cycle separations chemistry that recovers uranium and plutonium only in mixed, non-weapons-usable forms (pure plutonium never isolated) as an intrinsic nonproliferation safeguard, the role of the **Radiochemical Processing Laboratory (RPL)** Hazard Category II facility, the replacement of dose-intensive manual grab sampling by **non-destructive on-line and near-real-time Raman and UV-Vis absorption spectroscopy** measuring concentration, speciation and uranium/plutonium ratios in flowing streams, and the **machine learning / chemometric AI models** required to deconvolute high-dimensional spectra from streams spanning roughly half the periodic table for real-time process optimization and continuous safeguards material accountancy — including waste-volume, cost, uranium-mining and worker-dose reductions and advanced-reactor feedstock supply with partners such as **Project Omega**. Added the reference link to the *Official Releases & Media* list and bumped the version string to `3.6.72` across `README.md` and `README.de.md`.
+
 ## [3.6.71] - 2026-08-30
 
 ### Added
