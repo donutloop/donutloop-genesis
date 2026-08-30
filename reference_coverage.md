@@ -1,7 +1,7 @@
 # Genesis Mission — Master Reference Coverage Report
 
 > **Document Overview:**
-> This report provides a comprehensive coverage analysis, breakdown, and master audit index for the **623 external reference links** compiled within `references.md` for the **Genesis Mission** documentation repository.
+> This report provides a comprehensive coverage analysis, breakdown, and master audit index for the **624 external reference links** compiled within `references.md` for the **Genesis Mission** documentation repository.
 
 ---
 
@@ -9,13 +9,13 @@
 
 | Metric | Count / Value | Description |
 | :--- | :--- | :--- |
-| **Total Reference Links** | **623** | Unique external links indexed across all sections |
+| **Total Reference Links** | **624** | Unique external links indexed across all sections |
 | **Primary Document Sections** | **7** | High-level thematic categories in `references.md` |
 | **Unique Target Domains** | **300** | Distinct domain names referenced (government, lab, corporate, academic, news) |
 | **Official PDF Documents** | **22** | Formal RFA solicitations, webinars, slides, and executive reports |
-| **Web Portals & Press Releases** | **601** | Newsroom features, corporate blog posts, and interactive hubs |
+| **Web Portals & Press Releases** | **602** | Newsroom features, corporate blog posts, and interactive hubs |
 | **Validation Status** | **100% Validated** | All links canonicalized, formatted, and deduplicated |
-| **Processing Status** | **623 / 623 Processed** | 0 Unprocessed, 623 Processed (100% Complete) |
+| **Processing Status** | **624 / 624 Processed** | 0 Unprocessed, 624 Processed (100% Complete) |
 
 ---
 
@@ -24,10 +24,10 @@
 | Section Header | Link Count | Share (%) | Primary Focus Area |
 |:---|:---:|:---:|:---|
 | `1. Key Presentation Details` | **3** | 0.5% | Briefing agendas, U.S. ATLAS IB meeting details & CERN links |
-| `2. Collaborators` | **77** | 12.4% | Official homepage & announcement links for industrial/energy partners |
+| `2. Collaborators` | **77** | 12.3% | Official homepage & announcement links for industrial/energy partners |
 | `3. Quantum Leadership & CHIPS Act Initiatives` | **11** | 1.8% | Department of Commerce NIST LOIs & DOE $2B quantum initiatives |
-| `4. Executive, Federal & Partner Announcements` | **173** | 27.8% | White House releases, Cabinet agency press, hyperscaler & lab announcements |
-| `5. National Labs & University Coverage` | **322** | 51.7% | National Laboratory news portals & 72 awardee university press releases |
+| `4. Executive, Federal & Partner Announcements` | **173** | 27.7% | White House releases, Cabinet agency press, hyperscaler & lab announcements |
+| `5. National Labs & University Coverage` | **323** | 51.8% | National Laboratory news portals & 72 awardee university press releases |
 | `6. Additional Event Materials & Reference Links` | **18** | 2.9% | Presentation slide decks, institutional intro files & video recordings |
 | `7. Technical Documents, RFA Guidance & Official Webinars` | **19** | 3.0% | DE-FOA-0003612 solicitations, OSTP challenge papers, SCAC presentations & peer-reviewed AI-for-science research |
 
@@ -119,7 +119,7 @@ Below is the distribution of references grouped by top domain hosts and institut
 | `www.olcf.ornl.gov` | **1** | Oak Ridge Leadership Computing Facility (OLCF) | Lux AI-optimized and HPC-centric compute system architecture, GPU specifications, and scientific AI allocations |
 | `doresearch.stanford.edu` | **1** | Stanford University Research Office | Stanford Research Development Office guidelines, resources, and institutional support tools for major federal funding programs |
 | `www.rti.org` | **2** | RTI International | Administers the Genesis Mission Consortium via TechWerx, and research teams selected for DOE Genesis Mission |
-| `www.pnnl.gov` | **6** | Pacific Northwest National Laboratory (PNNL) | Official project portal, news media, biotechnology, grid operations, nuclear science, and Phase I projects |
+| `www.pnnl.gov` | **7** | Pacific Northwest National Laboratory (PNNL) | Official project portal, news media, biotechnology, grid operations, nuclear science, Phase I projects, and AI-enabled spectroscopic online monitoring for used nuclear fuel recycling |
 | `news.arizona.edu` | **3** | University Newsroom | University of Arizona Genesis Mission awards, advisory committee appointment, and Suresh Garimella's congressional funding call |
 | `viterbischool.usc.edu` | **1** | University Newsroom | USC Viterbi School of Engineering leading DOE Genesis Mission AI-driven fluid turbulence simulation research project under Associate Professor Iván Bermejo-Moreno |
 | `www.vtcrc.com` | **1** | Research Park Newsroom | Virginia Tech Corporate Research Center (VTCRC) press coverage of Aclara Technologies' DOE Genesis Mission federal funding for AI-driven heavy rare earth processing |
@@ -762,3 +762,4 @@ A tabular master index for the 609-reference collection:
 | 5. National Labs & University Coverage | University of Washington (UW) — UW News | UW News: Hossein Naghavi Uses Terahertz Waves to Bring Superhuman Vision to Augmented Reality | `www.washington.edu` | Web | [UW News: Hossein Naghavi Uses Terahertz Waves to Bring Superhuman Vision to Augmented Reality](https://www.washington.edu/news/2026/08/18/hossein-naghavi-terahertz-waves-augmented-reality-genesis-mission/) | `Processed` |
 | 5. National Labs & University Coverage | Columbia University — Department of Electrical Engineering | Tanvir Ahmed Khan Awarded Genesis Mission Funding | `www.ee.columbia.edu` | Web | [Tanvir Ahmed Khan Awarded Genesis Mission Funding](https://www.ee.columbia.edu/news/tanvir-ahmed-khan-awarded-genesis-mission-funding) | `Processed` |
 | 5. National Labs & University Coverage | National Renewable Energy Laboratory (NREL/NLR) | Q&A With Steve Hammond: AI Data Center Challenges and NLR Solutions | `www.nlr.gov` | Web | [Q&A With Steve Hammond: AI Data Center Challenges and NLR Solutions](https://www.nlr.gov/news/detail/program/2026/q-a-with-steve-hammond-ai-data-center-challenges-and-nlr-solutions) | `Processed` |
+| 5. National Labs & University Coverage | Pacific Northwest National Laboratory (PNNL) | New Life for Used Nuclear Fuel | `www.pnnl.gov` | Web | [New Life for Used Nuclear Fuel](https://www.pnnl.gov/news-media/new-life-used-nuclear-fuel) | `Processed` |

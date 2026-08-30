@@ -435,6 +435,7 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
   * [PNNL Powers Biotechnology, Grid Operations, Nuclear Science Through Genesis AI for Science Mission](https://www.pnnl.gov/news-media/pnnl-powers-biotechnology-grid-operations-nuclear-science-through-genesis-ai-science)
   * [Inside PNNL’s Lab-Wide Push for Trustworthy Autonomous Science](https://www.pnnl.gov/news-media/inside-pnnls-lab-wide-push-trustworthy-autonomous-science)
   * [Genesis Mission Phase 1 Projects](https://www.pnnl.gov/projects/genesis-mission/phase-1-projects)
+  * [New Life for Used Nuclear Fuel](https://www.pnnl.gov/news-media/new-life-used-nuclear-fuel)
 * **Princeton Plasma Physics Laboratory (PPPL):** 
   * [PPPL to Lead Genesis Mission Project to Create an AI Operator for Fusion Heating](https://www.pppl.gov/news/2026/pppl-lead-genesis-mission-project-create-ai-operator-crucial-fusion-energy-heating-system)
   * [PPPL Genesis Mission AI4Fusion Project](https://www.pppl.gov/research/projects/genesis-mission-ai4fusion)
