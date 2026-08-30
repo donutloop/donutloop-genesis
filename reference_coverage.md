@@ -1,7 +1,7 @@
 # Genesis Mission — Master Reference Coverage Report
 
 > **Document Overview:**
-> This report provides a comprehensive coverage analysis, breakdown, and master audit index for the **621 external reference links** compiled within `references.md` for the **Genesis Mission** documentation repository.
+> This report provides a comprehensive coverage analysis, breakdown, and master audit index for the **622 external reference links** compiled within `references.md` for the **Genesis Mission** documentation repository.
 
 ---
 
@@ -9,13 +9,13 @@
 
 | Metric | Count / Value | Description |
 | :--- | :--- | :--- |
-| **Total Reference Links** | **621** | Unique external links indexed across all sections |
+| **Total Reference Links** | **622** | Unique external links indexed across all sections |
 | **Primary Document Sections** | **7** | High-level thematic categories in `references.md` |
-| **Unique Target Domains** | **299** | Distinct domain names referenced (government, lab, corporate, academic, news) |
+| **Unique Target Domains** | **300** | Distinct domain names referenced (government, lab, corporate, academic, news) |
 | **Official PDF Documents** | **22** | Formal RFA solicitations, webinars, slides, and executive reports |
-| **Web Portals & Press Releases** | **599** | Newsroom features, corporate blog posts, and interactive hubs |
+| **Web Portals & Press Releases** | **600** | Newsroom features, corporate blog posts, and interactive hubs |
 | **Validation Status** | **100% Validated** | All links canonicalized, formatted, and deduplicated |
-| **Processing Status** | **621 / 621 Processed** | 0 Unprocessed, 621 Processed (100% Complete) |
+| **Processing Status** | **622 / 622 Processed** | 0 Unprocessed, 622 Processed (100% Complete) |
 
 ---
 
@@ -26,8 +26,8 @@
 | `1. Key Presentation Details` | **3** | 0.5% | Briefing agendas, U.S. ATLAS IB meeting details & CERN links |
 | `2. Collaborators` | **77** | 12.4% | Official homepage & announcement links for industrial/energy partners |
 | `3. Quantum Leadership & CHIPS Act Initiatives` | **11** | 1.8% | Department of Commerce NIST LOIs & DOE $2B quantum initiatives |
-| `4. Executive, Federal & Partner Announcements` | **173** | 27.9% | White House releases, Cabinet agency press, hyperscaler & lab announcements |
-| `5. National Labs & University Coverage` | **320** | 51.5% | National Laboratory news portals & 72 awardee university press releases |
+| `4. Executive, Federal & Partner Announcements` | **173** | 27.8% | White House releases, Cabinet agency press, hyperscaler & lab announcements |
+| `5. National Labs & University Coverage` | **321** | 51.6% | National Laboratory news portals & 72 awardee university press releases |
 | `6. Additional Event Materials & Reference Links` | **18** | 2.9% | Presentation slide decks, institutional intro files & video recordings |
 | `7. Technical Documents, RFA Guidance & Official Webinars` | **19** | 3.1% | DE-FOA-0003612 solicitations, OSTP challenge papers, SCAC presentations & peer-reviewed AI-for-science research |
 
@@ -99,6 +99,7 @@ Below is the distribution of references grouped by top domain hosts and institut
 | `www.scidac.gov` | **1** | U.S. Department of Energy (DOE) | Scientific Discovery through Advanced Computing (SciDAC) Institutes providing mathematical algorithms and computer science tools |
 | `today.ucsd.edu` | **2** | University Newsroom | UC San Diego-led National Data Platform (NDP) and Department of Energy Genesis Mission Award for SIDERIUS AI scientist agent project |
 | `www.ece.uw.edu` | **1** | University Newsroom | UW ECE spotlight on Assistant Professor Hossein Naghavi's low-power neuromorphic terahertz imaging AR headset project |
+| `www.ee.columbia.edu` | **1** | Columbia Engineering — Department of Electrical Engineering | AI-powered framework for characterizing HPC workload performance from binary executables (LLNL-led Genesis Mission project) |
 | `www.washington.edu` | **2** | University of Washington (Federal Relations & UW News) | White House Genesis Mission launch summary and UW News feature on terahertz-enabled "superhuman vision" augmented reality hardware |
 | `gwtoday.gwu.edu` | **1** | University Newsroom | GW Engineering Professor Michael Keidar receives an inaugural DOE Genesis Mission Award for real-time personalized adaptive plasma medicine and satellite propulsion |
 | `www.engineering.columbia.edu` | **1** | University Newsroom | Columbia Engineering faculty members Kyle Bishop, Norman Christ, and Kara Lamb awarded DOE Genesis Mission funding for bio-programmable matter operating systems, nuclear force simulation, and cloud models |
@@ -758,3 +759,4 @@ A tabular master index for the 609-reference collection:
 | 5. National Labs & University Coverage | Washington University in St. Louis (WashU) | Hengen Applies Lessons from Brain to Quantum Sensing | `source.washu.edu` | Web | [Hengen Applies Lessons from Brain to Quantum Sensing](https://source.washu.edu/2026/08/hengen-applies-lessons-from-brain-to-quantum-sensing/) | `Processed` |
 | 5. National Labs & University Coverage | Stony Brook University & Brookhaven National Laboratory (BNL) | Stony Brook, Brookhaven Lab Researchers Demonstrate 'Wireless' Capability for Quantum Network | `news.stonybrook.edu` | Web | [Stony Brook, Brookhaven Lab Researchers Demonstrate 'Wireless' Capability for Quantum Network](https://news.stonybrook.edu/university/stony-brook-brookhaven-lab-researchers-demonstrate-wireless-capability-for-quantum-network) | `Processed` |
 | 5. National Labs & University Coverage | University of Washington (UW) — UW News | UW News: Hossein Naghavi Uses Terahertz Waves to Bring Superhuman Vision to Augmented Reality | `www.washington.edu` | Web | [UW News: Hossein Naghavi Uses Terahertz Waves to Bring Superhuman Vision to Augmented Reality](https://www.washington.edu/news/2026/08/18/hossein-naghavi-terahertz-waves-augmented-reality-genesis-mission/) | `Processed` |
+| 5. National Labs & University Coverage | Columbia University — Department of Electrical Engineering | Tanvir Ahmed Khan Awarded Genesis Mission Funding | `www.ee.columbia.edu` | Web | [Tanvir Ahmed Khan Awarded Genesis Mission Funding](https://www.ee.columbia.edu/news/tanvir-ahmed-khan-awarded-genesis-mission-funding) | `Processed` |
