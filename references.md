@@ -80,6 +80,7 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
 * [Sambanova](https://sambanova.ai/)
 * [Scale AI](https://scale.com/)
 * [Semiconductor Industry Association](https://www.semiconductors.org/)
+* [Silurian AI](https://silurian.ai/): [Can AI See the Next Flood Coming? UMD Team Aims to Transform Water Forecasting](https://www.cs.umd.edu/article/2026/08/can-ai-see-next-flood-coming-umd-team-aims-transform-water-forecasting) - AI weather and Earth-system forecasting company (Generative Forecasting Transformer foundation model); industry collaborator on the University of Maryland-led Genesis Mission Phase I project *An Agentic AI Framework for Seasonal-to-Interannual U.S. Water Prediction*, coupled with DOE's Energy Exascale Earth System Model (E3SM).
 * [Siemens](https://www.siemens.com/)
 * [Synopsys](https://www.synopsys.com/)
 * [TdVib](https://tdvib.com/)

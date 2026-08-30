@@ -5,6 +5,17 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.10.0] - 2026-08-30
+
+### Added
+- **Company Profile Expansion — Silurian AI (§3.1 A, README.md & README.de.md)**: Added a dedicated *Silurian AI* entry under *Industry, Hyperscale & Hardware Commitments — Frontier AI, Cloud & Hyperscale Computing* in both flagship papers, structured into *Grants & Commitments* (industry collaborator on the University of Maryland-led Genesis Mission **Phase I** project *"An Agentic AI Framework for Seasonal-to-Interannual U.S. Water Prediction"*, a **$750,000** award (~$470,000 to UMD) led by **Jinwoong Yoo** at the Earth System Science Interdisciplinary Center (ESSIC) with **Oak Ridge National Laboratory (ORNL)**, the **University of Florida** and the **University of Colorado Boulder**, selected as one of 270 proposals from more than 5,000 submissions), *Technical Capabilities* (the **Generative Forecasting Transformer (GFT)**, a ~1.5-billion-parameter global weather foundation model delivering ~11 km resolution medium-range forecasts through GPU inference instead of full numerical weather prediction integrations, cutting energy and wall-clock cost of ensemble forecasting relative to conventional supercomputer-based NWP cycles), and *AI & Digital Twin Platforms* (learned atmospheric and hydrologic emulators coupled with DOE's **Energy Exascale Earth System Model (E3SM)** inside an agentic AI workflow for generative ensemble downscaling, seasonal-to-interannual flood and water-hazard projections, and rapid scenario exploration for grid operators, energy infrastructure planning and emergency response, with operational deployment targeted upon Phase II advancement).
+- **Appendix A.3 Registration**: Added a *Silurian AI* row to the *Frontier AI & Data Platforms* partner table in Appendix A.3 of both `README.md` and `README.de.md`.
+- **Reference Index Entry (`references.md`)**: Registered *Silurian AI* under *Collaborators* with its official homepage and the retained University of Maryland coverage [*Can AI See the Next Flood Coming? UMD Team Aims to Transform Water Forecasting*](https://www.cs.umd.edu/article/2026/08/can-ai-see-next-flood-coming-umd-team-aims-transform-water-forecasting).
+
+### Changed
+- **Coverage Tracker Upgrade (`coverage.md`)**: Upgraded **Silurian AI** from `❌ Not Covered` to `✅ Full Profile` with paper sections `§3.1, A.3` and expanded technical notes. Recalculated summary metrics: Industry Partners (80 → 81 full, 8 → 7 not covered), overall totals (192 → 193 full, 37 → 36 not covered), coverage level shares (✅ 83.8% → 84.3%, ❌ 16.2% → 15.7%), the scope header coverage status (**192 / 229** → **193 / 229**), and removed Silurian AI from the reference-only participants footnote.
+- **Version Bump**: Incremented the version string to `3.10.0` across `README.md` and `README.de.md`.
+
 ## [3.9.0] - 2026-08-30
 
 ### Added
