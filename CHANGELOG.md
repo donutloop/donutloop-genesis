@@ -5,6 +5,16 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.7.0] - 2026-08-30
+
+### Added
+- **Company Profile Expansion — X-energy (§3.1 C, README.md & README.de.md)**: Added a dedicated *X-energy* entry under *Industry, Hyperscale & Hardware Commitments — Industrial Technology, Energy, Materials & Infrastructure Partners* in both flagship papers, structured into *MOUs, Grants & Commitments* ($10 Million private capital contribution to the three-year, $60 Million INL-led DOE Phase II **Project Prometheus** campaign with 32 partners and $200M+ aggregate industry cost-share alongside NVIDIA, AWS, ORNL, ANL, SNL, Oklo, TerraPower and SHINE Technologies), *Technical Capabilities* (**Xe-100** high-temperature gas-cooled pebble-bed SMR at 80 MWe per unit / 320 MWe four-pack plants for high-temperature industrial process heat, and the **TRISO-X** tri-structural isotropic coated-particle fuel architecture manufactured at the TRISO-X Fuel Fabrication Facility (TF3) in Oak Ridge, Tennessee), and *AI & Agentic Platforms* (the **APEX** multi-agentic AI platform feeding the Genesis nuclear digital thread, plus vendor design and fuel-cycle datasets grounding physics-informed digital twins, neutronics/thermal-hydraulics surrogates and human-in-the-loop autonomous operations across Office of Nuclear Energy focus areas 4A, 4B, 4C and 4E toward a 50% reduction in SMR licensing timelines and operating costs). Linked the existing reference [*X-energy Joins Project Prometheus for AI-Accelerated Advanced Nuclear Deployment*](https://x-energy.com/news/x-energy-joins-project-prometheus-for-ai-accelerated-advanced-nuclear-deployment/) retained in `references.md`.
+- **Appendix A.3 Registration**: Added an *X-energy* row to the *Energy, Utilities & Critical Materials* partner table in Appendix A.3 of both `README.md` and `README.de.md`.
+
+### Changed
+- **Coverage Tracker Upgrade (`coverage.md`)**: Upgraded **X-energy** from `❌ Not Covered` to `✅ Full Profile` with paper sections `§3.1, A.3` and expanded technical notes. Recalculated summary metrics: Industry Partners (77 → 78 full, 11 → 10 not covered), overall totals (189 → 190 full, 40 → 39 not covered), coverage level shares (✅ 82.5% → 83.0%, ❌ 17.5% → 17.0%), the scope header coverage status (**189 / 229** → **190 / 229**), and removed X-energy from the reference-only participants footnote.
+- **Version Bump**: Incremented the version string to `3.7.0` across `README.md` and `README.de.md`.
+
 ## [3.6.72] - 2026-08-30
 
 ### Added

@@ -3,7 +3,7 @@
 > **Scope & Coverage Definition:**
 > - **Flagship Consortium Scope:** Tracks **all 229 primary flagship participants**—lead contractors, federal agencies, national laboratories, awardee universities, strategic industrial partners, and philanthropic foundations—explicitly profiled or referenced in the Genesis Mission paper (`README.md`) and reference index.
 > - **Broader National Awardee Network Context:** Under solicitation DE-FOA-0003612 and interagency challenges, the broader national initiative encompasses **342 total participating institutions** (157 companies, 142 universities, 16 national labs, 13 non-profits, 14 other entities across 278 projects).
-> - **Coverage Status:** **189 / 229 (82.5%)** of the tracked consortium entities have dedicated, detailed technical profiles.
+> - **Coverage Status:** **190 / 229 (83.0%)** of the tracked consortium entities have dedicated, detailed technical profiles.
 
 **Legend:**
 - ✅ **Full Profile** — Dedicated section with detailed technical write-up (Sections 2.2 / 3.1 / 3.2 / 3.3 / 3.4 / 3.5)
@@ -114,7 +114,7 @@
 | [Ramaco](https://ramacoresources.com/) | ✅ Full Profile | §3.1, A.3 | Coal-to-materials manufacturing, synthetic graphite battery anode production & Brook Mine REE extraction |
 | [Tennessee Valley Authority](https://www.tva.gov/) | ✅ Full Profile | §3.1, A.3 | Federal power utility, Clinch River SMR nuclear demonstration & exascale grid co-simulation |
 | [SHINE Technologies](https://shinetechnologies.com/) | ✅ Full Profile | §3.1, A.3 | Nuclear fuel recycling AI & radioisotope production; 2 DOE Genesis project awards |
-| [X-energy](https://x-energy.com/) | ❌ Not Covered | — | Project Prometheus Tier 1 partner; Xe-100 SMR and TRISO-X fuel designs (reference only) |
+| [X-energy](https://x-energy.com/) | ✅ Full Profile | §3.1, A.3 | Project Prometheus Tier 1 partner ($10M private capital in the $60M INL-led Phase II campaign); Xe-100 high-temperature pebble-bed SMR (80 MWe / 320 MWe four-pack) & TRISO-X coated-particle fuel (TF3 Oak Ridge); APEX multi-agentic AI platform for licensing, digital twins & semi-autonomous operations |
 | [Antares Nuclear](https://www.antaresindustries.com/) | ❌ Not Covered | — | Advanced microreactor developer; achieved criticality under the Reactor Pilot Program (reference only) |
 | [Valar Atomics](https://valaratomics.com/) | ❌ Not Covered | — | Advanced reactor developer focused on industrial heat; achieved criticality under the Reactor Pilot Program (reference only) |
 | [Deployable Energy](https://www.deployable.energy) | ❌ Not Covered | — | Microreactor developer with portable designs; achieved criticality under the Reactor Pilot Program (reference only) |
@@ -324,20 +324,20 @@
 
 | Entity Type | Total | ✅ Full | 📋 Brief | ❌ Not Covered |
 |:---|:---:|:---:|:---:|:---:|
-| Industry Partners | 88 | 77 | 0 | 11 |
+| Industry Partners | 88 | 78 | 0 | 10 |
 | Federal Agencies | 10 | 10 | 0 | 0 |
 | National Laboratories & Defense Sites | 25 | 22 | 0 | 3 |
 | Universities | 89 | 68 | 0 | 21 |
 | Philanthropy, Policy & Regional Hubs | 17 | 12 | 0 | 5 |
-| **Total** | **229** | **189** | **0** | **40** |
+| **Total** | **229** | **190** | **0** | **39** |
 
 ### By Coverage Level
 
 | Coverage Level | Count | Percentage |
 |:---|:---:|:---:|
-| ✅ Full Profile | 189 | 82.5% |
+| ✅ Full Profile | 190 | 83.0% |
 | 📋 Brief Mention | 0 | 0.0% |
-| ❌ Not Covered | 40 | 17.5% |
+| ❌ Not Covered | 39 | 17.0% |
 | **Total Entities** | **229** | **100%** |
 
-> **Note:** The tracker now covers 229 Genesis Mission ecosystem participants, with 189 entities in dedicated technical write-ups (82.5% full-profile coverage). George Washington University, X-energy, Cosylab, Brown University, Heidelberg University, Howard University, European Coalition for AI in Fundamental Physics (EuCAIF), Colorado School of Mines, UC San Diego, University of Delaware, University of Hawaiʻi at Mānoa, University of Massachusetts Amherst, University of Washington, Boise State University, St. Joseph's University, New York, The Ohio State University, Kent State University, University of Maryland, ChipNexus, Southeastern Universities Research Association (SURA), ORISE, Energy Sciences Coalition (ESC), Krell Institute, Antares Nuclear, Valar Atomics, Deployable Energy, Radiant, La Sierra University, Clean Republic SODO, LLC, Molecular Foundry, Joint Genome Institute (JGI), Oak Ridge Leadership Computing Facility (OLCF), EdenCode, Aclara Technologies, University of Oklahoma (OU), North Carolina State University (NC State), William & Mary, the University of North Carolina at Chapel Hill (UNC-Chapel Hill), Silurian AI, and Washington University in St. Louis (WashU) remain registered as reference-only participants. The broader sub-grantee network of 342 participating institutions represents secondary academic and sub-contractor nodes across the 278 national project awards.
+> **Note:** The tracker now covers 229 Genesis Mission ecosystem participants, with 190 entities in dedicated technical write-ups (83.0% full-profile coverage). George Washington University, Cosylab, Brown University, Heidelberg University, Howard University, European Coalition for AI in Fundamental Physics (EuCAIF), Colorado School of Mines, UC San Diego, University of Delaware, University of Hawaiʻi at Mānoa, University of Massachusetts Amherst, University of Washington, Boise State University, St. Joseph's University, New York, The Ohio State University, Kent State University, University of Maryland, ChipNexus, Southeastern Universities Research Association (SURA), ORISE, Energy Sciences Coalition (ESC), Krell Institute, Antares Nuclear, Valar Atomics, Deployable Energy, Radiant, La Sierra University, Clean Republic SODO, LLC, Molecular Foundry, Joint Genome Institute (JGI), Oak Ridge Leadership Computing Facility (OLCF), EdenCode, Aclara Technologies, University of Oklahoma (OU), North Carolina State University (NC State), William & Mary, the University of North Carolina at Chapel Hill (UNC-Chapel Hill), Silurian AI, and Washington University in St. Louis (WashU) remain registered as reference-only participants. The broader sub-grantee network of 342 participating institutions represents secondary academic and sub-contractor nodes across the 278 national project awards.
