@@ -5,6 +5,16 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.9.0] - 2026-08-30
+
+### Added
+- **Company Profile Expansion — Cosylab (§3.1 C, README.md & README.de.md)**: Added a dedicated *Cosylab* entry under *Industry, Hyperscale & Hardware Commitments — Industrial Technology, Energy, Materials & Infrastructure Partners* in both flagship papers, structured into *Grants & Commitments* (industry collaborator on the Genesis Mission **Phase I** project *"AI-Driven, Self-Learning Digital Twins for Robust Operation of Particle Accelerators"* led by **Brookhaven National Laboratory (BNL)** (Kevin Brown) with the Thomas Jefferson National Accelerator Facility (TJNAF), Cornell University, Rensselaer Polytechnic Institute (RPI) and RadiaSoft), *Technical Capabilities* (**EPICS**- and **TANGO**-based accelerator and large-scale scientific instrument control stacks, device drivers, timing and machine protection integration, and software quality assurance forming the production control layer through which AI-derived setpoints are validated and applied to live machines), and *AI & Digital Twin Platforms* (**self-learning, uncertainty-aware digital twins** coupling physics-based accelerator models with machine learning to quantify operational uncertainty, forecast machine behavior and drift, and enable real-time decision-making and automated optimal control toward reduced beam downtime, faster machine tuning and semi-autonomous accelerator operations across DOE user facilities). Retained the existing reference [*Cosylab selected for U.S. Department of Energy's Genesis Mission*](https://cosylab.com/news/genesis-mission-phase1-project/) in `references.md`.
+- **Appendix A.3 Registration**: Added a *Cosylab* row to the *Laboratory Automation & Specialized Technology* partner table in Appendix A.3 of both `README.md` and `README.de.md`.
+
+### Changed
+- **Coverage Tracker Upgrade (`coverage.md`)**: Upgraded **Cosylab** from `❌ Not Covered` to `✅ Full Profile` with paper sections `§3.1, A.3` and expanded technical notes. Recalculated summary metrics: Industry Partners (79 → 80 full, 9 → 8 not covered), overall totals (191 → 192 full, 38 → 37 not covered), coverage level shares (✅ 83.4% → 83.8%, ❌ 16.6% → 16.2%), the scope header coverage status (**191 / 229** → **192 / 229**), and removed Cosylab from the reference-only participants footnote.
+- **Version Bump**: Incremented the version string to `3.9.0` across `README.md` and `README.de.md`.
+
 ## [3.8.0] - 2026-08-30
 
 ### Added

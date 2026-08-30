@@ -3,7 +3,7 @@
 > **Scope & Coverage Definition:**
 > - **Flagship Consortium Scope:** Tracks **all 229 primary flagship participants**—lead contractors, federal agencies, national laboratories, awardee universities, strategic industrial partners, and philanthropic foundations—explicitly profiled or referenced in the Genesis Mission paper (`README.md`) and reference index.
 > - **Broader National Awardee Network Context:** Under solicitation DE-FOA-0003612 and interagency challenges, the broader national initiative encompasses **342 total participating institutions** (157 companies, 142 universities, 16 national labs, 13 non-profits, 14 other entities across 278 projects).
-> - **Coverage Status:** **191 / 229 (83.4%)** of the tracked consortium entities have dedicated, detailed technical profiles.
+> - **Coverage Status:** **192 / 229 (83.8%)** of the tracked consortium entities have dedicated, detailed technical profiles.
 
 **Legend:**
 - ✅ **Full Profile** — Dedicated section with detailed technical write-up (Sections 2.2 / 3.1 / 3.2 / 3.3 / 3.4 / 3.5)
@@ -131,7 +131,7 @@
 | [Accenture Federal Services](https://www.accenture.com/) | ✅ Full Profile | §3.1, A.3 | CM2US operating capability, federal AI systems integration & multi-agency program management |
 | [Atomic Canyon](https://www.atomiccanyon.com/) | ✅ Full Profile | §3.1, A.3 | AI-driven nuclear energy research platforms, regulatory document search (NeutronAI) & nuclear knowledge graphs |
 | [Chemspeed](https://www.chemspeed.com/) | ✅ Full Profile | §2.3D, §3.1, A.3 | Automated chemical synthesis workstation platforms, robotic dispensing & closed-loop AI experimentation |
-| [Cosylab](https://www.cosylab.com/) | ❌ Not Covered | — | Slovenian control systems and AI integration specialist developing AI-driven, self-learning digital twins for robust particle accelerator operations (reference only) |
+| [Cosylab](https://www.cosylab.com/) | ✅ Full Profile | §3.1, A.3 | Genesis Mission Phase I industry collaborator on BNL-led AI-driven self-learning digital twins for particle accelerators (with TJNAF, Cornell, RPI, RadiaSoft); EPICS/TANGO accelerator control systems, timing & machine protection integration, uncertainty-aware ML control toward semi-autonomous accelerator operations |
 | [Emerald Cloud Lab](https://www.emeraldcloudlab.com/) | ✅ Full Profile | §2.3D, §3.1, A.3 | Cloud-based robotic laboratory automation, remote API-driven experiment execution & FAIR datasets |
 | [Esri](https://www.esri.com/) | ✅ Full Profile | §3.1, A.3 | Enterprise GIS platforms, spatial analytics engines & spatial digital twins for Earth observation |
 | [OLI Systems](https://olisystems.com/) | ✅ Full Profile | §3.1, A.3 | Thermodynamic chemistry simulation engines, electrolyte modeling & hydrometallurgical extraction solvers |
@@ -324,20 +324,20 @@
 
 | Entity Type | Total | ✅ Full | 📋 Brief | ❌ Not Covered |
 |:---|:---:|:---:|:---:|:---:|
-| Industry Partners | 88 | 79 | 0 | 9 |
+| Industry Partners | 88 | 80 | 0 | 8 |
 | Federal Agencies | 10 | 10 | 0 | 0 |
 | National Laboratories & Defense Sites | 25 | 22 | 0 | 3 |
 | Universities | 89 | 68 | 0 | 21 |
 | Philanthropy, Policy & Regional Hubs | 17 | 12 | 0 | 5 |
-| **Total** | **229** | **191** | **0** | **38** |
+| **Total** | **229** | **192** | **0** | **37** |
 
 ### By Coverage Level
 
 | Coverage Level | Count | Percentage |
 |:---|:---:|:---:|
-| ✅ Full Profile | 191 | 83.4% |
+| ✅ Full Profile | 192 | 83.8% |
 | 📋 Brief Mention | 0 | 0.0% |
-| ❌ Not Covered | 38 | 16.6% |
+| ❌ Not Covered | 37 | 16.2% |
 | **Total Entities** | **229** | **100%** |
 
-> **Note:** The tracker now covers 229 Genesis Mission ecosystem participants, with 191 entities in dedicated technical write-ups (83.4% full-profile coverage). George Washington University, Cosylab, Brown University, Heidelberg University, Howard University, European Coalition for AI in Fundamental Physics (EuCAIF), Colorado School of Mines, UC San Diego, University of Delaware, University of Hawaiʻi at Mānoa, University of Massachusetts Amherst, University of Washington, Boise State University, St. Joseph's University, New York, The Ohio State University, Kent State University, University of Maryland, ChipNexus, Southeastern Universities Research Association (SURA), ORISE, Energy Sciences Coalition (ESC), Krell Institute, Antares Nuclear, Valar Atomics, Deployable Energy, Radiant, La Sierra University, Clean Republic SODO, LLC, Molecular Foundry, Joint Genome Institute (JGI), Oak Ridge Leadership Computing Facility (OLCF), EdenCode, University of Oklahoma (OU), North Carolina State University (NC State), William & Mary, the University of North Carolina at Chapel Hill (UNC-Chapel Hill), Silurian AI, and Washington University in St. Louis (WashU) remain registered as reference-only participants. The broader sub-grantee network of 342 participating institutions represents secondary academic and sub-contractor nodes across the 278 national project awards.
+> **Note:** The tracker now covers 229 Genesis Mission ecosystem participants, with 192 entities in dedicated technical write-ups (83.8% full-profile coverage). George Washington University, Brown University, Heidelberg University, Howard University, European Coalition for AI in Fundamental Physics (EuCAIF), Colorado School of Mines, UC San Diego, University of Delaware, University of Hawaiʻi at Mānoa, University of Massachusetts Amherst, University of Washington, Boise State University, St. Joseph's University, New York, The Ohio State University, Kent State University, University of Maryland, ChipNexus, Southeastern Universities Research Association (SURA), ORISE, Energy Sciences Coalition (ESC), Krell Institute, Antares Nuclear, Valar Atomics, Deployable Energy, Radiant, La Sierra University, Clean Republic SODO, LLC, Molecular Foundry, Joint Genome Institute (JGI), Oak Ridge Leadership Computing Facility (OLCF), EdenCode, University of Oklahoma (OU), North Carolina State University (NC State), William & Mary, the University of North Carolina at Chapel Hill (UNC-Chapel Hill), Silurian AI, and Washington University in St. Louis (WashU) remain registered as reference-only participants. The broader sub-grantee network of 342 participating institutions represents secondary academic and sub-contractor nodes across the 278 national project awards.
