@@ -488,6 +488,7 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
 * **Columbia University:**
   * [Projects Receive Genesis Mission Funding](https://news.columbia.edu/news/columbia-university-projects-receive-genesis-mission-funding)
   * [Columbia Engineering Faculty Members Awarded Genesis Mission Funding](https://www.engineering.columbia.edu/about/news/columbia-engineering-faculty-members-awarded-genesis-mission-funding)
+  * [Tanvir Ahmed Khan Awarded Genesis Mission Funding](https://www.ee.columbia.edu/news/tanvir-ahmed-khan-awarded-genesis-mission-funding)
 * **Cornell University:** [Awards Will Advance AI-Driven Science](https://news.cornell.edu/stories/2026/07/doe-genesis-mission-awards-will-advance-ai-driven-science)
 * **Dakota State University:** [DSU’s Dr. Peng Guo Joins Argonne-Led Quantum Computing Project](https://dsu.edu/news/2026/peng-guo-argonne.html)
 * **Emory University:** [Scientists Selected for Awards to Speed Discovery Through AI](https://news.emory.edu/stories/2026/07/emory-scientists-selected-us-genesis-mission-awards-speed-discovery-through-ai)
