@@ -1,7 +1,7 @@
 # Genesis Mission — Master Reference Coverage Report
 
 > **Document Overview:**
-> This report provides a comprehensive coverage analysis, breakdown, and master audit index for the **620 external reference links** compiled within `references.md` for the **Genesis Mission** documentation repository.
+> This report provides a comprehensive coverage analysis, breakdown, and master audit index for the **621 external reference links** compiled within `references.md` for the **Genesis Mission** documentation repository.
 
 ---
 
@@ -9,13 +9,13 @@
 
 | Metric | Count / Value | Description |
 | :--- | :--- | :--- |
-| **Total Reference Links** | **620** | Unique external links indexed across all sections |
+| **Total Reference Links** | **621** | Unique external links indexed across all sections |
 | **Primary Document Sections** | **7** | High-level thematic categories in `references.md` |
 | **Unique Target Domains** | **299** | Distinct domain names referenced (government, lab, corporate, academic, news) |
 | **Official PDF Documents** | **22** | Formal RFA solicitations, webinars, slides, and executive reports |
-| **Web Portals & Press Releases** | **598** | Newsroom features, corporate blog posts, and interactive hubs |
+| **Web Portals & Press Releases** | **599** | Newsroom features, corporate blog posts, and interactive hubs |
 | **Validation Status** | **100% Validated** | All links canonicalized, formatted, and deduplicated |
-| **Processing Status** | **620 / 620 Processed** | 0 Unprocessed, 620 Processed (100% Complete) |
+| **Processing Status** | **621 / 621 Processed** | 0 Unprocessed, 621 Processed (100% Complete) |
 
 ---
 
@@ -27,7 +27,7 @@
 | `2. Collaborators` | **77** | 12.4% | Official homepage & announcement links for industrial/energy partners |
 | `3. Quantum Leadership & CHIPS Act Initiatives` | **11** | 1.8% | Department of Commerce NIST LOIs & DOE $2B quantum initiatives |
 | `4. Executive, Federal & Partner Announcements` | **173** | 27.9% | White House releases, Cabinet agency press, hyperscaler & lab announcements |
-| `5. National Labs & University Coverage` | **319** | 51.5% | National Laboratory news portals & 72 awardee university press releases |
+| `5. National Labs & University Coverage` | **320** | 51.5% | National Laboratory news portals & 72 awardee university press releases |
 | `6. Additional Event Materials & Reference Links` | **18** | 2.9% | Presentation slide decks, institutional intro files & video recordings |
 | `7. Technical Documents, RFA Guidance & Official Webinars` | **19** | 3.1% | DE-FOA-0003612 solicitations, OSTP challenge papers, SCAC presentations & peer-reviewed AI-for-science research |
 
@@ -99,6 +99,7 @@ Below is the distribution of references grouped by top domain hosts and institut
 | `www.scidac.gov` | **1** | U.S. Department of Energy (DOE) | Scientific Discovery through Advanced Computing (SciDAC) Institutes providing mathematical algorithms and computer science tools |
 | `today.ucsd.edu` | **2** | University Newsroom | UC San Diego-led National Data Platform (NDP) and Department of Energy Genesis Mission Award for SIDERIUS AI scientist agent project |
 | `www.ece.uw.edu` | **1** | University Newsroom | UW ECE spotlight on Assistant Professor Hossein Naghavi's low-power neuromorphic terahertz imaging AR headset project |
+| `www.washington.edu` | **2** | University of Washington (Federal Relations & UW News) | White House Genesis Mission launch summary and UW News feature on terahertz-enabled "superhuman vision" augmented reality hardware |
 | `gwtoday.gwu.edu` | **1** | University Newsroom | GW Engineering Professor Michael Keidar receives an inaugural DOE Genesis Mission Award for real-time personalized adaptive plasma medicine and satellite propulsion |
 | `www.engineering.columbia.edu` | **1** | University Newsroom | Columbia Engineering faculty members Kyle Bishop, Norman Christ, and Kara Lamb awarded DOE Genesis Mission funding for bio-programmable matter operating systems, nuclear force simulation, and cloud models |
 | `www.krellinst.org` | **1** | Fellowship Administrator | Hosts the DOE CSGF Annual Program Review and publishes presentation videos and abstracts for pioneering computational science research |
@@ -756,3 +757,4 @@ A tabular master index for the 609-reference collection:
 | 5. National Labs & University Coverage | University of Maryland (UMD) — Department of Computer Science | Can AI See the Next Flood Coming? UMD Team Aims to Transform Water Forecasting | `www.cs.umd.edu` | Web | [Can AI See the Next Flood Coming? UMD Team Aims to Transform Water Forecasting](https://www.cs.umd.edu/article/2026/08/can-ai-see-next-flood-coming-umd-team-aims-transform-water-forecasting) | `Processed` |
 | 5. National Labs & University Coverage | Washington University in St. Louis (WashU) | Hengen Applies Lessons from Brain to Quantum Sensing | `source.washu.edu` | Web | [Hengen Applies Lessons from Brain to Quantum Sensing](https://source.washu.edu/2026/08/hengen-applies-lessons-from-brain-to-quantum-sensing/) | `Processed` |
 | 5. National Labs & University Coverage | Stony Brook University & Brookhaven National Laboratory (BNL) | Stony Brook, Brookhaven Lab Researchers Demonstrate 'Wireless' Capability for Quantum Network | `news.stonybrook.edu` | Web | [Stony Brook, Brookhaven Lab Researchers Demonstrate 'Wireless' Capability for Quantum Network](https://news.stonybrook.edu/university/stony-brook-brookhaven-lab-researchers-demonstrate-wireless-capability-for-quantum-network) | `Processed` |
+| 5. National Labs & University Coverage | University of Washington (UW) — UW News | UW News: Hossein Naghavi Uses Terahertz Waves to Bring Superhuman Vision to Augmented Reality | `www.washington.edu` | Web | [UW News: Hossein Naghavi Uses Terahertz Waves to Bring Superhuman Vision to Augmented Reality](https://www.washington.edu/news/2026/08/18/hossein-naghavi-terahertz-waves-augmented-reality-genesis-mission/) | `Processed` |
