@@ -5,6 +5,16 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.6.68] - 2026-08-30
+
+### Added
+- **Reference Index Entry #620**: Processed `https://news.stonybrook.edu/university/stony-brook-brookhaven-lab-researchers-demonstrate-wireless-capability-for-quantum-network` (*Stony Brook, Brookhaven Lab Researchers Demonstrate 'Wireless' Capability for Quantum Network*, host domain `news.stonybrook.edu`) under Section 5 (*National Labs & University Coverage — Stony Brook University*) in `references.md`.
+- **Master Index Update**: Registered new entry #620 at the bottom of the Section 4 Master Reference Link Index table in `reference_coverage.md`. Synchronized all summary metrics: Total Reference Links (619 → 620), Web Portals & Press Releases (597 → 598), and Processing Status (**620 / 620 Processed, 100% Complete**). Unique Target Domains remained at 299 (`news.stonybrook.edu` already indexed). Section 5 count increased (318 → 319, 51.4% → 51.5%). Added the `news.stonybrook.edu` row to the Section 3 top domain classification table (**4** references).
+- **Coverage Matrix Audit**: No new entities introduced — both **Stony Brook University** and **Brookhaven National Laboratory (BNL)** already hold `✅ Full Profile` status in `coverage.md`; totals remain **189 / 229 (82.5%)**.
+
+### Changed
+- **Research Paper Enrichment — §3.3 (README.md & README.de.md)**: Extended the *Stony Brook* entry in both the English and German flagship papers with the **August 21, 2026** demonstration of the first U.S. wireless free-space optical (FSO) quantum network link — single photons and nighttime entangled photon pairs transmitted across **13 miles (21 km)** of open air from Stony Brook's rooftop **'Quantum Watchtower'** to Brookhaven's **'Quantum Lighthouse'** in Upton, New York. Documented the leadership team (SBU Quantum Institute Director **Eden Figueroa**, Brookhaven instrumentation scientist **Justine Haupt**, and Associate Laboratory Director **Gabriella Carini**), the **5-micron** fiber core emission, astronomy-derived **adaptive optics** for atmospheric turbulence compensation, infrared operation matched to quantum processors, the **161-mile (259 km)** eight-node fiber backbone extended by the wireless segment, and the roadmap toward a **30-mile Yale University link** and satellite-based quantum communications. Bumped the version string to `3.6.68` across `README.md` and `README.de.md`.
+
 ## [3.6.67] - 2026-08-30
 
 ### Added
