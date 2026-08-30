@@ -5,6 +5,16 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.8.0] - 2026-08-30
+
+### Added
+- **Company Profile Expansion — Aclara Technologies (§3.1 C, README.md & README.de.md)**: Expanded the *Aclara Technologies* entry under *Industry, Hyperscale & Hardware Commitments — Industrial Technology, Energy, Materials & Infrastructure Partners* in both flagship papers from a single narrative paragraph into a structured dedicated profile with *Grants & Commitments* (Genesis Mission **Phase I** award under the critical minerals challenge of DE-FOA-0003612 ($293 Million solicitation) for *"AI-Enabled Process Optimization for Multi-Feed Rare Earth Separation,"* eligible for follow-on **Phase II** scale-up funding, executed as an industry–national laboratory–university consortium with **Argonne National Laboratory (ANL)** and **Virginia Tech**), *Technical Capabilities* (the rare earth **separation pilot plant** at the Virginia Tech Corporate Research Center processing multi-feed inputs through staged solvent extraction circuits for domestic **dysprosium** and **terbium** recovery underpinning high-coercivity NdFeB permanent magnet supply chains for EV traction motors, wind generators and defense platforms), and *AI & Digital Twin Platforms* (an **AI-assisted digital twin** of the multi-feed solvent extraction circuit trained on pilot plant operating data and coupled to Argonne's advanced hydrometallurgical process simulation tooling for circuit stability under varying feed compositions, higher recovery and product purity, reduced operator intervention toward semi-autonomous plant control, and accelerated commercialization of domestic heavy rare earth separation). Retained the existing reference [*Aclara Technologies Selected for DOE Federal Funding to Advance AI-Driven Heavy Rare Earth Processing*](https://www.vtcrc.com/aclara-technologies-selected-for-doe-federal-funding-to-advance-ai-driven-heavy-rare-earth-processing/) in `references.md`.
+
+### Changed
+- **Coverage Tracker Upgrade (`coverage.md`)**: Upgraded **Aclara Technologies** from `❌ Not Covered` to `✅ Full Profile` with paper sections `§3.1, A.3` and expanded technical notes. Recalculated summary metrics: Industry Partners (78 → 79 full, 10 → 9 not covered), overall totals (190 → 191 full, 39 → 38 not covered), coverage level shares (✅ 83.0% → 83.4%, ❌ 17.0% → 16.6%), the scope header coverage status (**190 / 229** → **191 / 229**), and removed Aclara Technologies from the reference-only participants footnote.
+- **Appendix A.3 Verification**: Confirmed the existing *Aclara Technologies* row in the *Energy, Utilities & Critical Materials* partner table of Appendix A.3 in both `README.md` and `README.de.md`.
+- **Version Bump**: Incremented the version string to `3.8.0` across `README.md` and `README.de.md`.
+
 ## [3.7.0] - 2026-08-30
 
 ### Added
