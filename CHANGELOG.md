@@ -5,6 +5,16 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.6.67] - 2026-08-30
+
+### Added
+- **Reference Index Entry #619**: Processed `https://source.washu.edu/2026/08/hengen-applies-lessons-from-brain-to-quantum-sensing/` (*Hengen Applies Lessons from Brain to Quantum Sensing*, host domain `source.washu.edu`) under Section 5 (*National Labs & University Coverage — Universities & Research Institutions*) in `references.md`.
+- **Master Index Update**: Registered new entry #619 at the bottom of the Section 4 Master Reference Link Index table in `reference_coverage.md`. Synchronized all summary metrics: Total Reference Links (618 → 619), Web Portals & Press Releases (596 → 597), Unique Target Domains (298 → 299, new host `source.washu.edu`), and Processing Status (**619 / 619 Processed, 100% Complete**). Section 5 count increased (317 → 318, 51.3% → 51.4%), with share percentages recalculated for Sections 2 (12.5% → 12.4%) and 4 (28.0% → 27.9%). Added the `source.washu.edu` row to the Section 3 top domain classification table.
+- **Coverage Matrix Audit**: Added **Washington University in St. Louis (WashU)** to the *Research Universities* section of `coverage.md` with status `❌ Not Covered` *(reference only)*. Updated summary metrics: total tracked participants (228 → 229), Universities row (88 → 89 total, 20 → 21 not covered), Not Covered total (39 → 40, 17.1% → 17.5%), and full-profile coverage ratio (189 / 228, 82.9% → 189 / 229, 82.5%).
+
+### Changed
+- **Research Paper Enrichment — §3.3 & Appendix A.5 (README.md & README.de.md)**: Added a **Washington University in St. Louis (WashU) & Argonne National Laboratory** entry to the *Quantum Science, Information Theory & Modality Development* grouping of §3.3 in both the English and German flagship papers, documenting the **$750,000** Genesis Mission project *Superconducting Polychronous Computation Near Criticality*, led by **Keith Hengen** (associate professor of biology, Arts & Sciences) with Argonne physicist **Whitney Armstrong**. Captured the transfer of the neuroscience principle of **criticality** — the regime between order and chaos at which information processing, learning speed, and adaptability are maximized — to superconducting quantum sensor design, the present **accuracy and energy-consumption** limits of quantum sensors, the initial theoretical and computational modeling of polychronous computation near the critical point, and the long-term goal of **self-tuning quantum hardware** modeled on biological neural networks. Added matching Appendix A.5 university table rows. Bumped the version string to `3.6.67` across `README.md` and `README.de.md`.
+
 ## [3.6.66] - 2026-08-29
 
 ### Added
