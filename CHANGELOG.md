@@ -5,6 +5,16 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.6.69] - 2026-08-30
+
+### Added
+- **Reference Index Entry #621**: Processed `https://www.washington.edu/news/2026/08/18/hossein-naghavi-terahertz-waves-augmented-reality-genesis-mission/` (*UW News: Hossein Naghavi Uses Terahertz Waves to Bring Superhuman Vision to Augmented Reality*, host domain `www.washington.edu`) under Section 5 (*National Labs & University Coverage — University of Washington*) in `references.md`.
+- **Master Index Update**: Registered new entry #621 at the bottom of the Section 4 Master Reference Link Index table in `reference_coverage.md`. Synchronized all summary metrics: Total Reference Links (620 → 621), Web Portals & Press Releases (598 → 599), and Processing Status (**621 / 621 Processed, 100% Complete**). Unique Target Domains remained at 299 (`www.washington.edu` already indexed). Section 5 count increased (319 → 320, share unchanged at 51.5%). Added the `www.washington.edu` row to the Section 3 top domain classification table (**2** references).
+- **Coverage Matrix Audit**: No new entities introduced — **University of Washington**, **Texas A&M University**, the **University of Utah**, **ChipNexus** and **NVIDIA** are already tracked in `coverage.md`; totals remain **189 / 229 (82.5%)**.
+
+### Changed
+- **Research Paper Enrichment — §3.3 (README.md & README.de.md)**: Extended the *University of Washington* entry in both flagship papers with UW News detail on the Genesis Mission project *Neuromorphic Terahertz Imaging via Analog Compute-in-Memory in AI-Driven Augmented Reality Hardware* led by ECE Assistant Professor **Hossein Naghavi** (Terahertz Integrated MicroElectronics — **TIME** — Lab). Documented the underlying physics (terahertz radiation between microwaves and infrared, combining microwave-like penetration with near-optical resolution), the selection ratio (**278 awards from more than 5,000 national applications**), the low-power high-bandwidth headset architecture fusing terahertz sensing with analog compute-in-memory inference in hardware, and the application space spanning firefighting and emergency response, autonomous navigation, security screening, industrial inspection, biomedical sensing and beyond-5G communication networks. Bumped the version string to `3.6.69` across `README.md` and `README.de.md`.
+
 ## [3.6.68] - 2026-08-30
 
 ### Added
