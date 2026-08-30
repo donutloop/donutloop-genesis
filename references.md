@@ -397,6 +397,7 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
 * **National Renewable Energy Laboratory (NLR/NREL):** 
   * [Computational Science Genesis Mission Hub](https://www.nlr.gov/computational-science/genesis-mission)
   * [AI-Driven Research to Strengthen U.S. Grid, Supply Chains, and Technological Leadership](https://www.nlr.gov/news/detail/features/2026/genesis-mission's-ai-driven-research-to-strengthen-us-grid-supply-chains-and-technological-leadership)
+  * [Q&A With Steve Hammond: AI Data Center Challenges and NLR Solutions](https://www.nlr.gov/news/detail/program/2026/q-a-with-steve-hammond-ai-data-center-challenges-and-nlr-solutions)
 * **Oak Ridge National Laboratory (ORNL):** 
   * [The Genesis Mission & Core Systems at ORNL](https://www.ornl.gov/genesis)
   * [Oak Ridge National Laboratory Portal](https://www.ornl.gov/)
