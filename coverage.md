@@ -1,9 +1,9 @@
 # Genesis Mission — Full Ecosystem Coverage Tracker
 
 > **Scope & Coverage Definition:**
-> - **Flagship Consortium Scope:** Tracks **all 228 primary flagship participants**—lead contractors, federal agencies, national laboratories, awardee universities, strategic industrial partners, and philanthropic foundations—explicitly profiled or referenced in the Genesis Mission paper (`README.md`) and reference index.
+> - **Flagship Consortium Scope:** Tracks **all 229 primary flagship participants**—lead contractors, federal agencies, national laboratories, awardee universities, strategic industrial partners, and philanthropic foundations—explicitly profiled or referenced in the Genesis Mission paper (`README.md`) and reference index.
 > - **Broader National Awardee Network Context:** Under solicitation DE-FOA-0003612 and interagency challenges, the broader national initiative encompasses **342 total participating institutions** (157 companies, 142 universities, 16 national labs, 13 non-profits, 14 other entities across 278 projects).
-> - **Coverage Status:** **189 / 228 (82.9%)** of the tracked consortium entities have dedicated, detailed technical profiles.
+> - **Coverage Status:** **189 / 229 (82.5%)** of the tracked consortium entities have dedicated, detailed technical profiles.
 
 **Legend:**
 - ✅ **Full Profile** — Dedicated section with detailed technical write-up (Sections 2.2 / 3.1 / 3.2 / 3.3 / 3.4 / 3.5)
@@ -282,6 +282,7 @@
 | [North Carolina State University (NC State)](https://www.ncsu.edu/) | ❌ Not Covered | — | Leads three Genesis Mission Phase I projects: AI-powered programming framework for emerging AI accelerators (Prof. Michela Becchi, with Argonne), adversarial-attack defense for agentic AI scientific workflows (Prof. Xiaorui Liu), and AI-embedded neutron star merger/supernova simulations (Prof. Gail McLaughlin, with ORNL); partner on two nuclear energy projects (reference only) |
 | [William & Mary](https://www.wm.edu/) | ❌ Not Covered | — | ~$1M Phase I award (PI Cristiano Fanelli, School of Computing, Data Sciences & Physics) for multi-detector AI foundation models spanning simulation, reconstruction and noise filtering, with Jefferson Lab, Brookhaven and SLAC; supports EIC and GlueX detector design (reference only) |
 | [University of North Carolina at Chapel Hill (UNC-Chapel Hill)](https://www.unc.edu/) | ❌ Not Covered | — | Genesis Mission award negotiation (Profs. Julieta Gruszko & Reyco Henning, Physics & Astronomy) applying AI and advanced computing to the LEGEND neutrinoless double-beta decay search (LEGEND-200 / LEGEND-1000) probing matter–antimatter asymmetry (reference only) |
+| [Washington University in St. Louis (WashU)](https://wustl.edu/) | ❌ Not Covered | — | $750,000 Genesis Mission grant (Prof. Keith Hengen, Biology, Arts & Sciences) for *Superconducting Polychronous Computation Near Criticality*, transferring brain criticality principles to self-tuning superconducting quantum sensors with Argonne National Laboratory (reference only) |
 
 ---
 
@@ -326,17 +327,17 @@
 | Industry Partners | 88 | 77 | 0 | 11 |
 | Federal Agencies | 10 | 10 | 0 | 0 |
 | National Laboratories & Defense Sites | 25 | 22 | 0 | 3 |
-| Universities | 88 | 68 | 0 | 20 |
+| Universities | 89 | 68 | 0 | 21 |
 | Philanthropy, Policy & Regional Hubs | 17 | 12 | 0 | 5 |
-| **Total** | **228** | **189** | **0** | **39** |
+| **Total** | **229** | **189** | **0** | **40** |
 
 ### By Coverage Level
 
 | Coverage Level | Count | Percentage |
 |:---|:---:|:---:|
-| ✅ Full Profile | 189 | 82.9% |
+| ✅ Full Profile | 189 | 82.5% |
 | 📋 Brief Mention | 0 | 0.0% |
-| ❌ Not Covered | 39 | 17.1% |
-| **Total Entities** | **228** | **100%** |
+| ❌ Not Covered | 40 | 17.5% |
+| **Total Entities** | **229** | **100%** |
 
-> **Note:** The tracker now covers 228 Genesis Mission ecosystem participants, with 189 entities in dedicated technical write-ups (82.9% full-profile coverage). George Washington University, X-energy, Cosylab, Brown University, Heidelberg University, Howard University, European Coalition for AI in Fundamental Physics (EuCAIF), Colorado School of Mines, UC San Diego, University of Delaware, University of Hawaiʻi at Mānoa, University of Massachusetts Amherst, University of Washington, Boise State University, St. Joseph's University, New York, The Ohio State University, Kent State University, University of Maryland, ChipNexus, Southeastern Universities Research Association (SURA), ORISE, Energy Sciences Coalition (ESC), Krell Institute, Antares Nuclear, Valar Atomics, Deployable Energy, Radiant, La Sierra University, Clean Republic SODO, LLC, Molecular Foundry, Joint Genome Institute (JGI), Oak Ridge Leadership Computing Facility (OLCF), EdenCode, Aclara Technologies, University of Oklahoma (OU), North Carolina State University (NC State), William & Mary, the University of North Carolina at Chapel Hill (UNC-Chapel Hill), and Silurian AI remain registered as reference-only participants. The broader sub-grantee network of 342 participating institutions represents secondary academic and sub-contractor nodes across the 278 national project awards.
+> **Note:** The tracker now covers 229 Genesis Mission ecosystem participants, with 189 entities in dedicated technical write-ups (82.5% full-profile coverage). George Washington University, X-energy, Cosylab, Brown University, Heidelberg University, Howard University, European Coalition for AI in Fundamental Physics (EuCAIF), Colorado School of Mines, UC San Diego, University of Delaware, University of Hawaiʻi at Mānoa, University of Massachusetts Amherst, University of Washington, Boise State University, St. Joseph's University, New York, The Ohio State University, Kent State University, University of Maryland, ChipNexus, Southeastern Universities Research Association (SURA), ORISE, Energy Sciences Coalition (ESC), Krell Institute, Antares Nuclear, Valar Atomics, Deployable Energy, Radiant, La Sierra University, Clean Republic SODO, LLC, Molecular Foundry, Joint Genome Institute (JGI), Oak Ridge Leadership Computing Facility (OLCF), EdenCode, Aclara Technologies, University of Oklahoma (OU), North Carolina State University (NC State), William & Mary, the University of North Carolina at Chapel Hill (UNC-Chapel Hill), Silurian AI, and Washington University in St. Louis (WashU) remain registered as reference-only participants. The broader sub-grantee network of 342 participating institutions represents secondary academic and sub-contractor nodes across the 278 national project awards.
