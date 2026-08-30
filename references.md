@@ -549,6 +549,7 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
   * [Researchers Chosen for Landmark AI for Science Awards](https://news.stonybrook.edu/newsroom/press-release/general/stony-brook-university-researchers-chosen-for-landmark-doe-genesis-mission-ai-for-science-awards-2/)
   * [University Coverage: AI for Science Awards](https://news.stonybrook.edu/university/stony-brook-university-researchers-chosen-for-landmark-doe-genesis-mission-ai-for-science-awards/)
   * [Stony Brook Mobilizes for National AI Research Mission](https://news.stonybrook.edu/university/stony-brook-mobilizes-for-national-ai-research-mission/)
+  * [Stony Brook, Brookhaven Lab Researchers Demonstrate 'Wireless' Capability for Quantum Network](https://news.stonybrook.edu/university/stony-brook-brookhaven-lab-researchers-demonstrate-wireless-capability-for-quantum-network)
 * **Texas A&M University:** [Texas A&M Joins the Genesis Mission to Transform Science Using AI](https://stories.tamu.edu/news/2026/07/27/texas-am-university-joins-the-genesis-mission-to-transform-science-using-artificial-intelligence/)
 * **Texas State University:** [DOE Genesis Mission Awards Coverage](https://news.txst.edu/research-and-innovation/2026/doe-genesis-mission.html)
 * **Tulane University:** [Team Selected to Discover Next Generation Materials Using AI](https://news.tulane.edu/pr/department-energys-genesis-mission-selects-tulane-team-using-ai-discover-next-generation)
