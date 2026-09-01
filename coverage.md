@@ -3,7 +3,7 @@
 > **Scope & Coverage Definition:**
 > - **Flagship Consortium Scope:** Tracks **all 238 primary flagship participants**—lead contractors, federal agencies, national laboratories, awardee universities, strategic industrial partners, and philanthropic foundations—explicitly profiled or referenced in the Genesis Mission paper (`README.md`) and reference index.
 > - **Broader National Awardee Network Context:** Under solicitation DE-FOA-0003612 and interagency challenges, the broader national initiative encompasses **342 total participating institutions** (157 companies, 142 universities, 16 national labs, 13 non-profits, 14 other entities across 278 projects).
-> - **Coverage Status:** **210 / 238 (88.2%)** of the tracked consortium entities have dedicated, detailed technical profiles.
+> - **Coverage Status:** **211 / 238 (88.7%)** of the tracked consortium entities have dedicated, detailed technical profiles.
 
 **Legend:**
 - ✅ **Full Profile** — Dedicated section with detailed technical write-up (Sections 2.2 / 3.1 / 3.2 / 3.3 / 3.4 / 3.5)
@@ -280,7 +280,7 @@
 | 0 | [Virginia Tech](https://www.vt.edu/) | ✅ Full Profile | §3.3, A.5 | $20M NSF PCL semiconductor lab node, cyber-physical power grid security & SciML |
 | 0 | [Yale University](https://www.yale.edu/) | ✅ Full Profile | §3.3, A.5 | Superconducting cavity QED quantum architecture, QIS error mitigation & molecular AI |
 | 0 | [St. Joseph's University, New York (SJNY)](https://www.sjny.edu/) | ❌ Not Covered | — | DOE Genesis Mission nuclear-data AI research with Brookhaven National Laboratory (reference only) |
-| 0 | [The Ohio State University](https://www.osu.edu/) | ❌ Not Covered | — | Leads Phase I AI-for-orbital-electronics materials/manufacturing and ROBIN-NET complex-flow PINN teams (reference only) |
+| 1 | [The Ohio State University](https://www.osu.edu/) | ✅ Full Profile | §3.3, A.5 | Leads 2 Genesis Mission Phase I teams, each $500,000–$750,000 over nine months with eligibility for Phase II funding up to $15M over three years: *AI for Orbital Electronics Materials and Manufacturing* (Prof. Roland Kawakami, Physics) applying AI to the discovery, characterization and manufacturing of orbital-angular-momentum (orbitronics) materials with USC, Yale, Argonne National Laboratory and Intel; and **ROBIN-NET** (*RObust BIdirectional PINNs for Accelerated Complex Flow Modeling and Discovery*, Prof. Han-Wei Shen, Computer Science and Engineering) developing robust bidirectional physics-informed neural networks that solve forward simulation and inverse parameter-recovery problems in a single model, with Los Alamos National Laboratory, Oak Ridge National Laboratory and NVIDIA |
 | 0 | [George Washington University](https://www.gwu.edu/) | ❌ Not Covered | — | Inaugural DOE Genesis Mission Award for real-time personalized low-temperature plasma (LTP) therapies and satellite propulsion (reference only) |
 | 0 | [Kent State University](https://www.kent.edu/) | ❌ Not Covered | — | Dr. David Costello leads an AI-driven probabilistic source mapping project utilizing 50 years of water-quality records to locate critical minerals (reference only) |
 | 0 | [University of Maryland](https://www.umd.edu/) | ❌ Not Covered | — | Leads a DOE Genesis Mission flood forecasting effort using agentic and generative AI with E3SM to produce localized seasonal-to-multiyear water hazard predictions (reference only) |
@@ -336,17 +336,17 @@
 | Industry Partners | 93 | 93 | 0 | 0 |
 | Federal Agencies | 11 | 11 | 0 | 0 |
 | National Laboratories & Defense Sites | 26 | 23 | 0 | 3 |
-| Universities | 91 | 71 | 0 | 20 |
+| Universities | 91 | 72 | 0 | 19 |
 | Philanthropy, Policy & Regional Hubs | 17 | 12 | 0 | 5 |
-| **Total** | **238** | **210** | **0** | **28** |
+| **Total** | **238** | **211** | **0** | **27** |
 
 ### By Coverage Level
 
 | Coverage Level | Count | Percentage |
 |:---|:---:|:---:|
-| ✅ Full Profile | 210 | 88.2% |
+| ✅ Full Profile | 211 | 88.7% |
 | 📋 Brief Mention | 0 | 0.0% |
-| ❌ Not Covered | 28 | 11.8% |
+| ❌ Not Covered | 27 | 11.3% |
 | **Total Entities** | **238** | **100%** |
 
-> **Note:** The tracker now covers 238 Genesis Mission ecosystem participants, with 210 entities in dedicated technical write-ups (88.2% full-profile coverage). George Washington University, Brown University, Heidelberg University, Howard University, European Coalition for AI in Fundamental Physics (EuCAIF), Colorado School of Mines, UC San Diego, University of Delaware, University of Hawaiʻi at Mānoa, University of Massachusetts Amherst, University of Washington, Boise State University, St. Joseph's University, New York, The Ohio State University, Kent State University, University of Maryland, Southeastern Universities Research Association (SURA), ORISE, Energy Sciences Coalition (ESC), Krell Institute, La Sierra University, Molecular Foundry, Joint Genome Institute (JGI), University of Oklahoma (OU), William & Mary, the University of North Carolina at Chapel Hill (UNC-Chapel Hill), Washington University in St. Louis (WashU), and the National Reactor Innovation Center (NRIC) remain registered as reference-only participants. The broader sub-grantee network of 342 participating institutions represents secondary academic and sub-contractor nodes across the 278 national project awards.
+> **Note:** The tracker now covers 238 Genesis Mission ecosystem participants, with 211 entities in dedicated technical write-ups (88.7% full-profile coverage). George Washington University, Brown University, Heidelberg University, Howard University, European Coalition for AI in Fundamental Physics (EuCAIF), Colorado School of Mines, UC San Diego, University of Delaware, University of Hawaiʻi at Mānoa, University of Massachusetts Amherst, University of Washington, Boise State University, St. Joseph's University, New York, Kent State University, University of Maryland, Southeastern Universities Research Association (SURA), ORISE, Energy Sciences Coalition (ESC), Krell Institute, La Sierra University, Molecular Foundry, Joint Genome Institute (JGI), University of Oklahoma (OU), William & Mary, the University of North Carolina at Chapel Hill (UNC-Chapel Hill), Washington University in St. Louis (WashU), and the National Reactor Innovation Center (NRIC) remain registered as reference-only participants. The broader sub-grantee network of 342 participating institutions represents secondary academic and sub-contractor nodes across the 278 national project awards.
