@@ -1,9 +1,9 @@
 # Genesis Mission — Full Ecosystem Coverage Tracker
 
 > **Scope & Coverage Definition:**
-> - **Flagship Consortium Scope:** Tracks **all 231 primary flagship participants**—lead contractors, federal agencies, national laboratories, awardee universities, strategic industrial partners, and philanthropic foundations—explicitly profiled or referenced in the Genesis Mission paper (`README.md`) and reference index.
+> - **Flagship Consortium Scope:** Tracks **all 232 primary flagship participants**—lead contractors, federal agencies, national laboratories, awardee universities, strategic industrial partners, and philanthropic foundations—explicitly profiled or referenced in the Genesis Mission paper (`README.md`) and reference index.
 > - **Broader National Awardee Network Context:** Under solicitation DE-FOA-0003612 and interagency challenges, the broader national initiative encompasses **342 total participating institutions** (157 companies, 142 universities, 16 national labs, 13 non-profits, 14 other entities across 278 projects).
-> - **Coverage Status:** **195 / 231 (84.4%)** of the tracked consortium entities have dedicated, detailed technical profiles.
+> - **Coverage Status:** **196 / 232 (84.5%)** of the tracked consortium entities have dedicated, detailed technical profiles.
 
 **Legend:**
 - ✅ **Full Profile** — Dedicated section with detailed technical write-up (Sections 2.2 / 3.1 / 3.2 / 3.3 / 3.4 / 3.5)
@@ -34,6 +34,7 @@
 | [SambaNova Systems](https://sambanova.ai/) | ✅ Full Profile | §2.1, §3.1, A.3 | Reconfigurable Dataflow Architecture (RDUs); high-throughput AI inference; ALCF deployment; Genesis Mission Consortium member |
 | [Veritone](https://www.veritone.com/) | ✅ Full Profile | §3.1, A.3 | Enterprise AI platform (aiWARE), multi-modal data ingestion & semantic search engines |
 | [Rescale](https://rescale.com/) | ✅ Full Profile | §3.1, A.3 | Agentic HPC Pipeline Initiative (AHPI) commercial partner with LBNL, LLNL & ORNL; cloud-native digital engineering platform, multi-cloud HPC orchestration & agentic simulation workflows (WarpX, LiDO, Adamantine) |
+| [PrimaLabs](https://www.primalabs.ai/) | ✅ Full Profile | §3.1, A.3 | NVIDIA & DOE Genesis Mission partner (SRNL, ORNL, PNNL); AI performance engineering, dedicated GPU inference clusters & kernel-level optimization for open scientific models |
 
 ---
 
@@ -326,20 +327,20 @@
 
 | Entity Type | Total | ✅ Full | 📋 Brief | ❌ Not Covered |
 |:---|:---:|:---:|:---:|:---:|
-| Industry Partners | 90 | 83 | 0 | 7 |
+| Industry Partners | 91 | 84 | 0 | 7 |
 | Federal Agencies | 10 | 10 | 0 | 0 |
 | National Laboratories & Defense Sites | 25 | 22 | 0 | 3 |
 | Universities | 89 | 68 | 0 | 21 |
 | Philanthropy, Policy & Regional Hubs | 17 | 12 | 0 | 5 |
-| **Total** | **231** | **195** | **0** | **36** |
+| **Total** | **232** | **196** | **0** | **36** |
 
 ### By Coverage Level
 
 | Coverage Level | Count | Percentage |
 |:---|:---:|:---:|
-| ✅ Full Profile | 195 | 84.4% |
+| ✅ Full Profile | 196 | 84.5% |
 | 📋 Brief Mention | 0 | 0.0% |
-| ❌ Not Covered | 36 | 15.6% |
-| **Total Entities** | **231** | **100%** |
+| ❌ Not Covered | 36 | 15.5% |
+| **Total Entities** | **232** | **100%** |
 
-> **Note:** The tracker now covers 231 Genesis Mission ecosystem participants, with 195 entities in dedicated technical write-ups (84.4% full-profile coverage). George Washington University, Brown University, Heidelberg University, Howard University, European Coalition for AI in Fundamental Physics (EuCAIF), Colorado School of Mines, UC San Diego, University of Delaware, University of Hawaiʻi at Mānoa, University of Massachusetts Amherst, University of Washington, Boise State University, St. Joseph's University, New York, The Ohio State University, Kent State University, University of Maryland, ChipNexus, Southeastern Universities Research Association (SURA), ORISE, Energy Sciences Coalition (ESC), Krell Institute, Antares Nuclear, Valar Atomics, Deployable Energy, Radiant, La Sierra University, Clean Republic SODO, LLC, Molecular Foundry, Joint Genome Institute (JGI), Oak Ridge Leadership Computing Facility (OLCF), EdenCode, University of Oklahoma (OU), North Carolina State University (NC State), William & Mary, the University of North Carolina at Chapel Hill (UNC-Chapel Hill), and Washington University in St. Louis (WashU) remain registered as reference-only participants. The broader sub-grantee network of 342 participating institutions represents secondary academic and sub-contractor nodes across the 278 national project awards.
+> **Note:** The tracker now covers 232 Genesis Mission ecosystem participants, with 196 entities in dedicated technical write-ups (84.5% full-profile coverage). George Washington University, Brown University, Heidelberg University, Howard University, European Coalition for AI in Fundamental Physics (EuCAIF), Colorado School of Mines, UC San Diego, University of Delaware, University of Hawaiʻi at Mānoa, University of Massachusetts Amherst, University of Washington, Boise State University, St. Joseph's University, New York, The Ohio State University, Kent State University, University of Maryland, ChipNexus, Southeastern Universities Research Association (SURA), ORISE, Energy Sciences Coalition (ESC), Krell Institute, Antares Nuclear, Valar Atomics, Deployable Energy, Radiant, La Sierra University, Clean Republic SODO, LLC, Molecular Foundry, Joint Genome Institute (JGI), Oak Ridge Leadership Computing Facility (OLCF), EdenCode, University of Oklahoma (OU), North Carolina State University (NC State), William & Mary, the University of North Carolina at Chapel Hill (UNC-Chapel Hill), and Washington University in St. Louis (WashU) remain registered as reference-only participants. The broader sub-grantee network of 342 participating institutions represents secondary academic and sub-contractor nodes across the 278 national project awards.
