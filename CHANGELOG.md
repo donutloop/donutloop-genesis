@@ -5,6 +5,17 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.12.0] - 2026-09-01
+
+### Added
+- **Reference Index Entry (`references.md`)**: Registered the Siemens Government Technologies (SGT) federal announcement [*Siemens to Help Build AI-Ready Scientific Infrastructure as Part of U.S. Department of Energy's Genesis Mission*](https://www.siemensgovt.com/insights/press-releases/press-genesis/) (`www.siemensgovt.com`) under *Executive, Federal & Partner Announcements*.
+- **Siemens Profile Enrichment (§3.1, README.md & README.de.md)**: Expanded the existing *Siemens* entry with the SGT federal-arm framing of the Genesis contribution as **one connected technology stack rather than isolated AI point solutions** — scientific data, advanced simulation, physics-based digital twins, automation and secure infrastructure unified in the **Siemens Xcelerator** portfolio, domain-specific AI embedded directly into engineering, validation and operational workflows, and simulation/testing/validation/deployment executed in a single digital environment for resilience, scalability and reliability across mission-critical energy, manufacturing and infrastructure systems.
+
+### Changed
+- **Master Index Sync (`reference_coverage.md`)**: Registered the new `www.siemensgovt.com` link in the Master Reference Link Index with status `Processed` and added a `www.siemensgovt.com` domain row (1 link). Updated Section 1 metrics (Total Reference Links **632 → 633**, Unique Target Domains **306 → 307**, Web Portals & Press Releases **610 → 611**, Processing Status **633 / 633 Processed, 100% Complete**) and the Section 2 distribution table (`4. Executive, Federal & Partner Announcements` **178 → 179**, share 28.2% → 28.3%; recalculated share for Section 5).
+- **Coverage Tracker (`coverage.md`)**: Extended the **Siemens** entry notes with the *Siemens Government Technologies (SGT)* federal arm and its connected simulation, automation and secure infrastructure stack. No new entities were introduced, so all summary metrics remain unchanged (**198 / 235**, 84.3%).
+- **Version Bump**: Incremented the version string to `3.12.0` across `README.md` and `README.de.md`.
+
 ## [3.11.2] - 2026-09-01
 
 ### Added
