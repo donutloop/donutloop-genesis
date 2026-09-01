@@ -281,6 +281,8 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
 * [CoreWeave: SUNK — Slurm on Kubernetes Unified AI Training System](https://www.coreweave.com/products/sunk)
 * [Databricks: Securing America's Scientific Future with Databricks & Accenture](https://www.databricks.com/dataaisummit/session/sponsored-accenture-securing-americas-scientific-future)
 * [Databricks: How Ontologies Help Nuclear Scale to Meet Global Energy Demand](https://www.databricks.com/blog/how-ontologies-help-nuclear-scale-meet-global-energy-demand)
+* [Databricks: FedRAMP Compliance — Data Intelligence Platform on AWS GovCloud & Azure](https://www.databricks.com/trust/compliance/fedramp)
+* [Databricks: Open Sourcing Unity Catalog — Universal Catalog for Data and AI](https://www.databricks.com/blog/open-sourcing-unity-catalog)
 * [Dataera.ai: Dataera.ai Collaborates with U.S. Department of Energy on Genesis Mission](https://www.dataerai.com/doe-genesis-partnership.html)
 * [Veritone: Joins Genesis Mission Consortium to Advance U.S. Department of Energy's National AI Initiatives](https://investors.veritone.com/news-events/press-releases/detail/429/veritone-joins-genesis-mission-consortium-to-advance-u-s-department-of-energys-national-ai-initiatives)
 * [Association of American Universities (AAU): Responds to DOE RFI on Mobilizing Academic Talent for Genesis Mission](https://www.aau.edu/resource-library/aau-responds-doe-rfi-mobilizing-talent-genesis-mission)
