@@ -3,7 +3,7 @@
 > **Scope & Coverage Definition:**
 > - **Flagship Consortium Scope:** Tracks **all 238 primary flagship participants**—lead contractors, federal agencies, national laboratories, awardee universities, strategic industrial partners, and philanthropic foundations—explicitly profiled or referenced in the Genesis Mission paper (`README.md`) and reference index.
 > - **Broader National Awardee Network Context:** Under solicitation DE-FOA-0003612 and interagency challenges, the broader national initiative encompasses **342 total participating institutions** (157 companies, 142 universities, 16 national labs, 13 non-profits, 14 other entities across 278 projects).
-> - **Coverage Status:** **206 / 238 (86.6%)** of the tracked consortium entities have dedicated, detailed technical profiles.
+> - **Coverage Status:** **207 / 238 (87.0%)** of the tracked consortium entities have dedicated, detailed technical profiles.
 
 **Legend:**
 - ✅ **Full Profile** — Dedicated section with detailed technical write-up (Sections 2.2 / 3.1 / 3.2 / 3.3 / 3.4 / 3.5)
@@ -55,7 +55,7 @@
 | 0 | [Periodic Labs](https://www.periodiclabs.com/) | ✅ Full Profile | §3.1, A.3 | AI-driven materials discovery agents & automated high-throughput inorganic synthesis |
 | 0 | [Reflection AI](https://www.reflection.ai/) | ✅ Full Profile | §3.1, A.3 | Advanced AI reasoning architectures & open scientific LLMs |
 | 1 | [Scale AI](https://scale.com/) | ✅ Full Profile | §3.1, A.3 | DOE **MOU** with four collaboration tracks (information sharing, joint AI-for-science projects, trustworthy AI-ready data infrastructure across the 17 National Laboratories, generative model evaluation) plus **Genesis Mission Consortium** membership across the ModCon, Data Integration & Standards, AmSC/HPC and Robotics & Automation working groups; **Scale Data Engine** petabyte-scale ingestion, cleaning, schema normalization and annotation of synchrotron, cryo-EM/electron microscopy, mass-spectrometry and sequencing corpora with domain-expert RLHF and synthetic data generation for sparsely sampled regimes; **SEAL** (Safety, Evaluations and Alignment Lab) private non-gameable benchmarks, expert red-teaming and SEAL Leaderboards extended to scientific tasks; **Scale GenAI Platform** test-and-evaluation gated agentic workflows and **Donovan** agents in FedRAMP-authorized and IL5-class government enclaves; ANL/ORNL/LBNL curation pipelines feeding HPDF and the American Science Cloud |
-| 0 | [EdenCode](https://github.com/EdenCodeInc) | ❌ Not Covered | — | AI startup developing real-time quantum error correction decoders; subawardee on SIDERIUS project under UC San Diego DOE Genesis Mission award (reference only) |
+| 1 | [EdenCode](https://github.com/EdenCodeInc) | ✅ Full Profile | §3.1, A.3 | Quantum error correction decoding startup founded 2025 by Harvard and UC San Diego researchers — Wanda Hou (CEO) and UCSD physicist Yi-Zhuang You (CTO) — in San Jose, CA; emerged from stealth January 2026 with a $1.3M pre-seed round; hardware-agnostic neural QEC decoder with sub-millisecond decoding latency (~10× faster than conventional classical decoders) and a vendor-stated 99.9% error-detection rate, trained on measured noise from live quantum hardware and portable across superconducting, trapped-ion and photonic modalities, generalizing from the surface code to Tanner-graph code families with GPU-accelerated decoding on NVIDIA hardware; industry subawardee on the UC San Diego-led SIDERIUS AI-scientist project (PI Aobo Li, Co-PI Yi-Zhuang You) |
 | 0 | [Silurian AI](https://silurian.ai/) | ✅ Full Profile | §3.1, A.3 | Generative Forecasting Transformer (GFT) ~1.5B-parameter global weather foundation model; ~11 km resolution medium-range GPU inference; industry collaborator on the UMD-led $750K Phase I agentic AI framework for seasonal-to-interannual U.S. water prediction coupled with DOE E3SM (ORNL, U. Florida, CU Boulder) |
 | 0 | [Cognition](https://cognition.com/) | ✅ Full Profile | §3.1, A.3 | DOE memorandum of understanding (MOU); Devin autonomous AI software engineer & Devin Security Swarm for scientific code security, legacy Fortran/C++/COBOL modernization and cloud migration; FedRAMP High authorization track |
 
@@ -333,20 +333,20 @@
 
 | Entity Type | Total | ✅ Full | 📋 Brief | ❌ Not Covered |
 |:---|:---:|:---:|:---:|:---:|
-| Industry Partners | 93 | 91 | 0 | 2 |
+| Industry Partners | 93 | 92 | 0 | 1 |
 | Federal Agencies | 11 | 11 | 0 | 0 |
 | National Laboratories & Defense Sites | 26 | 23 | 0 | 3 |
 | Universities | 91 | 69 | 0 | 22 |
 | Philanthropy, Policy & Regional Hubs | 17 | 12 | 0 | 5 |
-| **Total** | **238** | **206** | **0** | **32** |
+| **Total** | **238** | **207** | **0** | **31** |
 
 ### By Coverage Level
 
 | Coverage Level | Count | Percentage |
 |:---|:---:|:---:|
-| ✅ Full Profile | 206 | 86.6% |
+| ✅ Full Profile | 207 | 87.0% |
 | 📋 Brief Mention | 0 | 0.0% |
-| ❌ Not Covered | 32 | 13.4% |
+| ❌ Not Covered | 31 | 13.0% |
 | **Total Entities** | **238** | **100%** |
 
-> **Note:** The tracker now covers 238 Genesis Mission ecosystem participants, with 206 entities in dedicated technical write-ups (86.6% full-profile coverage). George Washington University, Brown University, Heidelberg University, Howard University, European Coalition for AI in Fundamental Physics (EuCAIF), Colorado School of Mines, UC San Diego, University of Delaware, University of Hawaiʻi at Mānoa, University of Massachusetts Amherst, University of Washington, Boise State University, St. Joseph's University, New York, The Ohio State University, Kent State University, University of Maryland, Southeastern Universities Research Association (SURA), ORISE, Energy Sciences Coalition (ESC), Krell Institute, La Sierra University, Clean Republic SODO, LLC, Molecular Foundry, Joint Genome Institute (JGI), EdenCode, University of Oklahoma (OU), North Carolina State University (NC State), William & Mary, the University of North Carolina at Chapel Hill (UNC-Chapel Hill), Washington University in St. Louis (WashU), Duke University, and the National Reactor Innovation Center (NRIC) remain registered as reference-only participants. The broader sub-grantee network of 342 participating institutions represents secondary academic and sub-contractor nodes across the 278 national project awards.
+> **Note:** The tracker now covers 238 Genesis Mission ecosystem participants, with 207 entities in dedicated technical write-ups (87.0% full-profile coverage). George Washington University, Brown University, Heidelberg University, Howard University, European Coalition for AI in Fundamental Physics (EuCAIF), Colorado School of Mines, UC San Diego, University of Delaware, University of Hawaiʻi at Mānoa, University of Massachusetts Amherst, University of Washington, Boise State University, St. Joseph's University, New York, The Ohio State University, Kent State University, University of Maryland, Southeastern Universities Research Association (SURA), ORISE, Energy Sciences Coalition (ESC), Krell Institute, La Sierra University, Clean Republic SODO, LLC, Molecular Foundry, Joint Genome Institute (JGI), University of Oklahoma (OU), North Carolina State University (NC State), William & Mary, the University of North Carolina at Chapel Hill (UNC-Chapel Hill), Washington University in St. Louis (WashU), Duke University, and the National Reactor Innovation Center (NRIC) remain registered as reference-only participants. The broader sub-grantee network of 342 participating institutions represents secondary academic and sub-contractor nodes across the 278 national project awards.
