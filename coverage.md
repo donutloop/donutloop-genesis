@@ -217,7 +217,7 @@
 | [Emory University](https://www.emory.edu/) | ✅ Full Profile | §3.3, A.5 | Bio Genesis Mission, structural biology AI foundation models & therapeutic screening |
 | [Florida State University](https://www.fsu.edu/) | ✅ Full Profile | §3.3, A.5 | High-magnetic-field physics (MagLab), superconductor materials & cryogenic testing |
 | [George Mason University](https://www.gmu.edu/) | ✅ Full Profile | §3.3, A.5 | DOE Genesis award for breakthrough AI-HPC research & exascale supercomputing optimization |
-| [Georgia Institute of Technology](https://www.gatech.edu/) | ✅ Full Profile | §3.3, A.5 | High-throughput chemical synthesis automation, microelectronics packaging & robotics |
+| [Georgia Institute of Technology](https://www.gatech.edu/) | ✅ Full Profile | §3.3, A.5 | High-throughput chemical synthesis automation, microelectronics packaging & robotics; EPICenter water-for-energy AI foundation models with ORNL |
 | [Heidelberg University](https://www.uni-heidelberg.de/) | ❌ Not Covered | — | European AI for Fundamental Physics Conference (EuCAIFCon 2026) host & physics AI research (reference only) |
 | [Howard University](https://howard.edu/) | ❌ Not Covered | — | Faculty and student experts discuss multidisciplinary AI research and workforce development (reference only) |
 | [Iowa State University](https://www.iastate.edu/) | ✅ Full Profile | §3.3, A.5 | Critical minerals thermodynamics, bio-based materials & Ames National Lab alignment |

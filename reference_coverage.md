@@ -1,7 +1,7 @@
 # Genesis Mission — Master Reference Coverage Report
 
 > **Document Overview:**
-> This report provides a comprehensive coverage analysis, breakdown, and master audit index for the **639 external reference links** compiled within `references.md` for the **Genesis Mission** documentation repository.
+> This report provides a comprehensive coverage analysis, breakdown, and master audit index for the **640 external reference links** compiled within `references.md` for the **Genesis Mission** documentation repository.
 
 ---
 
@@ -9,13 +9,13 @@
 
 | Metric | Count / Value | Description |
 | :--- | :--- | :--- |
-| **Total Reference Links** | **639** | Unique external links indexed across all sections |
+| **Total Reference Links** | **640** | Unique external links indexed across all sections |
 | **Primary Document Sections** | **7** | High-level thematic categories in `references.md` |
-| **Unique Target Domains** | **311** | Distinct domain names referenced (government, lab, corporate, academic, news) |
+| **Unique Target Domains** | **312** | Distinct domain names referenced (government, lab, corporate, academic, news) |
 | **Official PDF Documents** | **22** | Formal RFA solicitations, webinars, slides, and executive reports |
-| **Web Portals & Press Releases** | **617** | Newsroom features, corporate blog posts, and interactive hubs |
+| **Web Portals & Press Releases** | **618** | Newsroom features, corporate blog posts, and interactive hubs |
 | **Validation Status** | **100% Validated** | All links canonicalized, formatted, and deduplicated |
-| **Processing Status** | **639 / 639 Processed** | 0 Unprocessed, 639 Processed (100% Complete) |
+| **Processing Status** | **640 / 640 Processed** | 0 Unprocessed, 640 Processed (100% Complete) |
 
 ---
 
@@ -27,7 +27,7 @@
 | `2. Collaborators` | **80** | 12.5% | Official homepage & announcement links for industrial/energy partners |
 | `3. Quantum Leadership & CHIPS Act Initiatives` | **11** | 1.7% | Department of Commerce NIST LOIs & DOE $2B quantum initiatives |
 | `4. Executive, Federal & Partner Announcements` | **181** | 28.3% | White House releases, Cabinet agency press, hyperscaler & lab announcements |
-| `5. National Labs & University Coverage` | **327** | 51.2% | National Laboratory news portals & 72 awardee university press releases |
+| `5. National Labs & University Coverage` | **328** | 51.3% | National Laboratory news portals & 72 awardee university press releases |
 | `6. Additional Event Materials & Reference Links` | **18** | 2.8% | Presentation slide decks, institutional intro files & video recordings |
 | `7. Technical Documents, RFA Guidance & Official Webinars` | **19** | 3.0% | DE-FOA-0003612 solicitations, OSTP challenge papers, SCAC presentations & peer-reviewed AI-for-science research |
 
@@ -53,6 +53,7 @@ Below is the distribution of references grouped by top domain hosts and institut
 | `www.eng.ufl.edu` | **1** | University of Florida Herbert Wertheim College of Engineering | UF-led Genesis Mission AI + electron microscopy platform for accelerated discovery of stronger, heat-resistant structural materials |
 | `cee.engr.uconn.edu` | **1** | UConn School of Civil & Environmental Engineering | UConn-led AI-enabled digital twin for coupled surface–subsurface hydrologic and biogeochemical simulation in the Northeast U.S. coastal region |
 | `oden.utexas.edu` | **1** | UT Austin Oden Institute for Computational Engineering and Sciences | Oden Institute faculty leadership across four Genesis Mission projects — INL-led Project Prometheus nuclear digital twins, fusion reactor digital twins, rare earth mineral separation and additive manufacturing |
+| `epicenter.energy.gatech.edu` | **1** | Georgia Tech Energy Policy and Innovation Center (EPICenter) | Faculty affiliate Marilyn Brown as Co-PI on an ORNL-partnered Genesis Mission award building AI foundation models for water-for-energy conditions in the Tennessee Valley Authority region |
 | `www.bu.edu` | **1** | University Newsroom | Boston University College of Engineering Genesis Mission plasma physics award coverage |
 | `newscenter.lbl.gov` | **7** | Lawrence Berkeley National Lab (LBNL) | 13 AI projects lead, ModCon platform, Cech system delivery |
 | `www.lanl.gov` | **6** | Los Alamos National Laboratory (LANL) | Weapons hydrodynamics, plutonium aging AI, high-explosives R&D |
@@ -791,3 +792,4 @@ A tabular master index for the 633-reference collection:
 | 5. National Labs & University Coverage | University of Florida (Herbert Wertheim College of Engineering) | Department of Energy Genesis Mission Grant to UF-Led Team Will Speed Up Development of Stronger Materials | `www.eng.ufl.edu` | Web | [Department of Energy Genesis Mission Grant to UF-Led Team Will Speed Up Development of Stronger Materials](https://www.eng.ufl.edu/news/mse/department-of-energy-genesis-mission-grant-to-uf-led-team-will-speed-up-development-of-stronger-materials/) | `Processed` |
 | 5. National Labs & University Coverage | University of Connecticut (School of Civil & Environmental Engineering) | UConn Team Selected for Inaugural DOE Genesis Mission Award to Advance AI-Driven Environmental Research | `cee.engr.uconn.edu` | Web | [UConn Team Selected for Inaugural DOE Genesis Mission Award to Advance AI-Driven Environmental Research](https://cee.engr.uconn.edu/uconn-team-selected-for-inaugural-doe-genesis-mission-award-to-advance-ai-driven-environmental-research/) | `Processed` |
 | 5. National Labs & University Coverage | University of Texas at Austin (Oden Institute for Computational Engineering and Sciences) | Oden Institute Faculty Selected for Four Projects in Department of Energy Genesis Mission | `oden.utexas.edu` | Web | [Oden Institute Faculty Selected for Four Projects in Department of Energy Genesis Mission](https://oden.utexas.edu/news-and-events/news/Oden-Institute-Faculty-Selected-for-Department-of-Energy-Genesis-Mission/) | `Processed` |
+| 5. National Labs & University Coverage | Georgia Institute of Technology (Energy Policy and Innovation Center — EPICenter) | EPICenter Faculty Affiliate Marilyn Brown Part of DOE Genesis Mission Award | `epicenter.energy.gatech.edu` | Web | [EPICenter Faculty Affiliate Marilyn Brown Part of DOE Genesis Mission Award](https://epicenter.energy.gatech.edu/2026/07/28/epicenter-faculty-affiliate-marilyn-brown-part-of-doe-genesis-mission-award/) | `Processed` |

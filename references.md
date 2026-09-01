@@ -509,6 +509,7 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
 * **Georgia Tech:**
   * [Helps Advance Genesis Mission National Effort](https://news.research.gatech.edu/2026/07/24/georgia-tech-helps-advance-genesis-mission-national-effort-transform-scientific)
   * [Helps Advance Genesis Mission National Effort (Newswise)](https://www.newswise.com/articles/georgia-tech-helps-advance-genesis-mission-a-national-effort-to-transform-scientific-discovery-through-ai)
+  * [EPICenter Faculty Affiliate Marilyn Brown Part of DOE Genesis Mission Award](https://epicenter.energy.gatech.edu/2026/07/28/epicenter-faculty-affiliate-marilyn-brown-part-of-doe-genesis-mission-award/)
 * **Heidelberg University:**
   * [European AI for Fundamental Physics Conference (EuCAIFCon 2026) — Hunting for TREASURE in HEP Collider Data (PDF)](https://indico.physi.uni-heidelberg.de/event/1277/contributions/4123/attachments/2096/3260/EuCAIFCon_Treasure.pdf)
 * **Howard University:** [Howard University Experts Discuss Multidisciplinary AI Research, Tech Genesis Mission, and More During Research Month 2026](https://thedig.howard.edu/all-stories/howard-university-experts-discuss-multidisciplinary-ai-research-tech-genesis-mission-and-more-during)
