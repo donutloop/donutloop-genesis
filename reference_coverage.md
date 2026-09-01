@@ -1,7 +1,7 @@
 # Genesis Mission — Master Reference Coverage Report
 
 > **Document Overview:**
-> This report provides a comprehensive coverage analysis, breakdown, and master audit index for the **632 external reference links** compiled within `references.md` for the **Genesis Mission** documentation repository.
+> This report provides a comprehensive coverage analysis, breakdown, and master audit index for the **633 external reference links** compiled within `references.md` for the **Genesis Mission** documentation repository.
 
 ---
 
@@ -9,13 +9,13 @@
 
 | Metric | Count / Value | Description |
 | :--- | :--- | :--- |
-| **Total Reference Links** | **632** | Unique external links indexed across all sections |
+| **Total Reference Links** | **633** | Unique external links indexed across all sections |
 | **Primary Document Sections** | **7** | High-level thematic categories in `references.md` |
-| **Unique Target Domains** | **306** | Distinct domain names referenced (government, lab, corporate, academic, news) |
+| **Unique Target Domains** | **307** | Distinct domain names referenced (government, lab, corporate, academic, news) |
 | **Official PDF Documents** | **22** | Formal RFA solicitations, webinars, slides, and executive reports |
-| **Web Portals & Press Releases** | **610** | Newsroom features, corporate blog posts, and interactive hubs |
+| **Web Portals & Press Releases** | **611** | Newsroom features, corporate blog posts, and interactive hubs |
 | **Validation Status** | **100% Validated** | All links canonicalized, formatted, and deduplicated |
-| **Processing Status** | **632 / 632 Processed** | 0 Unprocessed, 632 Processed (100% Complete) |
+| **Processing Status** | **633 / 633 Processed** | 0 Unprocessed, 633 Processed (100% Complete) |
 
 ---
 
@@ -26,8 +26,8 @@
 | `1. Key Presentation Details` | **3** | 0.5% | Briefing agendas, U.S. ATLAS IB meeting details & CERN links |
 | `2. Collaborators` | **80** | 12.7% | Official homepage & announcement links for industrial/energy partners |
 | `3. Quantum Leadership & CHIPS Act Initiatives` | **11** | 1.7% | Department of Commerce NIST LOIs & DOE $2B quantum initiatives |
-| `4. Executive, Federal & Partner Announcements` | **178** | 28.2% | White House releases, Cabinet agency press, hyperscaler & lab announcements |
-| `5. National Labs & University Coverage` | **323** | 51.1% | National Laboratory news portals & 72 awardee university press releases |
+| `4. Executive, Federal & Partner Announcements` | **179** | 28.3% | White House releases, Cabinet agency press, hyperscaler & lab announcements |
+| `5. National Labs & University Coverage` | **323** | 51.0% | National Laboratory news portals & 72 awardee university press releases |
 | `6. Additional Event Materials & Reference Links` | **18** | 2.9% | Presentation slide decks, institutional intro files & video recordings |
 | `7. Technical Documents, RFA Guidance & Official Webinars` | **19** | 3.0% | DE-FOA-0003612 solicitations, OSTP challenge papers, SCAC presentations & peer-reviewed AI-for-science research |
 
@@ -133,6 +133,7 @@ Below is the distribution of references grouped by top domain hosts and institut
 | `sambanova.ai` | **3** | SambaNova Systems | Corporate homepage, AI-for-Science Reconfigurable Dataflow Architecture solutions page, and the Genesis Mission Consortium membership announcement |
 | `www.primalabs.ai` | **1** | PrimaLabs | Corporate blog announcement of PrimaLabs joining NVIDIA and DOE national laboratories in the Genesis Mission, delivering AI performance engineering and dedicated GPU inference for open scientific models |
 | `everstar.ai` | **1** | Everstar | First-party corporate newsroom announcement of the DOE / INL / ANL / Microsoft collaboration and the Gordian AI NRC license application milestone |
+| `www.siemensgovt.com` | **1** | Siemens Government Technologies (SGT) | Federal-facing press release confirming Siemens' Genesis Mission participation with industrial AI, advanced simulation, digital twins, automation, and secure infrastructure delivered through the Siemens Xcelerator connected technology stack |
 | `cognition.com` | **1** | Cognition | First-party corporate blog announcement of the DOE memorandum of understanding deploying the Devin autonomous software engineer for scientific code security, legacy modernization and cloud migration |
 | `www.armada.ai` | **1** | Armada | Corporate blog announcement of Armada's DOE collaboration agreement to accelerate the Genesis Mission with Galleon modular data centers and the Armada Edge Platform for sovereign, distributed AI compute |
 | `www.deepisolation.com` | **1** | Deep Isolation Nuclear, Inc. | Press release on selection as sole industrial partner for three Genesis Mission awards advancing AI-driven deep borehole nuclear waste repository siting, design, and performance analysis (LBNL & University of South Carolina led) |
@@ -141,7 +142,7 @@ Below is the distribution of references grouped by top domain hosts and institut
 
 ## 4. Master Reference Link Index
 
-A tabular master index for the 632-reference collection:
+A tabular master index for the 633-reference collection:
 
 | Category / Section | Entity / Subject | Title | Domain | Type | Link | Status |
 |---|---|---|---|:---:|---|:---:|
@@ -778,3 +779,4 @@ A tabular master index for the 632-reference collection:
 | 4. Executive, Federal & Partner Announcements | Armada | Armada Agreement with the U.S. Department of Energy to Accelerate the Genesis Mission | `www.armada.ai` | Web | [Armada Agreement with the U.S. Department of Energy to Accelerate the Genesis Mission](https://www.armada.ai/blog/genesis-mission) | `Processed` |
 | 4. Executive, Federal & Partner Announcements | Everstar | Everstar Announces Collaboration with DOE, National Laboratories, and Microsoft, Marking Its First Major Milestone in the Genesis Mission | `everstar.ai` | Web | [Everstar Announces Collaboration with DOE, National Laboratories, and Microsoft, Marking Its First Major Milestone in the Genesis Mission](https://everstar.ai/news/everstar-major-milestone-in-the-genesis-mission) | `Processed` |
 | 4. Executive, Federal & Partner Announcements | Cognition | Cognition Signs MOU with U.S. Department of Energy to Join The Genesis Mission | `cognition.com` | Web | [Cognition Signs MOU with U.S. Department of Energy to Join The Genesis Mission](https://cognition.com/blog/cognition-doe-genesis-mission) | `Processed` |
+| 4. Executive, Federal & Partner Announcements | Siemens Government Technologies (SGT) | Siemens to Help Build AI-Ready Scientific Infrastructure as Part of U.S. Department of Energy's Genesis Mission | `www.siemensgovt.com` | Web | [Siemens to Help Build AI-Ready Scientific Infrastructure as Part of U.S. Department of Energy's Genesis Mission](https://www.siemensgovt.com/insights/press-releases/press-genesis/) | `Processed` |

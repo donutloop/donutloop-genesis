@@ -91,7 +91,7 @@
 | [Nokia](https://www.nokia.com/) | ✅ Full Profile | §3.1, A.3 | Optical networking backbones, mission-critical 5G/6G wireless infrastructure & Bell Labs quantum optics |
 | [RTX](https://www.rtx.com/) | ✅ Full Profile | §3.1, A.3 | RF microelectronics, wide-bandgap semiconductors, quantum sensing & aerospace multi-physics CFD |
 | [Semiconductor Industry Association](https://www.semiconductors.org/) | ✅ Full Profile | §3.1, A.3 | CHIPS Act microelectronics policy coordination, workforce development & supply chain strategy |
-| [Siemens](https://www.siemens.com/) | ✅ Full Profile | §3.1, A.3 | Industrial AI software, Xcelerator digital twins, DOE strategic MOU & smart grid automation |
+| [Siemens](https://www.siemens.com/) | ✅ Full Profile | §3.1, A.3 | Industrial AI software, Xcelerator digital twins, DOE strategic MOU & smart grid automation; Siemens Government Technologies (SGT) federal arm delivering the connected simulation, automation & secure infrastructure stack |
 | [Synopsys](https://www.synopsys.com/) | ✅ Full Profile | §3.1, A.3 | Synopsys.ai EDA platform (DSO.ai, VSO.ai, TSO.ai, AgentEngineer™), Custom Compiler, TCAD, PrimeTime & HAV emulation for AI chips and quantum control ASICs |
 | [xLight](https://xlight.inc/) | ✅ Full Profile | §3.1, A.3 | About portal (xlight.com/about), $150M CHIPS Act, FEL EUV lithography & Fermilab CRADA |
 | [ChipNexus](https://www.chipnexus.com) | ❌ Not Covered | — | Neuromorphic terahertz imaging & analog compute-in-memory hardware collaborator (reference only) |
