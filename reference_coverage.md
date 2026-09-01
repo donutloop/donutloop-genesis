@@ -1,7 +1,7 @@
 # Genesis Mission — Master Reference Coverage Report
 
 > **Document Overview:**
-> This report provides a comprehensive coverage analysis, breakdown, and master audit index for the **636 external reference links** compiled within `references.md` for the **Genesis Mission** documentation repository.
+> This report provides a comprehensive coverage analysis, breakdown, and master audit index for the **637 external reference links** compiled within `references.md` for the **Genesis Mission** documentation repository.
 
 ---
 
@@ -9,13 +9,13 @@
 
 | Metric | Count / Value | Description |
 | :--- | :--- | :--- |
-| **Total Reference Links** | **636** | Unique external links indexed across all sections |
+| **Total Reference Links** | **637** | Unique external links indexed across all sections |
 | **Primary Document Sections** | **7** | High-level thematic categories in `references.md` |
-| **Unique Target Domains** | **308** | Distinct domain names referenced (government, lab, corporate, academic, news) |
+| **Unique Target Domains** | **309** | Distinct domain names referenced (government, lab, corporate, academic, news) |
 | **Official PDF Documents** | **22** | Formal RFA solicitations, webinars, slides, and executive reports |
-| **Web Portals & Press Releases** | **614** | Newsroom features, corporate blog posts, and interactive hubs |
+| **Web Portals & Press Releases** | **615** | Newsroom features, corporate blog posts, and interactive hubs |
 | **Validation Status** | **100% Validated** | All links canonicalized, formatted, and deduplicated |
-| **Processing Status** | **636 / 636 Processed** | 0 Unprocessed, 636 Processed (100% Complete) |
+| **Processing Status** | **637 / 637 Processed** | 0 Unprocessed, 637 Processed (100% Complete) |
 
 ---
 
@@ -26,8 +26,8 @@
 | `1. Key Presentation Details` | **3** | 0.5% | Briefing agendas, U.S. ATLAS IB meeting details & CERN links |
 | `2. Collaborators` | **80** | 12.6% | Official homepage & announcement links for industrial/energy partners |
 | `3. Quantum Leadership & CHIPS Act Initiatives` | **11** | 1.7% | Department of Commerce NIST LOIs & DOE $2B quantum initiatives |
-| `4. Executive, Federal & Partner Announcements` | **181** | 28.5% | White House releases, Cabinet agency press, hyperscaler & lab announcements |
-| `5. National Labs & University Coverage` | **324** | 50.9% | National Laboratory news portals & 72 awardee university press releases |
+| `4. Executive, Federal & Partner Announcements` | **181** | 28.4% | White House releases, Cabinet agency press, hyperscaler & lab announcements |
+| `5. National Labs & University Coverage` | **325** | 51.0% | National Laboratory news portals & 72 awardee university press releases |
 | `6. Additional Event Materials & Reference Links` | **18** | 2.8% | Presentation slide decks, institutional intro files & video recordings |
 | `7. Technical Documents, RFA Guidance & Official Webinars` | **19** | 3.0% | DE-FOA-0003612 solicitations, OSTP challenge papers, SCAC presentations & peer-reviewed AI-for-science research |
 
@@ -50,6 +50,7 @@ Below is the distribution of references grouped by top domain hosts and institut
 | `www.boisestate.edu` | **2** | Boise State University Office of Sponsored Programs & DRED | DE-FOA-0003612 topic focus areas (PDF) & collaborative research/travel seed-funding RFP |
 | `www.brown.edu` | **1** | University Newsroom | Brown University National Labs Day spotlights collaboration in AI-enabled science and energy innovation |
 | `pratt.duke.edu` | **1** | Duke University Pratt School of Engineering | Duke-led Genesis Mission AI platform for DNA origami self-assembly into programmable superlattices |
+| `www.eng.ufl.edu` | **1** | University of Florida Herbert Wertheim College of Engineering | UF-led Genesis Mission AI + electron microscopy platform for accelerated discovery of stronger, heat-resistant structural materials |
 | `www.bu.edu` | **1** | University Newsroom | Boston University College of Engineering Genesis Mission plasma physics award coverage |
 | `newscenter.lbl.gov` | **7** | Lawrence Berkeley National Lab (LBNL) | 13 AI projects lead, ModCon platform, Cech system delivery |
 | `www.lanl.gov` | **6** | Los Alamos National Laboratory (LANL) | Weapons hydrodynamics, plutonium aging AI, high-explosives R&D |
@@ -785,3 +786,4 @@ A tabular master index for the 633-reference collection:
 | 4. Executive, Federal & Partner Announcements | Windows Forum News | DOE Genesis Mission: Turning AI Into Infrastructure for U.S. Scientific Discovery | `windowsforum.com` | Web | [DOE Genesis Mission: Turning AI Into Infrastructure for U.S. Scientific Discovery](https://windowsforum.com/windows-news.4/doe-genesis-mission-turning-ai-into-infrastructure-for-u-s-scientific-discovery.420866/) | `Processed` |
 | 5. National Labs & University Coverage | Duke University (Pratt School of Engineering) | DOE Funds Duke-Led AI Platform to Design Transformative DNA-Based Materials | `pratt.duke.edu` | Web | [DOE Funds Duke-Led AI Platform to Design Transformative DNA-Based Materials](https://pratt.duke.edu/news/doe-genesis-program-dna-origami/) | `Processed` |
 | 4. Executive, Federal & Partner Announcements | DOE Office of Nuclear Energy | 8 Big Wins for Nuclear in the Trump Administration's First Year | `www.energy.gov` | Web | [8 Big Wins for Nuclear in the Trump Administration's First Year](https://www.energy.gov/ne/articles/8-big-wins-nuclear-trump-administrations-first-year) | `Processed` |
+| 5. National Labs & University Coverage | University of Florida (Herbert Wertheim College of Engineering) | Department of Energy Genesis Mission Grant to UF-Led Team Will Speed Up Development of Stronger Materials | `www.eng.ufl.edu` | Web | [Department of Energy Genesis Mission Grant to UF-Led Team Will Speed Up Development of Stronger Materials](https://www.eng.ufl.edu/news/mse/department-of-energy-genesis-mission-grant-to-uf-led-team-will-speed-up-development-of-stronger-materials/) | `Processed` |

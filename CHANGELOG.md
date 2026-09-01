@@ -5,6 +5,18 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.12.4] - 2026-09-01
+
+### Added
+- **Reference Index Entry (`references.md`)**: Registered the University of Florida Herbert Wertheim College of Engineering feature [*Department of Energy Genesis Mission Grant to UF-Led Team Will Speed Up Development of Stronger Materials*](https://www.eng.ufl.edu/news/mse/department-of-energy-genesis-mission-grant-to-uf-led-team-will-speed-up-development-of-stronger-materials/) (`www.eng.ufl.edu`) under *National Labs & University Coverage → Universities & Research Institutions*, converting the existing single-link University of Florida entry into a nested list.
+- **University of Florida Enrichment (§3.3, README.md & README.de.md)**: Added the UF-led Genesis Mission project under *Materials Co-Design, Autonomous Chemistry & Bio-Genesis* — an autonomous, feedback-driven platform fusing **electron microscopy**, **artificial intelligence** and **physics-based modeling**, led by **Doug Spearot** (chair, Department of Mechanical and Aerospace Engineering) with Materials Science & Engineering faculty **Yijia Gu** and **Ravit Silverstein**, targeting terabyte-scale electron microscopy and high-energy X-ray alloy characterization data with **more than 100× faster** near-real-time analysis for **aerospace propulsion**, **energy** and **nuclear** structural materials, selected among the **278 project awards** from more than **5,000 submissions**.
+
+### Changed
+- **Master Index Sync (`reference_coverage.md`)**: Registered the new `www.eng.ufl.edu` link in the Master Reference Link Index with status `Processed` and added a `www.eng.ufl.edu` domain row (1 link). Updated Section 1 metrics (Total Reference Links **636 → 637**, Unique Target Domains **308 → 309**, Web Portals & Press Releases **614 → 615**, Processing Status **637 / 637 Processed, 100% Complete**) and the Section 2 distribution table (`5. National Labs & University Coverage` **324 → 325**, share 50.9% → 51.0%; recalculated share for Section 4, 28.5% → 28.4%).
+- **Coverage Tracker (`coverage.md`)**: Extended the **University of Florida** profile description with the AI + electron microscopy structural materials platform; no new entities were introduced, so all summary metrics remain unchanged.
+- **Appendix A.5 (`README.md` & `README.de.md`)**: Extended the University of Florida appendix row with the accelerated structural materials analysis focus.
+- **Version Bump**: Incremented the version string to `3.12.4` across `README.md` and `README.de.md`.
+
 ## [3.12.3] - 2026-09-01
 
 ### Added

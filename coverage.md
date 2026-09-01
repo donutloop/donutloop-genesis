@@ -255,7 +255,7 @@
 | [University of Colorado Boulder](https://www.colorado.edu/) | ✅ Full Profile | §3.1, §3.3, A.5 | Infleqtion quantum sensing project, neutral-atom QPUs & Rigetti fusion plasma co-sims |
 | [University of Connecticut (UConn)](https://uconn.edu/) | ✅ Full Profile | §3.3, A.5 | High-temperature alloy synthesis, smart grid cybersecurity & materials informatics |
 | [University of Delaware](https://www.udel.edu/) | ❌ Not Covered | — | Stress-testing OLCF Discovery supercomputer with PIConGPU for fusion energy & plasma dynamics (reference only) |
-| [University of Florida](https://www.ufl.edu/) | ✅ Full Profile | §3.3, A.5 | High-performance computing AI workloads, agricultural genomics & materials screening |
+| [University of Florida](https://www.ufl.edu/) | ✅ Full Profile | §3.3, A.5 | High-performance computing AI workloads, agricultural genomics & materials screening; UF-led Genesis Mission AI + electron microscopy platform for accelerated structural materials discovery |
 | [University of Hawaiʻi at Mānoa](https://manoa.hawaii.edu/) | ❌ Not Covered | — | STRATOS critical grid AI and rare-nuclear-decay AI foundation model projects (reference only) |
 | [University of Houston](https://www.uh.edu/) | ✅ Full Profile | §3.3, A.5 | AMMPT AI framework for real-time critical mineral mapping & characterization while drilling (w/ SNL) |
 | [University of Illinois Urbana-Champaign](https://illinois.edu/) | ✅ Full Profile | §3.3, A.5 | Petascale AI model training, open-source model registry platforms & semiconductor PDKs |

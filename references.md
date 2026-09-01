@@ -596,7 +596,9 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
 * **Colorado School of Mines:** [Mines Selected for 2 Genesis Mission Projects to Apply AI to Critical Mineral Exploration and Nuclear Energy](https://www.minesnewsroom.com/news/mines-selected-2-genesis-mission-projects-apply-ai-critical-mineral-exploration-nuclear-energy)
 * **University of Connecticut (UConn):** [Researchers Win Inaugural DOE Genesis Mission Award](https://today.uconn.edu/2026/07/uconn-researchers-win-inaugural-doe-genesis-mission-award/)
 * **University of Delaware:** [UD team tapped to push next-gen supercomputer to its limits](https://www.udel.edu/udaily/2026/july/sunita-chandrasekaran-discovery-supercomputer-testing-fusion-energy/)
-* **University of Florida:** [Receives Genesis Mission Grant](https://news.ufl.edu/2026/07/genesis-mission-grant/)
+* **University of Florida:**
+  * [Receives Genesis Mission Grant](https://news.ufl.edu/2026/07/genesis-mission-grant/)
+  * [Herbert Wertheim College of Engineering: Department of Energy Genesis Mission Grant to UF-Led Team Will Speed Up Development of Stronger Materials](https://www.eng.ufl.edu/news/mse/department-of-energy-genesis-mission-grant-to-uf-led-team-will-speed-up-development-of-stronger-materials/)
 * **University of Hawaiʻi at Mānoa:**
   * [UH Mānoa Researchers Selected for National Effort to Advance AI-Driven Science](https://manoa.hawaii.edu/ovprs/uh-manoa-researchers-selected-for-national-effort-to-advance-ai-driven-science/)
   * [UH News: Genesis Mission Awards](https://www.hawaii.edu/news/2026/07/27/genesis-mission-awards/)
