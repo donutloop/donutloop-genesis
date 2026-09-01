@@ -5,6 +5,17 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.10.3] - 2026-09-01
+
+### Added
+- **Reference Index Entry (`references.md`)**: Registered *SambaNova Systems* announcement [*SambaNova Joins the DOE Genesis Mission Consortium*](https://sambanova.ai/blog/sambanova-joins-the-genesis-mission-consortium) (`sambanova.ai`) under *Executive, Federal & Partner Announcements*.
+- **Company Profile Enrichment — SambaNova Systems (§3.1, README.md & README.de.md)**: Extended the existing *SambaNova Systems* partner profile with its formal membership in the public-private **Genesis Mission Consortium**, the commitment of inference-optimized dataflow silicon to the DOE National Science & Technology Challenges established under **Executive Order 14363**, and the technical distinction of the **Reconfigurable Dataflow Unit (RDU)** from training-optimized GPU architectures — sustaining models of up to **10 trillion parameters across 256 RDUs** for agentic, multi-model scientific reasoning workflows.
+
+### Changed
+- **Master Index Sync (`reference_coverage.md`)**: Registered the new `sambanova.ai` link in the Master Reference Link Index with status `Processed` and added a `sambanova.ai` domain row (3 links). Updated Section 1 metrics (Total Reference Links **627 → 628**, Web Portals & Press Releases **605 → 606**, Processing Status **628 / 628 Processed, 100% Complete**) and the Section 2 distribution table (`4. Executive, Federal & Partner Announcements` **173 → 174**, share 27.6% → 27.7%; recalculated shares for Sections 2 and 5).
+- **Coverage Tracker (`coverage.md`)**: Noted **Genesis Mission Consortium member** status on the existing **SambaNova Systems** entry (entity counts unchanged).
+- **Version Bump**: Incremented the version string to `3.10.3` across `README.md` and `README.de.md`.
+
 ## [3.10.2] - 2026-09-01
 
 ### Added

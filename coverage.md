@@ -31,7 +31,7 @@
 | [Microsoft](https://www.microsoft.com/) | ✅ Full Profile | §3.1 | $60M SPARK; Discovery platform; MatterGen/MatterSim; Majorana |
 | [NVIDIA](https://www.nvidia.com/) | ✅ Full Profile | §2.1, §3.1 | GTC 2026 sessions (Gil/Buck & Spears/Stevens), Solstice/Equinox, Apollo models, Omniverse & Vera/Blackwell exascale GPUs |
 | [Oracle](https://www.oracle.com/) | ✅ Full Profile | §3.1 | Enterprise cloud; HPC database infrastructure |
-| [SambaNova Systems](https://sambanova.ai/) | ✅ Full Profile | §2.1, §3.1, A.3 | Reconfigurable Dataflow Architecture (RDUs); high-throughput AI inference; ALCF deployment |
+| [SambaNova Systems](https://sambanova.ai/) | ✅ Full Profile | §2.1, §3.1, A.3 | Reconfigurable Dataflow Architecture (RDUs); high-throughput AI inference; ALCF deployment; Genesis Mission Consortium member |
 | [Veritone](https://www.veritone.com/) | ✅ Full Profile | §3.1, A.3 | Enterprise AI platform (aiWARE), multi-modal data ingestion & semantic search engines |
 | [Rescale](https://rescale.com/) | ✅ Full Profile | §3.1, A.3 | Agentic HPC Pipeline Initiative (AHPI) commercial partner with LBNL, LLNL & ORNL; cloud-native digital engineering platform, multi-cloud HPC orchestration & agentic simulation workflows (WarpX, LiDO, Adamantine) |
 
