@@ -5,6 +5,18 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.13.14] - 2026-09-01
+
+### Added
+- **Cerebras Reprocessing (§3.1, README.md & README.de.md)**: Restructured the **Cerebras** industry profile into dedicated sub-bullets — *MOUs, Grants & Commitments* (the DOE-wide **Memorandum of Understanding** signed under the Genesis Mission and the U.S. National AI Initiative, establishing information sharing, joint R&D and follow-on agreements for secure, scalable and energy-efficient AI infrastructure across four collaboration tracks: large-scale scientific and engineering data sets; advanced computing hardware including next-generation architectures, power, packaging, cooling, memory and I/O; AI and AI+HPC software, programming models and joint developer engagement; and cooperative public engagement in research, education, science and policy, with anticipated pilot projects, technical exchanges and expansion to additional DOE laboratories), *Technical Capabilities (Wafer-Scale Silicon)* (**CS-3** appliances powered by the **WSE-3** with **900,000 AI-optimized cores**, **4 trillion transistors**, **44 GB on-wafer SRAM** and up to **125 AI petaFLOPS (FP16)**, collapsing model-, tensor- and pipeline-parallel partitioning into a single logical accelerator), *Technical Capabilities (Cluster Scaling & Software)* (**MemoryX** external weight storage and the **SwarmX** weight-streaming fabric, the **ALCF AI Testbed** CS-3 cluster at Argonne, the Sandia **Kingfisher** CS-3 testbed of four systems expandable to eight under the NNSA **ASC AI4ND** tri-lab program with LLNL and LANL, plus native **PyTorch**, the Cerebras **Model Zoo** and the **CSL** kernel language), and *Mission Domains* (real-time scientific LLM and reasoning inference, structural biology and protein folding, fusion and plasma stability prediction, converged AI+HPC surrogate modeling, and national security and stockpile science).
+
+### Changed
+- **Coverage Tracker (`coverage.md`)**: Incremented the **Cerebras** `Process Count` from **0** to **1**, extended its `Paper Section` to `§2.1, §3.1, A.3`, and refreshed its notes with the four MOU collaboration tracks, the CS-3 / WSE-3 core, SRAM and petaFLOPS figures, the MemoryX/SwarmX weight-streaming stack, and the ALCF AI Testbed and Sandia Kingfisher (NNSA ASC AI4ND) deployments. No entities were added or removed, so all summary metrics (237 total, 198 full profiles, 83.5%) remain unchanged.
+- **Heterogeneous Supercomputing Core (§2.1, README.md & README.de.md)**: Expanded the *Cerebras Wafer-Scale Supercomputers* entry with the 44 GB on-wafer SRAM and 125 AI petaFLOPS figures, the MemoryX and SwarmX subsystems, and the ALCF AI Testbed and Sandia Kingfisher deployments.
+- **Appendix A.3 (README.md & README.de.md)**: Updated the **Cerebras** partner row to reflect the reprocessed scope (MOU collaboration tracks, CS-3 / WSE-3 wafer-scale accelerators, MemoryX and SwarmX weight streaming, ALCF AI Testbed and Sandia Kingfisher).
+- **Reference Integrity (`references.md`)**: All existing Cerebras company press-portal and DOE MOU reference links retained unchanged; no links were removed.
+- **Version Bump**: Incremented the version string to `3.13.14` across `README.md` and `README.de.md`.
+
 ## [3.13.13] - 2026-09-01
 
 ### Added
