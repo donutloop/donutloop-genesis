@@ -5,6 +5,17 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.11.1] - 2026-09-01
+
+### Added
+- **Reference Index Entry (`references.md`)**: Registered Everstar's first-party announcement [*Everstar Announces Collaboration with DOE, National Laboratories, and Microsoft, Marking Its First Major Milestone in the Genesis Mission*](https://everstar.ai/news/everstar-major-milestone-in-the-genesis-mission) (`everstar.ai`) under *Executive, Federal & Partner Announcements*.
+- **Everstar Profile Enrichment (§3.1, README.md & README.de.md)**: Expanded the existing *Everstar* entry with the concrete Genesis Mission proof point — **Gordian AI** on **Microsoft Azure** converting the **National Reactor Innovation Center (NRIC)** Generic **High Temperature Gas Reactor (HTGR)** preliminary documented safety analysis into a **208-page, citation-mapped NRC license application in a single day** (versus 4–6 weeks for an expert team), expert validation of rigor/structure/depth with self-qualified data gaps, the **“design–AI–validate”** operating model, and the phased roadmap into engineering drawing interpretation, INL/**NVIDIA Omniverse** physics simulation and **NQA-1** manufacturing quality compliance.
+
+### Changed
+- **Master Index Sync (`reference_coverage.md`)**: Registered the new `everstar.ai` link in the Master Reference Link Index with status `Processed` and added an `everstar.ai` domain row (1 link). Updated Section 1 metrics (Total Reference Links **630 → 631**, Unique Target Domains **304 → 305**, Web Portals & Press Releases **608 → 609**, Processing Status **631 / 631 Processed, 100% Complete**) and the Section 2 distribution table (`4. Executive, Federal & Partner Announcements` **176 → 177**, share 27.9% → 28.1%; recalculated share for Section 5).
+- **Coverage Tracker (`coverage.md`)**: Added the **National Reactor Innovation Center (NRIC)** as `❌ Not Covered` *(reference only)* under *DOE National Laboratories & Defense Security Sites*. Recalculated summary metrics: National Laboratories & Defense Sites (25 → 26 total, 3 → 4 not covered), overall totals (233 → 234 entities, 36 → 37 not covered) and the scope header coverage status (**197 / 233**, 84.5% → **197 / 234**, 84.2%).
+- **Version Bump**: Incremented the version string to `3.11.1` across `README.md` and `README.de.md`.
+
 ## [3.11.0] - 2026-09-01
 
 ### Added
