@@ -18,7 +18,7 @@
 |---------------|---------|----------|---------------|-------|
 | 1 | [Amazon Web Services (AWS)](https://aws.amazon.com/) | ✅ Full Profile | §2.1, §3.1, A.3 | Up to $100M federal credits 2026–2028 ($50M Genesis Accelerator + $50M Warfighter Capability Accelerator); Graviton4, Trainium2/Inferentia2 & EC2 UltraClusters with EFA; GovCloud/Secret & Top Secret enclaves hosting NNSA Mission & Vision at LANL; Amazon Braket quantum access & FIPS 140-3 post-quantum cryptography (ML-KEM/ML-DSA); Project Prometheus SMR digital twins |
 | 0 | [AMD](https://www.amd.com/) | ✅ Full Profile | §2.1, §3.1 | Lux & Discovery supercomputers; Instinct GPUs; EPYC; ROCm |
-| 0 | [Cerebras](https://www.cerebras.ai/) | ✅ Full Profile | §3.1, A.3 | DOE MOU; wafer-scale AI accelerators |
+| 1 | [Cerebras](https://www.cerebras.ai/) | ✅ Full Profile | §2.1, §3.1, A.3 | DOE MOU (data sets, hardware, AI+HPC software, public engagement); CS-3 / WSE-3 wafer-scale accelerators (900,000 cores, 44 GB SRAM, 125 AI PF); MemoryX/SwarmX weight streaming; ALCF AI Testbed & Sandia Kingfisher (NNSA ASC AI4ND) |
 | 0 | [CoreWeave](https://www.coreweave.com/) | ✅ Full Profile | §3.1, A.3 | Specialized cloud GPU infrastructure, high-density AI clusters & InfiniBand networking |
 | 0 | [Databricks](https://www.databricks.com/) | ✅ Full Profile | §3.1, A.3 | Databricks Data Intelligence Platform, Delta Lake enclaves & FAIR data lakehouses |
 | 0 | [Dataera.ai](https://dataera.ai/) | ✅ Full Profile | §3.1, A.3 | AI data infrastructure platform, automated dataset curation & foundation model data pipelines |
