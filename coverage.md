@@ -160,7 +160,7 @@
 | 0 | [Department of Homeland Security (DHS) — S&T](https://www.dhs.gov/science-and-technology) | ✅ Full Profile | §3.4, A.1 | Critical infrastructure AI digital twins, supply chain threat analytics & smart grid resilience |
 | 0 | [Department of the Interior (DOI)](https://www.doi.gov/) | ✅ Full Profile | §3.4, A.1 | USGS critical mineral deposit AI mapping, hydrological modeling & public land clean energy siting |
 | 0 | [U.S. Department of Agriculture (USDA)](https://www.usda.gov/) | ✅ Full Profile | §1.1, §3.4, A.4 | Agricultural National Science & Technology Challenge, AI germplasm analysis & crop innovation |
-| 0 | [U.S. Nuclear Regulatory Commission (NRC)](https://www.nrc.gov/) | ❌ Not Covered | — | Independent licensing and safety regulator undergoing executive-directed reform with fixed reactor licensing review deadlines; target regulator for AI-assisted license application pipelines (reference only) |
+| 1 | [U.S. Nuclear Regulatory Commission (NRC)](https://www.nrc.gov/) | ✅ Full Profile | §3.4, A.1 | Independent licensing and safety regulator established by the Energy Reorganization Act of 1974; five-member Commission (Chairman Ho K. Nieh; Commissioners Wright, Crowell, Marzano, Weaver), Rockville MD, ~2,600 FTE and ~$892M FY 2027 request; EO 14300 (23 May 2025) wholesale regulation revision (9-month NOPR / 18-month final rules), fixed 18-month new-reactor and 12-month renewal decision deadlines, NEIMA fixed fee caps and reorganization into three business lines; final 10 CFR Part 53 risk-informed, technology-inclusive advanced reactor framework (March 2026, FR 3 Apr 2026, first new pathway since Part 52/1989) with ≤18-month target reviews enabling the Reactor Pilot Program designs and ADVANCE Act high-volume licensing; AI Strategic Plan NUREG-2261 (FY 2023–2027) regulatory readiness; ADAMS corpus (3M+ full-text documents) underlying Genesis nuclear language models and semantic search (Atomic Canyon, Everstar Gordian AI 208-page one-day NRIC HTGR application) under the design–AI–validate model |
 
 ---
 
@@ -334,19 +334,19 @@
 | Entity Type | Total | ✅ Full | 📋 Brief | ❌ Not Covered |
 |:---|:---:|:---:|:---:|:---:|
 | Industry Partners | 93 | 88 | 0 | 5 |
-| Federal Agencies | 11 | 10 | 0 | 1 |
+| Federal Agencies | 11 | 11 | 0 | 0 |
 | National Laboratories & Defense Sites | 26 | 23 | 0 | 3 |
 | Universities | 91 | 68 | 0 | 23 |
 | Philanthropy, Policy & Regional Hubs | 17 | 12 | 0 | 5 |
-| **Total** | **238** | **201** | **0** | **37** |
+| **Total** | **238** | **202** | **0** | **36** |
 
 ### By Coverage Level
 
 | Coverage Level | Count | Percentage |
 |:---|:---:|:---:|
-| ✅ Full Profile | 201 | 84.5% |
+| ✅ Full Profile | 202 | 84.9% |
 | 📋 Brief Mention | 0 | 0.0% |
-| ❌ Not Covered | 37 | 15.5% |
+| ❌ Not Covered | 36 | 15.1% |
 | **Total Entities** | **238** | **100%** |
 
-> **Note:** The tracker now covers 238 Genesis Mission ecosystem participants, with 201 entities in dedicated technical write-ups (84.5% full-profile coverage). George Washington University, Brown University, Heidelberg University, Howard University, European Coalition for AI in Fundamental Physics (EuCAIF), Colorado School of Mines, UC San Diego, University of Delaware, University of Hawaiʻi at Mānoa, University of Massachusetts Amherst, University of Washington, Boise State University, St. Joseph's University, New York, The Ohio State University, Kent State University, University of Maryland, ChipNexus, Southeastern Universities Research Association (SURA), ORISE, Energy Sciences Coalition (ESC), Krell Institute, Antares Nuclear, Deployable Energy, La Sierra University, Clean Republic SODO, LLC, Molecular Foundry, Joint Genome Institute (JGI), EdenCode, University of Oklahoma (OU), North Carolina State University (NC State), William & Mary, the University of North Carolina at Chapel Hill (UNC-Chapel Hill), Washington University in St. Louis (WashU), Duke University, the University of Chicago, the National Reactor Innovation Center (NRIC), and the U.S. Nuclear Regulatory Commission (NRC) remain registered as reference-only participants. The broader sub-grantee network of 342 participating institutions represents secondary academic and sub-contractor nodes across the 278 national project awards.
+> **Note:** The tracker now covers 238 Genesis Mission ecosystem participants, with 202 entities in dedicated technical write-ups (84.9% full-profile coverage). George Washington University, Brown University, Heidelberg University, Howard University, European Coalition for AI in Fundamental Physics (EuCAIF), Colorado School of Mines, UC San Diego, University of Delaware, University of Hawaiʻi at Mānoa, University of Massachusetts Amherst, University of Washington, Boise State University, St. Joseph's University, New York, The Ohio State University, Kent State University, University of Maryland, ChipNexus, Southeastern Universities Research Association (SURA), ORISE, Energy Sciences Coalition (ESC), Krell Institute, Antares Nuclear, Deployable Energy, La Sierra University, Clean Republic SODO, LLC, Molecular Foundry, Joint Genome Institute (JGI), EdenCode, University of Oklahoma (OU), North Carolina State University (NC State), William & Mary, the University of North Carolina at Chapel Hill (UNC-Chapel Hill), Washington University in St. Louis (WashU), Duke University, the University of Chicago, and the National Reactor Innovation Center (NRIC) remain registered as reference-only participants. The broader sub-grantee network of 342 participating institutions represents secondary academic and sub-contractor nodes across the 278 national project awards.
