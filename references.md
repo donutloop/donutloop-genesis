@@ -90,6 +90,7 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
 * [xLight](https://xlight.ai/): [xLight — About Us](https://www.xlight.com/about)
 * [Radiant (Radiant Industries, Inc.)](https://www.radiantnuclear.com/)
 * [Valar Atomics](https://valaratomics.com/)
+* [U.S. Nuclear Regulatory Commission (NRC)](https://www.nrc.gov/)
 
 ---
 
@@ -343,6 +344,11 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
 * [Radiant: First Reactor in DOME](https://www.radiantnuclear.com/news/first-reactor-in-dome) - First-party announcement of Radiant's selection to deploy the first reactor tested in Idaho National Laboratory's DOME test bed, describing the ~1.2 MWe / ~3.5 MWt helium-cooled Kaleidos design, its shipping-container form factor, five-year refueling interval and 20-year service life.
 * [Valar Atomics](https://valaratomics.com/): [Department of Energy Celebrates Second Advanced Reactor Achieving Criticality](https://www.energy.gov/articles/department-energy-celebrates-second-advanced-reactor-achieving-criticality) - DOE announcement of the **Ward 250** zero-power criticality on **June 18, 2026** at the San Rafael Energy Research Center in Emery County, Utah — the second DOE-authorized advanced reactor to reach criticality under the **Reactor Pilot Program** and the first at a non-federal site.
 * [Valar Atomics: Announcing our $1B Series B Led by Sequoia](https://www.valaratomics.com/docs/Announcing-our-1B-Series-B-Led-By-Sequoia) - First-party financing announcement (August 2026) of the $1 Billion Series B led by Sequoia Capital plus a $200 Million credit facility, funding serial manufacturing of the helium-cooled, TRISO-fuelled **Ward** microreactor line for industrial heat and AI data-center loads.
+* [U.S. Nuclear Regulatory Commission (NRC)](https://www.nrc.gov/): [Ordering the Reform of the Nuclear Regulatory Commission (Executive Order 14300, 90 FR 22587)](https://www.federalregister.gov/documents/2025/05/29/2025-09798/ordering-the-reform-of-the-nuclear-regulatory-commission) - Executive Order of May 23, 2025 directing a wholesale revision of NRC regulations and guidance (proposed rulemaking within 9 months, final rules within 18 months), fixed decision deadlines of 18 months for new reactor construction and operating applications and 12 months for continued-operation renewals, reconsideration of radiation-protection standards, and agency reorganization.
+* [NRC: Wholesale Revision of Regulations Under Executive Order 14300](https://www.nrc.gov/about-nrc/governing-laws/advance-act/wholesale-revision-regs) - NRC implementation portal tracking the EO 14300 rulemaking programme alongside the ADVANCE Act of 2024, covering licensing process modernization, environmental review reform and graded requirements for microreactors and modular designs.
+* [NRC: NEIMA Milestone Schedules and Fixed Fee Caps for Requested Licensing Activities](https://www.nrc.gov/about-nrc/generic-schedules) - Statutory milestone schedules and fixed fee caps codified under 10 CFR 170.33, establishing cost and schedule predictability for advanced reactor applicants.
+* [NRC: Artificial Intelligence Strategic Plan, Fiscal Years 2023–2027 (NUREG-2261)](https://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr2261/index.html) - Agency AI strategy defining five goals: readiness for regulatory decision-making on AI, an AI review framework, interagency and international partnerships, an AI-proficient workforce, and internal AI use cases across NRC-regulated activities.
+* [NRC: ADAMS Public Documents](https://www.nrc.gov/reading-rm/adams) - The Agencywide Documents Access and Management System public library of more than 3 million full-text regulatory documents dating to 1980, the regulatory corpus underlying Genesis Mission nuclear language models and semantic search systems (Atomic Canyon, Everstar Gordian AI).
   
 ---
 
