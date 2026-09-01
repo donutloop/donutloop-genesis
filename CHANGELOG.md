@@ -5,6 +5,15 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.13.21] - 2026-09-01
+
+### Changed
+- **Entity Reprocessing (LILA — §3.1 & A.3, README.md & README.de.md)**: Reprocessed the **LILA (Lila Sciences)** partner profile against its official announcement *Powering American Science: LILA to Join DOE's Genesis Mission* (`www.lila.ai`). The entry now cites the source release directly and adds technical sub-bullets covering: **three Phase I awards** under the Genesis Mission **Lighthouse Challenge** (DE-FOA-0003612 cohort) with **Caltech**/**LBNL** and **Northwestern University**/**Argonne National Laboratory** targeting a measurable *"AI advantage"*; the **AI Science Factory** closed-loop architecture executing hypothesis generation, experimental design, robotic execution, and real-time learning in one iteration cycle; the autonomous **electrochemical refinery** converting **waste carbon** into higher-value products across a **10 billion+** candidate combination space co-optimized for **selectivity**, **efficiency**, and **durability**; and autonomous identification of **semiconductor charge-transport physics** for microelectronics and energy-materials co-design.
+- **Coverage Tracker (`coverage.md`)**: Incremented the **LILA** `Process Count` from **0** to **1** and expanded its notes with the Lighthouse Challenge awards, AI Science Factory architecture, and partner laboratories. No entities added or removed, so all summary metrics (238 total, 198 full profiles, 83.2%) remain unchanged.
+- **Appendix A.3 (`README.md` & `README.de.md`)**: Refreshed the LILA row to match the reprocessed scope.
+- **References (`references.md`)**: Verified integrity — the existing LILA homepage and announcement links were retained unchanged; no new sources were introduced.
+- **Version Bump**: Incremented the version string to `3.13.21` across `README.md` and `README.de.md`.
+
 ## [3.13.20] - 2026-09-01
 
 ### Added
