@@ -323,7 +323,7 @@
 
 | Process Count | Organization | Coverage | Paper Section | Notes |
 |---------------|-------------|----------|---------------|-------|
-| 0 | [Wiley](https://www.wiley.com/) | ✅ Full Profile | §3.1, A.3 | Consortium scientific publisher; AI-powered research infrastructure, expert-validated workflows, research intelligence & evidence-linked content for trustworthy scientific AI |
+| 1 | [Wiley](https://www.wiley.com/) | ✅ Full Profile | §3.1, A.3 | Sole scientific publisher in the Genesis Mission Consortium (announced 22 Jul 2026, demonstrated at the Genesis Mission Annual Summit); research intelligence & analytics tools pledged to all DOE national laboratories, expert-validated editorial workflows, evidence-linked peer-reviewed corpus for provenance & reproducibility, and operational integration support |
 
 ---
 
