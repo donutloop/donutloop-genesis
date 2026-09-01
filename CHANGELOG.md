@@ -5,6 +5,17 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.32.0] - 2026-09-01
+
+### Added
+- **Entity Profile (William & Mary — §3.3 & A.5, README.md & README.de.md)**: Expanded **William & Mary (School of Computing, Data Sciences & Physics)** from a single narrative bullet into a dedicated structured profile under `### 3.3 University Research Partners → AI Architecture, Foundation Models & Agentic Discovery`, organized into technical sub-bullets covering: the *awards and commitments* layer (Genesis Mission **Phase I** award of approximately **$1 Million** led by Associate Professor of Data Science **Cristiano Fanelli**, executed jointly with **Jefferson Lab**, **Brookhaven National Laboratory** and **SLAC National Accelerator Laboratory**, aligning a university-led model architecture with the detector operations and data pipelines of three DOE national laboratories); the *technical capabilities* substrate (a unified architecture that learns directly from **raw detector-level data across multiple subsystems simultaneously**, capturing cross-detector **correlations** before lossy high-level summarization, **task-flexible** across **simulation**, **event reconstruction** and **noise filtering** within a single trained backbone and **transferable** across experiments and detector geometries so that a pretrained model can be adapted rather than rebuilt); and a *Mission Domains* sub-bullet locating William & Mary on the **detector foundation model layer**, supplying reusable backbones for detector design and optimization at the **Electron-Ion Collider (EIC)** at Brookhaven and **GlueX** at Jefferson Lab, and connecting the §2.3A high-energy physics and particle accelerator portfolio to the **High Performance Data Facility (HPDF)** data backbone and the §2.1 heterogeneous accelerator substrate.
+
+### Changed
+- **Coverage Tracker (`coverage.md`)**: Upgraded **William & Mary** from `❌ Not Covered` to `✅ Full Profile`, set its `Process Count` to **1**, its `Paper Section` to `§3.3, A.5`, and expanded its note with the award value and principal investigator, the Jefferson Lab, Brookhaven and SLAC partners, the raw multi-detector learning architecture, its task flexibility and transferability, and the EIC and GlueX detector design targets. Recalculated the summary metrics: Universities **73 → 74** full / **18 → 17** not covered, totals **212 → 213** full profiles and **26 → 25** not covered, coverage level **89.1% → 89.5%** (**10.9% → 10.5%** not covered), with the header scope line and the closing note updated accordingly.
+- **Appendix A.5 (`README.md` & `README.de.md`)**: Verified the existing **William & Mary** rows in the *Research Universities & Academic Institutions* tables of both editions against the expanded profile; no further changes required.
+- **References (`references.md`)**: Retained all existing entries unchanged; the **William & Mary** item *William & Mary Receives DOE Genesis Mission Award to Advance AI-Powered Particle Physics* remains registered under `## 5. National Labs & University Coverage`.
+- **Version Bump**: Incremented the version string to `3.32.0` across `README.md` and `README.de.md`.
+
 ## [3.31.0] - 2026-09-01
 
 ### Added
