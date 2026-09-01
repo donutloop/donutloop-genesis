@@ -5,6 +5,18 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.11.2] - 2026-09-01
+
+### Added
+- **Reference Index Entry (`references.md`)**: Registered Cognition's first-party announcement [*Cognition Signs MOU with U.S. Department of Energy to Join The Genesis Mission*](https://cognition.com/blog/cognition-doe-genesis-mission) (`cognition.com`) under *Executive, Federal & Partner Announcements*.
+- **Company Profile — Cognition (§3.1 A, README.md & README.de.md)**: Added a dedicated *Cognition* entry under *Industry, Hyperscale & Hardware Commitments — Frontier AI, Cloud & Hyperscale Computing* in both flagship papers, structured into *Grants & Commitments* (DOE memorandum of understanding, in-kind code security scans, remediation reports and free compute for Genesis-funded consortia teams, **FedRAMP High** authorization track, and existing deployments across the **U.S. Army**, **U.S. Navy**, **NASA JPL** and the OPM **Tech Force**), *Technical Capabilities* (the **Devin** autonomous AI software engineer across four workstreams — **Devin Security Swarm** vulnerability discovery and remediation, legacy **Fortran/C++/COBOL** scientific code modernization, scientific workforce capacity expansion, and cloud-native migration of legacy laboratory infrastructure), and *AI & Digital Twin Platforms* (agentic software engineering as a cross-cutting substrate hardening simulation, data-pipeline and orchestration code behind laboratory digital twins and closed-loop experimental workflows).
+- **Appendix A.3 Registration**: Added a *Cognition* row to the *Frontier AI & Data Platforms* partner table in Appendix A.3 of both `README.md` and `README.de.md`.
+
+### Changed
+- **Master Index Sync (`reference_coverage.md`)**: Registered the new `cognition.com` link in the Master Reference Link Index with status `Processed` and added a `cognition.com` domain row (1 link). Updated Section 1 metrics (Total Reference Links **631 → 632**, Unique Target Domains **305 → 306**, Web Portals & Press Releases **609 → 610**, Processing Status **632 / 632 Processed, 100% Complete**) and the Section 2 distribution table (`4. Executive, Federal & Partner Announcements` **177 → 178**, share 28.1% → 28.2%; recalculated share for Section 5).
+- **Coverage Tracker (`coverage.md`)**: Added **Cognition** as `✅ Full Profile` (`§3.1, A.3`) under *Frontier AI & Data Platforms*. Recalculated summary metrics: Industry Partners (92 → 93 total, 85 → 86 full), overall totals (234 → 235 entities, 197 → 198 full) and the scope header coverage status (**197 / 234**, 84.2% → **198 / 235**, 84.3%).
+- **Version Bump**: Incremented the version string to `3.11.2` across `README.md` and `README.de.md`.
+
 ## [3.11.1] - 2026-09-01
 
 ### Added
