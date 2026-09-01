@@ -5,6 +5,18 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.13.0] - 2026-09-01
+
+### Added
+- **Reference Index Entry (`references.md`)**: Registered the UConn School of Civil & Environmental Engineering feature [*UConn Team Selected for Inaugural DOE Genesis Mission Award to Advance AI-Driven Environmental Research*](https://cee.engr.uconn.edu/uconn-team-selected-for-inaugural-doe-genesis-mission-award-to-advance-ai-driven-environmental-research/) (`cee.engr.uconn.edu`) under *National Labs & University Coverage → Universities & Research Institutions*, converting the existing single-link University of Connecticut entry into a nested list.
+- **University of Connecticut Enrichment (§3.3, README.md & README.de.md)**: Added the UConn-led Genesis Mission project under *Grid Decarbonization, Climate & Geospatial AI* — the project *An AI-Enabled Digital Twin Framework for Coupled Surface–Subsurface Hydrologic and Biogeochemical Simulation in the Northeast U.S. Coastal Region*, led by **Wei Ren** (Department of Natural Resources and the Environment) with **Bo Tao** (NRE), **Zhi Li** and **Emmanouil Anagnostou** (Civil & Environmental Engineering) and **Glenn Hammond** of **Pacific Northwest National Laboratory (PNNL)**. The digital twin fuses satellite observations, field measurements and advanced environmental models via AI to improve water, carbon and nutrient transport prediction for groundwater management, coastal ecosystem protection and clean energy technologies, backed by DOE high-performance computing and national laboratory resources plus a publicly available dataset; it is one of only **two** funded Connecticut projects, selected from several thousand national proposals.
+
+### Changed
+- **Master Index Sync (`reference_coverage.md`)**: Registered the new `cee.engr.uconn.edu` link in the Master Reference Link Index with status `Processed` and added a `cee.engr.uconn.edu` domain row (1 link). Updated Section 1 metrics (Total Reference Links **637 → 638**, Unique Target Domains **309 → 310**, Web Portals & Press Releases **615 → 616**, Processing Status **638 / 638 Processed, 100% Complete**) and the Section 2 distribution table (`5. National Labs & University Coverage` **325 → 326**, share 51.0% → 51.1%; recalculated share for Section 2, 12.6% → 12.5%).
+- **Coverage Tracker (`coverage.md`)**: Extended the **University of Connecticut (UConn)** profile description with the AI-enabled hydrologic–biogeochemical digital twin (w/ PNNL); no new entities were introduced, so all summary metrics remain unchanged.
+- **Appendix A.5 (`README.md` & `README.de.md`)**: Extended the University of Connecticut appendix row with the AI-enabled hydrologic–biogeochemical digital twin focus.
+- **Version Bump**: Incremented the version string to `3.13.0` across `README.md` and `README.de.md`.
+
 ## [3.12.4] - 2026-09-01
 
 ### Added
