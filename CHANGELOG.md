@@ -5,6 +5,16 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.13.37] - 2026-09-01
+
+### Changed
+- **Entity Reprocessing (CoreWeave — §2.1, §3.1 & A.3, README.md & README.de.md)**: Reprocessed the **CoreWeave** profile under `### 3.1 Industry, Hyperscale & Hardware Commitments`. The formerly single-paragraph entry is now structured into technical sub-bullets covering: Genesis Mission membership as a purpose-built AI cloud supplying elastic accelerated capacity to national-laboratory, university and industry teams, delivered to federal mission owners through the **CoreWeave Federal** division on a **FedRAMP** authorization track; the multi-generation **NVIDIA** fleet from **HGX H100/H200** nodes to **Blackwell** and **Blackwell Ultra** rack-scale **GB200 NVL72** / **GB300 NVL72** systems (72 liquid-cooled GPUs per NVLink domain, up to ~21 TB GPU memory and ~130 TB/s NVLink bandwidth per rack); non-blocking **NVIDIA Quantum-2 InfiniBand** fabrics at up to **400 Gb/s per GPU** with S3-compatible **CoreWeave AI Object Storage** and the **Local Object Transport Accelerator (LOTA)** per-node cache; the **CoreWeave Kubernetes Service (CKS)** with **SUNK** (Slurm on Kubernetes) topology-aware gang scheduling, **Mission Control** fleet health validation and automated remediation, and the acquired **Weights & Biases** experiment-tracking stack; purpose-built **direct-to-chip liquid-cooled** facilities sized for NVL72-class rack power; and federation of commercial capacity with the **American Science Cloud (AmSC)** and **HPDF** data backbone.
+- **Heterogeneous Compute Substrate (§2.1, both editions)**: Added a *CoreWeave AI Cloud Capacity (CoreWeave / DOE)* entry summarizing the Blackwell NVL72 fleet, Quantum-2 InfiniBand fabrics, AI Object Storage/LOTA data path, SUNK and Mission Control operations, and the CoreWeave Federal delivery route.
+- **Coverage Tracker (`coverage.md`)**: Incremented the **CoreWeave** `Process Count` from **0** to **1**, expanded its `Paper Section` to `§2.1, §3.1, A.3`, and replaced its summary notes with the accelerated compute fleet, interconnect and storage stack, orchestration and observability tooling, liquid-cooled facilities, FedRAMP-track federal posture and AmSC/HPDF federation. The `Process Count` column was already present as the first column of every tracking table, so no schema migration was required; no entities were added or removed, leaving all summary metrics (238 total, 198 full profiles, 83.2%) unchanged.
+- **Appendix A.3 (`README.md` & `README.de.md`)**: Refreshed the CoreWeave row to match the reprocessed scope.
+- **References (`references.md`)**: Retained the existing CoreWeave Genesis Mission announcement link and appended two newly sourced links — the *NVIDIA Blackwell GPUs on the CoreWeave AI Cloud* product page and the *SUNK — Slurm on Kubernetes* platform page.
+- **Version Bump**: Incremented the version string to `3.13.37` across `README.md` and `README.de.md`.
+
 ## [3.13.36] - 2026-09-01
 
 ### Changed

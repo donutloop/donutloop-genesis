@@ -277,6 +277,8 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
 * [RTI International: DOE Partners with RTI International to Administer Newly Launched Genesis Mission Consortium via TECHWERX](https://www.prnewswire.com/news-releases/doe-partners-with-rti-international-to-administer-newly-launched-genesis-mission-consortium-via-techwerx-302682875.html)
 * [PR Newswire Release: Domino Unveils New Capabilities to Take AI from Model to Mission-Critical Application](https://www.prnewswire.com/news-releases/domino-unveils-new-capabilities-to-take-ai-from-model-to-mission-critical-application-302775592.html)
 * [CoreWeave: Joins U.S. Department of Energy's Genesis Mission to Advance Research and Innovation](https://www.coreweave.com/news/coreweave-joins-department-of-energys-genesis-mission-to-advance-u-s-research-and-innovation)
+* [CoreWeave: NVIDIA Blackwell GPUs on the CoreWeave AI Cloud (GB200 / GB300 NVL72)](https://www.coreweave.com/products/nvidia-blackwell)
+* [CoreWeave: SUNK — Slurm on Kubernetes Unified AI Training System](https://www.coreweave.com/products/sunk)
 * [Databricks: Securing America's Scientific Future with Databricks & Accenture](https://www.databricks.com/dataaisummit/session/sponsored-accenture-securing-americas-scientific-future)
 * [Databricks: How Ontologies Help Nuclear Scale to Meet Global Energy Demand](https://www.databricks.com/blog/how-ontologies-help-nuclear-scale-meet-global-energy-demand)
 * [Dataera.ai: Dataera.ai Collaborates with U.S. Department of Energy on Genesis Mission](https://www.dataerai.com/doe-genesis-partnership.html)
