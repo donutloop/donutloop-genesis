@@ -5,6 +5,15 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.13.26] - 2026-09-01
+
+### Changed
+- **Entity Reprocessing (xLight — §3.1 & A.3, README.md & README.de.md)**: Reprocessed the **xLight, Inc.** industry profile. The §3.1 entry now carries technical sub-bullets covering: the federal funding sequence from the **December 2025** Department of Commerce **Letter of Intent** (NIST) to the **finalized $150 Million CHIPS Incentives award** in **June 2026**, matched by an equal **$150 Million private commitment** and targeting an **Albany NanoTech Complex** prototype by **2028**; the accelerator hardware architecture of an energy-recovery **superconducting radio-frequency (SRF) linac** driving a free-electron laser, replacing tin-droplet **laser-produced plasma (LPP)** sources with a clean high-vacuum photon beamline free of collector-mirror contamination; **utility-scale multi-scanner distribution** feeding many **High-NA EUV scanners** per fab for 3nm/2nm/1.4nm nodes; the **Fermilab** CRADA on high-gradient SRF cavities and cryomodules plus **Los Alamos National Laboratory** machine-learning electron-beam and RF stabilization; and leadership under Executive Chairman **Pat Gelsinger** and board director **Dr. Thomas Caulfield**, backed by **$40 Million Series B** financing.
+- **Coverage Tracker (`coverage.md`)**: Incremented the **xLight** `Process Count` from **0** to **1** and expanded its notes with the LOI-to-award sequence, the SRF linac FEL architecture, multi-scanner distribution, and the Fermilab/LANL national-laboratory collaborations. No entities added or removed, so all summary metrics (238 total, 198 full profiles, 83.2%) remain unchanged.
+- **Appendix A.3 (`README.md` & `README.de.md`)**: Refreshed the xLight row to match the reprocessed scope.
+- **References (`references.md`)**: Verified integrity — the existing xLight portal, BusinessWire, NIST and Fermilab links were retained unchanged; no new sources were introduced.
+- **Version Bump**: Incremented the version string to `3.13.26` across `README.md` and `README.de.md`.
+
 ## [3.13.25] - 2026-09-01
 
 ### Changed

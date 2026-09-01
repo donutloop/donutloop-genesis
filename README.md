@@ -1,4 +1,4 @@
-**Version**: 3.13.25
+**Version**: 3.13.26
 
 # The Genesis Mission: Architecture, Strategic Initiatives, and the Multi-Institutional Ecosystem for AI- and Quantum-Driven Scientific Discoveries
 
@@ -357,6 +357,11 @@ Key modality highlights across quantum commitments include:
 
 * **xLight ($150 Million CHIPS Act Award & $150 Million Private Match):**
   - *EUV Lithography*: Free-electron laser (FEL) EUV light source prototype at Albany NanoTech with NIST & Fermilab SRF cryomodules, securing sub-2nm domestic chip manufacturing sovereignty.
+  - *Federal Funding Sequence*: Department of Commerce **Letter of Intent** announced by NIST in **December 2025** was converted into a **finalized $150 Million CHIPS Incentives award** in **June 2026**, matched by an equal **$150 Million private commitment** and targeting a prototype light source at the **Albany NanoTech Complex** by **2028**.
+  - *Accelerator Hardware Architecture*: Energy-recovery **superconducting radio-frequency (SRF) linac** driving a free-electron laser oscillator, replacing tin-droplet **laser-produced plasma (LPP)** sources with a clean, high-vacuum photon beamline that eliminates collector-mirror contamination and delivers an order-of-magnitude power headroom over incumbent EUV sources.
+  - *Utility-Scale Multi-Scanner Distribution*: A single accelerator source feeds many **High-NA EUV scanners** across one fab, amortizing capital cost per scanner and raising wafer throughput for 3nm, 2nm and 1.4nm nodes.
+  - *National Laboratory CRADAs*: **Fermilab** CRADA co-developing high-gradient SRF cavities and cryomodules for high-repetition-rate linacs, complemented by **Los Alamos National Laboratory** machine-learning work on real-time electron-beam and RF stabilization — the same AI-for-accelerators thread Fermilab pursues under Genesis for adaptive SRF resonance control.
+  - *Leadership*: Executive Chairman **Pat Gelsinger** (former Intel CEO) and board director **Dr. Thomas Caulfield** (GlobalFoundries), with **$40 Million Series B** financing supporting commercialization.
 
 ### 2.3 Scientific Domain Applications & Closed-Loop Workflows
 
@@ -1114,7 +1119,7 @@ Industry contributors span cloud and AI hyperscalers, semiconductor manufacturer
 | [Kitware](https://www.kitware.com/) | Open-source scientific visualization (ParaView, VTK, CMake), in-situ HPC analytics & FAIR computer vision |
 | [AVEVA](https://www.aveva.com/) | Enterprise industrial software, SCADA integration, operational telemetry & clean energy digital twins |
 | [Cornelis Networks](https://www.cornelisnetworks.com/) | Next-generation Omni-Path (OPX) high-performance fabric interconnects & scale-out exascale AI networks |
-| [xLight](https://xlight.inc/) | $150M CHIPS Act FEL-based EUV lithography (2028 target), Fermilab SRF/cryomodule CRADA, Albany NanoTech prototype, utility-scale multi-scanner FEL architecture & Pat Gelsinger board leadership |
+| [xLight](https://xlight.inc/) | $150M CHIPS Act final award (Dec 2025 LOI → June 2026 award) plus $150M private match, energy-recovery SRF linac FEL EUV light source (2028 Albany NanoTech prototype), Fermilab SRF/cryomodule CRADA & LANL machine-learning beam stabilization, utility-scale multi-scanner High-NA architecture & Pat Gelsinger / Dr. Thomas Caulfield board leadership |
 
 #### Energy, Utilities & Critical Materials
 | Organization | Primary Contribution |
