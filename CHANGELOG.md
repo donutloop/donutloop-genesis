@@ -5,6 +5,14 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.33.1] - 2026-09-01
+
+### Changed
+- **Entity Reprocessing (Atom Computing — §3.1B, README.md & README.de.md)**: Reprocessed **Atom Computing** under `### 3.1 Industry, Hyperscale & Hardware Commitments → B. Quantum Developers & Semiconductor Foundries`, expanding the single narrative bullet into a structured profile with technical sub-bullets: *MOUs, Grants & Commitments* (**$100 Million** Department of Commerce **Letter of Intent** under the **CHIPS and Science Act** toward **fault-tolerant, utility-scale** quantum computing, **$300 Million+** total venture capital, the **NREL** research partnership, and **DARPA Quantum Benchmarking Initiative (QBI) Stage B** participation); *Technical Capabilities (Neutral-Atom QPU Architecture)* (reconfigurable **optical tweezer arrays** with **nuclear-spin** encoding, first-generation **strontium-87** at **1,225+** trapping sites and **~40 s** coherence, second-generation **3D ytterbium-171** arrays exceeding **1,180 qubits**, fabrication-variability-free identical atoms, and atom-transport **all-to-all connectivity**); *Technical Capabilities (Error Correction & Logical Qubits)* (**mid-circuit measurement**, conditional branching and atom reloading feeding the **Microsoft Azure Quantum** qubit-virtualization stack toward a commercial offering on the order of **50 logical qubits** on a logical-qubit-first roadmap); and *Mission Domains* (neutral-atom anchor of the seven-modality quantum portfolio in §2.2, **NREL ARIES** **quantum-in-the-loop** grid stability and feeder-line co-simulation in §2.3/§2.4, plus optimization, quantum chemistry and testbed benchmarking federated with the §2.1 HPC substrate).
+- **Coverage Tracker (`coverage.md`)**: Incremented the **Atom Computing** `Process Count` from **0 → 1**, extended its `Paper Section` to `§2.2, §3.1B, A.4`, and refreshed its note with the CHIPS Act LOI framing, DARPA QBI Stage B, both atomic species and array generations, the logical-qubit stack, and the NREL ARIES co-simulation scope. Coverage status remained `✅ Full Profile`, so the summary metrics (**214 / 238**, **89.9%**) are unchanged.
+- **References (`references.md`)**: Retained all existing **Atom Computing** entries unchanged — the company portal, About Us page, hardware portal, the Department of Commerce $100M Letter of Intent announcement, and the NREL electric grid modeling release; no links were removed and no new sources were required.
+- **Version Bump**: Incremented the patch version string to `3.33.1` across `README.md` and `README.de.md`.
+
 ## [3.33.0] - 2026-09-01
 
 ### Added
