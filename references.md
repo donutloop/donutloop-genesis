@@ -51,7 +51,7 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
 * [GE Aerospace](https://www.geaerospace.com/)
 * [GlobalFoundries](https://gf.com/): [GlobalFoundries — Quantum Technology Architecture & Foundry Solutions](https://gf.com/technologies/quantum-technology/)
 * [Google](https://about.google/): [AI Co-Scientist: A Multi-Agent AI Partner to Accelerate Research](https://deepmind.google/blog/co-scientist-a-multi-agent-ai-partner-to-accelerate-research/)
-* [Groq](https://groq.com/): [Groq Partners with U.S. Department of Energy to Advance AI Inference and Next-Generation Computing Infrastructure](https://groq.com/newsroom/groq-partners-with-us-department-of-energy-to-advance-ai-inference-and-next-generation-computing-infrastructure)
+* [Groq](https://groq.com/): [Groq Partners with U.S. Department of Energy to Advance AI Inference and Next-Generation Computing Infrastructure](https://groq.com/newsroom/groq-partners-with-us-department-of-energy-to-advance-ai-inference-and-next-generation-computing-infrastructure), [Groq System Overview — ALCF AI Testbed User Guides](https://docs.alcf.anl.gov/ai-testbed/groq/system-overview/), [Groq Selects Samsung Foundry to Bring Next-Gen LPU to the AI Acceleration Market](https://www.prnewswire.com/news-releases/groq-selects-samsung-foundry-to-bring-next-gen-lpu-to-the-ai-acceleration-market-301900464.html)
 * [HPE](https://www.hpe.com/)
 * [Hugging Face](https://huggingface.co/)
 * [IBM](https://www.ibm.com/): [IBM Quantum Portal](https://www.ibm.com/quantum)
