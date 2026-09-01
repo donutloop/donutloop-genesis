@@ -5,6 +5,14 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.13.12] - 2026-09-01
+
+### Changed
+- **D-Wave Quantum Reprocessing (§3.1, README.md & README.de.md)**: Reprocessed the **D-Wave Quantum** industry profile to retain Genesis Mission-relevant content only. Removed non-mission corporate and commercial material from *MOUs, Grants & Commitments* (NYSE **QBTS** listing, **National Research Council of Canada** award, **Davidson Technologies** defense reseller agreement, **Mastercard** and **Nasdaq Verafin** alliances), from *Technical Capabilities (Hybrid Cloud & Solvers)* (**SOC 2 Type 1** certification and the JUNIQ-Jülich / Singapore / Israel **Leap** nodes), and from *Mission Domains* (logistics, supply-chain, payment-network and anti-money-laundering analytics). The retained scope covers the **$100 Million** Department of Commerce CHIPS Act Letter of Intent, Advantage/Advantage2 annealing hardware, dual-rail flux-qubit gate-model error correction, the Leap/Ocean hybrid solver stack, and the LANL / ORNL / NREL ARIES mission domains.
+- **Coverage Tracker (`coverage.md`)**: Incremented the **D-Wave** `Process Count` from **1** to **2** and pruned its notes to the Genesis-relevant scope. No entities were added or removed, so all summary metrics (237 total, 198 full profiles, 83.5%) remain unchanged.
+- **Reference Integrity (`references.md`)**: All existing D-Wave company-portal and $100M CHIPS Act funding reference links retained unchanged; no links were removed.
+- **Version Bump**: Incremented the version string to `3.13.12` across `README.md` and `README.de.md`.
+
 ## [3.13.11] - 2026-09-01
 
 ### Added
