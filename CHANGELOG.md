@@ -5,6 +5,17 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.13.13] - 2026-09-01
+
+### Added
+- **Amazon Web Services (AWS) Reprocessing (§3.1, README.md & README.de.md)**: Restructured the **Amazon Web Services (AWS)** industry profile into dedicated sub-bullets — *MOUs, Grants & Commitments* (the **up to $100 Million** federal credit pool split into the **AWS Genesis Accelerator Initiative** for DOE/NNSA, the national laboratories, other federal research organizations and private-sector research entities and the **AWS Warfighter Capability Accelerator Initiative** for Department of War entities and the defense industrial base across the **2026–2028** window, plus the industry cost-share in the INL-led **Project Prometheus** nuclear AI consortium and the NNSA **Mission** / **Vision** classified cloud nodes with LANL), *Technical Capabilities (Compute & Silicon)* (**Graviton4** ARM silicon, **Trainium2** / **Inferentia2** accelerators, GPU **EC2 UltraClusters** with **Elastic Fabric Adapter (EFA)** networking, and the **Nitro System** isolation substrate), *Technical Capabilities (Secure Enclaves & Data)* (**AWS GovCloud (US)** and the classified Secret / Top Secret regions hosting the NNSA Secret/Restricted Data cloud, with **Amazon S3** and **FSx for Lustre** for FAIR dataset hosting and AmSC-aligned federated access), *Technical Capabilities (Quantum & Post-Quantum Security)* (**Amazon Braket** multi-modality quantum access, the AWS **Center for Quantum Computing** error-correction program, and **NIST-approved FIPS 140-3** post-quantum cryptography with **ML-KEM** hybrid key establishment and **ML-DSA**-class signatures), and *Mission Domains* (nuclear fission and fusion energy, national security and stockpile science, biotechnology and life sciences, supercomputing and quantum information science, and defense mission areas).
+
+### Changed
+- **Coverage Tracker (`coverage.md`)**: Incremented the **Amazon Web Services (AWS)** `Process Count` from **0** to **1**, extended its `Paper Section` to `§2.1, §3.1, A.3`, and refreshed its notes with the 2026–2028 accelerator credit structure, the Graviton4/Trainium2/Inferentia2 and EC2 UltraCluster substrate, the GovCloud and classified enclaves hosting NNSA Mission and Vision at LANL, Amazon Braket and FIPS 140-3 post-quantum cryptography, and the Project Prometheus SMR digital twins. No entities were added or removed, so all summary metrics (237 total, 198 full profiles, 83.5%) remain unchanged.
+- **Appendix A.3 (README.md & README.de.md)**: Updated the **Amazon Web Services (AWS)** partner row to reflect the reprocessed scope (accelerator credit split, silicon and interconnect portfolio, accredited federal enclaves, quantum and post-quantum security).
+- **Reference Integrity (`references.md`)**: All existing AWS company-portal, $100M federal credit, quantum/post-quantum security and Government Accelerator Initiatives reference links retained unchanged; no links were removed.
+- **Version Bump**: Incremented the version string to `3.13.13` across `README.md` and `README.de.md`.
+
 ## [3.13.12] - 2026-09-01
 
 ### Changed
