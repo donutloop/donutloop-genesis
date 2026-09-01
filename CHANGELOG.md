@@ -5,6 +5,15 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.33.9] - 2026-09-01
+
+### Changed
+- **Application Domains Formatting (`README.md`)**: Reformatted the *Application domains* movement of the `## Abstract` from a single inline `(1)…(8)` enumerated period into a proper Markdown numbered list of the eight strategic sectors (high-energy physics and particle accelerators; fusion plasma physics; advanced nuclear energy and licensing; electric grid resilience; environmental remediation; biomedical discovery under the MAHA mandate; critical minerals and materials sovereignty; national defense and biosecurity), matching the list formatting already used for the seven quantum hardware modalities in the same abstract and for the corresponding block in `README.de.md`. No factual content, figures, institutions or program names were altered.
+- **German Abstract Synchronization (`README.de.md`)**: Rewrote `## Zusammenfassung (Abstract)` so that it mirrors the English abstract regenerated in `3.33.5`, introducing the labelled scholarly movements *Problemstellung und theoretischer Kontext*, *Institutionelle Antwort*, *Forschungsfragen*, *Methode und Evidenzgrundlage*, *Architektur* (AmSC, HPDF, OPAL, ModCon), *Umfang der Zusagen*, *Analytische Gliederung* (the three technical pillars), *Anwendungsdomänen*, *Ergebnisse und Beitrag* and *Limitationen*. The third pillar was brought up to date with the English edition (UT Austin Texas Robotics **SAFE-BOLT** under Prof. Volkan Isler with MDRI and Medra AI, Cleveland Clinic, and *58 weitere Forschungsuniversitäten*), and the spelling error *Bioseicherheit* was corrected to *Biosicherheit*.
+- **German Introduction Synchronization (`README.de.md`)**: Rewrote the opening narrative of `## 1. Einleitung & Kontext` to mirror the English introduction regenerated in `3.33.6`, adding the movements *Breiter Kontext und Motivation*, *Problemstellung und Grenzen der bisherigen Praxis*, *Lösungsansatz*, *Zusammenfassung der Beiträge* (four itemized contributions) and *Aufbau des Dokuments*. Subsections §1.1–§1.3 are unchanged.
+- **German Conclusion Synchronization (`README.de.md`)**: Rewrote `## 5. Fazit` to mirror the English conclusion regenerated in `3.33.7`/`3.33.8`, restructuring it into the movements *Wiederaufnahme der Zielsetzung und zentrale Beiträge*, *Architektonischer Kontext* (the five structural innovations as a numbered list), *Zentrale Ergebnisse und Synthese*, *Limitationen und Geltungsbereich* and *Künftige Forschungsrichtungen* (five-item roadmap), closing on the durability-and-extensibility paragraph.
+- **Version Bump**: Incremented the patch version string to `3.33.9` across `README.md` and `README.de.md`.
+
 ## [3.33.8] - 2026-09-01
 
 ### Changed
