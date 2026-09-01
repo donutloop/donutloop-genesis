@@ -3,7 +3,7 @@
 > **Scope & Coverage Definition:**
 > - **Flagship Consortium Scope:** Tracks **all 238 primary flagship participants**—lead contractors, federal agencies, national laboratories, awardee universities, strategic industrial partners, and philanthropic foundations—explicitly profiled or referenced in the Genesis Mission paper (`README.md`) and reference index.
 > - **Broader National Awardee Network Context:** Under solicitation DE-FOA-0003612 and interagency challenges, the broader national initiative encompasses **342 total participating institutions** (157 companies, 142 universities, 16 national labs, 13 non-profits, 14 other entities across 278 projects).
-> - **Coverage Status:** **203 / 238 (85.3%)** of the tracked consortium entities have dedicated, detailed technical profiles.
+> - **Coverage Status:** **204 / 238 (85.7%)** of the tracked consortium entities have dedicated, detailed technical profiles.
 
 **Legend:**
 - ✅ **Full Profile** — Dedicated section with detailed technical write-up (Sections 2.2 / 3.1 / 3.2 / 3.3 / 3.4 / 3.5)
@@ -118,7 +118,7 @@
 | 0 | [Tennessee Valley Authority](https://www.tva.gov/) | ✅ Full Profile | §3.1, A.3 | Federal power utility, Clinch River SMR nuclear demonstration & exascale grid co-simulation |
 | 0 | [SHINE Technologies](https://shinetechnologies.com/) | ✅ Full Profile | §3.1, A.3 | Nuclear fuel recycling AI & radioisotope production; 2 DOE Genesis project awards |
 | 0 | [X-energy](https://x-energy.com/) | ✅ Full Profile | §3.1, A.3 | Project Prometheus Tier 1 partner ($10M private capital in the $60M INL-led Phase II campaign); Xe-100 high-temperature pebble-bed SMR (80 MWe / 320 MWe four-pack) & TRISO-X coated-particle fuel (TF3 Oak Ridge); APEX multi-agentic AI platform for licensing, digital twins & semi-autonomous operations |
-| 0 | [Antares Nuclear](https://www.antaresindustries.com/) | ❌ Not Covered | — | Advanced microreactor developer; achieved criticality under the Reactor Pilot Program (reference only) |
+| 1 | [Antares Nuclear](https://www.antaresindustries.com/) | ✅ Full Profile | §3.1, A.3 | **Mark-0** sodium heat-pipe-cooled, graphite-moderated HALEU TRISO microreactor (solid-state primary heat path, no pumps, coolant loops or water) that reached zero-power criticality at **Idaho National Laboratory on June 4, 2026** as the **first advanced reactor critical under the DOE Reactor Pilot Program** (EO 14301) — the first privately developed non-light-water reactor in the U.S. in over four decades; DOE-approved Preliminary Documented Safety Analysis and HALEU allocation; **Mark-1** production unit with closed-cycle Brayton conversion (~100 kWe–1 MWe, electricity targeted 2027, fielded deployments 2028); >$600M raised ($96M Series B, $470M Series C led by Paradigm & Caffeinated Capital); USAF, Space Force, Army, DIU, NASA and BWXT TRISO relationships; supplies criticality, reactivity and instrumentation datasets to the INL-led nuclear AI campaign |
 | 1 | [Valar Atomics](https://valaratomics.com/) | ✅ Full Profile | §3.1, A.3 | Ward-series helium-cooled, graphite-moderated HALEU TRISO high-temperature gas reactors (~900 °C outlet, passive decay-heat removal); Ward 250 reached zero-power criticality on June 18, 2026 at the San Rafael Energy Research Center (Utah) as the second DOE-authorized reactor under the Reactor Pilot Program and the first at a non-federal site; Fuel Line Pilot Program TRISO fabrication; $130M Series A and $1B Sequoia-led Series B plus $200M credit facility for serial reactor manufacturing; powered an NVIDIA DGX Spark and anchors a 30 MW near-waterless AI factory study with NVIDIA for gigasite industrial heat, hydrogen and data-center loads |
 | 0 | [Deployable Energy](https://www.deployable.energy) | ❌ Not Covered | — | Microreactor developer with portable designs; achieved criticality under the Reactor Pilot Program (reference only) |
 | 1 | [Radiant](https://www.radiantnuclear.com) | ✅ Full Profile | §3.1, A.3 | Kaleidos transportable high-temperature gas-cooled microreactor (~1.2 MWe / ~3.5 MWt, helium-cooled, HALEU TRISO compacts with zirconium hydride moderation in graphite blocks, five-year refueling interval, 20-year life, shipping-container form factor); selected for the first reactor experiment ever run in INL's DOME microreactor test bed under the Reactor Pilot Program, with a DOE HALEU allocation and a phased zero-power-to-150-hour full-power campaign; $165M Series C funding the Kaleidos Development Unit and a 50-unit-per-year factory; deployable power for remote sites, defense installations and edge compute |
@@ -333,20 +333,20 @@
 
 | Entity Type | Total | ✅ Full | 📋 Brief | ❌ Not Covered |
 |:---|:---:|:---:|:---:|:---:|
-| Industry Partners | 93 | 88 | 0 | 5 |
+| Industry Partners | 93 | 89 | 0 | 4 |
 | Federal Agencies | 11 | 11 | 0 | 0 |
 | National Laboratories & Defense Sites | 26 | 23 | 0 | 3 |
 | Universities | 91 | 69 | 0 | 22 |
 | Philanthropy, Policy & Regional Hubs | 17 | 12 | 0 | 5 |
-| **Total** | **238** | **203** | **0** | **35** |
+| **Total** | **238** | **204** | **0** | **34** |
 
 ### By Coverage Level
 
 | Coverage Level | Count | Percentage |
 |:---|:---:|:---:|
-| ✅ Full Profile | 203 | 85.3% |
+| ✅ Full Profile | 204 | 85.7% |
 | 📋 Brief Mention | 0 | 0.0% |
-| ❌ Not Covered | 35 | 14.7% |
+| ❌ Not Covered | 34 | 14.3% |
 | **Total Entities** | **238** | **100%** |
 
-> **Note:** The tracker now covers 238 Genesis Mission ecosystem participants, with 203 entities in dedicated technical write-ups (85.3% full-profile coverage). George Washington University, Brown University, Heidelberg University, Howard University, European Coalition for AI in Fundamental Physics (EuCAIF), Colorado School of Mines, UC San Diego, University of Delaware, University of Hawaiʻi at Mānoa, University of Massachusetts Amherst, University of Washington, Boise State University, St. Joseph's University, New York, The Ohio State University, Kent State University, University of Maryland, ChipNexus, Southeastern Universities Research Association (SURA), ORISE, Energy Sciences Coalition (ESC), Krell Institute, Antares Nuclear, Deployable Energy, La Sierra University, Clean Republic SODO, LLC, Molecular Foundry, Joint Genome Institute (JGI), EdenCode, University of Oklahoma (OU), North Carolina State University (NC State), William & Mary, the University of North Carolina at Chapel Hill (UNC-Chapel Hill), Washington University in St. Louis (WashU), Duke University, and the National Reactor Innovation Center (NRIC) remain registered as reference-only participants. The broader sub-grantee network of 342 participating institutions represents secondary academic and sub-contractor nodes across the 278 national project awards.
+> **Note:** The tracker now covers 238 Genesis Mission ecosystem participants, with 204 entities in dedicated technical write-ups (85.7% full-profile coverage). George Washington University, Brown University, Heidelberg University, Howard University, European Coalition for AI in Fundamental Physics (EuCAIF), Colorado School of Mines, UC San Diego, University of Delaware, University of Hawaiʻi at Mānoa, University of Massachusetts Amherst, University of Washington, Boise State University, St. Joseph's University, New York, The Ohio State University, Kent State University, University of Maryland, ChipNexus, Southeastern Universities Research Association (SURA), ORISE, Energy Sciences Coalition (ESC), Krell Institute, Deployable Energy, La Sierra University, Clean Republic SODO, LLC, Molecular Foundry, Joint Genome Institute (JGI), EdenCode, University of Oklahoma (OU), North Carolina State University (NC State), William & Mary, the University of North Carolina at Chapel Hill (UNC-Chapel Hill), Washington University in St. Louis (WashU), Duke University, and the National Reactor Innovation Center (NRIC) remain registered as reference-only participants. The broader sub-grantee network of 342 participating institutions represents secondary academic and sub-contractor nodes across the 278 national project awards.
