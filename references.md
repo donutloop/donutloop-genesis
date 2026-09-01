@@ -146,6 +146,7 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
 * [DOE Portal: Savannah River Site (SRS) Office of Environmental Management Overview](https://www.energy.gov/em/savannah-river-site)
 * [DOE Document: Genesis Mission National Science & Technology Challenges (PDF)](https://www.energy.gov/documents/genesis-mission-national-science-technology-challenges)
 * [DOE Document: Office of Artificial Intelligence and Quantum (AIQ) Congressional Justification - FY 2027 Volume 4 (PDF)](https://www.energy.gov/documents/doe-fy-2027-volume-4-aiq)
+* [DOE Document: FY 2027 Biological and Environmental Research (BER) Budget Request (PDF)](https://www.energy.gov/documents/fy-2027-biological-and-environmental-research-budget-request)
 * [DOE Announcement: Secretary Chris Wright Announces First Projects Selected to Accelerate AI-Driven Scientific Discovery](https://www.energy.gov/articles/secretary-energy-chris-wright-announces-first-genesis-mission-projects-selected-accelerate)
 * [DOE Announcement: Over $800 Million to Partner with Scientific Community](https://www.energy.gov/undersecretaryforscience/articles/us-department-energy-announces-more-800-million-partner)
 * [DOE Announcement: 26 Genesis Mission Science and Technology Projects](https://www.energy.gov/undersecretaryforscience/articles/energy-department-announces-26-genesis-mission-science-and)
