@@ -5,6 +5,15 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.13.22] - 2026-09-01
+
+### Changed
+- **Entity Reprocessing (HPE — §3.1 & A.3, README.md & README.de.md)**: Reprocessed the **HPE (Hewlett Packard Enterprise)** partner profile against its official press release *HPE Selected for R&D Projects for U.S. DOE-Led Genesis Mission* (`www.hpe.com`). The entry now carries technical sub-bullets covering: selection in the **first phase** of the mission for **six R&D projects** plus the ORNL/AMD systems partnership and the BNL/ALPEMI/UNL 6G collaboration; the **Lux** first dedicated Genesis AI system (**HPE ProLiant Compute XD685**, **AMD Instinct MI355X**, **EPYC**, **Pensando** Ethernet, redundant **sidecar-style pump-rack** liquid cooling, **Slurm** + **Kubernetes** scheduling) and the 2028 **Discovery** system (6th Gen EPYC, **Instinct MI430X**); the liquid-cooled **HPE Cray EX** exascale substrate (**Frontier**, **Aurora**, **El Capitan**) with **Slingshot 11** fabrics, **Cray Programming Environment**, and **HPE GreenLake for HPC** storage; the **Agentic Fusion Co-pilot**, **SwarmSlicer**, **SciNet** science-aware AIOps, and distributed-workflow porting projects; and generative **long-term weather / U.S. water supply** forecasting together with the **Spotter-AI** cybersecurity framework for scientific AI workflows.
+- **Coverage Tracker (`coverage.md`)**: Incremented the **HPE** `Process Count` from **0** to **1**, extended its `Paper Section` to `§2.1, §3.1, A.3`, and expanded its notes with the six Phase I awards, Lux/Discovery platform details, and the exascale interconnect and storage stack. No entities added or removed, so all summary metrics (238 total, 198 full profiles, 83.2%) remain unchanged.
+- **Appendix A.3 (`README.md` & `README.de.md`)**: Refreshed the HPE row to match the reprocessed scope.
+- **References (`references.md`)**: Verified integrity — the existing HPE homepage and press-release links were retained unchanged; no new sources were introduced.
+- **Version Bump**: Incremented the version string to `3.13.22` across `README.md` and `README.de.md`.
+
 ## [3.13.21] - 2026-09-01
 
 ### Changed
