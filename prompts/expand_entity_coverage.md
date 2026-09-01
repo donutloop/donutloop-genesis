@@ -8,28 +8,31 @@ Systematically document a target entity's technical and strategic role within th
 
 ## Execution Rules
 
-### 1. Integrate Entity Profile in `README.md`
-- **Detailed Profile (§3.1):** Add a dedicated entry for the entity under `### 3.1 Industry, Hyperscale & Hardware Commitments` structured with bold sub-bullets detailing:
-  - **MOUs & Grants:** Official MOUs, CHIPS Act LOIs, or federal funding commitments.
-  - **Technical Capabilities:** Specific hardware architectures, software platforms, quantum modalities, or HPC supercomputing substrates (e.g., GPU/QPU platforms, liquid cooling, wafer-scale engines).
-- **Abstract & Technical Framework (§1 & §2.1):** For major compute or model providers, incorporate concise references into the Abstract (`## Abstract`), heterogeneous supercomputing core (`§2.1`), and ASCII consortium topology diagram (`§1`).
-- **Appendix A.3 Table:** Ensure the entity is listed with its primary contribution in the appropriate category table under `### A.3 Industry & Technology Partners`.
+### 1. Scope Restriction: Paper Traversal
+* **Do Not Read Child Papers:** Confine all analysis, technical updates, and reference extractions strictly to the top-level parent document and primary source material provided. Under no circumstances should child papers, sub-references, or nested citations be recursively fetched, read, or traversed.
 
-### 2. Preserve References in `references.md`
-- **Link Integrity:** Verify and retain all official links, press releases, and collaborator entries for the entity in `references.md` (e.g., under `## 2. Collaborators` and `## 4. Executive, Federal & Partner Announcements`). **Do NOT remove existing reference URLs.**
+### 2. Integrate Entity Profile in `README.md`
+* **Detailed Profile (§3.1):** Add a dedicated entry for the entity under `### 3.1 Industry, Hyperscale & Hardware Commitments` structured with bold sub-bullets detailing:
+  * **MOUs & Grants:** Official MOUs, CHIPS Act LOIs, or federal funding commitments.
+  * **Technical Capabilities:** Specific hardware architectures, software platforms, quantum modalities, or HPC supercomputing substrates (e.g., GPU/QPU platforms, liquid cooling, wafer-scale engines).
+* **Abstract & Technical Framework (§1 & §2.1):** For major compute or model providers, incorporate concise references into the Abstract (`## Abstract`), heterogeneous supercomputing core (`§2.1`), and ASCII consortium topology diagram (`§1`).
+* **Appendix A.3 Table:** Ensure the entity is listed with its primary contribution in the appropriate category table under `### A.3 Industry & Technology Partners`.
 
-### 3. Update Ecosystem Coverage Tracker (`coverage.md`)
-- **Status Upgrade:** Change the entity's row status from `📋 Brief Mention` to `✅ Full Profile`, update the `Paper Section` column (e.g., `§3.1, A.3`), and summarize key technical highlights in `Notes`.
-- **Metrics Recalculation:** Recalculate and update both summary tables:
-  - **By Entity Type:** Increment `✅ Full` and decrement `📋 Brief` for the entity category (e.g., Industry Partners).
-  - **By Coverage Level:** Update the total `✅ Full Profile` and `📋 Brief Mention` counts and percentages.
-  - **Footnote:** Update the total entity profile count in the closing note.
+### 3. Preserve References in `references.md`
+* **Link Integrity:** Verify and retain all official links, press releases, and collaborator entries for the entity in `references.md` (e.g., under `## 2. Collaborators` and `## 4. Executive, Federal & Partner Announcements`). **Do NOT remove existing reference URLs.**
 
-### 4. Version Increment
-- **Version Bump:** Increment the patch version string on line 1 of `README.md` (e.g., `**Version**: 0.2.7-alpha` → `**Version**: 0.2.8-alpha`).
+### 4. Update Ecosystem Coverage Tracker (`coverage.md`)
+* **Status Upgrade:** Change the entity's row status from `📋 Brief Mention` to `✅ Full Profile`, update the `Paper Section` column (e.g., `§3.1, A.3`), and summarize key technical highlights in `Notes`.
+* **Metrics Recalculation:** Recalculate and update both summary tables:
+  * **By Entity Type:** Increment `✅ Full` and decrement `📋 Brief` for the entity category (e.g., Industry Partners).
+  * **By Coverage Level:** Update the total `✅ Full Profile` and `📋 Brief Mention` counts and percentages.
+  * **Footnote:** Update the total entity profile count in the closing note.
 
-### 5. Changelog Update
-- **Changelog Entry:** Update `CHANGELOG.md` under the active release version section to log the newly expanded entity profile, status upgrade in `coverage.md`, and corresponding section updates in `README.md`.
+### 5. Version Increment
+* **Version Bump:** Increment the patch version string on line 1 of `README.md` (e.g., `**Version**: 0.2.7-alpha` → `**Version**: 0.2.8-alpha`).
 
-### 6. Release Management Policy
-- **Outsourced Tagging:** Do NOT execute `git tag` or `git push` commands directly during this workflow prompt. Release tagging and publishing are outsourced to [`prompts/release_and_tag.md`](./release_and_tag.md) and should only be performed when a release step is explicitly requested by the user.
+### 6. Changelog Update
+* **Changelog Entry:** Update `CHANGELOG.md` under the active release version section to log the newly expanded entity profile, status upgrade in `coverage.md`, and corresponding section updates in `README.md`.
+
+### 7. Release Management Policy
+* **Outsourced Tagging:** Do NOT execute `git tag` or `git push` commands directly during this workflow prompt. Release tagging and publishing are outsourced to [`prompts/release_and_tag.md`](./release_and_tag.md) and should only be performed when a release step is explicitly requested by the user.
