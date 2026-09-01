@@ -5,6 +5,18 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.13.15] - 2026-09-01
+
+### Added
+- **Dell Technologies Reprocessing (§3.1, README.md & README.de.md)**: Restructured the **Dell Technologies** industry profile into dedicated sub-bullets — *MOUs, Grants & Commitments* (prime system integrator for the **NERSC-10 Doudna** procurement at LBNL jointly with **NVIDIA**, the **Cech** Early Access System delivered in early 2026 ahead of Doudna's late-2026 / early-2027 deployment for more than **12,000 DOE science users**, and participation in the **NSF State and Regional AI Infrastructure Hubs** program, solicitation NSF 26-513, alongside NVIDIA, AMD, Intel and Hangar), *Technical Capabilities (AI Factory Servers & Liquid Cooling)* (the **Dell AI Factory** reference architecture on **PowerEdge XE9680** / **XE9640** GPU platforms and **ORv3 Integrated Rack Scalable Systems** with direct-to-chip liquid cooling delivering roughly **3–5× cooling energy efficiency** over comparable air-cooled deployments), *Technical Capabilities (Doudna Platform & Interconnect)* (the **NVIDIA Vera Rubin** CPU-GPU platform with **Quantum-X800 InfiniBand** fabrics targeting at least **10× the application performance of Perlmutter** in a reconfigurable, containerized environment for urgent, interactive and experiment-coupled workflows), *Technical Capabilities (Storage & Data Fabrics)* (**PowerScale** scale-out file storage and **PowerFlex** software-defined block infrastructure as FAIR-aligned substrates across ANL, ORNL and LBNL), and *Mission Domains* (fusion energy, materials design and chemistry, quantum information science, biomolecular and genomics research, and energy-efficient national AI infrastructure).
+
+### Changed
+- **Coverage Tracker (`coverage.md`)**: Incremented the **Dell Technologies** `Process Count` from **0** to **1** and refreshed its notes with the Doudna prime-integrator role (Vera Rubin, Quantum-X800 InfiniBand, ~10× Perlmutter, 12,000+ users), the Cech early-access system, ORv3 direct-liquid-cooled Integrated Rack Scalable Systems, the PowerEdge XE9680 / XE9640 and PowerScale / PowerFlex portfolio, and the NSF State and Regional AI Infrastructure Hubs partnership. `Paper Section` remains `§2.1, §3.1, A.3`. No entities were added or removed, so all summary metrics (237 total, 198 full profiles, 83.5%) remain unchanged.
+- **Heterogeneous Supercomputing Core (§2.1, README.md & README.de.md)**: Expanded the *Doudna & Cech Pilot System* entry with the NERSC-10 designation, ORv3 direct-liquid-cooled Integrated Rack Scalable Systems, Quantum-X800 InfiniBand, the ~10× Perlmutter performance target and the 12,000+ user base, and extended the *Dell AI Factory & PowerEdge Infrastructure* entry with the ORv3 rack systems and 3–5× cooling energy efficiency figure.
+- **Appendix A.3 (README.md & README.de.md)**: Updated the **Dell Technologies** partner row to reflect the reprocessed scope (Doudna prime integration with NVIDIA, Cech early-access system, Dell AI Factory, ORv3 liquid-cooled PowerEdge servers, PowerScale / PowerFlex data fabrics).
+- **Reference Integrity (`references.md`)**: Retained all existing Dell company-portal and AI Factory reference links and appended the DOE and NERSC Doudna announcements, the NERSC Doudna system overview, and the Dell NERSC customer story; no links were removed.
+- **Version Bump**: Incremented the version string to `3.13.15` across `README.md` and `README.de.md`.
+
 ## [3.13.14] - 2026-09-01
 
 ### Added
