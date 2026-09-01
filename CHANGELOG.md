@@ -5,6 +5,17 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.12.2] - 2026-09-01
+
+### Added
+- **Reference Index Entry (`references.md`)**: Registered the Duke University Pratt School of Engineering feature [*DOE Funds Duke-Led AI Platform to Design Transformative DNA-Based Materials*](https://pratt.duke.edu/news/doe-genesis-program-dna-origami/) (`pratt.duke.edu`) under *National Labs & University Coverage → Universities & Research Institutions*.
+- **Duke University Enrichment (§3.3 & Appendix A.5, README.md & README.de.md)**: Added the Duke-led Phase 1 Genesis Mission project under *Materials Co-Design, Autonomous Chemistry & Bio-Genesis* — an **AI platform for the inverse design of DNA origami** led by **Gaurav Arya** (Thomas Lord Department of Mechanical Engineering and Materials Science), covering the scaling gap between individual origami building blocks (**< 100 nanometers**) and programmed self-assembly into ordered hierarchical lattices spanning **tens of micrometers**, automated computational search over sequence/shape/interaction-patch design space, the resulting *new class of functional biomolecular materials* for **photonic, electronic and catalytic systems**, and the group's dynamic DNA origami folding models as the physics-based data source for training and validating the AI design models.
+
+### Changed
+- **Master Index Sync (`reference_coverage.md`)**: Registered the new `pratt.duke.edu` link in the Master Reference Link Index with status `Processed` and added a `pratt.duke.edu` domain row (1 link). Updated Section 1 metrics (Total Reference Links **634 → 635**, Unique Target Domains **307 → 308**, Web Portals & Press Releases **612 → 613**, Processing Status **635 / 635 Processed, 100% Complete**) and the Section 2 distribution table (`5. National Labs & University Coverage` **323 → 324**, share 50.9% → 51.0%; recalculated share for Section 4, 28.4% → 28.3%).
+- **Coverage Tracker (`coverage.md`)**: Added **Duke University** to *Research Universities* with status `❌ Not Covered` *(reference only)* and updated all summary metrics (Total Entities **235 → 236**, Universities **89 → 90** with Not Covered **21 → 22**, overall Not Covered **37 → 38**, coverage share **198 / 235 (84.3%) → 198 / 236 (83.9%)**).
+- **Version Bump**: Incremented the version string to `3.12.2` across `README.md` and `README.de.md`.
+
 ## [3.12.1] - 2026-09-01
 
 ### Added
