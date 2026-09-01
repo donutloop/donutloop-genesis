@@ -5,6 +5,16 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.13.33] - 2026-09-01
+
+### Changed
+- **Entity Reprocessing (SambaNova Systems — §2.1, §3.1 & A.3, README.md & README.de.md)**: Reprocessed the **SambaNova Systems** profile under `### 3.1 Industry, Hyperscale & Hardware Commitments`. The formerly single-paragraph entry is now structured into technical sub-bullets covering: **Genesis Mission Consortium** membership committing inference-optimized dataflow silicon to the DOE **National Science & Technology Challenges** under **Executive Order 14363**, alongside the company's AI-for-Science infrastructure program; the fourth-generation **SN40L** **Reconfigurable Dataflow Unit** (**5 nm**, ~**102 billion transistors**, **1,040 Pattern Compute Units** and **1,040 Pattern Memory Units**, ~**638 BF16 TFLOP/s per socket**) whose spatial dataflow fabric statically maps whole model graphs to eliminate kernel-launch overhead; the three-tier memory hierarchy (~**520 MB** on-chip SRAM, **64 GB** **HBM3**, hundreds of GB of **DDR5** per socket) and **air-cooled SambaRack SN40L-16** systems (**16 RDUs**, ~**10 kW** per standard rack) scaling to **10 trillion parameters across 256 RDUs**; the **SambaFlow** compiler with the **SambaStudio** / **SambaStack** serving stack exposing **OpenAI-compatible API endpoints**; and the national-laboratory deployment footprint at **ANL ALCF**, **LLNL** and **SNL**, including the ALCF AI Testbed **Metis** cluster (**16 nodes**, **32 SN40L accelerators**, >**20 BF16 petaFLOP/s**, **400/200 GbE** fabrics) underpinning Argonne's large-scale AI inference service for open science.
+- **Heterogeneous Compute Substrate (§2.1, both editions)**: Expanded the *SambaNova Reconfigurable Dataflow Architecture* entry with the SN40L silicon and memory-hierarchy specifications, the air-cooled SambaRack SN40L-16 rack system, the ALCF **Metis** cluster and the 10-trillion-parameter / 256-RDU inference ceiling.
+- **Coverage Tracker (`coverage.md`)**: Incremented the **SambaNova Systems** `Process Count` from **0** to **1** and replaced its summary notes with the consortium commitment, SN40L specifications, memory hierarchy, SambaRack scaling, software stack and ALCF/LLNL/SNL deployment footprint. The `Process Count` column was already present as the first column of every tracking table, so no schema migration was required; no entities were added or removed, leaving all summary metrics (238 total, 198 full profiles, 83.2%) unchanged.
+- **Appendix A.3 (`README.md` & `README.de.md`)**: Refreshed the SambaNova Systems row to match the reprocessed scope.
+- **References (`references.md`)**: Retained the existing SambaNova homepage, AI-for-Science and Genesis Mission Consortium links and appended two newly sourced links — the *ALCF AI Testbed* accelerator specifications page and the *ALCF SN40L Inference Service* user guide.
+- **Version Bump**: Incremented the version string to `3.13.33` across `README.md` and `README.de.md`.
+
 ## [3.13.32] - 2026-09-01
 
 ### Changed
