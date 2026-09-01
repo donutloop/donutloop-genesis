@@ -5,6 +5,15 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.13.25] - 2026-09-01
+
+### Changed
+- **Entity Reprocessing (Wiley — §3.1 & A.3, README.md & README.de.md)**: Reprocessed the **Wiley (NYSE: WLY)** partner profile against its official press release *Wiley Joins U.S. Department of Energy's Genesis Mission Consortium to Advance AI-Powered Scientific Discovery* (`newsroom.wiley.com`). The entry now carries technical sub-bullets covering: consortium membership announced **22 July 2026** and demonstrated the same day at the **Genesis Mission Annual Summit** in Washington, D.C. alongside **NVIDIA**, **AWS**, **Microsoft**, **IBM** and **AMD**; the pledge to make Wiley's **research intelligence and analytics tools** available to researchers at **all DOE national laboratories** with operational integration support, building on decades of DOE and federal science-agency engagement; the **evidence-linked**, peer-reviewed corpus of the largest U.S. scientific publisher as a grounding and retrieval layer for the **American Science and Security Platform**, preserving **provenance** and **reproducibility** of model outputs; and **expert-validated editorial workflows** and editorial networks as a human-in-the-loop quality layer under CEO **Matthew Kissner's** trusted-evidence principle.
+- **Coverage Tracker (`coverage.md`)**: Incremented the **Wiley** `Process Count` from **0** to **1** and expanded its notes with the summit demonstration, national-laboratory tool availability, and the provenance/reproducibility evidence layer. No entities added or removed, so all summary metrics (238 total, 198 full profiles, 83.2%) remain unchanged.
+- **Appendix A.3 (`README.md` & `README.de.md`)**: Refreshed the Wiley row to match the reprocessed scope.
+- **References (`references.md`)**: Verified integrity — the existing Wiley newsroom press-release link was retained unchanged; no new sources were introduced.
+- **Version Bump**: Incremented the version string to `3.13.25` across `README.md` and `README.de.md`.
+
 ## [3.13.24] - 2026-09-01
 
 ### Added
