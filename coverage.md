@@ -208,7 +208,7 @@
 | 0 | [Brown University](https://www.brown.edu/) | ❌ Not Covered | — | National Labs Day spotlights collaboration in AI-enabled science and the Genesis Mission (reference only) |
 | 0 | [University of Alabama](https://www.ua.edu/) | ✅ Full Profile | §3.3, A.5 | High-energy particle physics AI workflow automation (Fermilab partner) & LHC CMS data analytics |
 | 0 | [Caltech](https://www.caltech.edu/) | ✅ Full Profile | §3.3, A.5 | Quantum optics, photonic QPU co-design, computational physics & AI foundation models |
-| 0 | [Carnegie Mellon University](https://www.cmu.edu/) | ✅ Full Profile | §3.3, A.5 | Autonomous scientific AI agents, robotics, SciML & materials discovery algorithms |
+| 1 | [Carnegie Mellon University](https://www.cmu.edu/) | ✅ Full Profile | §3.3, A.5 | Autonomous scientific AI agents, robotics, SciML & materials discovery algorithms; Dietrich College statistics & AI frameworks (Chad Schafer, Mikael Kuusela) for Vera C. Rubin Observatory cosmology and uncertainty quantification beyond MCMC |
 | 0 | [Colorado State University](https://www.colostate.edu/) | ✅ Full Profile | §3.3, A.5 | Atmospheric modeling, climate AI foundation models & high-power laser physics |
 | 0 | [Colorado School of Mines](https://www.mines.edu/) | ❌ Not Covered | — | Genesis Mission critical-mineral exploration and nuclear-fuel-recycling projects (reference only) |
 | 0 | [Columbia University](https://www.columbia.edu/) | ✅ Full Profile | §3.3, A.5 | Quantum materials science, strongly correlated electronic models & SciML algorithms |

@@ -504,6 +504,7 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
   * [Connecting Autonomous Laboratories to Speed Scientific Advancement](https://www.cmu.edu/news/stories/archives/2026/july/connecting-autonomous-laboratories-to-speed-scientific-advancement)
   * [Carnegie Mellon's AI Science Foundry Selected by NSF To Help Build National Infrastructure for AI](https://www.cmu.edu/news/stories/archives/2026/july/carnegie-mellons-ai-science-foundry-selected-by-nsf-to-help-build-national-infrastructure-for-ai)
   * [Building the Future: Carnegie Mellon is the Quintessential American Story](https://www.cmu.edu/news/stories/archives/2026/august/building-the-future-carnegie-mellon-is-the-quintessential-american-story)
+  * [What Makes Up The Universe? AI Will Help CMU Scientists Find Out (Dietrich College AI News)](https://www.cmu.edu/dietrich/ai/news/doe-genesis-grant-chad-schafer.html)
 * **Colorado State University:** [Researchers Selected for Two Highly Competitive Projects](https://source.colostate.edu/csu-researchers-selected-for-two-highly-competitive-department-of-energy-genesis-mission-projects/)
 * **Columbia University:**
   * [Projects Receive Genesis Mission Funding](https://news.columbia.edu/news/columbia-university-projects-receive-genesis-mission-funding)
