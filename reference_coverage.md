@@ -1,7 +1,7 @@
 # Genesis Mission — Master Reference Coverage Report
 
 > **Document Overview:**
-> This report provides a comprehensive coverage analysis, breakdown, and master audit index for the **649 external reference links** compiled within `references.md` for the **Genesis Mission** documentation repository.
+> This report provides a comprehensive coverage analysis, breakdown, and master audit index for the **650 external reference links** compiled within `references.md` for the **Genesis Mission** documentation repository.
 
 ---
 
@@ -9,13 +9,13 @@
 
 | Metric | Count / Value | Description |
 | :--- | :--- | :--- |
-| **Total Reference Links** | **649** | Unique external links indexed across all sections |
+| **Total Reference Links** | **650** | Unique external links indexed across all sections |
 | **Primary Document Sections** | **7** | High-level thematic categories in `references.md` |
 | **Unique Target Domains** | **315** | Distinct domain names referenced (government, lab, corporate, academic, news) |
 | **Official PDF Documents** | **24** | Formal RFA solicitations, webinars, slides, and executive reports |
-| **Web Portals & Press Releases** | **625** | Newsroom features, corporate blog posts, and interactive hubs |
+| **Web Portals & Press Releases** | **626** | Newsroom features, corporate blog posts, and interactive hubs |
 | **Validation Status** | **100% Validated** | All links canonicalized, formatted, and deduplicated |
-| **Processing Status** | **649 / 649 Processed** | 0 Unprocessed, 649 Processed (100% Complete) |
+| **Processing Status** | **650 / 650 Processed** | 0 Unprocessed, 650 Processed (100% Complete) |
 
 ---
 
@@ -26,8 +26,8 @@
 | `1. Key Presentation Details` | **3** | 0.5% | Briefing agendas, U.S. ATLAS IB meeting details & CERN links |
 | `2. Collaborators` | **80** | 12.3% | Official homepage & announcement links for industrial/energy partners |
 | `3. Quantum Leadership & CHIPS Act Initiatives` | **11** | 1.7% | Department of Commerce NIST LOIs & DOE $2B quantum initiatives |
-| `4. Executive, Federal & Partner Announcements` | **182** | 28.0% | White House releases, Cabinet agency press, hyperscaler & lab announcements |
-| `5. National Labs & University Coverage` | **334** | 51.5% | National Laboratory news portals & 72 awardee university press releases |
+| `4. Executive, Federal & Partner Announcements` | **183** | 28.2% | White House releases, Cabinet agency press, hyperscaler & lab announcements |
+| `5. National Labs & University Coverage` | **334** | 51.4% | National Laboratory news portals & 72 awardee university press releases |
 | `6. Additional Event Materials & Reference Links` | **18** | 2.8% | Presentation slide decks, institutional intro files & video recordings |
 | `7. Technical Documents, RFA Guidance & Official Webinars` | **21** | 3.2% | DE-FOA-0003612 solicitations, OSTP challenge papers, SCAC presentations & peer-reviewed AI-for-science research |
 
@@ -53,6 +53,7 @@ Below is the distribution of references grouped by top domain hosts and institut
 | `www.eng.ufl.edu` | **1** | University of Florida Herbert Wertheim College of Engineering | UF-led Genesis Mission AI + electron microscopy platform for accelerated discovery of stronger, heat-resistant structural materials |
 | `cee.engr.uconn.edu` | **1** | UConn School of Civil & Environmental Engineering | UConn-led AI-enabled digital twin for coupled surface–subsurface hydrologic and biogeochemical simulation in the Northeast U.S. coastal region |
 | `cns.utexas.edu` | **1** | UT Austin College of Natural Sciences | Institute for Fusion Studies seed-grant program pairing IFS plasma physicists with Oden Institute and Cockrell School engineers, complementing the Oden Institute–Sandia Genesis Mission fusion AI collaboration |
+| `www.databricks.com` | **2** | Databricks (Data & AI Platform) | Accenture Federal Services partnership session and the nuclear ontology / knowledge-graph blog on scaling reactor fleets with explicit, versioned plant knowledge |
 | `oden.utexas.edu` | **1** | UT Austin Oden Institute for Computational Engineering and Sciences | Oden Institute faculty leadership across four Genesis Mission projects — INL-led Project Prometheus nuclear digital twins, fusion reactor digital twins, rare earth mineral separation and additive manufacturing |
 | `epicenter.energy.gatech.edu` | **1** | Georgia Tech Energy Policy and Innovation Center (EPICenter) | Faculty affiliate Marilyn Brown as Co-PI on an ORNL-partnered Genesis Mission award building AI foundation models for water-for-energy conditions in the Tennessee Valley Authority region |
 | `www.bu.edu` | **1** | University Newsroom | Boston University College of Engineering Genesis Mission plasma physics award coverage |
@@ -805,3 +806,4 @@ A tabular master index for the 633-reference collection:
 | 5. National Labs & University Coverage | Carnegie Mellon University (Dietrich College) | What Makes Up The Universe? AI Will Help CMU Scientists Find Out | `www.cmu.edu` | Web | [What Makes Up The Universe? AI Will Help CMU Scientists Find Out](https://www.cmu.edu/dietrich/ai/news/doe-genesis-grant-chad-schafer.html) | `Processed` |
 | 5. National Labs & University Coverage | University of Chicago (Argonne National Laboratory operator) | Argonne Marks 80 Years of Scientific Discovery | `news.uchicago.edu` | Web | [Argonne Marks 80 Years of Scientific Discovery](https://news.uchicago.edu/story/argonne-marks-80-years-scientific-discovery) | `Processed` |
 | 5. National Labs & University Coverage | University of Texas at Austin (College of Natural Sciences — Institute for Fusion Studies) | Fusion Energy Seed Grants Launch New Interdisciplinary Collaborations at the University | `cns.utexas.edu` | Web | [Fusion Energy Seed Grants Launch New Interdisciplinary Collaborations at the University](https://cns.utexas.edu/news/announcements/fusion-energy-seed-grants-launch-new-interdisciplinary-collaborations-university) | `Processed` |
+| 4. Executive, Federal & Partner Announcements | Databricks (Energy & Manufacturing) | How Ontologies Help Nuclear Scale to Meet Global Energy Demand | `www.databricks.com` | Web | [How Ontologies Help Nuclear Scale to Meet Global Energy Demand](https://www.databricks.com/blog/how-ontologies-help-nuclear-scale-meet-global-energy-demand) | `Processed` |
