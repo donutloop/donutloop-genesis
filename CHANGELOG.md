@@ -5,6 +5,19 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.34.0] - 2026-09-01
+
+### Added
+- **Reference Processed (`references.md`)**: Added [Assistant Secretary Walsh Views the 'Art of the Possible' in SRS Visit](https://www.energy.gov/em/articles/assistant-secretary-walsh-views-art-possible-srs-visit) (`www.energy.gov`) to `## 5. National Labs & University Coverage` under the **Savannah River National Laboratory (SRNL)** category.
+- **Master Index Registration (`reference_coverage.md`)**: Registered the reference in Section 4 (*Master Reference Link Index*) with Category `5. National Labs & University Coverage`, Entity *Savannah River National Laboratory (SRNL) / DOE Office of Environmental Management*, Host Domain `www.energy.gov`, Resource Type `Web` and Status `Processed`.
+- **National Laboratory Complex Enrichment (`README.md`, `README.de.md`)**: Extended the *Savannah River Site (SRS)* node in `### 3.2` with an *Assistant Secretary Oversight & Cleanup Acceleration* entry documenting the site visit by **Assistant Secretary for Environmental Management Tim Walsh** across SRNL, **H Canyon** (the nation's only operating production-scale, radiologically shielded chemical separations facility), the liquid waste facilities and the **Advanced Manufacturing Collaborative (AMC)**; the ceremony marking **preliminary cease waste removal for Tank 14** as the eighth liquid waste tank emptied in four years and years ahead of the regulatory schedule; **drone-based inspection and characterization** as a cost-avoiding accelerator; and the explicit framing of SRS and SRNL as Genesis Mission contributors that converts EM legacy-cleanup assets into a national platform for AI-accelerated nuclear materials, environmental management and advanced manufacturing research. Full German language parity applied.
+
+### Changed
+- **Coverage Audit (`coverage.md`)**: No changes required — *Savannah River National Laboratory (SRNL)*, *Savannah River Site (SRS)* and the DOE Office of Environmental Management context are already tracked with `✅ Full Profile` status.
+- **Metrics Synchronization (`reference_coverage.md`)**: Total Reference Links **650 → 651**, Web Portals & Press Releases **626 → 627**, Section 5 count **334 → 335** (51.4% → 51.5%), Section 4 share 28.2% → 28.1%, `www.energy.gov` domain count **51 → 52**, and Processing Status updated to **651 / 651 Processed, 100% Complete**.
+- **Corpus Figures (`README.md`, `README.de.md`)**: Updated the documented evidentiary corpus from **650** to **651 validated open-source references across 315 distinct domains** in the abstract, contributions summary and conclusion.
+- **Version Bump**: Incremented the version string to `3.34.0` across `README.md` and `README.de.md`.
+
 ## [3.33.9] - 2026-09-01
 
 ### Changed
