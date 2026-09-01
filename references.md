@@ -94,6 +94,7 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
 * [U.S. Nuclear Regulatory Commission (NRC)](https://www.nrc.gov/)
 * [University of Chicago](https://www.uchicago.edu/)
 * [Deployable Energy](https://www.deployable.energy/)
+* [ChipNexus (formerly Primis AI)](https://chipnexus.ai/)
 
 ---
 
@@ -360,6 +361,8 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
 * [Deployable Energy: Unity Demonstration Reactor Achieves Criticality at Idaho National Laboratory](https://www.prnewswire.com/news-releases/deployable-energy-announces-unity-demonstration-reactor-achieves-criticality-at-idaho-national-laboratory-302816255.html) - First-party announcement describing the ~1 MWe water-moderated, gas-cooled **Unity Nuclear Battery**, the DOE-approved Preliminary Documented Safety Analysis cleared in 106 days, the ~150-day design-to-criticality schedule with the National Reactor Innovation Center, and the $19 Million Series A led by Atreides Management.
 * [Deployable Energy: Selected for Full-Power Demonstration at Idaho National Laboratory and Maritime Demonstration with Hornbeck Offshore](https://www.prnewswire.com/news-releases/deployable-energy-selected-for-full-power-demonstration-at-idaho-national-laboratory-and-maritime-demonstration-with-hornbeck-offshore-302862818.html) - August 2026 announcement of the NRIC Nuclear Energy Launch Pad full-power land demonstration at INL and the Hornbeck Offshore MOU for a shipboard maritime demonstration of Unity, with Lloyd's Register supporting risk and safety analysis.
 * [National Reactor Innovation Center (NRIC): Nuclear Energy Launch Pad](https://nric.inl.gov/) - INL-hosted DOE demonstration pathway extending the Reactor Pilot Program, providing site access, fuel logistics and national-laboratory expertise for privately funded first-of-a-kind reactor demonstrations such as Unity.
+* [ChipNexus (formerly Primis AI)](https://chipnexus.ai/): [Primis AI Becomes ChipNexus and Launches NEX for Agentic Chip-Design Automation](https://www.semiconductor-digest.com/primis-ai-becomes-chipnexus-and-launches-nex-for-agentic-chip-design-automation/) - July 2026 rebrand of the 2023-founded Primis AI to ChipNexus, launch of the NEX agentic chip-design automation platform (RTL generation, digital and analog simulation, verification triage, synthesis and physical design over existing EDA toolchains) and close of a seed round led by Cambium Capital; founded by University of Utah ECE professor Pierre-Emmanuel Gaillardon (Founder and President) with Valerio Tenace (Co-Founder and CTO).
+* [University of Utah ECE: Morteza Fayazi Among First Class of Genesis Mission Awardees](https://www.ece.utah.edu/2026/08/04/morteza-fayazi-among-first-class-of-genesis-mission-awardees/) - University of Utah account of the Genesis Mission project *Neuromorphic Terahertz Imaging via Analog Compute-in-Memory in AI-Driven Augmented Reality Hardware*, led by UW ECE Assistant Professor Hossein Naghavi with Utah co-investigator Morteza Fayazi, Texas A&M University, PrimisAI (ChipNexus) and NVIDIA, performing obscurant-penetrating scene inference on the sensor chip via analog compute-in-memory rather than energy-intensive off-chip data transfer.
   
 ---
 
@@ -736,6 +739,7 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
   * [College of Science: Aurora Project Faculty Research](https://science.utah.edu/faculty/faculty-research/aurora-project/)
   * [RAI: Aurora Cloud Lab](https://rai.utah.edu/aurora-cloud-lab/)
   * [Price Engineering: University of Utah Selected for Elite National Network of AI-Driven Cloud Laboratories](https://www.price.utah.edu/2026/07/22/university-of-utah-selected-for-elite-national-network-of-ai-driven-cloud-laboratories)
+  * [Morteza Fayazi Among First Class of Genesis Mission Awardees](https://www.ece.utah.edu/2026/08/04/morteza-fayazi-among-first-class-of-genesis-mission-awardees/)
 * **University of Virginia (UVA):** [Ferdinando Fioretto Selected for U.S. Department of Energy Genesis Mission](https://engineering.virginia.edu/news-events/news/uva-engineerings-ferdinando-fioretto-selected-us-department-energy-genesis-mission)
 * **University of Washington:**
   * [White House Launches Genesis Mission for AI (Federal Relations)](https://www.washington.edu/federalrelations/2025/11/25/wh-launches-genesis-mission-for-ai/)

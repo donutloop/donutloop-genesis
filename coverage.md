@@ -3,7 +3,7 @@
 > **Scope & Coverage Definition:**
 > - **Flagship Consortium Scope:** Tracks **all 238 primary flagship participants**—lead contractors, federal agencies, national laboratories, awardee universities, strategic industrial partners, and philanthropic foundations—explicitly profiled or referenced in the Genesis Mission paper (`README.md`) and reference index.
 > - **Broader National Awardee Network Context:** Under solicitation DE-FOA-0003612 and interagency challenges, the broader national initiative encompasses **342 total participating institutions** (157 companies, 142 universities, 16 national labs, 13 non-profits, 14 other entities across 278 projects).
-> - **Coverage Status:** **205 / 238 (86.1%)** of the tracked consortium entities have dedicated, detailed technical profiles.
+> - **Coverage Status:** **206 / 238 (86.6%)** of the tracked consortium entities have dedicated, detailed technical profiles.
 
 **Legend:**
 - ✅ **Full Profile** — Dedicated section with detailed technical write-up (Sections 2.2 / 3.1 / 3.2 / 3.3 / 3.4 / 3.5)
@@ -94,7 +94,7 @@
 | 0 | [Siemens](https://www.siemens.com/) | ✅ Full Profile | §3.1, A.3 | Industrial AI software, Xcelerator digital twins, DOE strategic MOU & smart grid automation; Siemens Government Technologies (SGT) federal arm delivering the connected simulation, automation & secure infrastructure stack |
 | 0 | [Synopsys](https://www.synopsys.com/) | ✅ Full Profile | §3.1, A.3 | Synopsys.ai EDA platform (DSO.ai, VSO.ai, TSO.ai, AgentEngineer™), Custom Compiler, TCAD, PrimeTime & HAV emulation for AI chips and quantum control ASICs |
 | 1 | [xLight](https://xlight.inc/) | ✅ Full Profile | §3.1, A.3 | About portal (xlight.com/about), Dec 2025 Commerce LOI → June 2026 finalized $150M CHIPS award + $150M private match, energy-recovery SRF linac FEL EUV source vs. LPP, utility-scale multi-scanner High-NA distribution, Fermilab SRF cryomodule CRADA & LANL ML beam stabilization |
-| 0 | [ChipNexus](https://www.chipnexus.com) | ❌ Not Covered | — | Neuromorphic terahertz imaging & analog compute-in-memory hardware collaborator (reference only) |
+| 1 | [ChipNexus](https://chipnexus.ai/) | ✅ Full Profile | §3.1, A.3 | Agentic AI EDA developer founded 2023 as **Primis AI** by Pierre-Emmanuel Gaillardon (University of Utah ECE) with CTO Valerio Tenace; rebranded July 2026 alongside the **NEX** platform launch and a Cambium Capital-led seed round; NEX multi-agent, self-correcting flow covering RTL generation/refactoring, digital & analog simulation, verification triage, synthesis and floorplanning/layout/timing over existing commercial and open-source EDA toolchains, CI/CD and source repositories, with cloud, private-cloud and on-premises deployment, Google Gemini support and enterprise bring-your-own-model; successor to the RapidGPT HDL assistant (AutoCheck/AutoFix/AutoDoc); industry EDA collaborator on the UW-led Genesis project *Neuromorphic Terahertz Imaging via Analog Compute-in-Memory in AI-Driven Augmented Reality Hardware* (PI Hossein Naghavi, co-investigator Morteza Fayazi of the University of Utah, with Texas A&M and NVIDIA) |
 
 ---
 
@@ -333,20 +333,20 @@
 
 | Entity Type | Total | ✅ Full | 📋 Brief | ❌ Not Covered |
 |:---|:---:|:---:|:---:|:---:|
-| Industry Partners | 93 | 90 | 0 | 3 |
+| Industry Partners | 93 | 91 | 0 | 2 |
 | Federal Agencies | 11 | 11 | 0 | 0 |
 | National Laboratories & Defense Sites | 26 | 23 | 0 | 3 |
 | Universities | 91 | 69 | 0 | 22 |
 | Philanthropy, Policy & Regional Hubs | 17 | 12 | 0 | 5 |
-| **Total** | **238** | **205** | **0** | **33** |
+| **Total** | **238** | **206** | **0** | **32** |
 
 ### By Coverage Level
 
 | Coverage Level | Count | Percentage |
 |:---|:---:|:---:|
-| ✅ Full Profile | 205 | 86.1% |
+| ✅ Full Profile | 206 | 86.6% |
 | 📋 Brief Mention | 0 | 0.0% |
-| ❌ Not Covered | 33 | 13.9% |
+| ❌ Not Covered | 32 | 13.4% |
 | **Total Entities** | **238** | **100%** |
 
-> **Note:** The tracker now covers 238 Genesis Mission ecosystem participants, with 205 entities in dedicated technical write-ups (86.1% full-profile coverage). George Washington University, Brown University, Heidelberg University, Howard University, European Coalition for AI in Fundamental Physics (EuCAIF), Colorado School of Mines, UC San Diego, University of Delaware, University of Hawaiʻi at Mānoa, University of Massachusetts Amherst, University of Washington, Boise State University, St. Joseph's University, New York, The Ohio State University, Kent State University, University of Maryland, ChipNexus, Southeastern Universities Research Association (SURA), ORISE, Energy Sciences Coalition (ESC), Krell Institute, La Sierra University, Clean Republic SODO, LLC, Molecular Foundry, Joint Genome Institute (JGI), EdenCode, University of Oklahoma (OU), North Carolina State University (NC State), William & Mary, the University of North Carolina at Chapel Hill (UNC-Chapel Hill), Washington University in St. Louis (WashU), Duke University, and the National Reactor Innovation Center (NRIC) remain registered as reference-only participants. The broader sub-grantee network of 342 participating institutions represents secondary academic and sub-contractor nodes across the 278 national project awards.
+> **Note:** The tracker now covers 238 Genesis Mission ecosystem participants, with 206 entities in dedicated technical write-ups (86.6% full-profile coverage). George Washington University, Brown University, Heidelberg University, Howard University, European Coalition for AI in Fundamental Physics (EuCAIF), Colorado School of Mines, UC San Diego, University of Delaware, University of Hawaiʻi at Mānoa, University of Massachusetts Amherst, University of Washington, Boise State University, St. Joseph's University, New York, The Ohio State University, Kent State University, University of Maryland, Southeastern Universities Research Association (SURA), ORISE, Energy Sciences Coalition (ESC), Krell Institute, La Sierra University, Clean Republic SODO, LLC, Molecular Foundry, Joint Genome Institute (JGI), EdenCode, University of Oklahoma (OU), North Carolina State University (NC State), William & Mary, the University of North Carolina at Chapel Hill (UNC-Chapel Hill), Washington University in St. Louis (WashU), Duke University, and the National Reactor Innovation Center (NRIC) remain registered as reference-only participants. The broader sub-grantee network of 342 participating institutions represents secondary academic and sub-contractor nodes across the 278 national project awards.
