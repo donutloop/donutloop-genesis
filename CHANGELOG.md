@@ -5,6 +5,18 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.13.23] - 2026-09-01
+
+### Added
+- **Reference Processing (`references.md`)**: Indexed the UT Austin College of Natural Sciences announcement *Fusion Energy Seed Grants Launch New Interdisciplinary Collaborations at the University* (`cns.utexas.edu`) under §5 *National Labs & University Coverage* in the existing **University of Texas at Austin** group.
+- **Paper Enrichment (§3.3, README.md & README.de.md)**: Extended the **University of Texas at Austin** entry with the campus-level fusion seed-grant program run by the **Institute for Fusion Studies (IFS)** under director **Diego del-Castillo-Negrete** and co-funded with the **Oden Institute for Computational Engineering and Sciences** and the **Cockrell School of Engineering** — **four** inaugural awards each supporting a **graduate student for two years**, each pairing an Oden or Cockrell principal investigator with a second PI from IFS to bridge **plasma physics**, **engineering** and **computational science**, framed as **workforce development** for the commercial fusion industry and as a complement to the Oden Institute–**Sandia National Laboratories** Genesis Mission collaboration on AI-accelerated fusion commercialization.
+- **Appendix A.5 (`README.md` & `README.de.md`)**: Extended the UT Austin row with the IFS fusion energy seed-grant program.
+
+### Changed
+- **Master Index (`reference_coverage.md`)**: Registered the new entry as `Processed` and synchronized all metrics — Total Reference Links **648 → 649**, Web Portals & Press Releases **624 → 625**, Unique Target Domains **314 → 315**, §5 *National Labs & University Coverage* **333 → 334** (51.5%), §4 share adjusted to 28.0%, and a new `cns.utexas.edu` domain row (**649 / 649 Processed, 100% Complete**).
+- **Coverage Tracker (`coverage.md`)**: Incremented the **University of Texas at Austin** `Process Count` from **0** to **1** and expanded its notes with the IFS seed-grant program. No entities added or removed, so all summary metrics (238 total, 198 full profiles, 83.2%) remain unchanged.
+- **Version Bump**: Incremented the version string to `3.13.23` across `README.md` and `README.de.md`.
+
 ## [3.13.22] - 2026-09-01
 
 ### Changed
