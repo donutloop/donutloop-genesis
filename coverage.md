@@ -24,7 +24,7 @@
 | 0 | [Dataera.ai](https://dataera.ai/) | ✅ Full Profile | §3.1, A.3 | AI data infrastructure platform, automated dataset curation & foundation model data pipelines |
 | 0 | [Dell Technologies](https://www.dell.com/) | ✅ Full Profile | §2.1, §3.1, A.3 | PowerEdge liquid-cooled HPC servers; AI factory infrastructure; enterprise compute |
 | 0 | [Domino Data Lab](https://domino.ai/) | ✅ Full Profile | §3.1, A.3 | Genesis Mission Consortium member; enterprise MLOps AI platform & FedRAMP High enclaves |
-| 0 | [Google / DeepMind / Public Sector](https://deepmind.google/) | ✅ Full Profile | §3.1 | AI Co-Scientist (deepmind.google/blog/co-scientist...), $40M, Gemini, AlphaFold & AlphaGenome |
+| 1 | [Google / DeepMind / Public Sector](https://deepmind.google/) | ✅ Full Profile | §3.1, A.3 | $40M in AI tokens & GCP credits across all 17 National Labs; Gemini for Government seats (FedRAMP-accredited) for tens of thousands of users; AI Co-Scientist multi-agent collaborator (microscope calibration 90 → 13 min); in-kind AlphaEvolve, AlphaFold 3, AlphaGenome, WeatherNext & AlphaEarth Foundations; TPU v5p/v6e accelerator access |
 | 0 | [Groq](https://groq.com/) | ✅ Full Profile | §3.1, A.3 | Language Processing Units (LPUs); deterministic ultra-low latency AI inference & GroqRack clusters |
 | 0 | [HPE](https://www.hpe.com/) | ✅ Full Profile | §3.1, A.3 | Exascale HPC substrate; HPE Cray EX & Slingshot; Frontier/Aurora/El Capitan; Lux AI supercomputer (ORNL); 6 Genesis R&D awards |
 | 0 | [IBM / IBM Quantum](https://www.ibm.com/quantum) | ✅ Full Profile | §2.2, §3.1, §2.3B | Portal (ibm.com/quantum), $1B Anderon foundry, $50M compute, Heron/Nighthawk & FLiBe fusion |
