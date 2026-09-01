@@ -5,6 +5,17 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.13.16] - 2026-09-01
+
+### Added
+- **Genesis Mission AI Workforce RFI (§3, README.md & README.de.md)**: Integrated the DOE Office of Science Request for Information *Mobilizing Talent for the Genesis Mission and Developing an American Workforce to Advance Artificial Intelligence for Science and Engineering* (**RFI DE-SC-26-016**, host domain `us.aws.cdn.hf.co`, PDF mirror of `2026_DOE_Genesis_Mission_AI_Workforce_RFI.pdf`) — issued **January 16, 2026** with responses due **March 4, 2026** (five-page limit, submissions to `AIResearchandTrainingInput@science.doe.gov`). The new sub-bullet in the DOE institutional profile documents the goal of training and employing **100,000 scientists and engineers** with **dual AI + domain competencies** over a decade, the RFI question set (research collaborations across the 17 National Laboratories, universities, community colleges, industry and philanthropy; incentives for dual-competency bachelor's, master's, doctoral and post-doctoral tracks; undergraduate recruitment attributes; non-funding contributions such as internships, apprenticeships, co-designed curricula and instrumentation access; and nationwide scaling via stackable credentials and articulation agreements), and the companion **Genesis University Summit** (February 18, 2026).
+- **Reference Index (`references.md`)**: Appended the RFI PDF to §7 *Technical Documents, RFA Guidance & Official Webinars*.
+
+### Changed
+- **Master Index (`reference_coverage.md`)**: Registered the RFI as a `Processed` PDF entry under Section 7 and synchronized all metrics — Total Reference Links **645 → 646**, Official PDF Documents **23 → 24**, Unique Target Domains **312 → 313**, Processing Status **646 / 646 Processed, 100% Complete**, Section 7 count **20 → 21** (3.1% → 3.3%), Section 5 share **51.3% → 51.2%**, plus a new `us.aws.cdn.hf.co` row in the top-domain classification table.
+- **Coverage Tracker (`coverage.md`)**: Incremented the **U.S. Department of Energy (DOE)** `Process Count` from **0** to **1** and prefixed its notes with the AI Workforce RFI (DE-SC-26-016, 100,000 AI-capable scientists and engineers, responses due March 4, 2026). No entities were added or removed, so all summary metrics remain unchanged.
+- **Version Bump**: Incremented the version string to `3.13.16` across `README.md` and `README.de.md`.
+
 ## [3.13.15] - 2026-09-01
 
 ### Added
