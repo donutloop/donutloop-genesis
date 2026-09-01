@@ -3,7 +3,7 @@
 > **Scope & Coverage Definition:**
 > - **Flagship Consortium Scope:** Tracks **all 238 primary flagship participants**—lead contractors, federal agencies, national laboratories, awardee universities, strategic industrial partners, and philanthropic foundations—explicitly profiled or referenced in the Genesis Mission paper (`README.md`) and reference index.
 > - **Broader National Awardee Network Context:** Under solicitation DE-FOA-0003612 and interagency challenges, the broader national initiative encompasses **342 total participating institutions** (157 companies, 142 universities, 16 national labs, 13 non-profits, 14 other entities across 278 projects).
-> - **Coverage Status:** **209 / 238 (87.8%)** of the tracked consortium entities have dedicated, detailed technical profiles.
+> - **Coverage Status:** **210 / 238 (88.2%)** of the tracked consortium entities have dedicated, detailed technical profiles.
 
 **Legend:**
 - ✅ **Full Profile** — Dedicated section with detailed technical write-up (Sections 2.2 / 3.1 / 3.2 / 3.3 / 3.4 / 3.5)
@@ -286,7 +286,7 @@
 | 0 | [University of Maryland](https://www.umd.edu/) | ❌ Not Covered | — | Leads a DOE Genesis Mission flood forecasting effort using agentic and generative AI with E3SM to produce localized seasonal-to-multiyear water hazard predictions (reference only) |
 | 0 | [La Sierra University](https://lasierra.edu/) | ❌ Not Covered | — | Collaborative EV battery management system (BMS) adversarial AI robustness framework partner (reference only) |
 | 0 | [University of Oklahoma (OU)](https://www.ou.edu/) | ❌ Not Covered | — | Two OU-led Phase I teams (~$1.4M) in AI-enabled EGS geothermal stimulation control and quantum computing, plus LANL-led Earth-system prediction support (reference only) |
-| 0 | [North Carolina State University (NC State)](https://www.ncsu.edu/) | ❌ Not Covered | — | Leads three Genesis Mission Phase I projects: AI-powered programming framework for emerging AI accelerators (Prof. Michela Becchi, with Argonne), adversarial-attack defense for agentic AI scientific workflows (Prof. Xiaorui Liu), and AI-embedded neutron star merger/supernova simulations (Prof. Gail McLaughlin, with ORNL); partner on two nuclear energy projects (reference only) |
+| 1 | [North Carolina State University (NC State)](https://www.ncsu.edu/) | ✅ Full Profile | §3.3, A.5 | Leads three Genesis Mission Phase I projects (each <$1M, <1 year, Phase II eligible): AI-powered programming framework generating, debugging and optimizing code for emerging AI accelerators beyond machine learning (Prof. Michela Becchi, ECE, with Argonne); adversarial-attack defense for agentic AI scientific workflows against result corruption, false conclusions and research-data leakage (Prof. Xiaorui Liu, Computer Science, with UT Knoxville, Michigan State & Depict Bio); and AI embedded inside neutron star merger and supernova simulations probing the cosmic origin of the elements and the role of neutrinos (Prof. Gail McLaughlin, Physics, with UT, Penn State, Notre Dame, UC Berkeley & ORNL); partner institution on two further nuclear energy projects including a Texas A&M-led reactor safety AI effort |
 | 0 | [William & Mary](https://www.wm.edu/) | ❌ Not Covered | — | ~$1M Phase I award (PI Cristiano Fanelli, School of Computing, Data Sciences & Physics) for multi-detector AI foundation models spanning simulation, reconstruction and noise filtering, with Jefferson Lab, Brookhaven and SLAC; supports EIC and GlueX detector design (reference only) |
 | 0 | [University of North Carolina at Chapel Hill (UNC-Chapel Hill)](https://www.unc.edu/) | ❌ Not Covered | — | Genesis Mission award negotiation (Profs. Julieta Gruszko & Reyco Henning, Physics & Astronomy) applying AI and advanced computing to the LEGEND neutrinoless double-beta decay search (LEGEND-200 / LEGEND-1000) probing matter–antimatter asymmetry (reference only) |
 | 0 | [Washington University in St. Louis (WashU)](https://wustl.edu/) | ❌ Not Covered | — | $750,000 Genesis Mission grant (Prof. Keith Hengen, Biology, Arts & Sciences) for *Superconducting Polychronous Computation Near Criticality*, transferring brain criticality principles to self-tuning superconducting quantum sensors with Argonne National Laboratory (reference only) |
@@ -336,17 +336,17 @@
 | Industry Partners | 93 | 93 | 0 | 0 |
 | Federal Agencies | 11 | 11 | 0 | 0 |
 | National Laboratories & Defense Sites | 26 | 23 | 0 | 3 |
-| Universities | 91 | 70 | 0 | 21 |
+| Universities | 91 | 71 | 0 | 20 |
 | Philanthropy, Policy & Regional Hubs | 17 | 12 | 0 | 5 |
-| **Total** | **238** | **209** | **0** | **29** |
+| **Total** | **238** | **210** | **0** | **28** |
 
 ### By Coverage Level
 
 | Coverage Level | Count | Percentage |
 |:---|:---:|:---:|
-| ✅ Full Profile | 209 | 87.8% |
+| ✅ Full Profile | 210 | 88.2% |
 | 📋 Brief Mention | 0 | 0.0% |
-| ❌ Not Covered | 29 | 12.2% |
+| ❌ Not Covered | 28 | 11.8% |
 | **Total Entities** | **238** | **100%** |
 
-> **Note:** The tracker now covers 238 Genesis Mission ecosystem participants, with 209 entities in dedicated technical write-ups (87.8% full-profile coverage). George Washington University, Brown University, Heidelberg University, Howard University, European Coalition for AI in Fundamental Physics (EuCAIF), Colorado School of Mines, UC San Diego, University of Delaware, University of Hawaiʻi at Mānoa, University of Massachusetts Amherst, University of Washington, Boise State University, St. Joseph's University, New York, The Ohio State University, Kent State University, University of Maryland, Southeastern Universities Research Association (SURA), ORISE, Energy Sciences Coalition (ESC), Krell Institute, La Sierra University, Molecular Foundry, Joint Genome Institute (JGI), University of Oklahoma (OU), North Carolina State University (NC State), William & Mary, the University of North Carolina at Chapel Hill (UNC-Chapel Hill), Washington University in St. Louis (WashU), and the National Reactor Innovation Center (NRIC) remain registered as reference-only participants. The broader sub-grantee network of 342 participating institutions represents secondary academic and sub-contractor nodes across the 278 national project awards.
+> **Note:** The tracker now covers 238 Genesis Mission ecosystem participants, with 210 entities in dedicated technical write-ups (88.2% full-profile coverage). George Washington University, Brown University, Heidelberg University, Howard University, European Coalition for AI in Fundamental Physics (EuCAIF), Colorado School of Mines, UC San Diego, University of Delaware, University of Hawaiʻi at Mānoa, University of Massachusetts Amherst, University of Washington, Boise State University, St. Joseph's University, New York, The Ohio State University, Kent State University, University of Maryland, Southeastern Universities Research Association (SURA), ORISE, Energy Sciences Coalition (ESC), Krell Institute, La Sierra University, Molecular Foundry, Joint Genome Institute (JGI), University of Oklahoma (OU), William & Mary, the University of North Carolina at Chapel Hill (UNC-Chapel Hill), Washington University in St. Louis (WashU), and the National Reactor Innovation Center (NRIC) remain registered as reference-only participants. The broader sub-grantee network of 342 participating institutions represents secondary academic and sub-contractor nodes across the 278 national project awards.
