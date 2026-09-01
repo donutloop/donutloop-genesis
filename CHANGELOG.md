@@ -5,6 +5,17 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.13.6] - 2026-09-01
+
+### Added
+- **Reference Index Entry (`references.md`)**: Registered the LBNL ATAP crosscutting research page [*Fusion, AI, and the Genesis Mission*](https://atap.lbl.gov/research/crosscutting-endeavors/fusion-energy-science/fusion-ai-and-the-genesis-mission/) (`atap.lbl.gov`) under *National Labs & University Coverage → Berkeley Lab (LBNL)*, directly beneath the existing ATAP accelerator-AI features.
+- **Fusion AI Enrichment (§3.2, README.md & README.de.md)**: Added a *Fusion, AI & the Genesis Mission (ATAP Crosscutting Endeavor)* bullet to the **Lawrence Berkeley National Laboratory** profile documenting fusion energy as a top Genesis Mission priority coupled through the **American Science Cloud**, **NERSC** compute and **ESnet** data transport; ATAP's **fusion-specific transformational AI models** trained on joint simulation and experimental data; **integrated research infrastructure** wiring AI directly into fusion experiments for autonomous operation and real-time steering; **predictive models and digital twins** for reactor design; and the supporting capability lines in **high-temperature superconducting (HTS) magnets**, **BELLA Center** ultrafast laser-plasma photon/particle sources for inertial fusion energy, multi-scale advanced modeling, and neutron/electron-scattering particle sources and test infrastructure for fusion materials qualification, together with cross-divisional and private-sector fusion partnerships.
+
+### Changed
+- **Master Index Sync (`reference_coverage.md`)**: Registered the new `atap.lbl.gov` link in the Master Reference Link Index with status `Processed`. Updated Section 1 metrics (Total Reference Links **643 → 644**, Web Portals & Press Releases **620 → 621**, Processing Status **644 / 644 Processed, 100% Complete**) and the Section 2 distribution table (`5. National Labs & University Coverage` **329 → 330**, share held at 51.2%).
+- **Coverage Tracker (`coverage.md`)**: Extended the **Lawrence Berkeley National Laboratory (LBNL)** profile description with the ATAP fusion-specific AI models, HTS magnets and fusion reactor digital twins; no new entities were introduced, so all summary metrics remain unchanged.
+- **Version Bump**: Incremented the version string to `3.13.6` across `README.md` and `README.de.md`.
+
 ## [3.13.5] - 2026-09-01
 
 ### Added
