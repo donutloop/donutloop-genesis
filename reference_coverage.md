@@ -1,7 +1,7 @@
 # Genesis Mission — Master Reference Coverage Report
 
 > **Document Overview:**
-> This report provides a comprehensive coverage analysis, breakdown, and master audit index for the **647 external reference links** compiled within `references.md` for the **Genesis Mission** documentation repository.
+> This report provides a comprehensive coverage analysis, breakdown, and master audit index for the **648 external reference links** compiled within `references.md` for the **Genesis Mission** documentation repository.
 
 ---
 
@@ -9,13 +9,13 @@
 
 | Metric | Count / Value | Description |
 | :--- | :--- | :--- |
-| **Total Reference Links** | **647** | Unique external links indexed across all sections |
+| **Total Reference Links** | **648** | Unique external links indexed across all sections |
 | **Primary Document Sections** | **7** | High-level thematic categories in `references.md` |
-| **Unique Target Domains** | **313** | Distinct domain names referenced (government, lab, corporate, academic, news) |
+| **Unique Target Domains** | **314** | Distinct domain names referenced (government, lab, corporate, academic, news) |
 | **Official PDF Documents** | **24** | Formal RFA solicitations, webinars, slides, and executive reports |
-| **Web Portals & Press Releases** | **623** | Newsroom features, corporate blog posts, and interactive hubs |
+| **Web Portals & Press Releases** | **624** | Newsroom features, corporate blog posts, and interactive hubs |
 | **Validation Status** | **100% Validated** | All links canonicalized, formatted, and deduplicated |
-| **Processing Status** | **647 / 647 Processed** | 0 Unprocessed, 647 Processed (100% Complete) |
+| **Processing Status** | **648 / 648 Processed** | 0 Unprocessed, 648 Processed (100% Complete) |
 
 ---
 
@@ -24,10 +24,10 @@
 | Section Header | Link Count | Share (%) | Primary Focus Area |
 |:---|:---:|:---:|:---|
 | `1. Key Presentation Details` | **3** | 0.5% | Briefing agendas, U.S. ATLAS IB meeting details & CERN links |
-| `2. Collaborators` | **80** | 12.4% | Official homepage & announcement links for industrial/energy partners |
+| `2. Collaborators` | **80** | 12.3% | Official homepage & announcement links for industrial/energy partners |
 | `3. Quantum Leadership & CHIPS Act Initiatives` | **11** | 1.7% | Department of Commerce NIST LOIs & DOE $2B quantum initiatives |
 | `4. Executive, Federal & Partner Announcements` | **182** | 28.1% | White House releases, Cabinet agency press, hyperscaler & lab announcements |
-| `5. National Labs & University Coverage` | **332** | 51.3% | National Laboratory news portals & 72 awardee university press releases |
+| `5. National Labs & University Coverage` | **333** | 51.4% | National Laboratory news portals & 72 awardee university press releases |
 | `6. Additional Event Materials & Reference Links` | **18** | 2.8% | Presentation slide decks, institutional intro files & video recordings |
 | `7. Technical Documents, RFA Guidance & Official Webinars` | **21** | 3.2% | DE-FOA-0003612 solicitations, OSTP challenge papers, SCAC presentations & peer-reviewed AI-for-science research |
 
@@ -55,6 +55,7 @@ Below is the distribution of references grouped by top domain hosts and institut
 | `oden.utexas.edu` | **1** | UT Austin Oden Institute for Computational Engineering and Sciences | Oden Institute faculty leadership across four Genesis Mission projects — INL-led Project Prometheus nuclear digital twins, fusion reactor digital twins, rare earth mineral separation and additive manufacturing |
 | `epicenter.energy.gatech.edu` | **1** | Georgia Tech Energy Policy and Innovation Center (EPICenter) | Faculty affiliate Marilyn Brown as Co-PI on an ORNL-partnered Genesis Mission award building AI foundation models for water-for-energy conditions in the Tennessee Valley Authority region |
 | `www.bu.edu` | **1** | University Newsroom | Boston University College of Engineering Genesis Mission plasma physics award coverage |
+| `news.uchicago.edu` | **1** | University of Chicago Newsroom | Argonne National Laboratory 80th anniversary retrospective covering EBR-I, Aurora exascale computing, Q-NEXT quantum hub renewal, Advanced Photon Source emittance record and the Genesis Mission AI agenda |
 | `newscenter.lbl.gov` | **7** | Lawrence Berkeley National Lab (LBNL) | 13 AI projects lead, ModCon platform, Cech system delivery |
 | `www.lanl.gov` | **6** | Los Alamos National Laboratory (LANL) | Weapons hydrodynamics, plutonium aging AI, high-explosives R&D |
 | `www.ornl.gov` / `jobs.ornl.gov` | **27** | Oak Ridge National Laboratory (ORNL) | Frontier supercomputer, IBM FLiBe molten salt quantum chemistry, agentic workflows recruitment |
@@ -801,3 +802,4 @@ A tabular master index for the 633-reference collection:
 | 5. National Labs & University Coverage | Duke University (Pratt School of Engineering) | DOE-Funded Brain-Inspired Hardware to Enable Futuristic Robotic Systems | `pratt.duke.edu` | Web | [DOE-Funded Brain-Inspired Hardware to Enable Futuristic Robotic Systems](https://pratt.duke.edu/news/doe-funded-brain-inspired-hardware-to-enable-futuristic-robotic-systems/) | `Processed` |
 | 7. Technical Documents, RFA Guidance & Official Webinars | U.S. Department of Energy — Office of Science (Workforce RFI DE-SC-26-016) | U.S. Department of Energy: 2026 Genesis Mission AI Workforce Request for Information — DE-SC-26-016 (PDF) | `huggingface.co` | PDF | [U.S. Department of Energy: 2026 Genesis Mission AI Workforce Request for Information — DE-SC-26-016 (PDF)](https://huggingface.co/datasets/huggingface/policy-docs/resolve/main/2026_DOE_Genesis_Mission_AI_Workforce_RFI.pdf) | `Processed` |
 | 5. National Labs & University Coverage | Carnegie Mellon University (Dietrich College) | What Makes Up The Universe? AI Will Help CMU Scientists Find Out | `www.cmu.edu` | Web | [What Makes Up The Universe? AI Will Help CMU Scientists Find Out](https://www.cmu.edu/dietrich/ai/news/doe-genesis-grant-chad-schafer.html) | `Processed` |
+| 5. National Labs & University Coverage | University of Chicago (Argonne National Laboratory operator) | Argonne Marks 80 Years of Scientific Discovery | `news.uchicago.edu` | Web | [Argonne Marks 80 Years of Scientific Discovery](https://news.uchicago.edu/story/argonne-marks-80-years-scientific-discovery) | `Processed` |
