@@ -207,6 +207,8 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
 * [Rigetti Computing: U.S. Department of Energy Fusion Energy Quantum Simulation Award](https://investors.rigetti.com/news-releases/news-release-details/rigetti-computing-awarded-doe-grant-quantum-simulation)
 * [Cerebras: Systems and U.S. DOE Sign MOU to Accelerate Genesis Mission](https://www.cerebras.ai/press-release/cerebras-systems-and-u-s-department-of-energy-sign-mou-to-accelerate-the-genesis-mission-and-u-s)
 * [Scale AI: Signing MOU with DOE to Advance the Genesis Mission](https://scale.com/blog/scale-ai-doe-genesis-mission-mou)
+* [Scale AI: Joins the DOE Genesis Mission Consortium](https://scale.com/blog/scale-ai-joins-genesis-mission-consortium)
+* [Scale AI: Donovan — AI Agents for the Public Sector](https://scale.com/donovan)
 * [Siemens: AI-Ready Scientific Infrastructure for US DOE Genesis Mission](https://news.siemens.com/en-us/siemens-ai-ready-scientific-infrastructure-us-doe-genesis-mission/)
 * [Siemens: Bringing Industrial AI to the Genesis Mission](https://www.siemens.com/en-us/company/insights/us-stories/bringing-industrial-ai-to-the-genesis-mission/)
 * [Siemens (DE): Bringing Industrial AI to the Genesis Mission](https://www.siemens.com/de-de/company/insights/us-stories/bringing-industrial-ai-to-the-genesis-mission/)
