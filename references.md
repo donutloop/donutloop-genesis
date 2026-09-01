@@ -88,6 +88,7 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
 * [TdVib](https://tdvib.com/)
 * [Tennessee Valley Authority](https://www.tva.com/)
 * [xLight](https://xlight.ai/): [xLight — About Us](https://www.xlight.com/about)
+* [Radiant (Radiant Industries, Inc.)](https://www.radiantnuclear.com/)
 
 ---
 
@@ -336,6 +337,9 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
 * [Cornelis Networks](https://www.cornelisnetworks.com/): [Cornelis Announces Deployment of "Lynx" Supercomputer at Lawrence Livermore National Laboratory](https://www.cornelis.com/stories/cornelis-announces-deployment-of-lynx-supercomputer-at-lawrence-livermore-national-laboratory) - Deployment announcement for the NNSA **Lynx** cluster at LLNL — 952 Dell PowerEdge nodes networked end-to-end with the CN5000 Omni-Path 400 Gbps fabric under the Commodity Technology Systems (CTS-2) line, supporting Advanced Simulation and Computing (ASC) AI and simulation workloads, with the fabric itself co-developed with the NNSA under the Next-Generation High Performance Computing Network (NG-HPCN) project.
 * [Cornelis Networks: CN5000 Omni-Path Switch — 48 × 400 Gbps, Air- and Liquid-Cooled](https://www.cornelis.com/product/cornelis-cn5000-omni-path-switch)
 * [HPCwire: Cornelis CN5000 Network Powers New Lynx Supercomputer at LLNL](https://www.hpcwire.com/off-the-wire/cornelis-cn5000-network-powers-new-lynx-supercomputer-at-llnl/)
+* [Radiant](https://www.radiantnuclear.com/): [Radiant Completes Study for First Kaleidos Microreactor Experiment](https://www.energy.gov/ne/articles/radiant-completes-study-first-kaleidos-microreactor-experiment) - DOE Office of Nuclear Energy account of Radiant's readiness study for the first reactor experiment ever conducted in the **DOME** microreactor test bed at Idaho National Laboratory, covering the **Kaleidos** transportable high-temperature gas-cooled microreactor, its HALEU TRISO fuel load, and the phased zero-power-to-full-power demonstration campaign opened under the Reactor Pilot Program.
+* [Radiant: Radiant Closes $165 Million Series C](https://www.radiantnuclear.com/news/series-c-close) - Corporate funding announcement (DCVC-led, ~$225 million raised to date) financing completion of the Kaleidos Development Unit and siting of a serial-production microreactor factory targeting up to 50 units per year with customer deliveries from 2028.
+* [Radiant: First Reactor in DOME](https://www.radiantnuclear.com/news/first-reactor-in-dome) - First-party announcement of Radiant's selection to deploy the first reactor tested in Idaho National Laboratory's DOME test bed, describing the ~1.2 MWe / ~3.5 MWt helium-cooled Kaleidos design, its shipping-container form factor, five-year refueling interval and 20-year service life.
   
 ---
 
