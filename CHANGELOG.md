@@ -5,6 +5,17 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.13.3] - 2026-09-01
+
+### Added
+- **Reference Index Entry (`references.md`)**: Registered the DOE Office of Science budget document [*FY 2027 Biological and Environmental Research (BER) Budget Request*](https://www.energy.gov/documents/fy-2027-biological-and-environmental-research-budget-request) (`www.energy.gov`) under *Executive, Federal & Partner Announcements*, directly beneath the existing FY 2027 Volume 4 AIQ Congressional Justification entry.
+- **BER Budget Enrichment (§3.4, README.md & README.de.md)**: Added an *FY 2027 Biological and Environmental Research (BER) Budget Request* bullet to the **U.S. Department of Energy** institutional profile documenting the **$396.0 Million** BER request (a reduction of roughly **$458 Million** from the FY 2026 enacted **$854 Million**) within a **$7.139 Billion** Office of Science topline, the realignment of **Biological Systems Science** and **Earth and Environmental Systems Sciences** toward AI-enabled biotechnology, biopreparedness and predictive environmental modeling, and the training of scientific **foundation models** on AI-ready datasets from the **EMSL**, **JGI** and **ARM** user facilities plus the **Bioenergy Research Centers (BRCs)**.
+
+### Changed
+- **Master Index Sync (`reference_coverage.md`)**: Registered the new `www.energy.gov` BER budget link in the Master Reference Link Index with status `Processed`. Updated Section 1 metrics (Total Reference Links **640 → 641**, Official PDF Documents **22 → 23**, Processing Status **641 / 641 Processed, 100% Complete**), the Section 2 distribution table (`4. Executive, Federal & Partner Announcements` **181 → 182**, share 28.3% → 28.4%; `5. National Labs & University Coverage` share 51.3% → 51.2%), and the Section 3 `www.energy.gov` domain count (**50 → 51**).
+- **Coverage Tracker (`coverage.md`)**: Extended the **U.S. Department of Energy (DOE)** profile description with the FY 2027 BER budget request and AI-ready biological/environmental data focus; no new entities were introduced, so all summary metrics remain unchanged.
+- **Version Bump**: Incremented the version string to `3.13.3` across `README.md` and `README.de.md`.
+
 ## [3.13.2] - 2026-09-01
 
 ### Added
