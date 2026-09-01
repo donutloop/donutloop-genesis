@@ -5,6 +5,17 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.13.17] - 2026-09-01
+
+### Added
+- **Hugging Face Reprocessing (§3.1, README.md & README.de.md)**: Restructured the **Hugging Face** industry profile into dedicated sub-bullets — *MOUs, Grants & Policy Contributions* (formal response to the DOE Office of Science RFI *Mobilizing Talent for the Genesis Mission and Developing an American Workforce to Advance Artificial Intelligence (AI) for Science and Engineering*, **DE-SC-26-016**, March 2026, arguing that training **100,000 scientists and engineers** requires treating AI-for-science as shared national scientific infrastructure and making **open, reusable artifacts** — datasets, models, benchmarks, documentation — the default output of every DOE-supported program under tiered, risk-based exceptions), *Technical Capabilities (Open Platform & Distribution Infrastructure)* (**2M+ models**, **500K+ datasets**, **~11M users**, thousands of scientific models across protein folding, materials science, climate and biomedicine, plus the call for **DOE-backed distribution infrastructure** keeping artifacts findable, versioned and maintained), *Technical Capabilities (Evaluation & Benchmarking)* (sustained funding for evaluation and benchmarking as durable infrastructure rather than one-off contests), *Community & Workforce Programs* (the **Hugging Science** initiative with **700+ active researchers** as a template for regional and early-career onboarding), and *Mission Domains* (structural biology and protein folding, materials science, climate and Earth-system modeling, biomedicine, and open-science workforce policy).
+
+### Changed
+- **Coverage Tracker (`coverage.md`)**: Incremented the **Hugging Face** `Process Count` from **0** to **1** and refreshed its notes with the AI Workforce RFI response (open reusable artifacts as default program output, DOE-backed distribution infrastructure, durable evaluation and benchmarking), the platform scale figures and the Hugging Science initiative. `Paper Section` remains `§3.1, A.3`. No entities were added or removed, so all summary metrics (237 total, 198 full profiles, 83.5%) remain unchanged.
+- **Consortium Topology & Appendix A.3 (README.md & README.de.md)**: Extended the *Hugging Face Open Science Integration* node with the platform scale figures and the open-artifact default proposal, and updated the **Hugging Face** partner row in Appendix A.3 to reflect the reprocessed scope.
+- **Reference Integrity (`references.md`)**: Retained all existing Hugging Face links; the source RFI PDF (`us.aws.cdn.hf.co`) is already indexed under §7 *Technical Documents, RFA Guidance & Official Webinars*, so no reference metrics changed.
+- **Version Bump**: Incremented the version string to `3.13.17` across `README.md` and `README.de.md`.
+
 ## [3.13.16] - 2026-09-01
 
 ### Added
