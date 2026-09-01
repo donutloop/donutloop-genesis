@@ -5,6 +5,15 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.13.29] - 2026-09-01
+
+### Changed
+- **Entity Reprocessing (AMD — §3.1 & A.3, README.md & README.de.md)**: Reprocessed the **AMD** profile under `#### B. Quantum Developers & Semiconductor Foundries`. The formerly single-paragraph entry is now structured into technical sub-bullets covering: the **DOE / Oak Ridge National Laboratory** public-private partnership executed jointly with systems integrator **HPE** for the **Lux** AI supercomputer (deployment second half of **2026**) and the **Discovery** exascale-class system (**2028** target), plus **Genesis Mission Consortium** membership alongside **NVIDIA**, **AWS**, **Microsoft**, **IBM** and **Wiley** and participation in the **NSF State and Regional AI Infrastructure Hubs** program (NSF 26-513); the **Lux** hardware stack of **Instinct MI355X** GPUs (**288 GB HBM3E**, **8 TB/s** bandwidth, ~**5 PF FP8** / **78 TF FP64** per GPU), **EPYC** CPUs and **Pensando** DPU-accelerated Ethernet fabrics in **HPE ProLiant Compute XD685** platforms, sidecar pump-rack liquid cooling, **Slurm** + **Kubernetes** scheduling under **DOE Moderate** controls, **3.5 million node-hours** annually split evenly between open science and commercial research, **24 TB+** local NVMe per node and the **600+ PB Orion** Lustre filesystem; the **Discovery** pairing of **6th Gen EPYC** processors with **Instinct MI430X** accelerators and the incumbent AMD exascale substrate of **Frontier** (**1.206 Exaflops Rmax**, MI250X) and **El Capitan** (**2.79 Exaflops Rmax**, MI300A APUs) providing MI250X → MI300A → MI355X → MI430X continuity; and the nationwide **ROCm** open software stack as the portable HIP-based programming environment for national laboratory AI foundation models.
+- **Coverage Tracker (`coverage.md`)**: Incremented the **AMD** `Process Count` from **0** to **1**, added `A.3` to its `Paper Section`, and expanded its notes with the ORNL/HPE partnership scope, the Lux and Discovery hardware and operations details, the Frontier/El Capitan exascale substrate, the ROCm ecosystem, and the consortium/NSF hub memberships. The `Process Count` column was already present as the first column of every tracking table, so no schema migration was required; no entities were added or removed, leaving all summary metrics (238 total, 198 full profiles, 83.2%) unchanged.
+- **Appendix A.3 (`README.md` & `README.de.md`)**: Refreshed the AMD row to match the reprocessed scope.
+- **References (`references.md`)**: Verified integrity — the existing AMD company portal and Genesis Mission blog announcement links were retained unchanged; no new sources were introduced.
+- **Version Bump**: Incremented the version string to `3.13.29` across `README.md` and `README.de.md`.
+
 ## [3.13.28] - 2026-09-01
 
 ### Changed
