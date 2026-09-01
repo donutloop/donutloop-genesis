@@ -5,6 +5,17 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.33.0] - 2026-09-01
+
+### Added
+- **Entity Profile (University of Oklahoma — §3.3 & A.5, README.md & README.de.md)**: Expanded the **University of Oklahoma (OU · Mewbourne College of Earth and Energy)** from a single narrative bullet into a dedicated structured profile under `### 3.3 University Research Partners → Grid Decarbonization, Climate & Geospatial AI`, organized into technical sub-bullets covering: the *awards and commitments* layer (selection among only **168 institutions** from more than **5,000 national applications**, nearly **$1.4 Million** in **Phase I** funding across **two OU-led teams**, plus a third OU researcher supporting a **Los Alamos National Laboratory (LANL)**-led Earth-system prediction project, with the lead award held by Prof. **Ahmad Ghassemi** and co-investigators **Jie Cao** and **Hao Hu** for *AI-Enabled Rapid Analysis and Control of EGS Stimulation Using Machine Learning & Physics-Based Hydraulic Fracture/Natural Fracture (HF/NF) Interaction Modeling*); the *technical capabilities* substrate (coupling **machine-learning surrogates** with **physics-based HF/NF interaction models** so that **enhanced geothermal system (EGS)** stimulation can be analyzed and steered in the control loop rather than reconstructed after the fact, expanding access to reliable **low-carbon baseload electricity**, with the remaining awards extending into **quantum computing** and **AI-driven Earth-system prediction**); and a *Mission Domains* sub-bullet locating OU simultaneously on the subsurface energy axis above the §2.1 heterogeneous accelerator substrate, the §2.2 quantum axis, and the §2.3E environmental and Earth-system modeling portfolio through its LANL-led prediction role.
+
+### Changed
+- **Coverage Tracker (`coverage.md`)**: Upgraded the **University of Oklahoma (OU)** from `❌ Not Covered` to `✅ Full Profile`, set its `Process Count` to **1**, its `Paper Section` to `§3.3, A.5`, and expanded its note with the selection statistics, the Phase I funding total and team structure, the principal investigator and co-investigators, the EGS stimulation control formulation, and the quantum computing and Earth-system prediction awards. Recalculated the summary metrics: Universities **74 → 75** full / **17 → 16** not covered, totals **213 → 214** full profiles and **25 → 24** not covered, coverage level **89.5% → 89.9%** (**10.5% → 10.1%** not covered), with the header scope line and the closing note updated accordingly.
+- **Appendix A.5 (`README.md` & `README.de.md`)**: Verified the existing **University of Oklahoma (OU)** rows in the *Research Universities & Academic Institutions* tables of both editions against the expanded profile; no further changes required.
+- **References (`references.md`)**: Retained all existing entries unchanged; the **University of Oklahoma (OU)** item *OU Researchers Selected for Department of Energy Genesis Mission* remains registered under `## 5. National Labs & University Coverage`.
+- **Version Bump**: Incremented the version string to `3.33.0` across `README.md` and `README.de.md`.
+
 ## [3.32.0] - 2026-09-01
 
 ### Added
