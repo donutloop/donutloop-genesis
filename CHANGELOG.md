@@ -5,6 +5,13 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.13.18] - 2026-09-01
+
+### Changed
+- **RFI Source Link (`references.md`, `reference_coverage.md`, README.md & README.de.md)**: Replaced the expiring Hugging Face CDN URL (`us.aws.cdn.hf.co/xet-bridge-us/...`) for the DOE Office of Science *2026 Genesis Mission AI Workforce Request for Information — DE-SC-26-016* PDF with the stable dataset URL `https://huggingface.co/datasets/huggingface/policy-docs/resolve/main/2026_DOE_Genesis_Mission_AI_Workforce_RFI.pdf`.
+- **Domain Classification (`reference_coverage.md`)**: Consolidated the former `us.aws.cdn.hf.co` document-mirror row into `huggingface.co` (Reference Count **1 → 2**), now covering both the Hugging Face platform homepage and the `huggingface/policy-docs` dataset copy of the RFI. Total reference metrics are unchanged.
+- **Version Bump**: Incremented the version string to `3.13.18` across `README.md` and `README.de.md`.
+
 ## [3.13.17] - 2026-09-01
 
 ### Added
