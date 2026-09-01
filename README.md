@@ -1,4 +1,4 @@
-**Version**: 3.13.4
+**Version**: 3.13.5
 
 # The Genesis Mission: Architecture, Strategic Initiatives, and the Multi-Institutional Ecosystem for AI- and Quantum-Driven Scientific Discoveries
 
@@ -898,6 +898,7 @@ The financial architecture of the Genesis Mission integrates five distinct capit
    * **IBM Quantum:** $50 Million in 5-year utility-scale QPU compute access across national laboratories.
    * **Google Public Sector & DeepMind:** $40 Million in Gemini tokens, GCP credits, TPU v5p/v6e access, and Gemini for Government licenses.
    * **NVIDIA, AMD, Dell Technologies, HPE, Oracle, SambaNova, Groq, Anthropic, OpenAI, Scale AI, Cerebras, Siemens, Synopsys, Accenture Federal Services:** Direct hardware allocations (MI355X/MI430X, CS-3 WSE-3, SN40L RDUs, GroqRack/GroqNode LPU clusters, PowerEdge XE9680), wafer-scale systems, EDA software licenses, enterprise storage fabrics, and domain-expert fine-tuning pipelines.
+5. **Complementary DOE Office of Science Program Solicitations (Isotope R&D and Production):** Beyond the flagship Genesis solicitation, the DOE Office of Science operates standing program-level funding channels published through its **Isotope R&D and Production (DOE IP)** funding opportunities portal ([science.osti.gov/Isotope-Research-Development-and-Production/Funding-Opportunities](https://science.osti.gov/Isotope-Research-Development-and-Production/Funding-Opportunities)). Its headline solicitation **DE-FOA-0003530** (*Research, Development, and Training in Isotope Production*) funds R&D on the enrichment, production, processing, recycling, and purification of radioactive and stable isotopes in short supply, explicitly soliciting artificial intelligence and machine learning methods, separation science, and processing chemistry, coupled with workforce development and training for the next generation of isotope scientists and engineers. Open to universities, national laboratories, and other institutions, these awards underwrite the domestic isotope supply chain for medical, national security, quantum, and industrial applications that Genesis Mission participants such as Nusano, SHINE Technologies, the University of Missouri Research Reactor (MURR), and Michigan State University's FRIB build upon.
 
 ### 4.2 Interagency Governance & Federal Policy Alignment
 
