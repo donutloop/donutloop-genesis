@@ -1,7 +1,7 @@
 # Genesis Mission — Master Reference Coverage Report
 
 > **Document Overview:**
-> This report provides a comprehensive coverage analysis, breakdown, and master audit index for the **633 external reference links** compiled within `references.md` for the **Genesis Mission** documentation repository.
+> This report provides a comprehensive coverage analysis, breakdown, and master audit index for the **634 external reference links** compiled within `references.md` for the **Genesis Mission** documentation repository.
 
 ---
 
@@ -9,13 +9,13 @@
 
 | Metric | Count / Value | Description |
 | :--- | :--- | :--- |
-| **Total Reference Links** | **633** | Unique external links indexed across all sections |
+| **Total Reference Links** | **634** | Unique external links indexed across all sections |
 | **Primary Document Sections** | **7** | High-level thematic categories in `references.md` |
 | **Unique Target Domains** | **307** | Distinct domain names referenced (government, lab, corporate, academic, news) |
 | **Official PDF Documents** | **22** | Formal RFA solicitations, webinars, slides, and executive reports |
-| **Web Portals & Press Releases** | **611** | Newsroom features, corporate blog posts, and interactive hubs |
+| **Web Portals & Press Releases** | **612** | Newsroom features, corporate blog posts, and interactive hubs |
 | **Validation Status** | **100% Validated** | All links canonicalized, formatted, and deduplicated |
-| **Processing Status** | **633 / 633 Processed** | 0 Unprocessed, 633 Processed (100% Complete) |
+| **Processing Status** | **634 / 634 Processed** | 0 Unprocessed, 634 Processed (100% Complete) |
 
 ---
 
@@ -24,11 +24,11 @@
 | Section Header | Link Count | Share (%) | Primary Focus Area |
 |:---|:---:|:---:|:---|
 | `1. Key Presentation Details` | **3** | 0.5% | Briefing agendas, U.S. ATLAS IB meeting details & CERN links |
-| `2. Collaborators` | **80** | 12.7% | Official homepage & announcement links for industrial/energy partners |
+| `2. Collaborators` | **80** | 12.6% | Official homepage & announcement links for industrial/energy partners |
 | `3. Quantum Leadership & CHIPS Act Initiatives` | **11** | 1.7% | Department of Commerce NIST LOIs & DOE $2B quantum initiatives |
-| `4. Executive, Federal & Partner Announcements` | **179** | 28.3% | White House releases, Cabinet agency press, hyperscaler & lab announcements |
-| `5. National Labs & University Coverage` | **323** | 51.0% | National Laboratory news portals & 72 awardee university press releases |
-| `6. Additional Event Materials & Reference Links` | **18** | 2.9% | Presentation slide decks, institutional intro files & video recordings |
+| `4. Executive, Federal & Partner Announcements` | **180** | 28.4% | White House releases, Cabinet agency press, hyperscaler & lab announcements |
+| `5. National Labs & University Coverage` | **323** | 50.9% | National Laboratory news portals & 72 awardee university press releases |
+| `6. Additional Event Materials & Reference Links` | **18** | 2.8% | Presentation slide decks, institutional intro files & video recordings |
 | `7. Technical Documents, RFA Guidance & Official Webinars` | **19** | 3.0% | DE-FOA-0003612 solicitations, OSTP challenge papers, SCAC presentations & peer-reviewed AI-for-science research |
 
 ---
@@ -137,6 +137,7 @@ Below is the distribution of references grouped by top domain hosts and institut
 | `cognition.com` | **1** | Cognition | First-party corporate blog announcement of the DOE memorandum of understanding deploying the Devin autonomous software engineer for scientific code security, legacy modernization and cloud migration |
 | `www.armada.ai` | **1** | Armada | Corporate blog announcement of Armada's DOE collaboration agreement to accelerate the Genesis Mission with Galleon modular data centers and the Armada Edge Platform for sovereign, distributed AI compute |
 | `www.deepisolation.com` | **1** | Deep Isolation Nuclear, Inc. | Press release on selection as sole industrial partner for three Genesis Mission awards advancing AI-driven deep borehole nuclear waste repository siting, design, and performance analysis (LBNL & University of South Carolina led) |
+| `windowsforum.com` | **2** | Windows Forum News (Technology Press) | Microsoft's $60 Million Genesis Mission commitment and the analytical assessment of Genesis as permanent national AI research infrastructure (American Science and Security Platform, AmSC, ModCon) |
 
 ---
 
@@ -780,3 +781,4 @@ A tabular master index for the 633-reference collection:
 | 4. Executive, Federal & Partner Announcements | Everstar | Everstar Announces Collaboration with DOE, National Laboratories, and Microsoft, Marking Its First Major Milestone in the Genesis Mission | `everstar.ai` | Web | [Everstar Announces Collaboration with DOE, National Laboratories, and Microsoft, Marking Its First Major Milestone in the Genesis Mission](https://everstar.ai/news/everstar-major-milestone-in-the-genesis-mission) | `Processed` |
 | 4. Executive, Federal & Partner Announcements | Cognition | Cognition Signs MOU with U.S. Department of Energy to Join The Genesis Mission | `cognition.com` | Web | [Cognition Signs MOU with U.S. Department of Energy to Join The Genesis Mission](https://cognition.com/blog/cognition-doe-genesis-mission) | `Processed` |
 | 4. Executive, Federal & Partner Announcements | Siemens Government Technologies (SGT) | Siemens to Help Build AI-Ready Scientific Infrastructure as Part of U.S. Department of Energy's Genesis Mission | `www.siemensgovt.com` | Web | [Siemens to Help Build AI-Ready Scientific Infrastructure as Part of U.S. Department of Energy's Genesis Mission](https://www.siemensgovt.com/insights/press-releases/press-genesis/) | `Processed` |
+| 4. Executive, Federal & Partner Announcements | Windows Forum News | DOE Genesis Mission: Turning AI Into Infrastructure for U.S. Scientific Discovery | `windowsforum.com` | Web | [DOE Genesis Mission: Turning AI Into Infrastructure for U.S. Scientific Discovery](https://windowsforum.com/windows-news.4/doe-genesis-mission-turning-ai-into-infrastructure-for-u-s-scientific-discovery.420866/) | `Processed` |
