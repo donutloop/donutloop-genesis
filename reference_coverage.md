@@ -1,7 +1,7 @@
 # Genesis Mission — Master Reference Coverage Report
 
 > **Document Overview:**
-> This report provides a comprehensive coverage analysis, breakdown, and master audit index for the **645 external reference links** compiled within `references.md` for the **Genesis Mission** documentation repository.
+> This report provides a comprehensive coverage analysis, breakdown, and master audit index for the **646 external reference links** compiled within `references.md` for the **Genesis Mission** documentation repository.
 
 ---
 
@@ -9,13 +9,13 @@
 
 | Metric | Count / Value | Description |
 | :--- | :--- | :--- |
-| **Total Reference Links** | **645** | Unique external links indexed across all sections |
+| **Total Reference Links** | **646** | Unique external links indexed across all sections |
 | **Primary Document Sections** | **7** | High-level thematic categories in `references.md` |
-| **Unique Target Domains** | **312** | Distinct domain names referenced (government, lab, corporate, academic, news) |
-| **Official PDF Documents** | **23** | Formal RFA solicitations, webinars, slides, and executive reports |
+| **Unique Target Domains** | **313** | Distinct domain names referenced (government, lab, corporate, academic, news) |
+| **Official PDF Documents** | **24** | Formal RFA solicitations, webinars, slides, and executive reports |
 | **Web Portals & Press Releases** | **622** | Newsroom features, corporate blog posts, and interactive hubs |
 | **Validation Status** | **100% Validated** | All links canonicalized, formatted, and deduplicated |
-| **Processing Status** | **645 / 645 Processed** | 0 Unprocessed, 645 Processed (100% Complete) |
+| **Processing Status** | **646 / 646 Processed** | 0 Unprocessed, 646 Processed (100% Complete) |
 
 ---
 
@@ -27,9 +27,9 @@
 | `2. Collaborators` | **80** | 12.4% | Official homepage & announcement links for industrial/energy partners |
 | `3. Quantum Leadership & CHIPS Act Initiatives` | **11** | 1.7% | Department of Commerce NIST LOIs & DOE $2B quantum initiatives |
 | `4. Executive, Federal & Partner Announcements` | **182** | 28.2% | White House releases, Cabinet agency press, hyperscaler & lab announcements |
-| `5. National Labs & University Coverage` | **331** | 51.3% | National Laboratory news portals & 72 awardee university press releases |
+| `5. National Labs & University Coverage` | **331** | 51.2% | National Laboratory news portals & 72 awardee university press releases |
 | `6. Additional Event Materials & Reference Links` | **18** | 2.8% | Presentation slide decks, institutional intro files & video recordings |
-| `7. Technical Documents, RFA Guidance & Official Webinars` | **20** | 3.1% | DE-FOA-0003612 solicitations, OSTP challenge papers, SCAC presentations & peer-reviewed AI-for-science research |
+| `7. Technical Documents, RFA Guidance & Official Webinars` | **21** | 3.3% | DE-FOA-0003612 solicitations, OSTP challenge papers, SCAC presentations & peer-reviewed AI-for-science research |
 
 ---
 
@@ -143,6 +143,7 @@ Below is the distribution of references grouped by top domain hosts and institut
 | `www.armada.ai` | **1** | Armada | Corporate blog announcement of Armada's DOE collaboration agreement to accelerate the Genesis Mission with Galleon modular data centers and the Armada Edge Platform for sovereign, distributed AI compute |
 | `www.deepisolation.com` | **1** | Deep Isolation Nuclear, Inc. | Press release on selection as sole industrial partner for three Genesis Mission awards advancing AI-driven deep borehole nuclear waste repository siting, design, and performance analysis (LBNL & University of South Carolina led) |
 | `windowsforum.com` | **2** | Windows Forum News (Technology Press) | Microsoft's $60 Million Genesis Mission commitment and the analytical assessment of Genesis as permanent national AI research infrastructure (American Science and Security Platform, AmSC, ModCon) |
+| `us.aws.cdn.hf.co` | **1** | Hugging Face CDN (Document Mirror) | Mirrored copy of the DOE Office of Science 2026 Genesis Mission AI Workforce Request for Information (RFI DE-SC-26-016) soliciting input on training 100,000 AI-capable scientists and engineers
 
 ---
 
@@ -798,3 +799,4 @@ A tabular master index for the 633-reference collection:
 | 7. Technical Documents, RFA Guidance & Official Webinars | DOE Office of Science — Isotope R&D and Production (DOE IP) | DOE Office of Science: Isotope R&D and Production (DOE IP) Funding Opportunities Portal | `science.osti.gov` | Web | [DOE Office of Science: Isotope R&D and Production (DOE IP) Funding Opportunities Portal](https://science.osti.gov/Isotope-Research-Development-and-Production/Funding-Opportunities) | `Processed` |
 | 5. National Labs & University Coverage | Lawrence Berkeley National Laboratory (ATAP Division) | LBNL ATAP: Fusion, AI, and the Genesis Mission | `atap.lbl.gov` | Web | [LBNL ATAP: Fusion, AI, and the Genesis Mission](https://atap.lbl.gov/research/crosscutting-endeavors/fusion-energy-science/fusion-ai-and-the-genesis-mission/) | `Processed` |
 | 5. National Labs & University Coverage | Duke University (Pratt School of Engineering) | DOE-Funded Brain-Inspired Hardware to Enable Futuristic Robotic Systems | `pratt.duke.edu` | Web | [DOE-Funded Brain-Inspired Hardware to Enable Futuristic Robotic Systems](https://pratt.duke.edu/news/doe-funded-brain-inspired-hardware-to-enable-futuristic-robotic-systems/) | `Processed` |
+| 7. Technical Documents, RFA Guidance & Official Webinars | U.S. Department of Energy — Office of Science (Workforce RFI DE-SC-26-016) | U.S. Department of Energy: 2026 Genesis Mission AI Workforce Request for Information — DE-SC-26-016 (PDF) | `us.aws.cdn.hf.co` | PDF | [U.S. Department of Energy: 2026 Genesis Mission AI Workforce Request for Information — DE-SC-26-016 (PDF)](https://us.aws.cdn.hf.co/xet-bridge-us/660d6b222461f72aa26a8518/892b764b7ef44eb0845edfdfbe591c1732a2d52b8bca1cebd1b4ef66396b2b8d?response-content-type=application%2Fpdf&response-content-disposition=inline%3B+filename*%3DUTF-8%27%272026_DOE_Genesis_Mission_AI_Workforce_RFI.pdf%3B+filename%3D%222026_DOE_Genesis_Mission_AI_Workforce_RFI.pdf%22%3B&X-Xet-Cas-Uid=public&user_id=public&Expires=1788252883&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly91cy5hd3MuY2RuLmhmLmNvL3hldC1icmlkZ2UtdXMvNjYwZDZiMjIyNDYxZjcyYWEyNmE4NTE4Lzg5MmI3NjRiN2VmNDRlYjA4NDVlZGZkZmJlNTkxYzE3MzJhMmQ1MmI4YmNhMWNlYmQxYjRlZjY2Mzk2YjJiOGRcXD9yZXNwb25zZS1jb250ZW50LXR5cGU9YXBwbGljYXRpb24lMkZwZGYmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1pbmxpbmUlM0IrZmlsZW5hbWUlMkElM0RVVEYtOCUyNyUyNzIwMjZfRE9FX0dlbmVzaXNfTWlzc2lvbl9BSV9Xb3JrZm9yY2VfUkZJLnBkZiUzQitmaWxlbmFtZSUzRCUyMjIwMjZfRE9FX0dlbmVzaXNfTWlzc2lvbl9BSV9Xb3JrZm9yY2VfUkZJLnBkZiUyMiUzQiZYLVhldC1DYXMtVWlkPXB1YmxpYyZ1c2VyX2lkPXB1YmxpYyIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiRXBvY2hUaW1lIjoxNzg4MjUyODgzfX19XX0_&Signature=MEYCIQCWVSUYi6ZCXI8Np02COQ2Kml-H7bPhhPWMRmA4Klv1SAIhAMrhBF6hNQLP2QdUa43hIuEZSi1PoEaWdhQm04k6yPb%7E&Key-Pair-Id=01KXEF4KZ1B6FV465MAWR4M21F) | `Processed` |
