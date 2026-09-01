@@ -5,6 +5,17 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.13.5] - 2026-09-01
+
+### Added
+- **Reference Index Entry (`references.md`)**: Registered the DOE Office of Science [*Isotope R&D and Production (DOE IP) Funding Opportunities Portal*](https://science.osti.gov/Isotope-Research-Development-and-Production/Funding-Opportunities) (`science.osti.gov`) under *Technical Documents, RFA Guidance & Official Webinars*.
+- **Complementary Funding Channel Enrichment (§4.1, README.md & README.de.md)**: Added a fifth funding-architecture item documenting the DOE Office of Science **Isotope R&D and Production (DOE IP)** standing funding opportunities portal and its headline solicitation **DE-FOA-0003530** (*Research, Development, and Training in Isotope Production*) — covering enrichment, production, processing, recycling and purification R&D for radioactive and stable isotopes in short supply, its explicit **AI/ML**, separation-science and processing-chemistry topics, workforce development and training for the next generation of isotope scientists and engineers, eligibility spanning universities, national laboratories and other institutions, and the linkage to the domestic medical, national-security, quantum and industrial isotope supply chain underpinning Nusano, SHINE Technologies, MURR and MSU FRIB.
+
+### Changed
+- **Master Index Sync (`reference_coverage.md`)**: Registered the new `science.osti.gov` link in the Master Reference Link Index with status `Processed`. Updated Section 1 metrics (Total Reference Links **642 → 643**, Web Portals & Press Releases **619 → 620**, Processing Status **643 / 643 Processed, 100% Complete**), the Section 2 distribution table (`7. Technical Documents, RFA Guidance & Official Webinars` **19 → 20**, share 3.0% → 3.1%; recalculated share for Section 2, 12.5% → 12.4%), and the Section 3 top-domain count (`science.osti.gov` **11 → 12**).
+- **Coverage Tracker (`coverage.md`)**: Extended the **U.S. Department of Energy (DOE)** profile description with the Isotope R&D and Production (DOE IP) funding opportunities portal; no new entities were introduced, so all summary metrics remain unchanged.
+- **Version Bump**: Incremented the version string to `3.13.5` across `README.md` and `README.de.md`.
+
 ## [3.13.4] - 2026-09-01
 
 ### Added

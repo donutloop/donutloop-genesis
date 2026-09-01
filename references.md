@@ -729,3 +729,4 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
 * [GEAR: Genesis Education and Resources](https://gear.doe.gov/)
 * [SciDAC: Scientific Discovery through Advanced Computing Institutes](https://www.scidac.gov/institutes.html)
 * [DOE Office of Science: Biological and Environmental Research (BER) 26 Genesis Awards Flyer (PDF)](https://science.osti.gov/-/media/ber/pdf/News-and-Resources/26-Genesis-Awards-Flyer_0820.pdf)
+* [DOE Office of Science: Isotope R&D and Production (DOE IP) Funding Opportunities Portal](https://science.osti.gov/Isotope-Research-Development-and-Production/Funding-Opportunities)
