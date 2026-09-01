@@ -5,6 +5,16 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.13.35] - 2026-09-01
+
+### Changed
+- **Entity Reprocessing (Groq — §2.1, §3.1 & A.3, README.md & README.de.md)**: Reprocessed the **Groq** profile under `### 3.1 Industry, Hyperscale & Hardware Commitments`. The formerly single-paragraph entry is now structured into technical sub-bullets covering: the DOE **MOU** signed after the White House Genesis Mission summit and its four compute pillars (low-latency inference and agentic closed-loop workflows for National User Facilities, energy-efficient **LPU** silicon for domestic supply-chain resilience, deterministic inference benchmarks and reproducibility standards, and global scaling of the American AI stack); the **GroqChip** single-core **Tensor Streaming Processor** (**TSP**) delivering **750 TOPS** (INT8) and **188 TFLOPS** (FP16) with all **230 MB** of working memory in on-chip SRAM at roughly **80 TB/s** and compile-time static scheduling that removes runtime arbitration and caches; the system hierarchy of **GroqCard** (**PCIe Gen4 x16**) → **GroqNode** (8 cards) → **GroqRack** (**72** accelerators) linked by the **RealScale** interconnect in a **dragonfly** topology; the **GroqWare** SDK (ONNX/MLIR **DAG compiler**, Groq API, **GroqView** profiler, `groq-runtime`) and **GroqCloud** OpenAI-compatible endpoints; the U.S. fabrication path from **GlobalFoundries 14 nm** in upstate New York to **Samsung Foundry 4 nm (SF4X)** in **Taylor, Texas**; and the national-laboratory deployment footprint at **ANL ALCF** (AI Testbed GroqRack), **LBNL NERSC** and **ORNL OLCF**.
+- **Heterogeneous Compute Substrate (§2.1, both editions)**: Expanded the *Groq Deterministic LPU Accelerators* entry with the GroqChip throughput and SRAM specifications, the 72-accelerator GroqRack configuration (9 GroqNodes × 8 GroqCards) and the RealScale dragonfly interconnect.
+- **Coverage Tracker (`coverage.md`)**: Incremented the **Groq** `Process Count` from **0** to **1**, expanded its `Paper Section` to `§2.1, §3.1, A.3`, and replaced its summary notes with the four MOU pillars, TSP silicon specifications, GroqCard/GroqNode/GroqRack hierarchy, GroqWare and GroqCloud software stack, laboratory deployments and the domestic fabrication path. The `Process Count` column was already present as the first column of every tracking table, so no schema migration was required; no entities were added or removed, leaving all summary metrics (238 total, 198 full profiles, 83.2%) unchanged.
+- **Appendix A.3 (`README.md` & `README.de.md`)**: Refreshed the Groq row to match the reprocessed scope.
+- **References (`references.md`)**: Retained the existing Groq homepage and DOE MOU newsroom links and appended two newly sourced links — the **ALCF AI Testbed** *Groq System Overview* user guide and the *Groq Selects Samsung Foundry to Bring Next-Gen LPU to the AI Acceleration Market* announcement.
+- **Version Bump**: Incremented the version string to `3.13.35` across `README.md` and `README.de.md`.
+
 ## [3.13.34] - 2026-09-01
 
 ### Changed
