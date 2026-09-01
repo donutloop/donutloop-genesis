@@ -45,6 +45,7 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
 * [Emerald Cloud Lab](https://www.emeraldcloudlab.com/)
 * [EPRI](https://www.epri.com/)
 * [Esri](https://www.esri.com/)
+* [eXoZymes](https://exozymes.com/): [eXoZymes Selected for DoE's Genesis Mission to Advance AI-Powered Digital Twins for Cell-Free Biomanufacturing](https://exozymes.com/blog/genesis-mission-2026) - Cell-free, enzyme-based biomanufacturing company partnering with Lawrence Berkeley National Laboratory (LBNL) on a 9-month, ~$747,000 Genesis Mission project (~$147,000 to eXoZymes) building AI-powered digital twins of cell-free enzymatic pathways using curated experimental datasets and LBNL metabolomic workflows on the DOE Genesis Mission Platform.
 * [FutureHouse](https://www.futurehouse.org/)
 * [GE Aerospace](https://www.geaerospace.com/)
 * [GlobalFoundries](https://gf.com/): [GlobalFoundries — Quantum Technology Architecture & Foundry Solutions](https://gf.com/technologies/quantum-technology/)

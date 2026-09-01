@@ -5,6 +5,18 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.10.1] - 2026-09-01
+
+### Added
+- **Company Profile — eXoZymes (§3.1 C, README.md & README.de.md)**: Added a dedicated *eXoZymes* entry under *Industry, Hyperscale & Hardware Commitments — Industrial Technology, Energy, Materials & Infrastructure Partners* in both flagship papers, structured into *Grants & Commitments* (nine-month Genesis Mission project launched July 2026, **~$747,000** total funding with **~$147,000** to eXoZymes, executed with **Lawrence Berkeley National Laboratory (LBNL)** researchers **Dr. Edward Baidoo** and **Dr. Hector Garcia Martin**, company-side lead **Dr. Paul Opgenorth**, plus access to the **DOE Genesis Mission Platform** HPC resources, AI models and AI agents), *Technical Capabilities* (AI-augmented **cell-free biomanufacturing platform** using proprietary engineered enzymes — *exozymes* — outside living cells to convert abundant feedstocks into nutraceuticals and novel medicines), and *AI & Digital Twin Platforms* (curated cell-free enzymatic pathway datasets converted into AI-ready training data via LBNL **metabolomic workflows**, yielding digital twins that model, predict and optimize bioprocesses *in silico* and compress design-build-test-learn cycles).
+- **Appendix A.3 Registration**: Added an *eXoZymes* row to the *Laboratory Automation & Specialized Technology* partner table in Appendix A.3 of both `README.md` and `README.de.md`.
+- **Reference Index Entry (`references.md`)**: Registered *eXoZymes* under *Collaborators* with its official homepage and the announcement [*eXoZymes Selected for DoE's Genesis Mission to Advance AI-Powered Digital Twins for Cell-Free Biomanufacturing*](https://exozymes.com/blog/genesis-mission-2026) (`exozymes.com`).
+
+### Changed
+- **Master Index Sync (`reference_coverage.md`)**: Registered both new `exozymes.com` links in the Master Reference Link Index with status `Processed` and added an `exozymes.com` domain row (2 links). Updated Section 1 metrics (Total Reference Links **624 → 626**, Unique Target Domains **300 → 301**, Web Portals & Press Releases **602 → 604**, Processing Status **626 / 626 Processed, 100% Complete**) and the Section 2 distribution table (`2. Collaborators` **77 → 79**, share 12.3% → 12.6%; recalculated shares for Sections 4 and 5).
+- **Coverage Tracker (`coverage.md`)**: Added **eXoZymes** as `✅ Full Profile` (`§3.1, A.3`) under *Laboratory Automation & Specialized Technology*. Recalculated summary metrics: Industry Partners (88 → 89 total, 81 → 82 full), overall totals (229 → 230 entities, 193 → 194 full) and the scope header coverage status (**193 / 229** → **194 / 230**, 84.3%).
+- **Version Bump**: Incremented the version string to `3.10.1` across `README.md` and `README.de.md`.
+
 ## [3.10.0] - 2026-08-30
 
 ### Added
