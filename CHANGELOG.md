@@ -5,6 +5,15 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.13.39] - 2026-09-01
+
+### Changed
+- **Entity Reprocessing (Dataera.ai — §3.1 & A.3, README.md & README.de.md)**: Reprocessed the **Dataera.ai** profile under `### 3.1 Industry, Hyperscale & Hardware Commitments`. The formerly single-paragraph entry is now structured into technical sub-bullets covering: the **DOE Memorandum of Understanding** supporting the Genesis Mission goal of doubling American R&D productivity within a decade, Dataera.ai's contribution of automated data curation and federated data architecture to the **American Science and Security Platform**, and its formal input to the DOE Request for Information on *Partnerships for Transformational AI* advocating **AI-ready data records** produced at the point of capture; the **automated curation** stack of AI agents that ingest, clean, deduplicate, label and document heterogeneous experimental and simulation outputs, normalize them against domain schemas and controlled vocabularies and attach persistent identifiers, provenance and licensing metadata so datasets meet **FAIR** criteria as a by-product of the experiment; the **federated collaboration framework** that pushes queries, analyses and training to the data so sensitive, proprietary or export-controlled records never leave their originating institution's security boundary, with governed cross-institution discovery, semantic search and automated linking; **interoperability and provenance** through harmonized machine-readable corpora and self-describing pipelines that record each transformation for full lineage and audit trails across the scientific foundation model training-data supply chain; and the *Mission Domains* scope of autonomous and self-driving laboratories, foundation model pre-training and multi-modal AI research across DOE's **17 National Laboratories**.
+- **Coverage Tracker (`coverage.md`)**: Incremented the **Dataera.ai** `Process Count` from **0** to **1** and replaced its summary notes with the DOE MOU scope, AI curation agents, federated collaboration framework, provenance-tracked self-describing pipelines, AI-ready data records and DOE RFI input. The `Process Count` column was already present as the first column of every tracking table, so no schema migration was required; no entities were added or removed, leaving all summary metrics (238 total, 198 full profiles, 83.2%) unchanged.
+- **Appendix A.3 (`README.md` & `README.de.md`)**: Refreshed the Dataera.ai row to match the reprocessed scope.
+- **References (`references.md`)**: Retained the existing Dataera.ai DOE Genesis partnership announcement and appended one newly sourced link — *Dataera.ai Provides Input to DOE on "Partnerships for Transformational AI"*.
+- **Version Bump**: Incremented the version string to `3.13.39` across `README.md` and `README.de.md`.
+
 ## [3.13.38] - 2026-09-01
 
 ### Changed
