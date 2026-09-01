@@ -3,7 +3,7 @@
 > **Scope & Coverage Definition:**
 > - **Flagship Consortium Scope:** Tracks **all 238 primary flagship participants**—lead contractors, federal agencies, national laboratories, awardee universities, strategic industrial partners, and philanthropic foundations—explicitly profiled or referenced in the Genesis Mission paper (`README.md`) and reference index.
 > - **Broader National Awardee Network Context:** Under solicitation DE-FOA-0003612 and interagency challenges, the broader national initiative encompasses **342 total participating institutions** (157 companies, 142 universities, 16 national labs, 13 non-profits, 14 other entities across 278 projects).
-> - **Coverage Status:** **198 / 238 (83.2%)** of the tracked consortium entities have dedicated, detailed technical profiles.
+> - **Coverage Status:** **199 / 238 (83.6%)** of the tracked consortium entities have dedicated, detailed technical profiles.
 
 **Legend:**
 - ✅ **Full Profile** — Dedicated section with detailed technical write-up (Sections 2.2 / 3.1 / 3.2 / 3.3 / 3.4 / 3.5)
@@ -121,7 +121,7 @@
 | 0 | [Antares Nuclear](https://www.antaresindustries.com/) | ❌ Not Covered | — | Advanced microreactor developer; achieved criticality under the Reactor Pilot Program (reference only) |
 | 0 | [Valar Atomics](https://valaratomics.com/) | ❌ Not Covered | — | Advanced reactor developer focused on industrial heat; achieved criticality under the Reactor Pilot Program (reference only) |
 | 0 | [Deployable Energy](https://www.deployable.energy) | ❌ Not Covered | — | Microreactor developer with portable designs; achieved criticality under the Reactor Pilot Program (reference only) |
-| 0 | [Radiant](https://www.radiantnuclear.com) | ❌ Not Covered | — | Microreactor developer, scheduled to test its design at INL's DOME test bed (reference only) |
+| 1 | [Radiant](https://www.radiantnuclear.com) | ✅ Full Profile | §3.1, A.3 | Kaleidos transportable high-temperature gas-cooled microreactor (~1.2 MWe / ~3.5 MWt, helium-cooled, HALEU TRISO compacts with zirconium hydride moderation in graphite blocks, five-year refueling interval, 20-year life, shipping-container form factor); selected for the first reactor experiment ever run in INL's DOME microreactor test bed under the Reactor Pilot Program, with a DOE HALEU allocation and a phased zero-power-to-150-hour full-power campaign; $165M Series C funding the Kaleidos Development Unit and a 50-unit-per-year factory; deployable power for remote sites, defense installations and edge compute |
 | 0 | [Clean Republic SODO, LLC](https://www.electric-bike-kit.com/) | ❌ Not Covered | — | Electric vehicle battery management and energy science workflows partner (reference only) |
 | 0 | [Aclara Technologies](https://www.aclara-resources.com/) | ✅ Full Profile | §3.1, A.3 | Genesis Mission Phase I award (DE-FOA-0003612) for AI-enabled multi-feed heavy rare earth separation; Virginia Tech separation pilot plant; AI-assisted solvent extraction digital twin with Argonne for domestic Dy/Tb recovery |
 | 0 | [Deep Isolation](https://www.deepisolation.com/) | ✅ Full Profile | §3.1, A.3 | Deep borehole disposal & Universal Canister System (UCS) developer; sole industrial partner on three Genesis Mission awards (GeoTrace and a digital-twin repository design project with LBNL, AI-STRATA3D with the University of South Carolina) for AI-driven repository siting, fatal flaw screening & performance analysis |
@@ -333,20 +333,20 @@
 
 | Entity Type | Total | ✅ Full | 📋 Brief | ❌ Not Covered |
 |:---|:---:|:---:|:---:|:---:|
-| Industry Partners | 93 | 86 | 0 | 7 |
+| Industry Partners | 93 | 87 | 0 | 6 |
 | Federal Agencies | 11 | 10 | 0 | 1 |
 | National Laboratories & Defense Sites | 26 | 22 | 0 | 4 |
 | Universities | 91 | 68 | 0 | 23 |
 | Philanthropy, Policy & Regional Hubs | 17 | 12 | 0 | 5 |
-| **Total** | **238** | **198** | **0** | **40** |
+| **Total** | **238** | **199** | **0** | **39** |
 
 ### By Coverage Level
 
 | Coverage Level | Count | Percentage |
 |:---|:---:|:---:|
-| ✅ Full Profile | 198 | 83.2% |
+| ✅ Full Profile | 199 | 83.6% |
 | 📋 Brief Mention | 0 | 0.0% |
-| ❌ Not Covered | 40 | 16.8% |
+| ❌ Not Covered | 39 | 16.4% |
 | **Total Entities** | **238** | **100%** |
 
-> **Note:** The tracker now covers 238 Genesis Mission ecosystem participants, with 198 entities in dedicated technical write-ups (83.2% full-profile coverage). George Washington University, Brown University, Heidelberg University, Howard University, European Coalition for AI in Fundamental Physics (EuCAIF), Colorado School of Mines, UC San Diego, University of Delaware, University of Hawaiʻi at Mānoa, University of Massachusetts Amherst, University of Washington, Boise State University, St. Joseph's University, New York, The Ohio State University, Kent State University, University of Maryland, ChipNexus, Southeastern Universities Research Association (SURA), ORISE, Energy Sciences Coalition (ESC), Krell Institute, Antares Nuclear, Valar Atomics, Deployable Energy, Radiant, La Sierra University, Clean Republic SODO, LLC, Molecular Foundry, Joint Genome Institute (JGI), Oak Ridge Leadership Computing Facility (OLCF), EdenCode, University of Oklahoma (OU), North Carolina State University (NC State), William & Mary, the University of North Carolina at Chapel Hill (UNC-Chapel Hill), Washington University in St. Louis (WashU), Duke University, the University of Chicago, the National Reactor Innovation Center (NRIC), and the U.S. Nuclear Regulatory Commission (NRC) remain registered as reference-only participants. The broader sub-grantee network of 342 participating institutions represents secondary academic and sub-contractor nodes across the 278 national project awards.
+> **Note:** The tracker now covers 238 Genesis Mission ecosystem participants, with 199 entities in dedicated technical write-ups (83.6% full-profile coverage). George Washington University, Brown University, Heidelberg University, Howard University, European Coalition for AI in Fundamental Physics (EuCAIF), Colorado School of Mines, UC San Diego, University of Delaware, University of Hawaiʻi at Mānoa, University of Massachusetts Amherst, University of Washington, Boise State University, St. Joseph's University, New York, The Ohio State University, Kent State University, University of Maryland, ChipNexus, Southeastern Universities Research Association (SURA), ORISE, Energy Sciences Coalition (ESC), Krell Institute, Antares Nuclear, Valar Atomics, Deployable Energy, La Sierra University, Clean Republic SODO, LLC, Molecular Foundry, Joint Genome Institute (JGI), Oak Ridge Leadership Computing Facility (OLCF), EdenCode, University of Oklahoma (OU), North Carolina State University (NC State), William & Mary, the University of North Carolina at Chapel Hill (UNC-Chapel Hill), Washington University in St. Louis (WashU), Duke University, the University of Chicago, the National Reactor Innovation Center (NRIC), and the U.S. Nuclear Regulatory Commission (NRC) remain registered as reference-only participants. The broader sub-grantee network of 342 participating institutions represents secondary academic and sub-contractor nodes across the 278 national project awards.

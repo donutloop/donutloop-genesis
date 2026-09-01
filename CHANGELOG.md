@@ -5,6 +5,17 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.17.0] - 2026-09-01
+
+### Added
+- **Entity Profile (Radiant — §3.1 & A.3, README.md & README.de.md)**: Expanded **Radiant (Radiant Industries, Inc.)** from a reference-only listing to a dedicated profile under `### 3.1 Industry, Hyperscale & Hardware Commitments → C. Industrial Technology, Energy, Materials & Infrastructure Partners`, structured into technical sub-bullets covering: the DOE Office of Nuclear Energy selection of Radiant to run the **first reactor experiment ever conducted in the DOME test bed** at **Idaho National Laboratory** — the world's first microreactor demonstration facility opened under the **Reactor Pilot Program**; the company background (founded 2019 by former SpaceX engineer **Doug Bernauer**), its **DOE HALEU allocation** as one of only five recipients for a first fueled demonstration and the **$165 Million Series C** (DCVC-led, ~$225 Million raised to date) financing the **Kaleidos Development Unit** and a serial-production factory targeting up to **50 microreactors per year** with deliveries from 2028; the **Kaleidos** transportable **high-temperature gas-cooled microreactor** (~**1.2 MWe / ~3.5 MWt**, helium-cooled with passive air-cooled decay heat removal and no water requirement, **HALEU TRISO** compacts with **zirconium hydride** moderation in prismatic graphite blocks, five-year refueling interval, 20-year service life, standard shipping-container form factor); and a *Mission Domains* sub-bullet recording the phased DOME campaign (2026 fuel delivery, zero-power criticality, staged power ascension, ≥**150 hours** of uninterrupted full-power operation) as a source of licensing, instrumentation and autonomous-operation datasets for the DOE reactor demonstration infrastructure underlying the Genesis nuclear workstreams, plus deployable power for remote sites, defense installations and edge compute.
+
+### Changed
+- **Coverage Tracker (`coverage.md`)**: Upgraded **Radiant** from `❌ Not Covered` to `✅ Full Profile`, set its `Process Count` to **1**, its `Paper Section` to `§3.1, A.3`, and replaced its notes with the Kaleidos design specifications, DOME campaign, HALEU allocation, Series C financing and deployment scope. Recalculated the summary metrics: Industry Partners **86 → 87** full / **7 → 6** not covered, totals **198 → 199** full profiles and **40 → 39** not covered, coverage level **83.2% → 83.6%** (**16.8% → 16.4%** not covered), with the closing note updated accordingly.
+- **Appendix A.3 (`README.md` & `README.de.md`)**: Added a **Radiant** row to the *Energy, Utilities & Critical Materials* tables in both editions.
+- **References (`references.md`)**: Retained all existing entries and appended the *Radiant Completes Study for First Kaleidos Microreactor Experiment* DOE Office of Nuclear Energy article, the *Radiant Closes $165 Million Series C* announcement and the *First Reactor in DOME* release, plus a Radiant entry under `## 2. Collaborators`.
+- **Version Bump**: Incremented the version string to `3.17.0` across `README.md` and `README.de.md`.
+
 ## [3.16.0] - 2026-09-01
 
 ### Changed
