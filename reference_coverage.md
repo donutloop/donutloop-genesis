@@ -1,7 +1,7 @@
 # Genesis Mission — Master Reference Coverage Report
 
 > **Document Overview:**
-> This report provides a comprehensive coverage analysis, breakdown, and master audit index for the **641 external reference links** compiled within `references.md` for the **Genesis Mission** documentation repository.
+> This report provides a comprehensive coverage analysis, breakdown, and master audit index for the **642 external reference links** compiled within `references.md` for the **Genesis Mission** documentation repository.
 
 ---
 
@@ -9,13 +9,13 @@
 
 | Metric | Count / Value | Description |
 | :--- | :--- | :--- |
-| **Total Reference Links** | **641** | Unique external links indexed across all sections |
+| **Total Reference Links** | **642** | Unique external links indexed across all sections |
 | **Primary Document Sections** | **7** | High-level thematic categories in `references.md` |
 | **Unique Target Domains** | **312** | Distinct domain names referenced (government, lab, corporate, academic, news) |
 | **Official PDF Documents** | **23** | Formal RFA solicitations, webinars, slides, and executive reports |
-| **Web Portals & Press Releases** | **618** | Newsroom features, corporate blog posts, and interactive hubs |
+| **Web Portals & Press Releases** | **619** | Newsroom features, corporate blog posts, and interactive hubs |
 | **Validation Status** | **100% Validated** | All links canonicalized, formatted, and deduplicated |
-| **Processing Status** | **641 / 641 Processed** | 0 Unprocessed, 641 Processed (100% Complete) |
+| **Processing Status** | **642 / 642 Processed** | 0 Unprocessed, 642 Processed (100% Complete) |
 
 ---
 
@@ -26,8 +26,8 @@
 | `1. Key Presentation Details` | **3** | 0.5% | Briefing agendas, U.S. ATLAS IB meeting details & CERN links |
 | `2. Collaborators` | **80** | 12.5% | Official homepage & announcement links for industrial/energy partners |
 | `3. Quantum Leadership & CHIPS Act Initiatives` | **11** | 1.7% | Department of Commerce NIST LOIs & DOE $2B quantum initiatives |
-| `4. Executive, Federal & Partner Announcements` | **182** | 28.4% | White House releases, Cabinet agency press, hyperscaler & lab announcements |
-| `5. National Labs & University Coverage` | **328** | 51.2% | National Laboratory news portals & 72 awardee university press releases |
+| `4. Executive, Federal & Partner Announcements` | **182** | 28.3% | White House releases, Cabinet agency press, hyperscaler & lab announcements |
+| `5. National Labs & University Coverage` | **329** | 51.2% | National Laboratory news portals & 72 awardee university press releases |
 | `6. Additional Event Materials & Reference Links` | **18** | 2.8% | Presentation slide decks, institutional intro files & video recordings |
 | `7. Technical Documents, RFA Guidance & Official Webinars` | **19** | 3.0% | DE-FOA-0003612 solicitations, OSTP challenge papers, SCAC presentations & peer-reviewed AI-for-science research |
 
@@ -794,3 +794,4 @@ A tabular master index for the 633-reference collection:
 | 5. National Labs & University Coverage | University of Texas at Austin (Oden Institute for Computational Engineering and Sciences) | Oden Institute Faculty Selected for Four Projects in Department of Energy Genesis Mission | `oden.utexas.edu` | Web | [Oden Institute Faculty Selected for Four Projects in Department of Energy Genesis Mission](https://oden.utexas.edu/news-and-events/news/Oden-Institute-Faculty-Selected-for-Department-of-Energy-Genesis-Mission/) | `Processed` |
 | 5. National Labs & University Coverage | Georgia Institute of Technology (Energy Policy and Innovation Center — EPICenter) | EPICenter Faculty Affiliate Marilyn Brown Part of DOE Genesis Mission Award | `epicenter.energy.gatech.edu` | Web | [EPICenter Faculty Affiliate Marilyn Brown Part of DOE Genesis Mission Award](https://epicenter.energy.gatech.edu/2026/07/28/epicenter-faculty-affiliate-marilyn-brown-part-of-doe-genesis-mission-award/) | `Processed` |
 | 4. Executive, Federal & Partner Announcements | DOE Office of Science — Biological and Environmental Research (BER) | DOE Document: FY 2027 Biological and Environmental Research (BER) Budget Request (PDF) | `www.energy.gov` | PDF | [DOE Document: FY 2027 Biological and Environmental Research (BER) Budget Request (PDF)](https://www.energy.gov/documents/fy-2027-biological-and-environmental-research-budget-request) | `Processed` |
+| 5. National Labs & University Coverage | Lawrence Berkeley National Laboratory (ATAP Division) | LBNL ATAP News: AI for Smarter, More Powerful, More Efficient Particle Accelerators | `atap.lbl.gov` | Web | [LBNL ATAP News: AI for Smarter, More Powerful, More Efficient Particle Accelerators](https://atap.lbl.gov/news/ai-for-smarter-more-powerful-more-efficient-particle-accelerators) | `Processed` |

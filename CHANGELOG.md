@@ -5,6 +5,17 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.13.4] - 2026-09-01
+
+### Added
+- **Reference Index Entry (`references.md`)**: Registered the LBNL ATAP news feature [*AI for Smarter, More Powerful, More Efficient Particle Accelerators*](https://atap.lbl.gov/news/ai-for-smarter-more-powerful-more-efficient-particle-accelerators) (`atap.lbl.gov`) under *National Labs & University Coverage → Berkeley Lab (LBNL)*, directly beneath the existing ATAP Genesis Mission features.
+- **MOAT Accelerator AI Enrichment (§3.2, README.md & README.de.md)**: Added a *MOAT Accelerator AI Toolkit* bullet to the **Lawrence Berkeley National Laboratory** profile documenting the ATAP-led **Multi-Office Particle Accelerator Team (MOAT)** as one of three Genesis model teams with Berkeley Lab leadership, its **digital twins**, **intelligent operator assistants** and continuously learning accelerator-physics models trained on pooled DOE experiment and simulation data, the deliberately **facility-agnostic** design enabling transfer across labs, universities and industry, the AI *Accelerator Assistant* already deployed at the **Advanced Light Source (ALS)**, MOAT lead **Jean-Luc Vay** (head of the ATAP Advanced Modeling Program) and target domains (fundamental physics, fission and fusion energy, advanced materials, advanced medical technologies), plus the linkage into the Genesis Mission **Transformational AI Models Consortium (ModCon)**.
+
+### Changed
+- **Master Index Sync (`reference_coverage.md`)**: Registered the new `atap.lbl.gov` link in the Master Reference Link Index with status `Processed`. Updated Section 1 metrics (Total Reference Links **641 → 642**, Web Portals & Press Releases **618 → 619**, Processing Status **642 / 642 Processed, 100% Complete**) and the Section 2 distribution table (`5. National Labs & University Coverage` **328 → 329**, share held at 51.2%; recalculated share for Section 4, 28.4% → 28.3%).
+- **Coverage Tracker (`coverage.md`)**: Extended the **Lawrence Berkeley National Laboratory (LBNL)** profile description with the ATAP-led MOAT accelerator digital twins and AI operator assistants; no new entities were introduced, so all summary metrics remain unchanged.
+- **Version Bump**: Incremented the version string to `3.13.4` across `README.md` and `README.de.md`.
+
 ## [3.13.3] - 2026-09-01
 
 ### Added

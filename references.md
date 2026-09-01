@@ -355,6 +355,7 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
   * [ATAP Multi-Office Accelerator Team Using AI](https://atap.lbl.gov/news/the-multi-office-particle-accelerator-team-using-ai-to-enhance-the-capabilities-of-current-and-future-particle-accelerators/)
   * [LBNL ATAP News: Fermilab Researchers Develop AI Tools to Advance the Future of Particle Accelerators](https://atap.lbl.gov/news/fermilab-researchers-develop-ai-tools-to-advance-the-future-of-particle-accelerators/)
   * [LBNL ATAP News: Harnessing AI for Particle Accelerator Innovation: ATAP's Role in the DOE's AI Genesis Mission](https://atap.lbl.gov/news/harnessing-ai-for-particle-accelerator-innovation-ataps-role-in-the-does-ai-genesis-mission/)
+  * [LBNL ATAP News: AI for Smarter, More Powerful, More Efficient Particle Accelerators](https://atap.lbl.gov/news/ai-for-smarter-more-powerful-more-efficient-particle-accelerators)
   * [Takes Major Step Toward Doudna with Delivery of Early Access System, Cech](https://newscenter.lbl.gov/2026/03/17/berkeley-lab-takes-major-step-toward-doudna-with-delivery-of-early-access-system-cech/)
   * [Connecting Data, Computing, and AI for Scientific Discovery](https://newscenter.lbl.gov/2026/08/05/connecting-data-computing-and-ai-for-scientific-discovery/)
   * [How the Genesis Mission's American Science Cloud Advances Innovation](https://newscenter.lbl.gov/2026/07/15/how-the-genesis-missions-american-science-cloud-advances-innovation/)

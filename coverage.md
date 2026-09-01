@@ -174,7 +174,7 @@
 | [Fermi National Accelerator Laboratory (Fermilab)](https://www.fnal.gov/) | ✅ Full Profile | §3.2, A.2 | SQMS quantum center lead, SRF 3D cavity qubits & xLight EUV lithography FEL CRADA partner |
 | [Idaho National Laboratory (INL)](https://inl.gov/) | ✅ Full Profile | §2.3D, §3.1, §3.2, A.2 | Nuclear energy AI, small modular reactor (SMR) digital twins, AWS cloud HPC & autonomous reactor control |
 | [Kansas City National Security Campus (KCNSC)](https://kcnsc.doe.gov/) | ✅ Full Profile | §3.2, A.4 | NNSA microelectronics manufacturing, AI quality assurance & stockpile component digital twins |
-| [Lawrence Berkeley National Laboratory (LBNL)](https://www.lbl.gov/) | ✅ Full Profile | §2.1, §3.2, A.2 | 13 flagship AI projects lead, ModCon platform, NERSC supercomputing & Materials Project AI integration |
+| [Lawrence Berkeley National Laboratory (LBNL)](https://www.lbl.gov/) | ✅ Full Profile | §2.1, §3.2, A.2 | 13 flagship AI projects lead, ModCon platform, NERSC supercomputing, Materials Project AI integration & ATAP-led MOAT accelerator digital twins / AI operator assistants |
 | [Lawrence Livermore National Laboratory (LLNL)](https://www.llnl.gov/) | ✅ Full Profile | §3.1, §3.2, A.2 | NIF laser fusion AI (10 project awards), Rigetti fusion quantum simulation & MSFT biosecurity models |
 | [Los Alamos National Laboratory (LANL)](https://www.lanl.gov/) | ✅ Full Profile | §3.2, A.2 | Stockpile stewardship weapons hydrodynamics (7 projects), plutonium aging physics & biosecurity robotics |
 | [National Energy Technology Laboratory (NETL)](https://www.netl.doe.gov/) | ✅ Full Profile | §2.3D, §3.2, A.2 | Power grid instability AI, carbon capture optimization & Ramaco coal-to-graphite synthetic materials |
