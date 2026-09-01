@@ -1,7 +1,7 @@
 # Genesis Mission — Master Reference Coverage Report
 
 > **Document Overview:**
-> This report provides a comprehensive coverage analysis, breakdown, and master audit index for the **627 external reference links** compiled within `references.md` for the **Genesis Mission** documentation repository.
+> This report provides a comprehensive coverage analysis, breakdown, and master audit index for the **628 external reference links** compiled within `references.md` for the **Genesis Mission** documentation repository.
 
 ---
 
@@ -9,13 +9,13 @@
 
 | Metric | Count / Value | Description |
 | :--- | :--- | :--- |
-| **Total Reference Links** | **627** | Unique external links indexed across all sections |
+| **Total Reference Links** | **628** | Unique external links indexed across all sections |
 | **Primary Document Sections** | **7** | High-level thematic categories in `references.md` |
 | **Unique Target Domains** | **302** | Distinct domain names referenced (government, lab, corporate, academic, news) |
 | **Official PDF Documents** | **22** | Formal RFA solicitations, webinars, slides, and executive reports |
-| **Web Portals & Press Releases** | **605** | Newsroom features, corporate blog posts, and interactive hubs |
+| **Web Portals & Press Releases** | **606** | Newsroom features, corporate blog posts, and interactive hubs |
 | **Validation Status** | **100% Validated** | All links canonicalized, formatted, and deduplicated |
-| **Processing Status** | **627 / 627 Processed** | 0 Unprocessed, 627 Processed (100% Complete) |
+| **Processing Status** | **628 / 628 Processed** | 0 Unprocessed, 628 Processed (100% Complete) |
 
 ---
 
@@ -24,10 +24,10 @@
 | Section Header | Link Count | Share (%) | Primary Focus Area |
 |:---|:---:|:---:|:---|
 | `1. Key Presentation Details` | **3** | 0.5% | Briefing agendas, U.S. ATLAS IB meeting details & CERN links |
-| `2. Collaborators` | **80** | 12.8% | Official homepage & announcement links for industrial/energy partners |
+| `2. Collaborators` | **80** | 12.7% | Official homepage & announcement links for industrial/energy partners |
 | `3. Quantum Leadership & CHIPS Act Initiatives` | **11** | 1.8% | Department of Commerce NIST LOIs & DOE $2B quantum initiatives |
-| `4. Executive, Federal & Partner Announcements` | **173** | 27.6% | White House releases, Cabinet agency press, hyperscaler & lab announcements |
-| `5. National Labs & University Coverage` | **323** | 51.5% | National Laboratory news portals & 72 awardee university press releases |
+| `4. Executive, Federal & Partner Announcements` | **174** | 27.7% | White House releases, Cabinet agency press, hyperscaler & lab announcements |
+| `5. National Labs & University Coverage` | **323** | 51.4% | National Laboratory news portals & 72 awardee university press releases |
 | `6. Additional Event Materials & Reference Links` | **18** | 2.9% | Presentation slide decks, institutional intro files & video recordings |
 | `7. Technical Documents, RFA Guidance & Official Webinars` | **19** | 3.0% | DE-FOA-0003612 solicitations, OSTP challenge papers, SCAC presentations & peer-reviewed AI-for-science research |
 
@@ -130,6 +130,7 @@ Below is the distribution of references grouped by top domain hosts and institut
 | `news.stonybrook.edu` | **4** | University Newsroom | Stony Brook University coverage of Genesis Mission AI for Science awards, the 89-proposal institutional mobilization, and the 13-mile free-space optical wireless quantum network link with Brookhaven National Laboratory |
 | `www.nlr.gov` | **3** | National Renewable Energy Laboratory (NREL/NLR) | Computational Science Genesis Mission Hub, AI-driven grid and supply-chain research feature, and the Steve Hammond Q&A on AI data center energy, liquid cooling, and grid-flexibility solutions |
 | `exozymes.com` | **2** | eXoZymes | Cell-free enzymatic biomanufacturing company homepage and its Genesis Mission selection announcement for AI-powered digital twins developed with Lawrence Berkeley National Laboratory (LBNL) |
+| `sambanova.ai` | **3** | SambaNova Systems | Corporate homepage, AI-for-Science Reconfigurable Dataflow Architecture solutions page, and the Genesis Mission Consortium membership announcement |
 | `www.deepisolation.com` | **1** | Deep Isolation Nuclear, Inc. | Press release on selection as sole industrial partner for three Genesis Mission awards advancing AI-driven deep borehole nuclear waste repository siting, design, and performance analysis (LBNL & University of South Carolina led) |
 
 ---
@@ -768,3 +769,4 @@ A tabular master index for the 609-reference collection:
 | 2. Collaborators | - | eXoZymes | `exozymes.com` | Web | [eXoZymes](https://exozymes.com/) | `Processed` |
 | 2. Collaborators | eXoZymes | eXoZymes Selected for DoE's Genesis Mission to Advance AI-Powered Digital Twins for Cell-Free Biomanufacturing | `exozymes.com` | Web | [eXoZymes Selected for DoE's Genesis Mission to Advance AI-Powered Digital Twins for Cell-Free Biomanufacturing](https://exozymes.com/blog/genesis-mission-2026) | `Processed` |
 | 2. Collaborators | Deep Isolation | Nuclear Innovator Deep Isolation Selected by DOE for Three Project Genesis Initiatives Advancing AI-Driven Nuclear Waste Research | `www.deepisolation.com` | Web | [Nuclear Innovator Deep Isolation Selected by DOE for Three Project Genesis Initiatives Advancing AI-Driven Nuclear Waste Research](https://www.deepisolation.com/press/nuclear-innovator-deep-isolation-selected-by-doe-for-three-project-genesis-initiatives-advancing-ai-driven-nuclear-waste-research) | `Processed` |
+| 4. Executive, Federal & Partner Announcements | SambaNova Systems | SambaNova Joins the DOE Genesis Mission Consortium | `sambanova.ai` | Web | [SambaNova Joins the DOE Genesis Mission Consortium](https://sambanova.ai/blog/sambanova-joins-the-genesis-mission-consortium) | `Processed` |
