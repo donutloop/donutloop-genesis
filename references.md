@@ -89,6 +89,7 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
 * [Tennessee Valley Authority](https://www.tva.com/)
 * [xLight](https://xlight.ai/): [xLight — About Us](https://www.xlight.com/about)
 * [Radiant (Radiant Industries, Inc.)](https://www.radiantnuclear.com/)
+* [Valar Atomics](https://valaratomics.com/)
 
 ---
 
@@ -340,6 +341,8 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
 * [Radiant](https://www.radiantnuclear.com/): [Radiant Completes Study for First Kaleidos Microreactor Experiment](https://www.energy.gov/ne/articles/radiant-completes-study-first-kaleidos-microreactor-experiment) - DOE Office of Nuclear Energy account of Radiant's readiness study for the first reactor experiment ever conducted in the **DOME** microreactor test bed at Idaho National Laboratory, covering the **Kaleidos** transportable high-temperature gas-cooled microreactor, its HALEU TRISO fuel load, and the phased zero-power-to-full-power demonstration campaign opened under the Reactor Pilot Program.
 * [Radiant: Radiant Closes $165 Million Series C](https://www.radiantnuclear.com/news/series-c-close) - Corporate funding announcement (DCVC-led, ~$225 million raised to date) financing completion of the Kaleidos Development Unit and siting of a serial-production microreactor factory targeting up to 50 units per year with customer deliveries from 2028.
 * [Radiant: First Reactor in DOME](https://www.radiantnuclear.com/news/first-reactor-in-dome) - First-party announcement of Radiant's selection to deploy the first reactor tested in Idaho National Laboratory's DOME test bed, describing the ~1.2 MWe / ~3.5 MWt helium-cooled Kaleidos design, its shipping-container form factor, five-year refueling interval and 20-year service life.
+* [Valar Atomics](https://valaratomics.com/): [Department of Energy Celebrates Second Advanced Reactor Achieving Criticality](https://www.energy.gov/articles/department-energy-celebrates-second-advanced-reactor-achieving-criticality) - DOE announcement of the **Ward 250** zero-power criticality on **June 18, 2026** at the San Rafael Energy Research Center in Emery County, Utah — the second DOE-authorized advanced reactor to reach criticality under the **Reactor Pilot Program** and the first at a non-federal site.
+* [Valar Atomics: Announcing our $1B Series B Led by Sequoia](https://www.valaratomics.com/docs/Announcing-our-1B-Series-B-Led-By-Sequoia) - First-party financing announcement (August 2026) of the $1 Billion Series B led by Sequoia Capital plus a $200 Million credit facility, funding serial manufacturing of the helium-cooled, TRISO-fuelled **Ward** microreactor line for industrial heat and AI data-center loads.
   
 ---
 
