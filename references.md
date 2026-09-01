@@ -333,6 +333,9 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
 * [WarpX Documentation: Exascale Electromagnetic Particle-in-Cell Code (LBNL, AMReX)](https://warpx.readthedocs.io/en/latest/index.html)
 * [LLNL: Engineers Make Improvements to Lab-Developed Design Optimization Code (LiDO)](https://www.llnl.gov/article/49461/llnl-engineers-make-improvements-lab-developed-design-optimization-code)
 * [Adamantine: Open-Source Thermomechanical Additive Manufacturing Simulation Code (ORNL)](https://github.com/adamantine-sim/adamantine)
+* [Cornelis Networks](https://www.cornelisnetworks.com/): [Cornelis Announces Deployment of "Lynx" Supercomputer at Lawrence Livermore National Laboratory](https://www.cornelis.com/stories/cornelis-announces-deployment-of-lynx-supercomputer-at-lawrence-livermore-national-laboratory) - Deployment announcement for the NNSA **Lynx** cluster at LLNL — 952 Dell PowerEdge nodes networked end-to-end with the CN5000 Omni-Path 400 Gbps fabric under the Commodity Technology Systems (CTS-2) line, supporting Advanced Simulation and Computing (ASC) AI and simulation workloads, with the fabric itself co-developed with the NNSA under the Next-Generation High Performance Computing Network (NG-HPCN) project.
+* [Cornelis Networks: CN5000 Omni-Path Switch — 48 × 400 Gbps, Air- and Liquid-Cooled](https://www.cornelis.com/product/cornelis-cn5000-omni-path-switch)
+* [HPCwire: Cornelis CN5000 Network Powers New Lynx Supercomputer at LLNL](https://www.hpcwire.com/off-the-wire/cornelis-cn5000-network-powers-new-lynx-supercomputer-at-llnl/)
   
 ---
 
