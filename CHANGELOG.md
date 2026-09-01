@@ -5,6 +5,17 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.18.0] - 2026-09-01
+
+### Added
+- **Entity Profile (Valar Atomics — §3.1 & A.3, README.md & README.de.md)**: Expanded **Valar Atomics** from a reference-only listing to a dedicated profile under `### 3.1 Industry, Hyperscale & Hardware Commitments → C. Industrial Technology, Energy, Materials & Infrastructure Partners`, structured into technical sub-bullets covering: the **Ward 250** test reactor as the **second DOE-authorized advanced reactor to achieve criticality** under the **Reactor Pilot Program** (**June 18, 2026**) and the first such milestone at a non-federal, state-hosted site; the company background (founded 2023 by CEO **Isaiah Taylor**, El Segundo, California), its selection for both the **Reactor Pilot Program** and the companion **Fuel Line Pilot Program** for domestic **HALEU TRISO** fabrication, and the **$130 Million Series A** (November 2025) plus the **$1 Billion Series B** led by **Sequoia Capital** (August 2026, reported **$6 Billion** valuation) with a **$200 Million** credit facility financing serial reactor manufacturing; the **Ward** high-temperature gas-cooled reactor line (helium-cooled, graphite-moderated, HALEU TRISO particle fuel, outlet temperatures approaching **900 °C**, passive decay-heat removal, ~100 kWt **Ward One** test article, transportable **Ward 250** demonstrator airlifted to the **San Rafael Energy Research Center** in Emery County, Utah, ~**5 MW**-class commercial units arrayed into multi-reactor *gigasites*); and a *Mission Domains* sub-bullet recording the first public demonstration of an advanced reactor powering an **NVIDIA DGX Spark** Blackwell system in real time, the joint **30 MW near-waterless AI factory** study with **NVIDIA**, and the contribution of non-laboratory criticality, instrumentation and operating datasets to the DOE reactor demonstration and licensing corpus alongside firm, water-independent generation co-sited with AI compute.
+
+### Changed
+- **Coverage Tracker (`coverage.md`)**: Upgraded **Valar Atomics** from `❌ Not Covered` to `✅ Full Profile`, set its `Process Count` to **1**, its `Paper Section` to `§3.1, A.3`, and replaced its notes with the Ward reactor specifications, the June 2026 criticality milestone, the Fuel Line Pilot Program fuel scope, the Series A/Series B financing and the NVIDIA AI factory collaboration. Recalculated the summary metrics: Industry Partners **87 → 88** full / **6 → 5** not covered, totals **199 → 200** full profiles and **39 → 38** not covered, coverage level **83.6% → 84.0%** (**16.4% → 16.0%** not covered), with the closing note updated accordingly.
+- **Appendix A.3 (`README.md` & `README.de.md`)**: Added a **Valar Atomics** row to the *Energy, Utilities & Critical Materials* tables in both editions.
+- **References (`references.md`)**: Retained all existing entries and appended the DOE *Department of Energy Celebrates Second Advanced Reactor Achieving Criticality* announcement and the first-party *Announcing our $1B Series B Led by Sequoia* release, plus a Valar Atomics entry under `## 2. Collaborators`.
+- **Version Bump**: Incremented the version string to `3.18.0` across `README.md` and `README.de.md`.
+
 ## [3.17.0] - 2026-09-01
 
 ### Added
