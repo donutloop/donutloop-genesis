@@ -187,6 +187,8 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
 * [X-energy: Joins Project Prometheus for AI-Accelerated Advanced Nuclear Deployment](https://x-energy.com/news/x-energy-joins-project-prometheus-for-ai-accelerated-advanced-nuclear-deployment/)
 * [OpenAI: Advancing the Next Era of National Science](https://openai.com/index/advancing-the-next-era-of-national-science/)
 * [Oracle: Collaboration with US DOE to Accelerate AI Initiatives](https://www.oracle.com/news/announcement/oracle-and-the-us-department-of-energy-collaborate-to-accelerate-ai-initiatives-2025-12-18/)
+* [DOE: Energy Department Announces New Partnership with NVIDIA and Oracle to Build Largest DOE AI Supercomputer](https://www.energy.gov/articles/energy-department-announces-new-partnership-nvidia-and-oracle-build-largest-doe-ai)
+* [ALCF: Argonne Expands the Nation's AI Infrastructure with Powerful New Supercomputers and Public-Private Partnership](https://www.alcf.anl.gov/news/argonne-expands-nation-s-ai-infrastructure-powerful-new-supercomputers-and-public-private)
 * [AWS: Powering America's Genesis Mission from Day One](https://aws.amazon.com/blogs/publicsector/aws-powering-americas-genesis-mission-from-day-one/)
 * [AWS: $100 Million in Federal Credits for National Security & Scientific Missions](https://aws.amazon.com/blogs/publicsector/aws-announces-up-to-100-million-in-federal-credits-to-accelerate-innovation-for-national-security-and-scientific-missions/)
 * [AWS: Helping Federal Agencies Lead in Quantum Computing and Post-Quantum Security](https://aws.amazon.com/blogs/publicsector/how-aws-is-helping-federal-agencies-lead-in-quantum-computing-and-post-quantum-security/)
