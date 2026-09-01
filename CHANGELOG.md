@@ -5,6 +5,18 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.10.4] - 2026-09-01
+
+### Added
+- **Company Profile — PrimaLabs (§3.1 A, README.md & README.de.md)**: Added a dedicated *PrimaLabs* entry under *Industry, Hyperscale & Hardware Commitments — Frontier AI, Cloud & Hyperscale Computing* in both flagship papers, structured into *Grants & Commitments* (joins **NVIDIA** and the DOE national laboratories **Savannah River National Laboratory (SRNL)**, **Oak Ridge National Laboratory (ORNL)** and **Pacific Northwest National Laboratory (PNNL)** as an AI performance engineering partner within the Genesis Mission consortium, with initial emphasis on GPU-accelerated inference for environmental remediation, waste management and discovery science workloads), *Technical Capabilities* (**dedicated single-tenant GPU inference clusters** for open-weight models with deterministic throughput and latency, sovereign data handling, and an AI performance engineering practice spanning **CUDA kernel-level optimization**, **quantization**, **speculative decoding**, **continuous batching** and **distributed multi-GPU inference**), and *AI & Digital Twin Platforms* (production-grade serving infrastructure for open scientific foundation models supporting long-context agentic inference pipelines feeding digital twin, sensor-analytics and closed-loop experimental workflows).
+- **Appendix A.3 Registration**: Added a *PrimaLabs* row to the *Cloud, AI & Compute Infrastructure* partner table in Appendix A.3 of both `README.md` and `README.de.md`.
+- **Reference Index Entry (`references.md`)**: Registered *PrimaLabs* announcement [*PrimaLabs Joins NVIDIA & DOE Genesis Mission*](https://www.primalabs.ai/blog/primalabs-joins-nvidia-genesis-mission) (`www.primalabs.ai`) under *Executive, Federal & Partner Announcements*.
+
+### Changed
+- **Master Index Sync (`reference_coverage.md`)**: Registered the new `www.primalabs.ai` link in the Master Reference Link Index with status `Processed` and added a `www.primalabs.ai` domain row (1 link). Updated Section 1 metrics (Total Reference Links **628 → 629**, Unique Target Domains **302 → 303**, Web Portals & Press Releases **606 → 607**, Processing Status **629 / 629 Processed, 100% Complete**) and the Section 2 distribution table (`4. Executive, Federal & Partner Announcements` **174 → 175**, share 27.7% → 27.8%; recalculated share for Section 3).
+- **Coverage Tracker (`coverage.md`)**: Added **PrimaLabs** as `✅ Full Profile` (`§3.1, A.3`) under *Cloud, AI & Compute Infrastructure*. Recalculated summary metrics: Industry Partners (90 → 91 total, 83 → 84 full), overall totals (231 → 232 entities, 195 → 196 full), coverage level shares (✅ 84.4% → 84.5%, ❌ 15.6% → 15.5%) and the scope header coverage status (**195 / 231** → **196 / 232**, 84.5%).
+- **Version Bump**: Incremented the version string to `3.10.4` across `README.md` and `README.de.md`.
+
 ## [3.10.3] - 2026-09-01
 
 ### Added
