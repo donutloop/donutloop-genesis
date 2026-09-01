@@ -5,6 +5,15 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.13.30] - 2026-09-01
+
+### Changed
+- **Entity Reprocessing (Association of American Universities (AAU) — §3.4 & A.1, README.md & README.de.md)**: Reprocessed the **AAU** policy-body profile and added a dedicated entry under `### 3.4 Federal Agencies & Policy Bodies` structured into technical sub-bullets covering: the **DOE RFI response on mobilizing academic scientific talent** (integration of campus research infrastructure into the **American Science and Security Platform**, interdisciplinary **AI-for-science graduate fellowships**, streamlined **CRADA/IP technology transfer** between national laboratories and universities, secure graduate-student access to sovereign HPC/quantum resources on the **American Science Cloud (AmSC)**, and hardened academic workforce pipelines across the **71** member research universities); the **first Genesis Awards participation analysis** (**168 of the initial 278** projects university-led, **142** participating universities, Carnegie Mellon's three projects and Stony Brook's six awards across autonomous laboratories, critical-minerals discovery, astronomy data infrastructure, nuclear energy, intelligent chip design and commercial fusion); the **AAU–DOE partnership kickoff** positioning research universities as operational partners coupling research and STEM workforce development to federal AI, HPC, quantum and scientific-instrument infrastructure; and the **Energy Sciences Coalition (ESC) FY27** recommendation of **$9.5 Billion for the DOE Office of Science** sustaining the Genesis Mission, a Fusion Science and Technology Roadmap, renewal of the DOE **National Quantum Information Science Research Centers** toward utility-scale quantum computers by **2028**, and expanded HPC, microelectronics, plasma science and biotechnology research.
+- **Coverage Tracker (`coverage.md`)**: Incremented the **AAU** `Process Count` from **0** to **1**, expanded its `Paper Section` to `§1.1, §3.4, §4.2, A.1`, and refreshed its notes with the RFI framework, the first-awards participation figures, the AAU–DOE partnership, and the ESC FY27 appropriation advocacy. The `Process Count` column was already present as the first column of every tracking table, so no schema migration was required; no entities were added or removed, leaving all summary metrics (238 total, 198 full profiles, 83.2%) unchanged.
+- **Appendix A.1 (`README.md` & `README.de.md`)**: Refreshed the AAU row to match the reprocessed scope.
+- **References (`references.md`)**: Verified integrity — the four existing AAU links (DOE RFI response, first Genesis Awards coverage, AAU–DOE partnership kickoff, ESC FY27 appropriation recommendation) were retained unchanged; no new sources were introduced.
+- **Version Bump**: Incremented the version string to `3.13.30` across `README.md` and `README.de.md`.
+
 ## [3.13.29] - 2026-09-01
 
 ### Changed
