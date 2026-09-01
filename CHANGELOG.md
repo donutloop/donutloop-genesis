@@ -5,6 +5,18 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.11.0] - 2026-09-01
+
+### Added
+- **Company Profile — Armada (§3.1 A, README.md & README.de.md)**: Added a dedicated *Armada* entry under *Industry, Hyperscale & Hardware Commitments — Frontier AI, Cloud & Hyperscale Computing* in both flagship papers, structured into *Grants & Commitments* (formal collaboration agreement with the **U.S. Department of Energy (DOE)** to accelerate the Genesis Mission, extending rapidly deployable GPU-rich compute to laboratory campuses, user facilities and remote field sites alongside the hyperscale commitments of **NVIDIA**, **Microsoft** and **OpenAI**), *Technical Capabilities* (the **Galleon** modular data center family — **Beacon**, **Cruiser**, **Triton**, **Leviathan** (1.77 MW) and the flagship **Orion** at **10 MW** with up to **2,880 GPUs across 40 racks**, greater-than-N+1 power/cooling redundancy, dual liquid/air cooling at a PUE as low as **~1.1**, NVIDIA **Blackwell** and **Vera Rubin** readiness, and delivery in weeks-to-months rather than years), and *AI & Digital Twin Platforms* (the **Armada Edge Platform / Commander** for multi-site fleet management, remote observability, containerized AI deployment, integrated Starlink connectivity, model marketplace and NVIDIA token-factory enablement, and GPU-as-a-Service for edge-sited digital twin and closed-loop experimental workflows).
+- **Appendix A.3 Registration**: Added an *Armada* row to the *Cloud, AI & Compute Infrastructure* partner table in Appendix A.3 of both `README.md` and `README.de.md`.
+- **Reference Index Entry (`references.md`)**: Registered the *Armada* announcement [*Armada Agreement with the U.S. Department of Energy to Accelerate the Genesis Mission*](https://www.armada.ai/blog/genesis-mission) (`www.armada.ai`) under *Executive, Federal & Partner Announcements*.
+
+### Changed
+- **Master Index Sync (`reference_coverage.md`)**: Registered the new `www.armada.ai` link in the Master Reference Link Index with status `Processed` and added a `www.armada.ai` domain row (1 link). Updated Section 1 metrics (Total Reference Links **629 → 630**, Unique Target Domains **303 → 304**, Web Portals & Press Releases **607 → 608**, Processing Status **630 / 630 Processed, 100% Complete**) and the Section 2 distribution table (`4. Executive, Federal & Partner Announcements` **175 → 176**, share 27.8% → 27.9%; recalculated share for Section 5).
+- **Coverage Tracker (`coverage.md`)**: Added **Armada** as `✅ Full Profile` (`§3.1, A.3`) under *Cloud, AI & Compute Infrastructure*. Recalculated summary metrics: Industry Partners (91 → 92 total, 84 → 85 full), overall totals (232 → 233 entities, 196 → 197 full) and the scope header coverage status (**196 / 232** → **197 / 233**, 84.5%).
+- **Version Bump**: Incremented the version string to `3.11.0` across `README.md` and `README.de.md`.
+
 ## [3.10.4] - 2026-09-01
 
 ### Added
