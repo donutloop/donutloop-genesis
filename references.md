@@ -216,6 +216,8 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
 * [NERSC: Doudna System Overview](https://www.nersc.gov/what-we-do/resources/doudna-system)
 * [Dell Technologies: NERSC Customer Story — Redefining Scientific Discovery with AI Supercomputing](https://www.dell.com/en-us/lp/customer-stories-nersc)
 * [SambaNova Systems: Reconfigurable Dataflow Architecture and AI for Science Infrastructure](https://sambanova.ai/solutions/ai-for-science)
+* [ALCF: AI Testbed — SambaNova SN40L (Metis) and Accelerator System Specifications](https://www.alcf.anl.gov/alcf-ai-testbed)
+* [ALCF User Guides: SN40L Inference Service System Overview and OpenAI-Compatible Endpoints](https://docs.alcf.anl.gov/ai-testbed/sn40l_inference/)
 * [NVIDIA: Partnering with U.S. Government to Boost AI Infrastructure & R&D](https://blogs.nvidia.com/blog/nvidia-us-government-to-boost-ai-infrastructure-and-rd-investments/)
 * [Department of the Interior: Highlights Scientific Leadership Supporting the Genesis Mission](https://www.doi.gov/pressreleases/interior-highlights-scientific-leadership-supporting-genesis-mission)
 * [GlobalFoundries: Joins U.S. DOE's Genesis Mission as Industry Partner](https://gf.com/news-and-events/news/globalfoundries-joins-us-department-of-energys-genesis-mission-as-industry-partner/)
