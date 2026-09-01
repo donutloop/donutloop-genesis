@@ -1,7 +1,7 @@
 # Genesis Mission — Master Reference Coverage Report
 
 > **Document Overview:**
-> This report provides a comprehensive coverage analysis, breakdown, and master audit index for the **624 external reference links** compiled within `references.md` for the **Genesis Mission** documentation repository.
+> This report provides a comprehensive coverage analysis, breakdown, and master audit index for the **626 external reference links** compiled within `references.md` for the **Genesis Mission** documentation repository.
 
 ---
 
@@ -9,13 +9,13 @@
 
 | Metric | Count / Value | Description |
 | :--- | :--- | :--- |
-| **Total Reference Links** | **624** | Unique external links indexed across all sections |
+| **Total Reference Links** | **626** | Unique external links indexed across all sections |
 | **Primary Document Sections** | **7** | High-level thematic categories in `references.md` |
-| **Unique Target Domains** | **300** | Distinct domain names referenced (government, lab, corporate, academic, news) |
+| **Unique Target Domains** | **301** | Distinct domain names referenced (government, lab, corporate, academic, news) |
 | **Official PDF Documents** | **22** | Formal RFA solicitations, webinars, slides, and executive reports |
-| **Web Portals & Press Releases** | **602** | Newsroom features, corporate blog posts, and interactive hubs |
+| **Web Portals & Press Releases** | **604** | Newsroom features, corporate blog posts, and interactive hubs |
 | **Validation Status** | **100% Validated** | All links canonicalized, formatted, and deduplicated |
-| **Processing Status** | **624 / 624 Processed** | 0 Unprocessed, 624 Processed (100% Complete) |
+| **Processing Status** | **626 / 626 Processed** | 0 Unprocessed, 626 Processed (100% Complete) |
 
 ---
 
@@ -24,10 +24,10 @@
 | Section Header | Link Count | Share (%) | Primary Focus Area |
 |:---|:---:|:---:|:---|
 | `1. Key Presentation Details` | **3** | 0.5% | Briefing agendas, U.S. ATLAS IB meeting details & CERN links |
-| `2. Collaborators` | **77** | 12.3% | Official homepage & announcement links for industrial/energy partners |
+| `2. Collaborators` | **79** | 12.6% | Official homepage & announcement links for industrial/energy partners |
 | `3. Quantum Leadership & CHIPS Act Initiatives` | **11** | 1.8% | Department of Commerce NIST LOIs & DOE $2B quantum initiatives |
-| `4. Executive, Federal & Partner Announcements` | **173** | 27.7% | White House releases, Cabinet agency press, hyperscaler & lab announcements |
-| `5. National Labs & University Coverage` | **323** | 51.8% | National Laboratory news portals & 72 awardee university press releases |
+| `4. Executive, Federal & Partner Announcements` | **173** | 27.6% | White House releases, Cabinet agency press, hyperscaler & lab announcements |
+| `5. National Labs & University Coverage` | **323** | 51.6% | National Laboratory news portals & 72 awardee university press releases |
 | `6. Additional Event Materials & Reference Links` | **18** | 2.9% | Presentation slide decks, institutional intro files & video recordings |
 | `7. Technical Documents, RFA Guidance & Official Webinars` | **19** | 3.0% | DE-FOA-0003612 solicitations, OSTP challenge papers, SCAC presentations & peer-reviewed AI-for-science research |
 
@@ -129,6 +129,7 @@ Below is the distribution of references grouped by top domain hosts and institut
 | `news.wm.edu` | **1** | University Newsroom | William & Mary coverage of a Phase I Genesis Mission award for multi-detector AI foundation models in particle and nuclear physics (PI Cristiano Fanelli, with Jefferson Lab, Brookhaven and SLAC) |
 | `news.stonybrook.edu` | **4** | University Newsroom | Stony Brook University coverage of Genesis Mission AI for Science awards, the 89-proposal institutional mobilization, and the 13-mile free-space optical wireless quantum network link with Brookhaven National Laboratory |
 | `www.nlr.gov` | **3** | National Renewable Energy Laboratory (NREL/NLR) | Computational Science Genesis Mission Hub, AI-driven grid and supply-chain research feature, and the Steve Hammond Q&A on AI data center energy, liquid cooling, and grid-flexibility solutions |
+| `exozymes.com` | **2** | eXoZymes | Cell-free enzymatic biomanufacturing company homepage and its Genesis Mission selection announcement for AI-powered digital twins developed with Lawrence Berkeley National Laboratory (LBNL) |
 
 ---
 
@@ -763,3 +764,5 @@ A tabular master index for the 609-reference collection:
 | 5. National Labs & University Coverage | Columbia University — Department of Electrical Engineering | Tanvir Ahmed Khan Awarded Genesis Mission Funding | `www.ee.columbia.edu` | Web | [Tanvir Ahmed Khan Awarded Genesis Mission Funding](https://www.ee.columbia.edu/news/tanvir-ahmed-khan-awarded-genesis-mission-funding) | `Processed` |
 | 5. National Labs & University Coverage | National Renewable Energy Laboratory (NREL/NLR) | Q&A With Steve Hammond: AI Data Center Challenges and NLR Solutions | `www.nlr.gov` | Web | [Q&A With Steve Hammond: AI Data Center Challenges and NLR Solutions](https://www.nlr.gov/news/detail/program/2026/q-a-with-steve-hammond-ai-data-center-challenges-and-nlr-solutions) | `Processed` |
 | 5. National Labs & University Coverage | Pacific Northwest National Laboratory (PNNL) | New Life for Used Nuclear Fuel | `www.pnnl.gov` | Web | [New Life for Used Nuclear Fuel](https://www.pnnl.gov/news-media/new-life-used-nuclear-fuel) | `Processed` |
+| 2. Collaborators | - | eXoZymes | `exozymes.com` | Web | [eXoZymes](https://exozymes.com/) | `Processed` |
+| 2. Collaborators | eXoZymes | eXoZymes Selected for DoE's Genesis Mission to Advance AI-Powered Digital Twins for Cell-Free Biomanufacturing | `exozymes.com` | Web | [eXoZymes Selected for DoE's Genesis Mission to Advance AI-Powered Digital Twins for Cell-Free Biomanufacturing](https://exozymes.com/blog/genesis-mission-2026) | `Processed` |
