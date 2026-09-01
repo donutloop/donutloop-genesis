@@ -5,6 +5,18 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.13.1] - 2026-09-01
+
+### Added
+- **Reference Index Entry (`references.md`)**: Registered the UT Austin Oden Institute feature [*Oden Institute Faculty Selected for Four Projects in Department of Energy Genesis Mission*](https://oden.utexas.edu/news-and-events/news/Oden-Institute-Faculty-Selected-for-Department-of-Energy-Genesis-Mission/) (`oden.utexas.edu`) under *National Labs & University Coverage → Universities & Research Institutions*, nested beneath the existing **University of Texas at Austin** entry.
+- **Oden Institute Enrichment (§3.3, README.md & README.de.md)**: Added a dedicated **University of Texas at Austin (Oden Institute for Computational Engineering and Sciences)** profile documenting five faculty members leading roles across **four** Genesis Mission projects — rare earth minerals, fusion energy reactor digital twins, additive manufacturing and digital twins for efficient nuclear energy — announced at the Washington, D.C. summit on July 22, 2026. Details the flagship **Project Prometheus** engagement (largest Genesis award: **Phase II, $60M over three years**, INL-led with ORNL, ANL, SNL and 20+ industry partners including X-energy, TerraPower and Oklo), UT's eight-faculty contingent led by **Kevin Clarno** (Walker Department of Mechanical Engineering) with **Omar Ghattas** and **Karen Willcox**, and **George Biros**'s scientific AI contributions.
+
+### Changed
+- **Master Index Sync (`reference_coverage.md`)**: Registered the new `oden.utexas.edu` link in the Master Reference Link Index with status `Processed` and added an `oden.utexas.edu` domain row (1 link). Updated Section 1 metrics (Total Reference Links **638 → 639**, Unique Target Domains **310 → 311**, Web Portals & Press Releases **616 → 617**, Processing Status **639 / 639 Processed, 100% Complete**) and the Section 2 distribution table (`5. National Labs & University Coverage` **326 → 327**, share 51.1% → 51.2%; recalculated share for Section 4, 28.4% → 28.3%).
+- **Coverage Tracker (`coverage.md`)**: Extended the **University of Texas at Austin** profile description with the Oden Institute's four-project Genesis portfolio; no new entities were introduced, so all summary metrics remain unchanged.
+- **Appendix A.5 (`README.md` & `README.de.md`)**: Extended the University of Texas at Austin appendix row with the Oden Institute project focus areas.
+- **Version Bump**: Incremented the version string to `3.13.1` across `README.md` and `README.de.md`.
+
 ## [3.13.0] - 2026-09-01
 
 ### Added
