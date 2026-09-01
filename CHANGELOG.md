@@ -5,6 +5,15 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.23.1] - 2026-09-01
+
+### Removed
+- **Entity Listing (European Coalition for AI in Fundamental Physics — EuCAIF)**: Removed **EuCAIF** from the paper and the coverage tracker after verification showed no Genesis Mission involvement — the coalition appeared solely as the organizer of the conference (EuCAIFCon 2026) at which the BNL-led **TREASURE** project was presented, which is not a Genesis Mission participation link. The mention was dropped from the TREASURE bullet in `README.md` and `README.de.md` (the Heidelberg University host attribution and the EuCAIFCon 2026 reference are retained) and the reference-only row was deleted from the *Philanthropy, Non-Profit Foundations & Regional Hubs* table in `coverage.md`.
+
+### Changed
+- **Coverage Tracker (`coverage.md`)**: Recalculated the summary metrics after the removal: Philanthropy, Policy & Regional Hubs **17 → 16** total / **5 → 4** not covered, totals **238 → 237** entities and **33 → 32** not covered, coverage level **86.1% → 86.5%** (**13.9% → 13.5%** not covered), with the header scope line and the closing note updated accordingly.
+- **Version Bump**: Incremented the version string to `3.23.1` across `README.md` and `README.de.md`.
+
 ## [3.23.0] - 2026-09-01
 
 ### Added

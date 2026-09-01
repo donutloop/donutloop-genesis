@@ -1,9 +1,9 @@
 # Genesis Mission — Full Ecosystem Coverage Tracker
 
 > **Scope & Coverage Definition:**
-> - **Flagship Consortium Scope:** Tracks **all 238 primary flagship participants**—lead contractors, federal agencies, national laboratories, awardee universities, strategic industrial partners, and philanthropic foundations—explicitly profiled or referenced in the Genesis Mission paper (`README.md`) and reference index.
+> - **Flagship Consortium Scope:** Tracks **all 237 primary flagship participants**—lead contractors, federal agencies, national laboratories, awardee universities, strategic industrial partners, and philanthropic foundations—explicitly profiled or referenced in the Genesis Mission paper (`README.md`) and reference index.
 > - **Broader National Awardee Network Context:** Under solicitation DE-FOA-0003612 and interagency challenges, the broader national initiative encompasses **342 total participating institutions** (157 companies, 142 universities, 16 national labs, 13 non-profits, 14 other entities across 278 projects).
-> - **Coverage Status:** **205 / 238 (86.1%)** of the tracked consortium entities have dedicated, detailed technical profiles.
+> - **Coverage Status:** **205 / 237 (86.5%)** of the tracked consortium entities have dedicated, detailed technical profiles.
 
 **Legend:**
 - ✅ **Full Profile** — Dedicated section with detailed technical write-up (Sections 2.2 / 3.1 / 3.2 / 3.3 / 3.4 / 3.5)
@@ -302,7 +302,6 @@
 | 0 | [AI Tennessee Initiative](https://www.aitennessee.ai/) | ✅ Full Profile | §3.5, A.5 | Statewide AI research coordination (UT System / ORNL), Frontier exascale AI workforce & AgTech AI |
 | 0 | [Astera Institute](https://astera.org/) | ✅ Full Profile | §3.1, §3.4, A.4 | Non-profit open-science foundation, open AI model development & biosecurity governance |
 | 0 | [Cleveland Clinic](https://my.clevelandclinic.org/) | ✅ Full Profile | §2.3B, §3.1, §3.5, A.5 | ORNL–Cleveland Clinic–IBM FLiBe fusion quantum chemistry pipeline & biomedical AI discovery |
-| 0 | [European Coalition for AI in Fundamental Physics (EuCAIF)](https://eucaif.org/) | ❌ Not Covered | — | European coalition advancing AI applications in particle physics, cosmology, and astrophysics (reference only) |
 | 0 | [Foundation for Energy Security and Innovation (FESI)](https://fesi.org/) | ✅ Full Profile | §3.4, A.4 | DOE statutory non-profit foundation, public-private partnership acceleration & technology transfer |
 | 0 | [Illinois Quantum & Microelectronics Park (IQMP)](https://iqmp.org/) | ✅ Full Profile | §3.5, A.4 | Regional quantum co-design testbed, microelectronics campus & PsiQuantum QPU deployment site |
 | 0 | [Johns Hopkins University APL (JHU APL)](https://www.jhuapl.edu/) | ✅ Full Profile | §3.1, §3.5, A.5 | Autonomous self-driving materials synthesis labs (MSFT Discovery partner) & defense alloys |
@@ -337,16 +336,16 @@
 | Federal Agencies | 11 | 11 | 0 | 0 |
 | National Laboratories & Defense Sites | 26 | 23 | 0 | 3 |
 | Universities | 91 | 69 | 0 | 22 |
-| Philanthropy, Policy & Regional Hubs | 17 | 12 | 0 | 5 |
-| **Total** | **238** | **205** | **0** | **33** |
+| Philanthropy, Policy & Regional Hubs | 16 | 12 | 0 | 4 |
+| **Total** | **237** | **205** | **0** | **32** |
 
 ### By Coverage Level
 
 | Coverage Level | Count | Percentage |
 |:---|:---:|:---:|
-| ✅ Full Profile | 205 | 86.1% |
+| ✅ Full Profile | 205 | 86.5% |
 | 📋 Brief Mention | 0 | 0.0% |
-| ❌ Not Covered | 33 | 13.9% |
-| **Total Entities** | **238** | **100%** |
+| ❌ Not Covered | 32 | 13.5% |
+| **Total Entities** | **237** | **100%** |
 
-> **Note:** The tracker now covers 238 Genesis Mission ecosystem participants, with 205 entities in dedicated technical write-ups (86.1% full-profile coverage). George Washington University, Brown University, Heidelberg University, Howard University, European Coalition for AI in Fundamental Physics (EuCAIF), Colorado School of Mines, UC San Diego, University of Delaware, University of Hawaiʻi at Mānoa, University of Massachusetts Amherst, University of Washington, Boise State University, St. Joseph's University, New York, The Ohio State University, Kent State University, University of Maryland, ChipNexus, Southeastern Universities Research Association (SURA), ORISE, Energy Sciences Coalition (ESC), Krell Institute, La Sierra University, Clean Republic SODO, LLC, Molecular Foundry, Joint Genome Institute (JGI), EdenCode, University of Oklahoma (OU), North Carolina State University (NC State), William & Mary, the University of North Carolina at Chapel Hill (UNC-Chapel Hill), Washington University in St. Louis (WashU), Duke University, and the National Reactor Innovation Center (NRIC) remain registered as reference-only participants. The broader sub-grantee network of 342 participating institutions represents secondary academic and sub-contractor nodes across the 278 national project awards.
+> **Note:** The tracker now covers 237 Genesis Mission ecosystem participants, with 205 entities in dedicated technical write-ups (86.5% full-profile coverage). George Washington University, Brown University, Heidelberg University, Howard University, Colorado School of Mines, UC San Diego, University of Delaware, University of Hawaiʻi at Mānoa, University of Massachusetts Amherst, University of Washington, Boise State University, St. Joseph's University, New York, The Ohio State University, Kent State University, University of Maryland, ChipNexus, Southeastern Universities Research Association (SURA), ORISE, Energy Sciences Coalition (ESC), Krell Institute, La Sierra University, Clean Republic SODO, LLC, Molecular Foundry, Joint Genome Institute (JGI), EdenCode, University of Oklahoma (OU), North Carolina State University (NC State), William & Mary, the University of North Carolina at Chapel Hill (UNC-Chapel Hill), Washington University in St. Louis (WashU), Duke University, and the National Reactor Innovation Center (NRIC) remain registered as reference-only participants. The broader sub-grantee network of 342 participating institutions represents secondary academic and sub-contractor nodes across the 278 national project awards.
