@@ -43,7 +43,7 @@
 
 | Process Count | Company | Coverage | Paper Section | Notes |
 |---------------|---------|----------|---------------|-------|
-| 0 | [Anthropic](https://www.anthropic.com/) | ✅ Full Profile | §3.1, A.3 | Frontier LLM reasoning agents; Anthropic Science division; automated scientific workflows & agentic execution |
+| 1 | [Anthropic](https://www.anthropic.com/) | ✅ Full Profile | §3.1, A.3 | DOE-wide MOU & Genesis Mission Consortium founding partner; Claude 3.5/3.7 Sonnet & Anthropic Science models; MCP servers, Claude Skills & reviewer agents across all 17 National Labs; NNSA nuclear-risk classifiers; energy permitting, life sciences & exascale code refactoring |
 | 0 | [Arcee AI](https://arcee.ai/) | ✅ Full Profile | §3.1, A.3 | Genesis-Science-1 (GS1) open-weight scientific AI model family co-development, dataset curation & governed workbenches |
 | 0 | [Edison Scientific](https://www.edisonscientific.com/) | ✅ Full Profile | §3.1, A.3 | AI Co-Scientist foundation models, multi-agent reasoning & automated hypothesis generation |
 | 0 | [Everstar](https://www.everstar.ai/) | ✅ Full Profile | §3.1, A.3 | AI biopharma & multi-agent scientific discovery partner; protein design & MSFT Discovery integration |
