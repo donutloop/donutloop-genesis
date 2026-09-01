@@ -5,6 +5,18 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.13.8] - 2026-09-01
+
+### Added
+- **Process Count Schema (`coverage.md`)**: Introduced `Process Count` as the first column of all eleven entity tracking tables (Cloud/AI & Compute, Frontier AI & Data Platforms, Quantum Modalities, Semiconductor & EDA, Energy & Critical Materials, Laboratory Automation, Federal Agencies, National Laboratories & Defense Sites, Research Universities, Philanthropy & Regional Hubs, Scientific Publishing), baselined at `0` for all 237 tracked entities.
+- **NVIDIA Reprocessing (§3.1, README.md & README.de.md)**: Restructured the **NVIDIA** industry profile into dedicated sub-bullets — *MOUs, Grants & Commitments* (DOE-wide MOU, Solstice/Equinox co-investment with Oracle and ANL ALCF, Doudna/Cech accelerator substrate with Dell at NERSC, Project Prometheus industry cost-share, the DOE/MEXT/METI trilateral partnership with ANL, RIKEN and Fujitsu, NSF State and Regional AI Hubs plus NAIRR, and commercial partners PrimaLabs, Everstar and Diraq), *Technical Capabilities (Compute & Interconnect)* (Blackwell **GB200/GB300 NVL72** rack-scale systems with Grace CPUs and NVLink-coherent memory domains, the successor **Vera Rubin** platform, **Quantum-X800 InfiniBand**, **Spectrum-X Ethernet**, **BlueField-3 DPUs** and direct-to-chip liquid cooling), *Technical Capabilities (Quantum & Hybrid)* (**NVQLink** GPU–QPU interconnect for real-time error decoding and calibration, **CUDA-Q** and the **cuQuantum** SDK across superconducting, trapped-ion, neutral-atom, photonic and silicon spin-qubit modalities), *Technical Capabilities (Models & Digital Twins)* (**Apollo** open science models, **PhysicsNeMo**, **Omniverse**, **Earth-2**, **BioNeMo**, **ALCHEMI**, **NeMo**/**Dynamo**), and *Workforce & Regional Enablement*.
+
+### Changed
+- **Coverage Tracker (`coverage.md`)**: Incremented the **NVIDIA** `Process Count` to **1**, extended its `Paper Section` to `§1, §2.1, §3.1, A.3`, and refreshed its notes with the Solstice/Equinox GPU scale, Vera Rubin at NERSC, the NVQLink/CUDA-Q hybrid quantum stack, interconnect and cooling architecture, and the Apollo/PhysicsNeMo/Earth-2/BioNeMo/ALCHEMI model portfolio. No entities were added or removed, so all summary metrics (237 total, 198 full profiles, 83.5%) remain unchanged.
+- **Heterogeneous Compute Substrate (§2.1, README.md & README.de.md)**: Expanded the *Solstice and Equinox (NVIDIA / Oracle / ANL ALCF)* entry with the **100,000 Blackwell GPU** Solstice scale, NVL72 rack-scale topology, Quantum-X800 InfiniBand / Spectrum-X Ethernet fabrics and BlueField-3 DPUs.
+- **Appendix A.3 (README.md & README.de.md)**: Updated the **NVIDIA** partner row to reflect the reprocessed scope (Solstice/Equinox, Vera Rubin for Doudna, NVQLink & CUDA-Q/cuQuantum, Apollo models, PhysicsNeMo/Omniverse digital twins, NSF Regional AI Hubs).
+- **Version Bump**: Incremented the version string to `3.13.8` across `README.md` and `README.de.md`.
+
 ## [3.13.7] - 2026-09-01
 
 ### Added
