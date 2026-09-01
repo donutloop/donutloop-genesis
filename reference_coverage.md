@@ -1,7 +1,7 @@
 # Genesis Mission — Master Reference Coverage Report
 
 > **Document Overview:**
-> This report provides a comprehensive coverage analysis, breakdown, and master audit index for the **629 external reference links** compiled within `references.md` for the **Genesis Mission** documentation repository.
+> This report provides a comprehensive coverage analysis, breakdown, and master audit index for the **630 external reference links** compiled within `references.md` for the **Genesis Mission** documentation repository.
 
 ---
 
@@ -9,13 +9,13 @@
 
 | Metric | Count / Value | Description |
 | :--- | :--- | :--- |
-| **Total Reference Links** | **629** | Unique external links indexed across all sections |
+| **Total Reference Links** | **630** | Unique external links indexed across all sections |
 | **Primary Document Sections** | **7** | High-level thematic categories in `references.md` |
-| **Unique Target Domains** | **303** | Distinct domain names referenced (government, lab, corporate, academic, news) |
+| **Unique Target Domains** | **304** | Distinct domain names referenced (government, lab, corporate, academic, news) |
 | **Official PDF Documents** | **22** | Formal RFA solicitations, webinars, slides, and executive reports |
-| **Web Portals & Press Releases** | **607** | Newsroom features, corporate blog posts, and interactive hubs |
+| **Web Portals & Press Releases** | **608** | Newsroom features, corporate blog posts, and interactive hubs |
 | **Validation Status** | **100% Validated** | All links canonicalized, formatted, and deduplicated |
-| **Processing Status** | **629 / 629 Processed** | 0 Unprocessed, 629 Processed (100% Complete) |
+| **Processing Status** | **630 / 630 Processed** | 0 Unprocessed, 630 Processed (100% Complete) |
 
 ---
 
@@ -26,8 +26,8 @@
 | `1. Key Presentation Details` | **3** | 0.5% | Briefing agendas, U.S. ATLAS IB meeting details & CERN links |
 | `2. Collaborators` | **80** | 12.7% | Official homepage & announcement links for industrial/energy partners |
 | `3. Quantum Leadership & CHIPS Act Initiatives` | **11** | 1.7% | Department of Commerce NIST LOIs & DOE $2B quantum initiatives |
-| `4. Executive, Federal & Partner Announcements` | **175** | 27.8% | White House releases, Cabinet agency press, hyperscaler & lab announcements |
-| `5. National Labs & University Coverage` | **323** | 51.4% | National Laboratory news portals & 72 awardee university press releases |
+| `4. Executive, Federal & Partner Announcements` | **176** | 27.9% | White House releases, Cabinet agency press, hyperscaler & lab announcements |
+| `5. National Labs & University Coverage` | **323** | 51.3% | National Laboratory news portals & 72 awardee university press releases |
 | `6. Additional Event Materials & Reference Links` | **18** | 2.9% | Presentation slide decks, institutional intro files & video recordings |
 | `7. Technical Documents, RFA Guidance & Official Webinars` | **19** | 3.0% | DE-FOA-0003612 solicitations, OSTP challenge papers, SCAC presentations & peer-reviewed AI-for-science research |
 
@@ -132,6 +132,7 @@ Below is the distribution of references grouped by top domain hosts and institut
 | `exozymes.com` | **2** | eXoZymes | Cell-free enzymatic biomanufacturing company homepage and its Genesis Mission selection announcement for AI-powered digital twins developed with Lawrence Berkeley National Laboratory (LBNL) |
 | `sambanova.ai` | **3** | SambaNova Systems | Corporate homepage, AI-for-Science Reconfigurable Dataflow Architecture solutions page, and the Genesis Mission Consortium membership announcement |
 | `www.primalabs.ai` | **1** | PrimaLabs | Corporate blog announcement of PrimaLabs joining NVIDIA and DOE national laboratories in the Genesis Mission, delivering AI performance engineering and dedicated GPU inference for open scientific models |
+| `www.armada.ai` | **1** | Armada | Corporate blog announcement of Armada's DOE collaboration agreement to accelerate the Genesis Mission with Galleon modular data centers and the Armada Edge Platform for sovereign, distributed AI compute |
 | `www.deepisolation.com` | **1** | Deep Isolation Nuclear, Inc. | Press release on selection as sole industrial partner for three Genesis Mission awards advancing AI-driven deep borehole nuclear waste repository siting, design, and performance analysis (LBNL & University of South Carolina led) |
 
 ---
@@ -772,3 +773,4 @@ A tabular master index for the 609-reference collection:
 | 2. Collaborators | Deep Isolation | Nuclear Innovator Deep Isolation Selected by DOE for Three Project Genesis Initiatives Advancing AI-Driven Nuclear Waste Research | `www.deepisolation.com` | Web | [Nuclear Innovator Deep Isolation Selected by DOE for Three Project Genesis Initiatives Advancing AI-Driven Nuclear Waste Research](https://www.deepisolation.com/press/nuclear-innovator-deep-isolation-selected-by-doe-for-three-project-genesis-initiatives-advancing-ai-driven-nuclear-waste-research) | `Processed` |
 | 4. Executive, Federal & Partner Announcements | SambaNova Systems | SambaNova Joins the DOE Genesis Mission Consortium | `sambanova.ai` | Web | [SambaNova Joins the DOE Genesis Mission Consortium](https://sambanova.ai/blog/sambanova-joins-the-genesis-mission-consortium) | `Processed` |
 | 4. Executive, Federal & Partner Announcements | PrimaLabs | PrimaLabs Joins NVIDIA & DOE Genesis Mission | `www.primalabs.ai` | Web | [PrimaLabs Joins NVIDIA & DOE Genesis Mission](https://www.primalabs.ai/blog/primalabs-joins-nvidia-genesis-mission) | `Processed` |
+| 4. Executive, Federal & Partner Announcements | Armada | Armada Agreement with the U.S. Department of Energy to Accelerate the Genesis Mission | `www.armada.ai` | Web | [Armada Agreement with the U.S. Department of Energy to Accelerate the Genesis Mission](https://www.armada.ai/blog/genesis-mission) | `Processed` |
