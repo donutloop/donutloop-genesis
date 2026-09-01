@@ -1,4 +1,4 @@
-**Version**: 3.12.0
+**Version**: 3.12.1
 
 # Die Genesis-Mission: Architektur, strategische Initiativen und das multi-institutionelle Ökosystem für KI- und quantengetriebene wissenschaftliche Entdeckungen
 
@@ -190,6 +190,11 @@ Die strategische Ausrichtung geht von exekutiven Entscheidungsgremien aus und fl
 
 5. **Energieunabhängigkeit, Biomedizinische Durchbrüche & Resilienz Kritischer Materialien:**
    - Treibt domänenspezifische Durchbrüche voran: Stromnetzstabilisierung (NREL ARIES + Atom Computing Co-Simulation, Qubit Engineering Neuro-Grid, TVA 100% CFE MOU), SMR-Reaktorlizenzierung (INL Projekt Prometheus 50% Reduzierung, NRAD Fernsteuerung, Clinch River SMR), Fusionsplasmasteuerung (PPPL AI4Fusion autonome ECH-Steuerung, UW-Madison, FLiBe-Tritiumbrüten), Umweltsanierung (SRNL VITA-SCALE Vitrifizierung mit 150+ Mrd. $ Ersparnis), biomedizinische Entdeckungen (NIH/HHS 1,2-Mrd.-$-Bio-Genesis-Mission über 6 nationale S&T-Herausforderungen zur Verkürzung der Entdeckungszeiträume um 50%), Unabhängigkeit bei kritischen Mineralien (Ames AIM-MAG magnetfreie Seltene Erden, Albemarle DLE Lithium-Raffination, Niron Clean Earth Magnets $Fe_{16}N_2$, Ramaco Kohle-zu-Graphit, Accenture CM2US) und landwirtschaftliche KI (USDA Merkmalsvorhersagemodelle).
+
+6. **KI als dauerhafte nationale Forschungsinfrastruktur (keine punktuellen Werkzeuge):**
+   - Etabliert künstliche Intelligenz als dauerhafte, grundlegende Schicht der nationalen Forschungsbasis — für die wissenschaftliche Arbeit ebenso unverzichtbar wie das Stromnetz oder die Internetanbindung — statt als Sammlung eigenständiger Werkzeuge, Pilotinstallationen oder isolierter Demonstrationsprojekte ([windowsforum.com/windows-news.4/doe-genesis-mission-turning-ai-into-infrastructure-for-u-s-scientific-discovery.420866/](https://windowsforum.com/windows-news.4/doe-genesis-mission-turning-ai-into-infrastructure-for-u-s-scientific-discovery.420866/)).
+   - Positioniert die **American Science and Security Platform** als Bindeglied, das die 17 DOE National Laboratories, ihre Supercomputer, kuratierten wissenschaftlichen Datenbestände und experimentellen Nutzeranlagen zu einer einzigen geschlossenen Umgebung für Experimentplanung, Laborautomatisierung, Datenanalyse und Vorhersagemodellierung verbindet — operationalisiert über die Modell- und Datenverteilungsschicht **American Science Cloud (AmSC)** und das domänenübergreifende Foundation-Model-Programm **Transformational AI Models Consortium (ModCon)**.
+   - Verankert das auf ein Jahrzehnt angelegte Ziel, **die Produktivität und Wirkung der amerikanischen Forschung und Ingenieurwissenschaften zu verdoppeln**, konzentriert auf die drei nationalen Herausforderungsfelder amerikanische Energiedominanz (fortgeschrittene Kernkraft und Fusion), Entdeckungswissenschaft (Materialien, Chemie, Biologie) und nationale Sicherheit (sichere KI-Praxis und Infrastrukturresilienz), gestützt auf **über 5 Milliarden US-Dollar** an kombinierten bundesstaatlichen, öffentlichen und privaten Investitionen sowie die erste Förderrunde mit **278 Genesis-Mission-Projekten an 342 Institutionen** — ein Vorhaben, das in Umfang und Ambition wiederholt mit dem Manhattan-Projekt und der Apollo-Mondlandung verglichen wird.
 
 ---
 

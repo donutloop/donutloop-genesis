@@ -5,6 +5,17 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.12.1] - 2026-09-01
+
+### Added
+- **Reference Index Entry (`references.md`)**: Registered the technology-press analysis [*DOE Genesis Mission: Turning AI Into Infrastructure for U.S. Scientific Discovery*](https://windowsforum.com/windows-news.4/doe-genesis-mission-turning-ai-into-infrastructure-for-u-s-scientific-discovery.420866/) (`windowsforum.com`) under *Executive, Federal & Partner Announcements*.
+- **Strategic Mission Objectives Enrichment (§1.3, README.md & README.de.md)**: Added a sixth strategic objective, *AI as Permanent National Research Infrastructure (Not Point Tooling)*, capturing the framing of AI as a durable foundational layer of the national research base — as indispensable as the electrical grid or internet connectivity rather than stand-alone tools or demonstration pilots — the **American Science and Security Platform** as connective tissue across the 17 DOE National Laboratories, their supercomputers, curated data stores and experimental user facilities, the **American Science Cloud (AmSC)** and **Transformational AI Models Consortium (ModCon)** delivery layers, the decade-long goal of **doubling U.S. research productivity and impact** across the three national challenge areas (energy dominance, discovery science, national security), and the **$5 Billion+** investment base with **278 projects across 342 institutions**.
+
+### Changed
+- **Master Index Sync (`reference_coverage.md`)**: Registered the new `windowsforum.com` link in the Master Reference Link Index with status `Processed` and added a `windowsforum.com` domain row (2 links). Updated Section 1 metrics (Total Reference Links **633 → 634**, Web Portals & Press Releases **611 → 612**, Processing Status **634 / 634 Processed, 100% Complete**) and the Section 2 distribution table (`4. Executive, Federal & Partner Announcements` **179 → 180**, share 28.3% → 28.4%; recalculated shares for Sections 2, 5 and 6). Unique Target Domains remain **307** because `windowsforum.com` was already indexed.
+- **Coverage Tracker (`coverage.md`)**: No changes — the reference is technology-press analysis and introduces no new entity, so all summary metrics remain unchanged (**198 / 235**, 84.3%).
+- **Version Bump**: Incremented the version string to `3.12.1` across `README.md` and `README.de.md`.
+
 ## [3.12.0] - 2026-09-01
 
 ### Added

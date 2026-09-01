@@ -1,4 +1,4 @@
-**Version**: 3.12.0
+**Version**: 3.12.1
 
 # The Genesis Mission: Architecture, Strategic Initiatives, and the Multi-Institutional Ecosystem for AI- and Quantum-Driven Scientific Discoveries
 
@@ -192,6 +192,11 @@ Strategic direction originates from executive policy bodies and flows down throu
 
 5. **Energy Independence, Biomedical Breakthroughs & Critical Material Resilience:**
    - Drives domain-specific breakthroughs: clean energy grid stabilization (NREL ARIES + Atom Computing quantum-in-the-loop co-simulation, Qubit Engineering Neuro-Grid, TVA 100% CFE MOU), Small Modular Reactor licensing (INL Project Prometheus 50% licensing/cost reduction, NRAD remote control, Clinch River SMR), tokamak fusion plasma disruption control (PPPL AI4Fusion autonomous ECH control, UW-Madison real-time plasma control, FLiBe tritium breeding), environmental cleanup (SRNL VITA-SCALE vitrification cutting $150B+ cleanup liabilities), biomedical discovery (NIH/HHS $1.2B Bio Genesis Mission across 6 National S&T Challenges cutting discovery timelines by 50%), critical mineral independence (Ames AIM-MAG rare-earth-free magnets, Albemarle DLE lithium refining, Niron Clean Earth Magnets $Fe_{16}N_2$, Ramaco coal-to-graphite, Accenture CM2US), and agricultural AI (USDA trait prediction models).
+
+6. **AI as Permanent National Research Infrastructure (Not Point Tooling):**
+   - Establishes artificial intelligence as a durable, foundational layer of the national research base — as indispensable to scientific work as the electrical grid or internet connectivity — rather than a collection of stand-alone tools, pilot deployments, or isolated demonstration projects ([windowsforum.com/windows-news.4/doe-genesis-mission-turning-ai-into-infrastructure-for-u-s-scientific-discovery.420866/](https://windowsforum.com/windows-news.4/doe-genesis-mission-turning-ai-into-infrastructure-for-u-s-scientific-discovery.420866/)).
+   - Positions the **American Science and Security Platform** as the connective tissue binding the 17 DOE National Laboratories, their supercomputers, curated scientific data stores, and experimental user facilities into a single closed-loop environment spanning experiment design, laboratory automation, data analysis, and predictive modeling — operationalized through the **American Science Cloud (AmSC)** model/data distribution layer and the **Transformational AI Models Consortium (ModCon)** cross-domain foundation model program.
+   - Anchors the decade-long objective of **doubling the productivity and impact of American scientific research and engineering**, concentrated on the three national challenge areas of American energy dominance (advanced nuclear and fusion), discovery science (materials, chemistry, biology), and national security (secure AI practice and infrastructure resilience), backed by **$5 Billion+** in combined federal, public, and private investment and the first funding round of **278 Genesis Mission projects across 342 institutions** — an undertaking repeatedly compared in scale and ambition to the Manhattan Project and the Apollo Moon landing.
 
 ---
 
