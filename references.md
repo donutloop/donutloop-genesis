@@ -491,6 +491,16 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
   * [The Genesis Mission (Oak Ridge National Laboratory Official Overview Video)](https://youtu.be/zWVEq_35yPo)
   * [Research Scientist, Agentic Workflows Job Posting](https://jobs.ornl.gov/job/Oak-Ridge-Research-Scientist%2C-Agentic-Workflows-TN-37830/1422626200)
   * [Lux – Oak Ridge Leadership Computing Facility](https://www.olcf.ornl.gov/olcf-resources/compute-systems/lux/)
+* **Oak Ridge Leadership Computing Facility (OLCF / ORNL NCCS):**
+  * [Oak Ridge Leadership Computing Facility](https://www.olcf.ornl.gov/)
+  * [National Center for Computational Sciences (NCCS) Division](https://www.ornl.gov/division/nccs)
+  * [Frontier Supercomputer](https://www.olcf.ornl.gov/olcf-resources/compute-systems/frontier/)
+  * [Discovery Supercomputer](https://www.olcf.ornl.gov/olcf-resources/compute-systems/discovery/)
+  * [ORNL, AMD and HPE to Deliver DOE's Newest AI Supercomputers Discovery and Lux](https://www.olcf.ornl.gov/2025/10/27/ornl-amd-and-hpe-to-deliver-does-newest-ai-supercomputers-discovery-and-lux/)
+  * [Quantum Computing User Program (QCUP)](https://www.olcf.ornl.gov/olcf-resources/compute-systems/quantum-computing-user-program/)
+  * [INCITE Program Awards Supercomputing Time to 81 High-Impact Projects](https://www.olcf.ornl.gov/2024/11/18/incite-program-awards-supercomputing-time-to-81-high-impact-projects/)
+  * [Stunning Science, Future of Computing Showcased at 2026 OLCF User Summit](https://www.olcf.ornl.gov/2026/07/17/stunning-science-future-of-computing-showcased-at-2026-olcf-user-summit/)
+  * [2024 Notable System Changes: Summit and HPSS](https://www.olcf.ornl.gov/2024/08/22/2024-notable-system-changes-summit-and-hpss/)
 * **Pacific Northwest National Laboratory (PNNL):**
   * [Genesis Mission Project Portal](https://www.pnnl.gov/projects/genesis-mission)
   * [Energy Department Launches ‘Genesis Mission’ to Transform American Science and Innovation Through the AI Computing Revolution](https://www.pnnl.gov/news-media/energy-department-launches-genesis-mission)
