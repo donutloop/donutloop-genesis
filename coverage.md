@@ -1,9 +1,9 @@
 # Genesis Mission — Full Ecosystem Coverage Tracker
 
 > **Scope & Coverage Definition:**
-> - **Flagship Consortium Scope:** Tracks **all 230 primary flagship participants**—lead contractors, federal agencies, national laboratories, awardee universities, strategic industrial partners, and philanthropic foundations—explicitly profiled or referenced in the Genesis Mission paper (`README.md`) and reference index.
+> - **Flagship Consortium Scope:** Tracks **all 231 primary flagship participants**—lead contractors, federal agencies, national laboratories, awardee universities, strategic industrial partners, and philanthropic foundations—explicitly profiled or referenced in the Genesis Mission paper (`README.md`) and reference index.
 > - **Broader National Awardee Network Context:** Under solicitation DE-FOA-0003612 and interagency challenges, the broader national initiative encompasses **342 total participating institutions** (157 companies, 142 universities, 16 national labs, 13 non-profits, 14 other entities across 278 projects).
-> - **Coverage Status:** **194 / 230 (84.3%)** of the tracked consortium entities have dedicated, detailed technical profiles.
+> - **Coverage Status:** **195 / 231 (84.4%)** of the tracked consortium entities have dedicated, detailed technical profiles.
 
 **Legend:**
 - ✅ **Full Profile** — Dedicated section with detailed technical write-up (Sections 2.2 / 3.1 / 3.2 / 3.3 / 3.4 / 3.5)
@@ -121,6 +121,7 @@
 | [Radiant](https://www.radiantnuclear.com) | ❌ Not Covered | — | Microreactor developer, scheduled to test its design at INL's DOME test bed (reference only) |
 | [Clean Republic SODO, LLC](https://www.electric-bike-kit.com/) | ❌ Not Covered | — | Electric vehicle battery management and energy science workflows partner (reference only) |
 | [Aclara Technologies](https://www.aclara-resources.com/) | ✅ Full Profile | §3.1, A.3 | Genesis Mission Phase I award (DE-FOA-0003612) for AI-enabled multi-feed heavy rare earth separation; Virginia Tech separation pilot plant; AI-assisted solvent extraction digital twin with Argonne for domestic Dy/Tb recovery |
+| [Deep Isolation](https://www.deepisolation.com/) | ✅ Full Profile | §3.1, A.3 | Deep borehole disposal & Universal Canister System (UCS) developer; sole industrial partner on three Genesis Mission awards (GeoTrace and a digital-twin repository design project with LBNL, AI-STRATA3D with the University of South Carolina) for AI-driven repository siting, fatal flaw screening & performance analysis |
 
 ---
 
@@ -325,20 +326,20 @@
 
 | Entity Type | Total | ✅ Full | 📋 Brief | ❌ Not Covered |
 |:---|:---:|:---:|:---:|:---:|
-| Industry Partners | 89 | 82 | 0 | 7 |
+| Industry Partners | 90 | 83 | 0 | 7 |
 | Federal Agencies | 10 | 10 | 0 | 0 |
 | National Laboratories & Defense Sites | 25 | 22 | 0 | 3 |
 | Universities | 89 | 68 | 0 | 21 |
 | Philanthropy, Policy & Regional Hubs | 17 | 12 | 0 | 5 |
-| **Total** | **230** | **194** | **0** | **36** |
+| **Total** | **231** | **195** | **0** | **36** |
 
 ### By Coverage Level
 
 | Coverage Level | Count | Percentage |
 |:---|:---:|:---:|
-| ✅ Full Profile | 194 | 84.3% |
+| ✅ Full Profile | 195 | 84.4% |
 | 📋 Brief Mention | 0 | 0.0% |
-| ❌ Not Covered | 36 | 15.7% |
-| **Total Entities** | **230** | **100%** |
+| ❌ Not Covered | 36 | 15.6% |
+| **Total Entities** | **231** | **100%** |
 
-> **Note:** The tracker now covers 230 Genesis Mission ecosystem participants, with 194 entities in dedicated technical write-ups (84.3% full-profile coverage). George Washington University, Brown University, Heidelberg University, Howard University, European Coalition for AI in Fundamental Physics (EuCAIF), Colorado School of Mines, UC San Diego, University of Delaware, University of Hawaiʻi at Mānoa, University of Massachusetts Amherst, University of Washington, Boise State University, St. Joseph's University, New York, The Ohio State University, Kent State University, University of Maryland, ChipNexus, Southeastern Universities Research Association (SURA), ORISE, Energy Sciences Coalition (ESC), Krell Institute, Antares Nuclear, Valar Atomics, Deployable Energy, Radiant, La Sierra University, Clean Republic SODO, LLC, Molecular Foundry, Joint Genome Institute (JGI), Oak Ridge Leadership Computing Facility (OLCF), EdenCode, University of Oklahoma (OU), North Carolina State University (NC State), William & Mary, the University of North Carolina at Chapel Hill (UNC-Chapel Hill), and Washington University in St. Louis (WashU) remain registered as reference-only participants. The broader sub-grantee network of 342 participating institutions represents secondary academic and sub-contractor nodes across the 278 national project awards.
+> **Note:** The tracker now covers 231 Genesis Mission ecosystem participants, with 195 entities in dedicated technical write-ups (84.4% full-profile coverage). George Washington University, Brown University, Heidelberg University, Howard University, European Coalition for AI in Fundamental Physics (EuCAIF), Colorado School of Mines, UC San Diego, University of Delaware, University of Hawaiʻi at Mānoa, University of Massachusetts Amherst, University of Washington, Boise State University, St. Joseph's University, New York, The Ohio State University, Kent State University, University of Maryland, ChipNexus, Southeastern Universities Research Association (SURA), ORISE, Energy Sciences Coalition (ESC), Krell Institute, Antares Nuclear, Valar Atomics, Deployable Energy, Radiant, La Sierra University, Clean Republic SODO, LLC, Molecular Foundry, Joint Genome Institute (JGI), Oak Ridge Leadership Computing Facility (OLCF), EdenCode, University of Oklahoma (OU), North Carolina State University (NC State), William & Mary, the University of North Carolina at Chapel Hill (UNC-Chapel Hill), and Washington University in St. Louis (WashU) remain registered as reference-only participants. The broader sub-grantee network of 342 participating institutions represents secondary academic and sub-contractor nodes across the 278 national project awards.

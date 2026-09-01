@@ -5,6 +5,18 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.10.2] - 2026-09-01
+
+### Added
+- **Company Profile — Deep Isolation (§3.1 C, README.md & README.de.md)**: Added a dedicated *Deep Isolation (Deep Isolation Nuclear, Inc., OTCQB: DBHL)* entry under *Industry, Hyperscale & Hardware Commitments — Industrial Technology, Energy, Materials & Infrastructure Partners* in both flagship papers, structured into *Grants & Commitments* (selected July 2026 as the **sole industrial partner** on three Genesis Mission awards — **two led by Lawrence Berkeley National Laboratory (LBNL)** and **one led by the University of South Carolina (USC)** under **Professor Sourav Banerjee**, Director of *i-MAPS* — to cut time, cost, and uncertainty in siting, designing, and evaluating permanent repositories for spent nuclear fuel and high-level radioactive waste), *Technical Capabilities* (engineered **deep borehole disposal**, the **Universal Canister System (UCS)**, borehole repository datasets and fatal-flaw screening methodology including the Cameron, Texas commercialization pilot), and *AI & Digital Twin Platforms* (LBNL-led **GeoTrace** converting historical geological records into digital site-characterization models, a second LBNL project coupling **digital twins, GIS layers and fast reduced-order models** for repository design and performance analysis, and the USC-led **AI-STRATA3D** project applying **physics-informed AI, uncertainty quantification and autonomous subsurface modeling**).
+- **Appendix A.3 Registration**: Added a *Deep Isolation* row to the *Energy, Utilities & Critical Materials* partner table in Appendix A.3 of both `README.md` and `README.de.md`.
+- **Reference Index Entry (`references.md`)**: Registered *Deep Isolation* under *Collaborators* with its official homepage and the announcement [*Nuclear Innovator Deep Isolation Selected by DOE for Three Project Genesis Initiatives Advancing AI-Driven Nuclear Waste Research*](https://www.deepisolation.com/press/nuclear-innovator-deep-isolation-selected-by-doe-for-three-project-genesis-initiatives-advancing-ai-driven-nuclear-waste-research) (`www.deepisolation.com`).
+
+### Changed
+- **Master Index Sync (`reference_coverage.md`)**: Registered the new `www.deepisolation.com` link in the Master Reference Link Index with status `Processed` and added a `www.deepisolation.com` domain row (1 link). Updated Section 1 metrics (Total Reference Links **626 → 627**, Unique Target Domains **301 → 302**, Web Portals & Press Releases **604 → 605**, Processing Status **627 / 627 Processed, 100% Complete**) and the Section 2 distribution table (`2. Collaborators` **79 → 80**, share 12.6% → 12.8%; recalculated share for Section 5).
+- **Coverage Tracker (`coverage.md`)**: Added **Deep Isolation** as `✅ Full Profile` (`§3.1, A.3`) under *Energy, Utilities & Critical Materials*. Recalculated summary metrics: Industry Partners (89 → 90 total, 82 → 83 full), overall totals (230 → 231 entities, 194 → 195 full) and the scope header coverage status (**194 / 230** → **195 / 231**, 84.4%).
+- **Version Bump**: Incremented the version string to `3.10.2` across `README.md` and `README.de.md`.
+
 ## [3.10.1] - 2026-09-01
 
 ### Added
