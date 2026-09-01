@@ -71,7 +71,7 @@
 | 0 | [IBM Quantum](https://www.ibm.com/quantum) | ✅ Full Profile | §2.2, §3.1 | About portal (ibm.com/quantum), System Two, Heron QPU, Qiskit & ORNL-Cleveland Clinic fusion materials |
 | 0 | [Infleqtion](https://www.infleqtion.com/) | ✅ Full Profile | §2.2, §3.1 | Record Q2 2026 revenue ($12.6M, +116% YoY, raised $43M FY outlook), $100M DOC LOI, 3 DOE Genesis awards, IQMP 2027 deployment & 30 logical qubits |
 | 0 | [Intel](https://www.intel.com/) | ✅ Full Profile | §2.2, §3.1 | About portal (intel.com/newsroom), Tunnel Falls spin qubit & ArchEvolve agentic chip co-design |
-| 0 | [Quantinuum](https://www.quantinuum.com/) | ✅ Full Profile | §2.2, §3.1 | About portal (quantinuum.com/company/about), $100M LOI, trapped-ion QCCD & Monarch Quantum |
+| 1 | [Quantinuum](https://www.quantinuum.com/) | ✅ Full Profile | §2.2, §3.1B, A.4 | About & H-Series hardware portals (quantinuum.com/company/about, quantinuum.com/hardware/h-series); $100M Department of Commerce CHIPS Act LOI targeting trapped-ion manufacturing bottlenecks plus public listing (QNT); QCCD trapped-ion architecture with 2D junction shuttling on the 98-qubit Helios QPU and production System Model H1/H2 series delivering all-to-all connectivity; surface ion trap microfabrication with Sandia National Laboratories, low-loss integrated photonics and Quantum Light Engines with GlobalFoundries & Monarch Quantum; 48 logical qubits with Microsoft, TKET compiler & InQuanto quantum chemistry platform federated with national laboratory HPC and brokered via ORNL QCUP |
 | 0 | [Rigetti Computing](https://www.rigetti.com/) | ✅ Full Profile | §2.2, §3.1 | About portal (rigetti.com/about-rigetti-computing), $100M LOI, Ankaa/Lyra, cryogenic readout & fusion sims |
 
 ---
