@@ -5,6 +5,17 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.12.3] - 2026-09-01
+
+### Added
+- **Reference Index Entry (`references.md`)**: Registered the DOE Office of Nuclear Energy retrospective [*8 Big Wins for Nuclear in the Trump Administration's First Year*](https://www.energy.gov/ne/articles/8-big-wins-nuclear-trump-administrations-first-year) (`www.energy.gov`) under *Executive, Federal & Partner Announcements*.
+- **Nuclear Policy Enrichment (§3.1, README.md & README.de.md)**: Extended the *U.S. Nuclear Energy Renaissance and Reactor Pilot Program* entry with the Office of Nuclear Energy first-year retrospective — the eight consolidated outcomes of the four **May 2025 executive orders**: executive-order policy modernization, the **Reactor Pilot Program** (**11 advanced reactor projects**, at least three criticalities outside national laboratories by **July 4, 2026**), the **Fuel Line Pilot Program** for domestic fuel production lines, the full **Nuclear Regulatory Commission (NRC)** overhaul (new rulemaking, staffing reform, fixed licensing deadlines, radiation-standard reconsideration), **Defense Production Act**-backed industrial base reinvigoration, end-to-end domestic fuel-cycle build-out (mining, conversion, enrichment, fabrication), restart of **Palisades** and the **Crane Clean Energy Center** plus operating-fleet uprates, and national laboratory test-infrastructure modernization anchored by the **INL DOME** microreactor test bed — plus a Genesis Mission coupling note linking compressed NRC review timelines and domestic fuel availability to the **400 GW by 2050** quadrupling target.
+
+### Changed
+- **Master Index Sync (`reference_coverage.md`)**: Registered the new `www.energy.gov` link in the Master Reference Link Index with status `Processed`. Updated Section 1 metrics (Total Reference Links **635 → 636**, Web Portals & Press Releases **613 → 614**, Processing Status **636 / 636 Processed, 100% Complete**), the Section 2 distribution table (`4. Executive, Federal & Partner Announcements` **180 → 181**, share 28.3% → 28.5%; recalculated share for Section 5, 51.0% → 50.9%), and the Section 3 `www.energy.gov` domain count (**49 → 50**).
+- **Coverage Tracker (`coverage.md`)**: Added the **U.S. Nuclear Regulatory Commission (NRC)** to *Federal Agencies & Policy Bodies* with status `❌ Not Covered` *(reference only)* and updated all summary metrics (Total Entities **236 → 237**, Federal Agencies **10 → 11** with Not Covered **0 → 1**, overall Not Covered **38 → 39**, coverage share **198 / 236 (83.9%) → 198 / 237 (83.5%)**).
+- **Version Bump**: Incremented the version string to `3.12.3` across `README.md` and `README.de.md`.
+
 ## [3.12.2] - 2026-09-01
 
 ### Added

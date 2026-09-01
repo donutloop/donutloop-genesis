@@ -1,9 +1,9 @@
 # Genesis Mission — Full Ecosystem Coverage Tracker
 
 > **Scope & Coverage Definition:**
-> - **Flagship Consortium Scope:** Tracks **all 236 primary flagship participants**—lead contractors, federal agencies, national laboratories, awardee universities, strategic industrial partners, and philanthropic foundations—explicitly profiled or referenced in the Genesis Mission paper (`README.md`) and reference index.
+> - **Flagship Consortium Scope:** Tracks **all 237 primary flagship participants**—lead contractors, federal agencies, national laboratories, awardee universities, strategic industrial partners, and philanthropic foundations—explicitly profiled or referenced in the Genesis Mission paper (`README.md`) and reference index.
 > - **Broader National Awardee Network Context:** Under solicitation DE-FOA-0003612 and interagency challenges, the broader national initiative encompasses **342 total participating institutions** (157 companies, 142 universities, 16 national labs, 13 non-profits, 14 other entities across 278 projects).
-> - **Coverage Status:** **198 / 236 (83.9%)** of the tracked consortium entities have dedicated, detailed technical profiles.
+> - **Coverage Status:** **198 / 237 (83.5%)** of the tracked consortium entities have dedicated, detailed technical profiles.
 
 **Legend:**
 - ✅ **Full Profile** — Dedicated section with detailed technical write-up (Sections 2.2 / 3.1 / 3.2 / 3.3 / 3.4 / 3.5)
@@ -160,6 +160,7 @@
 | [Department of Homeland Security (DHS) — S&T](https://www.dhs.gov/science-and-technology) | ✅ Full Profile | §3.4, A.1 | Critical infrastructure AI digital twins, supply chain threat analytics & smart grid resilience |
 | [Department of the Interior (DOI)](https://www.doi.gov/) | ✅ Full Profile | §3.4, A.1 | USGS critical mineral deposit AI mapping, hydrological modeling & public land clean energy siting |
 | [U.S. Department of Agriculture (USDA)](https://www.usda.gov/) | ✅ Full Profile | §1.1, §3.4, A.4 | Agricultural National Science & Technology Challenge, AI germplasm analysis & crop innovation |
+| [U.S. Nuclear Regulatory Commission (NRC)](https://www.nrc.gov/) | ❌ Not Covered | — | Independent licensing and safety regulator undergoing executive-directed reform with fixed reactor licensing review deadlines; target regulator for AI-assisted license application pipelines (reference only) |
 
 ---
 
@@ -332,19 +333,19 @@
 | Entity Type | Total | ✅ Full | 📋 Brief | ❌ Not Covered |
 |:---|:---:|:---:|:---:|:---:|
 | Industry Partners | 93 | 86 | 0 | 7 |
-| Federal Agencies | 10 | 10 | 0 | 0 |
+| Federal Agencies | 11 | 10 | 0 | 1 |
 | National Laboratories & Defense Sites | 26 | 22 | 0 | 4 |
 | Universities | 90 | 68 | 0 | 22 |
 | Philanthropy, Policy & Regional Hubs | 17 | 12 | 0 | 5 |
-| **Total** | **236** | **198** | **0** | **38** |
+| **Total** | **237** | **198** | **0** | **39** |
 
 ### By Coverage Level
 
 | Coverage Level | Count | Percentage |
 |:---|:---:|:---:|
-| ✅ Full Profile | 198 | 83.9% |
+| ✅ Full Profile | 198 | 83.5% |
 | 📋 Brief Mention | 0 | 0.0% |
-| ❌ Not Covered | 38 | 16.1% |
-| **Total Entities** | **236** | **100%** |
+| ❌ Not Covered | 39 | 16.5% |
+| **Total Entities** | **237** | **100%** |
 
-> **Note:** The tracker now covers 236 Genesis Mission ecosystem participants, with 198 entities in dedicated technical write-ups (83.9% full-profile coverage). George Washington University, Brown University, Heidelberg University, Howard University, European Coalition for AI in Fundamental Physics (EuCAIF), Colorado School of Mines, UC San Diego, University of Delaware, University of Hawaiʻi at Mānoa, University of Massachusetts Amherst, University of Washington, Boise State University, St. Joseph's University, New York, The Ohio State University, Kent State University, University of Maryland, ChipNexus, Southeastern Universities Research Association (SURA), ORISE, Energy Sciences Coalition (ESC), Krell Institute, Antares Nuclear, Valar Atomics, Deployable Energy, Radiant, La Sierra University, Clean Republic SODO, LLC, Molecular Foundry, Joint Genome Institute (JGI), Oak Ridge Leadership Computing Facility (OLCF), EdenCode, University of Oklahoma (OU), North Carolina State University (NC State), William & Mary, the University of North Carolina at Chapel Hill (UNC-Chapel Hill), Washington University in St. Louis (WashU), Duke University, and the National Reactor Innovation Center (NRIC) remain registered as reference-only participants. The broader sub-grantee network of 342 participating institutions represents secondary academic and sub-contractor nodes across the 278 national project awards.
+> **Note:** The tracker now covers 237 Genesis Mission ecosystem participants, with 198 entities in dedicated technical write-ups (83.5% full-profile coverage). George Washington University, Brown University, Heidelberg University, Howard University, European Coalition for AI in Fundamental Physics (EuCAIF), Colorado School of Mines, UC San Diego, University of Delaware, University of Hawaiʻi at Mānoa, University of Massachusetts Amherst, University of Washington, Boise State University, St. Joseph's University, New York, The Ohio State University, Kent State University, University of Maryland, ChipNexus, Southeastern Universities Research Association (SURA), ORISE, Energy Sciences Coalition (ESC), Krell Institute, Antares Nuclear, Valar Atomics, Deployable Energy, Radiant, La Sierra University, Clean Republic SODO, LLC, Molecular Foundry, Joint Genome Institute (JGI), Oak Ridge Leadership Computing Facility (OLCF), EdenCode, University of Oklahoma (OU), North Carolina State University (NC State), William & Mary, the University of North Carolina at Chapel Hill (UNC-Chapel Hill), Washington University in St. Louis (WashU), Duke University, the National Reactor Innovation Center (NRIC), and the U.S. Nuclear Regulatory Commission (NRC) remain registered as reference-only participants. The broader sub-grantee network of 342 participating institutions represents secondary academic and sub-contractor nodes across the 278 national project awards.
