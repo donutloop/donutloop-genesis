@@ -9,7 +9,7 @@ Reprocess a target entity within the Genesis Mission ecosystem, ensure the track
 ## Execution Rules
 
 ### 1. Scope Restriction: Paper Traversal
-* **Do Not Read Child Papers:** Confine all analysis, technical updates, and reference extractions strictly to the top-level parent document and primary source material provided. Under no circumstances should child papers, sub-references, or nested citations be recursively fetched, read, or traversed.
+* **Do Not Read Child Papers 'child_papers' folder:** Confine all analysis, technical updates, and reference extractions strictly to the top-level parent document and primary source material provided. Under no circumstances should child papers, sub-references, or nested citations be recursively fetched, read, or traversed.
 
 ### 2. Schema Migration & Counter Increment in `coverage.md`
 * **First-Column Insertion:** Ensure every entity tracking table in `coverage.md` includes `Process Count` as the very first column (`| Process Count | Entity | ... |`).
