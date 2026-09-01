@@ -5,6 +5,18 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.13.24] - 2026-09-01
+
+### Added
+- **Reference Processing (`references.md`)**: Indexed the Databricks energy-industry blog post *How Ontologies Help Nuclear Scale to Meet Global Energy Demand* (`www.databricks.com`) under §4 *Executive, Federal & Partner Announcements* in the existing **Databricks** group.
+- **Paper Enrichment (§3.1, README.md & README.de.md)**: Extended the **Databricks** entry with the company's nuclear **ontology / knowledge-graph** architecture — an explicit, versioned and queryable layer linking plant components, systems, engineering constraints, controlled documents and source records that converts the tacit knowledge of a retiring operations workforce into machine-readable **configuration control**, supports automated safety and modification assessments with full evidence traceability under the **ADVANCE Act** compression of reactor licensing reviews from ~**42 months to 18 months**, aligns with the **ISO 15926** and **IEC 81346** plant-modeling standards and **Idaho National Laboratory's DeepLynx** digital-engineering platform, and underpins the **quadrupling** of nuclear capacity driven by AI data-center load growth.
+- **Appendix A.3 (`README.md` & `README.de.md`)**: Extended the Databricks row with nuclear plant ontologies and knowledge graphs.
+
+### Changed
+- **Master Index (`reference_coverage.md`)**: Registered the new entry as `Processed` and synchronized all metrics — Total Reference Links **649 → 650**, Web Portals & Press Releases **625 → 626**, §4 *Executive, Federal & Partner Announcements* **182 → 183** (28.2%), §5 share adjusted to 51.4%, and a new `www.databricks.com` domain row (**2** references). Unique Target Domains remain **315** (**650 / 650 Processed, 100% Complete**).
+- **Coverage Tracker (`coverage.md`)**: Incremented the **Databricks** `Process Count` from **0** to **1** and expanded its notes with the nuclear ontology work. No entities added or removed, so all summary metrics (238 total, 198 full profiles, 83.2%) remain unchanged.
+- **Version Bump**: Incremented the version string to `3.13.24` across `README.md` and `README.de.md`.
+
 ## [3.13.23] - 2026-09-01
 
 ### Added
