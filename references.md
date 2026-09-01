@@ -93,6 +93,7 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
 * [Valar Atomics](https://valaratomics.com/)
 * [U.S. Nuclear Regulatory Commission (NRC)](https://www.nrc.gov/)
 * [University of Chicago](https://www.uchicago.edu/)
+* [Deployable Energy](https://www.deployable.energy/)
 
 ---
 
@@ -355,6 +356,10 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
 * [NRC: NEIMA Milestone Schedules and Fixed Fee Caps for Requested Licensing Activities](https://www.nrc.gov/about-nrc/generic-schedules) - Statutory milestone schedules and fixed fee caps codified under 10 CFR 170.33, establishing cost and schedule predictability for advanced reactor applicants.
 * [NRC: Artificial Intelligence Strategic Plan, Fiscal Years 2023–2027 (NUREG-2261)](https://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr2261/index.html) - Agency AI strategy defining five goals: readiness for regulatory decision-making on AI, an AI review framework, interagency and international partnerships, an AI-proficient workforce, and internal AI use cases across NRC-regulated activities.
 * [NRC: ADAMS Public Documents](https://www.nrc.gov/reading-rm/adams) - The Agencywide Documents Access and Management System public library of more than 3 million full-text regulatory documents dating to 1980, the regulatory corpus underlying Genesis Mission nuclear language models and semantic search systems (Atomic Canyon, Everstar Gordian AI).
+* [Deployable Energy](https://www.deployable.energy/): [U.S. Department of Energy Meets President Trump's Goal, Delivers Third Advanced Reactor Criticality](https://www.energy.gov/articles/us-department-energy-meets-president-trumps-goal-delivers-third-advanced-reactor) - DOE announcement of the **Unity** demonstration reactor reaching initial criticality at Idaho National Laboratory on **June 30, 2026**, the third advanced reactor criticality delivered ahead of the July 4, 2026 goal set under Executive Order 14301.
+* [Deployable Energy: Unity Demonstration Reactor Achieves Criticality at Idaho National Laboratory](https://www.prnewswire.com/news-releases/deployable-energy-announces-unity-demonstration-reactor-achieves-criticality-at-idaho-national-laboratory-302816255.html) - First-party announcement describing the ~1 MWe water-moderated, gas-cooled **Unity Nuclear Battery**, the DOE-approved Preliminary Documented Safety Analysis cleared in 106 days, the ~150-day design-to-criticality schedule with the National Reactor Innovation Center, and the $19 Million Series A led by Atreides Management.
+* [Deployable Energy: Selected for Full-Power Demonstration at Idaho National Laboratory and Maritime Demonstration with Hornbeck Offshore](https://www.prnewswire.com/news-releases/deployable-energy-selected-for-full-power-demonstration-at-idaho-national-laboratory-and-maritime-demonstration-with-hornbeck-offshore-302862818.html) - August 2026 announcement of the NRIC Nuclear Energy Launch Pad full-power land demonstration at INL and the Hornbeck Offshore MOU for a shipboard maritime demonstration of Unity, with Lloyd's Register supporting risk and safety analysis.
+* [National Reactor Innovation Center (NRIC): Nuclear Energy Launch Pad](https://nric.inl.gov/) - INL-hosted DOE demonstration pathway extending the Reactor Pilot Program, providing site access, fuel logistics and national-laboratory expertise for privately funded first-of-a-kind reactor demonstrations such as Unity.
   
 ---
 
