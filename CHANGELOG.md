@@ -5,6 +5,17 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.13.19] - 2026-09-01
+
+### Added
+- **Reference Processing (`references.md`)**: Indexed the Carnegie Mellon University Dietrich College AI news feature *What Makes Up The Universe? AI Will Help CMU Scientists Find Out* (`www.cmu.edu`) under §5 *National Labs & University Coverage* in the **Carnegie Mellon University** group.
+- **Paper Enrichment (§3.3, README.md & README.de.md)**: Extended the *AI Architecture, Foundation Models & Agentic Discovery* subsection with CMU's **Dietrich College of Humanities and Social Sciences** contribution — a Genesis Mission grant to **Chad Schafer** (Statistics & Data Science) with co-PI **Mikael Kuusela** and the **Statistical Methods for the Physical Sciences (STAMPS) Research Center**, developing AI frameworks for the **Vera C. Rubin Observatory** data deluge, overcoming the scaling limits of **Markov chain Monte Carlo (MCMC)** inference while preserving rigorous uncertainty quantification, with explicit transfer paths to particle physics and climate science.
+
+### Changed
+- **Master Index (`reference_coverage.md`)**: Registered the new link as `Processed`; Total Reference Links **646 → 647**, Web Portals & Press Releases **622 → 623**, Processing Status **647 / 647 Processed, 100% Complete**. Section distribution updated (§5 **331 → 332**, 51.3%; §4 28.1%; §7 3.2%) and the `www.cmu.edu` domain count raised **4 → 5**.
+- **Coverage Tracker (`coverage.md`)**: Incremented the **Carnegie Mellon University** `Process Count` from **0** to **1** and extended its notes with the Dietrich College statistics/AI cosmology work. No entities added or removed, so all summary metrics (237 total, 198 full profiles, 83.5%) remain unchanged.
+- **Version Bump**: Incremented the version string to `3.13.19` across `README.md` and `README.de.md`.
+
 ## [3.13.18] - 2026-09-01
 
 ### Changed

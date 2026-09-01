@@ -1,7 +1,7 @@
 # Genesis Mission — Master Reference Coverage Report
 
 > **Document Overview:**
-> This report provides a comprehensive coverage analysis, breakdown, and master audit index for the **646 external reference links** compiled within `references.md` for the **Genesis Mission** documentation repository.
+> This report provides a comprehensive coverage analysis, breakdown, and master audit index for the **647 external reference links** compiled within `references.md` for the **Genesis Mission** documentation repository.
 
 ---
 
@@ -9,13 +9,13 @@
 
 | Metric | Count / Value | Description |
 | :--- | :--- | :--- |
-| **Total Reference Links** | **646** | Unique external links indexed across all sections |
+| **Total Reference Links** | **647** | Unique external links indexed across all sections |
 | **Primary Document Sections** | **7** | High-level thematic categories in `references.md` |
 | **Unique Target Domains** | **313** | Distinct domain names referenced (government, lab, corporate, academic, news) |
 | **Official PDF Documents** | **24** | Formal RFA solicitations, webinars, slides, and executive reports |
-| **Web Portals & Press Releases** | **622** | Newsroom features, corporate blog posts, and interactive hubs |
+| **Web Portals & Press Releases** | **623** | Newsroom features, corporate blog posts, and interactive hubs |
 | **Validation Status** | **100% Validated** | All links canonicalized, formatted, and deduplicated |
-| **Processing Status** | **646 / 646 Processed** | 0 Unprocessed, 646 Processed (100% Complete) |
+| **Processing Status** | **647 / 647 Processed** | 0 Unprocessed, 647 Processed (100% Complete) |
 
 ---
 
@@ -26,10 +26,10 @@
 | `1. Key Presentation Details` | **3** | 0.5% | Briefing agendas, U.S. ATLAS IB meeting details & CERN links |
 | `2. Collaborators` | **80** | 12.4% | Official homepage & announcement links for industrial/energy partners |
 | `3. Quantum Leadership & CHIPS Act Initiatives` | **11** | 1.7% | Department of Commerce NIST LOIs & DOE $2B quantum initiatives |
-| `4. Executive, Federal & Partner Announcements` | **182** | 28.2% | White House releases, Cabinet agency press, hyperscaler & lab announcements |
-| `5. National Labs & University Coverage` | **331** | 51.2% | National Laboratory news portals & 72 awardee university press releases |
+| `4. Executive, Federal & Partner Announcements` | **182** | 28.1% | White House releases, Cabinet agency press, hyperscaler & lab announcements |
+| `5. National Labs & University Coverage` | **332** | 51.3% | National Laboratory news portals & 72 awardee university press releases |
 | `6. Additional Event Materials & Reference Links` | **18** | 2.8% | Presentation slide decks, institutional intro files & video recordings |
-| `7. Technical Documents, RFA Guidance & Official Webinars` | **21** | 3.3% | DE-FOA-0003612 solicitations, OSTP challenge papers, SCAC presentations & peer-reviewed AI-for-science research |
+| `7. Technical Documents, RFA Guidance & Official Webinars` | **21** | 3.2% | DE-FOA-0003612 solicitations, OSTP challenge papers, SCAC presentations & peer-reviewed AI-for-science research |
 
 ---
 
@@ -112,7 +112,7 @@ Below is the distribution of references grouped by top domain hosts and institut
 | `www.kent.edu` | **1** | University Newsroom | Kent State University researcher Dr. David Costello receives inaugural DOE Genesis Mission Award for AI-driven probabilistic source mapping of critical minerals |
 | `www.hawaii.edu` | **1** | University Newsroom | University of Hawaiʻi systemwide news coverage of STRATOS and rare-decay AI foundation model Genesis Mission awards |
 | `research.umn.edu` | **1** | University Newsroom | University of Minnesota research news release on three inaugural DOE Genesis Mission awards advancing AI innovation in semiconductor manufacturing, geothermal energy digital twins, and critical mineral extraction |
-| `www.cmu.edu` | **4** | University Newsroom | Carnegie Mellon University newsroom featuring researchers leading three Genesis awards, autonomous lab integration, AI science foundry, and America250 future-building initiative |
+| `www.cmu.edu` | **5** | University Newsroom | Carnegie Mellon University newsroom featuring researchers leading three Genesis awards, autonomous lab integration, AI science foundry, the America250 future-building initiative, and Dietrich College AI news on the Genesis-funded statistics/AI project for Vera C. Rubin Observatory cosmology |
 | `engineering.lehigh.edu` | **1** | Lehigh Engineering News | Dr. Brian Leard selected for DOE Fusion Energy Sciences Postdoctoral Research Program to develop ML-based surrogate modeling at ORNL |
 | `www6.slac.stanford.edu` | **1** | SLAC National Accelerator Laboratory | SLAC-led project assembling a multi-agent AI system to recover critical metals from spent lithium-ion batteries |
 | `today.umd.edu` | **1** | University Newsroom | University of Maryland coverage on AI-enabled flood forecasting using agentic and generative models linked with E3SM for seasonal-to-multiyear water hazard prediction |
@@ -800,3 +800,4 @@ A tabular master index for the 633-reference collection:
 | 5. National Labs & University Coverage | Lawrence Berkeley National Laboratory (ATAP Division) | LBNL ATAP: Fusion, AI, and the Genesis Mission | `atap.lbl.gov` | Web | [LBNL ATAP: Fusion, AI, and the Genesis Mission](https://atap.lbl.gov/research/crosscutting-endeavors/fusion-energy-science/fusion-ai-and-the-genesis-mission/) | `Processed` |
 | 5. National Labs & University Coverage | Duke University (Pratt School of Engineering) | DOE-Funded Brain-Inspired Hardware to Enable Futuristic Robotic Systems | `pratt.duke.edu` | Web | [DOE-Funded Brain-Inspired Hardware to Enable Futuristic Robotic Systems](https://pratt.duke.edu/news/doe-funded-brain-inspired-hardware-to-enable-futuristic-robotic-systems/) | `Processed` |
 | 7. Technical Documents, RFA Guidance & Official Webinars | U.S. Department of Energy — Office of Science (Workforce RFI DE-SC-26-016) | U.S. Department of Energy: 2026 Genesis Mission AI Workforce Request for Information — DE-SC-26-016 (PDF) | `huggingface.co` | PDF | [U.S. Department of Energy: 2026 Genesis Mission AI Workforce Request for Information — DE-SC-26-016 (PDF)](https://huggingface.co/datasets/huggingface/policy-docs/resolve/main/2026_DOE_Genesis_Mission_AI_Workforce_RFI.pdf) | `Processed` |
+| 5. National Labs & University Coverage | Carnegie Mellon University (Dietrich College) | What Makes Up The Universe? AI Will Help CMU Scientists Find Out | `www.cmu.edu` | Web | [What Makes Up The Universe? AI Will Help CMU Scientists Find Out](https://www.cmu.edu/dietrich/ai/news/doe-genesis-grant-chad-schafer.html) | `Processed` |
