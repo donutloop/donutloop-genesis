@@ -5,6 +5,18 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.13.2] - 2026-09-01
+
+### Added
+- **Reference Index Entry (`references.md`)**: Registered the Georgia Tech EPICenter feature [*EPICenter Faculty Affiliate Marilyn Brown Part of DOE Genesis Mission Award*](https://epicenter.energy.gatech.edu/2026/07/28/epicenter-faculty-affiliate-marilyn-brown-part-of-doe-genesis-mission-award/) (`epicenter.energy.gatech.edu`) under *National Labs & University Coverage → Universities & Research Institutions*, nested beneath the existing **Georgia Tech** entry.
+- **Georgia Tech EPICenter Enrichment (§3.3, README.md & README.de.md)**: Added a **Georgia Institute of Technology (Energy Policy and Innovation Center — EPICenter)** profile under *Grid Decarbonization, Climate & Geospatial AI* documenting **Marilyn Brown** (Regents' and Brook Byers Professor, School of Public Policy; EPICenter faculty affiliate) as **Co-Principal Investigator** on a joint **Oak Ridge National Laboratory (ORNL)** Genesis Mission project building AI foundation models to predict and test **"water-for-energy"** conditions in the **Tennessee Valley Authority (TVA)** region — one of **seven** Genesis Mission awards involving Georgia Tech researchers.
+
+### Changed
+- **Master Index Sync (`reference_coverage.md`)**: Registered the new `epicenter.energy.gatech.edu` link in the Master Reference Link Index with status `Processed` and added an `epicenter.energy.gatech.edu` domain row (1 link). Updated Section 1 metrics (Total Reference Links **639 → 640**, Unique Target Domains **311 → 312**, Web Portals & Press Releases **617 → 618**, Processing Status **640 / 640 Processed, 100% Complete**) and the Section 2 distribution table (`5. National Labs & University Coverage` **327 → 328**, share 51.2% → 51.3%).
+- **Coverage Tracker (`coverage.md`)**: Extended the **Georgia Institute of Technology** profile description with the EPICenter water-for-energy AI foundation model collaboration; no new entities were introduced, so all summary metrics remain unchanged.
+- **Appendix A.5 (`README.md` & `README.de.md`)**: Extended the Georgia Institute of Technology appendix row with the EPICenter water-for-energy focus area.
+- **Version Bump**: Incremented the version string to `3.13.2` across `README.md` and `README.de.md`.
+
 ## [3.13.1] - 2026-09-01
 
 ### Added
