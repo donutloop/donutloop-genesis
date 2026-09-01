@@ -3,7 +3,7 @@
 > **Scope & Coverage Definition:**
 > - **Flagship Consortium Scope:** Tracks **all 238 primary flagship participants**—lead contractors, federal agencies, national laboratories, awardee universities, strategic industrial partners, and philanthropic foundations—explicitly profiled or referenced in the Genesis Mission paper (`README.md`) and reference index.
 > - **Broader National Awardee Network Context:** Under solicitation DE-FOA-0003612 and interagency challenges, the broader national initiative encompasses **342 total participating institutions** (157 companies, 142 universities, 16 national labs, 13 non-profits, 14 other entities across 278 projects).
-> - **Coverage Status:** **201 / 238 (84.5%)** of the tracked consortium entities have dedicated, detailed technical profiles.
+> - **Coverage Status:** **203 / 238 (85.3%)** of the tracked consortium entities have dedicated, detailed technical profiles.
 
 **Legend:**
 - ✅ **Full Profile** — Dedicated section with detailed technical write-up (Sections 2.2 / 3.1 / 3.2 / 3.3 / 3.4 / 3.5)
@@ -291,7 +291,7 @@
 | 0 | [University of North Carolina at Chapel Hill (UNC-Chapel Hill)](https://www.unc.edu/) | ❌ Not Covered | — | Genesis Mission award negotiation (Profs. Julieta Gruszko & Reyco Henning, Physics & Astronomy) applying AI and advanced computing to the LEGEND neutrinoless double-beta decay search (LEGEND-200 / LEGEND-1000) probing matter–antimatter asymmetry (reference only) |
 | 0 | [Washington University in St. Louis (WashU)](https://wustl.edu/) | ❌ Not Covered | — | $750,000 Genesis Mission grant (Prof. Keith Hengen, Biology, Arts & Sciences) for *Superconducting Polychronous Computation Near Criticality*, transferring brain criticality principles to self-tuning superconducting quantum sensors with Argonne National Laboratory (reference only) |
 | 0 | [Duke University](https://www.duke.edu/) | ❌ Not Covered | — | Phase 1 Genesis Mission grant (Prof. Gaurav Arya, Thomas Lord Department of Mechanical Engineering and Materials Science, Pratt School of Engineering) for an AI platform that inversely designs DNA origami building blocks into programmable micrometer-scale superlattices for photonic, electronic and catalytic materials; second Phase 1 award (Prof. Yiran Chen with Tania Roy, Georgia Tech's Shimeng Yu and Brookhaven's Wei Xu) developing neuromorphic brain-inspired hardware targeting 10× faster and 100× more energy-efficient on-device AI for mobile robotic systems (reference only) |
-| 0 | [University of Chicago](https://www.uchicago.edu/) | ❌ Not Covered | — | Operates Argonne National Laboratory for the DOE through UChicago Argonne, LLC; newsroom retrospective on Argonne's 80th anniversary (1946–2026) covering EBR-I, Aurora exascale computing, the Q-NEXT quantum hub renewal, the Advanced Photon Source emittance record and the lab's Genesis Mission AI agenda (reference only) |
+| 1 | [University of Chicago](https://www.uchicago.edu/) | ✅ Full Profile | §3.3, A.5 | Sole member of **UChicago Argonne, LLC**, operating Argonne National Laboratory under DOE prime contract **DE-AC02-06CH11357** since 1 October 2006, extended 14 July 2026 for 1 October 2026 – 30 September 2031 (~$17.3B cumulative obligations, >$1B annual operating budget, Board of Governors chaired by President Paul Alivisatos); lead partner of **Fermi Forward Discovery Group, LLC** (with URA, Amentum Environment & Energy, Longenecker & Associates) holding the Fermilab M&O contract from 1 January 2025 to 31 December 2029 (extendable to 15 years), succeeding Fermi Research Alliance, LLC (2007–2024); hub of the **Chicago Quantum Exchange** (founded 2017 at the Pritzker School of Molecular Engineering under David Awschalom; Argonne, Fermilab, UIUC, UW–Madison, Northwestern, Purdue plus 20+ corporate partners), the **Duality** quantum startup accelerator (Polsky Center, April 2021) and the IBM Quantum System Two / National Quantum Algorithm Center at the 128-acre **IQMP**; one of 11 university partners in the Argonne-led **Q-NEXT** center renewed 4 November 2025 for $125M over five years within DOE's $625M QIS renewal; **Data Science Institute** AI+Science initiative (Franklin/Nicolae, Faculty Director of AI Rebecca Willett, Schmidt AI in Science fellowships) and the **Globus** data-management fabric via Ian Foster's UChicago–Argonne dual appointment; Argonne 80th anniversary (chartered 1 July 1946) agenda centered on Genesis Mission AI |
 
 ---
 
@@ -336,17 +336,17 @@
 | Industry Partners | 93 | 88 | 0 | 5 |
 | Federal Agencies | 11 | 11 | 0 | 0 |
 | National Laboratories & Defense Sites | 26 | 23 | 0 | 3 |
-| Universities | 91 | 68 | 0 | 23 |
+| Universities | 91 | 69 | 0 | 22 |
 | Philanthropy, Policy & Regional Hubs | 17 | 12 | 0 | 5 |
-| **Total** | **238** | **202** | **0** | **36** |
+| **Total** | **238** | **203** | **0** | **35** |
 
 ### By Coverage Level
 
 | Coverage Level | Count | Percentage |
 |:---|:---:|:---:|
-| ✅ Full Profile | 202 | 84.9% |
+| ✅ Full Profile | 203 | 85.3% |
 | 📋 Brief Mention | 0 | 0.0% |
-| ❌ Not Covered | 36 | 15.1% |
+| ❌ Not Covered | 35 | 14.7% |
 | **Total Entities** | **238** | **100%** |
 
-> **Note:** The tracker now covers 238 Genesis Mission ecosystem participants, with 202 entities in dedicated technical write-ups (84.9% full-profile coverage). George Washington University, Brown University, Heidelberg University, Howard University, European Coalition for AI in Fundamental Physics (EuCAIF), Colorado School of Mines, UC San Diego, University of Delaware, University of Hawaiʻi at Mānoa, University of Massachusetts Amherst, University of Washington, Boise State University, St. Joseph's University, New York, The Ohio State University, Kent State University, University of Maryland, ChipNexus, Southeastern Universities Research Association (SURA), ORISE, Energy Sciences Coalition (ESC), Krell Institute, Antares Nuclear, Deployable Energy, La Sierra University, Clean Republic SODO, LLC, Molecular Foundry, Joint Genome Institute (JGI), EdenCode, University of Oklahoma (OU), North Carolina State University (NC State), William & Mary, the University of North Carolina at Chapel Hill (UNC-Chapel Hill), Washington University in St. Louis (WashU), Duke University, the University of Chicago, and the National Reactor Innovation Center (NRIC) remain registered as reference-only participants. The broader sub-grantee network of 342 participating institutions represents secondary academic and sub-contractor nodes across the 278 national project awards.
+> **Note:** The tracker now covers 238 Genesis Mission ecosystem participants, with 203 entities in dedicated technical write-ups (85.3% full-profile coverage). George Washington University, Brown University, Heidelberg University, Howard University, European Coalition for AI in Fundamental Physics (EuCAIF), Colorado School of Mines, UC San Diego, University of Delaware, University of Hawaiʻi at Mānoa, University of Massachusetts Amherst, University of Washington, Boise State University, St. Joseph's University, New York, The Ohio State University, Kent State University, University of Maryland, ChipNexus, Southeastern Universities Research Association (SURA), ORISE, Energy Sciences Coalition (ESC), Krell Institute, Antares Nuclear, Deployable Energy, La Sierra University, Clean Republic SODO, LLC, Molecular Foundry, Joint Genome Institute (JGI), EdenCode, University of Oklahoma (OU), North Carolina State University (NC State), William & Mary, the University of North Carolina at Chapel Hill (UNC-Chapel Hill), Washington University in St. Louis (WashU), Duke University, and the National Reactor Innovation Center (NRIC) remain registered as reference-only participants. The broader sub-grantee network of 342 participating institutions represents secondary academic and sub-contractor nodes across the 278 national project awards.
