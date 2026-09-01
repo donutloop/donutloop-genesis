@@ -5,6 +5,17 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.13.7] - 2026-09-01
+
+### Added
+- **Reference Index Entry (`references.md`)**: Registered the Duke University Pratt School of Engineering feature [*DOE-Funded Brain-Inspired Hardware to Enable Futuristic Robotic Systems*](https://pratt.duke.edu/news/doe-funded-brain-inspired-hardware-to-enable-futuristic-robotic-systems/) (`pratt.duke.edu`) under *National Labs & University Coverage → Universities & Research Institutions*.
+- **Neuromorphic Robotics Enrichment (§3, README.md & README.de.md)**: Added a *Duke University (Pratt School of Engineering), Georgia Tech & Brookhaven National Laboratory* bullet to the **AI Architecture, Foundation Models & Agentic Discovery** group documenting the **Phase I** Genesis Mission award (nine months, **$500,000–$750,000**) led by **Yiran Chen** with **Tania Roy** (Duke), **Shimeng Yu** (Georgia Tech) and **Wei Xu** (Brookhaven National Laboratory) to build **brain-inspired neuromorphic hardware for robotics** targeting **10× faster and 100× more energy-efficient** AI processing, the **55-billion-parameter vision-language-action (VLA)** datacenter-GPU bottleneck it addresses, the memristive and 2D-material device basis for co-locating memory and computation, and the on-device perception–reasoning–actuation goal for real-time mobile robotic autonomy.
+
+### Changed
+- **Master Index Sync (`reference_coverage.md`)**: Registered the new `pratt.duke.edu` link in the Master Reference Link Index with status `Processed` and raised the `pratt.duke.edu` domain row to **2** links. Updated Section 1 metrics (Total Reference Links **644 → 645**, Web Portals & Press Releases **621 → 622**, Processing Status **645 / 645 Processed, 100% Complete**) and the Section 2 distribution table (`5. National Labs & University Coverage` **330 → 331**, share 51.2% → 51.3%; recalculated share for Section 4, 28.3% → 28.2%).
+- **Coverage Tracker (`coverage.md`)**: Extended the **Duke University** entry with the second Phase 1 award for neuromorphic brain-inspired robotic hardware; no new entities were introduced, so all summary metrics remain unchanged.
+- **Version Bump**: Incremented the version string to `3.13.7` across `README.md` and `README.de.md`.
+
 ## [3.13.6] - 2026-09-01
 
 ### Added

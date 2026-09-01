@@ -1,7 +1,7 @@
 # Genesis Mission — Master Reference Coverage Report
 
 > **Document Overview:**
-> This report provides a comprehensive coverage analysis, breakdown, and master audit index for the **644 external reference links** compiled within `references.md` for the **Genesis Mission** documentation repository.
+> This report provides a comprehensive coverage analysis, breakdown, and master audit index for the **645 external reference links** compiled within `references.md` for the **Genesis Mission** documentation repository.
 
 ---
 
@@ -9,13 +9,13 @@
 
 | Metric | Count / Value | Description |
 | :--- | :--- | :--- |
-| **Total Reference Links** | **644** | Unique external links indexed across all sections |
+| **Total Reference Links** | **645** | Unique external links indexed across all sections |
 | **Primary Document Sections** | **7** | High-level thematic categories in `references.md` |
 | **Unique Target Domains** | **312** | Distinct domain names referenced (government, lab, corporate, academic, news) |
 | **Official PDF Documents** | **23** | Formal RFA solicitations, webinars, slides, and executive reports |
-| **Web Portals & Press Releases** | **621** | Newsroom features, corporate blog posts, and interactive hubs |
+| **Web Portals & Press Releases** | **622** | Newsroom features, corporate blog posts, and interactive hubs |
 | **Validation Status** | **100% Validated** | All links canonicalized, formatted, and deduplicated |
-| **Processing Status** | **644 / 644 Processed** | 0 Unprocessed, 644 Processed (100% Complete) |
+| **Processing Status** | **645 / 645 Processed** | 0 Unprocessed, 645 Processed (100% Complete) |
 
 ---
 
@@ -26,8 +26,8 @@
 | `1. Key Presentation Details` | **3** | 0.5% | Briefing agendas, U.S. ATLAS IB meeting details & CERN links |
 | `2. Collaborators` | **80** | 12.4% | Official homepage & announcement links for industrial/energy partners |
 | `3. Quantum Leadership & CHIPS Act Initiatives` | **11** | 1.7% | Department of Commerce NIST LOIs & DOE $2B quantum initiatives |
-| `4. Executive, Federal & Partner Announcements` | **182** | 28.3% | White House releases, Cabinet agency press, hyperscaler & lab announcements |
-| `5. National Labs & University Coverage` | **330** | 51.2% | National Laboratory news portals & 72 awardee university press releases |
+| `4. Executive, Federal & Partner Announcements` | **182** | 28.2% | White House releases, Cabinet agency press, hyperscaler & lab announcements |
+| `5. National Labs & University Coverage` | **331** | 51.3% | National Laboratory news portals & 72 awardee university press releases |
 | `6. Additional Event Materials & Reference Links` | **18** | 2.8% | Presentation slide decks, institutional intro files & video recordings |
 | `7. Technical Documents, RFA Guidance & Official Webinars` | **20** | 3.1% | DE-FOA-0003612 solicitations, OSTP challenge papers, SCAC presentations & peer-reviewed AI-for-science research |
 
@@ -49,7 +49,7 @@ Below is the distribution of references grouped by top domain hosts and institut
 | `www.nist.gov` | **4** | NIST / Department of Commerce | CHIPS Act LOIs, quantum semiconductor incentives, NIST AI join launch |
 | `www.boisestate.edu` | **2** | Boise State University Office of Sponsored Programs & DRED | DE-FOA-0003612 topic focus areas (PDF) & collaborative research/travel seed-funding RFP |
 | `www.brown.edu` | **1** | University Newsroom | Brown University National Labs Day spotlights collaboration in AI-enabled science and energy innovation |
-| `pratt.duke.edu` | **1** | Duke University Pratt School of Engineering | Duke-led Genesis Mission AI platform for DNA origami self-assembly into programmable superlattices |
+| `pratt.duke.edu` | **2** | Duke University Pratt School of Engineering | Duke-led Genesis Mission AI platform for DNA origami self-assembly into programmable superlattices, and Duke-led neuromorphic brain-inspired hardware for energy-efficient on-device robotic AI |
 | `www.eng.ufl.edu` | **1** | University of Florida Herbert Wertheim College of Engineering | UF-led Genesis Mission AI + electron microscopy platform for accelerated discovery of stronger, heat-resistant structural materials |
 | `cee.engr.uconn.edu` | **1** | UConn School of Civil & Environmental Engineering | UConn-led AI-enabled digital twin for coupled surface–subsurface hydrologic and biogeochemical simulation in the Northeast U.S. coastal region |
 | `oden.utexas.edu` | **1** | UT Austin Oden Institute for Computational Engineering and Sciences | Oden Institute faculty leadership across four Genesis Mission projects — INL-led Project Prometheus nuclear digital twins, fusion reactor digital twins, rare earth mineral separation and additive manufacturing |
@@ -797,3 +797,4 @@ A tabular master index for the 633-reference collection:
 | 5. National Labs & University Coverage | Lawrence Berkeley National Laboratory (ATAP Division) | LBNL ATAP News: AI for Smarter, More Powerful, More Efficient Particle Accelerators | `atap.lbl.gov` | Web | [LBNL ATAP News: AI for Smarter, More Powerful, More Efficient Particle Accelerators](https://atap.lbl.gov/news/ai-for-smarter-more-powerful-more-efficient-particle-accelerators) | `Processed` |
 | 7. Technical Documents, RFA Guidance & Official Webinars | DOE Office of Science — Isotope R&D and Production (DOE IP) | DOE Office of Science: Isotope R&D and Production (DOE IP) Funding Opportunities Portal | `science.osti.gov` | Web | [DOE Office of Science: Isotope R&D and Production (DOE IP) Funding Opportunities Portal](https://science.osti.gov/Isotope-Research-Development-and-Production/Funding-Opportunities) | `Processed` |
 | 5. National Labs & University Coverage | Lawrence Berkeley National Laboratory (ATAP Division) | LBNL ATAP: Fusion, AI, and the Genesis Mission | `atap.lbl.gov` | Web | [LBNL ATAP: Fusion, AI, and the Genesis Mission](https://atap.lbl.gov/research/crosscutting-endeavors/fusion-energy-science/fusion-ai-and-the-genesis-mission/) | `Processed` |
+| 5. National Labs & University Coverage | Duke University (Pratt School of Engineering) | DOE-Funded Brain-Inspired Hardware to Enable Futuristic Robotic Systems | `pratt.duke.edu` | Web | [DOE-Funded Brain-Inspired Hardware to Enable Futuristic Robotic Systems](https://pratt.duke.edu/news/doe-funded-brain-inspired-hardware-to-enable-futuristic-robotic-systems/) | `Processed` |
