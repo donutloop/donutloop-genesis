@@ -1,7 +1,7 @@
 # Genesis Mission — Master Reference Coverage Report
 
 > **Document Overview:**
-> This report provides a comprehensive coverage analysis, breakdown, and master audit index for the **650 external reference links** compiled within `references.md` for the **Genesis Mission** documentation repository.
+> This report provides a comprehensive coverage analysis, breakdown, and master audit index for the **651 external reference links** compiled within `references.md` for the **Genesis Mission** documentation repository.
 
 ---
 
@@ -9,13 +9,13 @@
 
 | Metric | Count / Value | Description |
 | :--- | :--- | :--- |
-| **Total Reference Links** | **650** | Unique external links indexed across all sections |
+| **Total Reference Links** | **651** | Unique external links indexed across all sections |
 | **Primary Document Sections** | **7** | High-level thematic categories in `references.md` |
 | **Unique Target Domains** | **315** | Distinct domain names referenced (government, lab, corporate, academic, news) |
 | **Official PDF Documents** | **24** | Formal RFA solicitations, webinars, slides, and executive reports |
-| **Web Portals & Press Releases** | **626** | Newsroom features, corporate blog posts, and interactive hubs |
+| **Web Portals & Press Releases** | **627** | Newsroom features, corporate blog posts, and interactive hubs |
 | **Validation Status** | **100% Validated** | All links canonicalized, formatted, and deduplicated |
-| **Processing Status** | **650 / 650 Processed** | 0 Unprocessed, 650 Processed (100% Complete) |
+| **Processing Status** | **651 / 651 Processed** | 0 Unprocessed, 651 Processed (100% Complete) |
 
 ---
 
@@ -26,8 +26,8 @@
 | `1. Key Presentation Details` | **3** | 0.5% | Briefing agendas, U.S. ATLAS IB meeting details & CERN links |
 | `2. Collaborators` | **80** | 12.3% | Official homepage & announcement links for industrial/energy partners |
 | `3. Quantum Leadership & CHIPS Act Initiatives` | **11** | 1.7% | Department of Commerce NIST LOIs & DOE $2B quantum initiatives |
-| `4. Executive, Federal & Partner Announcements` | **183** | 28.2% | White House releases, Cabinet agency press, hyperscaler & lab announcements |
-| `5. National Labs & University Coverage` | **334** | 51.4% | National Laboratory news portals & 72 awardee university press releases |
+| `4. Executive, Federal & Partner Announcements` | **183** | 28.1% | White House releases, Cabinet agency press, hyperscaler & lab announcements |
+| `5. National Labs & University Coverage` | **335** | 51.5% | National Laboratory news portals & 72 awardee university press releases |
 | `6. Additional Event Materials & Reference Links` | **18** | 2.8% | Presentation slide decks, institutional intro files & video recordings |
 | `7. Technical Documents, RFA Guidance & Official Webinars` | **21** | 3.2% | DE-FOA-0003612 solicitations, OSTP challenge papers, SCAC presentations & peer-reviewed AI-for-science research |
 
@@ -39,7 +39,7 @@ Below is the distribution of references grouped by top domain hosts and institut
 
 | Domain Host | Reference Count | Host Category | Key Represented Institutions / Content |
 | :--- | :---: | :--- | :--- |
-| `www.energy.gov` | **51** | U.S. Department of Energy (DOE) | FOA releases, Secretary announcements, OSTP challenge docs, Office of the Under Secretary for Science leadership, SBIR/STTR funding, Challenges Team guidance, and Office of Nuclear Energy first-year nuclear policy wins |
+| `www.energy.gov` | **52** | U.S. Department of Energy (DOE) | FOA releases, Secretary announcements, OSTP challenge docs, Office of the Under Secretary for Science leadership, SBIR/STTR funding, Challenges Team guidance, and Office of Nuclear Energy first-year nuclear policy wins |
 | `www.anl.gov` | **32** | Argonne National Laboratory (ANL) | ALCF compute platforms, Genesis Open Models, SPOTTER, RoSA robotics, MIRAGE, 2025 research breakthroughs, STREAMLINE AI nuclear physics |
 | `science.osti.gov` | **12** | DOE Office of Science (OSTI) | DE-FOA-0003612 guidance, BES/FES/HEP/BER webinars, FAQs, award flyer, Isotope R&D and Production (DOE IP) funding opportunities portal |
 | `www.whitehouse.gov` | **7** | White House OSTP / Executive Office | Presidential executive actions, OSTP wins reports, press releases |
@@ -807,3 +807,4 @@ A tabular master index for the 633-reference collection:
 | 5. National Labs & University Coverage | University of Chicago (Argonne National Laboratory operator) | Argonne Marks 80 Years of Scientific Discovery | `news.uchicago.edu` | Web | [Argonne Marks 80 Years of Scientific Discovery](https://news.uchicago.edu/story/argonne-marks-80-years-scientific-discovery) | `Processed` |
 | 5. National Labs & University Coverage | University of Texas at Austin (College of Natural Sciences — Institute for Fusion Studies) | Fusion Energy Seed Grants Launch New Interdisciplinary Collaborations at the University | `cns.utexas.edu` | Web | [Fusion Energy Seed Grants Launch New Interdisciplinary Collaborations at the University](https://cns.utexas.edu/news/announcements/fusion-energy-seed-grants-launch-new-interdisciplinary-collaborations-university) | `Processed` |
 | 4. Executive, Federal & Partner Announcements | Databricks (Energy & Manufacturing) | How Ontologies Help Nuclear Scale to Meet Global Energy Demand | `www.databricks.com` | Web | [How Ontologies Help Nuclear Scale to Meet Global Energy Demand](https://www.databricks.com/blog/how-ontologies-help-nuclear-scale-meet-global-energy-demand) | `Processed` |
+| 5. National Labs & University Coverage | Savannah River National Laboratory (SRNL) / DOE Office of Environmental Management | Assistant Secretary Walsh Views the 'Art of the Possible' in SRS Visit | `www.energy.gov` | Web | [Assistant Secretary Walsh Views the 'Art of the Possible' in SRS Visit](https://www.energy.gov/em/articles/assistant-secretary-walsh-views-art-possible-srs-visit) | `Processed` |

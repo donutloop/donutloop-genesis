@@ -558,6 +558,7 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
   * [SRNL Contributes Key Expertise to DOE's New Genesis Mission](https://www.energy.gov/em/articles/srnl-contributes-key-expertise-does-new-genesis-mission)
   * [SRNL Harnesses AI to Tackle Environmental Challenges and Cut Cleanup Costs](https://www.energy.gov/em/articles/srnl-harnesses-ai-tackle-environmental-challenges-cut-cleanup-costs)
   * [SRNL Makes Strong Showing at 2026 AI Expo](https://www.energy.gov/em/articles/savannah-river-national-laboratory-makes-strong-showing-2026-ai-expo)
+  * [Assistant Secretary Walsh Views the 'Art of the Possible' in SRS Visit](https://www.energy.gov/em/articles/assistant-secretary-walsh-views-art-possible-srs-visit)
 * **SLAC National Accelerator Laboratory:** 
   * [Leading Projects Alongside Stanford](https://news.stanford.edu/stories/2026/07/stanford-and-slac-to-lead-genesis-mission-projects)
   * [SLAC ISDCI Genesis Portal](https://isdci.slac.stanford.edu/genesis)
