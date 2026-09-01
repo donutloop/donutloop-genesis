@@ -5,6 +5,19 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.13.10] - 2026-09-01
+
+### Added
+- **Google Public Sector & DeepMind Reprocessing (§3.1, README.md & README.de.md)**: Restructured the **Google Public Sector & DeepMind** industry profile into dedicated sub-bullets — *MOUs, Grants & Commitments* (the **$40 Million** commitment structured as AI tokens and Google Cloud credits for all **17 DOE National Laboratories** and Genesis Mission awardees, bundling one year of **Gemini for Government** seats and token allocations for tens of thousands of research and operational staff with in-kind access to the Google DeepMind *AI for Science* portfolio, aligned with the goal of doubling the pace of American scientific discovery within a decade), *Technical Capabilities (Secure Platform & Compute)* (accredited, FedRAMP-aligned **Gemini for Government** enclave with natural-language querying across papers, experimental imagery and enterprise datasets, backed by GCP credits and **TPU v5p / v6e** accelerator access), *Technical Capabilities (Agents & Code Optimization)* (**AI Co-Scientist** multi-agent hypothesis generation and workflow compression — electron microscope calibration cut from roughly **90 minutes to 13 minutes**, drug-repurposing candidate generation and resistance-mechanism prediction — plus the **AlphaEvolve** evolutionary code-optimization agent for Python, C++ and CUDA HPC workflows), *Technical Capabilities (Scientific Foundation Models)* (**AlphaFold 3**, **AlphaGenome**, **WeatherNext**, **AlphaEarth Foundations**), and *Mission Domains* (energy and materials discovery, biomedical and life sciences, weather/climate/Earth-system modeling, and laboratory and administrative productivity).
+
+### Changed
+- **Coverage Tracker (`coverage.md`)**: Incremented the **Google / DeepMind / Public Sector** `Process Count` to **1**, extended its `Paper Section` to `§3.1, A.3`, and refreshed its notes with the $40M AI-token and GCP-credit structure across all 17 National Laboratories, the FedRAMP-accredited Gemini for Government seat scale, the AI Co-Scientist calibration speed-up, the in-kind AlphaEvolve/AlphaFold 3/AlphaGenome/WeatherNext/AlphaEarth Foundations portfolio, and TPU v5p/v6e access. No entities were added or removed, so all summary metrics (237 total, 198 full profiles, 83.5%) remain unchanged.
+- **Abstract (§ Abstract, README.md & README.de.md)**: Extended the Google commitment sentence with the all-17-laboratory scope and the **AlphaEvolve**, **WeatherNext** and **AlphaEarth Foundations** model references.
+- **Capital Architecture (§ Hyperscaler & Cloud Resource Capital, README.md)**: Expanded the Google entry with the one-year Gemini for Government seat scale and in-kind AI-for-science model access.
+- **Appendix A.3 (README.md & README.de.md)**: Updated the **Google / Google DeepMind / Google Public Sector** partner row to reflect the reprocessed scope (AI tokens & GCP credits, Gemini for Government seats, TPU v5p/v6e access, AI Co-Scientist, AlphaEvolve, AlphaFold 3, AlphaGenome, WeatherNext, AlphaEarth Foundations).
+- **Reference Integrity (`references.md`)**: All existing Google DeepMind, Google Public Sector, Google Cloud $40M and AlphaEvolve reference links retained unchanged; no links were removed.
+- **Version Bump**: Incremented the version string to `3.13.10` across `README.md` and `README.de.md`.
+
 ## [3.13.9] - 2026-09-01
 
 ### Added
