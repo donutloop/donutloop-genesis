@@ -95,6 +95,7 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
 * [University of Chicago](https://www.uchicago.edu/)
 * [Deployable Energy](https://www.deployable.energy/)
 * [ChipNexus (formerly Primis AI)](https://chipnexus.ai/)
+* [EdenCode](https://github.com/EdenCodeInc)
 
 ---
 
@@ -363,6 +364,7 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
 * [National Reactor Innovation Center (NRIC): Nuclear Energy Launch Pad](https://nric.inl.gov/) - INL-hosted DOE demonstration pathway extending the Reactor Pilot Program, providing site access, fuel logistics and national-laboratory expertise for privately funded first-of-a-kind reactor demonstrations such as Unity.
 * [ChipNexus (formerly Primis AI)](https://chipnexus.ai/): [Primis AI Becomes ChipNexus and Launches NEX for Agentic Chip-Design Automation](https://www.semiconductor-digest.com/primis-ai-becomes-chipnexus-and-launches-nex-for-agentic-chip-design-automation/) - July 2026 rebrand of the 2023-founded Primis AI to ChipNexus, launch of the NEX agentic chip-design automation platform (RTL generation, digital and analog simulation, verification triage, synthesis and physical design over existing EDA toolchains) and close of a seed round led by Cambium Capital; founded by University of Utah ECE professor Pierre-Emmanuel Gaillardon (Founder and President) with Valerio Tenace (Co-Founder and CTO).
 * [University of Utah ECE: Morteza Fayazi Among First Class of Genesis Mission Awardees](https://www.ece.utah.edu/2026/08/04/morteza-fayazi-among-first-class-of-genesis-mission-awardees/) - University of Utah account of the Genesis Mission project *Neuromorphic Terahertz Imaging via Analog Compute-in-Memory in AI-Driven Augmented Reality Hardware*, led by UW ECE Assistant Professor Hossein Naghavi with Utah co-investigator Morteza Fayazi, Texas A&M University, PrimisAI (ChipNexus) and NVIDIA, performing obscurant-penetrating scene inference on the sensor chip via analog compute-in-memory rather than energy-intensive off-chip data transfer.
+* [EdenCode](https://github.com/EdenCodeInc): [EdenCode Emerges From Stealth With Real-Time AI Decoder For Quantum Error Correction](https://thequantuminsider.com/2026/01/24/edencode-emerges-from-stealth-with-real-time-ai-decoder-for-quantum-error-correction/) - Launch coverage of the San Jose-based startup founded in 2025 by Wanda Hou (CEO) and UC San Diego physicist Yi-Zhuang You (CTO), detailing its $1.3 Million pre-seed round and its hardware-agnostic neural decoder for real-time quantum error correction (sub-millisecond decoding, ~10× faster than conventional classical decoders, trained on measured noise from live quantum hardware); EdenCode is a subawardee on the UC San Diego-led SIDERIUS Genesis Mission project.
   
 ---
 
