@@ -5,6 +5,17 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.13.20] - 2026-09-01
+
+### Added
+- **Reference Processing (`references.md`)**: Indexed the University of Chicago newsroom feature *Argonne Marks 80 Years of Scientific Discovery* (`news.uchicago.edu`) under §5 *National Labs & University Coverage* in the new **University of Chicago** group.
+- **Paper Enrichment (§3.2, README.md & README.de.md)**: Extended the **Argonne National Laboratory (ANL)** entry with the operator-side 80th-anniversary retrospective published by the **University of Chicago** (**UChicago Argonne, LLC**) — the 1946 charter as a Manhattan Project successor for peaceful atomic energy, the **Experimental Breeder Reactor-I (EBR-I)** demonstration of the world's first usable nuclear electricity, and the present portfolio spanning **Aurora** exascale computing, the renewed **Q-NEXT** quantum information science hub, a world-record electron beam emittance at the upgraded **Advanced Photon Source**, nearly **8,000 researchers annually** across DOE user facilities, the *Beyond the Reactor* **OutLoud** lecture, the **Argonne AI Roadshow**, a June 2026 open house with 8,000+ visitors, and the forward agenda embedding AI into discovery under the **Genesis Mission**.
+
+### Changed
+- **Master Index (`reference_coverage.md`)**: Registered the new link as `Processed`; Total Reference Links **647 → 648**, Web Portals & Press Releases **623 → 624**, Unique Target Domains **313 → 314**, Processing Status **648 / 648 Processed, 100% Complete**. Section distribution updated (§5 **332 → 333**, 51.4%; §2 12.3%) and the new `news.uchicago.edu` domain registered with a count of **1**.
+- **Coverage Tracker (`coverage.md`)**: Added **University of Chicago** to the university section as `❌ Not Covered (reference only)`; totals updated to **238** tracked entities (Universities **90 → 91**, Not Covered **39 → 40**) with full-profile coverage restated as **198 / 238 (83.2%)**.
+- **Version Bump**: Incremented the version string to `3.13.20` across `README.md` and `README.de.md`.
+
 ## [3.13.19] - 2026-09-01
 
 ### Added
