@@ -5,6 +5,17 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.13.9] - 2026-09-01
+
+### Added
+- **Anthropic Reprocessing (§3.1, README.md & README.de.md)**: Restructured the **Anthropic** industry profile into dedicated sub-bullets — *MOUs, Grants & Commitments* (DOE-wide MOU as one of the 24 founding corporate collaborators of the Genesis Mission Consortium administered by TechWerx at RTI International, a dedicated Anthropic engineering team embedded with lab staff, prior NNSA nuclear-risk classifier collaboration, enterprise deployment reaching ~10,000 researchers at LLNL, and academic/non-profit seat and compute-credit programs), *Technical Capabilities (Models & Reasoning)* (**Claude 3.5/3.7 Sonnet** and the **Anthropic Science** model family for CUDA/Fortran exascale code refactoring, simulation pre-/post-processing automation, and literature synthesis across five decades of DOE research archives), *Technical Capabilities (Agents, Skills & Tooling)* (**MCP servers**, **Claude Skills**, generalist agents coordinating specialist sub-agents across genomics, proteomics, structural biology and cheminformatics, a **reviewer agent** validating citations, calculations and figures, and artifact-level code/environment/conversation provenance for reproducible closed-loop lab orchestration), and *Mission Domains* (energy dominance and permitting, biological and life sciences, and researcher productivity).
+
+### Changed
+- **Coverage Tracker (`coverage.md`)**: Incremented the **Anthropic** `Process Count` to **1** and refreshed its notes with the DOE-wide MOU and Consortium founding-partner status, the Claude 3.5/3.7 Sonnet and Anthropic Science model portfolio, MCP servers, Claude Skills and reviewer agents across all 17 National Laboratories, the NNSA nuclear-risk classifiers, and the energy-permitting, life-science and exascale code-refactoring workflows. No entities were added or removed, so all summary metrics (237 total, 198 full profiles, 83.5%) remain unchanged.
+- **Abstract (§ Abstract, README.md & README.de.md)**: Extended the Anthropic MOU reference to include **Claude Skills** and the deployment scope across all 17 National Laboratories.
+- **Appendix A.3 (README.md & README.de.md)**: Updated the **Anthropic** partner row to reflect the reprocessed scope (Claude 3.5/3.7 Sonnet, Anthropic Science, MCP servers, Claude Skills, reviewer agents, energy permitting, life sciences and exascale code refactoring).
+- **Version Bump**: Incremented the version string to `3.13.9` across `README.md` and `README.de.md`.
+
 ## [3.13.8] - 2026-09-01
 
 ### Added
