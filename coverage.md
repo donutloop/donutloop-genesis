@@ -93,7 +93,7 @@
 | 0 | [Semiconductor Industry Association](https://www.semiconductors.org/) | ✅ Full Profile | §3.1, A.3 | CHIPS Act microelectronics policy coordination, workforce development & supply chain strategy |
 | 0 | [Siemens](https://www.siemens.com/) | ✅ Full Profile | §3.1, A.3 | Industrial AI software, Xcelerator digital twins, DOE strategic MOU & smart grid automation; Siemens Government Technologies (SGT) federal arm delivering the connected simulation, automation & secure infrastructure stack |
 | 0 | [Synopsys](https://www.synopsys.com/) | ✅ Full Profile | §3.1, A.3 | Synopsys.ai EDA platform (DSO.ai, VSO.ai, TSO.ai, AgentEngineer™), Custom Compiler, TCAD, PrimeTime & HAV emulation for AI chips and quantum control ASICs |
-| 0 | [xLight](https://xlight.inc/) | ✅ Full Profile | §3.1, A.3 | About portal (xlight.com/about), $150M CHIPS Act, FEL EUV lithography & Fermilab CRADA |
+| 1 | [xLight](https://xlight.inc/) | ✅ Full Profile | §3.1, A.3 | About portal (xlight.com/about), Dec 2025 Commerce LOI → June 2026 finalized $150M CHIPS award + $150M private match, energy-recovery SRF linac FEL EUV source vs. LPP, utility-scale multi-scanner High-NA distribution, Fermilab SRF cryomodule CRADA & LANL ML beam stabilization |
 | 0 | [ChipNexus](https://www.chipnexus.com) | ❌ Not Covered | — | Neuromorphic terahertz imaging & analog compute-in-memory hardware collaborator (reference only) |
 
 ---

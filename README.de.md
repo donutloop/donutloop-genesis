@@ -1,4 +1,4 @@
-**Version**: 3.13.25
+**Version**: 3.13.26
 
 # Die Genesis-Mission: Architektur, strategische Initiativen und das multi-institutionelle Ökosystem für KI- und quantengetriebene wissenschaftliche Entdeckungen
 
@@ -355,6 +355,11 @@ Zu den wichtigsten Highlights der Modalitäten im Rahmen der Quantenzusagen geh�
 
 * **xLight (150 Millionen US-Dollar CHIPS Act Preis & 150 Mio. $ privater Match):**
   - *EUV-Lithografie*: Freie-Elektronen-Laser-(FEL)-EUV-Lichtquelle-Prototyp am Albany NanoTech mit NIST & Fermilab SRF-Kryomodulen für inländische Sub-2nm-Halbleitersouveränität.
+  - *Bundesförderungssequenz*: Die im **Dezember 2025** vom NIST angekündigte **Absichtserklärung** des Handelsministeriums wurde im **Juni 2026** in einen **finalisierten CHIPS-Incentives-Preis über 150 Millionen US-Dollar** überführt, ergänzt durch eine gleich hohe **private Zusage von 150 Mio. $**, mit Ziel eines Prototyps am **Albany NanoTech Complex** bis **2028**.
+  - *Beschleuniger-Hardwarearchitektur*: Energierückgewinnender **supraleitender Hochfrequenz-(SRF)-Linac** als Treiber eines Freie-Elektronen-Laser-Oszillators; ersetzt zinntropfenbasierte **lasererzeugte Plasmaquellen (LPP)** durch eine saubere Hochvakuum-Photonenstrahlführung, die Kollektorspiegel-Kontamination vermeidet und eine um Größenordnungen höhere Leistungsreserve bietet.
+  - *Versorgungsskalige Multi-Scanner-Verteilung*: Eine einzige Beschleunigerquelle versorgt zahlreiche **High-NA-EUV-Scanner** einer Fab, senkt die Kapitalkosten je Scanner und erhöht den Waferdurchsatz für 3nm-, 2nm- und 1.4nm-Knoten.
+  - *National-Labor-CRADAs*: **Fermilab**-CRADA zur gemeinsamen Entwicklung hochgradientiger SRF-Kavitäten und Kryomodule für Linacs hoher Wiederholrate, ergänzt durch Arbeiten des **Los Alamos National Laboratory** zu maschinellem Lernen für die Echtzeit-Stabilisierung von Elektronenstrahl und HF — derselbe KI-für-Beschleuniger-Strang, den Fermilab unter Genesis zur adaptiven SRF-Resonanzregelung verfolgt.
+  - *Führung*: Executive Chairman **Pat Gelsinger** (ehemaliger Intel-CEO) und Vorstandsmitglied **Dr. Thomas Caulfield** (GlobalFoundries), unterstützt durch eine **Series-B-Finanzierung über 40 Mio. $** zur Kommerzialisierung.
 
 ### 2.3 Wissenschaftliche Domänenanwendungen & geschlossene Arbeitsabläufe
 
@@ -1082,7 +1087,7 @@ Industrielle Mitwirkende umfassen Cloud- und KI-Hyperscaler, Halbleiterherstelle
 | [Kitware](https://www.kitware.com/) | Open-Source wissenschaftliche Visualisierung (ParaView, VTK, CMake), In-situ HPC-Analytics & FAIR Computer Vision |
 | [AVEVA](https://www.aveva.com/) | Industrielle Software für Unternehmen, SCADA-Integration, betriebliche Telemetrie & digitale Energiezwillingsmodelle |
 | [Cornelis Networks](https://www.cornelisnetworks.com/) | Next-Gen Omni-Path (OPX) Hochleistungs-Interconnects & Exascale-KI-Netzwerke |
-| [xLight](https://xlight.inc/) | 150 Mio. $ CHIPS Act FEL-basierte EUV-Lithografie (Ziel 2028), Fermilab SRF/Kryomodul-CRADA, Albany NanoTech Prototyp, versorgungsskalige Multi-Scanner-FEL-Architektur & Pat Gelsinger Vorstandsleitung |
+| [xLight](https://xlight.inc/) | Finalisierter CHIPS-Act-Preis über 150 Mio. $ (LOI Dez. 2025 → Preis Juni 2026) plus 150 Mio. $ privater Match, energierückgewinnender SRF-Linac als FEL-EUV-Lichtquelle (Prototyp Albany NanoTech 2028), Fermilab SRF/Kryomodul-CRADA & LANL-Strahlstabilisierung mittels maschinellen Lernens, versorgungsskalige Multi-Scanner-High-NA-Architektur & Vorstandsleitung durch Pat Gelsinger / Dr. Thomas Caulfield |
 
 #### Energie, Versorgungsunternehmen & Kritische Materialien
 | Organisation | Primärer Beitrag |
