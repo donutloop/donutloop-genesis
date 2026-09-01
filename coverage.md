@@ -48,7 +48,7 @@
 | 0 | [Edison Scientific](https://www.edisonscientific.com/) | ✅ Full Profile | §3.1, A.3 | AI Co-Scientist foundation models, multi-agent reasoning & automated hypothesis generation |
 | 0 | [Everstar](https://www.everstar.ai/) | ✅ Full Profile | §3.1, A.3 | AI biopharma & multi-agent scientific discovery partner; protein design & MSFT Discovery integration |
 | 0 | [FutureHouse](https://www.futurehouse.org/) | ✅ Full Profile | §3.1, A.3 | AI-driven scientific research automation, PaperQA literature agents & autonomous lab tools |
-| 0 | [Hugging Face](https://huggingface.co/) | ✅ Full Profile | §3.1, A.3 | Open-source scientific model hosting, FAIR datasets, model registry & HPC ecosystem integration |
+| 1 | [Hugging Face](https://huggingface.co/) | ✅ Full Profile | §3.1, A.3 | DOE Office of Science AI Workforce RFI (DE-SC-26-016, March 2026) response: open, reusable artifacts as the default output of DOE-supported programs with tiered risk-based exceptions, DOE-backed distribution infrastructure, evaluation & benchmarking as durable infrastructure; largest open ML platform (2M+ models, 500K+ datasets, ~11M users); Hugging Science initiative (700+ researchers); open-source scientific model hosting, FAIR datasets, model registry & HPC ecosystem integration |
 | 0 | [LILA](https://www.lila.ai/) | ✅ Full Profile | §3.1, A.3 | Collaborative AI platform for scientific discovery; multi-institutional research hub & agentic workflows |
 | 0 | [Meta AI](https://ai.meta.com/) | ✅ Full Profile | §3.1 | Segment Anything & DINO with LBNL |
 | 0 | [OpenAI](https://openai.com/) | ✅ Full Profile | §3.1, A.3 | Frontier reasoning LLM agents; OpenAI for Government; DOE MOU & national science collaboration |
