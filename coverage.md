@@ -272,7 +272,7 @@
 | [University of Pittsburgh](https://www.pitt.edu/) | ✅ Full Profile | §3.3, A.5 | Computational drug discovery foundation models, vascular bio-foundries & SciML |
 | [University of Southern California (USC)](https://usc.edu/) | ✅ Full Profile | §3.3, A.5 | Quantum annealing algorithms, microelectronics reliability & autonomous AI agents |
 | [University of Texas at Arlington](https://www.uta.edu/) | ✅ Full Profile | §3.3, A.5 | DOE Genesis Mission award for real-time AI trust & resilience in EPICS control workflows (LANL partner) |
-| [University of Texas at Austin](https://www.utexas.edu/) | ✅ Full Profile | §3.3, A.5 | Microelectronics lithography modeling, exascale AI model optimization & power grid AI |
+| [University of Texas at Austin](https://www.utexas.edu/) | ✅ Full Profile | §3.3, A.5 | Microelectronics lithography modeling, exascale AI model optimization & power grid AI; Oden Institute faculty leadership across four Genesis projects (INL-led Project Prometheus nuclear digital twins, fusion reactor digital twins, rare earth separation & additive manufacturing) |
 | [University of Utah](https://www.utah.edu/) | ✅ Full Profile | §3.3, A.5 | Geothermal energy reservoir simulation, net-zero carbon fuels & materials informatics |
 | [University of Virginia (UVA)](https://www.virginia.edu/) | ✅ Full Profile | §3.3, A.5 | AI-driven autonomous power grid topology control (Prof. Ferdinando Fioretto, "From Static to Adaptive Grids") |
 | [University of Washington](https://www.washington.edu/) | ❌ Not Covered | — | Partner on the NSF National Data Platform (NDP) to build federated AI-ready national data infrastructure (reference only) |

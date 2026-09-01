@@ -641,6 +641,7 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
 * **University of Texas at Austin:**
   * [Department of Energy’s New AI for Science Genesis Mission Awards Funding to 5 UT Research Projects](https://news.utexas.edu/2026/07/22/department-of-energys-new-ai-for-science-genesis-mission-awards-funding-to-5-ut-research-projects/)
   * [UT Computer Science Wins DOE Genesis Mission Award to Bring Autonomous Robotics to Scientific Research](https://www.cs.utexas.edu/news/2026/ut-computer-science-wins-doe-genesis-mission-award-bring-autonomous-robotics-scientific)
+  * [Oden Institute Faculty Selected for Four Projects in Department of Energy Genesis Mission](https://oden.utexas.edu/news-and-events/news/Oden-Institute-Faculty-Selected-for-Department-of-Energy-Genesis-Mission/)
 * **University of Utah:**
   * [Selected for Multiple DOE Genesis Mission Awards](https://www.research.utah.edu/research-impact/university-of-utah-selected-for-multiple-u-s-department-of-energy-genesis-mission-awards/)
   * [Genesis Mission: A Major New DOE Initiative to Watch](https://www.research.utah.edu/funding-item/genesis-mission-a-major-new-doe-initiative-to-watch/)
