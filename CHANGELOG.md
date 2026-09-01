@@ -5,6 +5,18 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.13.11] - 2026-09-01
+
+### Added
+- **D-Wave Quantum Reprocessing (§3.1, README.md & README.de.md)**: Restructured the **D-Wave Quantum** industry profile into dedicated sub-bullets — *MOUs, Grants & Commitments* (the **$100 Million** Department of Commerce CHIPS Act Letter of Intent with federal equity stake for domestic quantum hardware manufacturing, cryogenic packaging and R&D facilities, the NYSE **QBTS** public listing, a **National Research Council of Canada** R&D award for energy and logistics annealing, and the **Davidson Technologies** defense reseller agreement alongside **Mastercard** and **Nasdaq Verafin** alliances), *Technical Capabilities (Quantum Annealing Hardware)* (**Advantage** 5,000+ flux qubits on the 15-way **Pegasus** topology and **Advantage2** with **4,400+ active qubits** and **48,000+ tunable couplers** on the 20-way **Zephyr** interconnect, 2× energy scale, 40% thermal-noise reduction, sub-microsecond **fast-anneal** control, up to **10× speedups**, and the **100,000+ qubit** multi-chip 3D packaging roadmap), *Technical Capabilities (Gate-Model & Error Correction)* (high-coherence flux qubits, **dual-rail flux-qubit hardware error correction** below physical-qubit thresholds, the first **error-aware gate-model simulator**, and the **100 logical qubits by 2032** target), *Technical Capabilities (Hybrid Cloud & Solvers)* (**Leap** with **SOC 2 Type 1** certification and North America / JUNIQ-Jülich / Singapore / Israel nodes, the **Ocean SDK**, and **CQM**, mixed-integer linear, nonlinear and Quantum AI feature-selection solvers), and *Mission Domains* (grid and energy optimization with ORNL and NREL ARIES, materials and stockpile science at LANL, and logistics, supply-chain and security analytics), plus a cross-link to the [D-Wave Quantum child paper](./child_papers/d-wave.md) / [Kinderpapier](./child_papers/d-wave.de.md).
+
+### Changed
+- **Coverage Tracker (`coverage.md`)**: Incremented the **D-Wave** `Process Count` to **1**, extended its `Paper Section` to `§2.2, §3.1, A.4`, and refreshed its notes with the CHIPS Act LOI and NYSE/NRC Canada funding context, the Advantage/Advantage2 qubit and coupler counts, the dual-rail gate-model error-correction milestones, and the Leap/Ocean hybrid solver deployment across LANL, ORNL and NREL ARIES. No entities were added or removed, so all summary metrics (237 total, 198 full profiles, 83.5%) remain unchanged.
+- **Quantum Leadership (§2.2, README.md & README.de.md)**: Corrected and expanded the *Dual Platform* line for D-Wave to the **4,400+ active Advantage2 qubits with 48,000+ tunable couplers** on the 20-way Zephyr topology and the demonstrated dual-rail hardware error correction below physical-qubit thresholds.
+- **Appendix A.4 (README.md & README.de.md)**: Verified the **D-Wave Quantum** row (superconducting annealing + gate-model modality, $100 Million CHIPS Act LOI) against the reprocessed scope; no change required.
+- **Reference Integrity (`references.md`)**: All existing D-Wave company-portal and $100M CHIPS Act funding reference links retained unchanged; no links were removed.
+- **Version Bump**: Incremented the version string to `3.13.11` across `README.md` and `README.de.md`.
+
 ## [3.13.10] - 2026-09-01
 
 ### Added
