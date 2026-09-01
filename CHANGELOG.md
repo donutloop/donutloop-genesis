@@ -5,6 +5,15 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.13.27] - 2026-09-01
+
+### Changed
+- **Entity Reprocessing (Meta AI — §3.1 & A.3, README.md & README.de.md)**: Reprocessed the **Meta AI** frontier-lab profile against its official announcement *Genesis Mission Partnership with LBNL (Segment Anything & DINO)* (`ai.meta.com`). The §3.1 entry now carries technical sub-bullets covering: the in-kind contribution of **open-weight** vision foundation models to a first-wave Genesis Mission project led by **LBNL** with **Argonne**, **Brookhaven**, **Oak Ridge** and **SLAC**, deployable **on premises inside federal compute enclaves** at NERSC rather than through a closed commercial API so that sensitive and pre-publication experimental data remains in DOE-accredited systems; the model architecture of **DINOv3** — a self-supervised Vision Transformer scaled to **7 billion parameters**, trained on **1.7 billion unlabeled images** with teacher–student self-distillation and **Gram anchoring** for stable dense patch-level features — and **SAM 3** **promptable concept segmentation** producing pixel-level masks from point, box or concept prompts; and the **SYNAPS-I** pipeline running on **300 NVIDIA A100 GPUs** at **NERSC** against the **tens of petabytes** of annual X-ray, neutron and electron imaging data, cutting **micro-CT** segmentation and 3D volume reconstruction (grapevine **xylem vessel** drought response) from roughly **one month** to about **15 minutes** and converting offline analysis into **real-time experiment steering** during active beam time at ALS and NCEM.
+- **Coverage Tracker (`coverage.md`)**: Incremented the **Meta AI** `Process Count` from **0** to **1**, added `A.3` to its `Paper Section`, and expanded its notes with the SAM 3 / DINOv3 model details, the multi-laboratory SYNAPS-I scope, the NERSC on-premises deployment, and the annotation-time reduction. No entities added or removed, so all summary metrics (238 total, 198 full profiles, 83.2%) remain unchanged.
+- **Appendix A.3 (`README.md` & `README.de.md`)**: Refreshed the Meta AI row to match the reprocessed scope.
+- **References (`references.md`)**: Verified integrity — the existing Meta AI blog announcement link was retained unchanged; no new sources were introduced.
+- **Version Bump**: Incremented the version string to `3.13.27` across `README.md` and `README.de.md`.
+
 ## [3.13.26] - 2026-09-01
 
 ### Changed
