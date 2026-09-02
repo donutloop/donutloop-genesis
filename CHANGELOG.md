@@ -5,6 +5,20 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.34.2] - 2026-09-02
+
+### Added
+- **Reference Processed (`references.md`)**: Added [Catholic University Researchers Earn Funding and Awards for AI-Related Research](https://www.catholic.edu/all-stories/catholic-university-researchers-earn-funding-and-awards-ai-related-research) (`www.catholic.edu`) to `## 5. National Labs & University Coverage` under **Universities & Research Institutions**.
+- **Master Index Registration (`reference_coverage.md`)**: Registered the reference in Section 4 (*Master Reference Link Index*) with Category `5. National Labs & University Coverage`, Entity *The Catholic University of America (CUA)*, Host Domain `www.catholic.edu`, Resource Type `Web` and Status `Processed`.
+- **University Research Partner Enrichment (`README.md`, `README.de.md`)**: Added a **The Catholic University of America (CUA) · College of Engineering, Physics, and Computing** node to `### 3.3`, documenting the **$300,000** Genesis Mission award *AI-Driven Expedited Discovery and Background Separation for Petabyte-Scale Streaming Readout* led by nuclear physics professor **Tanja Horn** with **Dominick Rizk** (Computer Science) and **Dmitry Romanov** (Jefferson Lab); the **~100 Gb/s** untriggered streaming-readout data rates of the **Electron-Ion Collider (EIC)** and the limits of conventional trigger logic and bolt-on ML classifiers; the embedding of **physics-aware AI directly inside the data stream** for real-time rare-signal versus background separation and event prioritization ahead of data pile-up; the Phase I prototype target and transferability to other high-throughput DOE facilities; the complementary **$750,000** NSF award *Studies of Pion and Kaon Structure and AI to Expedite Science Output* with student training; and the positioning of CUA on the real-time edge inference layer alongside the William & Mary detector foundation model work and the HPDF data backbone. Full German language parity applied, including Appendix A.5 rows in both papers.
+- **Coverage Audit (`coverage.md`)**: Registered **The Catholic University of America (CUA)** in *Research Universities* with status `❌ Not Covered` `(reference only)`.
+
+### Changed
+- **Coverage Metrics (`coverage.md`)**: Tracked participants **239 → 240**, Universities **91 → 92** (16 → 17 not covered), Not Covered **25 → 26** (10.5% → 10.8%), and full-profile coverage restated as **214 / 240 (89.5% → 89.2%)**.
+- **Metrics Synchronization (`reference_coverage.md`)**: Total Reference Links **652 → 653**, Web Portals & Press Releases **628 → 629**, Unique Target Domains **315 → 316**, Section 5 count **336 → 337** (51.5% → 51.6%), Section 4 share restated **28.1% → 28.0%**, new `www.catholic.edu` domain row (**1**), and Processing Status updated to **653 / 653 Processed, 100% Complete**.
+- **Corpus Figures (`README.md`, `README.de.md`)**: Updated the documented evidentiary corpus from **652** to **653 validated open-source references across 316 distinct domains** in the abstract, contributions summary and conclusion.
+- **Version Bump**: Incremented the version string to `3.34.2` across `README.md` and `README.de.md`.
+
 ## [3.34.1] - 2026-09-02
 
 ### Added
