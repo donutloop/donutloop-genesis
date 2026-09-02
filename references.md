@@ -449,6 +449,7 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
   * [Complete List of Brookhaven Lab Genesis Mission Phase I Projects](https://www.bnl.gov/newsroom/news.php?a=223070)
   * [WANDA 2024 Proceedings (Nuclear Data Working Group PDF)](https://www.nndc.bnl.gov/ndwg/docs/wanda/WANDA-2024-Proceedings.pdf)
   * [Brookhaven and Stony Brook Researchers Demonstrate 'Wireless' Capability for Quantum Network](https://www.bnl.gov/newsroom/news.php?a=123096)
+  * [Brookhaven Lab to Lead $14M AI Project for Nation's Electric Grid](https://www.bnl.gov/newsroom/news.php?a=123136)
 * **Fermilab:** 
   * [DOE Invests to Accelerate AI-Enabled Discovery](https://news.fnal.gov/2026/07/u-s-department-of-energy-invests-in-fermilab-projects-to-accelerate-ai-enabled-scientific-discovery/)
   * [Fermilab Drives Progress for National AI Genesis Mission](https://news.fnal.gov/2026/03/fermilab-drives-progress-for-national-ai-genesis-mission/)

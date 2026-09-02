@@ -1,9 +1,9 @@
 # Genesis Mission — Full Ecosystem Coverage Tracker
 
 > **Scope & Coverage Definition:**
-> - **Flagship Consortium Scope:** Tracks **all 238 primary flagship participants**—lead contractors, federal agencies, national laboratories, awardee universities, strategic industrial partners, and philanthropic foundations—explicitly profiled or referenced in the Genesis Mission paper (`README.md`) and reference index.
+> - **Flagship Consortium Scope:** Tracks **all 239 primary flagship participants**—lead contractors, federal agencies, national laboratories, awardee universities, strategic industrial partners, and philanthropic foundations—explicitly profiled or referenced in the Genesis Mission paper (`README.md`) and reference index.
 > - **Broader National Awardee Network Context:** Under solicitation DE-FOA-0003612 and interagency challenges, the broader national initiative encompasses **342 total participating institutions** (157 companies, 142 universities, 16 national labs, 13 non-profits, 14 other entities across 278 projects).
-> - **Coverage Status:** **214 / 238 (89.9%)** of the tracked consortium entities have dedicated, detailed technical profiles.
+> - **Coverage Status:** **214 / 239 (89.5%)** of the tracked consortium entities have dedicated, detailed technical profiles.
 
 **Legend:**
 - ✅ **Full Profile** — Dedicated section with detailed technical write-up (Sections 2.2 / 3.1 / 3.2 / 3.3 / 3.4 / 3.5)
@@ -125,6 +125,7 @@
 | 1 | [Clean Republic SODO, LLC (Hill Topper / Dakota Lithium)](https://www.electric-bike-kit.com/) | ✅ Full Profile | §3.1, A.3 | Seattle-based lithium battery and light electric mobility manufacturer (incorporated 2012) behind the **Hill Topper** e-bike conversion kits and the **Dakota Lithium** LiFePO4 brand, with a research and pilot-manufacturing presence in Grand Forks, North Dakota alongside UND; 12 V/24 V/48 V deep-cycle LFP packs with integrated BMS (cell balancing, over-charge/over-discharge and short-circuit protection, thermal management); **Dakota Lithium Materials** long-cycle-life iron-phosphate cathodes (6,000–10,000 cycles) via dry-process resonant acoustic mixing, extended to sodium iron phosphate under a **$2M DOE** *Platform Technologies for Transformative Battery Manufacturing* award (Dec 2024) with Boise State University and Savannah River National Laboratory; industry partner on the nine-month UND-led Genesis Mission Phase I project *Adversarial Robustness Framework for AI Models in Battery Management and Energy Science Workflows* (PI Jielun Zhang, co-I Jueming Hu, with Feng Ye of UW–Madison and Fuhao Li of La Sierra University) delivering adversarial testing methods, compromised-data detection and federated learning for BMS AI
 | 0 | [Aclara Technologies](https://www.aclara-resources.com/) | ✅ Full Profile | §3.1, A.3 | Genesis Mission Phase I award (DE-FOA-0003612) for AI-enabled multi-feed heavy rare earth separation; Virginia Tech separation pilot plant; AI-assisted solvent extraction digital twin with Argonne for domestic Dy/Tb recovery |
 | 0 | [Deep Isolation](https://www.deepisolation.com/) | ✅ Full Profile | §3.1, A.3 | Deep borehole disposal & Universal Canister System (UCS) developer; sole industrial partner on three Genesis Mission awards (GeoTrace and a digital-twin repository design project with LBNL, AI-STRATA3D with the University of South Carolina) for AI-driven repository siting, fatal flaw screening & performance analysis |
+| 0 | [Hydro-Québec](https://www.hydroquebec.com/) | ❌ Not Covered | — | Canadian public electric utility and transmission system operator; collaborating institution on the Brookhaven-led $14.2M Genesis Mission Phase II grid foundation model (GridFM) project *Foundation Models for the Electric Grid: From Proof of Concept to Real-world Impacts* (reference only) |
 
 ---
 
@@ -333,20 +334,20 @@
 
 | Entity Type | Total | ✅ Full | 📋 Brief | ❌ Not Covered |
 |:---|:---:|:---:|:---:|:---:|
-| Industry Partners | 93 | 93 | 0 | 0 |
+| Industry Partners | 94 | 93 | 0 | 1 |
 | Federal Agencies | 11 | 11 | 0 | 0 |
 | National Laboratories & Defense Sites | 26 | 23 | 0 | 3 |
 | Universities | 91 | 75 | 0 | 16 |
 | Philanthropy, Policy & Regional Hubs | 17 | 12 | 0 | 5 |
-| **Total** | **238** | **214** | **0** | **24** |
+| **Total** | **239** | **214** | **0** | **25** |
 
 ### By Coverage Level
 
 | Coverage Level | Count | Percentage |
 |:---|:---:|:---:|
-| ✅ Full Profile | 214 | 89.9% |
+| ✅ Full Profile | 214 | 89.5% |
 | 📋 Brief Mention | 0 | 0.0% |
-| ❌ Not Covered | 24 | 10.1% |
-| **Total Entities** | **238** | **100%** |
+| ❌ Not Covered | 25 | 10.5% |
+| **Total Entities** | **239** | **100%** |
 
-> **Note:** The tracker now covers 238 Genesis Mission ecosystem participants, with 214 entities in dedicated technical write-ups (89.9% full-profile coverage). George Washington University, Brown University, Heidelberg University, Howard University, European Coalition for AI in Fundamental Physics (EuCAIF), Colorado School of Mines, UC San Diego, University of Delaware, University of Hawaiʻi at Mānoa, University of Massachusetts Amherst, University of Washington, Boise State University, St. Joseph's University, New York, Kent State University, Southeastern Universities Research Association (SURA), ORISE, Energy Sciences Coalition (ESC), Krell Institute, La Sierra University, Molecular Foundry, Joint Genome Institute (JGI), the University of North Carolina at Chapel Hill (UNC-Chapel Hill), Washington University in St. Louis (WashU), and the National Reactor Innovation Center (NRIC) remain registered as reference-only participants. The broader sub-grantee network of 342 participating institutions represents secondary academic and sub-contractor nodes across the 278 national project awards.
+> **Note:** The tracker now covers 239 Genesis Mission ecosystem participants, with 214 entities in dedicated technical write-ups (89.5% full-profile coverage). George Washington University, Brown University, Heidelberg University, Howard University, European Coalition for AI in Fundamental Physics (EuCAIF), Colorado School of Mines, UC San Diego, University of Delaware, University of Hawaiʻi at Mānoa, University of Massachusetts Amherst, University of Washington, Boise State University, St. Joseph's University, New York, Kent State University, Southeastern Universities Research Association (SURA), ORISE, Energy Sciences Coalition (ESC), Krell Institute, La Sierra University, Molecular Foundry, Joint Genome Institute (JGI), the University of North Carolina at Chapel Hill (UNC-Chapel Hill), Washington University in St. Louis (WashU), the National Reactor Innovation Center (NRIC), and Hydro-Québec remain registered as reference-only participants. The broader sub-grantee network of 342 participating institutions represents secondary academic and sub-contractor nodes across the 278 national project awards.

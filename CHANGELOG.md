@@ -5,6 +5,20 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.34.1] - 2026-09-02
+
+### Added
+- **Reference Processed (`references.md`)**: Added [Brookhaven Lab to Lead $14M AI Project for Nation's Electric Grid](https://www.bnl.gov/newsroom/news.php?a=123136) (`www.bnl.gov`) to `## 5. National Labs & University Coverage` under the **Brookhaven National Laboratory (BNL)** category.
+- **Master Index Registration (`reference_coverage.md`)**: Registered the reference in Section 4 (*Master Reference Link Index*) with Category `5. National Labs & University Coverage`, Entity *Brookhaven National Laboratory (BNL)*, Host Domain `www.bnl.gov`, Resource Type `Web` and Status `Processed`.
+- **National Laboratory Complex Enrichment (`README.md`, `README.de.md`)**: Added a *Grid Foundation Models & Electric Grid AI (Genesis Mission Phase II)* entry to the **Brookhaven National Laboratory (BNL)** node in `### 3.2`, documenting the three-year **$14.2M** project *Foundation Models for the Electric Grid: From Proof of Concept to Real-world Impacts* led by **Hendrik Hamann** (chief AI scientist for Innovation, Science and Security, joint appointee at Stony Brook University); the **$3.9M** Brookhaven share with the balance distributed across Stony Brook University, IBM Research, Argonne National Laboratory, Amazon Web Services and Hydro-Québec; the **grid foundation model (GridFM)** approach of pretraining large neural models on the "language of the grid" (voltages, currents, frequency, topology) to convert power-flow and contingency analysis into an inference problem; the target of simulating up to **1 billion grid scenarios in 24 hours** to compress interconnection and expansion studies; and the linkage to the AWS-partnered **GridSearch** interconnection accelerator and the open-source GridFM community. Full German language parity applied.
+- **Coverage Audit (`coverage.md`)**: Registered **Hydro-Québec** in *Energy, Utilities & Critical Materials* with status `❌ Not Covered` `(reference only)` as a collaborating institution on the Brookhaven-led grid foundation model award.
+
+### Changed
+- **Coverage Metrics (`coverage.md`)**: Tracked participants **238 → 239**, Industry Partners **93 → 94** (1 not covered), Not Covered **24 → 25** (10.1% → 10.5%), and full-profile coverage restated as **214 / 239 (89.9% → 89.5%)**.
+- **Metrics Synchronization (`reference_coverage.md`)**: Total Reference Links **651 → 652**, Web Portals & Press Releases **627 → 628**, Section 5 count **335 → 336** (51.5%), `www.bnl.gov` domain count **8 → 9**, and Processing Status updated to **652 / 652 Processed, 100% Complete**.
+- **Corpus Figures (`README.md`, `README.de.md`)**: Updated the documented evidentiary corpus from **651** to **652 validated open-source references across 315 distinct domains** in the abstract, contributions summary and conclusion.
+- **Version Bump**: Incremented the version string to `3.34.1` across `README.md` and `README.de.md`.
+
 ## [3.34.0] - 2026-09-01
 
 ### Added
