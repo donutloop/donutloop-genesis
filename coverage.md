@@ -1,9 +1,9 @@
 # Genesis Mission — Full Ecosystem Coverage Tracker
 
 > **Scope & Coverage Definition:**
-> - **Flagship Consortium Scope:** Tracks **all 239 primary flagship participants**—lead contractors, federal agencies, national laboratories, awardee universities, strategic industrial partners, and philanthropic foundations—explicitly profiled or referenced in the Genesis Mission paper (`README.md`) and reference index.
+> - **Flagship Consortium Scope:** Tracks **all 240 primary flagship participants**—lead contractors, federal agencies, national laboratories, awardee universities, strategic industrial partners, and philanthropic foundations—explicitly profiled or referenced in the Genesis Mission paper (`README.md`) and reference index.
 > - **Broader National Awardee Network Context:** Under solicitation DE-FOA-0003612 and interagency challenges, the broader national initiative encompasses **342 total participating institutions** (157 companies, 142 universities, 16 national labs, 13 non-profits, 14 other entities across 278 projects).
-> - **Coverage Status:** **214 / 239 (89.5%)** of the tracked consortium entities have dedicated, detailed technical profiles.
+> - **Coverage Status:** **214 / 240 (89.2%)** of the tracked consortium entities have dedicated, detailed technical profiles.
 
 **Legend:**
 - ✅ **Full Profile** — Dedicated section with detailed technical write-up (Sections 2.2 / 3.1 / 3.2 / 3.3 / 3.4 / 3.5)
@@ -293,6 +293,7 @@
 | 0 | [Washington University in St. Louis (WashU)](https://wustl.edu/) | ❌ Not Covered | — | $750,000 Genesis Mission grant (Prof. Keith Hengen, Biology, Arts & Sciences) for *Superconducting Polychronous Computation Near Criticality*, transferring brain criticality principles to self-tuning superconducting quantum sensors with Argonne National Laboratory (reference only) |
 | 1 | [Duke University](https://www.duke.edu/) | ✅ Full Profile | §3.3, A.5 | Two **Phase I** Genesis Mission awards under DE-FOA-0003612 (each **$500,000–$750,000** over nine months, Phase II eligible): (1) **inverse design of DNA origami** (Prof. **Gaurav Arya**, Thomas Lord Department of Mechanical Engineering and Materials Science) — automated search over sequence, shape and interaction-patch design space, trained and validated on the group's physics-based dynamic folding models, closing the gap between sub-**100 nm** origami units and ordered periodic lattices spanning **tens of micrometers** for photonic, electronic and catalytic biomolecular materials; (2) **neuromorphic brain-inspired hardware for robotics** (Prof. **Yiran Chen** with **Tania Roy**, Georgia Tech's **Shimeng Yu** and Brookhaven's **Wei Xu**) targeting **10× faster and 100× more energy-efficient** on-device AI, using memristive synaptic devices and 2D-material stacks to co-locate memory and computation and move perception, reasoning and actuation off datacenter GPUs — motivated by **55-billion-parameter vision-language-action (VLA)** models — with the *steel-born Centaur* prototype; also academic collaborator on the UC Davis heavy-ion-collision AI award (Daniel Cebra) |
 | 1 | [University of Chicago](https://www.uchicago.edu/) | ✅ Full Profile | §3.3, A.5 | Sole member of **UChicago Argonne, LLC**, operating Argonne National Laboratory under DOE prime contract **DE-AC02-06CH11357** since 1 October 2006, extended 14 July 2026 for 1 October 2026 – 30 September 2031 (~$17.3B cumulative obligations, >$1B annual operating budget, Board of Governors chaired by President Paul Alivisatos); lead partner of **Fermi Forward Discovery Group, LLC** (with URA, Amentum Environment & Energy, Longenecker & Associates) holding the Fermilab M&O contract from 1 January 2025 to 31 December 2029 (extendable to 15 years), succeeding Fermi Research Alliance, LLC (2007–2024); hub of the **Chicago Quantum Exchange** (founded 2017 at the Pritzker School of Molecular Engineering under David Awschalom; Argonne, Fermilab, UIUC, UW–Madison, Northwestern, Purdue plus 20+ corporate partners), the **Duality** quantum startup accelerator (Polsky Center, April 2021) and the IBM Quantum System Two / National Quantum Algorithm Center at the 128-acre **IQMP**; one of 11 university partners in the Argonne-led **Q-NEXT** center renewed 4 November 2025 for $125M over five years within DOE's $625M QIS renewal; **Data Science Institute** AI+Science initiative (Franklin/Nicolae, Faculty Director of AI Rebecca Willett, Schmidt AI in Science fellowships) and the **Globus** data-management fabric via Ian Foster's UChicago–Argonne dual appointment; Argonne 80th anniversary (chartered 1 July 1946) agenda centered on Genesis Mission AI |
+| 0 | [The Catholic University of America (CUA)](https://www.catholic.edu/) | ❌ Not Covered | — | $300,000 DOE Genesis Mission award *AI-Driven Expedited Discovery and Background Separation for Petabyte-Scale Streaming Readout* (Prof. Tanja Horn, nuclear physics, with Dominick Rizk, Computer Science, and Dmitry Romanov, Jefferson Lab) embedding physics-aware AI into Electron-Ion Collider streaming readout for real-time rare-signal/background separation, plus a $750,000 NSF award applying AI/ML to pion and kaon structure analysis (reference only) |
 
 ---
 
@@ -337,17 +338,17 @@
 | Industry Partners | 94 | 93 | 0 | 1 |
 | Federal Agencies | 11 | 11 | 0 | 0 |
 | National Laboratories & Defense Sites | 26 | 23 | 0 | 3 |
-| Universities | 91 | 75 | 0 | 16 |
+| Universities | 92 | 75 | 0 | 17 |
 | Philanthropy, Policy & Regional Hubs | 17 | 12 | 0 | 5 |
-| **Total** | **239** | **214** | **0** | **25** |
+| **Total** | **240** | **214** | **0** | **26** |
 
 ### By Coverage Level
 
 | Coverage Level | Count | Percentage |
 |:---|:---:|:---:|
-| ✅ Full Profile | 214 | 89.5% |
+| ✅ Full Profile | 214 | 89.2% |
 | 📋 Brief Mention | 0 | 0.0% |
-| ❌ Not Covered | 25 | 10.5% |
-| **Total Entities** | **239** | **100%** |
+| ❌ Not Covered | 26 | 10.8% |
+| **Total Entities** | **240** | **100%** |
 
-> **Note:** The tracker now covers 239 Genesis Mission ecosystem participants, with 214 entities in dedicated technical write-ups (89.5% full-profile coverage). George Washington University, Brown University, Heidelberg University, Howard University, European Coalition for AI in Fundamental Physics (EuCAIF), Colorado School of Mines, UC San Diego, University of Delaware, University of Hawaiʻi at Mānoa, University of Massachusetts Amherst, University of Washington, Boise State University, St. Joseph's University, New York, Kent State University, Southeastern Universities Research Association (SURA), ORISE, Energy Sciences Coalition (ESC), Krell Institute, La Sierra University, Molecular Foundry, Joint Genome Institute (JGI), the University of North Carolina at Chapel Hill (UNC-Chapel Hill), Washington University in St. Louis (WashU), the National Reactor Innovation Center (NRIC), and Hydro-Québec remain registered as reference-only participants. The broader sub-grantee network of 342 participating institutions represents secondary academic and sub-contractor nodes across the 278 national project awards.
+> **Note:** The tracker now covers 240 Genesis Mission ecosystem participants, with 214 entities in dedicated technical write-ups (89.2% full-profile coverage). George Washington University, Brown University, Heidelberg University, Howard University, European Coalition for AI in Fundamental Physics (EuCAIF), Colorado School of Mines, UC San Diego, University of Delaware, University of Hawaiʻi at Mānoa, University of Massachusetts Amherst, University of Washington, Boise State University, St. Joseph's University, New York, Kent State University, Southeastern Universities Research Association (SURA), ORISE, Energy Sciences Coalition (ESC), Krell Institute, La Sierra University, Molecular Foundry, Joint Genome Institute (JGI), the University of North Carolina at Chapel Hill (UNC-Chapel Hill), Washington University in St. Louis (WashU), the National Reactor Innovation Center (NRIC), Hydro-Québec, and The Catholic University of America (CUA) remain registered as reference-only participants. The broader sub-grantee network of 342 participating institutions represents secondary academic and sub-contractor nodes across the 278 national project awards.

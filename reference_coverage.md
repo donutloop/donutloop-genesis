@@ -1,7 +1,7 @@
 # Genesis Mission — Master Reference Coverage Report
 
 > **Document Overview:**
-> This report provides a comprehensive coverage analysis, breakdown, and master audit index for the **652 external reference links** compiled within `references.md` for the **Genesis Mission** documentation repository.
+> This report provides a comprehensive coverage analysis, breakdown, and master audit index for the **653 external reference links** compiled within `references.md` for the **Genesis Mission** documentation repository.
 
 ---
 
@@ -9,13 +9,13 @@
 
 | Metric | Count / Value | Description |
 | :--- | :--- | :--- |
-| **Total Reference Links** | **652** | Unique external links indexed across all sections |
+| **Total Reference Links** | **653** | Unique external links indexed across all sections |
 | **Primary Document Sections** | **7** | High-level thematic categories in `references.md` |
-| **Unique Target Domains** | **315** | Distinct domain names referenced (government, lab, corporate, academic, news) |
+| **Unique Target Domains** | **316** | Distinct domain names referenced (government, lab, corporate, academic, news) |
 | **Official PDF Documents** | **24** | Formal RFA solicitations, webinars, slides, and executive reports |
-| **Web Portals & Press Releases** | **628** | Newsroom features, corporate blog posts, and interactive hubs |
+| **Web Portals & Press Releases** | **629** | Newsroom features, corporate blog posts, and interactive hubs |
 | **Validation Status** | **100% Validated** | All links canonicalized, formatted, and deduplicated |
-| **Processing Status** | **652 / 652 Processed** | 0 Unprocessed, 652 Processed (100% Complete) |
+| **Processing Status** | **653 / 653 Processed** | 0 Unprocessed, 653 Processed (100% Complete) |
 
 ---
 
@@ -26,8 +26,8 @@
 | `1. Key Presentation Details` | **3** | 0.5% | Briefing agendas, U.S. ATLAS IB meeting details & CERN links |
 | `2. Collaborators` | **80** | 12.3% | Official homepage & announcement links for industrial/energy partners |
 | `3. Quantum Leadership & CHIPS Act Initiatives` | **11** | 1.7% | Department of Commerce NIST LOIs & DOE $2B quantum initiatives |
-| `4. Executive, Federal & Partner Announcements` | **183** | 28.1% | White House releases, Cabinet agency press, hyperscaler & lab announcements |
-| `5. National Labs & University Coverage` | **336** | 51.5% | National Laboratory news portals & 72 awardee university press releases |
+| `4. Executive, Federal & Partner Announcements` | **183** | 28.0% | White House releases, Cabinet agency press, hyperscaler & lab announcements |
+| `5. National Labs & University Coverage` | **337** | 51.6% | National Laboratory news portals & 72 awardee university press releases |
 | `6. Additional Event Materials & Reference Links` | **18** | 2.8% | Presentation slide decks, institutional intro files & video recordings |
 | `7. Technical Documents, RFA Guidance & Official Webinars` | **21** | 3.2% | DE-FOA-0003612 solicitations, OSTP challenge papers, SCAC presentations & peer-reviewed AI-for-science research |
 
@@ -147,6 +147,7 @@ Below is the distribution of references grouped by top domain hosts and institut
 | `www.deepisolation.com` | **1** | Deep Isolation Nuclear, Inc. | Press release on selection as sole industrial partner for three Genesis Mission awards advancing AI-driven deep borehole nuclear waste repository siting, design, and performance analysis (LBNL & University of South Carolina led) |
 | `windowsforum.com` | **2** | Windows Forum News (Technology Press) | Microsoft's $60 Million Genesis Mission commitment and the analytical assessment of Genesis as permanent national AI research infrastructure (American Science and Security Platform, AmSC, ModCon) |
 | `huggingface.co` | **2** | Hugging Face | Open machine-learning platform homepage and the `huggingface/policy-docs` dataset copy of the DOE Office of Science 2026 Genesis Mission AI Workforce Request for Information (RFI DE-SC-26-016) soliciting input on training 100,000 AI-capable scientists and engineers
+| `www.catholic.edu` | **1** | The Catholic University of America (CUA) | University newsroom round-up of the $300,000 DOE Genesis Mission award for physics-aware AI in Electron-Ion Collider streaming readout (Tanja Horn, Dominick Rizk, Jefferson Lab) and a $750,000 NSF nuclear physics AI/ML award |
 
 ---
 
@@ -809,3 +810,4 @@ A tabular master index for the 633-reference collection:
 | 4. Executive, Federal & Partner Announcements | Databricks (Energy & Manufacturing) | How Ontologies Help Nuclear Scale to Meet Global Energy Demand | `www.databricks.com` | Web | [How Ontologies Help Nuclear Scale to Meet Global Energy Demand](https://www.databricks.com/blog/how-ontologies-help-nuclear-scale-meet-global-energy-demand) | `Processed` |
 | 5. National Labs & University Coverage | Savannah River National Laboratory (SRNL) / DOE Office of Environmental Management | Assistant Secretary Walsh Views the 'Art of the Possible' in SRS Visit | `www.energy.gov` | Web | [Assistant Secretary Walsh Views the 'Art of the Possible' in SRS Visit](https://www.energy.gov/em/articles/assistant-secretary-walsh-views-art-possible-srs-visit) | `Processed` |
 | 5. National Labs & University Coverage | Brookhaven National Laboratory (BNL) | Brookhaven Lab to Lead $14M AI Project for Nation's Electric Grid | `www.bnl.gov` | Web | [Brookhaven Lab to Lead $14M AI Project for Nation's Electric Grid](https://www.bnl.gov/newsroom/news.php?a=123136) | `Processed` |
+| 5. National Labs & University Coverage | The Catholic University of America (CUA) | Catholic University Researchers Earn Funding and Awards for AI-Related Research | `www.catholic.edu` | Web | [Catholic University Researchers Earn Funding and Awards for AI-Related Research](https://www.catholic.edu/all-stories/catholic-university-researchers-earn-funding-and-awards-ai-related-research) | `Processed` |
