@@ -62,6 +62,7 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
 * [LILA](https://www.lila.ai/): [Powering American Science: LILA to Join DOE's Genesis Mission](https://www.lila.ai/news/powering-american-science-lila-to-join-does-genesis-mission)
 * [Micron](https://www.micron.com/): [Micron U.S. Expansion](https://www.micron.com/us-expansion) - Domestic memory manufacturer supplying HBM3E/HBM4 stacks, SOCAMM2 LPDDR5X modules, CXL memory expansion and PCIe Gen6 enterprise SSDs for Genesis Mission accelerator and exascale nodes.
 * [Microsoft](https://www.microsoft.com/)
+* [Molecular Foundry](https://foundry.lbl.gov/): DOE Office of Science user facility at LBNL enabling advanced nanofabrication, characterization, and AI-driven materials science for the Genesis Mission ecosystem.
 * [MP Materials](https://mpmaterials.com/)
 * [New York Creates](https://nycreates.org/)
 * [Niron Magnets](https://nironmagnets.com/)

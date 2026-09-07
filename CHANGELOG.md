@@ -1,4 +1,12 @@
 # Changelog
+## [3.34.3] - 2026-09-07
+
+### Added
+- **Entity Coverage Expansion (`expand_entity_coverage.md`)**: Expanded **Molecular Foundry** coverage from ❌ Not Covered to ✅ Full Profile, documenting its role as DOE Office of Science user facility at LBNL providing advanced nanofabrication, characterization, and AI-driven materials science capabilities across the Genesis Mission ecosystem.
+- **README.md Updates**: Added Molecular Foundry profile under `### 3.1 Industry, Hyperscale & Hardware Commitments` with MOUs, Grants & Commitments, Technical Capabilities (Nanofabrication & Characterization, AI & Data), and Mission Domains; added Molecular Foundry to Appendix A.3 `Semiconductor, EDA & Industrial Partners` table.
+- **references.md Updates**: Added **Molecular Foundry** to `## 2. Collaborators` list with official DOE user facility link.
+- **coverage.md Updates**: Upgraded Molecular Foundry status from ❌ Not Covered to ✅ Full Profile with Paper Section §3.1, A.3; recalculated metrics: Industry Partners 94 Full / 0 Not Covered, total Full Profile 215 / 240 (89.6%), Not Covered 25 / 240 (10.4%); updated closing note reflecting entity count and percentage changes.
+- **Version Increment**: Incremented version to `3.34.3` across `README.md` and `README.de.md`.
 
 All notable changes to the Genesis Mission documentation repository will be documented in this file.
 
