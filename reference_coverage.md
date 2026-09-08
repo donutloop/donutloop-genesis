@@ -9,13 +9,13 @@
 
 | Metric | Count / Value | Description |
 | :--- | :--- | :--- |
-| **Total Reference Links** | **657** | Unique external links indexed across all sections |
+| **Total Reference Links** | **658** | Unique external links indexed across all sections |
 | **Primary Document Sections** | **7** | High-level thematic categories in `references.md` |
 | **Unique Target Domains** | **316** | Distinct domain names referenced (government, lab, corporate, academic, news) |
 | **Official PDF Documents** | **24** | Formal RFA solicitations, webinars, slides, and executive reports |
-| **Web Portals & Press Releases** | **633** | Newsroom features, corporate blog posts, and interactive hubs |
+| **Web Portals & Press Releases** | **634** | Newsroom features, corporate blog posts, and interactive hubs |
 | **Validation Status** | **100% Validated** | All links canonicalized, formatted, and deduplicated |
-| **Processing Status** | **657 / 657 Processed** | 0 Unprocessed, 657 Processed (100% Complete) |
+| **Processing Status** | **658 / 658 Processed** | 0 Unprocessed, 658 Processed (100% Complete) |
 
 ---
 
@@ -27,7 +27,7 @@
 | `2. Collaborators` | **80** | 12.3% | Official homepage & announcement links for industrial/energy partners |
 | `3. Quantum Leadership & CHIPS Act Initiatives` | **11** | 1.7% | Department of Commerce NIST LOIs & DOE $2B quantum initiatives |
 | `4. Executive, Federal & Partner Announcements` | **185** | 28.1% | White House releases, Cabinet agency press, hyperscaler & lab announcements |
-| `5. National Labs & University Coverage` | **339** | 51.6% | National Laboratory news portals & 72 awardee university press releases |
+| `5. National Labs & University Coverage` | **340** | 51.7% | National Laboratory news portals & 72 awardee university press releases |
 | `6. Additional Event Materials & Reference Links` | **18** | 2.8% | Presentation slide decks, institutional intro files & video recordings |
 | `7. Technical Documents, RFA Guidance & Official Webinars` | **21** | 3.2% | DE-FOA-0003612 solicitations, OSTP challenge papers, SCAC presentations & peer-reviewed AI-for-science research |
 
@@ -59,7 +59,7 @@ Below is the distribution of references grouped by top domain hosts and institut
 | `epicenter.energy.gatech.edu` | **1** | Georgia Tech Energy Policy and Innovation Center (EPICenter) | Faculty affiliate Marilyn Brown as Co-PI on an ORNL-partnered Genesis Mission award building AI foundation models for water-for-energy conditions in the Tennessee Valley Authority region |
 | `www.bu.edu` | **1** | University Newsroom | Boston University College of Engineering Genesis Mission plasma physics award coverage |
 | `news.uchicago.edu` | **1** | University of Chicago Newsroom | Argonne National Laboratory 80th anniversary retrospective covering EBR-I, Aurora exascale computing, Q-NEXT quantum hub renewal, Advanced Photon Source emittance record and the Genesis Mission AI agenda |
-| `newscenter.lbl.gov` | **7** | Lawrence Berkeley National Lab (LBNL) | 13 AI projects lead, ModCon platform, Cech system delivery |
+| `newscenter.lbl.gov` | **8** | Lawrence Berkeley National Lab (LBNL) | 13 AI projects lead, ModCon platform, Cech system delivery |
 | `www.lanl.gov` | **6** | Los Alamos National Laboratory (LANL) | Weapons hydrodynamics, plutonium aging AI, high-explosives R&D |
 | `www.ornl.gov` / `jobs.ornl.gov` | **28** | Oak Ridge National Laboratory (ORNL) | Frontier supercomputer, IBM FLiBe molten salt quantum chemistry, agentic workflows recruitment |
 | `www.nsf.gov` | **1** | National Science Foundation (NSF) | Dear-Colleague-Letter & funding announcements |
@@ -820,3 +820,4 @@ A tabular master index for the 633-reference collection:
 | 4. Executive, Federal & Partner Announcements | micro1 | micro1 selected to support the DOE Genesis | `www.micro1.ai` | Web | [micro1 selected to support the DOE Genesis](https://www.micro1.ai/blog/micro1-supporting-the-doe-genesis) | `Processed` |
 | 4. Executive, Federal & Partner Announcements | NSF | Dear Colleague Letter: Unleashing a New Age of AI-Enabled Scientific Discovery Through a Strategic Investment in Research and Research Workforce | www.nsf.gov | Web | [NSF: Dear Colleague Letter (NSF 26-023)](https://www.nsf.gov/funding/opportunities/dcl-unleashing-new-age-ai-enabled-scientific-discovery-through) | Processed |
 | 5. National Labs & University Coverage | University of Colorado Boulder | Harnessing abundant electricity from the sun, and other CU Boulder science tapped for Genesis Mission | `www.colorado.edu` | Web | [Harnessing abundant electricity from the sun, and other CU Boulder science tapped for Genesis Mission](https://www.colorado.edu/today/2026/07/22/harnessing-abundant-electricity-sun-and-other-cu-boulder-science-tapped-genesis-mission) | `Processed` |
+| 5. National Labs & University Coverage | National Laboratories (LBNL) | Foundational AI Models to Accelerate Biological Discovery | `newscenter.lbl.gov` | Web | [Foundational AI Models to Accelerate Biological Discovery](https://newscenter.lbl.gov/2026/02/02/foundational-ai-models-to-accelerate-biological-discovery/) | `Processed` |

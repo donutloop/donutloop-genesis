@@ -5,6 +5,17 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.34.10] - 2026-09-08
+
+### Added
+- **Reference Processing (`references.md`, `reference_coverage.md`, `README.md`, `README.de.md`)**: Processed the Berkeley Lab (LBNL) newsroom reference *Foundational AI Models to Accelerate Biological Discovery* ([newscenter.lbl.gov/2026/02/02/foundational-ai-models-to-accelerate-biological-discovery/](https://newscenter.lbl.gov/2026/02/02/foundational-ai-models-to-accelerate-biological-discovery/)) — detailing the **OPAL** (Orchestrated Platform for Autonomous Laboratories to Accelerate AI-Driven BioDesign) ModCon project effort to build general-purpose biology foundation models, linking genes to microbial function, and integrating automated laboratory tools.
+  - **`references.md`**: Added the entry under Section 5 *National Labs & University Coverage → Berkeley Lab (LBNL)*.
+  - **`reference_coverage.md`**: Appended the master index row under Section 4; synced Section 1 metrics (Total Reference Links 657→658, Web Portals & Press Releases 633→634, Processing Status 658/658), Section 2 distribution (National Labs & University Coverage 339→340, 51.6%→51.7%), and Section 3 top-domain count (`newscenter.lbl.gov` 7→8).
+  - **`README.md` / `README.de.md`**: Bumped version string to `3.34.10`.
+
+### Version
+- Bumped `README.md` and `README.de.md` to `3.34.10`.
+
 ## [3.34.6] - 2026-09-02
 
 ### Added
