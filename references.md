@@ -97,6 +97,7 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
 * [Deployable Energy](https://www.deployable.energy/)
 * [ChipNexus (formerly Primis AI)](https://chipnexus.ai/)
 * [EdenCode](https://github.com/EdenCodeInc)
+* [micro1](https://www.micro1.ai/): [micro1 selected to support the DOE Genesis](https://www.micro1.ai/blog/micro1-supporting-the-doe-genesis) - AI data, evaluation, and expert-connect company selected to contribute to an inaugural project under the U.S. Department of Energy's Genesis Mission, making complex technical data usable for AI, building rigorous evaluation and review workflows, and connecting frontier models with domain experts for validation in real scientific environments.
 
 ---
 

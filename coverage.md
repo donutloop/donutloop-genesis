@@ -1,9 +1,9 @@
 # Genesis Mission — Full Ecosystem Coverage Tracker
 
 > **Scope & Coverage Definition:**
-> - **Flagship Consortium Scope:** Tracks **all 240 primary flagship participants**—lead contractors, federal agencies, national laboratories, awardee universities, strategic industrial partners, and philanthropic foundations—explicitly profiled or referenced in the Genesis Mission paper (`README.md`) and reference index.
+> - **Flagship Consortium Scope:** Tracks **all 241 primary flagship participants**—lead contractors, federal agencies, national laboratories, awardee universities, strategic industrial partners, and philanthropic foundations—explicitly profiled or referenced in the Genesis Mission paper (`README.md`) and reference index.
 > - **Broader National Awardee Network Context:** Under solicitation DE-FOA-0003612 and interagency challenges, the broader national initiative encompasses **342 total participating institutions** (157 companies, 142 universities, 16 national labs, 13 non-profits, 14 other entities across 278 projects).
-> - **Coverage Status:** **215 / 240 (89.6%)** of the tracked consortium entities have dedicated, detailed technical profiles.
+> - **Coverage Status:** **215 / 241 (89.2%)** of the tracked consortium entities have dedicated, detailed technical profiles.
 
 **Legend:**
 - ✅ **Full Profile** — Dedicated section with detailed technical write-up (Sections 2.2 / 3.1 / 3.2 / 3.3 / 3.4 / 3.5)
@@ -36,6 +36,7 @@
 | 1 | [Rescale](https://rescale.com/) | ✅ Full Profile | §3.1, A.3 | Sole commercial partner in the DOE Agentic HPC Pipeline Initiative (AHPI) with LBNL, LLNL & ORNL, selected from ~8,000 applicants under DE-FOA-0003612 to cut simulation expertise and time more than fivefold; Intelligent Computing Platform orchestrating AWS, Azure, Google Cloud, OCI & NVIDIA DGX Cloud plus on-prem Slurm clusters over pre-tuned coretypes and 1,200+ solvers; Compute Recommendation Engine, Data Intelligence digital thread & Rescale Assistant; AI Physics surrogate models (up to 1,000×, >98% fidelity) with Omniverse integration; FedRAMP Moderate, ITAR, NIST SP 800-171, ISO 27001 & SOC 2 Type II with DIU Success Memorandum and DoD DSRC federation; agentic self-service wrappers for WarpX, LiDO & Adamantine |
 | 0 | [PrimaLabs](https://www.primalabs.ai/) | ✅ Full Profile | §3.1, A.3 | NVIDIA & DOE Genesis Mission partner (SRNL, ORNL, PNNL); AI performance engineering, dedicated GPU inference clusters & kernel-level optimization for open scientific models |
 | 0 | [Armada](https://www.armada.ai/) | ✅ Full Profile | §3.1, A.3 | DOE collaboration agreement; Galleon modular data centers (Orion 10 MW, up to 2,880 GPUs / 40 racks, PUE ~1.1) & Armada Edge Platform (Commander) for sovereign, distributed edge AI compute |
+| 0 | [micro1](https://www.micro1.ai/) | ❌ Not Covered | — | Selected for an inaugural DOE Genesis Mission project; AI data, evaluation & expert-connect company (Intelligence Realm frontier evaluations & RL environments, Cortex agentic-AI observability, Robotics expert-demonstrated data) (reference only) |
 
 ---
 
@@ -335,20 +336,20 @@
 
 | Entity Type | Total | ✅ Full | 📋 Brief | ❌ Not Covered |
 |:---|:---:|:---:|:---:|:---:|
-| Industry Partners | 94 | 93 | 0 | 1 |
+| Industry Partners | 95 | 93 | 0 | 2 |
 | Federal Agencies | 11 | 11 | 0 | 0 |
 | National Laboratories & Defense Sites | 26 | 24 | 0 | 2 |
 | Universities | 92 | 75 | 0 | 17 |
 | Philanthropy, Policy & Regional Hubs | 17 | 12 | 0 | 5 |
-| **Total** | **240** | **215** | **0** | **25** |
+| **Total** | **241** | **215** | **0** | **26** |
 
 ### By Coverage Level
 
 | Coverage Level | Count | Percentage |
 |:---|:---:|:---:|
-| ✅ Full Profile | 215 | 89.6% |
+| ✅ Full Profile | 215 | 89.2% |
 | 📋 Brief Mention | 0 | 0.0% |
-| ❌ Not Covered | 25 | 10.4% |
-| **Total Entities** | **240** | **100%** |
+| ❌ Not Covered | 26 | 10.8% |
+| **Total Entities** | **241** | **100%** |
 
-> **Note:** The tracker now covers 240 Genesis Mission ecosystem participants, with 215 entities in dedicated technical write-ups (89.6% full-profile coverage). George Washington University, Brown University, Heidelberg University, Howard University, European Coalition for AI in Fundamental Physics (EuCAIF), Colorado School of Mines, UC San Diego, University of Delaware, University of Hawaiʻi at Mānoa, University of Massachusetts Amherst, University of Washington, Boise State University, St. Joseph's University, New York, Kent State University, Southeastern Universities Research Association (SURA), ORISE, Energy Sciences Coalition (ESC), Krell Institute, La Sierra University, Joint Genome Institute (JGI), the University of North Carolina at Chapel Hill (UNC-Chapel Hill), Washington University in St. Louis (WashU), the National Reactor Innovation Center (NRIC), Hydro-Québec, and The Catholic University of America (CUA) remain registered as reference-only participants. The broader sub-grantee network of 342 participating institutions represents secondary academic and sub-contractor nodes across the 278 national project awards.
+> **Note:** The tracker now covers 241 Genesis Mission ecosystem participants, with 215 entities in dedicated technical write-ups (89.2% full-profile coverage). George Washington University, Brown University, Heidelberg University, Howard University, European Coalition for AI in Fundamental Physics (EuCAIF), Colorado School of Mines, UC San Diego, University of Delaware, University of Hawaiʻi at Mānoa, University of Massachusetts Amherst, University of Washington, Boise State University, St. Joseph's University, New York, Kent State University, Southeastern Universities Research Association (SURA), ORISE, Energy Sciences Coalition (ESC), Krell Institute, La Sierra University, Joint Genome Institute (JGI), the University of North Carolina at Chapel Hill (UNC-Chapel Hill), Washington University in St. Louis (WashU), the National Reactor Innovation Center (NRIC), Hydro-Québec, The Catholic University of America (CUA), and micro1 remain registered as reference-only participants. The broader sub-grantee network of 342 participating institutions represents secondary academic and sub-contractor nodes across the 278 national project awards.
