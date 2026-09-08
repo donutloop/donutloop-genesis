@@ -5,6 +5,17 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.34.4] - 2026-09-02
+
+### Added
+- **Entity Reprocessing (`coverage.md`, `README.md`, `README.de.md`, `references.md`)**: Re-processed the **Molecular Foundry (LBNL)** entity (Process Count `1` → `2`), refreshing its full §3.2 profile.
+  - **`README.md` §3.2 (National Laboratories)**: Refreshed the Molecular Foundry entry with a lead-in inline citation to the [2026 Molecular Foundry Annual Meeting Recap](https://foundry.lbl.gov/2026/08/24/aum2026recap/) and the [official portal](https://foundry.lbl.gov/); enriched *Grants & Commitments* (FY2025 record 1,135 users, NSRC MIE recapitalization, Materials Foundry / NanoBio MDS / Cryo-EPIC roadmap, Genesis Mission alloy-AI project led by S. Ribet, JGI joint proposal call) and *Technical Capabilities* (4D-STEM AI agent, ALS/CXRO hybrid thin-film work, closed-loop deposition discovery); added the required *Mission Domains* sub-bullet (autonomous-laboratory & AI-for-materials problem space, petabyte-scale experiment steering, generalization to grid-edge storage / autonomous lab instrumentation / sensor-driven control).
+  - **`README.de.md` §3.2 (Nationale Laboratorien)**: Added the fully translated German counterpart entry (*Zuschüsse & Verpflichtungen*, *Technische Kapazitäten*, *Missionsdomänen*) to restore strict bilingual sync, since the standalone entry was previously absent in German.
+  - **`coverage.md`**: Incremented Molecular Foundry Process Count to `2`; corrected Paper Section from `§3.1, A.3` to `§3.2, A.3`; refreshed Notes with the MIE recapitalization / Cryo-EPIC / Mission Domains architectural context; recalculated Coverage Status header to `215 / 240 (89.6%)` to match the summary footnote.
+  - **`references.md`**: Added a dedicated **Molecular Foundry (LBNL) / NSRC** sub-header under National Laboratories with the official portal, the 2026 AUM recap, and the LBNL machine-learning-pipeline link.
+  - **`reference_coverage.md`**: Registered the new Molecular Foundry official portal and LBNL ML pipeline references in the master index.
+- **Version**: Bumped both READMEs to `3.34.4` (English was `3.34.3`, German `3.34.2` — now synchronized).
+
 ## [3.34.3] - 2026-09-02
 
 ### Added
