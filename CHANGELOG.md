@@ -5,7 +5,20 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.34.6] - 2026-09-02
+
+### Added
+- **Entity Profile Expansion (`README.md`, `README.de.md`, `coverage.md`, `references.md`)**: Promoted **micro1** from a reference-only entry to a full technical profile in the **Cloud, AI & Compute Infrastructure** table (coverage.md), **§3.1 Industry, Hyperscale & Technology Partners → A. Industry, Hyperscale & Technology Partners** in both `README.md` and `README.de.md`, and the **A.3 Industry & Technology Partners** appendix in both language versions.
+  - **`README.md` §3.1A**: Expanded the micro1 bullet with three sub-bullets — *Grants & Commitments* (selected, announced 1 September 2026, for an inaugural DOE Genesis Mission project under **Hunter Hayden**, Director of Forward Deployed Engineering; "talent and data infrastructure for AGI"/"the AI platform for human intelligence" partner with leading AI labs and enterprises), *Technical Capabilities* (**Intelligence Realm** frontier evaluations & RL environments, **Cortex** agentic-AI observability, **Robotics** expert-demonstrated data for frontier robotics labs), and *Mission Domains* (AI trust-and-validation across nuclear, fusion, advanced materials, grid modernization, supercomputing, energy storage; generalization to autonomous lab instrumentation, sensor-driven control, grid-edge storage).
+  - **`README.md` Appendix A.3 (Cloud, AI & Compute Infrastructure)**: Added a micro1 table row after Armada.
+  - **`README.de.md` §3.1A**: Added the fully translated German sub-bullets (*Zuschüsse & Verpflichtungen*, *Technische Fähigkeiten*, *Missionsdomänen*).
+  - **`README.de.md` Appendix A.3 (Cloud, KI & Compute Infrastruktur)**: Added a micro1 table row after Armada.
+  - **`coverage.md`**: Upgraded micro1 row from `❌ Not Covered` (Process Count 0, "(reference only)") to `✅ Full Profile` (Process Count 1, `§3.1, A.3`) with updated Notes; recalculated **By Entity Type** (Industry Partners Full 93→94, Not Covered 2→1; Total Full 215→216, Not Covered 26→25), **By Coverage Level** (Full 215→216 / 89.2%→89.6%; Not Covered 26→25 / 10.8%→10.4%), **Coverage Status** header (215/241 (89.2%) → 216/241 (89.6%)), and removed micro1 from the reference-only footnote list.
+  - **`references.md`**: Preserved the existing micro1 Section 2 Collaborators entry.
+- **Version**: Bumped `README.md` and `README.de.md` to `3.34.6`.
+
 ## [3.34.5] - 2026-09-02
+
 
 ### Added
 - **micro1 (`references.md`, `coverage.md`, `reference_coverage.md`, `README.md`, `README.de.md`)**: Added the **micro1** reference ([www.micro1.ai](https://www.micro1.ai/)) from its DOE Genesis announcement (*micro1 selected to support the DOE Genesis*, [www.micro1.ai/blog/micro1-supporting-the-doe-genesis](https://www.micro1.ai/blog/micro1-supporting-the-doe-genesis)). micro1 (AI data, evaluation, and expert-connect platform) was selected for an inaugural DOE Genesis Mission project, contributing expert-demonstrated datasets, evaluation/review workflows, and frontier-model-to-domain-expert validation across **Intelligence Realm** (frontier evaluations/RL environments), **Cortex** (agentic-AI observability), and **Robotics** (expert-demonstrated robotics data) for national-laboratory and energy-science workloads.
