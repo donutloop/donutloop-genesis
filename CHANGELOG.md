@@ -5,6 +5,16 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.34.12] - 2026-09-08
+
+### Added
+- **MIT, Caltech, Stanford, Harvard & Princeton profile reprocessed** across `README.md` (§3.3) and `README.de.md` (§3.3 Universitäten): restructured the combined entry into a lead-in plus the three bold sub-bullets (*Grants & Commitments* / *Zuschüsse & Verpflichtungen*, *Technical Capabilities* / *Technische Kapazitäten*, *Mission Domains* / *Missionsdomänen*), preserving all existing citations and incorporating the newly sourced **Jesse Thaler (LNS director)** MIT reference, the **two Caltech Genesis Lighthouse awards** reference, the **DOE–Princeton partnership extension** reference, and the **Harvard biosecurity & AI-foundation-model governance coordination node** (kept generic — no fabricated links).
+- **`coverage.md`**: incremented MIT, Caltech, Stanford and Princeton `Process Count` to `1` and refreshed their notes; added a new **Harvard University** row (Process Count `1`, ✅ Full Profile, §3.3/A.5); updated the summary tables (Universities `92→93`, Total `241→242`, ✅ Full Profile `216→217` / `89.6%→89.7%`, Total Entities `241→242`) and the tracking footnote.
+- **Appendix A.5 tables**: refreshed the MIT, Caltech and Stanford rows in both `README.md` and `README.de.md` and appended a Harvard University row to each.
+
+### Version
+- Bumped `README.md` and `README.de.md` to `3.34.12`.
+
 ## [3.34.11] - 2026-09-08
 
 ### Added
