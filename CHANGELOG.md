@@ -5,6 +5,17 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.34.5] - 2026-09-02
+
+### Added
+- **micro1 (`references.md`, `coverage.md`, `reference_coverage.md`, `README.md`, `README.de.md`)**: Added the **micro1** reference ([www.micro1.ai](https://www.micro1.ai/)) from its DOE Genesis announcement (*micro1 selected to support the DOE Genesis*, [www.micro1.ai/blog/micro1-supporting-the-doe-genesis](https://www.micro1.ai/blog/micro1-supporting-the-doe-genesis)). micro1 (AI data, evaluation, and expert-connect platform) was selected for an inaugural DOE Genesis Mission project, contributing expert-demonstrated datasets, evaluation/review workflows, and frontier-model-to-domain-expert validation across **Intelligence Realm** (frontier evaluations/RL environments), **Cortex** (agentic-AI observability), and **Robotics** (expert-demonstrated robotics data) for national-laboratory and energy-science workloads.
+  - **`references.md`**: Added the micro1 entry to Section 2 Collaborators (after EdenCode).
+  - **`coverage.md`**: Added a micro1 row to the "Cloud, AI & Compute Infrastructure" table (after Armada) marked `❌ Not Covered` + "(reference only)"; updated summary tables (Industry Partners 94→95, not-covered 1→2; Total 240→241, not-covered 25→26), By Coverage Level (❌ 25→26, 10.4%→10.8%; Full 89.6%→89.2%), Coverage Status header (215/241 (89.2%)), and the closing reference-only note.
+  - **`reference_coverage.md`**: Updated Executive Summary (Total 653→654, Web Portals 629→630, Processing 653/653→654/654), Section 2 distribution (Section 4 count 183→184, share 28.0%→28.1%), top domains table (added `www.micro1.ai`), and master index (Section 4 micro1 row).
+  - **`README.md` §3.1A**: Added the English micro1 bullet after the EdenCode entry; updated the evidentiary corpus figure from **653** to **654 validated open-source references** in the abstract, contributions summary and conclusion.
+  - **`README.de.md` §3.1A**: Added the fully translated German micro1 counterpart entry; updated the corpus figure from **653** to **654 validierten Open-Source-Referenzen** in the abstract, contributions summary and conclusion.
+- **Version**: Bumped both READMEs to `3.34.5`.
+
 ## [3.34.4] - 2026-09-02
 
 ### Added
