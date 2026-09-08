@@ -5,6 +5,16 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.34.13] - 2026-09-08
+
+### Added
+- **Georgia Institute of Technology — Energy Policy and Innovation Center (EPICenter): Marilyn Brown** reprocessed across `README.md` (§3.3 University Research Partners) and `README.de.md` (§3.3 Universitäre Forschungspartner): restructured the Georgia Tech EPICenter / Marilyn Brown profile into a lead-in line plus three bold sub-bullets (Grants & Commitments / Technical Capabilities / Mission Domains in English; Zuschüsse & Verpflichtungen / Technische Kapazitäten / Missionsdomänen in German), preserving the EPICenter citation and all relevant Georgia Tech Genesis Mission links.
+- **`coverage.md`**: incremented Georgia Institute of Technology `Process Count` to `1` and refreshed its notes to foreground the EPICenter (Marilyn Brown) water-for-energy AI foundation models with ORNL (TVA region).
+- **Appendix A.5 tables**: refreshed the Georgia Institute of Technology rows in both `README.md` and `README.de.md` to foreground the EPICenter (Marilyn Brown) effort.
+
+### Version
+- Bumped `README.md` and `README.de.md` to `3.34.13`.
+
 ## [3.34.12] - 2026-09-08
 
 ### Added
