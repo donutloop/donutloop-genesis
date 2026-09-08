@@ -5,6 +5,15 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.34.11] - 2026-09-08
+
+### Added
+- **Lawrence Berkeley National Laboratory (LBNL) profile reprocessed** across `README.md` (§3.2 National Laboratories) and `README.de.md` (§3.2 Nationale Laboratorien): restructured into a lead-in plus the three bold sub-bullets (*Grants & Commitments* / *Zuschüsse & Verpflichtungen*, *Technical Capabilities* / *Technische Kapazitäten*, *Mission Domains* / *Missionsdomänen*), preserving all existing citations and incorporating the newly sourced **OPAL bioDesign** biology-foundation-model reference ([Foundational AI Models to Accelerate Biological Discovery](https://newscenter.lbl.gov/2026/02/02/foundational-ai-models-to-accelerate-biological-discovery/)).
+- **`coverage.md`**: incremented LBNL `Process Count` to `1` and refreshed the notes to reflect the full reprocessed scope (OPAL bioDesign biology foundation models, SYNAPS-I, DESI astrophysics, Molecular Foundry NSRC).
+- **`references.md`**: retained all Berkeley Lab / LBNL links; no new links required — all LBNL-relevant sources (Genesis Mission hub, 13 flagship AI projects, ModCon, SYNAPS-I, biological discovery, ATAP accelerator/fusion AI, DESI 2D map, Molecular Foundry AUM 2026) were already present and are cited from the refreshed profile.
+
+### Version
+- Bumped `README.md` and `README.de.md` to `3.34.11`.
 ## [3.34.10] - 2026-09-08
 
 ### Added
