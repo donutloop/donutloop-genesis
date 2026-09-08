@@ -5,6 +5,15 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.34.3] - 2026-09-02
+
+### Added
+- **Entity Coverage Expansion (`coverage.md`, `README.md`)**: Promoted the **Molecular Foundry (LBNL)** from reference-only to a full technical profile.
+  - **`README.md` §3.1 C (Industrial Technology, Energy, Materials & Infrastructure Partners)**: Added a dedicated entry with *Grants & Commitments* and *Technical Capabilities* sub-bullets, covering its DOE Office of Science NSRC user-facility mandate (record 1,135 users in FY2025), the NSRC MIE recapitalization (autonomous synthesis cluster for hard materials, high-throughput and aberration-corrected STEM), the planned **Materials Foundry** and **NanoBio MDS** autonomous labs, the **Cryo-EPIC** cryo-imaging center (CryoTEM/CryoSTEM/CryoFIB), the DOE **Genesis Mission** alloy-AI project (S. Ribet), the **JGI** joint proposal call, and AI/ML capabilities (4D-STEM agent, ALS/CXRO hybrid thin-film work, closed-loop deposition discovery, MBXAS/PICKLES/qubit-materials/AI-workflow symposia).
+  - **`README.md` Appendix A.3 (Laboratory Automation & Specialized Technology)**: Added a row capturing its autonomous-synthesis, high-throughput STEM, and AI-driven materials-automation contribution.
+  - **`coverage.md`**: Updated the Molecular Foundry row to ✅ Full Profile (§3.1, A.3) and recalculated the **By Entity Type** (National Laboratories 23→24 full, 3→2 not covered) and **By Coverage Level** (214→215 full / 89.2%→89.6%, 26→25 not covered / 10.8%→10.4%) totals; removed the entity from the reference-only closing note.
+- **Version**: Bumped README to `3.34.3`.
+
 ## [3.34.2] - 2026-09-02
 
 ### Added

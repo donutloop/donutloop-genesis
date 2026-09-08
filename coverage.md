@@ -191,7 +191,7 @@
 | 0 | [SLAC National Accelerator Laboratory](https://www.slac.stanford.edu/) | ✅ Full Profile | §3.2, A.2 | LCLS-II ultrafast attosecond X-ray science, deep RL beamline optimization & SRF accelerator cavities |
 | 0 | [Thomas Jefferson National Accelerator Facility (TJNAF)](https://www.jlab.org/) | ✅ Full Profile | §3.2, A.2 | CEBAF accelerator, AI-driven nuclear femtography, SRF cavity tuning & subatomic physics AI |
 | 0 | [Y-12 National Security Complex](https://www.y12.doe.gov/) | ✅ Full Profile | §3.2, A.4 | Enriched uranium manufacturing, nuclear safeguards digital twins & TVA carbon-free power agreement |
-| 0 | [Molecular Foundry](https://foundry.lbl.gov/) | ❌ Not Covered | — | Nanoscale science research user facility hosting AUM 2026 showcasing autonomous synthesis clusters, high-throughput STEM, and AI-driven materials automation (reference only) |
+| 1 | [Molecular Foundry](https://foundry.lbl.gov/) | ✅ Full Profile | §3.1, A.3 | DOE Office of Science NSRC user facility at LBNL; 2026 AUM (Aug 20–21) showcasing autonomous synthesis clusters, high-throughput STEM (aberration-corrected), AI-driven 4D-STEM & closed-loop materials automation; DOE Genesis Mission alloy-AI project (S. Ribet) |
 | 0 | [Joint Genome Institute (JGI)](https://jgi.doe.gov/) | ❌ Not Covered | — | DOE Joint Genome Institute collaborator on biology-aided materials separation and scientific discovery (reference only) |
 | 1 | [Oak Ridge Leadership Computing Facility (OLCF)](https://www.olcf.ornl.gov/) | ✅ Full Profile | §2.1, §3.2, A.5 | DOE Office of Science leadership computing user facility at ORNL's National Center for Computational Sciences (founded 1992 as the Center for Computational Sciences, designated 2004, director Arjun Shankar, Jaguar → Titan → Summit → Frontier lineage); Frontier exascale system (9,408 HPE Cray EX235a nodes, EPYC "Trento" + 4× MI250X, Slingshot-11, 1.206 EF Rmax / 1.353 EF tuned, ~21–25 MW, 4 TB NVMe per node) on the Orion Lustre file system (~700 PB, ~5 TB/s, 10 PB flash metadata tier) after Summit's 15 Nov 2024 decommissioning; hosts the Genesis AI systems Lux (MI355X / EPYC / Pensando on HPE ProLiant XD685, 3.5M node-hours split 50/50 between Genesis science and proprietary use under DOE Moderate controls) and Discovery (2028, HPE Cray GX5000, EPYC "Venice" + 4× MI430X, K3000 DAOS storage); INCITE (with ALCF, ~60% of time, 81 projects in 2025), ALCC and Director's Discretionary allocation programs; Quantum Computing User Program (QCUP) brokering IBM Quantum, Quantinuum, IonQ & IQM access; AmSC/HPDF federation via NCCS agentic workflow and provenance frameworks (Flowcept, INTERSECT) |
 | 0 | [National Reactor Innovation Center (NRIC)](https://nric.inl.gov/) | ❌ Not Covered | — | INL-hosted DOE reactor demonstration center whose Generic High Temperature Gas Reactor (HTGR) safety analysis seeded the Everstar Gordian AI NRC licensing milestone (reference only) |
@@ -337,18 +337,18 @@
 |:---|:---:|:---:|:---:|:---:|
 | Industry Partners | 94 | 93 | 0 | 1 |
 | Federal Agencies | 11 | 11 | 0 | 0 |
-| National Laboratories & Defense Sites | 26 | 23 | 0 | 3 |
+| National Laboratories & Defense Sites | 26 | 24 | 0 | 2 |
 | Universities | 92 | 75 | 0 | 17 |
 | Philanthropy, Policy & Regional Hubs | 17 | 12 | 0 | 5 |
-| **Total** | **240** | **214** | **0** | **26** |
+| **Total** | **240** | **215** | **0** | **25** |
 
 ### By Coverage Level
 
 | Coverage Level | Count | Percentage |
 |:---|:---:|:---:|
-| ✅ Full Profile | 214 | 89.2% |
+| ✅ Full Profile | 215 | 89.6% |
 | 📋 Brief Mention | 0 | 0.0% |
-| ❌ Not Covered | 26 | 10.8% |
+| ❌ Not Covered | 25 | 10.4% |
 | **Total Entities** | **240** | **100%** |
 
-> **Note:** The tracker now covers 240 Genesis Mission ecosystem participants, with 214 entities in dedicated technical write-ups (89.2% full-profile coverage). George Washington University, Brown University, Heidelberg University, Howard University, European Coalition for AI in Fundamental Physics (EuCAIF), Colorado School of Mines, UC San Diego, University of Delaware, University of Hawaiʻi at Mānoa, University of Massachusetts Amherst, University of Washington, Boise State University, St. Joseph's University, New York, Kent State University, Southeastern Universities Research Association (SURA), ORISE, Energy Sciences Coalition (ESC), Krell Institute, La Sierra University, Molecular Foundry, Joint Genome Institute (JGI), the University of North Carolina at Chapel Hill (UNC-Chapel Hill), Washington University in St. Louis (WashU), the National Reactor Innovation Center (NRIC), Hydro-Québec, and The Catholic University of America (CUA) remain registered as reference-only participants. The broader sub-grantee network of 342 participating institutions represents secondary academic and sub-contractor nodes across the 278 national project awards.
+> **Note:** The tracker now covers 240 Genesis Mission ecosystem participants, with 215 entities in dedicated technical write-ups (89.6% full-profile coverage). George Washington University, Brown University, Heidelberg University, Howard University, European Coalition for AI in Fundamental Physics (EuCAIF), Colorado School of Mines, UC San Diego, University of Delaware, University of Hawaiʻi at Mānoa, University of Massachusetts Amherst, University of Washington, Boise State University, St. Joseph's University, New York, Kent State University, Southeastern Universities Research Association (SURA), ORISE, Energy Sciences Coalition (ESC), Krell Institute, La Sierra University, Joint Genome Institute (JGI), the University of North Carolina at Chapel Hill (UNC-Chapel Hill), Washington University in St. Louis (WashU), the National Reactor Innovation Center (NRIC), Hydro-Québec, and The Catholic University of America (CUA) remain registered as reference-only participants. The broader sub-grantee network of 342 participating institutions represents secondary academic and sub-contractor nodes across the 278 national project awards.
