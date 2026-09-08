@@ -438,6 +438,7 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
   * [Connecting Data, Computing, and AI for Scientific Discovery](https://newscenter.lbl.gov/2026/08/05/connecting-data-computing-and-ai-for-scientific-discovery/)
   * [How the Genesis Mission's American Science Cloud Advances Innovation](https://newscenter.lbl.gov/2026/07/15/how-the-genesis-missions-american-science-cloud-advances-innovation/)
   * [How a Machine Learning Pipeline Could Accelerate Innovation](https://newscenter.lbl.gov/2026/02/02/how-a-machine-learning-pipeline-could-accelerate-innovation/)
+  * [Foundational AI Models to Accelerate Biological Discovery](https://newscenter.lbl.gov/2026/02/02/foundational-ai-models-to-accelerate-biological-discovery/)
   * [Scientists Release Biggest 2D Map of the Universe](https://newscenter.lbl.gov/2026/08/10/scientists-release-biggest-2d-map-of-the-universe/)
   * [2026 Molecular Foundry Annual Meeting Recap](https://foundry.lbl.gov/2026/08/24/aum2026recap/)
 * **Molecular Foundry (LBNL) / NSRC:**

@@ -5,6 +5,50 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.34.10] - 2026-09-08
+
+### Added
+- **Reference Processing (`references.md`, `reference_coverage.md`, `README.md`, `README.de.md`)**: Processed the Berkeley Lab (LBNL) newsroom reference *Foundational AI Models to Accelerate Biological Discovery* ([newscenter.lbl.gov/2026/02/02/foundational-ai-models-to-accelerate-biological-discovery/](https://newscenter.lbl.gov/2026/02/02/foundational-ai-models-to-accelerate-biological-discovery/)) — detailing the **OPAL** (Orchestrated Platform for Autonomous Laboratories to Accelerate AI-Driven BioDesign) ModCon project effort to build general-purpose biology foundation models, linking genes to microbial function, and integrating automated laboratory tools.
+  - **`references.md`**: Added the entry under Section 5 *National Labs & University Coverage → Berkeley Lab (LBNL)*.
+  - **`reference_coverage.md`**: Appended the master index row under Section 4; synced Section 1 metrics (Total Reference Links 657→658, Web Portals & Press Releases 633→634, Processing Status 658/658), Section 2 distribution (National Labs & University Coverage 339→340, 51.6%→51.7%), and Section 3 top-domain count (`newscenter.lbl.gov` 7→8).
+  - **`README.md` / `README.de.md`**: Bumped version string to `3.34.10`.
+
+### Version
+- Bumped `README.md` and `README.de.md` to `3.34.10`.
+
+## [3.34.9] - 2026-09-08
+
+### Added
+- **Reference Processing (`references.md`, `reference_coverage.md`, `README.md`, `README.de.md`)**: Processed the NSF funding reference *Dear Colleague Letter: Unleashing a New Age of AI-Enabled Scientific Discovery Through a Strategic Investment in Research and Research Workforce* ([nsf.gov](https://www.nsf.gov/)).
+  - **`references.md`**: Added the entry under the relevant section.
+  - **`reference_coverage.md`**: Appended the master index row; synced Section 1 metrics (Total Reference Links 656→657, Web Portals & Press Releases 632→633, Processing Status 657/657) and Section 3 top-domain count (`nsf.gov`).
+  - **`README.md` / `README.de.md`**: Bumped version string to `3.34.9`.
+
+### Version
+- Bumped `README.md` and `README.de.md` to `3.34.9`.
+
+## [3.34.8] - 2026-09-08
+
+### Added
+- **Reference Processing (`references.md`, `reference_coverage.md`, `README.md`, `README.de.md`)**: Processed the Oak Ridge National Laboratory (ORNL) reference *Harvesting the critical minerals future* ([news.ornl.gov](https://www.ornl.gov/)).
+  - **`references.md`**: Added the entry under Section 5 *National Labs & University Coverage → Oak Ridge National Laboratory (ORNL)*.
+  - **`reference_coverage.md`**: Appended the master index row; synced Section 1 metrics (Total Reference Links 655→656, Web Portals & Press Releases 631→632, Processing Status 656/656), Section 2 distribution (National Labs & University Coverage 338→339), and Section 3 top-domain count (`news.ornl.gov`).
+  - **`README.md` / `README.de.md`**: Bumped version string to `3.34.8`.
+
+### Version
+- Bumped `README.md` and `README.de.md` to `3.34.8`.
+
+## [3.34.7] - 2026-09-08
+
+### Added
+- **Reference Processing (`references.md`, `reference_coverage.md`, `README.md`, `README.de.md`)**: Processed the University of Colorado Boulder reference *Harnessing abundant electricity from the sun, and other CU Boulder science tapped for Genesis Mission* ([www.colorado.edu/today/2026/07/22/harnessing-abundant-electricity-sun-and-other-cu-boulder-science-tapped-genesis-mission/](https://www.colorado.edu/today/2026/07/22/harnessing-abundant-electricity-sun-and-other-cu-boulder-science-tapped-genesis-mission/)).
+  - **`references.md`**: Added the entry under Section 5 *National Labs & University Coverage*.
+  - **`reference_coverage.md`**: Appended the master index row; synced Section 1 metrics (Total Reference Links 654→655, Web Portals & Press Releases 630→631, Processing Status 655/655), Section 2 distribution (National Labs & University Coverage 337→338), and Section 3 top-domain count (`www.colorado.edu`).
+  - **`README.md` / `README.de.md`**: Bumped version string to `3.34.7`.
+
+### Version
+- Bumped `README.md` and `README.de.md` to `3.34.7`.
+
 ## [3.34.6] - 2026-09-02
 
 ### Added
