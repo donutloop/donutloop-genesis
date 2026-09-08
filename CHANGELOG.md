@@ -5,6 +5,18 @@ All notable changes to the Genesis Mission documentation repository will be docu
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+
+## [3.34.14] - 2026-09-08
+
+### Added
+- **Reprocessed entity: Amazon Web Services (AWS)** (Process Count 1→2). Refreshed the §3.1 Frontier AI, Cloud & Hyperscale Computing profile with newly verified facts from official AWS releases:
+  - Government-cloud lineage: first government-specific cloud (2011), first air-gapped commercial cloud for classified workloads (2014), first cloud provider accredited across all U.S. government data classifications (2017).
+  - Nov 2025: up to **$50B** AI/supercomputing infrastructure purpose-built for U.S. government agencies — the largest federal technology investment in Amazon's history — adding ~1.3 GW across Top Secret, Secret, and GovCloud Regions; now supports 11,000+ government agencies globally.
+  - **AWS AI Factories**: on-premises/hybrid AWS AI deployment in government facilities with seamless cloud connectivity.
+  - David Fitzgerald (Deputy Under Secretary of the Army) quote on the Warfighter Capability Accelerator Initiative.
+  - Coverage.md: AWS Process Count 1→2, Notes refreshed with the new facts.
+  - References.md: retained all existing AWS sources (facts drawn from already-referenced official AWS blogs/portal).
+
 ## [3.34.13] - 2026-09-08
 
 ### Added
