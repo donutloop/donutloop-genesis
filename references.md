@@ -525,6 +525,7 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
   * [The Genesis Mission (Oak Ridge National Laboratory Official Overview Video)](https://youtu.be/zWVEq_35yPo)
   * [Research Scientist, Agentic Workflows Job Posting](https://jobs.ornl.gov/job/Oak-Ridge-Research-Scientist%2C-Agentic-Workflows-TN-37830/1422626200)
   * [Lux – Oak Ridge Leadership Computing Facility](https://www.olcf.ornl.gov/olcf-resources/compute-systems/lux/)
+  * [Harvesting the critical minerals future](https://www.ornl.gov/harvesting-the-critical-minerals-future) - ORNL uses biotechnology and AI to strengthen U.S. critical-mineral supply chains via an agentic AI "co-scientist" built for the Genesis Mission's multi-laboratory Orchestrated Platform for Autonomous Laboratories (OPAL). The platform trains on the Frontier supercomputer at the Oak Ridge Leadership Computing Facility to phenotype pennycress crops that hyperaccumulate nickel, cobalt, selenium and rare earth elements from the soil (phytomining), reducing analysis time for over 1,000 plant traits from hundreds of manual hours to minutes and transferring AI-ready data to the American Science Cloud (AmSC) and DOE Office of Science BER program.
 * **Oak Ridge Leadership Computing Facility (OLCF / ORNL NCCS):**
   * [Oak Ridge Leadership Computing Facility](https://www.olcf.ornl.gov/)
   * [National Center for Computational Sciences (NCCS) Division](https://www.ornl.gov/division/nccs)

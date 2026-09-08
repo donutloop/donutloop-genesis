@@ -1,7 +1,7 @@
 # Genesis Mission — Master Reference Coverage Report
 
 > **Document Overview:**
-> This report provides a comprehensive coverage analysis, breakdown, and master audit index for the **654 external reference links** compiled within `references.md` for the **Genesis Mission** documentation repository.
+> This report provides a comprehensive coverage analysis, breakdown, and master audit index for the **656 external reference links** compiled within `references.md` for the **Genesis Mission** documentation repository.
 
 ---
 
@@ -9,13 +9,13 @@
 
 | Metric | Count / Value | Description |
 | :--- | :--- | :--- |
-| **Total Reference Links** | **655** | Unique external links indexed across all sections |
+| **Total Reference Links** | **656** | Unique external links indexed across all sections |
 | **Primary Document Sections** | **7** | High-level thematic categories in `references.md` |
 | **Unique Target Domains** | **316** | Distinct domain names referenced (government, lab, corporate, academic, news) |
 | **Official PDF Documents** | **24** | Formal RFA solicitations, webinars, slides, and executive reports |
-| **Web Portals & Press Releases** | **631** | Newsroom features, corporate blog posts, and interactive hubs |
+| **Web Portals & Press Releases** | **632** | Newsroom features, corporate blog posts, and interactive hubs |
 | **Validation Status** | **100% Validated** | All links canonicalized, formatted, and deduplicated |
-| **Processing Status** | **655 / 655 Processed** | 0 Unprocessed, 655 Processed (100% Complete) |
+| **Processing Status** | **656 / 656 Processed** | 0 Unprocessed, 656 Processed (100% Complete) |
 
 ---
 
@@ -27,7 +27,7 @@
 | `2. Collaborators` | **80** | 12.3% | Official homepage & announcement links for industrial/energy partners |
 | `3. Quantum Leadership & CHIPS Act Initiatives` | **11** | 1.7% | Department of Commerce NIST LOIs & DOE $2B quantum initiatives |
 | `4. Executive, Federal & Partner Announcements` | **184** | 28.1% | White House releases, Cabinet agency press, hyperscaler & lab announcements |
-| `5. National Labs & University Coverage` | **338** | 51.6% | National Laboratory news portals & 72 awardee university press releases |
+| `5. National Labs & University Coverage` | **339** | 51.6% | National Laboratory news portals & 72 awardee university press releases |
 | `6. Additional Event Materials & Reference Links` | **18** | 2.8% | Presentation slide decks, institutional intro files & video recordings |
 | `7. Technical Documents, RFA Guidance & Official Webinars` | **21** | 3.2% | DE-FOA-0003612 solicitations, OSTP challenge papers, SCAC presentations & peer-reviewed AI-for-science research |
 
@@ -61,7 +61,7 @@ Below is the distribution of references grouped by top domain hosts and institut
 | `news.uchicago.edu` | **1** | University of Chicago Newsroom | Argonne National Laboratory 80th anniversary retrospective covering EBR-I, Aurora exascale computing, Q-NEXT quantum hub renewal, Advanced Photon Source emittance record and the Genesis Mission AI agenda |
 | `newscenter.lbl.gov` | **7** | Lawrence Berkeley National Lab (LBNL) | 13 AI projects lead, ModCon platform, Cech system delivery |
 | `www.lanl.gov` | **6** | Los Alamos National Laboratory (LANL) | Weapons hydrodynamics, plutonium aging AI, high-explosives R&D |
-| `www.ornl.gov` / `jobs.ornl.gov` | **27** | Oak Ridge National Laboratory (ORNL) | Frontier supercomputer, IBM FLiBe molten salt quantum chemistry, agentic workflows recruitment |
+| `www.ornl.gov` / `jobs.ornl.gov` | **28** | Oak Ridge National Laboratory (ORNL) | Frontier supercomputer, IBM FLiBe molten salt quantum chemistry, agentic workflows recruitment |
 | `aws.amazon.com` | **5** | Amazon Web Services (AWS) | Public sector HPC credits, quantum post-quantum security, and the federal Government Accelerator Initiatives intake portal (Genesis & Warfighter accelerators) |
 | `cloud.google.com` | **3** | Google Cloud | Genesis Mission support and AlphaEvolve evolutionary code optimization |
 | `www.youtube.com` | **6** | YouTube | Genesis Mission summit, technical presentation, webinar, and national-laboratory video recordings |
@@ -536,6 +536,7 @@ A tabular master index for the 633-reference collection:
 | 5. National Labs & University Coverage | National Laboratories | First-Ever Autonomous Material Synthesis by Pulsed Laser Deposition | `www.ornl.gov` | Web | [First-Ever Autonomous Material Synthesis by Pulsed Laser Deposition](https://www.ornl.gov/research-highlight/first-ever-autonomous-material-synthesis-pulsed-laser-deposition) | `Processed` |
 | 5. National Labs & University Coverage | National Laboratories | AI Accelerated Fusion Materials Test Facility | `www.ornl.gov` | Web | [AI Accelerated Fusion Materials Test Facility](https://www.ornl.gov/research-highlight/ai-accelerated-fusion-materials-test-facility) | `Processed` |
 | 5. National Labs & University Coverage | National Laboratories | AI-Boosted Particle Accelerator Operations & Design | `www.ornl.gov` | Web | [AI-Boosted Particle Accelerator Operations & Design](https://www.ornl.gov/research-highlight/ai-boosted-particle-accelerator-operations-design) | `Processed` |
+| 5. National Labs & University Coverage | National Laboratories | Harvesting the critical minerals future | `www.ornl.gov` | Web | [Harvesting the critical minerals future](https://www.ornl.gov/harvesting-the-critical-minerals-future) | `Processed` |
 | 5. National Labs & University Coverage | National Laboratories | The Genesis Mission (Oak Ridge National Laboratory Official Overview Video) | `youtu.be` | Web | [The Genesis Mission (Oak Ridge National Laboratory Official Overview Video)](https://youtu.be/zWVEq_35yPo) | `Processed` |
 | 5. National Labs & University Coverage | National Laboratories | Genesis Mission Project Portal | `www.pnnl.gov` | Web | [Genesis Mission Project Portal](https://www.pnnl.gov/projects/genesis-mission) | `Processed` |
 | 5. National Labs & University Coverage | Pacific Northwest National Laboratory (PNNL) | Energy Department Launches ‘Genesis Mission’ to Transform American Science and Innovation Through the AI Computing Revolution | `www.pnnl.gov` | Web | [Energy Department Launches ‘Genesis Mission’ to Transform American Science and Innovation Through the AI Computing Revolution](https://www.pnnl.gov/news-media/energy-department-launches-genesis-mission) | `Processed` |
