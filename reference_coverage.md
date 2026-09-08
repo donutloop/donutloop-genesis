@@ -9,13 +9,13 @@
 
 | Metric | Count / Value | Description |
 | :--- | :--- | :--- |
-| **Total Reference Links** | **654** | Unique external links indexed across all sections |
+| **Total Reference Links** | **655** | Unique external links indexed across all sections |
 | **Primary Document Sections** | **7** | High-level thematic categories in `references.md` |
 | **Unique Target Domains** | **316** | Distinct domain names referenced (government, lab, corporate, academic, news) |
 | **Official PDF Documents** | **24** | Formal RFA solicitations, webinars, slides, and executive reports |
-| **Web Portals & Press Releases** | **630** | Newsroom features, corporate blog posts, and interactive hubs |
+| **Web Portals & Press Releases** | **631** | Newsroom features, corporate blog posts, and interactive hubs |
 | **Validation Status** | **100% Validated** | All links canonicalized, formatted, and deduplicated |
-| **Processing Status** | **654 / 654 Processed** | 0 Unprocessed, 654 Processed (100% Complete) |
+| **Processing Status** | **655 / 655 Processed** | 0 Unprocessed, 655 Processed (100% Complete) |
 
 ---
 
@@ -27,7 +27,7 @@
 | `2. Collaborators` | **80** | 12.3% | Official homepage & announcement links for industrial/energy partners |
 | `3. Quantum Leadership & CHIPS Act Initiatives` | **11** | 1.7% | Department of Commerce NIST LOIs & DOE $2B quantum initiatives |
 | `4. Executive, Federal & Partner Announcements` | **184** | 28.1% | White House releases, Cabinet agency press, hyperscaler & lab announcements |
-| `5. National Labs & University Coverage` | **337** | 51.6% | National Laboratory news portals & 72 awardee university press releases |
+| `5. National Labs & University Coverage` | **338** | 51.6% | National Laboratory news portals & 72 awardee university press releases |
 | `6. Additional Event Materials & Reference Links` | **18** | 2.8% | Presentation slide decks, institutional intro files & video recordings |
 | `7. Technical Documents, RFA Guidance & Official Webinars` | **21** | 3.2% | DE-FOA-0003612 solicitations, OSTP challenge papers, SCAC presentations & peer-reviewed AI-for-science research |
 
@@ -49,6 +49,7 @@ Below is the distribution of references grouped by top domain hosts and institut
 | `www.nist.gov` | **4** | NIST / Department of Commerce | CHIPS Act LOIs, quantum semiconductor incentives, NIST AI join launch |
 | `www.boisestate.edu` | **2** | Boise State University Office of Sponsored Programs & DRED | DE-FOA-0003612 topic focus areas (PDF) & collaborative research/travel seed-funding RFP |
 | `www.brown.edu` | **1** | University Newsroom | Brown University National Labs Day spotlights collaboration in AI-enabled science and energy innovation |
+| `www.colorado.edu` | **3** | CU Boulder Today — University of Colorado Boulder newsroom (3 references) |
 | `pratt.duke.edu` | **2** | Duke University Pratt School of Engineering | Duke-led Genesis Mission AI platform for DNA origami self-assembly into programmable superlattices, and Duke-led neuromorphic brain-inspired hardware for energy-efficient on-device robotic AI |
 | `www.eng.ufl.edu` | **1** | University of Florida Herbert Wertheim College of Engineering | UF-led Genesis Mission AI + electron microscopy platform for accelerated discovery of stronger, heat-resistant structural materials |
 | `cee.engr.uconn.edu` | **1** | UConn School of Civil & Environmental Engineering | UConn-led AI-enabled digital twin for coupled surface–subsurface hydrologic and biogeochemical simulation in the Northeast U.S. coastal region |
@@ -815,3 +816,4 @@ A tabular master index for the 633-reference collection:
 | 5. National Labs & University Coverage | Brookhaven National Laboratory (BNL) | Brookhaven Lab to Lead $14M AI Project for Nation's Electric Grid | `www.bnl.gov` | Web | [Brookhaven Lab to Lead $14M AI Project for Nation's Electric Grid](https://www.bnl.gov/newsroom/news.php?a=123136) | `Processed` |
 | 5. National Labs & University Coverage | The Catholic University of America (CUA) | Catholic University Researchers Earn Funding and Awards for AI-Related Research | `www.catholic.edu` | Web | [Catholic University Researchers Earn Funding and Awards for AI-Related Research](https://www.catholic.edu/all-stories/catholic-university-researchers-earn-funding-and-awards-ai-related-research) | `Processed` |
 | 4. Executive, Federal & Partner Announcements | micro1 | micro1 selected to support the DOE Genesis | `www.micro1.ai` | Web | [micro1 selected to support the DOE Genesis](https://www.micro1.ai/blog/micro1-supporting-the-doe-genesis) | `Processed` |
+| 5. National Labs & University Coverage | University of Colorado Boulder | Harnessing abundant electricity from the sun, and other CU Boulder science tapped for Genesis Mission | `www.colorado.edu` | Web | [Harnessing abundant electricity from the sun, and other CU Boulder science tapped for Genesis Mission](https://www.colorado.edu/today/2026/07/22/harnessing-abundant-electricity-sun-and-other-cu-boulder-science-tapped-genesis-mission) | `Processed` |
