@@ -1,63 +1,177 @@
-# Instructions: Reprocessing Entity Profile and Incrementing Processing Counter
+# 🧬 Genesis Mission — Entity Reprocessing & Version Control Protocol
 
-## Context
-The Genesis Mission repository maintains English (`README.md`) and German (`README.de.md`) documentation alongside `references.md` and `coverage.md`. When an existing entity requires reprocessing (e.g., updating hardware specs, refreshing MOUs, expanding technical frameworks, or fixing metrics), the update must be applied systematically across both language versions of the documentation while tracking the processing iteration count.
+> **Purpose:** Systematically reprocess a target entity's profile across bilingual documentation, track processing iterations, and maintain repository integrity — with rigorous fact-checking as a non-negotiable requirement.
 
-## Task
-Reprocess a target entity within the Genesis Mission ecosystem, ensure the tracking table in `coverage.md` includes a `Process Count` column as the first column, increment that entity's counter (starting at `0` for the initial run if the column is missing), apply technical updates synchronously to both `README.md` and `README.de.md`, preserve links in `references.md`, and bump the repository patch version across all primary files.
+---
 
-## Execution Rules
+## 📋 Context
 
-### 1. Scope Restriction: Paper Traversal
-* **Do Not Read Child Papers 'child_papers' folder:** Confine all analysis, technical updates, and reference extractions strictly to the top-level parent document and primary source material provided. Under no circumstances should child papers, sub-references, or nested citations be recursively fetched, read, or traversed.
+The **Genesis Mission** repository maintains parallel documentation:
 
-### 2. Schema Migration & Counter Increment in `coverage.md`
-* **First-Column Insertion:** Ensure every entity tracking table in `coverage.md` includes `Process Count` as the very first column (`| Process Count | Entity | ... |`).
-* **Initial Baseline:** If the `Process Count` column does not exist, insert it into all table headers and data rows, setting the default value to `0` for all untouched rows.
-* **Reprocess Entity Counter Update:** For the target entity being reprocessed:
-  * If the column already existed: Increment the numeric value by `1` (e.g., `0` → `1`, `1` → `2`).
-  * If the column was newly added: Set the reprocessed entity's counter to `1`.
-* **Status & Details:** Update the reprocessed entity's `Status` (e.g., `📋 Brief Mention` → `✅ Full Profile`), `Paper Section`, and `Notes` with the refreshed architectural context.
-* **Metrics Recalculation:** Recalculate and update the summary tables and footnote in `coverage.md` to reflect coverage counts accurately.
+| File | Purpose |
+|---|---|
+| `README.md` | Primary English documentation |
+| `README.de.md` | German counterpart (strict sync required) |
+| `references.md` | Source link archive |
+| `coverage.md` | Entity tracking & metrics |
+| `CHANGELOG.md` | Version history |
 
-### 3. Dual-Language Profile Updates (`README.md` and `README.de.md`)
-* **Strict Bilingual Sync:** Every update made to `README.md` must have an exact, fully translated counterpart applied in `README.de.md` under matching section hierarchies.
-* **Section Routing:** Determine the correct target section by entity type before refreshing the profile:
-  * **Industry, hyperscale, and hardware entities** (companies, compute/model providers, manufacturers, industry collaborators) → `### 3.1 Industry, Hyperscale & Hardware Commitments` (`README.md`) / `### 3.1 Industrie-, Hyperscale- & Hardware-Verpflichtungen` (`README.de.md`).
-  * **National Laboratories** (DOE national labs, federally funded R&D centers operated on the government's behalf) → `### 3.2 National Laboratories` (`README.md`) / `### 3.2 Nationale Laboratorien` (`README.de.md`).
-  * **Universities and academic research entities** (universities, university labs, PI-led academic teams, national-lab academic partnerships) → `### 3.3 University Research Partners` (`README.md`) / `### 3.3 Universitäre Forschungspartner` (`README.de.md`).
-* **Section Updates:** Refresh the entry under the designated section in both language files. The refreshed entry must open with a lead-in line giving the entity's full legal/brand name, a one-line identifying description (location, sector or academic department, program/product lines), its specific role on the relevant Genesis Mission project, and an inline citation with source name and link to the primary announcement or program page. The entry must then continue with the following bold sub-bullets, in this order, each rewritten to reflect the latest available information:
-  * **Grants & Commitments** / **Zuschüsse & Verpflichtungen:** Corporate background (founding date/location, incorporation, HQ, facility locations), updated state/federal LOIs, MOUs, CHIPS Act LOIs, or federal/state funding commitments, including award amounts, award dates, program names, co-selected/partnering institutions, and the entity's specific role (e.g., prime awardee vs. industry collaborator) on any Genesis-affiliated effort, naming the leading PI/institution and co-investigators where applicable.
-  * **Technical Capabilities** / **Technische Kapazitäten:** Specific hardware architectures, product lines, software platforms, quantum modalities, or HPC/supercomputing substrates the entity supplies or operates (e.g., newly added chip architectures, quantum hardware modalities, cluster interconnects, liquid cooling systems, battery chemistries, manufacturing processes), described with concrete specifications (voltage/capacity classes, cycle life, process names, etc.) rather than generic marketing language.
-  * **Mission Domains** / **Missionsdomänen:** The specific Genesis Mission problem space the entity's contribution addresses (e.g., adversarial robustness, federated learning, sensor/telemetry integrity, thermal/safety modeling), what real-world data or assets the entity contributes to that effort, and how the resulting methodology generalizes to broader Genesis Mission domains (e.g., grid-edge storage, autonomous lab instrumentation, sensor-driven experimental control).
-* **Global References (§1 & §2.1):** For major compute or model providers, incorporate concise references into the Abstract (`## Abstract` / `## Zusammenfassung`), heterogeneous supercomputing core (`§2.1`), and ASCII consortium topology diagram (`§1`) across both `README.md` and `README.de.md`.
-* **Appendix Table:** Verify the reprocessed entity's contributions match the latest reprocessed scope in the appropriate appendix table in both documents — industry/hardware entities under `### A.3 Industry & Technology Partners` / `### A.3 Industrie- und Technologiepartner`; national laboratories and universities/academic entities under their corresponding appendix tables, if present.
+When an entity requires reprocessing — updated hardware specs, refreshed MOUs, expanded technical frameworks, or corrected metrics — the update must propagate **synchronously** across both language versions while incrementing a processing counter.
 
-**Reference structure (English):**
+---
 
-> Clean Republic SODO, LLC (Hill Topper / Dakota Lithium): Seattle-based lithium battery and light electric mobility manufacturer ([electric-bike-kit.com](https://www.electric-bike-kit.com/)) participating as the industry partner on the Phase I Genesis Mission project Adversarial Robustness Framework for AI Models in Battery Management and Energy Science Workflows, the only inaugural-cohort award led from North Dakota (UND Selected for Inaugural U.S. Department of Energy Genesis Mission Project, [blogs.und.edu/und-today/2026/07/und-selected-for-inaugural-u-s-department-of-energy-genesis-mission-project/](https://blogs.und.edu/und-today/2026/07/und-selected-for-inaugural-u-s-department-of-energy-genesis-mission-project/)).
+## ⚙️ Execution Rules
+
+### 1️⃣ Scope Restriction — Paper Traversal
+
+> 🚫 **Do NOT** read the `child_papers/` folder.
+
+Confine all analysis, technical updates, and reference extraction strictly to the **top-level parent document** and primary source material provided. Never recursively fetch, read, or traverse child papers, sub-references, or nested citations.
+
+---
+
+### 2️⃣ Schema Migration & Counter Increment (`coverage.md`)
+
+- ✅ **First-Column Insertion:** Every entity tracking table must lead with `Process Count`:
+  `| Process Count | Entity | ... |`
+- ✅ **Initial Baseline:** If the column doesn't exist yet, insert it across all headers/rows, defaulting untouched rows to `0`.
+- ✅ **Counter Logic for the Reprocessed Entity:**
+  | Scenario | Action |
+  |---|---|
+  | Column already existed | Increment by `1` (e.g. `0 → 1`, `1 → 2`) |
+  | Column newly added | Set to `1` |
+- ✅ **Status & Metadata:** Update `Status` (e.g. `📋 Brief Mention` → `✅ Full Profile`), `Paper Section`, and `Notes` with refreshed architectural context.
+- ✅ **Metrics Recalculation:** Update summary tables and footnotes to reflect accurate coverage counts.
+
+---
+
+### 3️⃣ Dual-Language Profile Updates
+
+> 🌐 **Strict Bilingual Sync:** Every `README.md` update requires an exact, fully translated counterpart in `README.de.md` under matching section hierarchies.
+
+#### 🧭 Section Routing (by entity type)
+
+| Entity Type | English Section | German Section |
+|---|---|---|
+| Industry / Hyperscale / Hardware | `### 3.1 Industry, Hyperscale & Hardware Commitments` | `### 3.1 Industrie-, Hyperscale- & Hardware-Verpflichtungen` |
+| National Laboratories | `### 3.2 National Laboratories` | `### 3.2 Nationale Laboratorien` |
+| Universities / Academic | `### 3.3 University Research Partners` | `### 3.3 Universitäre Forschungspartner` |
+
+#### 📝 Entry Structure
+
+Each refreshed entry must open with:
+- Full legal/brand name
+- One-line identifying description (location, sector/department, program/product lines)
+- Specific role on the relevant Genesis Mission project
+- Inline citation (source name + link to primary announcement/program page)
+
+Followed by three bold sub-bullets, **in this order**:
+
+1. **Grants & Commitments** / *Zuschüsse & Verpflichtungen*
+   Corporate background, LOIs/MOUs/CHIPS Act commitments, award amounts & dates, program names, partnering institutions, entity's role (prime awardee vs. collaborator), leading PI/co-investigators.
+
+2. **Technical Capabilities** / *Technische Kapazitäten*
+   Concrete hardware/software specs — chip architectures, quantum modalities, interconnects, cooling systems, battery chemistries, manufacturing processes. **No marketing language** — voltage classes, cycle life, process names only.
+
+3. **Mission Domains** / *Missionsdomänen*
+   The specific Genesis Mission problem space addressed, real-world data/assets contributed, and how the methodology generalizes to broader mission domains.
+
+#### 🌍 Global References
+
+For major compute/model providers, thread references through:
+- `## Abstract` / `## Zusammenfassung`
+- `§2.1` (heterogeneous supercomputing core)
+- `§1` (ASCII consortium topology diagram)
+
+#### 📎 Appendix Verification
+
+Cross-check the reprocessed entity's contributions against:
+- `### A.3 Industry & Technology Partners` / `### A.3 Industrie- und Technologiepartner` (industry/hardware)
+- Corresponding lab/university appendix tables, where present
+
+---
+
+### 4️⃣ Reference Integrity (`references.md`)
+
+- ✅ Retain **all** historical press releases, partner announcements, and collaboration URLs.
+- ✅ Append newly sourced links under appropriate sub-headers.
+- 🚫 Never remove existing valid links.
+
+---
+
+### 5️⃣ Version Increment
+
+Bump the patch version on **line 1** of both `README.md` and `README.de.md` synchronously:
+
+```diff
+- **Version**: 0.2.8-alpha
++ **Version**: 0.2.9-alpha
+```
+
+---
+
+### 6️⃣ Changelog Entry (`CHANGELOG.md`)
+
+Document under the active version:
+- The reprocessed entity name
+- The `Process Count` schema migration
+- Specific technical additions applied to **both** English and German docs
+
+---
+
+### 7️⃣ Release Management Policy
+
+> 🚫 Do **NOT** run `git tag` or `git push`.
+
+Tagging and release deployment remain isolated to `prompts/release_and_tag.md`.
+
+---
+
+## 🔬 Fact-Checking Requirement (Mandatory)
+
+> **This is science- and policy-adjacent documentation. Every factual claim must be verifiable.**
+
+- ✅ Verify all award amounts, dates, PI names, program titles, and technical specs (cycle life, voltage classes, process names) against **primary sources** before writing them into a profile.
+- ✅ Prefer official announcements, `.gov`/`.edu` sources, and company press releases over secondary summaries.
+- 🚫 Never fabricate or extrapolate unverified figures.
+- ⚠️ If a specific number or fact cannot be confirmed from a real, citable source, state that it is unconfirmed rather than inserting a plausible-sounding value.
+- 📌 Every entry must carry an inline citation (source name + working link) to its primary announcement or program page.
+
+---
+
+## 🧾 Reference Structure — Worked Example
+
+<details>
+<summary><strong>🇺🇸 English</strong></summary>
+
+> Clean Republic SODO, LLC (Hill Topper / Dakota Lithium): Seattle-based lithium battery and light electric mobility manufacturer ([electric-bike-kit.com](https://www.electric-bike-kit.com/)) participating as the industry partner on the Phase I Genesis Mission project *Adversarial Robustness Framework for AI Models in Battery Management and Energy Science Workflows*, the only inaugural-cohort award led from North Dakota (UND Selected for Inaugural U.S. Department of Energy Genesis Mission Project, [blogs.und.edu/...](https://blogs.und.edu/und-today/2026/07/und-selected-for-inaugural-u-s-department-of-energy-genesis-mission-project/)).
 >
-> * **Grants & Commitments:** Founded in Seattle around 2008 and incorporated in Washington State in 2012, the company operates the Hill Topper electric-bike conversion kit line and the Dakota Lithium lithium iron phosphate (LFP) battery brand, with a research and pilot-manufacturing presence in Grand Forks, North Dakota co-located with the University of North Dakota (UND). Prior federal and state support includes a $2 Million DOE award (December 2024) under the $25 Million Platform Technologies for Transformative Battery Manufacturing program — one of eleven selections, executed with Boise State University and Savannah River National Laboratory — and a North Dakota Industrial Commission Renewable Energy Program grant of $238,366 to UND matched by $457,873 in company funds. Under Genesis the company contributes as an industry collaborator rather than prime awardee on the nine-month Phase I effort led by UND Assistant Professor Jielun Zhang (Electrical Engineering & Computer Science) with co-investigator Jueming Hu (Mechanical Engineering), Feng Ye (University of Wisconsin–Madison) and Fuhao Li (La Sierra University).
-> * **Technical Capabilities:** Supplies the applied battery substrate for the project — LiFePO4 deep-cycle packs across 12 V, 24 V and 48 V classes for marine, RV, solar, powersports and light-EV duty, each with an integrated battery management system (BMS) performing cell balancing, over-charge/over-discharge and short-circuit protection and thermal management, alongside the Hill Topper kit line. Its Dakota Lithium Materials arm develops long-cycle-life iron-phosphate cathode powders (targeting 6,000–10,000 cycles against the ~2,000-cycle commercial baseline) using a dry-process resonant acoustic mixing (RAM) route, and the December 2024 DOE award extends that process to sodium iron phosphate cathodes for sodium-ion cells that avoid lithium and cobalt supply-chain exposure.
-> * **Mission Domains:** The project targets the adversarial attack surface of AI-based battery management — manipulated sensor telemetry, poisoned training data and cyber intrusion that can mask cell degradation, hide thermal-runaway precursors or induce unsafe charge/discharge commands — and delivers standardized adversarial testing methods for BMS models, compromised-data detection techniques and federated learning frameworks that train robust models across organizations without centralizing proprietary battery telemetry. Clean Republic's fielded pack, cell and BMS data give the framework real operating records rather than synthetic traces, and the resulting robustness methodology generalizes from electric-vehicle and stationary storage to the wider energy science workflows — grid-edge storage, autonomous laboratory instrumentation and sensor-driven experimental control — that depend on trustworthy AI under adversarial conditions.
+> * **Grants & Commitments:** Founded in Seattle around 2008, incorporated in Washington State in 2012; operates the Hill Topper e-bike kit line and Dakota Lithium LFP battery brand with R&D/pilot manufacturing in Grand Forks, ND, co-located with UND. Prior support: $2M DOE award (Dec 2024) under the $25M Platform Technologies for Transformative Battery Manufacturing program (with Boise State University and Savannah River National Laboratory); ND Industrial Commission grant of $238,366 to UND, matched by $457,873 in company funds. Under Genesis: industry collaborator (not prime awardee) on the nine-month Phase I effort led by UND Assistant Professor Jielun Zhang, with co-investigators Jueming Hu, Feng Ye (UW–Madison), and Fuhao Li (La Sierra University).
+> * **Technical Capabilities:** LiFePO4 deep-cycle packs (12V/24V/48V classes) with integrated BMS (cell balancing, over-charge/discharge & short-circuit protection, thermal management). Dakota Lithium Materials develops long-cycle-life iron-phosphate cathode powders (6,000–10,000 cycle target vs. ~2,000-cycle baseline) via dry-process resonant acoustic mixing (RAM); the Dec 2024 DOE award extends this to sodium iron phosphate cathodes.
+> * **Mission Domains:** Targets adversarial attacks on AI-based battery management (manipulated telemetry, poisoned training data, cyber intrusion). Delivers standardized adversarial testing, compromised-data detection, and federated learning across organizations without centralizing proprietary telemetry. Real fielded pack/cell/BMS data ground the framework; methodology generalizes to grid-edge storage, autonomous lab instrumentation, and sensor-driven experimental control.
 
-**Reference structure (German counterpart):**
+</details>
 
-> Clean Republic SODO, LLC (Hill Topper / Dakota Lithium): In Seattle ansässiger Hersteller von Lithiumbatterien und Leicht-Elektromobilität ([electric-bike-kit.com](https://www.electric-bike-kit.com/)), der als Industriepartner am Phase-I-Genesis-Missionsprojekt „Adversarial Robustness Framework for AI Models in Battery Management and Energy Science Workflows“ teilnimmt – der einzigen Auszeichnung der ersten Kohorte unter Leitung aus North Dakota (UND Selected for Inaugural U.S. Department of Energy Genesis Mission Project, [blogs.und.edu/und-today/2026/07/und-selected-for-inaugural-u-s-department-of-energy-genesis-mission-project/](https://blogs.und.edu/und-today/2026/07/und-selected-for-inaugural-u-s-department-of-energy-genesis-mission-project/)).
+<details>
+<summary><strong>🇩🇪 Deutsch</strong></summary>
+
+> Clean Republic SODO, LLC (Hill Topper / Dakota Lithium): In Seattle ansässiger Hersteller von Lithiumbatterien und Leicht-Elektromobilität ([electric-bike-kit.com](https://www.electric-bike-kit.com/)), der als Industriepartner am Phase-I-Genesis-Missionsprojekt „Adversarial Robustness Framework for AI Models in Battery Management and Energy Science Workflows" teilnimmt.
 >
-> * **Zuschüsse & Verpflichtungen:** Gegründet um 2008 in Seattle und 2012 im US-Bundesstaat Washington eingetragen, betreibt das Unternehmen die E-Bike-Umrüstsatzlinie Hill Topper und die Lithium-Eisenphosphat-(LFP)-Batteriemarke Dakota Lithium mit einer Forschungs- und Pilotfertigungspräsenz in Grand Forks, North Dakota, in Kooperation mit der University of North Dakota (UND). Zu den bisherigen Bundes- und Landesförderungen zählen eine DOE-Förderung in Höhe von 2 Mio. USD (Dezember 2024) im Rahmen des mit 25 Mio. USD dotierten Programms „Platform Technologies for Transformative Battery Manufacturing“ – eine von elf Auszeichnungen, die gemeinsam mit der Boise State University und dem Savannah River National Laboratory realisiert wurde – sowie ein Zuschuss des North Dakota Industrial Commission Renewable Energy Program in Höhe von 238.366 USD an die UND, ergänzt durch 457.873 USD an Eigenmitteln des Unternehmens. Im Rahmen von Genesis agiert das Unternehmen als Industriepartner und nicht als Hauptzuwendungsempfänger im neunmonatigen Phase-I-Projekt unter der Leitung von UND-Assistant Professor Jielun Zhang (Electrical Engineering & Computer Science) gemeinsam mit Co-Investigator Jueming Hu (Mechanical Engineering), Feng Ye (University of Wisconsin–Madison) und Fuhao Li (La Sierra University).
-> * **Technische Kapazitäten:** Liefert das angewandte Batteriesubstrat für das Projekt – LiFePO4-Deep-Cycle-Packs der 12-V-, 24-V- und 48-V-Klassen für Marine-, Wohnmobil-, Solar-, Powersport- und Leicht-EV-Einsätze, jeweils mit integriertem Batteriemanagementsystem (BMS) für Zellbalancing, Überlade-/Tiefentlade- sowie Kurzschlussschutz und Thermomanagement, neben der Hill Topper-Bausatzlinie. Der Unternehmensteil Dakota Lithium Materials entwickelt langlebige Eisenphosphat-Kathodenpulver (Ziel: 6.000–10.000 Zyklen gegenüber dem kommerziellen Ausgangswert von ~2.000 Zyklen) im Trockenverfahren mittels resonanter akustischer Mischung (RAM). Die DOE-Förderung vom Dezember 2024 erweitert dieses Verfahren auf Natrium-Eisenphosphat-Kathoden für Natrium-Ionen-Zellen, um Rohstoffabhängigkeiten bei Lithium und Kobalt zu vermeiden.
-> * **Missionsdomänen:** Das Projekt adressiert die Angriffsfläche des KI-gestützten Batteriemanagements – manipulierte Sensortelemetrie, vergiftete Trainingsdaten und Cyberangriffe, die Zelldegradation verschleiern, Vorläufer eines thermischen Durchgehens maskieren oder unsichere Lade-/Entladebefehle auslösen können. Es liefert standardisierte Testverfahren gegen Adversarial Attacks für BMS-Modelle, Erkennungsverfahren für manipulierte Daten sowie Federated-Learning-Architekturen zum organisationsübergreifenden Modelltraining ohne Offenlegung proprietärer Telemetrie. Die realen Batteriepack-, Zell- und BMS-Betriebsdaten von Clean Republic stellen praxisnahe Profile statt synthetischer Spuren bereit; die Methodik lässt sich von EV- und stationären Speichern auf breitere Workflows der Energiewissenschaften übertragen (z. B. dezentrale Netzspeicherung, autonome Laborinstrumentierung, sensorgeführte experimentelle Steuerung).
+> * **Zuschüsse & Verpflichtungen:** Gegründet um 2008 in Seattle, 2012 in Washington eingetragen; betreibt Hill Topper und die Marke Dakota Lithium mit Forschungs-/Pilotfertigung in Grand Forks, ND, in Kooperation mit der UND. Bisherige Förderung: 2 Mio. USD DOE-Förderung (Dez. 2024) im 25-Mio.-USD-Programm „Platform Technologies for Transformative Battery Manufacturing"; ND-Zuschuss von 238.366 USD, ergänzt durch 457.873 USD Eigenmittel. Im Rahmen von Genesis: Industriepartner (nicht Hauptzuwendungsempfänger) unter Leitung von UND-Assistant Professor Jielun Zhang.
+> * **Technische Kapazitäten:** LiFePO4-Deep-Cycle-Packs (12V/24V/48V) mit integriertem BMS. Dakota Lithium Materials entwickelt langlebige Eisenphosphat-Kathodenpulver (Ziel: 6.000–10.000 Zyklen) via Trocken-RAM-Verfahren; Erweiterung auf Natrium-Eisenphosphat-Kathoden.
+> * **Missionsdomänen:** Adressiert Angriffsflächen des KI-gestützten Batteriemanagements; liefert Testverfahren, Erkennung manipulierter Daten und Federated-Learning-Architekturen. Überträgt sich auf dezentrale Netzspeicherung, autonome Laborinstrumentierung, sensorgeführte experimentelle Steuerung.
 
-### 4. Maintain Integrity in `references.md`
-* Retain all historical press releases, partner announcements, and collaboration URLs.
-* Append newly sourced reference links under the appropriate sub-headers without removing existing valid links.
+</details>
 
-### 5. Version Increment Across Language Readmes
-* Increment the patch version string on line 1 in both `README.md` and `README.de.md` synchronously (e.g., `**Version**: 0.2.8-alpha` → `**Version**: 0.2.9-alpha`).
+---
 
-### 6. Changelog Update
-* Add a changelog entry to `CHANGELOG.md` under the active version documenting the reprocessed entity, schema migration of the `Process Count` column, and specific technical additions applied to both the English and German documentation.
+## ✅ Pre-Flight Checklist
 
-### 7. Release Management Policy
-* Do NOT run `git tag` or `git push`. Tagging and release deployment remain isolated to `prompts/release_and_tag.md`.
+- [ ] Repository files accessible (README.md, README.de.md, coverage.md, references.md, CHANGELOG.md)
+- [ ] Target entity identified
+- [ ] Primary source document confirmed (top-level only, no child papers)
+- [ ] All facts verified against primary sources
+- [ ] Bilingual sync confirmed
+- [ ] Version bumped in both README files
+- [ ] Changelog entry drafted
+- [ ] No `git tag` / `git push` executed
