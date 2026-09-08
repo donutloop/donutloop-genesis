@@ -11,7 +11,7 @@ Systematically document a target entity's technical and strategic role within th
 ### 1. Scope Restriction: Paper Traversal
 * **Do Not Read Child Papers:** Confine all analysis, technical updates, and reference extractions strictly to the top-level parent document and primary source material provided. Under no circumstances should child papers, sub-references, or nested citations be recursively fetched, read, or traversed.
 
-### 2. Integrate Entity Profile in `README.md`
+### 2. Integrate Entity Profile in `readme.md` and `readme.de.md`
 * **Section Routing:** Determine the correct target section by entity type before drafting the profile:
   * **Industry, hyperscale, and hardware entities** (companies, compute/model providers, manufacturers, industry collaborators) → `### 3.1 Industry, Hyperscale & Hardware Commitments`.
   * **National Laboratories** (DOE national labs, federally funded R&D centers operated on the government's behalf) → `### 3.2 National Laboratories`.
