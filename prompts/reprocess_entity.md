@@ -20,7 +20,7 @@ Reprocess a target entity within the Genesis Mission ecosystem, ensure the track
 * **Status & Details:** Update the reprocessed entity's `Status` (e.g., `📋 Brief Mention` → `✅ Full Profile`), `Paper Section`, and `Notes` with the refreshed architectural context.
 * **Metrics Recalculation:** Recalculate and update the summary tables and footnote in `coverage.md` to reflect coverage counts accurately.
 
-### 3. Update Reprocessed Entity Profile in `README.md`
+### 3. Update Reprocessed Entity Profile in `readme.md` and `readme.de.md`
 * **Section Routing:** Determine the correct target section by entity type before refreshing the profile:
   * **Industry, hyperscale, and hardware entities** (companies, compute/model providers, manufacturers, industry collaborators) → `### 3.1 Industry, Hyperscale & Hardware Commitments`.
   * **National Laboratories** (DOE national labs, federally funded R&D centers operated on the government's behalf) → `### 3.2 National Laboratories`.
