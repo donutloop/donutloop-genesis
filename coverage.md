@@ -209,7 +209,7 @@
 | 0 | [Boston University](https://www.bu.edu/) | ✅ Full Profile | §3.3, A.5 | DOE Genesis Mission plasma-physics award; FLARE digital twin neural networks, plasmoid detection & PPPL/LANL/UCSB/TAE collaboration |
 | 0 | [Brown University](https://www.brown.edu/) | ❌ Not Covered | — | National Labs Day spotlights collaboration in AI-enabled science and the Genesis Mission (reference only) |
 | 0 | [University of Alabama](https://www.ua.edu/) | ✅ Full Profile | §3.3, A.5 | High-energy particle physics AI workflow automation (Fermilab partner) & LHC CMS data analytics |
-| 0 | [Caltech](https://www.caltech.edu/) | ✅ Full Profile | §3.3, A.5 | Quantum optics, photonic QPU co-design, computational physics & AI foundation models |
+| 1 | [Caltech](https://www.caltech.edu/) | ✅ Full Profile | §3.3, A.5 | Photonic QPU co-design, quantum optics, computational physics & AI foundation models (two Genesis Lighthouse awards) |
 | 1 | [Carnegie Mellon University](https://www.cmu.edu/) | ✅ Full Profile | §3.3, A.5 | Autonomous scientific AI agents, robotics, SciML & materials discovery algorithms; Dietrich College statistics & AI frameworks (Chad Schafer, Mikael Kuusela) for Vera C. Rubin Observatory cosmology and uncertainty quantification beyond MCMC |
 | 0 | [Colorado State University](https://www.colostate.edu/) | ✅ Full Profile | §3.3, A.5 | Atmospheric modeling, climate AI foundation models & high-power laser physics |
 | 0 | [Colorado School of Mines](https://www.mines.edu/) | ❌ Not Covered | — | Genesis Mission critical-mineral exploration and nuclear-fuel-recycling projects (reference only) |
@@ -229,18 +229,19 @@
 | 0 | [Michigan Technological University](https://www.mtu.edu/) | ✅ Full Profile | §3.3, A.5 | Extreme environment material sensors, critical mineral refining & power electronics |
 | 0 | [Mississippi State University](https://www.msstate.edu/) | ✅ Full Profile | §3.3, A.5 | Computational fluid dynamics (CFD), autonomous systems & agricultural remote sensing |
 | 0 | [Missouri S&T](https://www.mst.edu/) | ✅ Full Profile | §3.3, A.5 | High-temperature ceramics, pyrometallurgical critical material recovery & mining AI |
-| 0 | [MIT](https://www.mit.edu/) | ✅ Full Profile | §3.3, A.5 | Superconducting & trapped-ion QPU algorithms, quantum error correction & nuclear AI |
+| 1 | [MIT](https://www.mit.edu/) | ✅ Full Profile | §3.3, A.5 | Superconducting & trapped-ion QPU algorithms, fault-tolerant quantum error correction (surface-code compilers) & nuclear AI; LNS director Jesse Thaler & fusion-plasma PI Cristina Rea |
 | 0 | [New Jersey Institute of Technology (NJIT)](https://www.njit.edu/) | ✅ Full Profile | §3.3, A.5 | Solar physics AI models, materials informatics & dynamic network optimization |
 | 0 | [New Mexico State University (NMSU)](https://www.nmsu.edu/) | ✅ Full Profile | §3.3, A.5 | High-energy nuclear physics, desert hydrology modeling & space payload sensors |
 | 0 | [New York University (NYU)](https://www.nyu.edu/) | ✅ Full Profile | §3.3, A.5 | 3 flagship SciML awards, partial differential equation (PDE) neural operators & Bio AI |
 | 0 | [Northwestern University](https://www.northwestern.edu/) | ✅ Full Profile | §3.3, A.5 | High-throughput inorganic crystal discovery, catalyst screening & automated robotics |
 | 0 | [Oklahoma State University](https://news.okstate.edu/) | ✅ Full Profile | §3.3, A.5 | Selected for DOE Genesis Mission initiative & sustainable engineering research |
 | 0 | [Penn State University](https://www.psu.edu/) | ✅ Full Profile | §3.3, A.5 | Extreme-environment materials, 2D semiconductors & nuclear reactor digital twins |
-| 0 | [Princeton University](https://www.princeton.edu/) | ✅ Full Profile | §3.3, A.5 | Tokamak fusion plasma physics (PPPL), quantum information theory & SciML operators |
+| 1 | [Princeton University](https://www.princeton.edu/) | ✅ Full Profile | §3.3, A.5 | Tokamak fusion plasma physics (PPPL), quantum information theory, SciML operators & renewed DOE M&O contract for PPPL |
 | 0 | [Purdue University](https://www.purdue.edu/) | ✅ Full Profile | §3.3, A.5 | 2 Genesis awards: Electron-Ion Collider real-time AI trigger/compression (w/ LANL & Fermilab) & LLM training data direct citation (w/ ORNL) |
 | 0 | [Rensselaer Polytechnic Institute (RPI)](https://www.rpi.edu/) | ✅ Full Profile | §3.3, A.5 | Particle accelerator beam dynamics simulation (Sirepo), quantum algorithms & HPC |
 | 0 | [Rice University](https://www.rice.edu/) | ✅ Full Profile | §3.3, A.5 | Carbon nanotube synthesis, nanostructured energy materials & quantum chemistry |
-| 0 | [Stanford University](https://www.stanford.edu/) | ✅ Full Profile | §3.3, A.5 | Synchrotron beamlines (SLAC), AI foundation models, quantum optics & biosecurity |
+| 1 | [Stanford University](https://www.stanford.edu/) | ✅ Full Profile | §3.3, A.5 | Synchrotron beamlines (SLAC), $20M NSF PCL cloud-lab standards, AI foundation models, quantum optics & biosecurity |
+| 1 | [Harvard University](https://www.harvard.edu/) | ✅ Full Profile | §3.3, A.5 | AI foundation-model governance & biosecurity coordination node (Bio Genesis Mission) |
 | 0 | [Stony Brook University](https://www.stonybrook.edu/) | ✅ Full Profile | §3.3, A.5 | Relativistic heavy-ion physics (BNL RHIC), nuclear structure AI & high-performance compute |
 | 0 | [Texas A&M University](https://www.tamu.edu/) | ✅ Full Profile | §3.3, A.5 | Nuclear materials degradation modeling, cyber-physical grid security & hypersonics CFD |
 | 0 | [Texas State University](https://www.txstate.edu/) | ✅ Full Profile | §3.3, A.5 | Next-generation semiconductor lithography materials & microelectronics fabrication |
@@ -339,17 +340,17 @@
 | Industry Partners | 95 | 94 | 0 | 1 |
 | Federal Agencies | 11 | 11 | 0 | 0 |
 | National Laboratories & Defense Sites | 26 | 24 | 0 | 2 |
-| Universities | 92 | 75 | 0 | 17 |
+| Universities | 93 | 76 | 0 | 17 |
 | Philanthropy, Policy & Regional Hubs | 17 | 12 | 0 | 5 |
-| **Total** | **241** | **216** | **0** | **25** |
+| **Total** | **242** | **217** | **0** | **25** |
 
 ### By Coverage Level
 
 | Coverage Level | Count | Percentage |
 |:---|:---:|:---:|
-| ✅ Full Profile | 216 | 89.6% |
+| ✅ Full Profile | 217 | 89.7% |
 | 📋 Brief Mention | 0 | 0.0% |
 | ❌ Not Covered | 25 | 10.4% |
-| **Total Entities** | **241** | **100%** |
+| **Total Entities** | **242** | **100%** |
 
-> **Note:** The tracker now covers 241 Genesis Mission ecosystem participants, with 216 entities in dedicated technical write-ups (89.6% full-profile coverage). George Washington University, Brown University, Heidelberg University, Howard University, European Coalition for AI in Fundamental Physics (EuCAIF), Colorado School of Mines, UC San Diego, University of Delaware, University of Hawaiʻi at Mānoa, University of Massachusetts Amherst, University of Washington, Boise State University, St. Joseph's University, New York, Kent State University, Southeastern Universities Research Association (SURA), ORISE, Energy Sciences Coalition (ESC), Krell Institute, La Sierra University, Joint Genome Institute (JGI), the University of North Carolina at Chapel Hill (UNC-Chapel Hill), Washington University in St. Louis (WashU), the National Reactor Innovation Center (NRIC), Hydro-Québec, The Catholic University of America (CUA) remain registered as reference-only participants. The broader sub-grantee network of 342 participating institutions represents secondary academic and sub-contractor nodes across the 278 national project awards.
+> **Note:** The tracker now covers 242 Genesis Mission ecosystem participants, with 217 entities in dedicated technical write-ups (89.7% full-profile coverage). George Washington University, Brown University, Heidelberg University, Howard University, European Coalition for AI in Fundamental Physics (EuCAIF), Colorado School of Mines, UC San Diego, University of Delaware, University of Hawaiʻi at Mānoa, University of Massachusetts Amherst, University of Washington, Boise State University, St. Joseph's University, New York, Kent State University, Southeastern Universities Research Association (SURA), ORISE, Energy Sciences Coalition (ESC), Krell Institute, La Sierra University, Joint Genome Institute (JGI), the University of North Carolina at Chapel Hill (UNC-Chapel Hill), Washington University in St. Louis (WashU), the National Reactor Innovation Center (NRIC), Hydro-Québec, The Catholic University of America (CUA) remain registered as reference-only participants. The broader sub-grantee network of 342 participating institutions represents secondary academic and sub-contractor nodes across the 278 national project awards.
