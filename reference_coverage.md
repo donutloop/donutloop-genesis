@@ -210,7 +210,7 @@ A tabular master index for the reference collection:
 | 2. Collaborators | - | Micron | `www.micron.com` | Web | [Micron](https://www.micron.com/) | `Processed` | company:Micron |
 | 2. Collaborators | - | Microsoft | `www.microsoft.com` | Web | [Microsoft](https://www.microsoft.com/) | `Processed` | company:Microsoft |
 | 2. Collaborators | - | MP Materials | `mpmaterials.com` | Web | [MP Materials](https://mpmaterials.com/) | `Processed` | company:MP Materials |
-| 2. Collaborators | - | New York Creates | `nycreates.org` | Web | [New York Creates](https://nycreates.org/) | `Processed` |  - |
+| 2. Collaborators | - | New York Creates | `nycreates.org` | Web | [New York Creates](https://nycreates.org/) | `Processed` | company:Niron Magnets |
 | 2. Collaborators | - | Niron Magnets | `nironmagnets.com` | Web | [Niron Magnets](https://nironmagnets.com/) | `Processed` |  - |
 | 2. Collaborators | - | Nokia | `www.nokia.com` | Web | [Nokia](https://www.nokia.com/) | `Processed` |  - |
 | 2. Collaborators | - | Nusano | `nusano.com` | Web | [Nusano](https://nusano.com/) | `Processed` |  - |
