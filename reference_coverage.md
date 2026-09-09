@@ -181,7 +181,7 @@ A tabular master index for the reference collection:
 | 2. Collaborators | - | Cornelis Partners with U.S. Department of Energy on the Genesis Mission | `www.cornelis.com` | Web | [Cornelis Partners with U.S. Department of Energy on the Genesis Mission](https://www.cornelis.com/stories/cornelis-partners-with-us-department-of-energy-on-the-genesis-mission) | `Processed` | company:Critical Materials Recycling |
 | 2. Collaborators | - | Cosylab selected for U.S. Department of Energy's Genesis Mission | `cosylab.com` | Web | [Cosylab selected for U.S. Department of Energy's Genesis Mission](https://cosylab.com/news/genesis-mission-phase1-project/) | `Processed` | company:Cosylab |
 | 2. Collaborators | - | Critical Materials Recycling | `www.cmrecycling.com` | Web | [Critical Materials Recycling](https://www.cmrecycling.com/) | `Processed` | company:Critical Materials Recycling |
-| 2. Collaborators | - | Dell Technologies | `www.dell.com` | Web | [Dell Technologies](https://www.dell.com/) | `Processed` |  - |
+| 2. Collaborators | - | Dell Technologies | `www.dell.com` | Web | [Dell Technologies](https://www.dell.com/) | `Processed` | company:Dell Technologies |
 | 2. Collaborators | - | Diraq | `diraq.com` | Web | [Diraq](https://diraq.com/) | `Processed` |  - |
 | 2. Collaborators | - | Diraq — About Us | `www.diraq.com` | Web | [Diraq — About Us](https://www.diraq.com/about) | `Processed` |  - |
 | 2. Collaborators | - | D-Wave | `www.dwavesys.com` | Web | [D-Wave](https://www.dwavesys.com/) | `Processed` |  - |
