@@ -6,6 +6,11 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 
+## [3.34.18] - 2026-09-09
+
+### Added
+- **Reprocessed entity: xLight** (Process Count 3→4). Re-fact-checked the §3.1 profile and Appendix table row against the tagged SOURCE SET (`company:xLight`): removed unsupported claims (the $150M private match, Fermilab SRF-cryomodule CRADA, LANL ML beam stabilization, ASML LPP comparison, 2nm-chip sovereignty, Pat Gelsinger / Dr. Thomas Caulfield board leadership, energy-recovery SRF linac) and corrected the facility naming to the Albany Nanotech Complex with NY Creates; retained only source-backed facts (Dec 2025 preliminary LOI — first NSTC CHIPS R&D award with $150M DOC equity — finalized June 2026 $150M award, FEL EUV prototype beginning 2028, utility-scale EUV power to up to 16 scanners, sub-EUV lithography, CEO/CTO Nicholas Kelez, HQ 380 Portage Ave Palo Alto CA 94306); mirrored in `README.de.md`, bumped the `coverage.md` Process Count to 4.
+
 ## [3.34.17] - 2026-09-10
 
 ### Added
