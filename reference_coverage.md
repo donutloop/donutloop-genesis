@@ -231,7 +231,7 @@ A tabular master index for the reference collection:
 | 2. Collaborators | - | Rigetti Computing — About Us | `www.rigetti.com` | Web | [Rigetti Computing — About Us](https://www.rigetti.com/about-rigetti-computing) | `Processed` | company:Rigetti |
 | 2. Collaborators | - | RTX | `www.rtx.com` | Web | [RTX](https://www.rtx.com/) | `Processed` | company:RTX |
 | 2. Collaborators | - | Sambanova | `sambanova.ai` | Web | [Sambanova](https://sambanova.ai/) | `Processed` | company:Sambanova |
-| 2. Collaborators | - | Scale AI | `scale.com` | Web | [Scale AI](https://scale.com/) | `Processed` |  - |
+| 2. Collaborators | - | Scale AI | `scale.com` | Web | [Scale AI](https://scale.com/) | `Processed` | company:Scale AI |
 | 2. Collaborators | - | Semiconductor Industry Association | `www.semiconductors.org` | Web | [Semiconductor Industry Association](https://www.semiconductors.org/) | `Processed` |  - |
 | 2. Collaborators | - | Siemens | `www.siemens.com` | Web | [Siemens](https://www.siemens.com/) | `Processed` |  - |
 | 2. Collaborators | - | Synopsys | `www.synopsys.com` | Web | [Synopsys](https://www.synopsys.com/) | `Processed` |  - |
