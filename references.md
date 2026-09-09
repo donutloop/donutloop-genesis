@@ -245,7 +245,7 @@ The **Genesis Mission** is a major U.S. Department of Energy (DOE) initiative de
 * [IBM Quantum Blog: Modeling the Chemistry of Fusion Reactor Material](https://www.ibm.com/quantum/blog/molten-salts-fusion-quantum)
 * [Diraq: Diraq Signs $38M Letter of Intent with the U.S. Department of Commerce Under CHIPS Act to Scale Domestic Quantum Computing Processors Using Silicon Spin Technology](https://www.diraq.com/newsdesk/diraq-signs-38m-letter-of-intent-with-the-us-department-of-commerce-under-chips-act-to-scale-domestic-quantum-computing-processors-using-silicon-spin-technology)
 * [Diraq: Silicon Spin & CMOS Quantum Dot Technology Architecture](https://www.diraq.com/technology)
-* [xLight: xLight Secures $150 Million CHIPS Incentives Award for Free-Electron Laser EUV Prototype](https://www.businesswire.com/news/home/20260602005000/en/xLight-Secures-150-Million-CHIPS-Incentives-Award)
+* [xLight: xLight Finalizes $150M CHIPS Incentives with U.S. Department of Commerce](https://www.xlight.com/blog/xlight-finalizes-150m-chips-incentives-with-u-s-department-of-commerce)
 * [NIST: Department of Commerce Finalizes CHIPS Incentives Award to xLight](https://www.nist.gov/news-events/news/2026/06/department-commerce-finalizes-chips-incentives-award-xlight-inc)
 * [NIST: Department of Commerce Announces Letter of Intent with xLight for CHIPS Incentives](https://www.nist.gov/news-events/news/2025/12/department-commerce-announces-letter-intent-xlight-chips-incentives)
 * [NIST: Joins National Genesis Mission to Accelerate AI Innovation](https://www.nist.gov/news-events/news/2026/08/nist-joins-national-genesis-mission-accelerate-ai-innovation)

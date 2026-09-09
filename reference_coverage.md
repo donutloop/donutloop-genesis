@@ -151,6 +151,7 @@ Below is the distribution of references grouped by top domain hosts and institut
 | `www.deepisolation.com` | **1** | Deep Isolation Nuclear, Inc. | AI-driven deep borehole nuclear waste repository siting |
 | `www.catholic.edu` | **1** | The Catholic University of America | Physics-aware AI for Electron-Ion Collider streaming readout |
 | `www.micro1.ai` | **1** | micro1 | AI engineering talent support |
+| `www.xlight.com` | **1** | xLight | Company blog on finalizing $150M CHIPS incentives with U.S. Dept. of Commerce |
 
 ---
 
@@ -819,3 +820,4 @@ A tabular master index for the reference collection:
 | 7. Technical Documents, RFA Guidance & Official Webinars | - | DOE Office of Science: Biological and Environmental Research (BER) 26 Genesis Awards Flyer (PDF) | `science.osti.gov` | PDF | [DOE Office of Science: Biological and Environmental Research (BER) 26 Genesis Awards Flyer (PDF)](https://science.osti.gov/-/media/ber/pdf/News-and-Resources/26-Genesis-Awards-Flyer_0820.pdf) | `Processed` | gov:DOE, consortium:Genesis |
 | 7. Technical Documents, RFA Guidance & Official Webinars | DOE Office of Science — Isotope R&D and Production (DOE IP) | DOE Office of Science: Isotope R&D and Production (DOE IP) Funding Opportunities Portal | `science.osti.gov` | Web | [DOE Office of Science: Isotope R&D and Production (DOE IP) Funding Opportunities Portal](https://science.osti.gov/Isotope-Research-Development-and-Production/Funding-Opportunities) | `Processed` | gov:DOE, consortium:Genesis |
 | 7. Technical Documents, RFA Guidance & Official Webinars | U.S. Department of Energy — Office of Science (Workforce RFI DE-SC-26-016) | U.S. Department of Energy: 2026 Genesis Mission AI Workforce Request for Information — DE-SC-26-016 (PDF) | `huggingface.co` | PDF | [U.S. Department of Energy: 2026 Genesis Mission AI Workforce Request for Information — DE-SC-26-016 (PDF)](https://huggingface.co/datasets/huggingface/policy-docs/resolve/main/2026_DOE_Genesis_Mission_AI_Workforce_RFI.pdf) | `Processed` | gov:DOE, consortium:Genesis |
+| 4. Executive, Federal & Partner Announcements | - | xLight: xLight Finalizes $150M CHIPS Incentives with U.S. Department of Commerce | `www.xlight.com` | Web | [xLight: xLight Finalizes $150M CHIPS Incentives with U.S. Department of Commerce](https://www.xlight.com/blog/xlight-finalizes-150m-chips-incentives-with-u-s-department-of-commerce) | `Processed` | company:xLight |
