@@ -244,8 +244,6 @@ Tagging and release deployment remain isolated to `prompts/release_and_tag.md`.
 ---
 
 ## ✅ Pre-Flight Checklist
-
-- [ ] **Step 0 verification pass completed:** all existing facts for the target entity re-checked against primary sources, not just new additions
 - [ ] Any disproven, outdated, or unconfirmed existing claims corrected, removed, or flagged in both languages
 - [ ] Corrections logged separately in `CHANGELOG.md`
 - [ ] Repository files accessible (README.md, README.de.md, coverage.md, reference_coverage.md, CHANGELOG.md)
@@ -260,3 +258,4 @@ Tagging and release deployment remain isolated to `prompts/release_and_tag.md`.
 - [ ] Version bumped in both README files
 - [ ] Changelog entry drafted
 - [ ] No `git tag` / `git push` executed
+- [ ] **verification pass:** all existing facts for the target entity re-checked against primary sources, not just new additions, remove wrong facts
