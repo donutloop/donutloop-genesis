@@ -1,4 +1,4 @@
-**Version**: 3.34.16
+**Version**: 3.34.17
 
 # Die Genesis-Mission: Architektur, strategische Initiativen und das multi-institutionelle Ökosystem für KI- und quantengetriebene wissenschaftliche Entdeckungen
 
@@ -379,6 +379,7 @@ Zu den wichtigsten Highlights der Modalitäten im Rahmen der Quantenzusagen geh�
   - *Versorgungsskalige Multi-Scanner-Verteilung*: Eine einzige Beschleunigerquelle versorgt zahlreiche **High-NA-EUV-Scanner** einer Fab, senkt die Kapitalkosten je Scanner und erhöht den Waferdurchsatz für 3nm-, 2nm- und 1.4nm-Knoten.
   - *National-Labor-CRADAs*: **Fermilab**-CRADA zur gemeinsamen Entwicklung hochgradientiger SRF-Kavitäten und Kryomodule für Linacs hoher Wiederholrate, ergänzt durch Arbeiten des **Los Alamos National Laboratory** zu maschinellem Lernen für die Echtzeit-Stabilisierung von Elektronenstrahl und HF — derselbe KI-für-Beschleuniger-Strang, den Fermilab unter Genesis zur adaptiven SRF-Resonanzregelung verfolgt.
   - *Führung*: Executive Chairman **Pat Gelsinger** (ehemaliger Intel-CEO) und Vorstandsmitglied **Dr. Thomas Caulfield** (GlobalFoundries), unterstützt durch eine **Series-B-Finanzierung über 40 Mio. $** zur Kommerzialisierung.
+  - *Erste NSTC-Förderung & DOC-Eigenkapital*: Der Letter of Intent vom **Dezember 2025** war die erste CHIPS-R&D-Auszeichnung, die NIST nach Übernahme der Leitung des **National Semiconductor Technology Center (NSTC)** vornehmen würde; im LOI erhält das Handelsministerium **150 Mio. $ Eigenkapital** an xLight. Hauptsitz: 380 Portage Ave, Palo Alto, CA 94306.
 
 ### 2.3 Wissenschaftliche Domänenanwendungen & geschlossene Arbeitsabläufe
 

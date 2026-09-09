@@ -6,6 +6,11 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 
+## [3.34.17] - 2026-09-10
+
+### Added
+- **Reprocessed entity: xLight** (Process Count 2→3). Re-deep-read the SOURCE SET (tag `company:xLight`: xlight.ai, xlight.com/about, xlight.com CHIPS final-award blog, NIST June 2026 finalization release, NIST Dec 2025 LOI release) and refreshed the §3.1 profile with the verified NSTC-first-award context and DOC-equity terms; bumped the patch version and Process Count exactly once; mirrored the updates in `README.de.md` and refreshed the coverage tracker.
+
 ## [3.34.16] - 2026-09-09
 
 ### Added

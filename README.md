@@ -1,4 +1,4 @@
-**Version**: 3.34.16
+**Version**: 3.34.17
 
 # The Genesis Mission: Architecture, Strategic Initiatives, and the Multi-Institutional Ecosystem for AI- and Quantum-Driven Scientific Discoveries
 
@@ -380,6 +380,7 @@ Key modality highlights across quantum commitments include:
   - *Utility-Scale Multi-Scanner Distribution*: A single accelerator source feeds many **High-NA EUV scanners** across one fab, amortizing capital cost per scanner and raising wafer throughput for 3nm, 2nm and 1.4nm nodes.
   - *National Laboratory CRADAs*: **Fermilab** CRADA co-developing high-gradient SRF cavities and cryomodules for high-repetition-rate linacs, complemented by **Los Alamos National Laboratory** machine-learning work on real-time electron-beam and RF stabilization — the same AI-for-accelerators thread Fermilab pursues under Genesis for adaptive SRF resonance control.
   - *Leadership*: Executive Chairman **Pat Gelsinger** (former Intel CEO) and board director **Dr. Thomas Caulfield** (GlobalFoundries), with **$40 Million Series B** financing supporting commercialization.
+  - *NSTC First Award & DOC Equity*: The December 2025 LOI was the first CHIPS R&D award NIST would make after assuming leadership of the National Semiconductor Technology Center (NSTC); under the LOI the Department of Commerce receives **$150M of equity** in xLight. Headquarters: 380 Portage Ave, Palo Alto, CA 94306.
 
 ### 2.3 Scientific Domain Applications & Closed-Loop Workflows
 
