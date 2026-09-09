@@ -248,7 +248,7 @@ A tabular master index for the reference collection:
 | 3. Quantum Leadership & CHIPS Act Initiatives | Quantum Foundries & Manufacturing Infrastructure | GlobalFoundries | `gf.com` | Web | [GlobalFoundries](https://gf.com/gf-labs) | `Processed` | company:GlobalFoundries |
 | 3. Quantum Leadership & CHIPS Act Initiatives | Quantum Foundries & Manufacturing Infrastructure | IBM | `research.ibm.com` | Web | [IBM](https://research.ibm.com/blog/ibm-us-genesis-mission-quantum-ai) | `Processed` | company:IBM |
 | 3. Quantum Leadership & CHIPS Act Initiatives | Quantum Computing & Modality Developers | Atom Computing | `atom-computing.com` | Web | [Atom Computing](https://atom-computing.com/hardware) | `Processed` | company:Atom Computing |
-| 3. Quantum Leadership & CHIPS Act Initiatives | Quantum Computing & Modality Developers | Diraq | `diraq.com` | Web | [Diraq](https://diraq.com/solutions) | `Processed` |  - |
+| 3. Quantum Leadership & CHIPS Act Initiatives | Quantum Computing & Modality Developers | Diraq | `diraq.com` | Web | [Diraq](https://diraq.com/solutions) | `Processed` | company:Diraq |
 | 3. Quantum Leadership & CHIPS Act Initiatives | Quantum Computing & Modality Developers | D-Wave | `www.dwavesys.com` | Web | [D-Wave](https://www.dwavesys.com/solutions/quantum-computing-for-science/) | `Processed` |  - |
 | 3. Quantum Leadership & CHIPS Act Initiatives | Quantum Computing & Modality Developers | Infleqtion | `www.infleqtion.com` | Web | [Infleqtion](https://www.infleqtion.com/sqale) | `Processed` |  - |
 | 3. Quantum Leadership & CHIPS Act Initiatives | Quantum Computing & Modality Developers | PsiQuantum | `psiquantum.com` | Web | [PsiQuantum](https://psiquantum.com/technology) | `Processed` |  - |
