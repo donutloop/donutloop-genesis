@@ -174,7 +174,7 @@ A tabular master index for the reference collection:
 | 2. Collaborators | - | Atomic Canyon | `www.atomiccanyon.com` | Web | [Atomic Canyon](https://www.atomiccanyon.com/) | `Processed` | company:Atomic Canyon |
 | 2. Collaborators | - | AVEVA | `www.aveva.com` | Web | [AVEVA](https://www.aveva.com/) | `Processed` | company:AVEVA |
 | 2. Collaborators | - | Cerebras | `www.cerebras.ai` | Web | [Cerebras](https://www.cerebras.ai/company/press-release) | `Processed` | company:Cerebras |
-| 2. Collaborators | - | Chemspeed | `www.chemspeed.com` | Web | [Chemspeed](https://www.chemspeed.com/) | `Processed` |  - |
+| 2. Collaborators | - | Chemspeed | `www.chemspeed.com` | Web | [Chemspeed](https://www.chemspeed.com/) | `Processed` | company:Chemspeed |
 | 2. Collaborators | - | Collins Aerospace | `www.collinsaerospace.com` | Web | [Collins Aerospace](https://www.collinsaerospace.com/) | `Processed` |  - |
 | 2. Collaborators | - | ComEd | `www.comed.com` | Web | [ComEd](https://www.comed.com/) | `Processed` |  - |
 | 2. Collaborators | - | Cornelis Networks | `www.cornelisnetworks.com` | Web | [Cornelis Networks](https://www.cornelisnetworks.com/) | `Processed` |  - |
