@@ -22,6 +22,19 @@ When an entity requires reprocessing — updated hardware specs, refreshed MOUs,
 
 ## ⚙️ Execution Rules
 
+### 0️⃣ Pre-Execution Verification Pass (Mandatory — Run Before Any Other Step)
+
+> 🔍 **Before touching any file, verify every existing factual claim tied to the target entity — not just the new material being added.**
+
+- ✅ **Audit first, edit second:** Before starting the reprocessing workflow, re-verify every factual claim currently in the entity's existing profile (README.md / README.de.md / coverage.md), not only the facts being newly introduced. Corporate status, ownership, award amounts, PI names, and technical specs can all go stale between reprocessing passes.
+- ✅ **Corporate/entity status check:** Confirm the entity's current legal name, ownership, and operating status against a primary source (SEC filings, company press releases, state business registries) before reusing a prior profile's framing. Mergers, acquisitions, bankruptcies, rebrands, or dissolutions must be reflected — do not assume a previously documented entity structure still holds.
+- ✅ **Living-document assumption:** Treat every existing sentence in the repository as a claim to be re-checked, not as ground truth inherited from a prior pass. A fact that was true at last reprocessing may no longer be true.
+- 🚫 **Remove, don't preserve, disproven facts:** If verification shows an existing statement is inaccurate, outdated, or unconfirmed against a primary source, it must be corrected or removed from the profile — in both languages — even if it was already published in a prior version. Silently carrying forward a stale or false claim is a protocol violation, not a neutral default.
+- ⚠️ **Flag ambiguity, don't guess:** If verification is inconclusive (source unavailable, conflicting reports, no primary confirmation), mark the claim as unconfirmed in-line rather than deleting it outright or leaving it stated as fact.
+- 📌 **Document what changed:** Any correction or removal made during this pass must be logged in `CHANGELOG.md` under a "Corrections" note, separate from new content added during reprocessing.
+
+---
+
 ### 1️⃣ Scope Restriction — Paper Traversal
 
 > 🚫 **Do NOT** read the `child_papers/` folder.
@@ -95,7 +108,7 @@ Cross-check the reprocessed entity's contributions against:
 
 - ✅ Retain **all** historical press releases, partner announcements, and collaboration URLs.
 - ✅ Append newly sourced links under appropriate sub-headers.
-- 🚫 Never remove existing valid links.
+- 🚫 Never remove existing valid links. (This does not override Step 0 — a link can be retained for its historical record while the *claim* it was cited for is corrected or flagged elsewhere in the entry.)
 
 ---
 
@@ -116,6 +129,7 @@ Document under the active version:
 - The reprocessed entity name
 - The `Process Count` schema migration
 - Specific technical additions applied to **both** English and German docs
+- Any corrections or removals made during the Step 0 verification pass
 
 ---
 
@@ -136,6 +150,7 @@ Tagging and release deployment remain isolated to `prompts/release_and_tag.md`.
 - 🚫 Never fabricate or extrapolate unverified figures.
 - ⚠️ If a specific number or fact cannot be confirmed from a real, citable source, state that it is unconfirmed rather than inserting a plausible-sounding value.
 - 📌 Every entry must carry an inline citation (source name + working link) to its primary announcement or program page.
+- 🔁 This requirement applies retroactively per Step 0: existing entries are not grandfathered in as "already verified" simply because they were written in a prior pass.
 
 ---
 
@@ -150,6 +165,8 @@ Tagging and release deployment remain isolated to `prompts/release_and_tag.md`.
 > * **Technical Capabilities:** LiFePO4 deep-cycle packs (12V/24V/48V classes) with integrated BMS (cell balancing, over-charge/discharge & short-circuit protection, thermal management). Dakota Lithium Materials develops long-cycle-life iron-phosphate cathode powders (6,000–10,000 cycle target vs. ~2,000-cycle baseline) via dry-process resonant acoustic mixing (RAM); the Dec 2024 DOE award extends this to sodium iron phosphate cathodes.
 > * **Mission Domains:** Targets adversarial attacks on AI-based battery management (manipulated telemetry, poisoned training data, cyber intrusion). Delivers standardized adversarial testing, compromised-data detection, and federated learning across organizations without centralizing proprietary telemetry. Real fielded pack/cell/BMS data ground the framework; methodology generalizes to grid-edge storage, autonomous lab instrumentation, and sensor-driven experimental control.
 
+> ⚠️ **Illustrative note (added by verification pass):** This worked example is a template for format only. If used as a live entry, re-verify current corporate status before publishing — company ownership and operating structure can change between processing passes (see Step 0), and a profile written at one point in time may not reflect the entity's status at the time of reprocessing.
+
 </details>
 
 <details>
@@ -161,16 +178,21 @@ Tagging and release deployment remain isolated to `prompts/release_and_tag.md`.
 > * **Technische Kapazitäten:** LiFePO4-Deep-Cycle-Packs (12V/24V/48V) mit integriertem BMS. Dakota Lithium Materials entwickelt langlebige Eisenphosphat-Kathodenpulver (Ziel: 6.000–10.000 Zyklen) via Trocken-RAM-Verfahren; Erweiterung auf Natrium-Eisenphosphat-Kathoden.
 > * **Missionsdomänen:** Adressiert Angriffsflächen des KI-gestützten Batteriemanagements; liefert Testverfahren, Erkennung manipulierter Daten und Federated-Learning-Architekturen. Überträgt sich auf dezentrale Netzspeicherung, autonome Laborinstrumentierung, sensorgeführte experimentelle Steuerung.
 
+> ⚠️ **Hinweis (aus der Verifizierungsprüfung):** Dieses Beispiel dient nur als Formatvorlage. Bei Verwendung als aktiver Eintrag muss der aktuelle Unternehmensstatus vor Veröffentlichung erneut geprüft werden — Eigentumsverhältnisse und Unternehmensstruktur können sich zwischen Verarbeitungsdurchläufen ändern (siehe Schritt 0).
+
 </details>
 
 ---
 
 ## ✅ Pre-Flight Checklist
 
+- [ ] **Step 0 verification pass completed:** all existing facts for the target entity re-checked against primary sources, not just new additions
+- [ ] Any disproven, outdated, or unconfirmed existing claims corrected, removed, or flagged in both languages
+- [ ] Corrections logged separately in `CHANGELOG.md`
 - [ ] Repository files accessible (README.md, README.de.md, coverage.md, references.md, CHANGELOG.md)
 - [ ] Target entity identified
 - [ ] Primary source document confirmed (top-level only, no child papers)
-- [ ] All facts verified against primary sources
+- [ ] All new facts verified against primary sources
 - [ ] Bilingual sync confirmed
 - [ ] Version bumped in both README files
 - [ ] Changelog entry drafted
