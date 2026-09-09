@@ -1,345 +1,505 @@
-# 🧬 Genesis Mission — Entity Reprocessing & Version Control Protocol
+# 🧬 Genesis Mission — Entity Reprocessing, Profile Integration & Version Control Protocol
 
-> **Purpose:** Systematically reprocess a target entity across the repository's bilingual documentation, using the existing scope restrictions, entity taxonomy, and filters, while maintaining strict synchronization, reference integrity, and version control.
-
----
-
-## 🔒 0️⃣ Branch Restriction — Mandatory
-
-All Genesis Mission work MUST be performed **only on the `main` branch**.
-
-* Do NOT switch to, inspect, merge from, or modify any other branch.
-* Do NOT create feature, working, temporary, or detached branches.
-* All reprocessing, documentation updates, auditing, and dead-link cleanup must be performed on `main`.
-* Do NOT run `git tag`.
-* Do NOT run `git push`.
+> **Purpose:** Systematically reprocess a target entity's profile across bilingual documentation, formally integrate or refresh its technical and strategic role within the Genesis Mission ecosystem, track processing iterations, maintain reference integrity, and preserve repository-wide architectural consistency — with rigorous fact-checking as a non-negotiable requirement.
 
 ---
 
-## ⚙️ 1️⃣ Scope, Files & Filters — Mandatory
+## 📋 Context
 
-Work **only** with the following repository files:
+The **Genesis Mission** repository maintains parallel documentation:
 
-* `README.md` — Primary English documentation
-* `README.de.md` — German counterpart
-* `reference_coverage.md` — Tagged Master Reference Link Index
-* `coverage.md` — Entity tracking & metrics
-* `CHANGELOG.md` — Version history
+| File            | Purpose                                   |
+| --------------- | ----------------------------------------- |
+| `README.md`     | Primary English documentation             |
+| `README.de.md`  | German counterpart (strict sync required) |
+| `references.md` | Source link archive                       |
+| `coverage.md`   | Entity tracking & metrics                 |
+| `CHANGELOG.md`  | Version history                           |
 
-The following restrictions are mandatory:
-
-* **Do NOT read, inspect, traverse, or process `child_papers/`.**
-* Analysis and source extraction are restricted to the **top-level parent document** and explicitly permitted primary sources.
-* Do not inspect additional repository files unless they are directly required by this protocol.
-* Do not modify additional repository files unless they are directly required by the existing protocol.
-
-### Existing Entity Taxonomy
-
-Preserve and use the existing taxonomy and filters:
-
-* `company:<Name>`
-* `university:<Name>`
-* `lab:<Name>`
-
-Do not invent, rename, or alter tags.
-
-Do not create tags for ambiguous entities.
+When an entity requires initial profile integration or reprocessing — including updated hardware specifications, refreshed MOUs, expanded technical frameworks, corrected metrics, newly verified partnerships, or expanded Genesis Mission responsibilities — the update must propagate **synchronously** across both language versions while incrementing the entity's processing counter.
 
 ---
 
-## 🔎 2️⃣ Reference Filtering — Mandatory Before Source Processing
+## ⚙️ Execution Rules
 
-When processing `reference_coverage.md`, the **entire `Link` column MUST be read and filtered using the existing entity taxonomy and filters before source material is processed**.
+### 1️⃣ Scope Restriction — Paper Traversal
 
-The workflow MUST be:
+> 🚫 **Do NOT read the `child_papers/` folder.**
 
-1. Read the URLs from the **entire `Link` column** of `reference_coverage.md`.
-2. Apply the repository's existing entity tags and filters:
+Confine all analysis, technical updates, and reference extraction strictly to the **top-level parent document** and **primary source material provided or independently verified from authoritative sources**.
 
-   * `company:<Name>`
-   * `university:<Name>`
-   * `lab:<Name>`
-3. Identify the references relevant to the target entity using those existing tags and filters.
-4. Process only the filtered, permitted references relevant to the target entity, together with the permitted top-level parent document and explicitly permitted primary sources.
-5. Preserve all existing entity tags and filtering structure.
-6. Do not infer or invent a tag solely because a URL appears potentially related to the target entity.
-7. Do not process links merely because they appear in the `Link` column if they are excluded by the existing filters.
-8. Do not traverse `child_papers/` under any circumstances.
+Under no circumstances should child papers, sub-references, or nested citations be recursively fetched, read, or traversed.
 
-### Important distinction
-
-> **Read the entire `Link` column → apply the existing entity filters/taxonomy → identify the target entity's relevant permitted references → process only those filtered references.**
-
-The requirement to read the entire `Link` column does **not** mean that every link must be processed as source material. The existing filters determine which references are relevant for entity reprocessing.
+Primary sources may include official `.gov`, `.edu`, institutional, program, laboratory, university, or company announcement pages where required for factual verification.
 
 ---
 
-# 🔄 3️⃣ Reprocessing Workflow
+### 2️⃣ Target Entity Identification & Profile Integration
 
-Complete **all normal reprocessing work first**.
+Before modifying the repository:
 
-**Do NOT perform the final audit or dead-link cleanup until every step below has been completed.**
+1. Identify the exact target entity and its entity type:
 
-### Step 1 — Read and Process Permitted Source Material
+   * Industry / hyperscale / hardware
+   * National laboratory
+   * University / academic research entity
+2. Determine whether the entity currently has:
 
-* Process the permitted top-level parent document.
-* Process the references identified through the filtering procedure in `reference_coverage.md`.
-* Use only permitted primary sources.
-* Do not read or traverse `child_papers/`.
-* Extract factual information relevant to the target entity.
+   * no profile,
+   * a brief mention,
+   * an existing full profile requiring reprocessing.
+3. Locate all existing references to the entity across:
 
-### Step 2 — Extract and Classify Entities
+   * `README.md`
+   * `README.de.md`
+   * `references.md`
+   * `coverage.md`
+   * `CHANGELOG.md`
+4. Preserve all valid historical information unless primary-source verification demonstrates that it is inaccurate, obsolete, or incorrectly attributed.
+5. Do not create duplicate entity entries. If a profile already exists, **refresh and expand the existing entry** in place.
 
-Extract entities using the existing tagging taxonomy:
+The resulting profile must document both the entity's **technical capabilities** and its **specific strategic role within the Genesis Mission ecosystem**, rather than merely describing the organization.
 
-* `company:<Name>`
-* `university:<Name>`
-* `lab:<Name>`
+---
 
-Apply existing filters consistently.
+### 3️⃣ Schema Migration & Counter Increment (`coverage.md`)
 
-Do not invent tags for ambiguous entities.
+* ✅ **First-Column Insertion:** Every entity tracking table must lead with:
 
-### Step 3 — Update `reference_coverage.md`
+  `| Process Count | Entity | ... |`
 
-* Process the entire `Link` column as specified above.
-* Apply the existing filters and entity tags.
-* Add or update the target entity's relevant references.
-* Preserve the existing structure, taxonomy, tagging conventions, and reference metadata.
-* Do not remove valid references merely because they were not previously tagged.
-* Do not add unsupported or speculative entity tags.
+* ✅ **Initial Baseline:** If the column does not exist yet, insert it across **all applicable entity-tracking tables**, defaulting untouched rows to `0`.
 
-### Step 4 — Update `coverage.md`
+* ✅ **Counter Logic for the Reprocessed Entity:**
 
-Update the target entity's tracking information, including where applicable:
+  | Scenario               | Action                                                      |
+  | ---------------------- | ----------------------------------------------------------- |
+  | Column already existed | Increment by `1` (e.g. `0 → 1`, `1 → 2`)                    |
+  | Column newly added     | Set the target entity to `1`; untouched entities remain `0` |
 
-* `Process Count`
-* status
-* metadata
-* reference metrics
-* coverage metrics
-* other existing entity-tracking fields required by the repository's established format
+* ✅ **Status & Metadata:** Update the target entity's:
 
-Keep the existing structure and conventions intact.
+  * `Status`
+  * `Paper Section`
+  * `Notes`
 
-### Step 5 — Update `README.md`
+  Example status transition:
 
-Update the target entity in the primary English documentation.
+  `📋 Brief Mention` → `✅ Full Profile`
 
-Ensure:
+* ✅ **Architectural Context:** The `Notes` field must summarize the entity's concrete technical contribution, Genesis Mission role, and relevant system-level relationship.
 
-* factual claims are supported by permitted sources;
-* relevant primary-source references are included;
-* entity references are consistent with `reference_coverage.md`;
-* existing global-reference requirements are preserved;
-* required appendix/reference material is updated;
-* the target entity's information reflects the newly processed sources.
+* ✅ **Metrics Recalculation:** Recalculate all coverage summary tables and footnotes after the schema migration and entity status update.
 
-### Step 6 — Update `README.de.md`
+---
 
-Update the German counterpart to correspond exactly to the English documentation.
+### 4️⃣ Dual-Language Profile Integration
 
-Maintain strict bilingual synchronization in:
+> 🌐 **Strict Bilingual Sync:** Every update made to `README.md` must have a complete, accurate, fully translated counterpart in `README.de.md` under the matching section hierarchy.
 
-* entity information;
-* factual claims;
-* references;
-* relevant metrics;
-* structure;
-* version number;
-* appendix/global-reference requirements.
+### 🧭 Section Routing
 
-The German document must represent the same underlying information as `README.md`, translated appropriately rather than independently diverging from it.
+| Entity Type                      | English Section                                       | German Section                                               |
+| -------------------------------- | ----------------------------------------------------- | ------------------------------------------------------------ |
+| Industry / Hyperscale / Hardware | `### 3.1 Industry, Hyperscale & Hardware Commitments` | `### 3.1 Industrie-, Hyperscale- & Hardware-Verpflichtungen` |
+| National Laboratories            | `### 3.2 National Laboratories`                       | `### 3.2 Nationale Laboratorien`                             |
+| Universities / Academic          | `### 3.3 University Research Partners`                | `### 3.3 Universitäre Forschungspartner`                     |
 
-### Step 7 — Apply Global-Reference and Appendix Requirements
+A profile must be added or refreshed under the appropriate section.
 
-Apply all existing repository requirements concerning:
+### 📝 Required Profile Structure
 
-* global references;
-* reference placement;
-* appendices;
-* entity-reference sections;
-* cross-document consistency.
+Each entity entry must begin with a concise lead-in containing:
 
-Do not introduce a new taxonomy or reference structure.
+* Full legal or recognized brand name
+* One-line identifying description
 
-### Step 8 — Increment Version Synchronously
+  * location,
+  * sector or academic department,
+  * relevant program/product lines
+* The entity's **specific role on the relevant Genesis Mission project**
+* An **inline citation to a primary announcement or program page**, including source name and working link
 
-Increment the version in:
+The entry must then contain the following bold sub-bullets, **in exactly this order**:
+
+#### **Grants & Commitments** / **Zuschüsse & Verpflichtungen**
+
+Document, where verifiable:
+
+* founding date and location;
+* incorporation information;
+* headquarters and relevant facilities;
+* official MOUs or partnership agreements;
+* CHIPS Act LOIs or other federal/state commitments;
+* DOE or other federal awards;
+* award amounts and dates;
+* program names;
+* selected or partnering institutions;
+* whether the entity is:
+
+  * prime awardee,
+  * subawardee,
+  * industry collaborator,
+  * technology provider,
+  * research partner, or another explicitly documented role;
+* Genesis Mission project name and phase;
+* project duration where documented;
+* leading PI and institution;
+* co-investigators and their institutions where applicable.
+
+Do **not** infer that an entity is a prime awardee merely because it participates in a project.
+
+#### **Technical Capabilities** / **Technische Kapazitäten**
+
+Document concrete, technically verifiable capabilities rather than marketing descriptions.
+
+Depending on entity type, include relevant specifications such as:
+
+* CPU/GPU/NPU architectures;
+* accelerator platforms;
+* QPU architectures and quantum modalities;
+* memory/interconnect technologies;
+* HPC and supercomputing substrates;
+* liquid or other cooling technologies;
+* wafer-scale engines;
+* semiconductor manufacturing processes;
+* battery chemistries;
+* voltage/capacity classes;
+* cycle-life figures;
+* manufacturing processes;
+* software or AI platforms;
+* scientific instrumentation;
+* sensor systems;
+* laboratory automation infrastructure.
+
+Every numerical specification must be supported by a primary source.
+
+#### **Mission Domains** / **Missionsdomänen**
+
+Explicitly explain:
+
+1. the Genesis Mission problem space addressed by the entity;
+2. the entity's concrete contribution;
+3. the real-world data, hardware, software, infrastructure, experimental assets, or operational records it contributes;
+4. the scientific or computational methodology enabled by that contribution;
+5. how the resulting methodology generalizes to broader Genesis Mission domains.
+
+Examples include:
+
+* adversarial robustness;
+* federated learning;
+* sensor and telemetry integrity;
+* thermal/safety modeling;
+* battery-management systems;
+* autonomous laboratory instrumentation;
+* experimental control;
+* grid-edge storage;
+* scientific AI;
+* materials discovery;
+* quantum/HPC workflows.
+
+Do not claim that a methodology generalizes to another domain unless the connection is technically defensible.
+
+---
+
+### 5️⃣ Global Integration for Major Compute / Model Providers
+
+For **major compute providers, model providers, hyperscalers, accelerator manufacturers, or other entities that materially contribute to the heterogeneous computing architecture**, integrate concise references to the entity throughout both language versions.
+
+The entity must be incorporated, where technically applicable, into:
+
+#### `## Abstract` / `## Zusammenfassung`
+
+Add a concise reference describing the provider's strategic or computational contribution to the Genesis Mission ecosystem.
+
+#### `§2.1` — Heterogeneous Supercomputing Core
+
+Explain where the entity's:
+
+* compute architecture,
+* accelerator,
+* model platform,
+* HPC substrate,
+* cloud infrastructure,
+* interconnect,
+* or related technology
+
+fits into the heterogeneous computing architecture.
+
+Do not imply exclusive use or formal architectural ownership unless explicitly documented.
+
+#### `§1` — ASCII Consortium / Ecosystem Topology Diagram
+
+Update the ASCII topology diagram where the entity materially changes the documented ecosystem relationship.
+
+The English and German diagrams must remain structurally synchronized.
+
+---
+
+### 6️⃣ Appendix Verification
+
+Cross-check the target entity against the relevant appendix table.
+
+#### Industry / Hardware Entities
+
+Update:
+
+`### A.3 Industry & Technology Partners`
+
+and the German counterpart:
+
+`### A.3 Industrie- und Technologiepartner`
+
+#### National Laboratories
+
+Update the corresponding national-laboratory appendix table if present.
+
+#### Universities / Academic Entities
+
+Update the corresponding university or academic appendix table if present.
+
+The appendix entry must summarize the entity's **primary verified Genesis Mission contribution**, not simply repeat its name.
+
+---
+
+### 7️⃣ Reference Integrity (`references.md`)
+
+* ✅ Retain **all existing valid URLs** associated with the target entity.
+* ✅ Never remove historical press releases, partner announcements, institutional pages, program pages, or collaboration URLs merely because newer sources exist.
+* ✅ Verify that retained links remain attributable to the correct entity.
+* ✅ Append newly verified sources under the appropriate existing sub-header.
+* ✅ Add primary sources for newly documented:
+
+  * awards,
+  * MOUs,
+  * LOIs,
+  * technical specifications,
+  * Genesis Mission participation,
+  * PI/project information,
+  * institutional partnerships.
+* 🚫 Do not recursively traverse citations from those sources into child papers or nested research documents.
+
+Where possible, prioritize:
+
+1. DOE / federal `.gov` sources
+2. university `.edu` sources
+3. national laboratory sources
+4. official company sources
+5. official program announcements
+
+---
+
+### 8️⃣ Version Increment
+
+Bump the patch version on **line 1** of both:
 
 * `README.md`
 * `README.de.md`
 
-The version must be identical in both files.
+The versions must remain synchronized.
 
-Do not leave the two README files at different versions.
+Example:
 
-### Step 9 — Update `CHANGELOG.md`
-
-Add the appropriate version-history entry describing the completed entity reprocessing.
-
-The changelog entry must accurately reflect the changes actually made.
-
----
-
-# ⛔ 4️⃣ Critical Ordering Rule
-
-The following actions MUST NOT happen before Steps 1–9 are complete:
-
-* full repository audit;
-* final reference audit;
-* dead-link cleanup;
-* dead-link commits.
-
-**Finish all entity reprocessing, filtering, tagging, documentation, metrics, versioning, appendix/global-reference work, and changelog work first.**
-
-Only then proceed to the final audit.
-
----
-
-# 🔍 5️⃣ FINAL STEP — Audit & Dead-Link Cleanup
-
-The audit MUST be the **final processing phase of the entire workflow**.
-
-After Steps 1–9 are completely finished, audit the resulting state of exactly these five designated files:
-
-* `README.md`
-* `README.de.md`
-* `reference_coverage.md`
-* `coverage.md`
-* `CHANGELOG.md`
-
-## A. Final Audit
-
-Verify:
-
-* existing factual claims;
-* newly added factual claims;
-* primary-source citations;
-* bilingual synchronization;
-* entity tags;
-* entity filtering;
-* `Process Count`;
-* status and metadata;
-* coverage metrics;
-* version numbers;
-* changelog entries;
-* reference integrity;
-* global-reference requirements;
-* appendix requirements;
-* consistency between the five designated files;
-* compliance with the `child_papers/` restriction;
-* compliance with the `main`-branch restriction.
-
-Do not inspect or traverse `child_papers/`.
-
----
-
-# 🔗 6️⃣ Dead-Link Detection
-
-Check the URLs that are **actually present in the resulting documentation**.
-
-The dead-link audit applies to URLs appearing in:
-
-* `README.md`
-* `README.de.md`
-* `reference_coverage.md`
-* `coverage.md`
-* `CHANGELOG.md`
-
-If a URL returns **HTTP 404 / Not Found**, treat it as a dead link.
-
-### Dead-Link Rules
-
-For every confirmed 404 URL:
-
-* Remove that dead URL from **all designated documents where it appears**.
-* Do not leave the same 404 URL elsewhere in the repository's designated files.
-* Do not guess a replacement URL.
-* Only replace a dead URL if the new destination can be independently verified as the correct authoritative source.
-* Preserve the surrounding valid reference metadata where possible.
-* Do not make unrelated changes as part of a dead-link cleanup commit.
-
----
-
-# 🧹 7️⃣ One Isolated Git Commit Per Dead Link
-
-**Every individual dead URL MUST receive its own isolated Git commit.**
-
-For example, if these URLs are confirmed dead:
-
-```text
-https://example.com/dead-a
-https://example.com/dead-b
-https://example.com/dead-c
+```diff
+- **Version**: 0.2.8-alpha
++ **Version**: 0.2.9-alpha
 ```
 
-create three separate commits:
-
-```text
-chore: remove dead link example.com/dead-a
-chore: remove dead link example.com/dead-b
-chore: remove dead link example.com/dead-c
-```
-
-### Commit Rules
-
-* One dead URL = exactly one dedicated commit.
-* If the same dead URL occurs in multiple designated files, remove all occurrences in those files within **one commit for that URL**.
-* Never combine different dead URLs into the same commit.
-* Each dead-link commit must contain only:
-
-  * removal of that specific dead URL;
-  * directly associated reference metadata that must be removed because of that URL.
-* Do not include unrelated documentation, versioning, formatting, or entity changes in a dead-link commit.
-
-The normal entity-reprocessing changes must already be complete before the dead-link commits begin.
+Do not modify the major or minor version unless explicitly instructed.
 
 ---
 
-# ✅ 8️⃣ Final Verification
+### 9️⃣ Changelog Update (`CHANGELOG.md`)
 
-After all isolated dead-link commits have been created, perform the final verification.
+Under the active release version, add a changelog entry documenting:
 
-Verify:
+* the target entity;
+* the entity's profile integration or reprocessing;
+* the new/incremented `Process Count`;
+* the `coverage.md` schema migration, if applicable;
+* status transition, if applicable;
+* updated `Paper Section`;
+* technical additions;
+* Genesis Mission role clarification;
+* updates made to **both** `README.md` and `README.de.md`;
+* reference additions or verification performed in `references.md`.
 
-1. No identified 404 URLs remain in the designated documentation.
-2. Every identified dead URL has exactly one dedicated Git commit.
-3. No dead-link commit contains unrelated changes.
-4. `README.md` and `README.de.md` remain synchronized.
-5. Their version numbers remain identical.
-6. Existing entity filters remain intact.
-7. Existing entity-tag structure remains intact.
-8. `Process Count`, status, metadata, and metrics remain consistent.
-9. `reference_coverage.md` remains consistent with the README references.
-10. `CHANGELOG.md` accurately reflects the completed work.
-11. The five designated files remain internally consistent.
-12. No `child_papers/` content was inspected or traversed.
-13. All work remains on the `main` branch.
-14. No `git tag` command was run.
-15. No `git push` command was run.
+The changelog must distinguish between newly verified facts and previously documented information that was merely retained.
 
 ---
 
-# 🚨 9️⃣ Absolute Restrictions
+### 🔟 Fact-Checking Requirement — Mandatory
 
-At no point during this workflow:
+> 🔬 **This is science- and policy-adjacent documentation. Every factual claim must be verifiable.**
 
-* Do NOT inspect or traverse `child_papers/`.
-* Do NOT use another Git branch.
-* Do NOT create another Git branch.
-* Do NOT process unfiltered `reference_coverage.md` links as entity sources.
-* Do NOT ignore the entire `Link` column when filtering.
-* Do NOT invent entity tags.
-* Do NOT alter the existing taxonomy.
-* Do NOT create unsupported replacements for dead URLs.
-* Do NOT combine different dead links into one commit.
-* Do NOT perform the final audit before all normal reprocessing changes are complete.
-* Do NOT run `git tag`.
-* Do NOT run `git push`.
+Before adding or modifying a factual statement:
 
-## Final Required Order
+* ✅ Verify award amounts against primary sources.
+* ✅ Verify dates against primary sources.
+* ✅ Verify PI names and institutional affiliations.
+* ✅ Verify program titles.
+* ✅ Verify project names and Genesis Mission roles.
+* ✅ Verify technical specifications such as:
 
-The complete operation MUST follow this order:
+  * cycle life,
+  * voltage,
+  * capacity,
+  * processor architecture,
+  * QPU modality,
+  * process technology,
+  * cooling technology,
+  * manufacturing process.
+* ✅ Verify whether the entity is a prime awardee, collaborator, subawardee, or technology provider.
+* ✅ Prefer official `.gov`, `.edu`, national-laboratory, institutional, and company sources.
 
-**`main` branch → read entire `Link` column → apply existing entity filters → identify permitted target references → process permitted sources → extract/classify entities → update `reference_coverage.md` → update `coverage.md` → update `README.md` → update `README.de.md` → apply global references/appendices → synchronize version → update `CHANGELOG.md` → complete all normal reprocessing → ONLY THEN perform final audit → detect 404s → remove each dead URL → create one isolated commit per dead URL → final verification.**
+🚫 **Never fabricate or extrapolate an unverified figure.**
+
+⚠️ If a requested fact cannot be confirmed from a real, citable primary source, explicitly state that the fact is **unconfirmed** rather than inserting a plausible value.
+
+Every entity profile must contain at least one inline citation to a primary announcement, institutional announcement, official program page, or equivalent authoritative source.
+
+---
+
+### 1️⃣1️⃣ Bilingual Accuracy & Synchronization Verification
+
+After making all changes:
+
+* Confirm the English and German profiles contain the same factual claims.
+* Confirm every technical specification appears consistently in both languages.
+* Confirm award amounts and dates match.
+* Confirm PI and institution names match.
+* Confirm Genesis Mission project names and roles match.
+* Confirm section hierarchy is equivalent.
+* Confirm appendix entries are synchronized.
+* Confirm §1 and §2.1 changes are synchronized where applicable.
+* Confirm no English-only technical claims remain untranslated in the German profile.
+* Confirm German translation does not introduce claims absent from the English version.
+
+The German version must be a **faithful technical translation**, not an abbreviated summary.
+
+---
+
+### 1️⃣2️⃣ Coverage Metrics Verification
+
+After modifying `coverage.md`, recalculate:
+
+#### By Entity Type
+
+Update the relevant entity category by:
+
+* incrementing `✅ Full`;
+* decrementing `📋 Brief` where the entity transitions from brief to full;
+* leaving totals unchanged where the entity was already full and is merely reprocessed.
+
+#### By Coverage Level
+
+Update:
+
+* total `✅ Full Profile`;
+* total `📋 Brief Mention`;
+* percentages;
+* total tracked entities where necessary.
+
+Ensure percentages are mathematically consistent with the underlying counts.
+
+#### Footnote
+
+Update the closing note to reflect the correct total number of entity profiles.
+
+The `Process Count` column itself must **not** be included as a new entity in any coverage calculation.
+
+---
+
+### 1️⃣3️⃣ Repository Integrity
+
+Before completion, verify:
+
+* `README.md` remains internally consistent.
+* `README.de.md` remains internally consistent.
+* Both README versions have the same patch version.
+* `references.md` contains all historical and newly verified references.
+* `coverage.md` has valid table formatting.
+* All tracking rows contain a `Process Count`.
+* Untouched entities have `Process Count = 0` when the schema is newly introduced.
+* The target entity has the correct incremented process count.
+* Coverage metrics reconcile with entity rows.
+* `CHANGELOG.md` reflects the completed work.
+* No duplicate entity profile was introduced.
+* No existing valid reference URL was removed.
+* No child paper was read or traversed.
+
+---
+
+## 🚫 Release Management Policy
+
+> **Do NOT execute `git tag` or `git push`.**
+
+Release tagging and publishing remain isolated to:
+
+`prompts/release_and_tag.md`
+
+Only perform tagging or publishing when a release step is explicitly requested by the user.
+
+---
+
+## 🧾 Reference Profile Structure
+
+The resulting profile should follow this structure, adapted to the verified facts for the target entity:
+
+### English
+
+> **[Entity Name]:** [Location]-based [sector/entity type] [identifying description], participating as [specific Genesis role] in [Genesis Mission project/program] ([Primary Source Name], [primary source link]).
+>
+> * **Grants & Commitments:** [Verified organizational background, funding, awards, MOUs/LOIs, partners, project role, PI/investigators.]
+> * **Technical Capabilities:** [Concrete hardware/software/scientific capabilities and verified specifications.]
+> * **Mission Domains:** [Specific Genesis Mission problem space, contributed assets/data, methodology, and technically justified broader applicability.]
+
+### German
+
+> **[Entity Name]:** [Standort]-basierter/-e [Sektor/Entitätstyp] [identifizierende Beschreibung], der/die als [spezifische Genesis-Rolle] am [Genesis-Missionsprojekt/-programm] beteiligt ist ([Name der Primärquelle], [Link zur Primärquelle]).
+>
+> * **Zuschüsse & Verpflichtungen:** [Verifizierter organisatorischer Hintergrund, Förderungen, Auszeichnungen, MOUs/LOIs, Partner, Projektrolle, PI/Co-Investigatoren.]
+> * **Technische Kapazitäten:** [Konkrete Hardware-/Software-/wissenschaftliche Kapazitäten und verifizierte Spezifikationen.]
+> * **Missionsdomänen:** [Spezifischer Genesis-Missionsbereich, beigesteuerte Daten/Assets, Methodik und technisch begründete Übertragbarkeit.]
+
+---
+
+## ✅ Pre-Flight Checklist
+
+* [ ] Target entity identified
+* [ ] Entity type determined
+* [ ] Existing entity mentions located across all five repository files
+* [ ] Top-level parent document confirmed
+* [ ] `child_papers/` not read
+* [ ] No child paper or nested citation recursively traversed
+* [ ] Primary sources identified
+* [ ] All award amounts verified
+* [ ] All dates verified
+* [ ] PI and investigator information verified
+* [ ] Genesis Mission role verified
+* [ ] Technical specifications verified
+* [ ] Existing valid references preserved
+* [ ] New primary references added
+* [ ] Full profile integrated or existing profile refreshed
+* [ ] English profile updated
+* [ ] German profile fully translated and synchronized
+* [ ] §1 updated where applicable
+* [ ] §2.1 updated where applicable
+* [ ] Appendix updated
+* [ ] `Process Count` column added across tracking tables if absent
+* [ ] Untouched rows initialized to `0` where applicable
+* [ ] Target entity process count incremented correctly
+* [ ] Entity status updated
+* [ ] Paper Section updated
+* [ ] Coverage notes updated
+* [ ] Coverage summary metrics recalculated
+* [ ] Coverage percentages verified
+* [ ] Coverage footnote updated
+* [ ] README patch version incremented
+* [ ] German README patch version incremented identically
+* [ ] `CHANGELOG.md` updated
+* [ ] Bilingual factual consistency verified
+* [ ] No duplicate profile introduced
+* [ ] No existing valid reference URLs removed
+* [ ] No `git tag` executed
+* [ ] No `git push` executed
