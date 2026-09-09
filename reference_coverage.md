@@ -221,7 +221,7 @@ A tabular master index for the reference collection:
 | 2. Collaborators | - | Phoenix Tailings | `www.phoenixtailings.com` | Web | [Phoenix Tailings](https://www.phoenixtailings.com/) | `Processed` | company:Phoenix Tailings |
 | 2. Collaborators | - | PMT Critical Metals | `pmtcriticalmetals.com` | Web | [PMT Critical Metals](https://pmtcriticalmetals.com/) | `Processed` | company:PMT Critical Metals |
 | 2. Collaborators | - | PsiQuantum | `psiquantum.com` | Web | [PsiQuantum](https://psiquantum.com/) | `Processed` | company:PsiQuantum |
-| 2. Collaborators | - | PsiQuantum — About Us | `www.psiquantum.com` | Web | [PsiQuantum — About Us](https://www.psiquantum.com/about) | `Processed` |  - |
+| 2. Collaborators | - | PsiQuantum — About Us | `www.psiquantum.com` | Web | [PsiQuantum — About Us](https://www.psiquantum.com/about) | `Processed` | company:PsiQuantum |
 | 2. Collaborators | - | Quantinuum | `www.quantinuum.com` | Web | [Quantinuum](https://www.quantinuum.com/) | `Processed` |  - |
 | 2. Collaborators | - | Quantinuum — About Us | `www.quantinuum.com` | Web | [Quantinuum — About Us](https://www.quantinuum.com/company/about) | `Processed` |  - |
 | 2. Collaborators | - | Qubit | `www.qubit.com` | Web | [Qubit](https://www.qubit.com/) | `Processed` |  - |
