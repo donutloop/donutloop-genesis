@@ -6,6 +6,12 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 
+## [3.34.15] - 2026-09-09
+
+### Added
+- **Processed new reference**: [xLight: xLight Finalizes $150M CHIPS Incentives with U.S. Department of Commerce](https://www.xlight.com/blog/xlight-finalizes-150m-chips-incentives-with-u-s-department-of-commerce) — first-party xLight blog announcement (June 2, 2026) of the final $150M CHIPS and Science Act incentive award from the U.S. Department of Commerce and NIST, supporting construction and demonstration of xLight's first free-electron laser (FEL) for utility-scale EUV light delivery to up to 16 scanners, with first-of-its-kind system in Albany, NY (CEO/CTO Nicholas Kelez).
+- **Replaced** the retired businesswire announcement source with the xLight company blog source across `references.md` (Section 4), `README.md` (§ xLight CHIPS citation), `README.de.md` (German parity), and `reference_coverage.md` (Section 3 top-domain + Section 4 master index row). Net reference count unchanged (658).
+
 ## [3.34.14] - 2026-09-08
 
 ### Added
