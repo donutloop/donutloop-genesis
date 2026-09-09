@@ -227,7 +227,7 @@ A tabular master index for the reference collection:
 | 2. Collaborators | - | Qubit | `www.qubit.com` | Web | [Qubit](https://www.qubit.com/) | `Processed` | company:Qubit |
 | 2. Collaborators | - | RadiaSoft | `www.radiasoft.net` | Web | [RadiaSoft](https://www.radiasoft.net/) | `Processed` | company:RadiaSoft |
 | 2. Collaborators | - | Ramaco | `ramacoresources.com` | Web | [Ramaco](https://ramacoresources.com/) | `Processed` | company:Ramaco |
-| 2. Collaborators | - | Rigetti | `www.rigetti.com` | Web | [Rigetti](https://www.rigetti.com/) | `Processed` |  - |
+| 2. Collaborators | - | Rigetti | `www.rigetti.com` | Web | [Rigetti](https://www.rigetti.com/) | `Processed` | company:Rigetti |
 | 2. Collaborators | - | Rigetti Computing — About Us | `www.rigetti.com` | Web | [Rigetti Computing — About Us](https://www.rigetti.com/about-rigetti-computing) | `Processed` |  - |
 | 2. Collaborators | - | RTX | `www.rtx.com` | Web | [RTX](https://www.rtx.com/) | `Processed` |  - |
 | 2. Collaborators | - | Sambanova | `sambanova.ai` | Web | [Sambanova](https://sambanova.ai/) | `Processed` |  - |
