@@ -187,7 +187,7 @@ A tabular master index for the reference collection:
 | 2. Collaborators | - | D-Wave | `www.dwavesys.com` | Web | [D-Wave](https://www.dwavesys.com/) | `Processed` | company:D-Wave |
 | 2. Collaborators | - | D-Wave Quantum — About Us | `www.dwavequantum.com` | Web | [D-Wave Quantum — About Us](https://www.dwavequantum.com/company/about-d-wave/) | `Processed` | company:D-Wave |
 | 2. Collaborators | - | Emerald Cloud Lab | `www.emeraldcloudlab.com` | Web | [Emerald Cloud Lab](https://www.emeraldcloudlab.com/) | `Processed` | company:Emerald Cloud Lab |
-| 2. Collaborators | - | EPRI | `www.epri.com` | Web | [EPRI](https://www.epri.com/) | `Processed` |  - |
+| 2. Collaborators | - | EPRI | `www.epri.com` | Web | [EPRI](https://www.epri.com/) | `Processed` | company:EPRI |
 | 2. Collaborators | - | Esri | `www.esri.com` | Web | [Esri](https://www.esri.com/) | `Processed` |  - |
 | 2. Collaborators | - | FutureHouse | `www.futurehouse.org` | Web | [FutureHouse](https://www.futurehouse.org/) | `Processed` |  - |
 | 2. Collaborators | - | GE Aerospace | `www.geaerospace.com` | Web | [GE Aerospace](https://www.geaerospace.com/) | `Processed` |  - |
