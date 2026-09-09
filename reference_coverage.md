@@ -183,7 +183,7 @@ A tabular master index for the reference collection:
 | 2. Collaborators | - | Critical Materials Recycling | `www.cmrecycling.com` | Web | [Critical Materials Recycling](https://www.cmrecycling.com/) | `Processed` | company:Critical Materials Recycling |
 | 2. Collaborators | - | Dell Technologies | `www.dell.com` | Web | [Dell Technologies](https://www.dell.com/) | `Processed` | company:Dell Technologies |
 | 2. Collaborators | - | Diraq | `diraq.com` | Web | [Diraq](https://diraq.com/) | `Processed` | company:Diraq |
-| 2. Collaborators | - | Diraq — About Us | `www.diraq.com` | Web | [Diraq — About Us](https://www.diraq.com/about) | `Processed` |  - |
+| 2. Collaborators | - | Diraq — About Us | `www.diraq.com` | Web | [Diraq — About Us](https://www.diraq.com/about) | `Processed` | company:Diraq |
 | 2. Collaborators | - | D-Wave | `www.dwavesys.com` | Web | [D-Wave](https://www.dwavesys.com/) | `Processed` |  - |
 | 2. Collaborators | - | D-Wave Quantum — About Us | `www.dwavequantum.com` | Web | [D-Wave Quantum — About Us](https://www.dwavequantum.com/company/about-d-wave/) | `Processed` |  - |
 | 2. Collaborators | - | Emerald Cloud Lab | `www.emeraldcloudlab.com` | Web | [Emerald Cloud Lab](https://www.emeraldcloudlab.com/) | `Processed` |  - |
