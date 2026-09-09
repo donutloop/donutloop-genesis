@@ -193,7 +193,7 @@ A tabular master index for the reference collection:
 | 2. Collaborators | - | GE Aerospace | `www.geaerospace.com` | Web | [GE Aerospace](https://www.geaerospace.com/) | `Processed` | company:GE Aerospace |
 | 2. Collaborators | - | GlobalFoundries | `gf.com` | Web | [GlobalFoundries](https://gf.com/) | `Processed` | company:GlobalFoundries |
 | 2. Collaborators | - | GlobalFoundries — Quantum Technology Architecture & Foundry Solutions | `gf.com` | Web | [GlobalFoundries — Quantum Technology Architecture & Foundry Solutions](https://gf.com/technologies/quantum-technology/) | `Processed` | company:GlobalFoundries |
-| 2. Collaborators | - | Google | `about.google` | Web | [Google](https://about.google/) | `Processed` |  - |
+| 2. Collaborators | - | Google | `about.google` | Web | [Google](https://about.google/) | `Processed` | company:Google |
 | 2. Collaborators | - | AI Co-Scientist: A Multi-Agent AI Partner to Accelerate Research | `deepmind.google` | Web | [AI Co-Scientist: A Multi-Agent AI Partner to Accelerate Research](https://deepmind.google/blog/co-scientist-a-multi-agent-ai-partner-to-accelerate-research/) | `Processed` |  - |
 | 2. Collaborators | - | Groq | `groq.com` | Web | [Groq](https://groq.com/) | `Processed` |  - |
 | 2. Collaborators | - | Groq Partners with U.S. Department of Energy to Advance AI Inference and Next-Generation Computing Infrastructure | `groq.com` | Web | [Groq Partners with U.S. Department of Energy to Advance AI Inference and Next-Generation Computing Infrastructure](https://groq.com/newsroom/groq-partners-with-us-department-of-energy-to-advance-ai-inference-and-next-generation-computing-infrastructure) | `Processed` |  - |
