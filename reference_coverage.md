@@ -199,7 +199,7 @@ A tabular master index for the reference collection:
 | 2. Collaborators | - | Groq Partners with U.S. Department of Energy to Advance AI Inference and Next-Generation Computing Infrastructure | `groq.com` | Web | [Groq Partners with U.S. Department of Energy to Advance AI Inference and Next-Generation Computing Infrastructure](https://groq.com/newsroom/groq-partners-with-us-department-of-energy-to-advance-ai-inference-and-next-generation-computing-infrastructure) | `Processed` | company:HPE |
 | 2. Collaborators | - | HPE | `www.hpe.com` | Web | [HPE](https://www.hpe.com/) | `Processed` | company:Hugging Face |
 | 2. Collaborators | - | Hugging Face | `huggingface.co` | Web | [Hugging Face](https://huggingface.co/) | `Processed` | company:Hugging Face |
-| 2. Collaborators | - | IBM | `www.ibm.com` | Web | [IBM](https://www.ibm.com/) | `Processed` |  - |
+| 2. Collaborators | - | IBM | `www.ibm.com` | Web | [IBM](https://www.ibm.com/) | `Processed` | company:IBM |
 | 2. Collaborators | - | IBM Quantum Portal | `www.ibm.com` | Web | [IBM Quantum Portal](https://www.ibm.com/quantum) | `Processed` |  - |
 | 2. Collaborators | - | Infleqtion | `www.infleqtion.com` | Web | [Infleqtion](https://www.infleqtion.com/) | `Processed` |  - |
 | 2. Collaborators | - | Infleqtion — About Us | `infleqtion.com` | Web | [Infleqtion — About Us](https://infleqtion.com/about/) | `Processed` |  - |
