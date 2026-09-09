@@ -139,3 +139,15 @@ Verify:
 If an audit error is found, **correct only that specific error**, recheck only the affected audit item, and stop. Do not restart the full workflow.
 
 **REPROCESS = IDENTIFY → FILTER → READ → UPDATE → SYNC → AUDIT → STOP**
+
+
+## PROFILE INTEGRATION (apply to every entity reprocess)
+
+The whole paper/document is about the **Genesis Mission** (the DOE free-electron-laser EUV lithography program). A reprocess of any entity is therefore always scoped to **that entity's role in Mission Genesis** — never as a standalone company overview, and never carrying non-mission company meta (e.g., CEO/CTO names, HQ street addresses). Keep only source-backed facts that tie the entity to Mission Genesis.
+
+Integrate a reprocessed entity into §3.1 using the established profile convention (mirror it in `README.de.md`, the appendix rows, and `coverage.md`):
+
+* **Entity:** <lead-in sentence framing the entity's role in the Genesis Mission, citing the tagged SOURCE SET URLs>.
+  - *Grants & Commitments*: <the entity's Genesis-mission commitments/awards, source-backed>.
+  - *Technical Capabilities*: <the entity's Genesis-relevant capabilities, source-backed>.
+  - *Mission Domains*: <the mission domains the entity serves within Genesis>.
