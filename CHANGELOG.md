@@ -6,6 +6,11 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 
+## [3.34.16] - 2026-09-09
+
+### Added
+- **Reprocessed entity: xLight** (Process Count 1→2). Added the December 2025 CHIPS Research & Development Letter and June 2026 finalization announcement sources to `references.md` alongside the About portal and company blog; refreshed the English §3.1 profile and Appendix A row with the $150M CHIPS award (Dec 2025 LOI → June 2026 finalization), the energy-recovery SRF-linac FEL EUV light-source prototype at Albany NanoTech (2028), the NIST partnership, the Fermilab SRF-cryomodule CRADA, the utility-scale multi-scanner High-NA architecture, sub-2nm lithography sovereignty, Pat Gelsinger / Dr. Thomas Caulfield board leadership, and the NY CREATES partnership; mirrored the German §3.1 profile in `README.de.md`; updated `references.md` and `coverage.md`.
+
 ## [3.34.15] - 2026-09-09
 
 ### Added
