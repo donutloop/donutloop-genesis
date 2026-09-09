@@ -25,21 +25,22 @@ When the task is **REPROCESS**, reprocess **ONE existing target entity** using t
 
 ### REPROCESS Rules
 
-* Reprocess **one entity only**.
-* Identify the exact target tag **before source analysis**.
-* `SOURCE SET = URLs WHERE URL_TAG == TARGET_TAG`.
-* Only URLs carrying the exact target tag may be used for new source discovery and source analysis.
-* Do not expand the source set through untagged URLs, snippets, titles, metadata, child papers, sub-references, or nested citations.
-* Deep-read all URLs in the filtered source set.
-* After all tagged URLs have been deep-read, **stop source discovery**.
-* Existing valid URLs already present in `reference_coverage.md` must be preserved even when they are outside the target tag.
-* Update the existing entity; do **not** create a duplicate.
-* Keep English and German synchronized.
-* Increment the patch version exactly once.
-* Increment Process Count exactly once for the target entity.
-* Do not modify unrelated content.
-* Do not repeat or restart the workflow.
-* Do not run `git tag` or `git push`.
+  * Reprocess exactly one entity and provide exactly one entity reference per command line.
+  * Identify the exact target tag **before source analysis**.
+  * `SOURCE SET = URLs WHERE URL_TAG == TARGET_TAG`.
+  * Only URLs carrying the exact target tag may be used for new source discovery and source analysis.
+  * Do not expand the source set through untagged URLs, snippets, titles, metadata, child papers, sub-references, or nested citations.
+  * Deep-read all URLs in the filtered source set.
+  * After all tagged URLs have been deep-read, **stop source discovery**.
+  * Existing valid URLs already present in `reference_coverage.md` must be preserved even when they are outside the target tag.
+  * Run the fact → update → fact-check loop till no issues
+    * Update the existing entity; **do not create a duplicate**.
+    * **Fact-check the existing entity against the deep-read source set; update, remove, or add facts as supported by the sources. Do not retain unsupported or contradicted facts.**
+  * Keep English and German synchronized.
+  * Increment the patch version exactly once.
+  * Increment Process Count exactly once for the target entity.
+  * Do not modify unrelated content.
+  * Do not run `git tag` or `git push`.
 
 ## Execution Rules
 
