@@ -167,7 +167,7 @@ A tabular master index for the reference collection:
 | 2. Collaborators | - | Amazon Web Services (AWS) | `aws.amazon.com` | Web | [Amazon Web Services (AWS)](https://aws.amazon.com/) | `Processed` | company:AWS |
 | 2. Collaborators | - | AMD | `www.amd.com` | Web | [AMD](https://www.amd.com/) | `Processed` | company:AMD |
 | 2. Collaborators | - | Anthropic | `www.anthropic.com` | Web | [Anthropic](https://www.anthropic.com/research/introducing-anthropic-science) | `Processed` | company:Anthropic |
-| 2. Collaborators | - | Applied Materials | `www.appliedmaterials.com` | Web | [Applied Materials](https://www.appliedmaterials.com/) | `Processed` |  - |
+| 2. Collaborators | - | Applied Materials | `www.appliedmaterials.com` | Web | [Applied Materials](https://www.appliedmaterials.com/) | `Processed` | company:Applied Materials |
 | 2. Collaborators | - | Arcee AI | `arcee.ai` | Web | [Arcee AI](https://arcee.ai/) | `Processed` |  - |
 | 2. Collaborators | - | Atom Computing | `atom-computing.com` | Web | [Atom Computing](https://atom-computing.com/) | `Processed` |  - |
 | 2. Collaborators | - | Atom Computing — About Us | `atom-computing.com` | Web | [Atom Computing — About Us](https://atom-computing.com/about-us/) | `Processed` |  - |
