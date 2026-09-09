@@ -43,7 +43,19 @@ Confine all analysis, technical updates, and reference extraction strictly to th
 
 ---
 
-### 2️⃣ Entity Extraction & Tagging Taxonomy (`reference_coverage.md`)
+### 2️⃣ Link Harvesting & Content Ingestion (`reference_coverage.md`)
+
+> 📥 **Run this before tagging or writing any profile content.** Tagging (Step 3) and profile updates (Step 5) both depend on having actually read what each link points to — a URL and a title are not enough.
+
+- ✅ **Filter first:** Extract every URL from the `Link` column of `reference_coverage.md` — the full set, not just rows already associated with the target entity, since a currently untagged or mistagged row may turn out to belong to it.
+- ✅ **Read, don't skim:** Fetch and read the actual content behind each URL (press release, program page, filing, announcement). Do not infer content from the URL slug, domain name, or row title alone.
+- ✅ **Log fetch failures, don't fabricate:** If a URL is dead, paywalled, or unreachable, mark that row's content as unretrieved rather than guessing what it likely says. An unretrieved source cannot be used to support a factual claim per the Fact-Checking Requirement below.
+- ✅ **Carry findings forward:** The content retrieved here is the evidentiary basis for: (a) the Step 0 verification pass on existing claims, (b) the Step 3 tagging decisions (a row's true entity affiliations often only become clear from the linked content itself), and (c) any new factual material written into Step 5 profile entries.
+- 🚫 **No shortcuts on scope:** This step is not satisfied by re-reading `reference_coverage.md`'s own row metadata — it requires opening and reading the linked destinations themselves.
+
+---
+
+### 3️⃣ Entity Extraction & Tagging Taxonomy (`reference_coverage.md`)
 
 > 🏷️ **Links are now tracked by entity tag in `reference_coverage.md`, not as a flat list in `references.md`.**
 
@@ -79,12 +91,12 @@ Use standard abbreviations or facility names:
 **Tagging mechanics:**
 - ✅ Apply one or more tags per row — a row may legitimately carry `company:`, `university:`, and `lab:` tags simultaneously if the linked content involves a multi-party collaboration.
 - ✅ Store tags in a dedicated `Tags` column in `reference_coverage.md`, comma-separated.
-- ✅ When reprocessing an entity (Step 3 below), locate its relevant links by filtering `reference_coverage.md` on its tag rather than scanning a flat, untagged list.
+- ✅ When reprocessing an entity (Step 4 below), locate its relevant links by filtering `reference_coverage.md` on its tag rather than scanning a flat, untagged list.
 - 🚫 Do not invent a tag for an entity that isn't clearly identifiable from the row's context or linked content — leave ambiguous rows untagged and flag them rather than guessing.
 
 ---
 
-### 3️⃣ Schema Migration & Counter Increment (`coverage.md`)
+### 4️⃣ Schema Migration & Counter Increment (`coverage.md`)
 
 - ✅ **First-Column Insertion:** Every entity tracking table must lead with `Process Count`:
   `| Process Count | Entity | ... |`
@@ -99,7 +111,7 @@ Use standard abbreviations or facility names:
 
 ---
 
-### 4️⃣ Dual-Language Profile Updates
+### 5️⃣ Dual-Language Profile Updates
 
 > 🌐 **Strict Bilingual Sync:** Every `README.md` update requires an exact, fully translated counterpart in `README.de.md` under matching section hierarchies.
 
@@ -145,16 +157,16 @@ Cross-check the reprocessed entity's contributions against:
 
 ---
 
-### 5️⃣ Reference Integrity (`reference_coverage.md`)
+### 6️⃣ Reference Integrity (`reference_coverage.md`)
 
 - ✅ Retain **all** historical press releases, partner announcements, and collaboration URLs.
-- ✅ Append newly sourced links under the appropriate entity tag(s), per the Section 2 taxonomy — not under a flat sub-header list.
+- ✅ Append newly sourced links under the appropriate entity tag(s), per the Section 3 taxonomy — not under a flat sub-header list.
 - ✅ When reprocessing an entity, pull its full link set by filtering on its tag(s) rather than searching an untagged file.
 - 🚫 Never remove existing valid links. (This does not override Step 0 — a link can be retained for its historical record while the *claim* it was cited for is corrected or flagged elsewhere in the entry.)
 
 ---
 
-### 6️⃣ Version Increment
+### 7️⃣ Version Increment
 
 Bump the patch version on **line 1** of both `README.md` and `README.de.md` synchronously:
 
@@ -165,7 +177,7 @@ Bump the patch version on **line 1** of both `README.md` and `README.de.md` sync
 
 ---
 
-### 7️⃣ Changelog Entry (`CHANGELOG.md`)
+### 8️⃣ Changelog Entry (`CHANGELOG.md`)
 
 Document under the active version:
 - The reprocessed entity name
@@ -176,7 +188,7 @@ Document under the active version:
 
 ---
 
-### 8️⃣ Release Management Policy
+### 9️⃣ Release Management Policy
 
 > 🚫 Do **NOT** run `git tag` or `git push`.
 
@@ -239,6 +251,8 @@ Tagging and release deployment remain isolated to `prompts/release_and_tag.md`.
 - [ ] Repository files accessible (README.md, README.de.md, coverage.md, reference_coverage.md, CHANGELOG.md)
 - [ ] Target entity identified
 - [ ] Primary source document confirmed (top-level only, no child papers)
+- [ ] **All URLs extracted from `reference_coverage.md` and their linked content actually fetched/read** (Step 2) before tagging or drafting
+- [ ] Unreachable/dead links logged as unretrieved, not guessed at
 - [ ] All new facts verified against primary sources
 - [ ] Target entity's links located in `reference_coverage.md` via its tag(s), not by scanning a flat list
 - [ ] Any newly sourced links appended under the correct tag(s)
