@@ -37,16 +37,16 @@ The result must:
 5. Increment the patch version in both README files.
 6. Record the changes in `CHANGELOG.md`.
 7. Preserve repository integrity.
-8. Use the relevant tagged source URLs and deeply read their available content before writing the reprocessed profile.
+8. Use the relevant **tag-filtered source URLs** and deeply read their available content before writing the reprocessed profile.
 9. Perform **ONE final audit at the very end**.
 
 The audit is NOT an intermediate step.
 
 ---
 
-# 2. HARD SCOPE RULE
+# 2. HARD SCOPE RULE — `child_papers/`
 
-## DO NOT READ `child_papers/`
+> 🚫 **DO NOT READ THE `child_papers/` FOLDER.**
 
 Never:
 
@@ -56,10 +56,10 @@ Never:
 * recursively follow nested citations from child papers
 * use child-paper information to construct the profile
 
-Use only:
+Confine analysis to:
 
 * the top-level parent document
-* primary source material explicitly available/appropriate for the target entity
+* source material permitted by the target tag
 * repository files required by this prompt
 
 If information exists only in a child paper, treat it as unavailable.
@@ -68,87 +68,122 @@ Do not attempt to recover it.
 
 ---
 
-# 3. FIRST STEP — FILTER SOURCE URLS BY TAG
+# 3. FIRST STEP — FILTER URLS STRICTLY BY TAG
 
-**This must be the first source-analysis step before profile editing.**
+**This MUST be the first source-analysis operation.**
 
-Before making any repository changes:
+Before editing any repository content:
 
-1. Inspect the repository's available reference/source information.
-2. Identify all URLs associated with the target entity.
-3. Filter the URLs **by the repository's existing tags, labels, headings, or categorization metadata**.
-4. Separate relevant target-entity URLs from unrelated URLs.
-5. Identify the URLs that can provide primary-source evidence for the reprocessing.
-6. Do not blindly read every URL in the repository.
-7. Do not discard an existing URL merely because it does not appear relevant to the current profile update.
-8. Preserve all existing valid URLs in `references.md`.
+1. Identify the **exact target tag** associated with the reprocessing task.
+2. Inspect the repository's existing URL/reference organization.
+3. Filter the source collection using that exact tag.
+4. Extract **ONLY URLs carrying that exact tag**.
+5. The resulting tagged URL set is the **only source set for this reprocessing**.
 
-The filtering operation is for determining **which source material must be deeply read for this reprocessing**.
+### HARD RULE
 
-Use the existing repository organization whenever possible, including tagged or categorized references under sections such as:
+> **Only URLs belonging to the specified tag are in scope for source analysis.**
 
-* `## 2. Collaborators`
-* `## 4. Executive, Federal & Partner Announcements`
-* entity-specific reference groupings
-* project-specific reference groupings
-* official announcement categories
-* other existing tags/labels used by the repository
+Use:
 
-Do not invent a new tagging system unless the repository already requires one.
+```text
+SOURCE SET = URLs WHERE URL_TAG == TARGET_TAG
+```
 
-### URL filtering rule
+Do NOT use:
 
-For the target entity, collect the relevant source URLs first.
+```text
+SOURCE SET = URLs mentioning TARGET_ENTITY
+```
 
-Then classify them approximately as:
+Do NOT use:
 
-* **Primary / directly authoritative**
-* **Official institutional**
-* **Official partner/company**
-* **Secondary/context only**
-* **Irrelevant to this reprocessing**
+```text
+SOURCE SET = all URLs that appear relevant
+```
 
-Primary and official sources are the basis for factual updates.
+Do NOT use:
 
-Secondary sources may provide discovery/context but must not override a primary source.
+```text
+SOURCE SET = TARGET_TAG + manually discovered URLs
+```
+
+A URL that mentions the target entity but does **not** carry the target tag is **out of scope for this reprocessing**.
+
+Do not:
+
+* broaden the tag filter
+* substitute another tag
+* add URLs because they look useful
+* search for additional untagged sources
+* silently expand the source set later
+
+The tag is the hard source boundary.
+
+### Important distinction
+
+The tag filter controls **which sources are used for this reprocessing**.
+
+It does NOT authorize deletion of other existing valid URLs from `references.md`.
+
+Existing valid URLs must remain preserved even if they are outside the current tag.
 
 ---
 
-# 4. SECOND STEP — DEEP-READ THE RELEVANT SOURCE CONTENT
+# 4. SECOND STEP — DEEP-READ ONLY THE FILTERED URL CONTENT
 
-After filtering the URLs, **deep-read the relevant source content before editing the profile**.
+After filtering by the exact target tag, deeply read the content of the tagged sources.
 
-This is mandatory because the reprocessing requires substantive technical and strategic understanding.
+This is mandatory.
+
+The reprocessing depends on understanding the actual source content, not merely finding matching URLs.
+
+For each relevant tagged URL:
+
+* read the actual source content
+* understand its relevant context
+* extract the facts required for reprocessing
+* identify technical information
+* identify strategic/project information
+* identify funding information
+* identify institutional relationships
+* identify the entity's actual Genesis Mission role
+* identify concrete specifications
+* identify data/assets and mission relevance
 
 Do not rely only on:
 
 * URL titles
 * link text
 * search-result snippets
-* existing README summaries
 * filenames
 * metadata
-* a superficial first paragraph
+* existing README summaries
 
-For each relevant primary source, read enough of the actual source content to extract the facts necessary for the entity reprocessing.
+### Deep-reading requirement
 
-Where a source contains multiple relevant sections, read all relevant sections rather than stopping after finding one matching sentence.
+Read enough of the tagged source content to understand the relevant facts completely.
+
+Where a tagged source contains several relevant sections, read those sections rather than stopping after the first matching sentence.
 
 Extract, where applicable:
 
-* entity identity
-* organization/legal name
-* location
-* facilities
+* legal/brand name
+* founding information
+* incorporation
+* headquarters
+* facility locations
 * program/project name
 * Genesis Mission role
+* project phase
 * award information
 * funding
 * dates
 * MOUs
 * LOIs
 * CHIPS-related commitments
-* partnering institutions
+* partner institutions
+* co-selected institutions
 * prime-awardee status
 * collaborator status
 * PI
@@ -156,46 +191,71 @@ Extract, where applicable:
 * hardware
 * software
 * architecture
-* technical specifications
+* GPU/QPU platforms
+* HPC substrates
+* quantum modality
 * manufacturing processes
-* data/assets
+* cooling systems
+* battery chemistry
+* technical specifications
+* real-world data/assets
 * mission application
 * project methodology
 * broader applicability
 
-### Deep-reading rule
+### Source boundary
 
-If a source is relevant to the target entity and is an official/primary source, do not treat merely finding the URL as sufficient.
+If a source does not carry the target tag:
 
-**Read the content needed to understand the entity's actual contribution before editing.**
+> **Do not read it for this reprocessing.**
 
-Do not repeatedly reread the same source after its relevant information has already been extracted.
+If a relevant fact appears to be missing from the tag-filtered sources:
 
-Once sufficient source content has been read and the necessary facts have been established, proceed to editing.
+> **Do not expand the source set merely to fill the gap.**
+
+Instead, mark the fact as unconfirmed or omit it.
+
+Do not manufacture missing information.
 
 ---
 
-# 5. SOURCE-SCOPE RULE
+# 5. SOURCE PROCESSING STOP CONDITION
 
-The source-reading process must remain within the scope restriction.
+Once all URLs carrying the target tag have been identified and their relevant content has been deeply read:
 
-You may deeply read:
+1. Stop source discovery.
+2. Stop expanding the URL set.
+3. Do not search for additional sources.
+4. Do not add untagged URLs to the working source set.
+5. Proceed to repository editing.
 
-* the top-level parent document
-* relevant primary sources
-* relevant official source pages
-* repository reference information required for the target entity
+Do not enter:
 
-You must NOT:
+```text
+filter → search more → filter again → search more
+```
 
-* read `child_papers/`
-* recursively inspect child papers
-* recursively follow child-paper references
-* turn source discovery into unlimited citation traversal
+Do not enter:
 
-If an official source links to another page that is directly necessary to establish a specific fact, that page may be used as a relevant primary/official source.
+```text
+read → discover URL → read → discover URL → read indefinitely
+```
 
-Do not recursively follow references indefinitely.
+The intended flow is:
+
+```text
+TARGET TAG
+    ↓
+FILTER ONLY TAGGED URLS
+    ↓
+DEEP-READ TAGGED CONTENT
+    ↓
+STOP SOURCE DISCOVERY
+    ↓
+EDIT REPOSITORY
+    ↓
+FINAL AUDIT
+```
 
 ---
 
@@ -223,7 +283,7 @@ Do not restructure the repository.
 
 Work on the target entity specified by the task.
 
-After the source-filtering and deep-reading stage, determine:
+Determine:
 
 * whether it already has a profile
 * which entity category it belongs to
@@ -231,7 +291,7 @@ After the source-filtering and deep-reading stage, determine:
 * which documentation sections currently mention it
 * its current coverage status
 * its current Process Count, if present
-* which relevant sources support the reprocessing
+* which tag-filtered sources support the reprocessing
 
 If an existing profile exists, **update it**.
 
@@ -248,42 +308,43 @@ Use exactly the appropriate section.
 | Entity type                      | English                                               | German                                                       |
 | -------------------------------- | ----------------------------------------------------- | ------------------------------------------------------------ |
 | Industry / Hyperscale / Hardware | `### 3.1 Industry, Hyperscale & Hardware Commitments` | `### 3.1 Industrie-, Hyperscale- & Hardware-Verpflichtungen` |
-| National Laboratory              | `### 3.2 National Laboratories`                       | `### 3.2 Nationale Laboratorien`                             |
-| University / Academic            | `### 3.3 University Research Partners`                | `### 3.3 Universitäre Forschungspartner`                     |
+| National Laboratories            | `### 3.2 National Laboratories`                       | `### 3.2 Nationale Laboratorien`                             |
+| Universities / Academic          | `### 3.3 University Research Partners`                | `### 3.3 Universitäre Forschungspartner`                     |
 
 Do not put an entity into the wrong category.
 
 ---
 
-# 9. PROFILE STRUCTURE
+# 9. PROFILE ENTRY STRUCTURE
 
-The target entity's refreshed profile must begin with:
+Each refreshed entry must open with:
 
-1. Full legal/brand name
-2. One-line identifying description
+* Full legal/brand name
+* One-line identifying description:
 
-   * location
-   * sector/department
-   * program/product line where relevant
-3. Specific role in the relevant Genesis Mission project
-4. Inline citation to a primary source
+  * location
+  * sector/department
+  * program/product lines where relevant
+* Specific role on the relevant Genesis Mission project
+* Inline citation using the applicable primary/tagged source
 
-Then use these three bold sub-bullets in exactly this order:
+Follow with these three bold sub-bullets in **exactly this order**:
 
-1. **Grants & Commitments** / **Zuschüsse & Verpflichtungen**
-2. **Technical Capabilities** / **Technische Kapazitäten**
-3. **Mission Domains** / **Missionsdomänen**
+1. **Grants & Commitments** / *Zuschüsse & Verpflichtungen*
+2. **Technical Capabilities** / *Technische Kapazitäten*
+3. **Mission Domains** / *Missionsdomänen*
 
-Do not change this order.
+Do not change the order.
 
 Do not replace these categories with custom categories.
 
 ---
 
-# 10. GRANTS & COMMITMENTS
+# 10. GRANTS & COMMITMENTS / ZUSCHÜSSE & VERPFLICHTUNGEN
 
 Include verified information where applicable:
 
+* corporate background
 * founding date
 * founding location
 * incorporation
@@ -299,13 +360,13 @@ Include verified information where applicable:
 * partnering institutions
 * co-selected institutions
 * entity's specific role
-* distinction between prime awardee and industry collaborator
+* prime awardee vs. industry collaborator distinction
 * Genesis-affiliated effort
 * leading PI
 * lead institution
 * co-investigators
 
-Do not assume that being listed as a partner makes the entity a prime awardee.
+Do not assume that being listed as a partner makes an entity a prime awardee.
 
 Explicitly distinguish:
 
@@ -314,13 +375,13 @@ Explicitly distinguish:
 * industry collaborator
 * academic collaborator
 * subcontractor
-* other role
+* other documented role
 
-Only state the role supported by the source.
+Only state the role supported by the tag-filtered source material.
 
 ---
 
-# 11. TECHNICAL CAPABILITIES
+# 11. TECHNICAL CAPABILITIES / TECHNISCHE KAPAZITÄTEN
 
 Document concrete technical information.
 
@@ -342,10 +403,10 @@ Where applicable, include:
 * cycle life
 * manufacturing processes
 * named technical processes
-* relevant instrumentation
-* relevant laboratory systems
+* instrumentation
+* laboratory systems
 
-Use measurable or technically identifiable specifications when available.
+Use measurable or technically identifiable specifications where available.
 
 Examples:
 
@@ -364,7 +425,7 @@ Do not convert marketing claims into technical facts.
 
 ---
 
-# 12. MISSION DOMAINS
+# 12. MISSION DOMAINS / MISSIONSDOMÄNEN
 
 Document:
 
@@ -385,50 +446,39 @@ Where supported, explain generalization to areas such as:
 * materials discovery
 * computational science
 
-Only claim a broader application when technically justified by the documented methodology.
+Only claim broader applicability when technically justified by the source material.
 
 ---
 
-# 13. MAJOR COMPUTE / MODEL PROVIDERS
+# 13. GLOBAL REFERENCES FOR MAJOR COMPUTE / MODEL PROVIDERS
 
-If the target entity is a major compute or model provider, update the relevant references in BOTH language versions.
+For major compute/model providers, thread the entity's verified role through BOTH language versions.
 
 Update, where applicable:
 
-### `## Abstract`
+* `## Abstract`
+* `## Zusammenfassung`
+* `§2.1` heterogeneous supercomputing core
+* `§1` ASCII consortium topology diagram
 
-and
-
-### `## Zusammenfassung`
-
-### `§2.1`
-
-The heterogeneous supercomputing core.
-
-### `§1`
-
-The ASCII consortium topology diagram.
-
-The references must describe the entity's verified role.
-
-Do not imply that an entity owns, operates, supplies, or controls infrastructure unless the primary source establishes that fact.
+Do not imply that an entity owns, operates, supplies, or controls infrastructure unless the tag-filtered source material establishes that fact.
 
 Do not alter unrelated architecture descriptions.
 
 ---
 
-# 14. APPENDIX INTEGRATION
+# 14. APPENDIX VERIFICATION / INTEGRATION
 
-Update the appropriate appendix entry.
+Update the appropriate appendix table.
 
 For industry/hardware entities:
 
 * `### A.3 Industry & Technology Partners`
 * `### A.3 Industrie- und Technologiepartner`
 
-For laboratories and universities:
+For national laboratories and universities:
 
-* use the corresponding appendix tables if they exist.
+* use the corresponding appendix tables where present.
 
 The appendix entry must reflect the entity's primary documented contribution.
 
@@ -442,26 +492,26 @@ Preserve the reference archive.
 
 MANDATORY:
 
-* retain every existing valid URL
+* retain all existing valid URLs
 * retain historical press releases
 * retain partner announcements
 * retain collaborator references
 * retain official announcements
-* add newly discovered primary sources
-* place new sources under the appropriate existing subsection
+* add newly applicable tagged sources where required
+* place references under the appropriate existing subsections
 
 Pay particular attention to:
 
 * `## 2. Collaborators`
 * `## 4. Executive, Federal & Partner Announcements`
 
-NEVER delete an existing valid URL merely because a newer source exists.
+**Never remove an existing valid URL merely because it is outside the current tag.**
+
+The current tag determines the source set used for this reprocessing.
+
+It does not determine which historical references are allowed to remain in the repository.
 
 Do not replace historical references with newer references.
-
-Add the newer source while preserving the historical source.
-
-The URL filtering and deep-reading process from Steps 3–5 determines which sources are relevant to the current reprocessing; it does **not** authorize deletion of other valid URLs.
 
 ---
 
@@ -471,42 +521,42 @@ Update the entity tracking tables.
 
 ## Process Count schema
 
-Every applicable entity tracking table must begin with:
+Every applicable entity tracking table must lead with:
 
 `| Process Count | Entity | ... |`
 
-If `Process Count` does not exist:
+If the column does not exist:
 
-1. Add it as the first column.
-2. Set every untouched entity to `0`.
+1. Insert it as the first column.
+2. Set all untouched rows to `0`.
 3. Set the target entity to `1`.
 
-If `Process Count` already exists:
+If the column already exists:
 
 * increment ONLY the target entity by `1`
 * leave all other entity counts unchanged
 
 Examples:
 
-`0 → 1`
+```text
+0 → 1
+1 → 2
+2 → 3
+```
 
-`1 → 2`
+Do not increment the target more than once.
 
-`2 → 3`
+Do not increment because multiple files were edited.
 
-Do not increment the target more than once during this execution.
-
-Do not increment counts merely because multiple files were edited.
-
-One agent execution = one Process Count increment for the target entity.
+**One agent execution = one Process Count increment for the target entity.**
 
 ---
 
-# 17. COVERAGE STATUS
+# 17. COVERAGE STATUS & METADATA
 
-Update the target entity's metadata where appropriate.
+Update the target entity where appropriate.
 
-Possible status transition:
+Example transition:
 
 `📋 Brief Mention → ✅ Full Profile`
 
@@ -516,34 +566,32 @@ Update:
 * `Paper Section`
 * `Notes`
 
-`Paper Section` should identify the actual location, for example:
+`Paper Section` should identify the actual documentation location, for example:
 
 `§3.1, A.3`
 
-Notes should summarize the entity's key technical contribution.
+Notes should summarize key technical highlights and the entity's Genesis contribution.
 
-Do not claim `Full Profile` unless the profile actually contains the required substantive information.
+Do not claim `Full Profile` unless the profile contains the required substantive information.
 
 ---
 
 # 18. COVERAGE METRICS
 
-After modifying the entity rows, update the coverage calculations.
-
-Recalculate:
+After modifying the entity rows, update:
 
 * `By Entity Type`
 * `By Coverage Level`
 * summary counts
-* summary percentages where present
+* summary percentages
 * relevant footnotes
 * total profile count in the closing note
 
-The summary numbers must reconcile with the actual table rows.
+The summary numbers must reconcile with the actual entity rows.
 
 Do not manually invent totals.
 
-Do not change unrelated metrics.
+Do not modify unrelated metrics.
 
 ---
 
@@ -551,7 +599,7 @@ Do not change unrelated metrics.
 
 `README.md` and `README.de.md` must remain synchronized.
 
-Every factual update in English must have the equivalent factual information in German.
+Every factual update in English must have equivalent factual information in German.
 
 The German version must be a full translation, not a shortened summary.
 
@@ -573,7 +621,7 @@ Synchronize:
 * appendix information
 * architecture references where applicable
 
-Preserve the corresponding section hierarchy.
+Preserve corresponding section hierarchy.
 
 Do not add factual information to one language and omit it from the other.
 
@@ -625,57 +673,51 @@ Do not create a second changelog entry for the same execution.
 
 ---
 
-# 22. FACTUAL EVIDENCE RULE
+# 22. FACT-CHECKING REQUIREMENT
 
-Every factual claim must be supported by a real, citable source.
+This is science- and policy-adjacent documentation.
 
-The source-reading process must occur **before the profile is written**.
+Every factual claim must be supported by the **tag-filtered source material**.
 
-Prefer:
+Prefer primary/official sources among the URLs carrying the target tag.
 
-1. official `.gov`
-2. official `.edu`
-3. national laboratory sources
-4. official institutional sources
-5. official company sources
-6. official program announcements
+Verify:
 
-Do not rely on secondary summaries when a primary source is available.
-
-Do not fabricate:
-
-* funding amounts
+* award amounts
 * dates
 * PI names
+* program titles
 * technical specifications
-* program names
-* partnerships
+* cycle life
+* voltage classes
+* process names
 * project roles
-* facility locations
-* performance figures
+* facility information
+* partnership claims
+* Genesis Mission relationships
 
-If a fact cannot be confirmed, do not manufacture an answer.
+Do not fabricate or extrapolate.
 
-State it as unconfirmed or omit it.
+If a fact cannot be confirmed from the tag-filtered source material:
 
-Every profile entry must contain an inline citation to a primary source.
+> State it as unconfirmed or omit it.
+
+Do not obtain a replacement fact from an untagged URL.
 
 ---
 
-# 23. RELEASE RESTRICTION
+# 23. RELEASE MANAGEMENT POLICY
 
-Do NOT execute:
+> 🚫 **Do NOT run `git tag` or `git push`.**
 
-```text id="i4fg1r"
-git tag
-git push
-```
+Do not:
 
-Do not create a release.
+* create tags
+* push commits
+* publish releases
+* execute release deployment
 
-Do not publish anything.
-
-Release management is handled separately by:
+Release management remains isolated to:
 
 `prompts/release_and_tag.md`
 
@@ -698,6 +740,7 @@ Do not:
 * modify unrelated technical claims
 * create duplicate entries
 * create unnecessary files
+* use untagged sources as evidence for the reprocessing
 
 Make the smallest set of changes necessary to complete the task correctly.
 
@@ -705,27 +748,42 @@ Make the smallest set of changes necessary to complete the task correctly.
 
 # 25. EXECUTION ORDER
 
-Perform the work in exactly this order.
+Perform the work in **exactly this order**.
 
-### Step 1 — Filter URLs by tag
+### Step 1 — Identify the exact target tag
 
-Identify all target-entity-related URLs and filter them using the repository's existing tags, headings, labels, and reference organization.
+Determine the exact tag associated with the requested reprocessing.
 
-Do not edit the repository yet.
+Do not interpret the tag loosely.
 
-### Step 2 — Deep-read source content
+### Step 2 — Filter URLs by the exact tag
 
-Deep-read the relevant primary/official source content identified in Step 1.
+Filter the repository's URL/reference collection.
 
-Extract the factual, technical, financial, institutional, and Genesis Mission information required for the reprocessing.
+Use **ONLY URLs carrying the exact target tag**.
 
-Do not rely on snippets alone.
+Do not add untagged URLs.
+
+### Step 3 — Deep-read the tagged source content
+
+Deep-read the relevant content from the filtered URLs.
+
+Do not rely on snippets or titles.
 
 Do not read `child_papers/`.
 
-Do not recursively traverse citations.
+Do not recursively expand the source set.
 
-### Step 3 — Locate repository material
+### Step 4 — Stop source discovery
+
+Once all tagged sources have been processed:
+
+* stop searching
+* stop expanding the source set
+* do not add untagged sources
+* proceed to repository editing
+
+### Step 5 — Locate repository material
 
 Identify:
 
@@ -735,69 +793,60 @@ Identify:
 * correct entity section
 * relevant coverage row
 * relevant appendix row
-* relevant references
+* relevant tagged references
 
-Do not modify anything until the relevant source content has been read.
+### Step 6 — Update English profile
 
-### Step 4 — Update English Profile
+Update `README.md`.
 
-Update the appropriate section in `README.md`.
+### Step 7 — Update German profile
 
-Use the required profile structure.
+Update `README.de.md`.
 
-### Step 5 — Update German Profile
-
-Apply the equivalent complete information to `README.de.md`.
-
-Maintain structural and factual synchronization.
-
-### Step 6 — Update Global Architecture References
+### Step 8 — Update global architecture references
 
 If applicable, update:
 
 * Abstract
+* Zusammenfassung
 * §2.1
-* §1 ASCII diagram
+* §1 ASCII topology
 
 in both languages.
 
-### Step 7 — Update Appendix
+### Step 9 — Update appendix
 
-Update the appropriate appendix entry in both language versions where applicable.
+Update the applicable appendix entries.
 
-### Step 8 — Update References
+### Step 10 — Update `references.md`
 
-Update `references.md`.
+Preserve all existing valid URLs and update applicable references.
 
-Preserve all existing valid URLs.
+Do not use untagged URLs as source evidence.
 
-Add the required new primary sources.
+### Step 11 — Update `coverage.md`
 
-### Step 9 — Update Coverage
+Perform the Process Count migration/increment and update coverage metadata and metrics.
 
-Modify `coverage.md`.
-
-Perform the Process Count migration/increment.
-
-Update status, section, notes, summaries, percentages, and profile totals.
-
-### Step 10 — Update Version
+### Step 12 — Update versions
 
 Synchronously increment the patch version in both README files.
 
-### Step 11 — Update Changelog
+### Step 13 — Update `CHANGELOG.md`
 
-Add the single appropriate entry under the active version.
+Add the single appropriate active-version entry.
 
-### Step 12 — Stop Editing
+### Step 14 — STOP EDITING
 
-At this point, all repository modifications are complete.
+All repository modifications are now complete.
 
 Do not start another editing pass.
 
-Do not reopen the workflow from Step 1.
+Do not restart from Step 1.
 
-Do not repeatedly refine already completed changes.
+Do not rediscover sources.
+
+Do not perform an intermediate audit.
 
 Proceed directly to the final audit.
 
@@ -805,129 +854,152 @@ Proceed directly to the final audit.
 
 # 26. FINAL AUDIT — LAST STEP ONLY
 
-**This is the ONLY audit/checklist stage.**
+> **This is the ONLY audit/checklist stage.**
 
-Do NOT perform these checks during earlier execution steps.
+Do NOT audit during source filtering.
+
+Do NOT audit during deep reading.
+
+Do NOT audit between file edits.
 
 Do NOT alternate:
 
-`edit → audit → edit → audit`
+```text
+edit → audit → edit → audit
+```
 
-Instead perform:
+The required workflow is:
 
-`source filtering → deep reading → complete all edits → one final audit`
+```text
+EXACT TAG
+    ↓
+FILTER ONLY TAGGED URLS
+    ↓
+DEEP-READ TAGGED CONTENT
+    ↓
+STOP SOURCE DISCOVERY
+    ↓
+COMPLETE ALL REPOSITORY EDITS
+    ↓
+ONE FINAL AUDIT
+    ↓
+DONE
+```
 
-At this point inspect the completed result and check:
+Perform the following audit **once, at the very end**.
 
 ## Source Processing
 
-* [ ] target-entity URLs were filtered by existing repository tags/labels/headings
-* [ ] relevant primary/official sources were identified
-* [ ] relevant source content was deeply read
-* [ ] source snippets alone were not used as the basis for the profile
-* [ ] `child_papers/` was not read
-* [ ] no child papers were traversed
-* [ ] no uncontrolled recursive citation traversal occurred
-
-## Scope
-
-* [ ] target entity is correct
-* [ ] no unrelated files were modified
+* [ ] Exact target tag was identified.
+* [ ] URLs were filtered by the exact tag.
+* [ ] Only URLs carrying that tag were used as source evidence.
+* [ ] Relevant tagged sources were deeply read.
+* [ ] Source snippets were not used as a substitute for reading.
+* [ ] No untagged URL was introduced into the source set.
+* [ ] Source discovery did not expand beyond the target tag.
+* [ ] `child_papers/` was not read.
+* [ ] No child papers were traversed.
+* [ ] No uncontrolled recursive citation traversal occurred.
 
 ## Profile
 
-* [ ] correct §3 routing was used
-* [ ] existing profile was updated rather than duplicated
-* [ ] full legal/brand name exists
-* [ ] identifying description exists
-* [ ] Genesis role exists
-* [ ] primary-source citation exists
-* [ ] Grants & Commitments appears first
-* [ ] Technical Capabilities appears second
-* [ ] Mission Domains appears third
+* [ ] Target entity is correct.
+* [ ] Correct §3 routing was used.
+* [ ] Existing profile was updated rather than duplicated.
+* [ ] Full legal/brand name exists.
+* [ ] Identifying description exists.
+* [ ] Genesis role exists.
+* [ ] Primary/tagged-source citation exists.
+* [ ] Grants & Commitments appears first.
+* [ ] Technical Capabilities appears second.
+* [ ] Mission Domains appears third.
 
 ## Technical Content
 
-* [ ] technical claims are concrete
-* [ ] numerical specifications are sourced
-* [ ] no unsupported marketing claims were introduced
-* [ ] prime awardee/collaborator distinction is correct
+* [ ] Technical claims are concrete.
+* [ ] Numerical specifications are supported.
+* [ ] No unsupported marketing claims were introduced.
+* [ ] Prime-awardee/collaborator distinction is correct.
+* [ ] Hardware/software/architecture claims are supported.
+* [ ] Manufacturing/process claims are supported.
 
 ## Mission Integration
 
-* [ ] Genesis problem space is identified
-* [ ] entity contribution is identified
-* [ ] real-world data/assets are identified where applicable
-* [ ] broader methodology is described where justified
+* [ ] Genesis problem space is identified.
+* [ ] Entity contribution is identified.
+* [ ] Real-world data/assets are identified where applicable.
+* [ ] Broader methodology is described only where justified.
 
 ## Architecture
 
 Where applicable:
 
-* [ ] Abstract updated
-* [ ] Zusammenfassung updated
-* [ ] §2.1 updated
-* [ ] §1 ASCII topology updated
-* [ ] English/German architecture information matches
+* [ ] Abstract updated.
+* [ ] Zusammenfassung updated.
+* [ ] §2.1 updated.
+* [ ] §1 ASCII topology updated.
+* [ ] English/German architecture information matches.
 
 ## Appendix
 
-* [ ] appropriate appendix updated
-* [ ] English/German appendix information matches
-* [ ] no duplicate appendix entry
+* [ ] Appropriate appendix updated.
+* [ ] English/German appendix information matches.
+* [ ] No duplicate appendix entry.
 
 ## References
 
-* [ ] all existing valid URLs remain
-* [ ] historical references remain
-* [ ] collaborator references remain
-* [ ] new primary sources are present
-* [ ] every factual profile claim has evidence
+* [ ] All existing valid URLs remain.
+* [ ] Historical references remain.
+* [ ] Collaborator references remain.
+* [ ] Applicable tagged sources are represented.
+* [ ] No untagged source was used as factual evidence.
+* [ ] Every factual profile claim has supporting evidence.
 
 ## Coverage
 
-* [ ] Process Count is the first column
-* [ ] untouched rows remain `0` when schema was newly introduced
-* [ ] target was incremented exactly once
-* [ ] target status is correct
-* [ ] Paper Section is correct
-* [ ] Notes are updated
-* [ ] summary tables reconcile
-* [ ] percentages reconcile
-* [ ] closing profile count is correct
+* [ ] Process Count is the first column.
+* [ ] Untouched rows remain `0` when the schema was newly introduced.
+* [ ] Target Process Count was incremented exactly once.
+* [ ] Target status is correct.
+* [ ] Paper Section is correct.
+* [ ] Notes are updated.
+* [ ] Summary tables reconcile.
+* [ ] Percentages reconcile.
+* [ ] Closing profile count is correct.
 
 ## Version
 
-* [ ] README.md patch version incremented exactly once
-* [ ] README.de.md patch version incremented exactly once
-* [ ] both versions are identical
+* [ ] `README.md` patch version incremented exactly once.
+* [ ] `README.de.md` patch version incremented exactly once.
+* [ ] Both versions are identical.
 
 ## Changelog
 
-* [ ] active version contains the reprocessing entry
-* [ ] entity is named
-* [ ] Process Count migration is documented
-* [ ] technical changes are documented
-* [ ] bilingual changes are documented
-* [ ] coverage changes are documented
+* [ ] Active version contains the reprocessing entry.
+* [ ] Entity is named.
+* [ ] Process Count migration is documented.
+* [ ] Technical changes are documented.
+* [ ] English/German changes are documented.
+* [ ] Coverage changes are documented.
 
 ## Bilingual Sync
 
-* [ ] English and German contain equivalent factual information
-* [ ] amounts match
-* [ ] dates match
-* [ ] PI names match
-* [ ] institutions match
-* [ ] technical specifications match
-* [ ] Genesis role matches
-* [ ] mission-domain information matches
-* [ ] section hierarchy matches
+* [ ] English and German contain equivalent factual information.
+* [ ] Amounts match.
+* [ ] Dates match.
+* [ ] PI names match.
+* [ ] Institutions match.
+* [ ] Technical specifications match.
+* [ ] Genesis role matches.
+* [ ] Mission-domain information matches.
+* [ ] Section hierarchy matches.
+* [ ] German profile is not an abbreviated version.
 
 ## Release Safety
 
-* [ ] `git tag` was NOT executed
-* [ ] `git push` was NOT executed
-* [ ] no release was created
+* [ ] `git tag` was NOT executed.
+* [ ] `git push` was NOT executed.
+* [ ] No release was created.
 
 ---
 
@@ -935,18 +1007,26 @@ Where applicable:
 
 The task is complete when:
 
-1. Relevant URLs were filtered first.
-2. Relevant source content was deeply read.
-3. All required repository edits have been made.
-4. The final audit above has been performed once.
-5. No audit failure remains unresolved.
-6. No further edit/audit cycle is started.
-7. No `git tag` or `git push` has been executed.
+1. The exact target tag was identified.
+2. Only URLs carrying that tag were used for source analysis.
+3. The tagged source content was deeply read.
+4. Source discovery was stopped after the tagged source set was processed.
+5. All required repository edits were completed.
+6. The final audit was performed **once and only at the end**.
+7. No unresolved audit failure remains.
+8. No further edit/audit cycle is started.
+9. No `git tag` or `git push` was executed.
 
-If the final audit discovers an actual error, correct that error once, then perform only the affected final checks needed to confirm the correction.
+If the final audit discovers an actual error:
 
-Do not restart the entire workflow.
+1. Correct only that specific error.
+2. Recheck only the affected audit item.
+3. Stop.
 
-Do not repeatedly cycle through the repository.
+Do NOT restart the workflow.
 
-The final state must be a completed repository update, not an ongoing audit loop.
+Do NOT perform another full source-discovery cycle.
+
+Do NOT repeat the entire audit.
+
+**The task ends after the final audit.**
