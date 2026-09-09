@@ -215,7 +215,7 @@ A tabular master index for the reference collection:
 | 2. Collaborators | - | Nokia | `www.nokia.com` | Web | [Nokia](https://www.nokia.com/) | `Processed` | company:NVIDIA |
 | 2. Collaborators | - | Nusano | `nusano.com` | Web | [Nusano](https://nusano.com/) | `Processed` | company:Nusano |
 | 2. Collaborators | - | NVIDIA | `blogs.nvidia.com` | Web | [NVIDIA](https://blogs.nvidia.com/) | `Processed` | company:NVIDIA |
-| 2. Collaborators | - | OLI Systems | `www.olisystems.com` | Web | [OLI Systems](https://www.olisystems.com/) | `Processed` |  - |
+| 2. Collaborators | - | OLI Systems | `www.olisystems.com` | Web | [OLI Systems](https://www.olisystems.com/) | `Processed` | company:OLI Systems |
 | 2. Collaborators | - | OpenAI for Government | `openai.com` | Web | [OpenAI for Government](https://openai.com/) | `Processed` |  - |
 | 2. Collaborators | - | Oracle | `www.oracle.com` | Web | [Oracle](https://www.oracle.com/) | `Processed` |  - |
 | 2. Collaborators | - | Phoenix Tailings | `www.phoenixtailings.com` | Web | [Phoenix Tailings](https://www.phoenixtailings.com/) | `Processed` |  - |
