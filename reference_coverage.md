@@ -204,7 +204,7 @@ A tabular master index for the reference collection:
 | 2. Collaborators | - | Infleqtion | `www.infleqtion.com` | Web | [Infleqtion](https://www.infleqtion.com/) | `Processed` | company:Infleqtion |
 | 2. Collaborators | - | Infleqtion — About Us | `infleqtion.com` | Web | [Infleqtion — About Us](https://infleqtion.com/about/) | `Processed` | company:Infleqtion |
 | 2. Collaborators | - | ISO New England | `www.iso-ne.com` | Web | [ISO New England](https://www.iso-ne.com/) | `Processed` | company:ISO New England |
-| 2. Collaborators | - | Kitware | `www.kitware.com` | Web | [Kitware](https://www.kitware.com/) | `Processed` |  - |
+| 2. Collaborators | - | Kitware | `www.kitware.com` | Web | [Kitware](https://www.kitware.com/) | `Processed` | company:Lila |
 | 2. Collaborators | - | LILA | `www.lila.ai` | Web | [LILA](https://www.lila.ai/) | `Processed` |  - |
 | 2. Collaborators | - | Powering American Science: LILA to Join DOE's Genesis Mission | `www.lila.ai` | Web | [Powering American Science: LILA to Join DOE's Genesis Mission](https://www.lila.ai/news/powering-american-science-lila-to-join-does-genesis-mission) | `Processed` |  - |
 | 2. Collaborators | - | Micron | `www.micron.com` | Web | [Micron](https://www.micron.com/) | `Processed` |  - |
