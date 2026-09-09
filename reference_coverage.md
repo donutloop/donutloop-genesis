@@ -190,7 +190,7 @@ A tabular master index for the reference collection:
 | 2. Collaborators | - | EPRI | `www.epri.com` | Web | [EPRI](https://www.epri.com/) | `Processed` | company:EPRI |
 | 2. Collaborators | - | Esri | `www.esri.com` | Web | [Esri](https://www.esri.com/) | `Processed` | company:GE Aerospace |
 | 2. Collaborators | - | FutureHouse | `www.futurehouse.org` | Web | [FutureHouse](https://www.futurehouse.org/) | `Processed` | company:Future House |
-| 2. Collaborators | - | GE Aerospace | `www.geaerospace.com` | Web | [GE Aerospace](https://www.geaerospace.com/) | `Processed` |  - |
+| 2. Collaborators | - | GE Aerospace | `www.geaerospace.com` | Web | [GE Aerospace](https://www.geaerospace.com/) | `Processed` | company:GE Aerospace |
 | 2. Collaborators | - | GlobalFoundries | `gf.com` | Web | [GlobalFoundries](https://gf.com/) | `Processed` |  - |
 | 2. Collaborators | - | GlobalFoundries — Quantum Technology Architecture & Foundry Solutions | `gf.com` | Web | [GlobalFoundries — Quantum Technology Architecture & Foundry Solutions](https://gf.com/technologies/quantum-technology/) | `Processed` |  - |
 | 2. Collaborators | - | Google | `about.google` | Web | [Google](https://about.google/) | `Processed` |  - |
