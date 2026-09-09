@@ -185,7 +185,7 @@ A tabular master index for the reference collection:
 | 2. Collaborators | - | Diraq | `diraq.com` | Web | [Diraq](https://diraq.com/) | `Processed` | company:Diraq |
 | 2. Collaborators | - | Diraq — About Us | `www.diraq.com` | Web | [Diraq — About Us](https://www.diraq.com/about) | `Processed` | company:Diraq |
 | 2. Collaborators | - | D-Wave | `www.dwavesys.com` | Web | [D-Wave](https://www.dwavesys.com/) | `Processed` | company:D-Wave |
-| 2. Collaborators | - | D-Wave Quantum — About Us | `www.dwavequantum.com` | Web | [D-Wave Quantum — About Us](https://www.dwavequantum.com/company/about-d-wave/) | `Processed` |  - |
+| 2. Collaborators | - | D-Wave Quantum — About Us | `www.dwavequantum.com` | Web | [D-Wave Quantum — About Us](https://www.dwavequantum.com/company/about-d-wave/) | `Processed` | company:D-Wave |
 | 2. Collaborators | - | Emerald Cloud Lab | `www.emeraldcloudlab.com` | Web | [Emerald Cloud Lab](https://www.emeraldcloudlab.com/) | `Processed` |  - |
 | 2. Collaborators | - | EPRI | `www.epri.com` | Web | [EPRI](https://www.epri.com/) | `Processed` |  - |
 | 2. Collaborators | - | Esri | `www.esri.com` | Web | [Esri](https://www.esri.com/) | `Processed` |  - |
