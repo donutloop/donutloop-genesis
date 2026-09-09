@@ -218,7 +218,7 @@ A tabular master index for the reference collection:
 | 2. Collaborators | - | OLI Systems | `www.olisystems.com` | Web | [OLI Systems](https://www.olisystems.com/) | `Processed` | company:OLI Systems |
 | 2. Collaborators | - | OpenAI for Government | `openai.com` | Web | [OpenAI for Government](https://openai.com/) | `Processed` | company:OpenAI |
 | 2. Collaborators | - | Oracle | `www.oracle.com` | Web | [Oracle](https://www.oracle.com/) | `Processed` | company:Oracle |
-| 2. Collaborators | - | Phoenix Tailings | `www.phoenixtailings.com` | Web | [Phoenix Tailings](https://www.phoenixtailings.com/) | `Processed` |  - |
+| 2. Collaborators | - | Phoenix Tailings | `www.phoenixtailings.com` | Web | [Phoenix Tailings](https://www.phoenixtailings.com/) | `Processed` | company:Phoenix Tailings |
 | 2. Collaborators | - | PMT Critical Metals | `pmtcriticalmetals.com` | Web | [PMT Critical Metals](https://pmtcriticalmetals.com/) | `Processed` |  - |
 | 2. Collaborators | - | PsiQuantum | `psiquantum.com` | Web | [PsiQuantum](https://psiquantum.com/) | `Processed` |  - |
 | 2. Collaborators | - | PsiQuantum — About Us | `www.psiquantum.com` | Web | [PsiQuantum — About Us](https://www.psiquantum.com/about) | `Processed` |  - |
