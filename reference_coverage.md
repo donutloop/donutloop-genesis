@@ -207,7 +207,7 @@ A tabular master index for the reference collection:
 | 2. Collaborators | - | Kitware | `www.kitware.com` | Web | [Kitware](https://www.kitware.com/) | `Processed` | company:Lila |
 | 2. Collaborators | - | LILA | `www.lila.ai` | Web | [LILA](https://www.lila.ai/) | `Processed` | company:Lila |
 | 2. Collaborators | - | Powering American Science: LILA to Join DOE's Genesis Mission | `www.lila.ai` | Web | [Powering American Science: LILA to Join DOE's Genesis Mission](https://www.lila.ai/news/powering-american-science-lila-to-join-does-genesis-mission) | `Processed` | company:Lila |
-| 2. Collaborators | - | Micron | `www.micron.com` | Web | [Micron](https://www.micron.com/) | `Processed` |  - |
+| 2. Collaborators | - | Micron | `www.micron.com` | Web | [Micron](https://www.micron.com/) | `Processed` | company:Micron |
 | 2. Collaborators | - | Microsoft | `www.microsoft.com` | Web | [Microsoft](https://www.microsoft.com/) | `Processed` |  - |
 | 2. Collaborators | - | MP Materials | `mpmaterials.com` | Web | [MP Materials](https://mpmaterials.com/) | `Processed` |  - |
 | 2. Collaborators | - | New York Creates | `nycreates.org` | Web | [New York Creates](https://nycreates.org/) | `Processed` |  - |
