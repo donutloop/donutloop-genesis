@@ -236,7 +236,7 @@ A tabular master index for the reference collection:
 | 2. Collaborators | - | Siemens | `www.siemens.com` | Web | [Siemens](https://www.siemens.com/) | `Processed` | company:Siemens |
 | 2. Collaborators | - | Synopsys | `www.synopsys.com` | Web | [Synopsys](https://www.synopsys.com/) | `Processed` | company:Synopsys |
 | 2. Collaborators | - | TdVib | `tdvib.com` | Web | [TdVib](https://tdvib.com/) | `Processed` | company:TdVib |
-| 2. Collaborators | - | Tennessee Valley Authority | `www.tva.com` | Web | [Tennessee Valley Authority](https://www.tva.com/) | `Processed` |  - |
+| 2. Collaborators | - | Tennessee Valley Authority | `www.tva.com` | Web | [Tennessee Valley Authority](https://www.tva.com/) | `Processed` | company:Tennessee Valley Authority |
 | 2. Collaborators | - | xLight | `xlight.ai` | Web | [xLight](https://xlight.ai/) | `Processed` |  - |
 | 2. Collaborators | - | xLight — About Us | `www.xlight.com` | Web | [xLight — About Us](https://www.xlight.com/about) | `Processed` |  - |
 | 2. Collaborators | Chemspeed | Chemspeed and Ames National Laboratory: Driving Innovation Together in DOE's Genesis Mission | `www.chemspeed.com` | Web | [Chemspeed and Ames National Laboratory: Driving Innovation Together in DOE's Genesis Mission](https://www.chemspeed.com/news/chemspeed-and-ames-national-laboratory-driving-innovation-together-in-doe-s-genesis-mission/) | `Processed` |  - |
