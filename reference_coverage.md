@@ -164,7 +164,7 @@ A tabular master index for the reference collection:
 | 1. Key Presentation Details | Event | U.S. ATLAS Institutional Board Meeting | `indico.cern.ch` | Web | [U.S. ATLAS Institutional Board Meeting](https://indico.cern.ch/event/1662511/?view=indico_weeks_view) | `Processed` | - |
 | 1. Key Presentation Details | Key People & Audience | ATLAS experiment at CERN | `atlas.cern` | Web | [ATLAS experiment at CERN](https://atlas.cern/Discover/Collaboration) | `Processed` | lab:CERN |
 | 2. Collaborators | - | Albemarle | `www.albemarle.com` | Web | [Albemarle](https://www.albemarle.com/) | `Processed` | company:Albemarle |
-| 2. Collaborators | - | Amazon Web Services (AWS) | `aws.amazon.com` | Web | [Amazon Web Services (AWS)](https://aws.amazon.com/) | `Processed` |  - |
+| 2. Collaborators | - | Amazon Web Services (AWS) | `aws.amazon.com` | Web | [Amazon Web Services (AWS)](https://aws.amazon.com/) | `Processed` | company:AWS |
 | 2. Collaborators | - | AMD | `www.amd.com` | Web | [AMD](https://www.amd.com/) | `Processed` |  - |
 | 2. Collaborators | - | Anthropic | `www.anthropic.com` | Web | [Anthropic](https://www.anthropic.com/research/introducing-anthropic-science) | `Processed` |  - |
 | 2. Collaborators | - | Applied Materials | `www.appliedmaterials.com` | Web | [Applied Materials](https://www.appliedmaterials.com/) | `Processed` |  - |
