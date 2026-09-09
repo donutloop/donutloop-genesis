@@ -201,7 +201,7 @@ A tabular master index for the reference collection:
 | 2. Collaborators | - | Hugging Face | `huggingface.co` | Web | [Hugging Face](https://huggingface.co/) | `Processed` | company:Hugging Face |
 | 2. Collaborators | - | IBM | `www.ibm.com` | Web | [IBM](https://www.ibm.com/) | `Processed` | company:IBM |
 | 2. Collaborators | - | IBM Quantum Portal | `www.ibm.com` | Web | [IBM Quantum Portal](https://www.ibm.com/quantum) | `Processed` | company:IBM |
-| 2. Collaborators | - | Infleqtion | `www.infleqtion.com` | Web | [Infleqtion](https://www.infleqtion.com/) | `Processed` |  - |
+| 2. Collaborators | - | Infleqtion | `www.infleqtion.com` | Web | [Infleqtion](https://www.infleqtion.com/) | `Processed` | company:Infleqtion |
 | 2. Collaborators | - | Infleqtion — About Us | `infleqtion.com` | Web | [Infleqtion — About Us](https://infleqtion.com/about/) | `Processed` |  - |
 | 2. Collaborators | - | ISO New England | `www.iso-ne.com` | Web | [ISO New England](https://www.iso-ne.com/) | `Processed` |  - |
 | 2. Collaborators | - | Kitware | `www.kitware.com` | Web | [Kitware](https://www.kitware.com/) | `Processed` |  - |
