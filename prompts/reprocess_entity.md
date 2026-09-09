@@ -12,7 +12,7 @@ The **Genesis Mission** repository maintains parallel documentation:
 |---|---|
 | `README.md` | Primary English documentation |
 | `README.de.md` | German counterpart (strict sync required) |
-| `references.md` | Source link archive |
+| `reference_coverage.md` | Tagged Master Reference Link Index (entity-tagged source archive) |
 | `coverage.md` | Entity tracking & metrics |
 | `CHANGELOG.md` | Version history |
 
@@ -43,7 +43,48 @@ Confine all analysis, technical updates, and reference extraction strictly to th
 
 ---
 
-### 2️⃣ Schema Migration & Counter Increment (`coverage.md`)
+### 2️⃣ Entity Extraction & Tagging Taxonomy (`reference_coverage.md`)
+
+> 🏷️ **Links are now tracked by entity tag in `reference_coverage.md`, not as a flat list in `references.md`.**
+
+For every existing row in the Master Reference Link Index (`reference_coverage.md`), examine the combined context of:
+
+- `Category / Section`
+- `Entity / Subject`
+- `Title`
+- `Domain`
+- `Link` (via deep-dive scan of linked content)
+
+Extract and classify all matching entities using the following taxonomy.
+
+**A. Involved Companies (`company:<Name>`)**
+Scope: Commercial entities, industrial partners, compute/cloud hyperscalers, semiconductor foundries, startups, and utilities.
+Normalization: Use standard commercial aliases, such as:
+`company:NVIDIA`, `company:Microsoft`, `company:AWS`, `company:IBM`, `company:Google`, `company:Anthropic`, `company:OpenAI`, `company:GlobalFoundries`, `company:Cerebras`, `company:Groq`, `company:Atom Computing`, `company:PsiQuantum`, `company:Quantinuum`, `company:Rigetti Computing`, `company:Diraq`, `company:D-Wave`, `company:Infleqtion`, `company:SambaNova`, `company:Siemens`, `company:Everstar`, `company:Cognition`, `company:Armada`, `company:Deep Isolation`, `company:Rescale`, `company:Chemspeed`, `company:eXoZymes`, `company:TVA`, `company:ComEd`
+
+Include other clearly identifiable commercial entities when they are explicitly involved in the row or linked destination.
+
+**B. Involved Universities (`university:<Name>`)**
+Scope: Higher education institutions, colleges, academic institutes, and university-affiliated research departments.
+Normalization: Use standard university names, such as:
+`university:MIT`, `university:Stanford University`, `university:Purdue University`, `university:Penn State`, `university:Columbia University`, `university:UC Berkeley`, `university:UT Austin`, `university:Carnegie Mellon University`, `university:University of Washington`, `university:Duke University`, `university:University of Florida`, `university:UConn`, `university:Brown University`, `university:University of Colorado Boulder`, `university:Rice University`, `university:Harvard University`
+
+Include other clearly identifiable universities or academic institutions when they are explicitly involved in the row or linked destination.
+
+**C. Involved National Labs & Research Centers (`lab:<Name>`)**
+Scope: U.S. Department of Energy National Laboratories, FFRDCs, and major international research laboratories.
+Use standard abbreviations or facility names:
+`lab:ANL` (Argonne), `lab:ORNL` (Oak Ridge), `lab:LBNL` (Lawrence Berkeley), `lab:INL` (Idaho), `lab:BNL` (Brookhaven), `lab:FNAL` (Fermi), `lab:PPPL` (Princeton Plasma Physics), `lab:SLAC`, `lab:LLNL` (Lawrence Livermore), `lab:LANL` (Los Alamos), `lab:NETL` (National Energy Technology Lab), `lab:NREL` (National Renewable Energy Lab), `lab:SRNL` (Savannah River), `lab:Ames Lab`, `lab:Jefferson Lab`, `lab:CERN`, `lab:RIKEN`
+
+**Tagging mechanics:**
+- ✅ Apply one or more tags per row — a row may legitimately carry `company:`, `university:`, and `lab:` tags simultaneously if the linked content involves a multi-party collaboration.
+- ✅ Store tags in a dedicated `Tags` column in `reference_coverage.md`, comma-separated.
+- ✅ When reprocessing an entity (Step 3 below), locate its relevant links by filtering `reference_coverage.md` on its tag rather than scanning a flat, untagged list.
+- 🚫 Do not invent a tag for an entity that isn't clearly identifiable from the row's context or linked content — leave ambiguous rows untagged and flag them rather than guessing.
+
+---
+
+### 3️⃣ Schema Migration & Counter Increment (`coverage.md`)
 
 - ✅ **First-Column Insertion:** Every entity tracking table must lead with `Process Count`:
   `| Process Count | Entity | ... |`
@@ -58,7 +99,7 @@ Confine all analysis, technical updates, and reference extraction strictly to th
 
 ---
 
-### 3️⃣ Dual-Language Profile Updates
+### 4️⃣ Dual-Language Profile Updates
 
 > 🌐 **Strict Bilingual Sync:** Every `README.md` update requires an exact, fully translated counterpart in `README.de.md` under matching section hierarchies.
 
@@ -104,15 +145,16 @@ Cross-check the reprocessed entity's contributions against:
 
 ---
 
-### 4️⃣ Reference Integrity (`references.md`)
+### 5️⃣ Reference Integrity (`reference_coverage.md`)
 
 - ✅ Retain **all** historical press releases, partner announcements, and collaboration URLs.
-- ✅ Append newly sourced links under appropriate sub-headers.
+- ✅ Append newly sourced links under the appropriate entity tag(s), per the Section 2 taxonomy — not under a flat sub-header list.
+- ✅ When reprocessing an entity, pull its full link set by filtering on its tag(s) rather than searching an untagged file.
 - 🚫 Never remove existing valid links. (This does not override Step 0 — a link can be retained for its historical record while the *claim* it was cited for is corrected or flagged elsewhere in the entry.)
 
 ---
 
-### 5️⃣ Version Increment
+### 6️⃣ Version Increment
 
 Bump the patch version on **line 1** of both `README.md` and `README.de.md` synchronously:
 
@@ -123,17 +165,18 @@ Bump the patch version on **line 1** of both `README.md` and `README.de.md` sync
 
 ---
 
-### 6️⃣ Changelog Entry (`CHANGELOG.md`)
+### 7️⃣ Changelog Entry (`CHANGELOG.md`)
 
 Document under the active version:
 - The reprocessed entity name
 - The `Process Count` schema migration
+- The tag(s) applied/updated in `reference_coverage.md` for this entity
 - Specific technical additions applied to **both** English and German docs
 - Any corrections or removals made during the Step 0 verification pass
 
 ---
 
-### 7️⃣ Release Management Policy
+### 8️⃣ Release Management Policy
 
 > 🚫 Do **NOT** run `git tag` or `git push`.
 
@@ -164,6 +207,8 @@ Tagging and release deployment remain isolated to `prompts/release_and_tag.md`.
 > * **Grants & Commitments:** Founded in Seattle around 2008, incorporated in Washington State in 2012; operates the Hill Topper e-bike kit line and Dakota Lithium LFP battery brand with R&D/pilot manufacturing in Grand Forks, ND, co-located with UND. Prior support: $2M DOE award (Dec 2024) under the $25M Platform Technologies for Transformative Battery Manufacturing program (with Boise State University and Savannah River National Laboratory); ND Industrial Commission grant of $238,366 to UND, matched by $457,873 in company funds. Under Genesis: industry collaborator (not prime awardee) on the nine-month Phase I effort led by UND Assistant Professor Jielun Zhang, with co-investigators Jueming Hu, Feng Ye (UW–Madison), and Fuhao Li (La Sierra University).
 > * **Technical Capabilities:** LiFePO4 deep-cycle packs (12V/24V/48V classes) with integrated BMS (cell balancing, over-charge/discharge & short-circuit protection, thermal management). Dakota Lithium Materials develops long-cycle-life iron-phosphate cathode powders (6,000–10,000 cycle target vs. ~2,000-cycle baseline) via dry-process resonant acoustic mixing (RAM); the Dec 2024 DOE award extends this to sodium iron phosphate cathodes.
 > * **Mission Domains:** Targets adversarial attacks on AI-based battery management (manipulated telemetry, poisoned training data, cyber intrusion). Delivers standardized adversarial testing, compromised-data detection, and federated learning across organizations without centralizing proprietary telemetry. Real fielded pack/cell/BMS data ground the framework; methodology generalizes to grid-edge storage, autonomous lab instrumentation, and sensor-driven experimental control.
+>
+> **Tags (`reference_coverage.md`):** `company:Dakota Lithium`, `lab:SRNL`, `university:Boise State University`
 
 > ⚠️ **Illustrative note (added by verification pass):** This worked example is a template for format only. If used as a live entry, re-verify current corporate status before publishing — company ownership and operating structure can change between processing passes (see Step 0), and a profile written at one point in time may not reflect the entity's status at the time of reprocessing.
 
@@ -177,6 +222,8 @@ Tagging and release deployment remain isolated to `prompts/release_and_tag.md`.
 > * **Zuschüsse & Verpflichtungen:** Gegründet um 2008 in Seattle, 2012 in Washington eingetragen; betreibt Hill Topper und die Marke Dakota Lithium mit Forschungs-/Pilotfertigung in Grand Forks, ND, in Kooperation mit der UND. Bisherige Förderung: 2 Mio. USD DOE-Förderung (Dez. 2024) im 25-Mio.-USD-Programm „Platform Technologies for Transformative Battery Manufacturing"; ND-Zuschuss von 238.366 USD, ergänzt durch 457.873 USD Eigenmittel. Im Rahmen von Genesis: Industriepartner (nicht Hauptzuwendungsempfänger) unter Leitung von UND-Assistant Professor Jielun Zhang.
 > * **Technische Kapazitäten:** LiFePO4-Deep-Cycle-Packs (12V/24V/48V) mit integriertem BMS. Dakota Lithium Materials entwickelt langlebige Eisenphosphat-Kathodenpulver (Ziel: 6.000–10.000 Zyklen) via Trocken-RAM-Verfahren; Erweiterung auf Natrium-Eisenphosphat-Kathoden.
 > * **Missionsdomänen:** Adressiert Angriffsflächen des KI-gestützten Batteriemanagements; liefert Testverfahren, Erkennung manipulierter Daten und Federated-Learning-Architekturen. Überträgt sich auf dezentrale Netzspeicherung, autonome Laborinstrumentierung, sensorgeführte experimentelle Steuerung.
+>
+> **Tags (`reference_coverage.md`):** `company:Dakota Lithium`, `lab:SRNL`, `university:Boise State University`
 
 > ⚠️ **Hinweis (aus der Verifizierungsprüfung):** Dieses Beispiel dient nur als Formatvorlage. Bei Verwendung als aktiver Eintrag muss der aktuelle Unternehmensstatus vor Veröffentlichung erneut geprüft werden — Eigentumsverhältnisse und Unternehmensstruktur können sich zwischen Verarbeitungsdurchläufen ändern (siehe Schritt 0).
 
@@ -189,10 +236,12 @@ Tagging and release deployment remain isolated to `prompts/release_and_tag.md`.
 - [ ] **Step 0 verification pass completed:** all existing facts for the target entity re-checked against primary sources, not just new additions
 - [ ] Any disproven, outdated, or unconfirmed existing claims corrected, removed, or flagged in both languages
 - [ ] Corrections logged separately in `CHANGELOG.md`
-- [ ] Repository files accessible (README.md, README.de.md, coverage.md, references.md, CHANGELOG.md)
+- [ ] Repository files accessible (README.md, README.de.md, coverage.md, reference_coverage.md, CHANGELOG.md)
 - [ ] Target entity identified
 - [ ] Primary source document confirmed (top-level only, no child papers)
 - [ ] All new facts verified against primary sources
+- [ ] Target entity's links located in `reference_coverage.md` via its tag(s), not by scanning a flat list
+- [ ] Any newly sourced links appended under the correct tag(s)
 - [ ] Bilingual sync confirmed
 - [ ] Version bumped in both README files
 - [ ] Changelog entry drafted
