@@ -1,9 +1,9 @@
 # Genesis Mission — Full Ecosystem Coverage Tracker
 
 > **Scope & Coverage Definition:**
-> - **Flagship Consortium Scope:** Tracks **all 246 primary flagship participants**—lead contractors, federal agencies, national laboratories, awardee universities, strategic industrial partners, and philanthropic foundations—explicitly profiled or referenced in the Genesis Mission paper (`README.md`) and reference index.
+> - **Flagship Consortium Scope:** Tracks **all 247 primary flagship participants**—lead contractors, federal agencies, national laboratories, awardee universities, strategic industrial partners, and philanthropic foundations—explicitly profiled or referenced in the Genesis Mission paper (`README.md`) and reference index.
 > - **Broader National Awardee Network Context:** Under solicitation DE-FOA-0003612 and interagency challenges, the broader national initiative encompasses **342 total participating institutions** (157 companies, 142 universities, 16 national labs, 13 non-profits, 14 other entities across 278 projects).
-> - **Coverage Status:** **217 / 246 (88.2%)** of the tracked consortium entities have dedicated, detailed technical profiles.
+> - **Coverage Status:** **217 / 247 (87.9%)** of the tracked consortium entities have dedicated, detailed technical profiles.
 
 **Legend:**
 - ✅ **Full Profile** — Dedicated section with detailed technical write-up (Sections 2.2 / 3.1 / 3.2 / 3.3 / 3.4 / 3.5)
@@ -128,6 +128,7 @@
 | 0 | [Aclara Technologies](https://www.aclara-resources.com/) | ✅ Full Profile | §3.1, A.3 | Genesis Mission Phase I award (DE-FOA-0003612) for AI-enabled multi-feed heavy rare earth separation; Virginia Tech separation pilot plant; AI-assisted solvent extraction digital twin with Argonne for domestic Dy/Tb recovery |
 | 0 | [Deep Isolation](https://www.deepisolation.com/) | ✅ Full Profile | §3.1, A.3 | Deep borehole disposal & Universal Canister System (UCS) developer; sole industrial partner on three Genesis Mission awards (GeoTrace and a digital-twin repository design project with LBNL, AI-STRATA3D with the University of South Carolina) for AI-driven repository siting, fatal flaw screening & performance analysis |
 | 0 | [Hydro-Québec](https://www.hydroquebec.com/) | ❌ Not Covered | — | Canadian public electric utility and transmission system operator; collaborating institution on the Brookhaven-led $14.2M Genesis Mission Phase II grid foundation model (GridFM) project *Foundation Models for the Electric Grid: From Proof of Concept to Real-world Impacts* (reference only) |
+| 0 | [NuScale Power](https://www.newswise.com/articles/unlv-college-of-engineering-project-selected-for-prestigious-genesis-mission) | ❌ Not Covered | — | Small modular reactor (SMR) developer and industry collaborator on the UNLV-led Genesis Mission Phase I project *LLM-based agentic AI assistant to automatically generate the input deck for severe accident system codes*, whose first phase applies the agentic MELCOR input-deck generator to a single NuScale design and validates it against a safety analysis completed manually under another DOE program; named for provenance of the project team only, no Genesis Mission award of its own (reference only) |
 
 ---
 
@@ -271,7 +272,7 @@
 | 0 | [University of Missouri](https://missouri.edu/) | ✅ Full Profile | §3.3, A.5 | Radioisotope production accelerators, nuclear medicine R&D & plant phenomics AI |
 | 0 | [University of Nebraska–Lincoln](https://www.unl.edu/) | ✅ Full Profile | §3.3, A.5 | AI-driven "autopilot" co-designer for 6G Radio Access Networks (RAN) |
 | 0 | [University of New Mexico](https://www.unm.edu/) | ✅ Full Profile | §3.3, A.5 | Quantum information science, optics fabrication & Sandia/Los Alamos national lab co-R&D |
-| 0 | [University of Nevada, Las Vegas (UNLV)](https://www.unlv.edu/) | ✅ Full Profile | §3.3, A.5 | $750K Phase I AI automation for MELCOR nuclear reactor safety simulations |
+| 1 | [University of Nevada, Las Vegas (UNLV)](https://www.unlv.edu/) | ✅ Full Profile | §3.3, A.5 | $750K Phase I AI automation for MELCOR nuclear reactor safety simulations; Newswise-syndicated project factsheet adds the official project title *LLM-based agentic AI assistant to automatically generate the input deck for severe accident system codes*, the MELCOR provenance (severe-accident system code developed by Sandia National Laboratories for the Nuclear Regulatory Commission), the Phase 1 benchmark on a NuScale Power SMR design validated against a safety analysis completed manually under another DOE program, the multi-institution team roster (Junggab Son — UNLV computer science/LLM; Juliana Duarte & Ben Lindley — UW–Madison nuclear engineering; Brandon Alexander De Luna — SNL; Kent Welter — NuScale Power), and the three-year multimillion-dollar Phase II expansion path |
 | 0 | [University of North Dakota (UND)](https://und.edu/) | ✅ Full Profile | §3.3, A.5 | 2 Genesis awards: rare earth mineral extraction from coal ash & autonomous energy AI |
 | 0 | [University of Pittsburgh](https://www.pitt.edu/) | ✅ Full Profile | §3.3, A.5 | Computational drug discovery foundation models, vascular bio-foundries & SciML |
 | 0 | [University of Southern California (USC)](https://usc.edu/) | ✅ Full Profile | §3.3, A.5 | Quantum annealing algorithms, microelectronics reliability & autonomous AI agents |
@@ -341,20 +342,20 @@
 
 | Entity Type | Total | ✅ Full | 📋 Brief | ❌ Not Covered |
 |:---|:---:|:---:|:---:|:---:|
-| Industry Partners | 96 | 94 | 0 | 2 |
+| Industry Partners | 97 | 94 | 0 | 3 |
 | Federal Agencies | 11 | 11 | 0 | 0 |
 | National Laboratories & Defense Sites | 26 | 24 | 0 | 2 |
 | Universities | 95 | 76 | 0 | 19 |
 | Philanthropy, Policy & Regional Hubs | 18 | 12 | 0 | 6 |
-| **Total** | **246** | **217** | **0** | **29** |
+| **Total** | **247** | **217** | **0** | **30** |
 
 ### By Coverage Level
 
 | Coverage Level | Count | Percentage |
 |:---|:---:|:---:|
-| ✅ Full Profile | 217 | 88.2% |
+| ✅ Full Profile | 217 | 87.9% |
 | 📋 Brief Mention | 0 | 0.0% |
-| ❌ Not Covered | 29 | 11.8% |
-| **Total Entities** | **246** | **100%** |
+| ❌ Not Covered | 30 | 12.1% |
+| **Total Entities** | **247** | **100%** |
 
-> **Note:** The tracker now covers 246 Genesis Mission ecosystem participants, with 217 entities in dedicated technical write-ups (88.2% full-profile coverage). George Washington University, Brown University, Heidelberg University, Howard University, European Coalition for AI in Fundamental Physics (EuCAIF), Colorado School of Mines, UC San Diego, University of Delaware, University of Hawaiʻi at Mānoa, University of Massachusetts Amherst, University of Washington, Boise State University, St. Joseph's University, New York, Kent State University, Southeastern Universities Research Association (SURA), ORISE, Energy Sciences Coalition (ESC), Krell Institute, La Sierra University, Joint Genome Institute (JGI), the University of North Carolina at Chapel Hill (UNC-Chapel Hill), Washington University in St. Louis (WashU), the National Reactor Innovation Center (NRIC), Hydro-Québec, The Catholic University of America (CUA), Old Dominion University, the Massachusetts Institute of Technology (MIT), Quantum Machines and ClearPath remain registered as reference-only participants. The broader sub-grantee network of 342 participating institutions represents secondary academic and sub-contractor nodes across the 278 national project awards.
+> **Note:** The tracker now covers 247 Genesis Mission ecosystem participants, with 217 entities in dedicated technical write-ups (87.9% full-profile coverage). George Washington University, Brown University, Heidelberg University, Howard University, European Coalition for AI in Fundamental Physics (EuCAIF), Colorado School of Mines, UC San Diego, University of Delaware, University of Hawaiʻi at Mānoa, University of Massachusetts Amherst, University of Washington, Boise State University, St. Joseph's University, New York, Kent State University, Southeastern Universities Research Association (SURA), ORISE, Energy Sciences Coalition (ESC), Krell Institute, La Sierra University, Joint Genome Institute (JGI), the University of North Carolina at Chapel Hill (UNC-Chapel Hill), Washington University in St. Louis (WashU), the National Reactor Innovation Center (NRIC), Hydro-Québec, The Catholic University of America (CUA), Old Dominion University, the Massachusetts Institute of Technology (MIT), Quantum Machines, ClearPath and NuScale Power remain registered as reference-only participants. The broader sub-grantee network of 342 participating institutions represents secondary academic and sub-contractor nodes across the 278 national project awards.

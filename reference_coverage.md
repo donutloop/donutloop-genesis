@@ -1,7 +1,7 @@
 # Genesis Mission — Master Reference Coverage Report
 
 > **Document Overview:**
-> This report provides a comprehensive coverage analysis, breakdown, and master audit index for the **662 external reference links** compiled within `references.md` for the **Genesis Mission** documentation repository.
+> This report provides a comprehensive coverage analysis, breakdown, and master audit index for the **663 external reference links** compiled within `references.md` for the **Genesis Mission** documentation repository.
 
 ---
 
@@ -9,13 +9,13 @@
 
 | Metric | Count / Value | Description |
 | :--- | :--- | :--- |
-| **Total Reference Links** | **662** | Unique external links indexed across all sections |
+| **Total Reference Links** | **663** | Unique external links indexed across all sections |
 | **Primary Document Sections** | **7** | High-level thematic categories in `references.md` |
 | **Unique Target Domains** | **316** | Distinct domain names referenced (government, lab, corporate, academic, news) |
 | **Official PDF Documents** | **24** | Formal RFA solicitations, webinars, slides, and executive reports |
-| **Web Portals & Press Releases** | **638** | Newsroom features, corporate blog posts, and interactive hubs |
+| **Web Portals & Press Releases** | **639** | Newsroom features, corporate blog posts, and interactive hubs |
 | **Validation Status** | **100% Validated** | All links canonicalized, formatted, and deduplicated |
-| **Processing Status** | **662 / 662 Processed** | 0 Unprocessed, 662 Processed (100% Complete) |
+| **Processing Status** | **663 / 663 Processed** | 0 Unprocessed, 663 Processed (100% Complete) |
 
 ---
 
@@ -27,7 +27,7 @@
 | `2. Collaborators` | **80** | 12.1% | Official homepage & announcement links for industrial/energy partners |
 | `3. Quantum Leadership & CHIPS Act Initiatives` | **11** | 1.7% | Department of Commerce NIST LOIs & DOE $2B quantum initiatives |
 | `4. Executive, Federal & Partner Announcements` | **187** | 28.2% | White House releases, Cabinet agency press, hyperscaler & lab announcements |
-| `5. National Labs & University Coverage` | **342** | 51.7% | National Laboratory news portals & 72 awardee university press releases |
+| `5. National Labs & University Coverage` | **343** | 51.7% | National Laboratory news portals & 72 awardee university press releases |
 | `6. Additional Event Materials & Reference Links` | **18** | 2.7% | Presentation slide decks, institutional intro files & video recordings |
 | `7. Technical Documents, RFA Guidance & Official Webinars` | **21** | 3.2% | DE-FOA-0003612 solicitations, OSTP challenge papers, SCAC presentations & peer-reviewed AI-for-science research |
 
@@ -52,7 +52,7 @@ Below is the distribution of references grouped by top domain hosts and institut
 | `blogs.nvidia.com` | **6** | NVIDIA Corporation | Solstice/Equinox supercomputers, National Quantum Initiative, NSF AI Hubs, AI leadership |
 | `www.lanl.gov` | **6** | Los Alamos National Laboratory (LANL) | Weapons hydrodynamics, plutonium aging AI, high-explosives R&D |
 | `www.youtube.com` | **6** | YouTube | Genesis Mission summit, technical presentation, webinar, and national-laboratory video recordings |
-| `www.newswise.com` | **6** | Scientific News Distribution Network (Newswise) | Argonne, PPPL, Georgia Tech DOE Genesis press releases |
+| `www.newswise.com` | **7** | Scientific News Distribution Network (Newswise) | Argonne, PPPL, Georgia Tech and UNLV (`WooHyun Jung` agentic **MELCOR** severe-accident input-deck project) DOE Genesis press releases |
 | `aws.amazon.com` | **5** | Amazon Web Services (AWS) | Public sector HPC credits, quantum post-quantum security, and the federal Government Accelerator Initiatives intake portal (Genesis & Warfighter accelerators) |
 | `www.pppl.gov` | **5** | Princeton Plasma Physics Lab (PPPL) | Stellarator optimization, fusion plasma turbulence AI |
 | `www.cmu.edu` | **5** | University Newsroom | Carnegie Mellon University newsroom featuring researchers leading three Genesis awards, autonomous lab integration, AI science foundry, the America250 future-building initiative, and Dietrich College AI news on the Genesis-funded statistics/AI project for Vera C. Rubin Observatory cosmology |
@@ -825,3 +825,4 @@ A tabular master index for the reference collection:
 | 5. National Labs & University Coverage | Lawrence Berkeley National Laboratory (LBNL) | Super Intelligence for Particle Accelerators Gets Another Boost | `newscenter.lbl.gov` | Web | [Super Intelligence for Particle Accelerators Gets Another Boost](https://newscenter.lbl.gov/2026/10/08/super-intelligence-for-particle-accelerators-gets-another-boost/) | `Processed` | lab:LBNL, gov:DOE, consortium:Genesis, person:Jean-Luc Vay, person:Thorsten Hellert |
 | 5. National Labs & University Coverage | Fermi National Accelerator Laboratory (Fermilab) | Fermilab to lead two new Genesis Mission awards to accelerate development of microelectronics and quantum | `news.fnal.gov` | Web | [Fermilab to lead two new Genesis Mission awards to accelerate development of microelectronics and quantum](https://news.fnal.gov/2026/10/fermilab-to-lead-two-new-genesis-mission-awards-to-accelerate-development-of-microelectronics-and-quantum/) | `Processed` | lab:Fermilab, gov:DOE, consortium:Genesis, company:IBM, company:NVIDIA, company:Quantum Machines, org:MIT, org:Purdue University, person:Anna Grassellino, person:Norbert Holtkamp |
 | 4. Executive, Federal & Partner Announcements | Emma Quigg — DOE Office of Science | DOE Office of Science: Emma Quigg, Chief of Staff | `www.energy.gov` | Web | [DOE Office of Science: Emma Quigg, Chief of Staff](https://www.energy.gov/person/emma-quigg) | `Processed` | gov:DOE, consortium:Genesis, person:Emma Quigg, org:ClearPath, org:Duke University |
+| 5. National Labs & University Coverage | University of Nevada, Las Vegas (UNLV) | UNLV College of Engineering Project Selected for Prestigious Genesis Mission (Newswise) | `www.newswise.com` | Web | [UNLV College of Engineering Project Selected for Prestigious Genesis Mission (Newswise)](https://www.newswise.com/articles/unlv-college-of-engineering-project-selected-for-prestigious-genesis-mission) | `Processed` | org:UNLV, gov:DOE, gov:NRC, consortium:Genesis, lab:SNL, company:NuScale Power, org:University of Wisconsin-Madison, person:WooHyun Jung, person:Junggab Son, person:Juliana Duarte, person:Ben Lindley, person:Brandon Alexander De Luna, person:Kent Welter, person:Chris Wright |
