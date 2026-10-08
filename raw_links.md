@@ -1,4 +1,3 @@
-* https://www.newswise.com/articles/srnl-s-advanced-manufacturing-collaborative-celebrates-first-year-as-nexus-of-innovation
 * https://www.prnewswire.com/news-releases/hiddenlayer-selected-to-support-does-60-million-prometheus-initiative-under-the-genesis-mission-302853514.html
 * https://www.energy.gov/undersecretaryforscience/person/shawn-whitman
 * https://www.nlr.gov/news/detail/press/2026/nlr-awarded-12-genesis-mission-projects-ranging-from-semiconductors-to-alaska-utility-optimization
