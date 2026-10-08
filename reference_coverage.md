@@ -1,7 +1,7 @@
 # Genesis Mission — Master Reference Coverage Report
 
 > **Document Overview:**
-> This report provides a comprehensive coverage analysis, breakdown, and master audit index for the **673 external reference links** compiled within `references.md` for the **Genesis Mission** documentation repository.
+> This report provides a comprehensive coverage analysis, breakdown, and master audit index for the **674 external reference links** compiled within `references.md` for the **Genesis Mission** documentation repository.
 
 ---
 
@@ -9,13 +9,13 @@
 
 | Metric | Count / Value | Description |
 | :--- | :--- | :--- |
-| **Total Reference Links** | **673** | Unique external links indexed across all sections |
+| **Total Reference Links** | **674** | Unique external links indexed across all sections |
 | **Primary Document Sections** | **7** | High-level thematic categories in `references.md` |
-| **Unique Target Domains** | **318** | Distinct domain names referenced (government, lab, corporate, academic, news) |
+| **Unique Target Domains** | **319** | Distinct domain names referenced (government, lab, corporate, academic, news) |
 | **Official PDF Documents** | **24** | Formal RFA solicitations, webinars, slides, and executive reports |
-| **Web Portals & Press Releases** | **649** | Newsroom features, corporate blog posts, and interactive hubs |
+| **Web Portals & Press Releases** | **650** | Newsroom features, corporate blog posts, and interactive hubs |
 | **Validation Status** | **100% Validated** | All links canonicalized, formatted, and deduplicated |
-| **Processing Status** | **673 / 673 Processed** | 0 Unprocessed, 673 Processed (100% Complete) |
+| **Processing Status** | **674 / 674 Processed** | 0 Unprocessed, 674 Processed (100% Complete) |
 
 ---
 
@@ -26,8 +26,8 @@
 | `1. Key Presentation Details` | **3** | 0.4% | Briefing agendas, U.S. ATLAS IB meeting details & CERN links |
 | `2. Collaborators` | **80** | 11.9% | Official homepage & announcement links for industrial/energy partners |
 | `3. Quantum Leadership & CHIPS Act Initiatives` | **11** | 1.6% | Department of Commerce NIST LOIs & DOE $2B quantum initiatives |
-| `4. Executive, Federal & Partner Announcements` | **189** | 28.1% | White House releases, Cabinet agency press, hyperscaler & lab announcements |
-| `5. National Labs & University Coverage` | **351** | 52.2% | National Laboratory news portals & 72 awardee university press releases |
+| `4. Executive, Federal & Partner Announcements` | **189** | 28.0% | White House releases, Cabinet agency press, hyperscaler & lab announcements |
+| `5. National Labs & University Coverage` | **352** | 52.2% | National Laboratory news portals & 72 awardee university press releases |
 | `6. Additional Event Materials & Reference Links` | **18** | 2.7% | Presentation slide decks, institutional intro files & video recordings |
 | `7. Technical Documents, RFA Guidance & Official Webinars` | **21** | 3.1% | DE-FOA-0003612 solicitations, OSTP challenge papers, SCAC presentations & peer-reviewed AI-for-science research |
 
@@ -157,6 +157,7 @@ Below is the distribution of references grouped by top domain hosts and institut
 | `disruptions.mit.edu` | **1** | MIT Plasma Science and Fusion Center — Disruption Studies Group | *Disruptions @ MIT PSFC* reproduction of the MIT News Genesis Mission Phase I selection story (15 MIT-involved projects, 6 MIT-led, 9 MIT participations, MIT-led **CATALYST** sim-to-experiment transfer led by PSFC data-science division head **Cristina Rea**) |
 | `research.uoregon.edu` | **1** | University of Oregon — Office of the Vice President for Research and Innovation | UO Research and Innovation feature on physicist **Stephanie Majewski**'s **$662,000 Genesis Mission Phase I** award for **MANGO** (*Monte Carlo Acceleration via Normalizing Flows using GPU Optimization*) — AI-rethought Monte Carlo event generation for CERN's Large Hadron Collider, with collaborators at Brown University and Brookhaven National Laboratory |
 | `engineering.wisc.edu` | **3** | University of Wisconsin–Madison — College of Engineering | UW–Madison College of Engineering newsroom: the David Smith real-time plasma-control award, the Ye AI-cyber-threat project, and the 22 Jul 2026 fusion feature on Paul Wilson's AI/ML **breeding-blanket** design optimization and the Smith–Joung–Coffee (SLAC) **DIII-D National Fusion Facility** real-time plasma-data project, plus the Realta Fusion and SHINE Technologies spinoff awards and the Pettee / Nghiem / Sinclair–Venkataraman campus portfolio |
+| `sbmatters.stonybrook.edu` | **1** | Stony Brook University — *Stony Brook Matters* (Advancement) | The alumni & friends publication's *Excellence* feature on Stony Brook's **five inaugural Genesis Mission awards** (**more than $2.41 million** combined): the three university-led projects of **Jan C. Bernauer** (transferable particle-tracking foundation models, with BNL & ANL), **Emre Salman** (self-healing radiation-tolerant HEP readout electronics, $700,000, with BNL & Indiana University) and **Shikui Chen** (geometry-informed wide-bandgap power-module co-design, $723,076, with Sandia & GE Vernova), plus the **Nengkun Yu** neuro-symbolic scientific-code subaward ($99,999, Johns Hopkins-led) and the **Anatoly Frenkel** alkane-feedstock agentic-digital-twin subaward ($750,000 team total, via BNL with Penn State, Georgia Tech & ExxonMobil); also carries the **22 Jul 2026 Genesis Mission Summit** launch at the Capital Hilton with **Hendrik Hamann**'s "How AI Is Transforming the Electrical Grid" technical keynote, the **89-submission** institutional mobilization (**40** led / **49** collaborative across **16 research areas**) and the **278-awardees-from-5,000+** selection funnel |
 
 ---
 
@@ -840,3 +841,4 @@ A tabular master index for the reference collection:
 | 4. Executive, Federal & Partner Announcements | National Science Foundation (NSF) — AI Datasets Program | NSF 26-512: Unlocking Dataset Value for AI-Enabled Scientific Discovery (AI Datasets) — Program Solicitation | `www.nsf.gov` | Web | [NSF 26-512: Unlocking Dataset Value for AI-Enabled Scientific Discovery (AI Datasets) — Program Solicitation](https://www.nsf.gov/funding/opportunities/ai-datasets-unlocking-dataset-value-ai-enabled-scientific-discovery/nsf26-512/solicitation) | `Processed` | gov:NSF, gov:White House OSTP, consortium:Genesis, program:AI-Datasets, program:NSF-IDSS, project:NAIRR, doc:Program-Solicitation, solicitation:NSF-26-512, policy:America-AI-Action-Plan, policy:EO-14332, directorate:NSF-CISE, directorate:NSF-BIO, directorate:NSF-ENG, directorate:NSF-GEO, directorate:NSF-MPS, directorate:NSF-TIP, org:NSF-Office-of-Research-Infrastructure, award:Impact, award:Flagship, award:Planning |
 | 5. National Labs & University Coverage | RTI International — TechWerx (Genesis Mission Consortium operator) | Accelerating AI for Scientific Discovery: The Genesis Mission | `www.rti.org` | Web | [Accelerating AI for Scientific Discovery: The Genesis Mission](https://www.rti.org/impact/ai-scientific-discovery-genesis-mission) | `Processed` | org:RTI International, org:TechWerx, gov:DOE, consortium:Genesis, person:Adam Klich, person:Amy Volckens, person:Carmen Strigel, person:Ivy Estabrooke |
 | 5. National Labs & University Coverage | University of Wisconsin–Madison (UW-Madison) — College of Engineering | With Funding from DOE Genesis Mission, UW-Madison Engineers to Lead Projects Aimed at Advancing Fusion | `engineering.wisc.edu` | Web | [With Funding from DOE Genesis Mission, UW-Madison Engineers to Lead Projects Aimed at Advancing Fusion](https://engineering.wisc.edu/news/with-funding-from-doe-genesis-mission-uw-madison-engineers-to-lead-projects-aimed-at-advancing-fusion/) | `Processed` | org:University of Wisconsin-Madison, org:Realta Fusion, company:SHINE Technologies, company:Ekion Pty Ltd, company:Thunderstone Inc., facility:DIII-D National Fusion Facility, lab:SLAC, lab:ANL, lab:Fermilab, lab:ORNL, org:Carnegie Mellon University, org:University of Kentucky, org:University of Virginia, org:Stanford University, org:MIT, gov:DOE, consortium:Genesis, person:Paul Wilson, person:David Smith, person:Benedikt Geiger, person:Semin Joung, person:Ryan Coffee, person:Devesh Ranjan, person:Dorota Brzezinska, person:Mariel Pettee, person:Athena Nghiem, person:Matt Sinclair, person:Shivaram Venkataraman |
+| 5. National Labs & University Coverage | Stony Brook University — *Stony Brook Matters* (Office of Advancement) | Stony Brook University Researchers Chosen for Landmark DOE Genesis Mission AI-for-Science Awards | `sbmatters.stonybrook.edu` | Web | [Stony Brook University Researchers Chosen for Landmark DOE Genesis Mission AI-for-Science Awards](https://sbmatters.stonybrook.edu/stony-brook-university-researchers-chosen-for-landmark-doe-genesis-mission-ai-for-science-awards/) | `Processed` | org:Stony Brook University, lab:BNL, lab:ANL, lab:SNL, org:Indiana University, org:Johns Hopkins University, org:Penn State University, org:Georgia Tech, company:ExxonMobil, company:GE Vernova, gov:DOE, consortium:Genesis, event:Genesis Mission Summit, facility:Capital Hilton, person:Jan C. Bernauer, person:Emre Salman, person:Shikui Chen, person:Nengkun Yu, person:Anatoly Frenkel, person:Hendrik Hamann, person:Andrea Goldsmith, person:Mónica Bugallo |

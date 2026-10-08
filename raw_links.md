@@ -1,8 +1,6 @@
 * https://www.energy.gov/undersecretaryforscience/person/shawn-whitman
-* https://sbmatters.stonybrook.edu/stony-brook-university-researchers-chosen-for-landmark-doe-genesis-mission-ai-for-science-awards/
 * https://news.stanford.edu/stories/2026/06/slac-data-doe-genesis-mission
 * https://research.wsu.edu/advancement/funding/limited-submission-applications/doe-genesis-mission/?hl=en-US
-* https://sbmatters.stonybrook.edu/stony-brook-university-researchers-chosen-for-landmark-doe-genesis-mission-ai-for-science-awards/
 * https://research.wsu.edu/advancement/funding/limited-submission-applications/doe-genesis-mission/
 * https://news.stanford.edu/stories/2026/07/stanford-and-slac-to-lead-genesis-mission-projects-that-tackle-the-nation-s-most-complex-science-and-technology-challenges
 * https://www.llnl.gov/news/highlights/ai
