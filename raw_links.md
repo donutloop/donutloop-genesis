@@ -1,6 +1,4 @@
 * https://www.energy.gov/undersecretaryforscience/person/shawn-whitman
-* https://research.wsu.edu/advancement/funding/limited-submission-applications/doe-genesis-mission/?hl=en-US
-* https://research.wsu.edu/advancement/funding/limited-submission-applications/doe-genesis-mission/
 * https://news.stanford.edu/stories/2026/07/stanford-and-slac-to-lead-genesis-mission-projects-that-tackle-the-nation-s-most-complex-science-and-technology-challenges
 * https://www.llnl.gov/news/highlights/ai
 * https://news.gatech.edu/news/2026/08/03/georgia-tech-lead-national-cloud-laboratory-advanced-manufacturing-and-materials
