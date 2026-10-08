@@ -1,7 +1,7 @@
 # Genesis Mission — Master Reference Coverage Report
 
 > **Document Overview:**
-> This report provides a comprehensive coverage analysis, breakdown, and master audit index for the **665 external reference links** compiled within `references.md` for the **Genesis Mission** documentation repository.
+> This report provides a comprehensive coverage analysis, breakdown, and master audit index for the **666 external reference links** compiled within `references.md` for the **Genesis Mission** documentation repository.
 
 ---
 
@@ -9,13 +9,13 @@
 
 | Metric | Count / Value | Description |
 | :--- | :--- | :--- |
-| **Total Reference Links** | **665** | Unique external links indexed across all sections |
+| **Total Reference Links** | **666** | Unique external links indexed across all sections |
 | **Primary Document Sections** | **7** | High-level thematic categories in `references.md` |
 | **Unique Target Domains** | **316** | Distinct domain names referenced (government, lab, corporate, academic, news) |
 | **Official PDF Documents** | **24** | Formal RFA solicitations, webinars, slides, and executive reports |
-| **Web Portals & Press Releases** | **641** | Newsroom features, corporate blog posts, and interactive hubs |
+| **Web Portals & Press Releases** | **642** | Newsroom features, corporate blog posts, and interactive hubs |
 | **Validation Status** | **100% Validated** | All links canonicalized, formatted, and deduplicated |
-| **Processing Status** | **665 / 665 Processed** | 0 Unprocessed, 665 Processed (100% Complete) |
+| **Processing Status** | **666 / 666 Processed** | 0 Unprocessed, 666 Processed (100% Complete) |
 
 ---
 
@@ -26,8 +26,8 @@
 | `1. Key Presentation Details` | **3** | 0.5% | Briefing agendas, U.S. ATLAS IB meeting details & CERN links |
 | `2. Collaborators` | **80** | 12.0% | Official homepage & announcement links for industrial/energy partners |
 | `3. Quantum Leadership & CHIPS Act Initiatives` | **11** | 1.7% | Department of Commerce NIST LOIs & DOE $2B quantum initiatives |
-| `4. Executive, Federal & Partner Announcements` | **188** | 28.3% | White House releases, Cabinet agency press, hyperscaler & lab announcements |
-| `5. National Labs & University Coverage` | **344** | 51.7% | National Laboratory news portals & 72 awardee university press releases |
+| `4. Executive, Federal & Partner Announcements` | **188** | 28.2% | White House releases, Cabinet agency press, hyperscaler & lab announcements |
+| `5. National Labs & University Coverage` | **345** | 51.8% | National Laboratory news portals & 72 awardee university press releases |
 | `6. Additional Event Materials & Reference Links` | **18** | 2.7% | Presentation slide decks, institutional intro files & video recordings |
 | `7. Technical Documents, RFA Guidance & Official Webinars` | **21** | 3.2% | DE-FOA-0003612 solicitations, OSTP challenge papers, SCAC presentations & peer-reviewed AI-for-science research |
 
@@ -66,7 +66,7 @@ Below is the distribution of references grouped by top domain hosts and institut
 | `indico.cern.ch` | **3** | CERN Indico Event System | U.S. ATLAS IB meeting slides, DOE-HEP presentation files |
 | `psiquantum.com` | **3** | PsiQuantum | Photonic quantum computing hardware, Commerce LOI |
 | `news.arizona.edu` | **3** | University Newsroom | University of Arizona Genesis Mission awards, advisory committee appointment, and Suresh Garimella's congressional funding call |
-| `www.nlr.gov` | **3** | National Renewable Energy Laboratory (NREL/NLR) | Computational Science Genesis Mission Hub, AI-driven grid and supply-chain research feature, and the Steve Hammond Q&A on AI data center energy, liquid cooling, and grid-flexibility solutions |
+| `www.nlr.gov` | **4** | National Laboratory of the Rockies / National Renewable Energy Laboratory (NREL/NLR) | Computational Science Genesis Mission Hub, AI-driven grid and supply-chain research feature, the Steve Hammond Q&A on AI data center energy, liquid cooling, and grid-flexibility solutions, and the **12 Genesis Mission Phase I RFA project awards** news release (four NLR-led projects with Caltech, Lila Sciences, the DOE ARM user facility, WashU and Georgia Tech; director **Jud Virden**) |
 | `sambanova.ai` | **3** | SambaNova Systems | Corporate homepage, AI-for-Science Reconfigurable Dataflow Architecture solutions page, and the Genesis Mission Consortium membership announcement |
 | `www.colorado.edu` | **3** | University Newsroom | CU Boulder Today — University of Colorado Boulder newsroom |
 | `www.boisestate.edu` | **2** | Boise State University | Office of Sponsored Programs & DRED |
@@ -829,3 +829,4 @@ A tabular master index for the reference collection:
 | 5. National Labs & University Coverage | University of Nevada, Las Vegas (UNLV) | UNLV College of Engineering Project Selected for Prestigious Genesis Mission (Newswise) | `www.newswise.com` | Web | [UNLV College of Engineering Project Selected for Prestigious Genesis Mission (Newswise)](https://www.newswise.com/articles/unlv-college-of-engineering-project-selected-for-prestigious-genesis-mission) | `Processed` | org:UNLV, gov:DOE, gov:NRC, consortium:Genesis, lab:SNL, company:NuScale Power, org:University of Wisconsin-Madison, person:WooHyun Jung, person:Junggab Son, person:Juliana Duarte, person:Ben Lindley, person:Brandon Alexander De Luna, person:Kent Welter, person:Chris Wright |
 | 5. National Labs & University Coverage | Savannah River National Laboratory (SRNL) | SRNL's Advanced Manufacturing Collaborative Celebrates First Year as Nexus of Innovation | `www.newswise.com` | Web | [SRNL's Advanced Manufacturing Collaborative Celebrates First Year as Nexus of Innovation (Newswise)](https://www.newswise.com/articles/srnl-s-advanced-manufacturing-collaborative-celebrates-first-year-as-nexus-of-innovation) | `Processed` | lab:SRNL, site:SRS, gov:DOE, gov:EM, gov:NNSA, consortium:Genesis, facility:AMC, org:University of South Carolina Aiken, company:Silica-X, company:3D Systems, company:Battelle Savannah River Alliance, org:Georgia Tech, org:R&D 100 Awards, person:Johney Green, person:G. Jeremy Leong, person:Tim Walsh |
 | 4. Executive, Federal & Partner Announcements | HiddenLayer | HiddenLayer Selected to Support DOE's $60 Million Prometheus Initiative Under the Genesis Mission (PR Newswire) | `www.prnewswire.com` | Web | [HiddenLayer Selected to Support DOE's $60 Million Prometheus Initiative Under the Genesis Mission (PR Newswire)](https://www.prnewswire.com/news-releases/hiddenlayer-selected-to-support-does-60-million-prometheus-initiative-under-the-genesis-mission-302853514.html) | `Processed` | company:HiddenLayer, lab:INL, lab:ORNL, lab:ANL, lab:SNL, gov:DOE, consortium:Genesis, project:Prometheus, person:Chris Sestito |
+| 5. National Labs & University Coverage | National Laboratory of the Rockies / National Renewable Energy Laboratory (NREL/NLR) | NLR Awarded 12 Genesis Mission Projects Ranging From Semiconductors to Alaska Utility Optimization | `www.nlr.gov` | Web | [NLR Awarded 12 Genesis Mission Projects Ranging From Semiconductors to Alaska Utility Optimization](https://www.nlr.gov/news/detail/press/2026/nlr-awarded-12-genesis-mission-projects-ranging-from-semiconductors-to-alaska-utility-optimization) | `Processed` | lab:NREL, gov:DOE, gov:BER, consortium:Genesis, org:California Institute of Technology, company:Lila, org:Washington University in St. Louis, org:Georgia Tech, facility:ARM, person:Jud Virden |

@@ -1,5 +1,4 @@
 * https://www.energy.gov/undersecretaryforscience/person/shawn-whitman
-* https://www.nlr.gov/news/detail/press/2026/nlr-awarded-12-genesis-mission-projects-ranging-from-semiconductors-to-alaska-utility-optimization
 * https://disruptions.mit.edu/news/2026/genesis/
 * https://research.uoregon.edu/news/uo-physicist-earns-genesis-mission-award
 * https://today.ucsd.edu/story/strengthening-americas-ai-ecosystem-with-the-launch-of-the-nsf-nairr-operations-center
