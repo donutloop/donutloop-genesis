@@ -1,7 +1,7 @@
 # Genesis Mission — Master Reference Coverage Report
 
 > **Document Overview:**
-> This report provides a comprehensive coverage analysis, breakdown, and master audit index for the **667 external reference links** compiled within `references.md` for the **Genesis Mission** documentation repository.
+> This report provides a comprehensive coverage analysis, breakdown, and master audit index for the **668 external reference links** compiled within `references.md` for the **Genesis Mission** documentation repository.
 
 ---
 
@@ -9,13 +9,13 @@
 
 | Metric | Count / Value | Description |
 | :--- | :--- | :--- |
-| **Total Reference Links** | **667** | Unique external links indexed across all sections |
+| **Total Reference Links** | **668** | Unique external links indexed across all sections |
 | **Primary Document Sections** | **7** | High-level thematic categories in `references.md` |
-| **Unique Target Domains** | **317** | Distinct domain names referenced (government, lab, corporate, academic, news) |
+| **Unique Target Domains** | **318** | Distinct domain names referenced (government, lab, corporate, academic, news) |
 | **Official PDF Documents** | **24** | Formal RFA solicitations, webinars, slides, and executive reports |
-| **Web Portals & Press Releases** | **643** | Newsroom features, corporate blog posts, and interactive hubs |
+| **Web Portals & Press Releases** | **644** | Newsroom features, corporate blog posts, and interactive hubs |
 | **Validation Status** | **100% Validated** | All links canonicalized, formatted, and deduplicated |
-| **Processing Status** | **667 / 667 Processed** | 0 Unprocessed, 667 Processed (100% Complete) |
+| **Processing Status** | **668 / 668 Processed** | 0 Unprocessed, 668 Processed (100% Complete) |
 
 ---
 
@@ -26,8 +26,8 @@
 | `1. Key Presentation Details` | **3** | 0.4% | Briefing agendas, U.S. ATLAS IB meeting details & CERN links |
 | `2. Collaborators` | **80** | 12.0% | Official homepage & announcement links for industrial/energy partners |
 | `3. Quantum Leadership & CHIPS Act Initiatives` | **11** | 1.6% | Department of Commerce NIST LOIs & DOE $2B quantum initiatives |
-| `4. Executive, Federal & Partner Announcements` | **188** | 28.2% | White House releases, Cabinet agency press, hyperscaler & lab announcements |
-| `5. National Labs & University Coverage` | **346** | 51.9% | National Laboratory news portals & 72 awardee university press releases |
+| `4. Executive, Federal & Partner Announcements` | **188** | 28.1% | White House releases, Cabinet agency press, hyperscaler & lab announcements |
+| `5. National Labs & University Coverage` | **347** | 51.9% | National Laboratory news portals & 72 awardee university press releases |
 | `6. Additional Event Materials & Reference Links` | **18** | 2.7% | Presentation slide decks, institutional intro files & video recordings |
 | `7. Technical Documents, RFA Guidance & Official Webinars` | **21** | 3.1% | DE-FOA-0003612 solicitations, OSTP challenge papers, SCAC presentations & peer-reviewed AI-for-science research |
 
@@ -155,6 +155,7 @@ Below is the distribution of references grouped by top domain hosts and institut
 | `www.anthropic.com` | **3** | Anthropic | Frontier-AI partner portal and Genesis announcements: Anthropic Science launch, the DOE/Genesis Mission partnership, and the October 2026 **$150M three-year Genesis Mission commitment** delivering Claude, Claude Code and API credits to several hundred research projects across 15+ mission agencies (NASA, NIH, NSF) |
 | `www.prnewswire.com` | **9** | PR Newswire (Cision) | Wire distribution of Genesis Mission partner and awardee announcements: Groq/LPU, Domino Data Lab consortium entry, SHINE Technologies fuel-cycle awards, Everstar/National Laboratories/Microsoft, RTI International TECHWERX consortium administration, Deployable Energy **Unity** criticality at INL and the NRIC full-power plus Hornbeck Offshore maritime demonstration, and **HiddenLayer's** selection to support the **$60M INL-led Prometheus Phase II** AI-security effort |
 | `disruptions.mit.edu` | **1** | MIT Plasma Science and Fusion Center — Disruption Studies Group | *Disruptions @ MIT PSFC* reproduction of the MIT News Genesis Mission Phase I selection story (15 MIT-involved projects, 6 MIT-led, 9 MIT participations, MIT-led **CATALYST** sim-to-experiment transfer led by PSFC data-science division head **Cristina Rea**) |
+| `research.uoregon.edu` | **1** | University of Oregon — Office of the Vice President for Research and Innovation | UO Research and Innovation feature on physicist **Stephanie Majewski**'s **$662,000 Genesis Mission Phase I** award for **MANGO** (*Monte Carlo Acceleration via Normalizing Flows using GPU Optimization*) — AI-rethought Monte Carlo event generation for CERN's Large Hadron Collider, with collaborators at Brown University and Brookhaven National Laboratory |
 
 ---
 
@@ -832,3 +833,4 @@ A tabular master index for the reference collection:
 | 4. Executive, Federal & Partner Announcements | HiddenLayer | HiddenLayer Selected to Support DOE's $60 Million Prometheus Initiative Under the Genesis Mission (PR Newswire) | `www.prnewswire.com` | Web | [HiddenLayer Selected to Support DOE's $60 Million Prometheus Initiative Under the Genesis Mission (PR Newswire)](https://www.prnewswire.com/news-releases/hiddenlayer-selected-to-support-does-60-million-prometheus-initiative-under-the-genesis-mission-302853514.html) | `Processed` | company:HiddenLayer, lab:INL, lab:ORNL, lab:ANL, lab:SNL, gov:DOE, consortium:Genesis, project:Prometheus, person:Chris Sestito |
 | 5. National Labs & University Coverage | National Laboratory of the Rockies / National Renewable Energy Laboratory (NREL/NLR) | NLR Awarded 12 Genesis Mission Projects Ranging From Semiconductors to Alaska Utility Optimization | `www.nlr.gov` | Web | [NLR Awarded 12 Genesis Mission Projects Ranging From Semiconductors to Alaska Utility Optimization](https://www.nlr.gov/news/detail/press/2026/nlr-awarded-12-genesis-mission-projects-ranging-from-semiconductors-to-alaska-utility-optimization) | `Processed` | lab:NREL, gov:DOE, gov:BER, consortium:Genesis, org:California Institute of Technology, company:Lila, org:Washington University in St. Louis, org:Georgia Tech, facility:ARM, person:Jud Virden |
 | 5. National Labs & University Coverage | Massachusetts Institute of Technology (MIT) — Disruptions @ MIT PSFC | MIT projects selected for funding under US Department of Energy's Genesis Mission | `disruptions.mit.edu` | Web | [MIT projects selected for funding under US Department of Energy's Genesis Mission (Disruptions @ MIT PSFC)](https://disruptions.mit.edu/news/2026/genesis/) | `Processed` | org:MIT, center:MIT-PSFC, gov:DOE, consortium:Genesis, project:CATALYST, person:Cristina Rea, person:Ian A. Waitz, person:Darío Gil |
+| 5. National Labs & University Coverage | University of Oregon (UO) | UO physicist earns Genesis Mission award | `research.uoregon.edu` | Web | [UO physicist earns Genesis Mission award](https://research.uoregon.edu/news/uo-physicist-earns-genesis-mission-award) | `Processed` | org:University of Oregon, org:Brown University, lab:BNL, org:CERN-LHC, gov:DOE, consortium:Genesis, project:MANGO, person:Stephanie Majewski |
