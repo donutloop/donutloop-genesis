@@ -1,5 +1,4 @@
 * https://www.energy.gov/undersecretaryforscience/person/shawn-whitman
-* https://disruptions.mit.edu/news/2026/genesis/
 * https://research.uoregon.edu/news/uo-physicist-earns-genesis-mission-award
 * https://today.ucsd.edu/story/strengthening-americas-ai-ecosystem-with-the-launch-of-the-nsf-nairr-operations-center
 * https://www.olcf.ornl.gov/2026/01/12/call-for-proposals-open-to-develop-discovery-supercomputers-first-science-applications/
