@@ -1,0 +1,19 @@
+{
+  "providers": {
+    "local-vllm": {
+      "baseUrl": "http://localhost:8888/v1",
+      "api": "openai-completions",
+      "apiKey": "dummy",
+      "compat": {
+        "supportsDeveloperRole": false,
+        "supportsReasoningEffort": false
+      },
+      "models": [
+        {
+          "id": "qwen3.8-flash-next",
+          "contextWindow": 262144
+        }
+      ]
+    }
+  }
+}

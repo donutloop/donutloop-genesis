@@ -1,0 +1,19 @@
+{
+  "name": "pi-loop-genesis",
+  "version": "1.0.0",
+  "description": "CLI that connects to a local pi agent via the pi SDK and drives the Genesis Mission reference-intake loop: each round claims one URL from raw_links.md (removing it from the queue), executes prompts/process_url_reference.md for it in a fresh session, then commits and tags. Model/endpoint comes from a pi models.json-shaped config in the repo's setup/ dir.",
+  "type": "module",
+  "license": "MIT",
+  "bin": { "pi-loop": "pi-loop.mjs" },
+  "files": [
+    "pi-loop.mjs",
+    "link-queue.mjs",
+    "webfetch.mjs",
+    "models-config.mjs",
+    "sdk-discovery.mjs",
+    "README.md"
+  ],
+  "scripts": {
+    "test": "node --test ./*.test.mjs"
+  }
+}

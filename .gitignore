@@ -1,0 +1,14 @@
+# pi-loop state (local progress + claim journal + agent sessions)
+.pi-loop-state.json
+.pi-loop-queue.json
+.pi-loop-queue.json.tmp-*
+.pi/
+
+# in case PI_LOOP_AGENT_DIR is pointed at the repo root, pi's published config
+# and session logs must stay out of the paper commits
+/models.json
+/sessions/
+/auth.json
+
+# node
+node_modules/
