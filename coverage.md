@@ -3,7 +3,7 @@
 > **Scope & Coverage Definition:**
 > - **Flagship Consortium Scope:** Tracks **all 247 primary flagship participants**—lead contractors, federal agencies, national laboratories, awardee universities, strategic industrial partners, and philanthropic foundations—explicitly profiled or referenced in the Genesis Mission paper (`README.md`) and reference index.
 > - **Broader National Awardee Network Context:** Under solicitation DE-FOA-0003612 and interagency challenges, the broader national initiative encompasses **342 total participating institutions** (157 companies, 142 universities, 16 national labs, 13 non-profits, 14 other entities across 278 projects).
-> - **Coverage Status:** **217 / 252 (86.1%)** of the tracked consortium entities have dedicated, detailed technical profiles.
+> - **Coverage Status:** **217 / 253 (85.8%)** of the tracked consortium entities have dedicated, detailed technical profiles.
 
 **Legend:**
 - ✅ **Full Profile** — Dedicated section with detailed technical write-up (Sections 2.2 / 3.1 / 3.2 / 3.3 / 3.4 / 3.5)
@@ -132,6 +132,7 @@
 | 0 | [Hydro-Québec](https://www.hydroquebec.com/) | ❌ Not Covered | — | Canadian public electric utility and transmission system operator; collaborating institution on the Brookhaven-led $14.2M Genesis Mission Phase II grid foundation model (GridFM) project *Foundation Models for the Electric Grid: From Proof of Concept to Real-world Impacts* (reference only) |
 | 0 | [NuScale Power](https://www.newswise.com/articles/unlv-college-of-engineering-project-selected-for-prestigious-genesis-mission) | ❌ Not Covered | — | Small modular reactor (SMR) developer and industry collaborator on the UNLV-led Genesis Mission Phase I project *LLM-based agentic AI assistant to automatically generate the input deck for severe accident system codes*, whose first phase applies the agentic MELCOR input-deck generator to a single NuScale design and validates it against a safety analysis completed manually under another DOE program; named for provenance of the project team only, no Genesis Mission award of its own (reference only) |
 | 0 | [Silica-X](https://www.newswise.com/articles/srnl-s-advanced-manufacturing-collaborative-celebrates-first-year-as-nexus-of-innovation) | ❌ Not Covered | — | Key industrial partner of Savannah River National Laboratory named in the Advanced Manufacturing Collaborative first-year anniversary feature; the SRNL–Silica-X partnership on innovative materials capable of safely absorbing and storing nuclear waste received an **R&D 100 Award** (no independent Genesis Mission award of its own; named for provenance of the AMC partnership only) (reference only) |
+| 0 | [HiddenLayer](https://hiddenlayer.com/) | ❌ Not Covered | — | Austin, Texas–based **AI security** company announced (PR Newswire, **18 Aug 2026**) as selected to support **Project Prometheus**, the Idaho National Laboratory–led DOE Genesis Mission **Phase II** award of **$60 million over three years, subject to appropriations**, described in the release as the **first Phase II award announced under the Genesis Mission**; contributes AI risk identification, AI-system vulnerability testing and protection of AI models and applications against adversarial threats — spanning discovery, AI supply chain security, attack simulation and runtime protection — as Prometheus applies AI to nuclear reactor development and operations, nuclear fuel fabrication and nuclear legacy document management alongside INL, ORNL, ANL and SNL and more than 20 industry partners; the release attributes no separate dollar award to the company (reference only) |
 
 ---
 
@@ -347,20 +348,20 @@
 
 | Entity Type | Total | ✅ Full | 📋 Brief | ❌ Not Covered |
 |:---|:---:|:---:|:---:|:---:|
-| Industry Partners | 100 | 94 | 0 | 6 |
+| Industry Partners | 101 | 94 | 0 | 7 |
 | Federal Agencies | 11 | 11 | 0 | 0 |
 | National Laboratories & Defense Sites | 27 | 24 | 0 | 3 |
 | Universities | 96 | 76 | 0 | 20 |
 | Philanthropy, Policy & Regional Hubs | 18 | 12 | 0 | 6 |
-| **Total** | **252** | **217** | **0** | **35** |
+| **Total** | **253** | **217** | **0** | **36** |
 
 ### By Coverage Level
 
 | Coverage Level | Count | Percentage |
 |:---|:---:|:---:|
-| ✅ Full Profile | 217 | 86.1% |
+| ✅ Full Profile | 217 | 85.8% |
 | 📋 Brief Mention | 0 | 0.0% |
-| ❌ Not Covered | 35 | 13.9% |
-| **Total Entities** | **252** | **100%** |
+| ❌ Not Covered | 36 | 14.2% |
+| **Total Entities** | **253** | **100%** |
 
-> **Note:** The tracker now covers 252 Genesis Mission ecosystem participants, with 217 entities in dedicated technical write-ups (86.1% full-profile coverage). George Washington University, Brown University, Heidelberg University, Howard University, European Coalition for AI in Fundamental Physics (EuCAIF), Colorado School of Mines, UC San Diego, University of Delaware, University of Hawaiʻi at Mānoa, University of Massachusetts Amherst, University of Washington, Boise State University, St. Joseph's University, New York, Kent State University, Southeastern Universities Research Association (SURA), ORISE, Energy Sciences Coalition (ESC), Krell Institute, La Sierra University, Joint Genome Institute (JGI), the University of North Carolina at Chapel Hill (UNC-Chapel Hill), Washington University in St. Louis (WashU), the National Reactor Innovation Center (NRIC), Hydro-Québec, The Catholic University of America (CUA), Old Dominion University, the Massachusetts Institute of Technology (MIT), Quantum Machines, ClearPath and NuScale Power remain registered as reference-only participants, alongside the **Savannah River National Laboratory Advanced Manufacturing Collaborative (AMC)**, **Silica-X**, **3D Systems**, **Battelle Savannah River Alliance** and the **University of South Carolina Aiken**. The broader sub-grantee network of 342 participating institutions represents secondary academic and sub-contractor nodes across the 278 national project awards.
+> **Note:** The tracker now covers 253 Genesis Mission ecosystem participants, with 217 entities in dedicated technical write-ups (85.8% full-profile coverage). George Washington University, Brown University, Heidelberg University, Howard University, European Coalition for AI in Fundamental Physics (EuCAIF), Colorado School of Mines, UC San Diego, University of Delaware, University of Hawaiʻi at Mānoa, University of Massachusetts Amherst, University of Washington, Boise State University, St. Joseph's University, New York, Kent State University, Southeastern Universities Research Association (SURA), ORISE, Energy Sciences Coalition (ESC), Krell Institute, La Sierra University, Joint Genome Institute (JGI), the University of North Carolina at Chapel Hill (UNC-Chapel Hill), Washington University in St. Louis (WashU), the National Reactor Innovation Center (NRIC), Hydro-Québec, The Catholic University of America (CUA), Old Dominion University, the Massachusetts Institute of Technology (MIT), Quantum Machines, ClearPath and NuScale Power remain registered as reference-only participants, alongside the **Savannah River National Laboratory Advanced Manufacturing Collaborative (AMC)**, **Silica-X**, **3D Systems**, **Battelle Savannah River Alliance** and the **University of South Carolina Aiken**, plus **HiddenLayer** as the AI-security partner supporting the INL-led **Project Prometheus** Phase II campaign. The broader sub-grantee network of 342 participating institutions represents secondary academic and sub-contractor nodes across the 278 national project awards.

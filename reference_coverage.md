@@ -1,7 +1,7 @@
 # Genesis Mission — Master Reference Coverage Report
 
 > **Document Overview:**
-> This report provides a comprehensive coverage analysis, breakdown, and master audit index for the **664 external reference links** compiled within `references.md` for the **Genesis Mission** documentation repository.
+> This report provides a comprehensive coverage analysis, breakdown, and master audit index for the **665 external reference links** compiled within `references.md` for the **Genesis Mission** documentation repository.
 
 ---
 
@@ -9,13 +9,13 @@
 
 | Metric | Count / Value | Description |
 | :--- | :--- | :--- |
-| **Total Reference Links** | **664** | Unique external links indexed across all sections |
+| **Total Reference Links** | **665** | Unique external links indexed across all sections |
 | **Primary Document Sections** | **7** | High-level thematic categories in `references.md` |
 | **Unique Target Domains** | **316** | Distinct domain names referenced (government, lab, corporate, academic, news) |
 | **Official PDF Documents** | **24** | Formal RFA solicitations, webinars, slides, and executive reports |
-| **Web Portals & Press Releases** | **640** | Newsroom features, corporate blog posts, and interactive hubs |
+| **Web Portals & Press Releases** | **641** | Newsroom features, corporate blog posts, and interactive hubs |
 | **Validation Status** | **100% Validated** | All links canonicalized, formatted, and deduplicated |
-| **Processing Status** | **664 / 664 Processed** | 0 Unprocessed, 664 Processed (100% Complete) |
+| **Processing Status** | **665 / 665 Processed** | 0 Unprocessed, 665 Processed (100% Complete) |
 
 ---
 
@@ -26,8 +26,8 @@
 | `1. Key Presentation Details` | **3** | 0.5% | Briefing agendas, U.S. ATLAS IB meeting details & CERN links |
 | `2. Collaborators` | **80** | 12.0% | Official homepage & announcement links for industrial/energy partners |
 | `3. Quantum Leadership & CHIPS Act Initiatives` | **11** | 1.7% | Department of Commerce NIST LOIs & DOE $2B quantum initiatives |
-| `4. Executive, Federal & Partner Announcements` | **187** | 28.2% | White House releases, Cabinet agency press, hyperscaler & lab announcements |
-| `5. National Labs & University Coverage` | **344** | 51.8% | National Laboratory news portals & 72 awardee university press releases |
+| `4. Executive, Federal & Partner Announcements` | **188** | 28.3% | White House releases, Cabinet agency press, hyperscaler & lab announcements |
+| `5. National Labs & University Coverage` | **344** | 51.7% | National Laboratory news portals & 72 awardee university press releases |
 | `6. Additional Event Materials & Reference Links` | **18** | 2.7% | Presentation slide decks, institutional intro files & video recordings |
 | `7. Technical Documents, RFA Guidance & Official Webinars` | **21** | 3.2% | DE-FOA-0003612 solicitations, OSTP challenge papers, SCAC presentations & peer-reviewed AI-for-science research |
 
@@ -153,6 +153,7 @@ Below is the distribution of references grouped by top domain hosts and institut
 | `www.micro1.ai` | **1** | micro1 | AI engineering talent support |
 | `www.xlight.com` | **1** | xLight | Company blog on finalizing $150M CHIPS incentives with U.S. Dept. of Commerce |
 | `www.anthropic.com` | **3** | Anthropic | Frontier-AI partner portal and Genesis announcements: Anthropic Science launch, the DOE/Genesis Mission partnership, and the October 2026 **$150M three-year Genesis Mission commitment** delivering Claude, Claude Code and API credits to several hundred research projects across 15+ mission agencies (NASA, NIH, NSF) |
+| `www.prnewswire.com` | **9** | PR Newswire (Cision) | Wire distribution of Genesis Mission partner and awardee announcements: Groq/LPU, Domino Data Lab consortium entry, SHINE Technologies fuel-cycle awards, Everstar/National Laboratories/Microsoft, RTI International TECHWERX consortium administration, Deployable Energy **Unity** criticality at INL and the NRIC full-power plus Hornbeck Offshore maritime demonstration, and **HiddenLayer's** selection to support the **$60M INL-led Prometheus Phase II** AI-security effort |
 
 ---
 
@@ -827,3 +828,4 @@ A tabular master index for the reference collection:
 | 4. Executive, Federal & Partner Announcements | Emma Quigg — DOE Office of Science | DOE Office of Science: Emma Quigg, Chief of Staff | `www.energy.gov` | Web | [DOE Office of Science: Emma Quigg, Chief of Staff](https://www.energy.gov/person/emma-quigg) | `Processed` | gov:DOE, consortium:Genesis, person:Emma Quigg, org:ClearPath, org:Duke University |
 | 5. National Labs & University Coverage | University of Nevada, Las Vegas (UNLV) | UNLV College of Engineering Project Selected for Prestigious Genesis Mission (Newswise) | `www.newswise.com` | Web | [UNLV College of Engineering Project Selected for Prestigious Genesis Mission (Newswise)](https://www.newswise.com/articles/unlv-college-of-engineering-project-selected-for-prestigious-genesis-mission) | `Processed` | org:UNLV, gov:DOE, gov:NRC, consortium:Genesis, lab:SNL, company:NuScale Power, org:University of Wisconsin-Madison, person:WooHyun Jung, person:Junggab Son, person:Juliana Duarte, person:Ben Lindley, person:Brandon Alexander De Luna, person:Kent Welter, person:Chris Wright |
 | 5. National Labs & University Coverage | Savannah River National Laboratory (SRNL) | SRNL's Advanced Manufacturing Collaborative Celebrates First Year as Nexus of Innovation | `www.newswise.com` | Web | [SRNL's Advanced Manufacturing Collaborative Celebrates First Year as Nexus of Innovation (Newswise)](https://www.newswise.com/articles/srnl-s-advanced-manufacturing-collaborative-celebrates-first-year-as-nexus-of-innovation) | `Processed` | lab:SRNL, site:SRS, gov:DOE, gov:EM, gov:NNSA, consortium:Genesis, facility:AMC, org:University of South Carolina Aiken, company:Silica-X, company:3D Systems, company:Battelle Savannah River Alliance, org:Georgia Tech, org:R&D 100 Awards, person:Johney Green, person:G. Jeremy Leong, person:Tim Walsh |
+| 4. Executive, Federal & Partner Announcements | HiddenLayer | HiddenLayer Selected to Support DOE's $60 Million Prometheus Initiative Under the Genesis Mission (PR Newswire) | `www.prnewswire.com` | Web | [HiddenLayer Selected to Support DOE's $60 Million Prometheus Initiative Under the Genesis Mission (PR Newswire)](https://www.prnewswire.com/news-releases/hiddenlayer-selected-to-support-does-60-million-prometheus-initiative-under-the-genesis-mission-302853514.html) | `Processed` | company:HiddenLayer, lab:INL, lab:ORNL, lab:ANL, lab:SNL, gov:DOE, consortium:Genesis, project:Prometheus, person:Chris Sestito |
