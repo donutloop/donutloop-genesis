@@ -1,7 +1,7 @@
 # Genesis Mission — Master Reference Coverage Report
 
 > **Document Overview:**
-> This report provides a comprehensive coverage analysis, breakdown, and master audit index for the **668 external reference links** compiled within `references.md` for the **Genesis Mission** documentation repository.
+> This report provides a comprehensive coverage analysis, breakdown, and master audit index for the **669 external reference links** compiled within `references.md` for the **Genesis Mission** documentation repository.
 
 ---
 
@@ -9,13 +9,13 @@
 
 | Metric | Count / Value | Description |
 | :--- | :--- | :--- |
-| **Total Reference Links** | **668** | Unique external links indexed across all sections |
+| **Total Reference Links** | **669** | Unique external links indexed across all sections |
 | **Primary Document Sections** | **7** | High-level thematic categories in `references.md` |
 | **Unique Target Domains** | **318** | Distinct domain names referenced (government, lab, corporate, academic, news) |
 | **Official PDF Documents** | **24** | Formal RFA solicitations, webinars, slides, and executive reports |
-| **Web Portals & Press Releases** | **644** | Newsroom features, corporate blog posts, and interactive hubs |
+| **Web Portals & Press Releases** | **645** | Newsroom features, corporate blog posts, and interactive hubs |
 | **Validation Status** | **100% Validated** | All links canonicalized, formatted, and deduplicated |
-| **Processing Status** | **668 / 668 Processed** | 0 Unprocessed, 668 Processed (100% Complete) |
+| **Processing Status** | **669 / 669 Processed** | 0 Unprocessed, 669 Processed (100% Complete) |
 
 ---
 
@@ -27,7 +27,7 @@
 | `2. Collaborators` | **80** | 12.0% | Official homepage & announcement links for industrial/energy partners |
 | `3. Quantum Leadership & CHIPS Act Initiatives` | **11** | 1.6% | Department of Commerce NIST LOIs & DOE $2B quantum initiatives |
 | `4. Executive, Federal & Partner Announcements` | **188** | 28.1% | White House releases, Cabinet agency press, hyperscaler & lab announcements |
-| `5. National Labs & University Coverage` | **347** | 51.9% | National Laboratory news portals & 72 awardee university press releases |
+| `5. National Labs & University Coverage` | **348** | 52.0% | National Laboratory news portals & 72 awardee university press releases |
 | `6. Additional Event Materials & Reference Links` | **18** | 2.7% | Presentation slide decks, institutional intro files & video recordings |
 | `7. Technical Documents, RFA Guidance & Official Webinars` | **21** | 3.1% | DE-FOA-0003612 solicitations, OSTP challenge papers, SCAC presentations & peer-reviewed AI-for-science research |
 
@@ -76,7 +76,7 @@ Below is the distribution of references grouped by top domain hosts and institut
 | `news.rpi.edu` | **2** | Rensselaer Polytechnic Institute (RPI) | RPI-led particle accelerator beam dynamics and President Schmidt's SCAC appointment |
 | `www.psu.edu` | **2** | Penn State University | Penn State scientists lead three projects and the $20M LATTICE programmable cloud laboratory |
 | `www.purdue.edu` | **2** | Purdue University College of Engineering | Electron-Ion Collider AI real-time trigger & B2D7 pilot program |
-| `today.ucsd.edu` | **2** | University Newsroom | UC San Diego-led National Data Platform (NDP) and SIDERIUS AI scientist agent project |
+| `today.ucsd.edu` | **3** | University Newsroom | UC San Diego-led National Data Platform (NDP) and SIDERIUS AI scientist agent project, plus the UC San Diego **San Diego Supercomputer Center (SDSC)** leading the **$35M five-year NSF NAIRR Operations Center** cooperative award (no. **2616251**) with the **Texas Advanced Computing Center (TACC)** at UT Austin |
 | `www.washington.edu` | **2** | University of Washington | White House Genesis Mission launch summary and terahertz-enabled AR hardware |
 | `www.rti.org` | **2** | RTI International | Genesis Mission Consortium administration via TechWerx |
 | `exozymes.com` | **2** | eXoZymes | Cell-free enzymatic biomanufacturing and Genesis Mission digital twins |
@@ -834,3 +834,4 @@ A tabular master index for the reference collection:
 | 5. National Labs & University Coverage | National Laboratory of the Rockies / National Renewable Energy Laboratory (NREL/NLR) | NLR Awarded 12 Genesis Mission Projects Ranging From Semiconductors to Alaska Utility Optimization | `www.nlr.gov` | Web | [NLR Awarded 12 Genesis Mission Projects Ranging From Semiconductors to Alaska Utility Optimization](https://www.nlr.gov/news/detail/press/2026/nlr-awarded-12-genesis-mission-projects-ranging-from-semiconductors-to-alaska-utility-optimization) | `Processed` | lab:NREL, gov:DOE, gov:BER, consortium:Genesis, org:California Institute of Technology, company:Lila, org:Washington University in St. Louis, org:Georgia Tech, facility:ARM, person:Jud Virden |
 | 5. National Labs & University Coverage | Massachusetts Institute of Technology (MIT) — Disruptions @ MIT PSFC | MIT projects selected for funding under US Department of Energy's Genesis Mission | `disruptions.mit.edu` | Web | [MIT projects selected for funding under US Department of Energy's Genesis Mission (Disruptions @ MIT PSFC)](https://disruptions.mit.edu/news/2026/genesis/) | `Processed` | org:MIT, center:MIT-PSFC, gov:DOE, consortium:Genesis, project:CATALYST, person:Cristina Rea, person:Ian A. Waitz, person:Darío Gil |
 | 5. National Labs & University Coverage | University of Oregon (UO) | UO physicist earns Genesis Mission award | `research.uoregon.edu` | Web | [UO physicist earns Genesis Mission award](https://research.uoregon.edu/news/uo-physicist-earns-genesis-mission-award) | `Processed` | org:University of Oregon, org:Brown University, lab:BNL, org:CERN-LHC, gov:DOE, consortium:Genesis, project:MANGO, person:Stephanie Majewski |
+| 5. National Labs & University Coverage | San Diego Supercomputer Center (SDSC), UC San Diego & Texas Advanced Computing Center (TACC), UT Austin — NSF NAIRR Operations Center | Strengthening America's AI Ecosystem with the Launch of the NSF NAIRR Operations Center | `today.ucsd.edu` | Web | [Strengthening America's AI Ecosystem with the Launch of the NSF NAIRR Operations Center](https://today.ucsd.edu/story/strengthening-americas-ai-ecosystem-with-the-launch-of-the-nsf-nairr-operations-center) | `Processed` | org:San Diego Supercomputer Center, org:Texas Advanced Computing Center, org:University of California San Diego, org:University of Texas at Austin, gov:NSF, gov:White House OSTP, consortium:Genesis, project:NAIRR-OC, project:NDP, project:NRP, project:NSF LCCF, project:Tapis, person:Frank Würthwein, person:Ashley Atkins, person:Maytal Dahan, person:Dan Stanzione |
