@@ -1,9 +1,9 @@
 # Genesis Mission — Full Ecosystem Coverage Tracker
 
 > **Scope & Coverage Definition:**
-> - **Flagship Consortium Scope:** Tracks **all 245 primary flagship participants**—lead contractors, federal agencies, national laboratories, awardee universities, strategic industrial partners, and philanthropic foundations—explicitly profiled or referenced in the Genesis Mission paper (`README.md`) and reference index.
+> - **Flagship Consortium Scope:** Tracks **all 246 primary flagship participants**—lead contractors, federal agencies, national laboratories, awardee universities, strategic industrial partners, and philanthropic foundations—explicitly profiled or referenced in the Genesis Mission paper (`README.md`) and reference index.
 > - **Broader National Awardee Network Context:** Under solicitation DE-FOA-0003612 and interagency challenges, the broader national initiative encompasses **342 total participating institutions** (157 companies, 142 universities, 16 national labs, 13 non-profits, 14 other entities across 278 projects).
-> - **Coverage Status:** **217 / 245 (88.6%)** of the tracked consortium entities have dedicated, detailed technical profiles.
+> - **Coverage Status:** **217 / 246 (88.2%)** of the tracked consortium entities have dedicated, detailed technical profiles.
 
 **Legend:**
 - ✅ **Full Profile** — Dedicated section with detailed technical write-up (Sections 2.2 / 3.1 / 3.2 / 3.3 / 3.4 / 3.5)
@@ -154,7 +154,7 @@
 | Process Count | Agency | Coverage | Paper Section | Notes |
 |---------------|--------|----------|---------------|-------|
 | 0 | [White House OSTP](https://www.whitehouse.gov/ostp/) | ✅ Full Profile | §1, §3.4, A.1 | Executive direction, National S&T Challenge coordination & interagency AI/quantum policy |
-| 1 | [U.S. Department of Energy (DOE)](https://www.energy.gov/) | ✅ Full Profile | §1.1, §3.4, A.1 | AI Workforce RFI DE-SC-26-016 (100,000 AI-capable scientists & engineers, responses due March 4, 2026), executive lead, Office of AI & Quantum (AIQ) $1.2B FY27 CJ, FY 2027 BER budget request ($396M) for AI-ready biological & environmental data, genesis.energy.gov portal, OSTI FOA portal, Isotope R&D and Production (DOE IP) funding opportunities portal, FOA webinar, 278 GM-RFA awards list, ModCon, Data Team Fact Sheet, interactive demo hub, executive video, Summit 2026 Danly closing, Yamada chat, Platform Demo, Gil Keynote & Panel Breakouts |
+| 2 | [U.S. Department of Energy (DOE)](https://www.energy.gov/) | ✅ Full Profile | §1.1, §3.4, A.1 | AI Workforce RFI DE-SC-26-016 (100,000 AI-capable scientists & engineers, responses due March 4, 2026), executive lead, Office of AI & Quantum (AIQ) $1.2B FY27 CJ, FY 2027 BER budget request ($396M) for AI-ready biological & environmental data, genesis.energy.gov portal, OSTI FOA portal, Isotope R&D and Production (DOE IP) funding opportunities portal, FOA webinar, 278 GM-RFA awards list, ModCon, Data Team Fact Sheet, interactive demo hub, executive video, Summit 2026 Danly closing, Yamada chat, Platform Demo, Gil Keynote & Panel Breakouts; Office of Science executive staff — Chief of Staff Emma Quigg, former Special Advisor to the Under Secretary for Science and Action Officer for the DOE AI Task Force that launched the Genesis Mission |
 | 0 | [U.S. Department of Commerce — NIST / CHIPS R&D](https://www.nist.gov/) | ✅ Full Profile | §1, §2.2, §3.4, A.1 | CHIPS Act LOI execution, $2B quantum semiconductor incentives & NIST measurement standards |
 | 0 | [National Science Foundation (NSF)](https://www.nsf.gov/) | ✅ Full Profile | §1, §2.1, §3.4, A.1 | $100M State & Regional AI Hubs (NSF 26-513), NSB Next Gen NSF & Genesis Mission partnership, NAIRR pilot |
 | 0 | [National Institutes of Health (NIH) / HHS](https://www.nih.gov/) | ✅ Full Profile | §1, §3.4, A.1 | Bio Genesis Mission co-lead, biomedical AI, structural biology foundation models & therapeutic screening |
@@ -323,6 +323,7 @@
 | 0 | [Southeastern Universities Research Association (SURA)](https://sura.org/) | ❌ Not Covered | — | Member consortium co-operating the Thomas Jefferson National Accelerator Facility via the SURATech joint venture (reference only) |
 | 0 | [Energy Sciences Coalition (ESC)](https://www.energysciencescoalition.org/) | ❌ Not Covered | — | Coalition of over 100 member universities, scientific societies, and national laboratories advocating for robust federal funding for the DOE Office of Science; see [FY27 appropriation recommendation](https://www.aau.edu/resource-library/fy27-energy-science-coalition-appropriation-recommendation) (reference only) |
 | 0 | [Krell Institute](https://www.krellinst.org/) | ❌ Not Covered | — | Fellowship administrator hosting the DOE CSGF Annual Program Review (reference only) |
+| 0 | [ClearPath](https://www.energy.gov/person/emma-quigg) | ❌ Not Covered | — | Policy organization cited on the DOE Office of Science staff page of Chief of Staff **Emma Quigg**, who previously served there as Policy Associate, developing the organization's strategic vertical on chemicals and refining and leading research and policy development for Integrated Energy Systems; listed for provenance of the biography only, no Genesis Mission role of its own (reference only) |
 
 ---
 
@@ -344,16 +345,16 @@
 | Federal Agencies | 11 | 11 | 0 | 0 |
 | National Laboratories & Defense Sites | 26 | 24 | 0 | 2 |
 | Universities | 95 | 76 | 0 | 19 |
-| Philanthropy, Policy & Regional Hubs | 17 | 12 | 0 | 5 |
-| **Total** | **245** | **217** | **0** | **28** |
+| Philanthropy, Policy & Regional Hubs | 18 | 12 | 0 | 6 |
+| **Total** | **246** | **217** | **0** | **29** |
 
 ### By Coverage Level
 
 | Coverage Level | Count | Percentage |
 |:---|:---:|:---:|
-| ✅ Full Profile | 217 | 88.6% |
+| ✅ Full Profile | 217 | 88.2% |
 | 📋 Brief Mention | 0 | 0.0% |
-| ❌ Not Covered | 28 | 11.4% |
-| **Total Entities** | **245** | **100%** |
+| ❌ Not Covered | 29 | 11.8% |
+| **Total Entities** | **246** | **100%** |
 
-> **Note:** The tracker now covers 245 Genesis Mission ecosystem participants, with 217 entities in dedicated technical write-ups (88.6% full-profile coverage). George Washington University, Brown University, Heidelberg University, Howard University, European Coalition for AI in Fundamental Physics (EuCAIF), Colorado School of Mines, UC San Diego, University of Delaware, University of Hawaiʻi at Mānoa, University of Massachusetts Amherst, University of Washington, Boise State University, St. Joseph's University, New York, Kent State University, Southeastern Universities Research Association (SURA), ORISE, Energy Sciences Coalition (ESC), Krell Institute, La Sierra University, Joint Genome Institute (JGI), the University of North Carolina at Chapel Hill (UNC-Chapel Hill), Washington University in St. Louis (WashU), the National Reactor Innovation Center (NRIC), Hydro-Québec, The Catholic University of America (CUA), Old Dominion University, the Massachusetts Institute of Technology (MIT) and Quantum Machines remain registered as reference-only participants. The broader sub-grantee network of 342 participating institutions represents secondary academic and sub-contractor nodes across the 278 national project awards.
+> **Note:** The tracker now covers 246 Genesis Mission ecosystem participants, with 217 entities in dedicated technical write-ups (88.2% full-profile coverage). George Washington University, Brown University, Heidelberg University, Howard University, European Coalition for AI in Fundamental Physics (EuCAIF), Colorado School of Mines, UC San Diego, University of Delaware, University of Hawaiʻi at Mānoa, University of Massachusetts Amherst, University of Washington, Boise State University, St. Joseph's University, New York, Kent State University, Southeastern Universities Research Association (SURA), ORISE, Energy Sciences Coalition (ESC), Krell Institute, La Sierra University, Joint Genome Institute (JGI), the University of North Carolina at Chapel Hill (UNC-Chapel Hill), Washington University in St. Louis (WashU), the National Reactor Innovation Center (NRIC), Hydro-Québec, The Catholic University of America (CUA), Old Dominion University, the Massachusetts Institute of Technology (MIT), Quantum Machines and ClearPath remain registered as reference-only participants. The broader sub-grantee network of 342 participating institutions represents secondary academic and sub-contractor nodes across the 278 national project awards.
