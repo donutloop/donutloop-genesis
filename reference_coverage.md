@@ -1,7 +1,7 @@
 # Genesis Mission — Master Reference Coverage Report
 
 > **Document Overview:**
-> This report provides a comprehensive coverage analysis, breakdown, and master audit index for the **659 external reference links** compiled within `references.md` for the **Genesis Mission** documentation repository.
+> This report provides a comprehensive coverage analysis, breakdown, and master audit index for the **660 external reference links** compiled within `references.md` for the **Genesis Mission** documentation repository.
 
 ---
 
@@ -9,13 +9,13 @@
 
 | Metric | Count / Value | Description |
 | :--- | :--- | :--- |
-| **Total Reference Links** | **659** | Unique external links indexed across all sections |
+| **Total Reference Links** | **660** | Unique external links indexed across all sections |
 | **Primary Document Sections** | **7** | High-level thematic categories in `references.md` |
 | **Unique Target Domains** | **316** | Distinct domain names referenced (government, lab, corporate, academic, news) |
 | **Official PDF Documents** | **24** | Formal RFA solicitations, webinars, slides, and executive reports |
-| **Web Portals & Press Releases** | **635** | Newsroom features, corporate blog posts, and interactive hubs |
+| **Web Portals & Press Releases** | **636** | Newsroom features, corporate blog posts, and interactive hubs |
 | **Validation Status** | **100% Validated** | All links canonicalized, formatted, and deduplicated |
-| **Processing Status** | **659 / 659 Processed** | 0 Unprocessed, 659 Processed (100% Complete) |
+| **Processing Status** | **660 / 660 Processed** | 0 Unprocessed, 660 Processed (100% Complete) |
 
 ---
 
@@ -27,7 +27,7 @@
 | `2. Collaborators` | **80** | 12.1% | Official homepage & announcement links for industrial/energy partners |
 | `3. Quantum Leadership & CHIPS Act Initiatives` | **11** | 1.7% | Department of Commerce NIST LOIs & DOE $2B quantum initiatives |
 | `4. Executive, Federal & Partner Announcements` | **186** | 28.2% | White House releases, Cabinet agency press, hyperscaler & lab announcements |
-| `5. National Labs & University Coverage` | **340** | 51.6% | National Laboratory news portals & 72 awardee university press releases |
+| `5. National Labs & University Coverage` | **341** | 51.7% | National Laboratory news portals & 72 awardee university press releases |
 | `6. Additional Event Materials & Reference Links` | **18** | 2.7% | Presentation slide decks, institutional intro files & video recordings |
 | `7. Technical Documents, RFA Guidance & Official Webinars` | **21** | 3.2% | DE-FOA-0003612 solicitations, OSTP challenge papers, SCAC presentations & peer-reviewed AI-for-science research |
 
@@ -45,7 +45,7 @@ Below is the distribution of references grouped by top domain hosts and institut
 | `news.fnal.gov` | **14** | Fermi National Accelerator Laboratory | SQMS quantum center, xLight EUV lithography FEL CRADA, DUNE AI neutrino reconstruction, supernova alert workflows, leadership reorganization, and AI/ML resonance control for SRF cavities at PIP-II |
 | `science.osti.gov` | **12** | DOE Office of Science (OSTI) | DE-FOA-0003612 guidance, BES/FES/HEP/BER webinars, FAQs, award flyer, Isotope R&D and Production (DOE IP) funding opportunities portal |
 | `www.bnl.gov` | **9** | Brookhaven National Laboratory (BNL) | C2QA quantum advantage center, NSLS-II beamlines, uncertainty-guided molecular design, Quantum Technology Outposts at EIC, seven Phase I project leads, 13-mile wireless free-space quantum network link (with Stony Brook University), and the $14.2M Genesis Mission Phase II grid foundation model (GridFM) award |
-| `newscenter.lbl.gov` | **8** | Lawrence Berkeley National Lab (LBNL) | 13 AI projects lead, ModCon platform, Cech system delivery |
+| `newscenter.lbl.gov` | **9** | Lawrence Berkeley National Lab (LBNL) | 13 AI projects lead, ModCon platform, Cech system delivery, and the Berkeley Lab–led **MOAT-Core** Phase II Genesis Mission award scaling the agentic accelerator assistant **Osprey** across the DOE accelerator complex |
 | `www.whitehouse.gov` | **7** | White House OSTP / Executive Office | Presidential executive actions, OSTP wins reports, press releases |
 | `inl.gov` | **7** | Idaho National Laboratory (INL) | SMR digital twins, nuclear AI permitting, autonomous reactor control, and robotic wire-arc additive manufacturing (WAAM) pressure vessel qualification |
 | `www.pnnl.gov` | **7** | Pacific Northwest National Laboratory (PNNL) | Official project portal, news media, biotechnology, grid operations, nuclear science, Phase I projects, and AI-enabled spectroscopic online monitoring for used nuclear fuel recycling |
@@ -822,3 +822,4 @@ A tabular master index for the reference collection:
 | 7. Technical Documents, RFA Guidance & Official Webinars | U.S. Department of Energy — Office of Science (Workforce RFI DE-SC-26-016) | U.S. Department of Energy: 2026 Genesis Mission AI Workforce Request for Information — DE-SC-26-016 (PDF) | `huggingface.co` | PDF | [U.S. Department of Energy: 2026 Genesis Mission AI Workforce Request for Information — DE-SC-26-016 (PDF)](https://huggingface.co/datasets/huggingface/policy-docs/resolve/main/2026_DOE_Genesis_Mission_AI_Workforce_RFI.pdf) | `Processed` | gov:DOE, consortium:Genesis |
 | 4. Executive, Federal & Partner Announcements | - | xLight: xLight Finalizes $150M CHIPS Incentives with U.S. Department of Commerce | `www.xlight.com` | Web | [xLight: xLight Finalizes $150M CHIPS Incentives with U.S. Department of Commerce](https://www.xlight.com/blog/xlight-finalizes-150m-chips-incentives-with-u-s-department-of-commerce) | `Processed` | company:xLight |
 | 4. Executive, Federal & Partner Announcements | Anthropic | Building on our commitment to American scientific discovery | `www.anthropic.com` | Web | [Anthropic: Building on our commitment to American scientific discovery](https://www.anthropic.com/news/genesis-mission-commitment) | `Processed` | company:Anthropic, gov:DOE, gov:OSTP, gov:NASA, gov:NSF, gov:NIH, consortium:Genesis |
+| 5. National Labs & University Coverage | Lawrence Berkeley National Laboratory (LBNL) | Super Intelligence for Particle Accelerators Gets Another Boost | `newscenter.lbl.gov` | Web | [Super Intelligence for Particle Accelerators Gets Another Boost](https://newscenter.lbl.gov/2026/10/08/super-intelligence-for-particle-accelerators-gets-another-boost/) | `Processed` | lab:LBNL, gov:DOE, consortium:Genesis, person:Jean-Luc Vay, person:Thorsten Hellert |

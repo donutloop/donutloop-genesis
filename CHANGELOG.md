@@ -6,6 +6,14 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 
+## [3.34.20] - 2026-10-08
+
+### Added
+- **Processed new reference**: [Berkeley Lab News Center: Super Intelligence for Particle Accelerators Gets Another Boost](https://newscenter.lbl.gov/2026/10/08/super-intelligence-for-particle-accelerators-gets-another-boost/) — DOE **Phase II Genesis Mission** award announcement (**October 8, 2026**, host domain `newscenter.lbl.gov`, link canonicalized to the site's date-path permalink form): Berkeley Lab will lead **MOAT-Core** (*Multi-Office Accelerator Team Core Project*), scaling the agentic accelerator assistant **Osprey** — described by DOE as **"Super Intelligence" (SI)** — from an ALS-first prototype to **16 collaborating institutions** over multiple years on the DOE-built **American Science and Security Platform**, with Phase II extending natural-language operation to additional DOE accelerators, coupling the tool to **digital twins** for accelerator design, and supporting the **ALS-U** light-source upgrade (project lead **Jean-Luc Vay**, ATAP Advanced Modeling Program; **Thorsten Hellert**, ATAP/ALS Accelerator Physics). MOAT-Core partners: ANL, LBNL, BNL, FNAL, TJNAF, ORNL, PNNL, SLAC + **Cornell University**, **Michigan State University / FRIB**, **Old Dominion University**, **University of Chicago** and industry partners. Berkeley Lab additionally joins five Phase II awards pending final agreements (**AXESS**, **AI4HPC**, **ASQC**, **Lattice QCD at the Intelligence Frontier**, **MAESTRO**) and two new Phase I awards, while continuing to lead 13 Phase I projects and partner on more than 30 others.
+- **Enriched paper sections**: `README.md` Abstract High-Energy Physics & Particle Accelerators bullet, §3.2 *Lawrence Berkeley National Laboratory (LBNL)* profile (new *Phase II Genesis Mission — MOAT-Core (October 2026)* sub-bullet) and the Appendix **A.2** laboratory row; mirrored in full parity in `README.de.md` (Zusammenfassung, §3.2 LBNL-Profil — *Phase II der Genesis-Mission — MOAT-Core (Oktober 2026)*, Anhang A.2).
+- **Tracker synchronization**: registered the link in `references.md` under *5. National Labs & University Coverage* (Berkeley Lab block) and appended the processed master-index row plus the refreshed `newscenter.lbl.gov` host count in `reference_coverage.md`; refreshed the LBNL notes row in `coverage.md` and added **Old Dominion University** as a new ❌ Not Covered (reference-only) entity — tracker now at **243 tracked participants / 217 full profiles (89.3%)**, Universities 94 (18 not covered).
+- **Index completion**: master reference audit index now at **660 / 660 Processed, 100% Complete** (Section 5 distribution 341 links / 51.7%; 636 web portals, 24 PDFs, 316 unique domains).
+
 ## [3.34.19] - 2026-10-08
 
 ### Added
