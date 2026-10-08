@@ -1,7 +1,7 @@
 # Genesis Mission — Master Reference Coverage Report
 
 > **Document Overview:**
-> This report provides a comprehensive coverage analysis, breakdown, and master audit index for the **670 external reference links** compiled within `references.md` for the **Genesis Mission** documentation repository.
+> This report provides a comprehensive coverage analysis, breakdown, and master audit index for the **671 external reference links** compiled within `references.md` for the **Genesis Mission** documentation repository.
 
 ---
 
@@ -9,13 +9,13 @@
 
 | Metric | Count / Value | Description |
 | :--- | :--- | :--- |
-| **Total Reference Links** | **670** | Unique external links indexed across all sections |
+| **Total Reference Links** | **671** | Unique external links indexed across all sections |
 | **Primary Document Sections** | **7** | High-level thematic categories in `references.md` |
 | **Unique Target Domains** | **318** | Distinct domain names referenced (government, lab, corporate, academic, news) |
 | **Official PDF Documents** | **24** | Formal RFA solicitations, webinars, slides, and executive reports |
-| **Web Portals & Press Releases** | **646** | Newsroom features, corporate blog posts, and interactive hubs |
+| **Web Portals & Press Releases** | **647** | Newsroom features, corporate blog posts, and interactive hubs |
 | **Validation Status** | **100% Validated** | All links canonicalized, formatted, and deduplicated |
-| **Processing Status** | **670 / 670 Processed** | 0 Unprocessed, 670 Processed (100% Complete) |
+| **Processing Status** | **671 / 671 Processed** | 0 Unprocessed, 671 Processed (100% Complete) |
 
 ---
 
@@ -26,8 +26,8 @@
 | `1. Key Presentation Details` | **3** | 0.4% | Briefing agendas, U.S. ATLAS IB meeting details & CERN links |
 | `2. Collaborators` | **80** | 11.9% | Official homepage & announcement links for industrial/energy partners |
 | `3. Quantum Leadership & CHIPS Act Initiatives` | **11** | 1.6% | Department of Commerce NIST LOIs & DOE $2B quantum initiatives |
-| `4. Executive, Federal & Partner Announcements` | **188** | 28.1% | White House releases, Cabinet agency press, hyperscaler & lab announcements |
-| `5. National Labs & University Coverage` | **349** | 52.1% | National Laboratory news portals & 72 awardee university press releases |
+| `4. Executive, Federal & Partner Announcements` | **189** | 28.2% | White House releases, Cabinet agency press, hyperscaler & lab announcements |
+| `5. National Labs & University Coverage` | **349** | 52.0% | National Laboratory news portals & 72 awardee university press releases |
 | `6. Additional Event Materials & Reference Links` | **18** | 2.7% | Presentation slide decks, institutional intro files & video recordings |
 | `7. Technical Documents, RFA Guidance & Official Webinars` | **21** | 3.1% | DE-FOA-0003612 solicitations, OSTP challenge papers, SCAC presentations & peer-reviewed AI-for-science research |
 
@@ -90,7 +90,7 @@ Below is the distribution of references grouped by top domain hosts and institut
 | `epicenter.energy.gatech.edu` | **1** | Georgia Tech | Energy Policy and Innovation Center (EPICenter) |
 | `www.bu.edu` | **1** | Boston University | College of Engineering Genesis Mission plasma physics award coverage |
 | `news.uchicago.edu` | **1** | University of Chicago | Argonne National Laboratory 80th anniversary retrospective |
-| `www.nsf.gov` | **1** | National Science Foundation (NSF) | Dear-Colleague-Letter & funding announcements |
+| `www.nsf.gov` | **2** | National Science Foundation (NSF) | Dear-Colleague-Letter & funding announcements, plus the **NSF 26-512 AI Datasets Program Solicitation** (**posted 21 Jul 2026**; $60M–$100M across 25–50 awards, Impact ≤$2M / Flagship ≤$5M / Planning ≤$200K, proposals due 4 Nov 2026 then first Wednesday in November annually, six participating NSF directorates + Office of Research Infrastructure, explicit Genesis Mission platform / NAIRR / IDSS leverage expectation, EO 14332 lower-indirect-cost-rate preference) |
 | `research.ibm.com` | **1** | IBM Research | $1B quantum foundry subsidiary and $50M compute commitment |
 | `public-inspection.federalregister.gov` | **1** | Federal Register | Executive Order 14363 public inspection document (PDF) |
 | `media.defense.gov` | **1** | Department of War / DoD | Defense AI strategy and national security S&T guidance (PDF) |
@@ -836,3 +836,4 @@ A tabular master index for the reference collection:
 | 5. National Labs & University Coverage | University of Oregon (UO) | UO physicist earns Genesis Mission award | `research.uoregon.edu` | Web | [UO physicist earns Genesis Mission award](https://research.uoregon.edu/news/uo-physicist-earns-genesis-mission-award) | `Processed` | org:University of Oregon, org:Brown University, lab:BNL, org:CERN-LHC, gov:DOE, consortium:Genesis, project:MANGO, person:Stephanie Majewski |
 | 5. National Labs & University Coverage | San Diego Supercomputer Center (SDSC), UC San Diego & Texas Advanced Computing Center (TACC), UT Austin — NSF NAIRR Operations Center | Strengthening America's AI Ecosystem with the Launch of the NSF NAIRR Operations Center | `today.ucsd.edu` | Web | [Strengthening America's AI Ecosystem with the Launch of the NSF NAIRR Operations Center](https://today.ucsd.edu/story/strengthening-americas-ai-ecosystem-with-the-launch-of-the-nsf-nairr-operations-center) | `Processed` | org:San Diego Supercomputer Center, org:Texas Advanced Computing Center, org:University of California San Diego, org:University of Texas at Austin, gov:NSF, gov:White House OSTP, consortium:Genesis, project:NAIRR-OC, project:NDP, project:NRP, project:NSF LCCF, project:Tapis, person:Frank Würthwein, person:Ashley Atkins, person:Maytal Dahan, person:Dan Stanzione |
 | 5. National Labs & University Coverage | Oak Ridge Leadership Computing Facility (OLCF / ORNL NCCS) | Call for Proposals Open to Develop Discovery Supercomputer’s First Science Applications | `www.olcf.ornl.gov` | Web | [Call for Proposals Open to Develop Discovery Supercomputer’s First Science Applications](https://www.olcf.ornl.gov/2026/01/12/call-for-proposals-open-to-develop-discovery-supercomputers-first-science-applications/) | `Processed` | lab:OLCF, lab:ORNL, gov:DOE, gov:Office of Science, consortium:Genesis, facility:Discovery, facility:Frontier, program:CAAR, org:ORNL HPE/AMD Center of Excellence, company:AMD, company:Hewlett Packard Enterprise, person:Arjun Shankar, person:Reuben Budiardja, person:Bronson Messer, person:Jeremy Rumsey |
+| 4. Executive, Federal & Partner Announcements | National Science Foundation (NSF) — AI Datasets Program | NSF 26-512: Unlocking Dataset Value for AI-Enabled Scientific Discovery (AI Datasets) — Program Solicitation | `www.nsf.gov` | Web | [NSF 26-512: Unlocking Dataset Value for AI-Enabled Scientific Discovery (AI Datasets) — Program Solicitation](https://www.nsf.gov/funding/opportunities/ai-datasets-unlocking-dataset-value-ai-enabled-scientific-discovery/nsf26-512/solicitation) | `Processed` | gov:NSF, gov:White House OSTP, consortium:Genesis, program:AI-Datasets, program:NSF-IDSS, project:NAIRR, doc:Program-Solicitation, solicitation:NSF-26-512, policy:America-AI-Action-Plan, policy:EO-14332, directorate:NSF-CISE, directorate:NSF-BIO, directorate:NSF-ENG, directorate:NSF-GEO, directorate:NSF-MPS, directorate:NSF-TIP, org:NSF-Office-of-Research-Infrastructure, award:Impact, award:Flagship, award:Planning |
