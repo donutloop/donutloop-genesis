@@ -65,3 +65,16 @@
 * https://www.odu.edu/article/old-dominion-university-selected-for-two-federal-genesis-mission-awards-advancing
 * https://www.unr.edu/nevada-today/news/2026/ankita-shukla-genesis-mission-project
 * https://news.stonybrook.edu/university/genesis-mission-award-recipient-and-ai-expert-named-chair-of-department-of-materials-science-and-chemical-engineering/
+* https://www.energy.gov/em/articles/assistant-secretary-walsh-views-art-possible-srs-visit
+* https://www.riken.jp/en/news_pubs/news/2026/20260127_1/index.html
+* https://www.rti.org/news/doe-genesis-mission-research-teams
+* https://www.anl.gov/article/realtime-ai-engine-poised-to-revolutionize-largescale-imaging-data-at-national-labs
+* https://news.research.gatech.edu/2026/07/24/georgia-tech-helps-advance-genesis-mission-national-effort-transform-scientific
+* https://www.llnl.gov/article/54421/big-ideas-lab-explores-how-genesis-mission-aims-accelerate-scientific-discovery
+* https://www.lanl.gov/media/news/0708-uc-ai-summit
+* https://news.arizona.edu/news/department-energy-selects-5-u-research-projects-through-new-ai-science-genesis-mission-awards
+* https://www.cmu.edu/dietrich/ai/news/doe-genesis-grant-chad-schafer.html
+* https://www.energy.gov/ne/articles/department-energy-unleashes-ai-reduce-reactor-licensing-timelines
+* https://www.energy.gov/em/articles/srnl-harnesses-ai-tackle-environmental-challenges-cut-cleanup-costs
+* https://www.energy.gov/undersecretaryforscience/genesis-mission/predicting-us-water-energy
+* https://www.energy.gov/ne/articles/one-year-after-executive-orders-us-nuclear-energy-renaissance-full-swing
