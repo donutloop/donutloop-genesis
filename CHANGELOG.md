@@ -6,6 +6,14 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 
+## [3.34.19] - 2026-10-08
+
+### Added
+- **Processed new reference**: [Anthropic: Building on our commitment to American scientific discovery](https://www.anthropic.com/news/genesis-mission-commitment) — first-party Anthropic announcement (**October 8, 2026**, host domain `www.anthropic.com`) of a **$150 Million**, three-year commitment to the Genesis Mission unveiled at the White House Office of Science and Technology Policy **Science: A New Golden Age Summit** in Washington, D.C. The funding extends Claude to **more than 15 mission agencies** including **NASA**, the **National Institutes of Health (NIH)** and the **National Science Foundation (NSF)**, supplies **Claude, Claude Code and API credits to several hundred Genesis Mission research projects**, pairs Anthropic with agencies and national laboratories on the **fusion energy** and **quantum computing** science priorities, and adds training, onboarding and technical support for mission scientists plus first-project enablement for agencies newly joining the mission — building on the December 2025 DOE/Genesis partnership and sitting alongside **Claude Science**, **10,000 free and discounted academic Claude seats**, the expanded **AI for Science** program and the **Model Hardware Standard** research preview for safe AI-agent operation of laboratory instruments.
+- **Enriched paper sections**: `README.md` §3.1 *Anthropic* profile (new *Genesis Mission Commitment (October 2026)* sub-bullet, third source citation in the profile lead-in), the Abstract *Public-Private-Academic Synergies* bullet and the Appendix **A.3 Frontier AI & Data Platforms** row; mirrored in full parity in `README.de.md` (§3.1 *Anthropic* — *Genesis-Mission-Zusage (Oktober 2026)*, Abstract and Anhang A.3).
+- **Tracker synchronization**: registered the link in `references.md` under *4. Executive, Federal & Partner Announcements*, appended the processed master-index row plus the `www.anthropic.com` host row in `reference_coverage.md`, and refreshed the Anthropic notes row in `coverage.md` (entity already ✅ Full Profile — no new entity introduced).
+- **Index completion**: master reference audit index now at **659 / 659 Processed, 100% Complete** (Section 4 distribution 186 links / 28.2%; 635 web portals, 24 PDFs, 316 unique domains).
+
 ## [3.34.18] - 2026-09-09
 
 ### Added

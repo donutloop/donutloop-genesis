@@ -1,7 +1,7 @@
 # Genesis Mission — Master Reference Coverage Report
 
 > **Document Overview:**
-> This report provides a comprehensive coverage analysis, breakdown, and master audit index for the **658 external reference links** compiled within `references.md` for the **Genesis Mission** documentation repository.
+> This report provides a comprehensive coverage analysis, breakdown, and master audit index for the **659 external reference links** compiled within `references.md` for the **Genesis Mission** documentation repository.
 
 ---
 
@@ -9,13 +9,13 @@
 
 | Metric | Count / Value | Description |
 | :--- | :--- | :--- |
-| **Total Reference Links** | **658** | Unique external links indexed across all sections |
+| **Total Reference Links** | **659** | Unique external links indexed across all sections |
 | **Primary Document Sections** | **7** | High-level thematic categories in `references.md` |
 | **Unique Target Domains** | **316** | Distinct domain names referenced (government, lab, corporate, academic, news) |
 | **Official PDF Documents** | **24** | Formal RFA solicitations, webinars, slides, and executive reports |
-| **Web Portals & Press Releases** | **634** | Newsroom features, corporate blog posts, and interactive hubs |
+| **Web Portals & Press Releases** | **635** | Newsroom features, corporate blog posts, and interactive hubs |
 | **Validation Status** | **100% Validated** | All links canonicalized, formatted, and deduplicated |
-| **Processing Status** | **658 / 658 Processed** | 0 Unprocessed, 658 Processed (100% Complete) |
+| **Processing Status** | **659 / 659 Processed** | 0 Unprocessed, 659 Processed (100% Complete) |
 
 ---
 
@@ -24,10 +24,10 @@
 | Section Header | Link Count | Share (%) | Primary Focus Area |
 | :--- | :---: | :---: | :--- |
 | `1. Key Presentation Details` | **3** | 0.5% | Briefing agendas, U.S. ATLAS IB meeting details & CERN links |
-| `2. Collaborators` | **80** | 12.2% | Official homepage & announcement links for industrial/energy partners |
+| `2. Collaborators` | **80** | 12.1% | Official homepage & announcement links for industrial/energy partners |
 | `3. Quantum Leadership & CHIPS Act Initiatives` | **11** | 1.7% | Department of Commerce NIST LOIs & DOE $2B quantum initiatives |
-| `4. Executive, Federal & Partner Announcements` | **185** | 28.1% | White House releases, Cabinet agency press, hyperscaler & lab announcements |
-| `5. National Labs & University Coverage` | **340** | 51.7% | National Laboratory news portals & 72 awardee university press releases |
+| `4. Executive, Federal & Partner Announcements` | **186** | 28.2% | White House releases, Cabinet agency press, hyperscaler & lab announcements |
+| `5. National Labs & University Coverage` | **340** | 51.6% | National Laboratory news portals & 72 awardee university press releases |
 | `6. Additional Event Materials & Reference Links` | **18** | 2.7% | Presentation slide decks, institutional intro files & video recordings |
 | `7. Technical Documents, RFA Guidance & Official Webinars` | **21** | 3.2% | DE-FOA-0003612 solicitations, OSTP challenge papers, SCAC presentations & peer-reviewed AI-for-science research |
 
@@ -152,6 +152,7 @@ Below is the distribution of references grouped by top domain hosts and institut
 | `www.catholic.edu` | **1** | The Catholic University of America | Physics-aware AI for Electron-Ion Collider streaming readout |
 | `www.micro1.ai` | **1** | micro1 | AI engineering talent support |
 | `www.xlight.com` | **1** | xLight | Company blog on finalizing $150M CHIPS incentives with U.S. Dept. of Commerce |
+| `www.anthropic.com` | **3** | Anthropic | Frontier-AI partner portal and Genesis announcements: Anthropic Science launch, the DOE/Genesis Mission partnership, and the October 2026 **$150M three-year Genesis Mission commitment** delivering Claude, Claude Code and API credits to several hundred research projects across 15+ mission agencies (NASA, NIH, NSF) |
 
 ---
 
@@ -820,3 +821,4 @@ A tabular master index for the reference collection:
 | 7. Technical Documents, RFA Guidance & Official Webinars | DOE Office of Science — Isotope R&D and Production (DOE IP) | DOE Office of Science: Isotope R&D and Production (DOE IP) Funding Opportunities Portal | `science.osti.gov` | Web | [DOE Office of Science: Isotope R&D and Production (DOE IP) Funding Opportunities Portal](https://science.osti.gov/Isotope-Research-Development-and-Production/Funding-Opportunities) | `Processed` | gov:DOE, consortium:Genesis |
 | 7. Technical Documents, RFA Guidance & Official Webinars | U.S. Department of Energy — Office of Science (Workforce RFI DE-SC-26-016) | U.S. Department of Energy: 2026 Genesis Mission AI Workforce Request for Information — DE-SC-26-016 (PDF) | `huggingface.co` | PDF | [U.S. Department of Energy: 2026 Genesis Mission AI Workforce Request for Information — DE-SC-26-016 (PDF)](https://huggingface.co/datasets/huggingface/policy-docs/resolve/main/2026_DOE_Genesis_Mission_AI_Workforce_RFI.pdf) | `Processed` | gov:DOE, consortium:Genesis |
 | 4. Executive, Federal & Partner Announcements | - | xLight: xLight Finalizes $150M CHIPS Incentives with U.S. Department of Commerce | `www.xlight.com` | Web | [xLight: xLight Finalizes $150M CHIPS Incentives with U.S. Department of Commerce](https://www.xlight.com/blog/xlight-finalizes-150m-chips-incentives-with-u-s-department-of-commerce) | `Processed` | company:xLight |
+| 4. Executive, Federal & Partner Announcements | Anthropic | Building on our commitment to American scientific discovery | `www.anthropic.com` | Web | [Anthropic: Building on our commitment to American scientific discovery](https://www.anthropic.com/news/genesis-mission-commitment) | `Processed` | company:Anthropic, gov:DOE, gov:OSTP, gov:NASA, gov:NSF, gov:NIH, consortium:Genesis |
