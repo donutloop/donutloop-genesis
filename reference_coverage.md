@@ -1,7 +1,7 @@
 # Genesis Mission — Master Reference Coverage Report
 
 > **Document Overview:**
-> This report provides a comprehensive coverage analysis, breakdown, and master audit index for the **669 external reference links** compiled within `references.md` for the **Genesis Mission** documentation repository.
+> This report provides a comprehensive coverage analysis, breakdown, and master audit index for the **670 external reference links** compiled within `references.md` for the **Genesis Mission** documentation repository.
 
 ---
 
@@ -9,13 +9,13 @@
 
 | Metric | Count / Value | Description |
 | :--- | :--- | :--- |
-| **Total Reference Links** | **669** | Unique external links indexed across all sections |
+| **Total Reference Links** | **670** | Unique external links indexed across all sections |
 | **Primary Document Sections** | **7** | High-level thematic categories in `references.md` |
 | **Unique Target Domains** | **318** | Distinct domain names referenced (government, lab, corporate, academic, news) |
 | **Official PDF Documents** | **24** | Formal RFA solicitations, webinars, slides, and executive reports |
-| **Web Portals & Press Releases** | **645** | Newsroom features, corporate blog posts, and interactive hubs |
+| **Web Portals & Press Releases** | **646** | Newsroom features, corporate blog posts, and interactive hubs |
 | **Validation Status** | **100% Validated** | All links canonicalized, formatted, and deduplicated |
-| **Processing Status** | **669 / 669 Processed** | 0 Unprocessed, 669 Processed (100% Complete) |
+| **Processing Status** | **670 / 670 Processed** | 0 Unprocessed, 670 Processed (100% Complete) |
 
 ---
 
@@ -24,10 +24,10 @@
 | Section Header | Link Count | Share (%) | Primary Focus Area |
 | :--- | :---: | :---: | :--- |
 | `1. Key Presentation Details` | **3** | 0.4% | Briefing agendas, U.S. ATLAS IB meeting details & CERN links |
-| `2. Collaborators` | **80** | 12.0% | Official homepage & announcement links for industrial/energy partners |
+| `2. Collaborators` | **80** | 11.9% | Official homepage & announcement links for industrial/energy partners |
 | `3. Quantum Leadership & CHIPS Act Initiatives` | **11** | 1.6% | Department of Commerce NIST LOIs & DOE $2B quantum initiatives |
 | `4. Executive, Federal & Partner Announcements` | **188** | 28.1% | White House releases, Cabinet agency press, hyperscaler & lab announcements |
-| `5. National Labs & University Coverage` | **348** | 52.0% | National Laboratory news portals & 72 awardee university press releases |
+| `5. National Labs & University Coverage` | **349** | 52.1% | National Laboratory news portals & 72 awardee university press releases |
 | `6. Additional Event Materials & Reference Links` | **18** | 2.7% | Presentation slide decks, institutional intro files & video recordings |
 | `7. Technical Documents, RFA Guidance & Official Webinars` | **21** | 3.1% | DE-FOA-0003612 solicitations, OSTP challenge papers, SCAC presentations & peer-reviewed AI-for-science research |
 
@@ -135,7 +135,7 @@ Below is the distribution of references grouped by top domain hosts and institut
 | `lasierra.edu` | **1** | La Sierra University | Battery management and energy science adversarial AI robustness |
 | `foundry.lbl.gov` | **1** | Molecular Foundry (LBNL) | Autonomous synthesis clusters, high-throughput STEM, and materials automation |
 | `fenado.ai` | **1** | Rescale | Agentic HPC Pipeline Initiative (AHPI) |
-| `www.olcf.ornl.gov` | **1** | Oak Ridge Leadership Computing Facility | Lux AI-optimized and HPC-centric compute system architecture |
+| `www.olcf.ornl.gov` | **2** | Oak Ridge Leadership Computing Facility | Lux AI-optimized and HPC-centric compute system architecture, plus the **12 Jan 2026 Discovery CAAR Call for Proposals** (12 Jan–16 Mar 2026 window, ≥5× acceleration-plan threshold over Frontier-class applications, day-one challenge problems, May 2026 decisions, AMD/HPE support via the ORNL HPE/AMD Center of Excellence) |
 | `doresearch.stanford.edu` | **1** | Stanford University | Research Development Office federal funding tools |
 | `viterbischool.usc.edu` | **1** | University of Southern California | AI-driven fluid turbulence simulation research |
 | `www.vtcrc.com` | **1** | Aclara Technologies | Heavy rare earth processing federal award |
@@ -835,3 +835,4 @@ A tabular master index for the reference collection:
 | 5. National Labs & University Coverage | Massachusetts Institute of Technology (MIT) — Disruptions @ MIT PSFC | MIT projects selected for funding under US Department of Energy's Genesis Mission | `disruptions.mit.edu` | Web | [MIT projects selected for funding under US Department of Energy's Genesis Mission (Disruptions @ MIT PSFC)](https://disruptions.mit.edu/news/2026/genesis/) | `Processed` | org:MIT, center:MIT-PSFC, gov:DOE, consortium:Genesis, project:CATALYST, person:Cristina Rea, person:Ian A. Waitz, person:Darío Gil |
 | 5. National Labs & University Coverage | University of Oregon (UO) | UO physicist earns Genesis Mission award | `research.uoregon.edu` | Web | [UO physicist earns Genesis Mission award](https://research.uoregon.edu/news/uo-physicist-earns-genesis-mission-award) | `Processed` | org:University of Oregon, org:Brown University, lab:BNL, org:CERN-LHC, gov:DOE, consortium:Genesis, project:MANGO, person:Stephanie Majewski |
 | 5. National Labs & University Coverage | San Diego Supercomputer Center (SDSC), UC San Diego & Texas Advanced Computing Center (TACC), UT Austin — NSF NAIRR Operations Center | Strengthening America's AI Ecosystem with the Launch of the NSF NAIRR Operations Center | `today.ucsd.edu` | Web | [Strengthening America's AI Ecosystem with the Launch of the NSF NAIRR Operations Center](https://today.ucsd.edu/story/strengthening-americas-ai-ecosystem-with-the-launch-of-the-nsf-nairr-operations-center) | `Processed` | org:San Diego Supercomputer Center, org:Texas Advanced Computing Center, org:University of California San Diego, org:University of Texas at Austin, gov:NSF, gov:White House OSTP, consortium:Genesis, project:NAIRR-OC, project:NDP, project:NRP, project:NSF LCCF, project:Tapis, person:Frank Würthwein, person:Ashley Atkins, person:Maytal Dahan, person:Dan Stanzione |
+| 5. National Labs & University Coverage | Oak Ridge Leadership Computing Facility (OLCF / ORNL NCCS) | Call for Proposals Open to Develop Discovery Supercomputer’s First Science Applications | `www.olcf.ornl.gov` | Web | [Call for Proposals Open to Develop Discovery Supercomputer’s First Science Applications](https://www.olcf.ornl.gov/2026/01/12/call-for-proposals-open-to-develop-discovery-supercomputers-first-science-applications/) | `Processed` | lab:OLCF, lab:ORNL, gov:DOE, gov:Office of Science, consortium:Genesis, facility:Discovery, facility:Frontier, program:CAAR, org:ORNL HPE/AMD Center of Excellence, company:AMD, company:Hewlett Packard Enterprise, person:Arjun Shankar, person:Reuben Budiardja, person:Bronson Messer, person:Jeremy Rumsey |
