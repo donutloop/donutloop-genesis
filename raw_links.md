@@ -1,5 +1,4 @@
 * https://www.energy.gov/undersecretaryforscience/person/shawn-whitman
-* https://www.rti.org/impact/ai-scientific-discovery-genesis-mission
 * https://engineering.wisc.edu/news/with-funding-from-doe-genesis-mission-uw-madison-engineers-to-lead-projects-aimed-at-advancing-fusion/
 * https://sbmatters.stonybrook.edu/stony-brook-university-researchers-chosen-for-landmark-doe-genesis-mission-ai-for-science-awards/
 * https://news.stanford.edu/stories/2026/06/slac-data-doe-genesis-mission

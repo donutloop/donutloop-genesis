@@ -1,7 +1,7 @@
 # Genesis Mission — Master Reference Coverage Report
 
 > **Document Overview:**
-> This report provides a comprehensive coverage analysis, breakdown, and master audit index for the **671 external reference links** compiled within `references.md` for the **Genesis Mission** documentation repository.
+> This report provides a comprehensive coverage analysis, breakdown, and master audit index for the **672 external reference links** compiled within `references.md` for the **Genesis Mission** documentation repository.
 
 ---
 
@@ -9,13 +9,13 @@
 
 | Metric | Count / Value | Description |
 | :--- | :--- | :--- |
-| **Total Reference Links** | **671** | Unique external links indexed across all sections |
+| **Total Reference Links** | **672** | Unique external links indexed across all sections |
 | **Primary Document Sections** | **7** | High-level thematic categories in `references.md` |
 | **Unique Target Domains** | **318** | Distinct domain names referenced (government, lab, corporate, academic, news) |
 | **Official PDF Documents** | **24** | Formal RFA solicitations, webinars, slides, and executive reports |
-| **Web Portals & Press Releases** | **647** | Newsroom features, corporate blog posts, and interactive hubs |
+| **Web Portals & Press Releases** | **648** | Newsroom features, corporate blog posts, and interactive hubs |
 | **Validation Status** | **100% Validated** | All links canonicalized, formatted, and deduplicated |
-| **Processing Status** | **671 / 671 Processed** | 0 Unprocessed, 671 Processed (100% Complete) |
+| **Processing Status** | **672 / 672 Processed** | 0 Unprocessed, 672 Processed (100% Complete) |
 
 ---
 
@@ -26,8 +26,8 @@
 | `1. Key Presentation Details` | **3** | 0.4% | Briefing agendas, U.S. ATLAS IB meeting details & CERN links |
 | `2. Collaborators` | **80** | 11.9% | Official homepage & announcement links for industrial/energy partners |
 | `3. Quantum Leadership & CHIPS Act Initiatives` | **11** | 1.6% | Department of Commerce NIST LOIs & DOE $2B quantum initiatives |
-| `4. Executive, Federal & Partner Announcements` | **189** | 28.2% | White House releases, Cabinet agency press, hyperscaler & lab announcements |
-| `5. National Labs & University Coverage` | **349** | 52.0% | National Laboratory news portals & 72 awardee university press releases |
+| `4. Executive, Federal & Partner Announcements` | **189** | 28.1% | White House releases, Cabinet agency press, hyperscaler & lab announcements |
+| `5. National Labs & University Coverage` | **350** | 52.1% | National Laboratory news portals & 72 awardee university press releases |
 | `6. Additional Event Materials & Reference Links` | **18** | 2.7% | Presentation slide decks, institutional intro files & video recordings |
 | `7. Technical Documents, RFA Guidance & Official Webinars` | **21** | 3.1% | DE-FOA-0003612 solicitations, OSTP challenge papers, SCAC presentations & peer-reviewed AI-for-science research |
 
@@ -78,7 +78,7 @@ Below is the distribution of references grouped by top domain hosts and institut
 | `www.purdue.edu` | **2** | Purdue University College of Engineering | Electron-Ion Collider AI real-time trigger & B2D7 pilot program |
 | `today.ucsd.edu` | **3** | University Newsroom | UC San Diego-led National Data Platform (NDP) and SIDERIUS AI scientist agent project, plus the UC San Diego **San Diego Supercomputer Center (SDSC)** leading the **$35M five-year NSF NAIRR Operations Center** cooperative award (no. **2616251**) with the **Texas Advanced Computing Center (TACC)** at UT Austin |
 | `www.washington.edu` | **2** | University of Washington | White House Genesis Mission launch summary and terahertz-enabled AR hardware |
-| `www.rti.org` | **2** | RTI International | Genesis Mission Consortium administration via TechWerx |
+| `www.rti.org` | **3** | RTI International | Genesis Mission Consortium administration via TechWerx, plus RTI's own 29 Jul 2026 consortium-operations profile (**DOE-selected lead operator** of the Consortium through its **TechWerx** partnership intermediary: day-to-day operations, partnerships/agreements/subawards, communications & outreach, events and the AI-model-development / data-integration / HPC / robotics working groups; priority domains advanced manufacturing, biotechnology, materials science, nuclear energy & quantum technologies) |
 | `exozymes.com` | **2** | eXoZymes | Cell-free enzymatic biomanufacturing and Genesis Mission digital twins |
 | `windowsforum.com` | **2** | Windows Forum News | Microsoft's $60M Genesis commitment and national AI infrastructure assessment |
 | `huggingface.co` | **2** | Hugging Face | Policy-docs repository for DOE Office of Science AI Workforce RFI |
@@ -837,3 +837,4 @@ A tabular master index for the reference collection:
 | 5. National Labs & University Coverage | San Diego Supercomputer Center (SDSC), UC San Diego & Texas Advanced Computing Center (TACC), UT Austin — NSF NAIRR Operations Center | Strengthening America's AI Ecosystem with the Launch of the NSF NAIRR Operations Center | `today.ucsd.edu` | Web | [Strengthening America's AI Ecosystem with the Launch of the NSF NAIRR Operations Center](https://today.ucsd.edu/story/strengthening-americas-ai-ecosystem-with-the-launch-of-the-nsf-nairr-operations-center) | `Processed` | org:San Diego Supercomputer Center, org:Texas Advanced Computing Center, org:University of California San Diego, org:University of Texas at Austin, gov:NSF, gov:White House OSTP, consortium:Genesis, project:NAIRR-OC, project:NDP, project:NRP, project:NSF LCCF, project:Tapis, person:Frank Würthwein, person:Ashley Atkins, person:Maytal Dahan, person:Dan Stanzione |
 | 5. National Labs & University Coverage | Oak Ridge Leadership Computing Facility (OLCF / ORNL NCCS) | Call for Proposals Open to Develop Discovery Supercomputer’s First Science Applications | `www.olcf.ornl.gov` | Web | [Call for Proposals Open to Develop Discovery Supercomputer’s First Science Applications](https://www.olcf.ornl.gov/2026/01/12/call-for-proposals-open-to-develop-discovery-supercomputers-first-science-applications/) | `Processed` | lab:OLCF, lab:ORNL, gov:DOE, gov:Office of Science, consortium:Genesis, facility:Discovery, facility:Frontier, program:CAAR, org:ORNL HPE/AMD Center of Excellence, company:AMD, company:Hewlett Packard Enterprise, person:Arjun Shankar, person:Reuben Budiardja, person:Bronson Messer, person:Jeremy Rumsey |
 | 4. Executive, Federal & Partner Announcements | National Science Foundation (NSF) — AI Datasets Program | NSF 26-512: Unlocking Dataset Value for AI-Enabled Scientific Discovery (AI Datasets) — Program Solicitation | `www.nsf.gov` | Web | [NSF 26-512: Unlocking Dataset Value for AI-Enabled Scientific Discovery (AI Datasets) — Program Solicitation](https://www.nsf.gov/funding/opportunities/ai-datasets-unlocking-dataset-value-ai-enabled-scientific-discovery/nsf26-512/solicitation) | `Processed` | gov:NSF, gov:White House OSTP, consortium:Genesis, program:AI-Datasets, program:NSF-IDSS, project:NAIRR, doc:Program-Solicitation, solicitation:NSF-26-512, policy:America-AI-Action-Plan, policy:EO-14332, directorate:NSF-CISE, directorate:NSF-BIO, directorate:NSF-ENG, directorate:NSF-GEO, directorate:NSF-MPS, directorate:NSF-TIP, org:NSF-Office-of-Research-Infrastructure, award:Impact, award:Flagship, award:Planning |
+| 5. National Labs & University Coverage | RTI International — TechWerx (Genesis Mission Consortium operator) | Accelerating AI for Scientific Discovery: The Genesis Mission | `www.rti.org` | Web | [Accelerating AI for Scientific Discovery: The Genesis Mission](https://www.rti.org/impact/ai-scientific-discovery-genesis-mission) | `Processed` | org:RTI International, org:TechWerx, gov:DOE, consortium:Genesis, person:Adam Klich, person:Amy Volckens, person:Carmen Strigel, person:Ivy Estabrooke |
