@@ -6,6 +6,14 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 
+## [3.34.21] - 2026-10-08
+
+### Added
+- **Processed new reference**: [Fermilab News: Fermilab to lead two new Genesis Mission awards to accelerate development of microelectronics and quantum](https://news.fnal.gov/2026/10/fermilab-to-lead-two-new-genesis-mission-awards-to-accelerate-development-of-microelectronics-and-quantum/) — Fermilab announcement (**October 8, 2026**, host domain `news.fnal.gov`) of two new Fermilab-led Genesis Mission awards in DOE's second recognition round: **AXESS** (*Accelerating eXtreme Environment Specs-to-Silicon*), elevated to a multi-year **Phase II** award using **super intelligence (SI)** to compress custom microelectronics design cycles **from months to minutes** for chips operating at cryogenic temperatures and under intense radiation (impact areas: quantum, fusion energy, particle physics; consortium incl. AMD, Arizona State University, Dataera, Georgia Tech, IBM, LBNL, MIT, ORNL, Purdue, Sandia, Siemens EDA, SLAC, UC San Diego, USC), and the **Phase I** award **QCVV** (*AI-Guided Sparse Characterization of Quantum Sensing States and Entanglement Structures*) with IBM, NVIDIA, Purdue, Quantum Machines and the University of Chicago, which builds a **digital twin** of the quantum system and selects each next measurement in a **closed loop** at the **SQMS Center's Quantum Garage**. Fermilab also joins the Berkeley Lab–led **MOAT-Core** and MIT-led **Lattice QCD at the Intelligence Frontier** Phase II awards as collaborating institution (CTO **Anna Grassellino**, Director **Norbert Holtkamp**).
+- **Enriched paper sections**: `README.md` §3.2 *Fermi National Accelerator Laboratory (Fermilab)* profile (new *October 2026 Award Round — AXESS Phase II & QCVV* sub-bullet) and the Appendix **A.2** laboratory row; mirrored in full parity in `README.de.md` (§3.2 Fermilab-Profil — *Vergaberunde Oktober 2026 — AXESS Phase II & QCVV*, Anhang A.2).
+- **Tracker synchronization**: registered the link in `references.md` under *5. National Labs & University Coverage* (Fermilab block) and appended the processed master-index row plus the refreshed `news.fnal.gov` host count (14 → 15) in `reference_coverage.md`; refreshed the Fermilab notes row in `coverage.md` and added **Quantum Machines** and the **Massachusetts Institute of Technology (MIT)** as new ❌ Not Covered (reference-only) entities — tracker now at **245 tracked participants / 217 full profiles (88.6%)** (Industry 96, Universities 95; 28 not covered).
+- **Index completion**: master reference audit index now at **661 / 661 Processed, 100% Complete** (Section 5 distribution 342 links / 51.7%; 637 web portals, 24 PDFs, 316 unique domains).
+
 ## [3.34.20] - 2026-10-08
 
 ### Added

@@ -1,9 +1,9 @@
 # Genesis Mission — Full Ecosystem Coverage Tracker
 
 > **Scope & Coverage Definition:**
-> - **Flagship Consortium Scope:** Tracks **all 243 primary flagship participants**—lead contractors, federal agencies, national laboratories, awardee universities, strategic industrial partners, and philanthropic foundations—explicitly profiled or referenced in the Genesis Mission paper (`README.md`) and reference index.
+> - **Flagship Consortium Scope:** Tracks **all 245 primary flagship participants**—lead contractors, federal agencies, national laboratories, awardee universities, strategic industrial partners, and philanthropic foundations—explicitly profiled or referenced in the Genesis Mission paper (`README.md`) and reference index.
 > - **Broader National Awardee Network Context:** Under solicitation DE-FOA-0003612 and interagency challenges, the broader national initiative encompasses **342 total participating institutions** (157 companies, 142 universities, 16 national labs, 13 non-profits, 14 other entities across 278 projects).
-> - **Coverage Status:** **217 / 243 (89.3%)** of the tracked consortium entities have dedicated, detailed technical profiles.
+> - **Coverage Status:** **217 / 245 (88.6%)** of the tracked consortium entities have dedicated, detailed technical profiles.
 
 **Legend:**
 - ✅ **Full Profile** — Dedicated section with detailed technical write-up (Sections 2.2 / 3.1 / 3.2 / 3.3 / 3.4 / 3.5)
@@ -74,6 +74,7 @@
 | 0 | [Intel](https://www.intel.com/) | ✅ Full Profile | §2.2, §3.1 | About portal (intel.com/newsroom), Tunnel Falls spin qubit & ArchEvolve agentic chip co-design |
 | 1 | [Quantinuum](https://www.quantinuum.com/) | ✅ Full Profile | §2.2, §3.1B, A.4 | About & H-Series hardware portals (quantinuum.com/company/about, quantinuum.com/hardware/h-series); $100M Department of Commerce CHIPS Act LOI targeting trapped-ion manufacturing bottlenecks plus public listing (QNT); QCCD trapped-ion architecture with 2D junction shuttling on the 98-qubit Helios QPU and production System Model H1/H2 series delivering all-to-all connectivity; surface ion trap microfabrication with Sandia National Laboratories, low-loss integrated photonics and Quantum Light Engines with GlobalFoundries & Monarch Quantum; 48 logical qubits with Microsoft, TKET compiler & InQuanto quantum chemistry platform federated with national laboratory HPC and brokered via ORNL QCUP |
 | 0 | [Rigetti Computing](https://www.rigetti.com/) | ✅ Full Profile | §2.2, §3.1 | About portal (rigetti.com/about-rigetti-computing), $100M LOI, Ankaa/Lyra, cryogenic readout & fusion sims |
+| 0 | [Quantum Machines](https://www.quantum-machines.co/) | ❌ Not Covered | — | Partner with Fermilab, IBM, NVIDIA, Purdue University and the University of Chicago on the **QCVV** Phase I Genesis Mission project (*AI-Guided Sparse Characterization of Quantum Sensing States and Entanglement Structures*, announced October 8, 2026), contributing quantum orchestration and experimental-control capability to the closed-loop SI characterization of large entangled states at Fermilab's SQMS Center (reference only) |
 
 ---
 
@@ -173,7 +174,7 @@
 | 0 | [Ames National Laboratory](https://www.ameslab.gov/) | ✅ Full Profile | §3.2, A.2 | Critical Materials Institute (CMI) lead, rare earth replacement & high-throughput alloy thermodynamics |
 | 0 | [Argonne National Laboratory (ANL)](https://www.anl.gov/) | ✅ Full Profile | §2.1, §2.3C, §2.3D, §3.2, A.2 | ALCF Solstice/Equinox, Aurora exascale, Genesis Open Models (GS1), Self-Driving MXene Memristor Discovery, AI Quantum Circuit Optimization, Cloud Microphysics Physics-Informed ML, Nuclear Fuel Recycling Digital Twins, CONUS Hydrological AI, Superconducting Polychronous Computation, OutLoud AI series, APS-U & Infleqtion QPU hub, STREAMLINE AI nuclear physics many-body simulation |
 | 0 | [Brookhaven National Laboratory (BNL)](https://www.bnl.gov/) | ✅ Full Profile | §3.2, A.2 | C2QA quantum co-design center lead, NSLS-II synchrotron beamlines & heavy-ion physics AI |
-| 0 | [Fermi National Accelerator Laboratory (Fermilab)](https://www.fnal.gov/) | ✅ Full Profile | §3.2, A.2 | SQMS quantum center lead, SRF 3D cavity qubits & xLight EUV lithography FEL CRADA partner |
+| 0 | [Fermi National Accelerator Laboratory (Fermilab)](https://www.fnal.gov/) | ✅ Full Profile | §3.2, A.2 | SQMS quantum center lead, SRF 3D cavity qubits & xLight EUV lithography FEL CRADA partner; leads the **Phase II** Genesis Mission award **AXESS** (SI-driven extreme-environment microelectronics, design cycle months → minutes) and the **QCVV** Phase I award on AI-guided sparse characterization of quantum sensing states & entanglement structures at the SQMS Quantum Garage; collaborating institution on **MOAT-Core** and **Lattice QCD at the Intelligence Frontier** (Oct 8, 2026 round) |
 | 0 | [Idaho National Laboratory (INL)](https://inl.gov/) | ✅ Full Profile | §2.3D, §3.1, §3.2, A.2 | Nuclear energy AI, small modular reactor (SMR) digital twins, AWS cloud HPC & autonomous reactor control |
 | 0 | [Kansas City National Security Campus (KCNSC)](https://kcnsc.doe.gov/) | ✅ Full Profile | §3.2, A.4 | NNSA microelectronics manufacturing, AI quality assurance & stockpile component digital twins |
 | 1 | [Lawrence Berkeley National Laboratory (LBNL)](https://www.lbl.gov/) | ✅ Full Profile | §2.1, §3.2, A.2 | 13 flagship AI-for-science projects lead, ModCon (Transformational AI Models Consortium) platform, NERSC exascale supercomputing (Perlmutter & Doudna), Materials Project AI integration, ATAP-led MOAT accelerator digital twins / AI operator assistants & fusion-specific AI models, HTS magnets, OPAL bioDesign biology foundation models, SYNAPS-I & DESI astrophysics breakthroughs, Molecular Foundry NSRC; leads **MOAT-Core**, the DOE **Phase II** Genesis Mission award (announced Oct 8, 2026; **16 collaborating institutions**, multi-year) scaling the agentic accelerator assistant **Osprey** across the DOE complex with digital-twin-assisted accelerator design and **ALS-U** optimization |
@@ -297,6 +298,7 @@
 | 1 | [University of Chicago](https://www.uchicago.edu/) | ✅ Full Profile | §3.3, A.5 | Sole member of **UChicago Argonne, LLC**, operating Argonne National Laboratory under DOE prime contract **DE-AC02-06CH11357** since 1 October 2006, extended 14 July 2026 for 1 October 2026 – 30 September 2031 (~$17.3B cumulative obligations, >$1B annual operating budget, Board of Governors chaired by President Paul Alivisatos); lead partner of **Fermi Forward Discovery Group, LLC** (with URA, Amentum Environment & Energy, Longenecker & Associates) holding the Fermilab M&O contract from 1 January 2025 to 31 December 2029 (extendable to 15 years), succeeding Fermi Research Alliance, LLC (2007–2024); hub of the **Chicago Quantum Exchange** (founded 2017 at the Pritzker School of Molecular Engineering under David Awschalom; Argonne, Fermilab, UIUC, UW–Madison, Northwestern, Purdue plus 20+ corporate partners), the **Duality** quantum startup accelerator (Polsky Center, April 2021) and the IBM Quantum System Two / National Quantum Algorithm Center at the 128-acre **IQMP**; one of 11 university partners in the Argonne-led **Q-NEXT** center renewed 4 November 2025 for $125M over five years within DOE's $625M QIS renewal; **Data Science Institute** AI+Science initiative (Franklin/Nicolae, Faculty Director of AI Rebecca Willett, Schmidt AI in Science fellowships) and the **Globus** data-management fabric via Ian Foster's UChicago–Argonne dual appointment; Argonne 80th anniversary (chartered 1 July 1946) agenda centered on Genesis Mission AI |
 | 0 | [The Catholic University of America (CUA)](https://www.catholic.edu/) | ❌ Not Covered | — | $300,000 DOE Genesis Mission award *AI-Driven Expedited Discovery and Background Separation for Petabyte-Scale Streaming Readout* (Prof. Tanja Horn, nuclear physics, with Dominick Rizk, Computer Science, and Dmitry Romanov, Jefferson Lab) embedding physics-aware AI into Electron-Ion Collider streaming readout for real-time rare-signal/background separation, plus a $750,000 NSF award applying AI/ML to pion and kaon structure analysis (reference only) |
 | 0 | [Old Dominion University](https://www.odu.edu/) | ❌ Not Covered | — | **MOAT-Core** collaborator on the Berkeley Lab–led DOE **Phase II** Genesis Mission award (announced October 8, 2026) scaling agentic "Super Intelligence" (SI) for particle-accelerator design and operations alongside eight DOE national laboratories, Cornell, Michigan State/FRIB and the University of Chicago; previously led the Jefferson Lab–administered Genesis Mission Phase I project on physics-aware AI workflow guardrails (Dr. Jiang Li) (reference only) |
+| 0 | [Massachusetts Institute of Technology (MIT)](https://web.mit.edu/) | ❌ Not Covered | — | Partner on Fermilab's **Phase II** Genesis Mission award **AXESS** for SI-driven extreme-environment microelectronics design, and lead institution of the **Lattice QCD at the Intelligence Frontier** Phase II award (Fermilab collaborating institution, contributing theory expertise on critical slowing down in lattice gauge theory) (reference only) |
 
 ---
 
@@ -338,20 +340,20 @@
 
 | Entity Type | Total | ✅ Full | 📋 Brief | ❌ Not Covered |
 |:---|:---:|:---:|:---:|:---:|
-| Industry Partners | 95 | 94 | 0 | 1 |
+| Industry Partners | 96 | 94 | 0 | 2 |
 | Federal Agencies | 11 | 11 | 0 | 0 |
 | National Laboratories & Defense Sites | 26 | 24 | 0 | 2 |
-| Universities | 94 | 76 | 0 | 18 |
+| Universities | 95 | 76 | 0 | 19 |
 | Philanthropy, Policy & Regional Hubs | 17 | 12 | 0 | 5 |
-| **Total** | **243** | **217** | **0** | **26** |
+| **Total** | **245** | **217** | **0** | **28** |
 
 ### By Coverage Level
 
 | Coverage Level | Count | Percentage |
 |:---|:---:|:---:|
-| ✅ Full Profile | 217 | 89.3% |
+| ✅ Full Profile | 217 | 88.6% |
 | 📋 Brief Mention | 0 | 0.0% |
-| ❌ Not Covered | 26 | 10.7% |
-| **Total Entities** | **243** | **100%** |
+| ❌ Not Covered | 28 | 11.4% |
+| **Total Entities** | **245** | **100%** |
 
-> **Note:** The tracker now covers 243 Genesis Mission ecosystem participants, with 217 entities in dedicated technical write-ups (89.3% full-profile coverage). George Washington University, Brown University, Heidelberg University, Howard University, European Coalition for AI in Fundamental Physics (EuCAIF), Colorado School of Mines, UC San Diego, University of Delaware, University of Hawaiʻi at Mānoa, University of Massachusetts Amherst, University of Washington, Boise State University, St. Joseph's University, New York, Kent State University, Southeastern Universities Research Association (SURA), ORISE, Energy Sciences Coalition (ESC), Krell Institute, La Sierra University, Joint Genome Institute (JGI), the University of North Carolina at Chapel Hill (UNC-Chapel Hill), Washington University in St. Louis (WashU), the National Reactor Innovation Center (NRIC), Hydro-Québec, The Catholic University of America (CUA), and Old Dominion University remain registered as reference-only participants. The broader sub-grantee network of 342 participating institutions represents secondary academic and sub-contractor nodes across the 278 national project awards.
+> **Note:** The tracker now covers 245 Genesis Mission ecosystem participants, with 217 entities in dedicated technical write-ups (88.6% full-profile coverage). George Washington University, Brown University, Heidelberg University, Howard University, European Coalition for AI in Fundamental Physics (EuCAIF), Colorado School of Mines, UC San Diego, University of Delaware, University of Hawaiʻi at Mānoa, University of Massachusetts Amherst, University of Washington, Boise State University, St. Joseph's University, New York, Kent State University, Southeastern Universities Research Association (SURA), ORISE, Energy Sciences Coalition (ESC), Krell Institute, La Sierra University, Joint Genome Institute (JGI), the University of North Carolina at Chapel Hill (UNC-Chapel Hill), Washington University in St. Louis (WashU), the National Reactor Innovation Center (NRIC), Hydro-Québec, The Catholic University of America (CUA), Old Dominion University, the Massachusetts Institute of Technology (MIT) and Quantum Machines remain registered as reference-only participants. The broader sub-grantee network of 342 participating institutions represents secondary academic and sub-contractor nodes across the 278 national project awards.
