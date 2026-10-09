@@ -59,7 +59,7 @@
 * https://www.cmu.edu/news/stories/archives/2026/october/cmu-researchers-selected-for-next-round-of-doe-genesis-mission-awards
 * https://www.newswise.com/doescience/jefferson-lab-moves-forward-on-genesis-mission-phase-ii-projects/?article_id=856233
 * https://www.anl.gov/article/argonne-to-advance-scientific-discovery-with-new-genesis-mission-awards
-* https://science.osti.gov/Funding-Opportunities\
+* https://science.osti.gov/Funding-Opportunities
 * https://www.energy.gov/undersecretaryforscience/genesis-mission/quantum-genesis
 * https://science.osti.gov/-/media/grants/pdf/foas/2027/DE-FOA-0003673.pdf
 * https://www.nih.gov/news-events/news-releases/nih-joins-effort-build-si-ready-data-predictive-models-human-biology
@@ -72,3 +72,4 @@
 * https://www.state.gov/releases/office-of-the-spokesman/2026/10/joint-statement-on-the-u-s-japan-technology-prosperity-deal
 * https://www.pppl.gov/news/2026/pppl-data-simulation-codes-and-compute-power-will-be-used-phase-ii-genesis-mission
 * https://www.war.gov/News/Releases/Release/Article/4622104/department-of-war-executes-white-house-strategy-for-a-new-golden-age-of-science/
+* https://www.cmu.edu/news/stories/archives/2026/october/cmu-physicist-joins-genesis-effort-to-use-ai-to-understand-the-universe
