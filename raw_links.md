@@ -45,7 +45,6 @@
 * https://www.energy.gov/em/articles/srnl-harnesses-ai-tackle-environmental-challenges-cut-cleanup-costs
 * https://www.energy.gov/undersecretaryforscience/genesis-mission/predicting-us-water-energy
 * https://www.energy.gov/ne/articles/one-year-after-executive-orders-us-nuclear-energy-renaissance-full-swing
-* https://www.war.gov/News/Releases/Release/Article/4622109/department-of-war-announces-350-million-in-quantum-computing-initiatives/
 * https://www.anl.gov/genesis-mission/projects/aiempowered-design-of-functional-quantum-magnets
 * https://www.energy.gov/science/articles/doe-announces-science-applications-quantum-computing
 * https://www.caltech.edu/about/news/doe-funds-ai-driven-catalyst-discovery-project-as-part-of-genesis-mission
