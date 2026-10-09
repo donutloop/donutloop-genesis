@@ -67,6 +67,7 @@
 * https://www.whitehouse.gov/fact-sheets/2026/10/fact-sheet-trump-administration-announces-the-most-ambitious-set-of-science-initiatives-this-century/
 * https://www.energy.gov/science/articles/genesis-mission-frameworks-advancing-frontiers-american-discovery
 * https://www.bnl.gov/newsroom/news.php?a=223205
+* https://news.uci.edu/2026/10/08/department-of-energy-selects-uc-irvine-led-ai-driven-geothermal-energy-project/
 * https://www.newswise.com/doescience/slac-to-lead-a-department-of-energy-genesis-mission-project-for-ai-driven-autonomous-discovery-in-catalysis
 * https://www.energy.gov/articles/energy-department-announces-new-genesis-mission-awards-advance-super-intelligence-science
 * https://www.pppl.gov/news/2026/pppl-data-simulation-codes-and-compute-power-will-be-used-phase-ii-genesis-mission
