@@ -185,6 +185,7 @@
 * [DOE Announcement: $10M SBIR/STTR Funding Opportunity Supporting the Genesis Mission](https://www.energy.gov/technologycommercialization/articles/doe-announces-10m-sbirsttr-funding-opportunity-supporting)
 * [DOE Announcement: U.S. Department of Energy Launches Genesis Open Models Initiative](https://www.energy.gov/undersecretaryforscience/articles/us-department-energy-launches-genesis-open-models-initiative)
 * [NNSA Announcement: Demonstrating Swift Action on Genesis Mission](https://www.energy.gov/nnsa/articles/nnsa-demonstrates-swift-action-genesis-mission)
+* [NNSA Announces Aires Tide, a National Security Innovation Developed Using AI and Additive Manufacturing Under the Genesis Mission](https://www.energy.gov/nnsa/articles/nnsa-announces-aires-tide-national-security-innovation-developed-using-ai-and)
 * [DOE Office of Electricity](https://www.energy.gov/oe)
 * [DOE's Office of Electricity Announces $11.5M Genesis Mission Project to Meet Growing Electricity Demand Faster and to Lower Costs](https://www.energy.gov/oe/articles/does-office-electricity-announces-115m-genesis-mission-project-meet-growing-electricity)
 * [DOE Office of Science: Genesis Mission RFA Informational Webinar (PDF)](https://science.osti.gov/-/media/grants/pdf/foas-resources/2026/Genesis-Mission-RFA-Informational-Webinar-v2-public--clean--ASCR.pdf)
