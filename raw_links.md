@@ -63,3 +63,4 @@
 * https://science.osti.gov/Funding-Opportunities
 * https://www.newswise.com/doescience/slac-to-lead-a-department-of-energy-genesis-mission-project-for-ai-driven-autonomous-discovery-in-catalysis
 * https://www.energy.gov/articles/energy-department-announces-new-genesis-mission-awards-advance-super-intelligence-science
+* https://www.pppl.gov/news/2026/pppl-data-simulation-codes-and-compute-power-will-be-used-phase-ii-genesis-mission
