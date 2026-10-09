@@ -1,5 +1,4 @@
 * https://www.energy.gov/undersecretaryforscience/person/shawn-whitman
-* https://www.sandia.gov/labnews/2026/02/12/what-sandians-are-saying-about-the-future-of-ai-at-work/
 * https://hpcat.aps.anl.gov/news/2026-03/apply-now-doe-office-science-graduate-student-research-scgsr-awards?hl=en-US
 * https://www.sei.cmu.edu/annual-reviews/2025-year-in-review/a-message-from-the-director-and-chief-executive-officer/?hl=en-US
 * https://www.lanl.gov/media/news/0429-artimis-winter-hackathon?hl=en-US
