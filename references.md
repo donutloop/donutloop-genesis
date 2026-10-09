@@ -636,6 +636,7 @@
   * [SRNL Makes Strong Showing at 2026 AI Expo](https://www.energy.gov/em/articles/savannah-river-national-laboratory-makes-strong-showing-2026-ai-expo)
   * [Assistant Secretary Walsh Views the 'Art of the Possible' in SRS Visit](https://www.energy.gov/em/articles/assistant-secretary-walsh-views-art-possible-srs-visit)
   * [SRNL's Advanced Manufacturing Collaborative Celebrates First Year as Nexus of Innovation (Newswise)](https://www.newswise.com/articles/srnl-s-advanced-manufacturing-collaborative-celebrates-first-year-as-nexus-of-innovation)
+  * **DOE/EM edition:** [SRNL's Advanced Manufacturing Collaborative Celebrates First Year](https://www.energy.gov/em/articles/srnls-advanced-manufacturing-collaborative-celebrates-first-year)
 * **SLAC National Accelerator Laboratory:** 
   * [Leading Projects Alongside Stanford](https://news.stanford.edu/stories/2026/07/stanford-and-slac-to-lead-genesis-mission-projects)
   * [SLAC ISDCI Genesis Portal](https://isdci.slac.stanford.edu/genesis)
