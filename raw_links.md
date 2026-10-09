@@ -1,5 +1,4 @@
 * https://www.energy.gov/undersecretaryforscience/person/shawn-whitman
-* https://www.catholic.edu/all-stories/physics-professor-wins-over-1-million-funding-ai-integrated-scientific-research
 * https://www.uh.edu/news-events/stories/2026/july/07222026-doe-grant-ai-energy.php
 * https://news.utexas.edu/2026/08/31/fusion-energy-seed-grants-launch-new-interdisciplinary-collaborations-at-ut-austin/
 * https://www.energy.gov/oe/articles/does-office-electricity-announces-115m-genesis-mission-project-meet-growing-electricity
