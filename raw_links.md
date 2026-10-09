@@ -1,5 +1,4 @@
 * https://www.energy.gov/undersecretaryforscience/person/shawn-whitman
-* https://www.llnl.gov/news/highlights/ai
 * https://news.gatech.edu/news/2026/08/03/georgia-tech-lead-national-cloud-laboratory-advanced-manufacturing-and-materials
 * https://www.pnnl.gov/news-media/genesis-mission-awards-accelerate-ai-integration-across-pnnl-science-mission
 * https://www.bnl.gov/newsroom/news.php?a=122967
