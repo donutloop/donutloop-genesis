@@ -1,5 +1,4 @@
 * https://www.energy.gov/undersecretaryforscience/person/shawn-whitman
-* https://www.colorado.edu/physics/2026/08/18/physics-faculty-awarded-department-energys-genesis-mission-funding-ai-based-projects
 * https://www.newswise.com/doescience/jefferson-lab-to-receive-new-funding-for-work-on-genesis-mission-projects
 * https://www.udel.edu/udaily/2026/july/advanced-manufacturing-artificial-intelligence-composites/
 * https://research.wisc.edu/uncategorized/2026/07/22/five-projects-at-uw-madison-aimed-at-transforming-science-and-energy-with-ai-to-receive-doe-genesis-mission-funding/
