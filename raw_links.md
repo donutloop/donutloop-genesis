@@ -48,7 +48,6 @@
 * https://www.war.gov/News/Releases/Release/Article/4622109/department-of-war-announces-350-million-in-quantum-computing-initiatives/
 * https://www.anl.gov/genesis-mission/projects/aiempowered-design-of-functional-quantum-magnets
 * https://www.energy.gov/science/articles/doe-announces-science-applications-quantum-computing
-* https://nvidianews.nvidia.com/news/nvidia-commits-1-billion-to-advance-us-science-over-the-next-five-years
 * https://www.caltech.edu/about/news/doe-funds-ai-driven-catalyst-discovery-project-as-part-of-genesis-mission
 * https://www.cmu.edu/news/stories/archives/2026/october/cmu-researchers-selected-for-next-round-of-doe-genesis-mission-awards\
 * https://www.newswise.com/doescience/jefferson-lab-moves-forward-on-genesis-mission-phase-ii-projects/?article_id=856233
