@@ -1,5 +1,4 @@
 * https://www.energy.gov/undersecretaryforscience/person/shawn-whitman
-* https://college.unc.edu/2026/07/julieta-gruszko-genesis/
 * https://today.duke.edu/2026/07/four-duke-teams-selected-new-federal-ai-research-program
 * https://www.colorado.edu/amath/2026/07/30/david-bortz-awarded-department-energy-genesis-mission-grant
 * https://www.catholic.edu/all-stories/physics-professor-wins-over-1-million-funding-ai-integrated-scientific-research
