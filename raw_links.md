@@ -1,6 +1,5 @@
 * https://www.energy.gov/undersecretaryforscience/person/shawn-whitman
 * https://www.psiquantum.com/news-import/psiquantum-brookhaven-lab-partner-to-accelerate-quantum-application-development-using-construct-software-tool
-* https://energyinstitute.jhu.edu/data-center-cooling-project-receives-doe-genesis-funding/
 * https://www.alcf.anl.gov/news/streamline-uses-ai-tackle-one-nuclear-physics-toughest-problems
 * https://www.ornl.gov/distinguished-fellowships/targeted-research
 * https://elements.lbl.gov/news/3q4-reiner-kruecken-associate-laboratory-director-for-the-physical-sciences-area/
