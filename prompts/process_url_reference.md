@@ -28,10 +28,14 @@ The workflow receives a single URL parameter supplied via prompt invocation:
 
 ### 3. Format & Integrate into `references.md`
 - Identify the correct section in `references.md` (e.g., Section 2 *Collaborators*, Section 4 *Executive, Federal & Partner Announcements*, Section 5 *National Labs & University Coverage*, etc.).
-- Format the entry according to repository standards:
+- Format the entry according to repository standards. **`references.md` is a link-only register: entries carry markdown links and nothing else — no descriptions, summaries, quotes, dates, metrics or verification notes.**
   - Standard reference: `* [Title](URL)`
-  - Partner/Entity reference: `* [Entity Name](URL): [Title](URL) - Description`
-- Insert the formatted entry under its corresponding category/header in `references.md`.
+  - Partner/Entity reference: `* [Entity Name](URL): [Title](URL)`
+  - Additional links for the same entity: join them with `, ` (e.g. `* [Title](URL), [Title](URL)`)
+  - Grouped entity coverage: keep the existing bold entity bullet and append the link as an indented sub-bullet (`  * [Title](URL)`) under it
+  - A bold qualifier may precede a link only to disambiguate it (e.g. `* **Newswise edition:** [Title](URL)`)
+- Insert the formatted entry under its corresponding category/header in `references.md`; never add prose to the bullet.
+- The extracted insights from step 2 belong in the `reference_coverage.md` master index row and in `README.md` / `README.de.md` — not in `references.md`.
 
 ### 4. Coverage Matrix Audit (`coverage.md`)
 - Check if the reference introduces an entity (company, university, laboratory, or organization) not currently listed in `coverage.md`.

@@ -18,7 +18,7 @@ raw_links.md ──(harness claims + removes one URL)──▶ .pi-loop-queue.js
      │
      └─▶ fresh pi session ─▶ prompts/process_url_reference.md for that ONE URL
                      │
-                     ├─ references.md          (add the citation under its section)
+                     ├─ references.md          (add the link-only entry under its section)
                      ├─ coverage.md            (new entities: bottom of the table, ❌ Not Covered)
                      ├─ reference_coverage.md  (master index row + Section 1–3 metrics)
                      ├─ README.md + README.de.md (factual enrichment, English + German parity)
@@ -54,11 +54,14 @@ of done:
 2. **Read the source before writing about it.** Use the `webfetch` tool (or
    `node tools/pi-loop/webfetch.mjs <url>` via `bash`). For PDFs, download and
    extract text. If the page is unreachable after two attempts, still register the
-   link but state only what the host and title support and mark it as unverified.
+   link but state only what the host and title support and flag it as unverified in the
+   `reference_coverage.md` index row (`Unverified, flag:Host-And-Title-Only`) — the
+   `references.md` entry stays a bare link either way.
    **Never invent** numbers, dollar amounts, dates, people, job titles or product
    names. Every technical/strategic claim you add to the papers must come from the
    fetched content or from an existing entry in this repository.
-3. `references.md` — one entry in the correct section, repository format.
+3. `references.md` — one **link-only** entry in the correct section: `* [Title](URL)`, or
+   `* [Entity](URL): [Title](URL)` for a partner entry. Links, bold qualifiers and nothing else.
 4. `coverage.md` — new entities appended at the **bottom** of their table with
    `❌ Not Covered` and the `(reference only)` note, plus the summary tables.
 5. `reference_coverage.md` — append the master-index row (`Status: Processed`) at
@@ -76,6 +79,12 @@ of done:
 
 - **Merge only.** Existing statements are never deleted, softened or rewritten to
   fit a new source. Additive edits only; append table rows at the bottom.
+- **Links only in `references.md`.** The bibliography is a link register: every entry is
+  `* [Title](URL)` with at most a bold qualifier in front of the link. Never write
+  descriptions, extracted facts, quotations, metadata or verification notes into that
+  file — that material belongs in the `reference_coverage.md` index row and in the two
+  papers. The merge-only rule keeps the papers and the tables additive; it is not a
+  licence to add prose to `references.md`.
 - **Language parity.** Any factual addition to `README.md` gets its counterpart in
   `README.de.md` in the same section, in German.
 - **Provenance.** A reference that is not actually about the Genesis Mission is not

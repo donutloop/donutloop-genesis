@@ -30,7 +30,7 @@ When performing web searches, use targeted domain-restricted and topic-specific 
 
 ### 4. Integration & Queue Management
 - Add newly discovered, validated links either to the temporary `wip:` section at the bottom of `references.md` or directly format and insert them into their respective section (`Section 4: Executive & Partner Announcements`, `Section 5: Collaborators`, etc.).
-- Maintain standard link formatting:
+- Maintain standard link formatting — `references.md` holds links only, never prose in a bullet:
   ```markdown
   * **[Entity Name]:** [[Article / Announcement Title]](URL)
   ```
