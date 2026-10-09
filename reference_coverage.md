@@ -1,7 +1,7 @@
 # Genesis Mission — Master Reference Coverage Report
 
 > **Document Overview:**
-> This report provides a comprehensive coverage analysis, breakdown, and master audit index for the **677 external reference links** compiled within `references.md` for the **Genesis Mission** documentation repository.
+> This report provides a comprehensive coverage analysis, breakdown, and master audit index for the **678 external reference links** compiled within `references.md` for the **Genesis Mission** documentation repository.
 
 ---
 
@@ -9,13 +9,13 @@
 
 | Metric | Count / Value | Description |
 | :--- | :--- | :--- |
-| **Total Reference Links** | **677** | Unique external links indexed across all sections |
+| **Total Reference Links** | **678** | Unique external links indexed across all sections |
 | **Primary Document Sections** | **7** | High-level thematic categories in `references.md` |
-| **Unique Target Domains** | **320** | Distinct domain names referenced (government, lab, corporate, academic, news) |
+| **Unique Target Domains** | **321** | Distinct domain names referenced (government, lab, corporate, academic, news) |
 | **Official PDF Documents** | **24** | Formal RFA solicitations, webinars, slides, and executive reports |
-| **Web Portals & Press Releases** | **653** | Newsroom features, corporate blog posts, and interactive hubs |
+| **Web Portals & Press Releases** | **654** | Newsroom features, corporate blog posts, and interactive hubs |
 | **Validation Status** | **100% Validated** | All links canonicalized, formatted, and deduplicated |
-| **Processing Status** | **677 / 677 Processed** | 0 Unprocessed, 677 Processed (100% Complete) |
+| **Processing Status** | **678 / 678 Processed** | 0 Unprocessed, 678 Processed (100% Complete) |
 
 ---
 
@@ -27,7 +27,7 @@
 | `2. Collaborators` | **80** | 11.8% | Official homepage & announcement links for industrial/energy partners |
 | `3. Quantum Leadership & CHIPS Act Initiatives` | **11** | 1.6% | Department of Commerce NIST LOIs & DOE $2B quantum initiatives |
 | `4. Executive, Federal & Partner Announcements` | **189** | 27.9% | White House releases, Cabinet agency press, hyperscaler & lab announcements |
-| `5. National Labs & University Coverage` | **355** | 52.4% | National Laboratory news portals & 72 awardee university press releases |
+| `5. National Labs & University Coverage` | **356** | 52.5% | National Laboratory news portals & 72 awardee university press releases |
 | `6. Additional Event Materials & Reference Links` | **18** | 2.7% | Presentation slide decks, institutional intro files & video recordings |
 | `7. Technical Documents, RFA Guidance & Official Webinars` | **21** | 3.1% | DE-FOA-0003612 solicitations, OSTP challenge papers, SCAC presentations & peer-reviewed AI-for-science research |
 
@@ -162,6 +162,7 @@ Below is the distribution of references grouped by top domain hosts and institut
 | `research.wsu.edu` | **1** | Washington State University (WSU) — Office of Research / Advancement & Strategy | WSU limited-submission guidance page for *The Genesis Mission: Transforming Science and Energy with AI* — the FY26 round schedule (**FOA issued 17 Mar 2026**; WSU internal deadline **24 Mar 2026, 5:00 p.m. PT**; agency deadlines **28 Apr 2026** for Phase I applications and Phase II LOIs, **19 May 2026** for Phase II applications and **17 Dec 2026** for Phase II applications resulting from Phase I awards; DOE informational webinar **26 Mar 2026**), award terms (**Phase I $500,000–$750,000 / 9 months** with a **6-month go/no-go** review and a **3-month extension** option; **Phase II 3×–5× Phase I over 3 years**, open to teams applying directly), team-composition rules (Phase I small teams drawing partners from at least **two of** DOE/NNSA laboratory, industry, IHE/non-profit; Phase II large teams with laboratory **and** industry partners), cost-share terms (**20 %** for-profit basic/applied R&D, **50 %** demonstration/commercialization, industry capped at **20 %** of the requested budget), the **one-lead-application-per-focus-area** limit with unlimited non-lead participation, the prohibition on conditioning team membership on partners' other submissions, and the enumerated **21 topic areas** with topics **18–21** flagged as **crosscutting needs of the Genesis Mission Platform** |
 
 | `www.llnl.gov` | **3** | Lawrence Livermore National Laboratory (LLNL) | LLNL newsroom and capability pages: *LLNL Selected to Lead 10 Projects Under DOE's Genesis Mission* (**10** Phase I leads plus participation in **19** partner-led projects), the *Big Ideas Lab* Genesis Mission podcast episode, and the standing **AI at LLNL** institutional AI capability hub (AI as a core NNSA-mission capability coordinated through the **Data Science Institute** and **AI Innovation Incubator** on secure leadership-class HPC; Director **Kim Budil** on responsible deployment; agentic HPC-workflow, AI-co-scientist-visualization and on-machine 3D-print inspection demonstrations; the NNSA **Aires Tide** flight-test-vehicle demonstration with Sandia, LANL and the **Kansas City National Security Campus**; the **SCSP AI+ Expo** appearance) |
+| `news.gatech.edu` | **1** | Georgia Institute of Technology — *Georgia Tech News Center* | Georgia Tech's **$18.1M NSF Programmable Cloud Laboratory** for advanced manufacturing and materials built on the **Advanced Manufacturing Pilot Facility (AMPF)** / **GTMI** (robotic autonomous experimentation, facility digital twins, **>100 of 160** instruments targeted for autonomous workflows, **400+ users from 150 institutions**; named: EVP for Research **Tim Lieuwen**, GTMI associate director **Aaron Stebner**, GTMI executive director **Tom Kurfess**, **Pascal Van Hentenryck** of the **NSF AI Institute for Advances in Optimization**) |
 
 ---
 
@@ -849,3 +850,4 @@ A tabular master index for the reference collection:
 | 5. National Labs & University Coverage | SLAC National Accelerator Laboratory — *Stanford Report* | How SLAC is powering America's AI science transformation | `news.stanford.edu` | Web | [How SLAC is powering America's AI science transformation](https://news.stanford.edu/stories/2026/06/slac-data-doe-genesis-mission) | `Processed` | lab:SLAC, org:Stanford University, gov:DOE, gov:Office of Science, consortium:Genesis, facility:S3DF, facility:S3AI, facility:AmSC, facility:ISDCI, facility:LCLS, facility:SSRL, facility:Rubin Observatory, facility:U.S. Data Facility, facility:Stanford PULSE Institute, project:ISAAC, project:SYNAPS-I, project:MAIQMag, project:AIMS-LEAF, project:LAMBDA, project:MOAT, project:CM2US, project:Q2C, project:AI-Universe, project:TREASURE, project:Knowledge-Extraction, project:AXESS, project:LSST, facility:DESI, person:Chris Tassone, person:Lisa Bonetti, person:Pamela Schleissner, person:Dimosthenis Sokaras, person:Johanna Nelson Weker, person:Matthias Kling, person:Ryan Coffee, person:Sam Webb, person:Aina Cohen, person:Auralee Edelen, person:Steve Eglash, person:Ben Nachman, person:Ryan Herbst, person:Alberto Salleo, person:Angela Anderson |
 | 5. National Labs & University Coverage | Washington State University (WSU) — Office of Research / Advancement & Strategy | DOE Genesis Mission: Transforming Science and Energy with AI — Limited Submission Applications | `research.wsu.edu` | Web | [DOE Genesis Mission: Transforming Science and Energy with AI — Limited Submission Applications](https://research.wsu.edu/advancement/funding/limited-submission-applications/doe-genesis-mission/?hl=en-US) | `Processed` | org:Washington State University, gov:DOE, gov:Office of Science, gov:NNSA, consortium:Genesis, consortium:Genesis Mission Consortium, org:RTI International, org:TechWerx, facility:AmSC, doc:Limited-Submission-Guidance, solicitation:DE-FOA-0003612, program:Phase-I, program:Phase-II, policy:Cost-Share, policy:Go-No-Go-Review, org:University of Texas at Arlington, lab:LANL, org:University of Colorado Colorado Springs, org:Metropolitan State University |
 | 5. National Labs & University Coverage | Lawrence Livermore National Laboratory (LLNL) — *AI at LLNL* institutional capability hub | AI at LLNL | `www.llnl.gov` | Web | [AI at LLNL — Institutional AI Capability & Highlights Hub](https://www.llnl.gov/news/highlights/ai) | `Processed` | lab:LLNL, lab:SNL, lab:LANL, site:KCNSC, gov:DOE, gov:NNSA, consortium:Genesis, org:SCSP, org:LLNL-Data-Science-Institute, org:LLNL-AI-Innovation-Incubator, project:Aires-Tide, event:AI-Expo, facility:El-Capitan, person:Kim Budil, person:Brian Spears |
+| 5. National Labs & University Coverage | Georgia Institute of Technology — *Georgia Tech News Center* (Georgia Tech Manufacturing Institute / Advanced Manufacturing Pilot Facility) | Georgia Tech to Lead National Cloud Laboratory for Advanced Manufacturing and Materials | `news.gatech.edu` | Web | [Georgia Tech to Lead National Cloud Laboratory for Advanced Manufacturing and Materials](https://news.gatech.edu/news/2026-08-03/georgia-tech-lead-national-cloud-laboratory-advanced-manufacturing-and-materials) | `Processed` | org:Georgia-Tech, org:GTMI-AMPF, org:NSF-AIPO, org:Duke-Automatic-FLOW, org:Contextualize, org:Tech-AI, gov:NSF, facility:Autonomous-Cloud-Lab *(NSF Programmable Cloud Laboratory award, not a DOE Genesis award; content verified via the slash-date canonical URL — the dash-date address returns HTTP 404)* |
