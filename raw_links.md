@@ -64,6 +64,7 @@
 * https://www.energy.gov/undersecretaryforscience/genesis-mission/quantum-genesis
 * https://science.osti.gov/-/media/grants/pdf/foas/2027/DE-FOA-0003673.pdf
 * https://www.nih.gov/news-events/news-releases/nih-joins-effort-build-si-ready-data-predictive-models-human-biology
+* https://www.whitehouse.gov/fact-sheets/2026/10/fact-sheet-trump-administration-announces-the-most-ambitious-set-of-science-initiatives-this-century/
 * https://www.newswise.com/doescience/slac-to-lead-a-department-of-energy-genesis-mission-project-for-ai-driven-autonomous-discovery-in-catalysis
 * https://www.energy.gov/articles/energy-department-announces-new-genesis-mission-awards-advance-super-intelligence-science
 * https://www.pppl.gov/news/2026/pppl-data-simulation-codes-and-compute-power-will-be-used-phase-ii-genesis-mission
