@@ -62,6 +62,7 @@
 * https://www.anl.gov/article/argonne-to-advance-scientific-discovery-with-new-genesis-mission-awards
 * https://science.osti.gov/Funding-Opportunities\
 * https://www.energy.gov/undersecretaryforscience/genesis-mission/quantum-genesis
+* https://science.osti.gov/-/media/grants/pdf/foas/2027/DE-FOA-0003673.pdf
 * https://www.newswise.com/doescience/slac-to-lead-a-department-of-energy-genesis-mission-project-for-ai-driven-autonomous-discovery-in-catalysis
 * https://www.energy.gov/articles/energy-department-announces-new-genesis-mission-awards-advance-super-intelligence-science
 * https://www.pppl.gov/news/2026/pppl-data-simulation-codes-and-compute-power-will-be-used-phase-ii-genesis-mission
