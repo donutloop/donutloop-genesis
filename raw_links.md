@@ -1,6 +1,5 @@
 * https://www.energy.gov/undersecretaryforscience/person/shawn-whitman
 * https://www.psiquantum.com/news-import/psiquantum-brookhaven-lab-partner-to-accelerate-quantum-application-development-using-construct-software-tool
-* https://inl.gov/artificial-intelligence/prometheus/
 * https://ischool.illinois.edu/news-events/news/2026/09/illinois-researchers-part-doe-genesis-mission-award-team
 * https://energyinstitute.jhu.edu/data-center-cooling-project-receives-doe-genesis-funding/
 * https://www.alcf.anl.gov/news/streamline-uses-ai-tackle-one-nuclear-physics-toughest-problems
