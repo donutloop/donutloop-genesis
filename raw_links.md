@@ -1,5 +1,4 @@
 * https://www.energy.gov/undersecretaryforscience/person/shawn-whitman
-* https://hpcat.aps.anl.gov/news/2026-03/apply-now-doe-office-science-graduate-student-research-scgsr-awards?hl=en-US
 * https://www.sei.cmu.edu/annual-reviews/2025-year-in-review/a-message-from-the-director-and-chief-executive-officer/?hl=en-US
 * https://www.lanl.gov/media/news/0429-artimis-winter-hackathon?hl=en-US
 * https://www.colorado.edu/physics/2026/08/18/physics-faculty-awarded-department-energys-genesis-mission-funding-ai-based-projects
