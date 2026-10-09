@@ -1,6 +1,5 @@
 * https://www.energy.gov/undersecretaryforscience/person/shawn-whitman
 * https://www.psiquantum.com/news-import/psiquantum-brookhaven-lab-partner-to-accelerate-quantum-application-development-using-construct-software-tool
-* https://www.nersc.gov/news-and-events/news/nersc-director-sudip-dosanjh-to-retire
 * https://indico.cern.ch/event/1654479/contributions/7214654/attachments/3336122/5978417/Genesis%20FastML%202026%20(1).pdf
 * https://indico.cern.ch/event/1654479/contributions/7214654/attachments/3336122/5978422/Panel-1.pdf
 * https://www.energy.gov/nnsa/articles/nnsa-announces-aires-tide-national-security-innovation-developed-using-ai-and
