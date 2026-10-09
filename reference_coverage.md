@@ -1,7 +1,7 @@
 # Genesis Mission — Master Reference Coverage Report
 
 > **Document Overview:**
-> This report provides a comprehensive coverage analysis, breakdown, and master audit index for the **678 external reference links** compiled within `references.md` for the **Genesis Mission** documentation repository.
+> This report provides a comprehensive coverage analysis, breakdown, and master audit index for the **679 external reference links** compiled within `references.md` for the **Genesis Mission** documentation repository.
 
 ---
 
@@ -9,13 +9,13 @@
 
 | Metric | Count / Value | Description |
 | :--- | :--- | :--- |
-| **Total Reference Links** | **678** | Unique external links indexed across all sections |
+| **Total Reference Links** | **679** | Unique external links indexed across all sections |
 | **Primary Document Sections** | **7** | High-level thematic categories in `references.md` |
 | **Unique Target Domains** | **321** | Distinct domain names referenced (government, lab, corporate, academic, news) |
 | **Official PDF Documents** | **24** | Formal RFA solicitations, webinars, slides, and executive reports |
-| **Web Portals & Press Releases** | **654** | Newsroom features, corporate blog posts, and interactive hubs |
+| **Web Portals & Press Releases** | **655** | Newsroom features, corporate blog posts, and interactive hubs |
 | **Validation Status** | **100% Validated** | All links canonicalized, formatted, and deduplicated |
-| **Processing Status** | **678 / 678 Processed** | 0 Unprocessed, 678 Processed (100% Complete) |
+| **Processing Status** | **679 / 679 Processed** | 0 Unprocessed, 679 Processed (100% Complete) |
 
 ---
 
@@ -26,8 +26,8 @@
 | `1. Key Presentation Details` | **3** | 0.4% | Briefing agendas, U.S. ATLAS IB meeting details & CERN links |
 | `2. Collaborators` | **80** | 11.8% | Official homepage & announcement links for industrial/energy partners |
 | `3. Quantum Leadership & CHIPS Act Initiatives` | **11** | 1.6% | Department of Commerce NIST LOIs & DOE $2B quantum initiatives |
-| `4. Executive, Federal & Partner Announcements` | **189** | 27.9% | White House releases, Cabinet agency press, hyperscaler & lab announcements |
-| `5. National Labs & University Coverage` | **356** | 52.5% | National Laboratory news portals & 72 awardee university press releases |
+| `4. Executive, Federal & Partner Announcements` | **189** | 27.8% | White House releases, Cabinet agency press, hyperscaler & lab announcements |
+| `5. National Labs & University Coverage` | **357** | 52.6% | National Laboratory news portals & 72 awardee university press releases |
 | `6. Additional Event Materials & Reference Links` | **18** | 2.7% | Presentation slide decks, institutional intro files & video recordings |
 | `7. Technical Documents, RFA Guidance & Official Webinars` | **21** | 3.1% | DE-FOA-0003612 solicitations, OSTP challenge papers, SCAC presentations & peer-reviewed AI-for-science research |
 
@@ -48,7 +48,7 @@ Below is the distribution of references grouped by top domain hosts and institut
 | `newscenter.lbl.gov` | **9** | Lawrence Berkeley National Lab (LBNL) | 13 AI projects lead, ModCon platform, Cech system delivery, and the Berkeley Lab–led **MOAT-Core** Phase II Genesis Mission award scaling the agentic accelerator assistant **Osprey** across the DOE accelerator complex |
 | `www.whitehouse.gov` | **7** | White House OSTP / Executive Office | Presidential executive actions, OSTP wins reports, press releases |
 | `inl.gov` | **7** | Idaho National Laboratory (INL) | SMR digital twins, nuclear AI permitting, autonomous reactor control, and robotic wire-arc additive manufacturing (WAAM) pressure vessel qualification |
-| `www.pnnl.gov` | **7** | Pacific Northwest National Laboratory (PNNL) | Official project portal, news media, biotechnology, grid operations, nuclear science, Phase I projects, and AI-enabled spectroscopic online monitoring for used nuclear fuel recycling |
+| `www.pnnl.gov` | **8** | Pacific Northwest National Laboratory (PNNL) | Official project portal, news media, biotechnology, grid operations, nuclear science, Phase I projects, AI-enabled spectroscopic online monitoring for used nuclear fuel recycling, and the laboratory's 22 Jul 2026 Phase I awards release itemising its **16 led / 26 contributed** projects across 42 Genesis Mission awards |
 | `blogs.nvidia.com` | **6** | NVIDIA Corporation | Solstice/Equinox supercomputers, National Quantum Initiative, NSF AI Hubs, AI leadership |
 | `www.lanl.gov` | **6** | Los Alamos National Laboratory (LANL) | Weapons hydrodynamics, plutonium aging AI, high-explosives R&D |
 | `www.youtube.com` | **6** | YouTube | Genesis Mission summit, technical presentation, webinar, and national-laboratory video recordings |
@@ -851,3 +851,4 @@ A tabular master index for the reference collection:
 | 5. National Labs & University Coverage | Washington State University (WSU) — Office of Research / Advancement & Strategy | DOE Genesis Mission: Transforming Science and Energy with AI — Limited Submission Applications | `research.wsu.edu` | Web | [DOE Genesis Mission: Transforming Science and Energy with AI — Limited Submission Applications](https://research.wsu.edu/advancement/funding/limited-submission-applications/doe-genesis-mission/?hl=en-US) | `Processed` | org:Washington State University, gov:DOE, gov:Office of Science, gov:NNSA, consortium:Genesis, consortium:Genesis Mission Consortium, org:RTI International, org:TechWerx, facility:AmSC, doc:Limited-Submission-Guidance, solicitation:DE-FOA-0003612, program:Phase-I, program:Phase-II, policy:Cost-Share, policy:Go-No-Go-Review, org:University of Texas at Arlington, lab:LANL, org:University of Colorado Colorado Springs, org:Metropolitan State University |
 | 5. National Labs & University Coverage | Lawrence Livermore National Laboratory (LLNL) — *AI at LLNL* institutional capability hub | AI at LLNL | `www.llnl.gov` | Web | [AI at LLNL — Institutional AI Capability & Highlights Hub](https://www.llnl.gov/news/highlights/ai) | `Processed` | lab:LLNL, lab:SNL, lab:LANL, site:KCNSC, gov:DOE, gov:NNSA, consortium:Genesis, org:SCSP, org:LLNL-Data-Science-Institute, org:LLNL-AI-Innovation-Incubator, project:Aires-Tide, event:AI-Expo, facility:El-Capitan, person:Kim Budil, person:Brian Spears |
 | 5. National Labs & University Coverage | Georgia Institute of Technology — *Georgia Tech News Center* (Georgia Tech Manufacturing Institute / Advanced Manufacturing Pilot Facility) | Georgia Tech to Lead National Cloud Laboratory for Advanced Manufacturing and Materials | `news.gatech.edu` | Web | [Georgia Tech to Lead National Cloud Laboratory for Advanced Manufacturing and Materials](https://news.gatech.edu/news/2026-08-03/georgia-tech-lead-national-cloud-laboratory-advanced-manufacturing-and-materials) | `Processed` | org:Georgia-Tech, org:GTMI-AMPF, org:NSF-AIPO, org:Duke-Automatic-FLOW, org:Contextualize, org:Tech-AI, gov:NSF, facility:Autonomous-Cloud-Lab *(NSF Programmable Cloud Laboratory award, not a DOE Genesis award; content verified via the slash-date canonical URL — the dash-date address returns HTTP 404)* |
+| 5. National Labs & University Coverage | Pacific Northwest National Laboratory (PNNL) — *PNNL News Media* | Genesis Mission Awards to Accelerate AI Integration Across PNNL Science Mission | `www.pnnl.gov` | Web | [Genesis Mission Awards to Accelerate AI Integration Across PNNL Science Mission](https://www.pnnl.gov/news-media/genesis-mission-awards-accelerate-ai-integration-across-pnnl-science-mission) | `Processed` | lab:PNNL, org:Battelle, gov:DOE, gov:Office of Science, consortium:Genesis, program:Phase-I, doc:News-Release, person:Deb Gracio, person:Court Corley, person:Karyn Hede, person:Eva Brayfindley, person:Susannah M. Burrows, person:Richard Saldanha, person:Shuai Zhang, person:Yucheng Fu, person:Xingyuan Chen, person:Maruti Mudunuru, person:Eric Francavilla, person:Melanie Hess-Robinson, person:Chris Wright *(PNNL news release of 22 Jul 2026: DOE Phase I funding awards including **42 involving PNNL teams — 16 led, 26 contributed**, with the laboratory's own itemisation of its 16 led research challenges; origin host returned HTTP 403 to webfetch/curl, content read via the `r.jina.ai` text relay of the identical URL)* |

@@ -1,5 +1,4 @@
 * https://www.energy.gov/undersecretaryforscience/person/shawn-whitman
-* https://www.pnnl.gov/news-media/genesis-mission-awards-accelerate-ai-integration-across-pnnl-science-mission
 * https://www.bnl.gov/newsroom/news.php?a=122967
 * https://www.sandia.gov/labnews/2026/02/12/what-sandians-are-saying-about-the-future-of-ai-at-work/
 * https://hpcat.aps.anl.gov/news/2026-03/apply-now-doe-office-science-graduate-student-research-scgsr-awards?hl=en-US
