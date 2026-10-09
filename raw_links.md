@@ -2,7 +2,6 @@
 * https://www.psiquantum.com/news-import/psiquantum-brookhaven-lab-partner-to-accelerate-quantum-application-development-using-construct-software-tool
 * https://indico.cern.ch/event/1654479/contributions/7214654/attachments/3336122/5978417/Genesis%20FastML%202026%20(1).pdf
 * https://www.energy.gov/state-american-energy-promises-made-promises-kept
-* https://www.energy.gov/em/articles/op-ed-how-ai-accelerating-americas-environmental-cleanup-mission
 * https://www.energy.gov/em/articles/srnls-advanced-manufacturing-collaborative-celebrates-first-year
 * https://news.stonybrook.edu/newsroom/press-release/general/brookhaven-and-stony-brook-researchers-demonstrate-wireless-capability-for-quantum-network/
 * https://www.axios.com/2026/05/22/reflection-ai-genesis-mission-energy-partnership

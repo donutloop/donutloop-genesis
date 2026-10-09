@@ -188,6 +188,7 @@
 * [NNSA Announces Aires Tide, a National Security Innovation Developed Using AI and Additive Manufacturing Under the Genesis Mission](https://www.energy.gov/nnsa/articles/nnsa-announces-aires-tide-national-security-innovation-developed-using-ai-and)
 * [DOE Office of Electricity](https://www.energy.gov/oe)
 * [DOE's Office of Electricity Announces $11.5M Genesis Mission Project to Meet Growing Electricity Demand Faster and to Lower Costs](https://www.energy.gov/oe/articles/does-office-electricity-announces-115m-genesis-mission-project-meet-growing-electricity)
+* [DOE Office of Environmental Management: Op Ed — How AI is Accelerating America’s Environmental Cleanup Mission](https://www.energy.gov/em/articles/op-ed-how-ai-accelerating-americas-environmental-cleanup-mission)
 * [DOE Office of Science: Genesis Mission RFA Informational Webinar (PDF)](https://science.osti.gov/-/media/grants/pdf/foas-resources/2026/Genesis-Mission-RFA-Informational-Webinar-v2-public--clean--ASCR.pdf)
 * [DOE Office of Science: Funding Opportunity Announcement (DE-FOA-0003612)](https://science.osti.gov/grants/FOAs/FOAs/2026/DE-FOA-0003612)
 * [Grants.gov Opportunity: DOE Genesis Mission (0228b895-9cb3-4160-8acc-58709e75c3c7)](https://simpler.grants.gov/opportunity/0228b895-9cb3-4160-8acc-58709e75c3c7)
