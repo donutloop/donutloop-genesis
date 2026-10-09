@@ -60,3 +60,4 @@
 * https://www.cmu.edu/news/stories/archives/2026/october/cmu-researchers-selected-for-next-round-of-doe-genesis-mission-awards
 * https://www.newswise.com/doescience/jefferson-lab-moves-forward-on-genesis-mission-phase-ii-projects/?article_id=856233
 * https://science.osti.gov/Funding-Opportunities
+* https://www.newswise.com/doescience/slac-to-lead-a-department-of-energy-genesis-mission-project-for-ai-driven-autonomous-discovery-in-catalysis
