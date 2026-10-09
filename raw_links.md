@@ -1,5 +1,4 @@
 * https://www.energy.gov/undersecretaryforscience/person/shawn-whitman
-* https://www.sei.cmu.edu/annual-reviews/2025-year-in-review/a-message-from-the-director-and-chief-executive-officer/?hl=en-US
 * https://www.lanl.gov/media/news/0429-artimis-winter-hackathon?hl=en-US
 * https://www.colorado.edu/physics/2026/08/18/physics-faculty-awarded-department-energys-genesis-mission-funding-ai-based-projects
 * https://www.newswise.com/doescience/jefferson-lab-to-receive-new-funding-for-work-on-genesis-mission-projects
