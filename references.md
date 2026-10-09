@@ -419,6 +419,7 @@
 * [Micron: Virginia — Manassas Fab Expansion and 1α DRAM Onshoring](https://www.micron.com/us-expansion/va)
 * [HiddenLayer](https://hiddenlayer.com/)
 * [HiddenLayer Selected to Support DOE's $60 Million Prometheus Initiative Under the Genesis Mission](https://www.prnewswire.com/news-releases/hiddenlayer-selected-to-support-does-60-million-prometheus-initiative-under-the-genesis-mission-302853514.html)
+* **Axios edition:** [Reflection AI Genesis Mission energy partnership](https://www.axios.com/2026-05-22/reflection-ai-genesis-mission-energy-partnership)
   
 ---
 
