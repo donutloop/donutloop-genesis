@@ -918,6 +918,7 @@
 * **NVIDIA GTC 2026:** [Accelerating Scientific Discovery Through Global Innovation (Dr. Darío Gil & Ian Buck)](https://www.nvidia.com/en-us/on-demand/session/gtc26-s82438/)
 * **National Laboratory of the Rockies (NREL):** [12 Genesis Awards, One Membrane Center, and 5 Emerging Aviation Fuels](https://www.youtube.com/watch?v=Hw_mpJwmT1o)
 * **DOE CSGF Annual Program Review:** [The Genesis Mission: Nation-Scale AI and the Future of Scientific Work (Brian Spears, LLNL)](https://www.krellinst.org/csgf/conf/2026/video/spears2026)
+* **Fast Machine Learning for Science Conference 2026 (FastML26, UC San Diego):** [Fast ML and the DOE Genesis Mission — Panel 1 Deck (PDF)](https://indico.cern.ch/event/1654479/contributions/7214654/attachments/3336122/5978422/Panel-1.pdf)
 
 ## 7. Technical Documents, RFA Guidance & Official Webinars
 * [U.S. Department of Energy: Genesis Mission RFI Analysis (PDF)](https://www.energy.gov/sites/default/files/2026-07/Genesis-Mission-RFI-Analysis.pdf)
