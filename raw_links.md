@@ -71,6 +71,7 @@
 * https://www.state.gov/releases/office-of-the-spokesman/2026/10/joint-statement-on-the-u-s-japan-technology-prosperity-deal
 * https://science.osti.gov/-/media/funding/pdf/Awards-Lists/2026/GM-RFA-Awards-List_09-30-26.pdf
 * https://www.energy.gov/science/articles/doe-nih-and-biohub-partner-build-foundational-data-predictive-biological-super
+* https://www.aps.anl.gov/APS-News/2026-10-06/a-new-kind-of-microscope-agentic-ai-turns-simple-language-into-self-guided
 * https://www.pppl.gov/news/2026/pppl-data-simulation-codes-and-compute-power-will-be-used-phase-ii-genesis-mission
 * https://www.war.gov/News/Releases/Release/Article/4622104/department-of-war-executes-white-house-strategy-for-a-new-golden-age-of-science/
 * https://www.cmu.edu/news/stories/archives/2026/october/cmu-physicist-joins-genesis-effort-to-use-ai-to-understand-the-universe
