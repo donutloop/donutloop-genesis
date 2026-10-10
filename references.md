@@ -910,6 +910,7 @@
 * **University of Nevada, Reno (UNR):** [AI project aims to tackle nuclear waste problem (*Nevada Today*)](https://www.unr.edu/nevada-today/news/2026/ankita-shukla-genesis-mission-project)
 * **Boise State University:** [Boise State joins effort to harness AI for precipitation forecasting, grid reliability](https://www.boisestate.edu/news/2026-09-17/boise-state-joins-effort-to-harness-ai-for-precipitation-forecasting-grid-reliability/)
 * **University of New Hampshire (UNH):** [Physicist Receives Grant Through Department of Energy’s Competitive Genesis Mission](https://www.unh.edu/news/physicist-receives-grant-through-department-energys-competitive-genesis-mission)
+* **Old Dominion University (ODU):** [Old Dominion University Selected for Two Federal Genesis Mission Awards Advancing Artificial Intelligence for Scientific Discovery](https://www.odu.edu/article/old-dominion-university-selected-for-two-federal-genesis-mission-awards-advancing)
 
 ---
 

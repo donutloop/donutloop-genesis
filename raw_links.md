@@ -4,7 +4,6 @@
 * https://www.energy.gov/state-american-energy-promises-made-promises-kept
 * https://www.axios.com/2026/05/22/reflection-ai-genesis-mission-energy-partnership
 * https://www.newswise.com/doescience/slac-s-premier-facilities-and-record-setting-datasets-fuel-doe-genesis-mission
-* https://www.odu.edu/article/old-dominion-university-selected-for-two-federal-genesis-mission-awards-advancing
 * https://news.stonybrook.edu/university/genesis-mission-award-recipient-and-ai-expert-named-chair-of-department-of-materials-science-and-chemical-engineering/
 * https://www.energy.gov/em/articles/assistant-secretary-walsh-views-art-possible-srs-visit
 * https://www.riken.jp/en/news_pubs/news/2026/20260127_1/index.html
