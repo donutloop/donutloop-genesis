@@ -17,7 +17,6 @@
 * https://www.energy.gov/em/articles/srnl-harnesses-ai-tackle-environmental-challenges-cut-cleanup-costs
 * https://www.energy.gov/undersecretaryforscience/genesis-mission/predicting-us-water-energy
 * https://www.energy.gov/ne/articles/one-year-after-executive-orders-us-nuclear-energy-renaissance-full-swing
-* https://www.cmu.edu/news/stories/archives/2026/october/cmu-researchers-selected-for-next-round-of-doe-genesis-mission-awards
 * https://www.newswise.com/doescience/jefferson-lab-moves-forward-on-genesis-mission-phase-ii-projects/?article_id=856233
 * https://www.war.gov/News/Releases/Release/Article/4622109/department-of-war-announces-350-million-in-quantum-computing-initiatives/
 * https://www.energy.gov/science/articles/doe-announces-science-applications-quantum-computing
