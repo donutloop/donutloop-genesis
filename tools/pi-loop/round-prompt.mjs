@@ -43,6 +43,9 @@ export function buildRoundPrompt({ round, maxRounds, url, linksFile, journalFile
     "   reference_coverage.md, README.md or README.de.md. Append entries at the bottom of tables.",
     "   In references.md an entry is a bare markdown link (`* [Title](URL)`) — never add",
     "   descriptions, quotations or verification notes there; they go in reference_coverage.md.",
+    "   Never write retrieval telemetry into any repository file — no HTTP/response codes, content",
+    "   types, byte counts, timings, tool or relay names, anti-bot interstitials, server or CMS",
+    "   headers. State only the verification outcome in plain prose.",
     "5. Commit at the end with `git add .` + a Conventional Commits message + `git tag -a` on the",
     "   bumped version (the queue removal rides along in that commit).",
     push

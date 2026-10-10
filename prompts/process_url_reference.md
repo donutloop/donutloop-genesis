@@ -26,6 +26,12 @@ The workflow receives a single URL parameter supplied via prompt invocation:
   - Scientific AI foundation models, automated lab orchestration platforms, robotics workflows.
   - Federal funding allocations, agency MOUs, CHIPS Act incentives, or executive directives.
 
+### 2b. Retrieval Telemetry Prohibition (No Fetch Logs in the Repository)
+- **Retrieval mechanics are working notes, not paper content.** Never write HTTP status codes, response codes, content types, byte sizes, timings, tool or script names (`webfetch`, `curl`, `pdftotext`), relay/proxy endpoints (`r.jina.ai`, `allorigins`, `codetabs`, `corsproxy`), CDN or anti-bot interstitials (Cloudflare "Just a moment…", "Request Rejected", "Page Not Found"), or server/CMS headers (`server:`, `x-drupal`, `x-generator`, `etag`, `x-cache`, `X-Powered-By`, WordPress/Drupal/Elementor generator tags) into `README.md`, `README.de.md`, `coverage.md` or `CHANGELOG.md`.
+- Record only the **evidentiary outcome**, in plain prose: `verified directly at the origin`, `the origin refuses automated retrieval; the text is carried from a cached/archived copy of the identical address`, or `registered host-and-title only`. One short clause, no transcript.
+- **Keep substantive provenance**: what the source actually is (e.g. a university or laboratory newsroom release rather than a DOE announcement), which identifiers are absent (no Phase designation, no award number, no DOE obligation), the data the page does and does not support, and the verbatim quotations themselves.
+- Verification status lives in the `reference_coverage.md` index row as its short flags (e.g. `Unverified, flag:Host-And-Title-Only`); even there, state the outcome, not the play-by-play.
+
 ### 3. Format & Integrate into `references.md`
 - Identify the correct section in `references.md` (e.g., Section 2 *Collaborators*, Section 4 *Executive, Federal & Partner Announcements*, Section 5 *National Labs & University Coverage*, etc.).
 - Format the entry according to repository standards. **`references.md` is a link-only register: entries carry markdown links and nothing else — no descriptions, summaries, quotes, dates, metrics or verification notes.**
@@ -56,6 +62,7 @@ The workflow receives a single URL parameter supplied via prompt invocation:
 ### 7. Version Bump & Changelog Synchronization
 - **Version Bump:** Increment only the patch version string on line 1 of both `README.md` and `README.de.md` (e.g., `**Version**: 2.4.10` → `**Version**: 2.4.11`).
 - **Headline Preservation Rule:** Do not modify the main document headline while updating the version. Keep the blank line after the version and leave line 3 in both files unchanged.
+- **No Fetch Logs:** A changelog entry records what was added and where, never how the page was retrieved (see **2b**). No status codes, byte counts, tool names or header dumps in release notes.
 - **Changelog Format Hint:** Stop reading `CHANGELOG.md` after seeing the first entry; this is sufficient to understand the changelog format and saves tokens.
 - **Changelog Entry:** Add a new release section `## [X.Y.Z] - YYYY-MM-DD` in `CHANGELOG.md` logging:
   - The processed reference link (Title, Host Domain).

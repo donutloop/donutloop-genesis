@@ -79,6 +79,13 @@ of done:
 
 - **Merge only.** Existing statements are never deleted, softened or rewritten to
   fit a new source. Additive edits only; append table rows at the bottom.
+- **No retrieval telemetry anywhere.** The papers, `coverage.md` and `CHANGELOG.md` never carry fetch
+  mechanics: no HTTP/response codes, content types, byte counts, timings, tool names (`webfetch`, `curl`,
+  `pdftotext`), relay or proxy endpoints (`r.jina.ai`, `allorigins`, `codetabs`, `corsproxy`), anti-bot or
+  CDN interstitials, or server/CMS headers and generator tags. State only the outcome — verified at the
+  origin, refused with the text carried from a cached or archived copy of the identical address, or
+  registered host-and-title only — as one plain clause. Substantive provenance (what the source is, which
+  award identifiers are missing, verbatim quotations) is kept; the transcript is not.
 - **Links only in `references.md`.** The bibliography is a link register: every entry is
   `* [Title](URL)` with at most a bold qualifier in front of the link. Never write
   descriptions, extracted facts, quotations, metadata or verification notes into that
