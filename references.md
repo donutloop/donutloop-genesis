@@ -713,6 +713,7 @@
   * [www.energy.gov/articles/secretary-energy-chris-wright-announces-first-genesis-mission-projects-selected-accelerate](https://www.energy.gov/articles/secretary-energy-chris-wright-announces-first-genesis-mission-projects-selected-accelerate)
   * [www.energy.gov/undersecretaryforscience/genesis-mission/genesis-mission](https://www.energy.gov/undersecretaryforscience/genesis-mission/genesis-mission)
   * [science.osti.gov/-/media/funding/pdf/Awards-Lists/2026/GM-RFA-Awards-List.pdf](https://science.osti.gov/-/media/funding/pdf/Awards-Lists/2026/GM-RFA-Awards-List.pdf)
+  * [MIT Projects Selected for Funding Under U.S. DOE's Genesis Mission (MIT Energy-Branded Channel)](https://energy.mit.edu/news-events/news/mit-projects-selected-funding-under-us-department-energys-genesis-mission)
 * **New Jersey Institute of Technology (NJIT):** [Genesis Mission - Transforming Science and Energy with AI](https://research.njit.edu/genesis-mission-transforming-science-and-energy-ai)
 * **New Mexico State University (NMSU):** [NMSU-Led Team Selected for $800M Initiative](https://newsroom.nmsu.edu/news/nmsu-led-team-among-those-selected-for--800-million-doe-genesis-mission/s/16c85a82-19d1-45ea-922e-6aba73e11383)
 * **New York University (NYU):** [Faculty Drive Three U.S. Department of Energy Genesis Mission Projects](https://www.nyu.edu/about/news-publications/news/2026/july/nyu-faculty-drive-three-us-department-of-energy-genesis-mission-.html?challenge=d06e90d7-4d8f-4b88-9d8c-10b73beb60f1)
