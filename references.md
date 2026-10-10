@@ -754,6 +754,7 @@
 * **Texas A&M University:** [Texas A&M Joins the Genesis Mission to Transform Science Using AI](https://stories.tamu.edu/news/2026/07/27/texas-am-university-joins-the-genesis-mission-to-transform-science-using-artificial-intelligence/)
 * **Texas State University:** [DOE Genesis Mission Awards Coverage](https://news.txst.edu/research-and-innovation/2026/doe-genesis-mission.html)
 * **Tulane University:** [Team Selected to Discover Next Generation Materials Using AI](https://news.tulane.edu/pr/department-energys-genesis-mission-selects-tulane-team-using-ai-discover-next-generation)
+  * [Future of Energy Forum panel: How AI could expand energy access](https://news.tulane.edu/news/how-ai-could-expand-energy-access-according-tulane-experts)
 * **UC Berkeley (College of Chemistry):** [Awarded DOE Genesis Mission Grant](https://chemistry.berkeley.edu/news/uc-berkeley-college-chemistry-awarded-doe-genesis-mission-grant)
 * **UC Davis:**
   * [Researchers Selected for Landmark DOE Genesis Mission Awards](https://www.ucdavis.edu/news/uc-davis-researchers-selected-landmark-doe-genesis-mission-awards-harness-ai-scientific)
