@@ -696,6 +696,7 @@
 * **Lehigh University:**
   * [Researchers Earn 2 DOE Genesis Mission Funding Awards](https://news.lehigh.edu/lehigh-researchers-earn-2-doe-genesis-mission-funding-awards)
   * [Brian Leard Selected for DOE Fusion Energy Postdoc](https://engineering.lehigh.edu/news/article/brian-leard-selected-doe-fusion-energy-postdoc)
+  * [DOE Acting Assistant Secretary Curt Coccodrilli Visits Lehigh’s Leading Energy Facilities](https://news.lehigh.edu/doe-acting-assistant-secretary-curt-coccodrilli-visits-lehighs-leading-energy-facilities)
 * **Louisiana State University (LSU):** [LSU Researchers Garner DOE Genesis Mission Awards](https://www.lsu.edu/blog/2026/07/genesis-mission-awards.php)
 * **Michigan State University (FRIB):** [Receives Award for AI-Powered Research](https://msutoday.msu.edu/news/2026/07/frib-receives-genesis-mission-award)
 * **Michigan Technological University:** [Atmospheric Scientists Linked to Three Selected Projects](https://www.mtu.edu/news/2026/07/michigan-tech-atmospheric-scientists-linked-to-three-research-projects-selected-for-doe-genesis-mission.html)
