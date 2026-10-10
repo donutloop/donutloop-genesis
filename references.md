@@ -690,6 +690,7 @@
 * **Iowa State University:** [Research Projects Selected for Funding](https://www.news.iastate.edu/news/several-iowa-state-research-projects-selected-us-department-energy-genesis-mission)
 * **Kent State University:** [Kent State Researcher Selected for DOE Genesis Mission Award](https://www.kent.edu/today/news/kent-state-researcher-selected-doe-genesis-mission-award-critical-minerals)
 * **La Sierra University:** [La Sierra prof’s team selected for DOE Genesis Mission AI research award](https://lasierra.edu/article/la-sierra-profs-team-selected-for-doe-genesis-mission-ai-research-award/)
+  * [La Sierra University Prof Collaborates in Genesis Mission AI Research](https://mynewsla.com/education/2026/09/10/la-sierra-university-professor-collaborating-in-genesis-mission-ai-research/)
 * **Lehigh University:**
   * [Researchers Earn 2 DOE Genesis Mission Funding Awards](https://news.lehigh.edu/lehigh-researchers-earn-2-doe-genesis-mission-funding-awards)
   * [Brian Leard Selected for DOE Fusion Energy Postdoc](https://engineering.lehigh.edu/news/article/brian-leard-selected-doe-fusion-energy-postdoc)
