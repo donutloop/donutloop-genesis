@@ -899,6 +899,7 @@
 * [A Message from the Director and Chief Executive Officer](https://www.sei.cmu.edu/annual-reviews/2025-year-in-review/a-message-from-the-director-and-chief-executive-officer/?hl=en-US)
 
 * [Data center cooling project receives DOE Genesis funding](https://energyinstitute.jhu.edu/data-center-cooling-project-receives-doe-genesis-funding/)
+* **University of South Carolina (USC):** [USC researchers land major AI-driven grants from Department of Energy](https://www.sc.edu/uofsc/posts/2026/09/usc-doe-grant-sourav-banerjee-david-tedeschi-ai-nuclear.php)
 
 ---
 

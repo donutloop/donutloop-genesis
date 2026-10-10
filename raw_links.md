@@ -4,7 +4,6 @@
 * https://www.energy.gov/state-american-energy-promises-made-promises-kept
 * https://www.axios.com/2026/05/22/reflection-ai-genesis-mission-energy-partnership
 * https://www.newswise.com/doescience/slac-s-premier-facilities-and-record-setting-datasets-fuel-doe-genesis-mission
-* https://www.sc.edu/uofsc/posts/2026/09/usc-doe-grant-sourav-banerjee-david-tedeschi-ai-nuclear.php
 * https://mynewsla.com/education/2026/09/10/la-sierra-university-professor-collaborating-in-genesis-mission-ai-research/
 * https://www.unr.edu/nevada-today/news/2026/ankita-shukla-genesis-mission-project
 * https://www.anl.gov/article/from-curious-students-to-confident-scientists-argonne-interns-train-to-tackle-critical-research
