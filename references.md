@@ -901,6 +901,7 @@
 
 * [Data center cooling project receives DOE Genesis funding](https://energyinstitute.jhu.edu/data-center-cooling-project-receives-doe-genesis-funding/)
 * **University of South Carolina (USC):** [USC researchers land major AI-driven grants from Department of Energy](https://www.sc.edu/uofsc/posts/2026/09/usc-doe-grant-sourav-banerjee-david-tedeschi-ai-nuclear.php)
+* **University of Nevada, Reno (UNR):** [AI project aims to tackle nuclear waste problem (*Nevada Today*)](https://www.unr.edu/nevada-today/news/2026/ankita-shukla-genesis-mission-project)
 
 ---
 
