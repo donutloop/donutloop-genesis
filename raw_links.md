@@ -4,7 +4,6 @@
 * https://www.energy.gov/state-american-energy-promises-made-promises-kept
 * https://www.axios.com/2026/05/22/reflection-ai-genesis-mission-energy-partnership
 * https://www.newswise.com/doescience/slac-s-premier-facilities-and-record-setting-datasets-fuel-doe-genesis-mission
-* https://science.osti.gov/-/media/About/pdf/scac/meetings/2026/lab-contributions-to-GM-03-24-2026v2.pdf
 * https://www.energy.gov/technologycommercialization/doe-small-business-innovation-research-sbir-and-small-business
 * https://news.lehigh.edu/doe-acting-assistant-secretary-curt-coccodrilli-visits-lehighs-leading-energy-facilities
 * https://www.unh.edu/news/physicist-receives-grant-through-department-energys-competitive-genesis-mission
