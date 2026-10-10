@@ -746,6 +746,7 @@
   * [Stony Brook Mobilizes for National AI Research Mission](https://news.stonybrook.edu/university/stony-brook-mobilizes-for-national-ai-research-mission/)
   * [Stony Brook, Brookhaven Lab Researchers Demonstrate 'Wireless' Capability for Quantum Network](https://news.stonybrook.edu/university/stony-brook-brookhaven-lab-researchers-demonstrate-wireless-capability-for-quantum-network)
   * [Stony Brook University Researchers Chosen for Landmark DOE Genesis Mission AI-for-Science Awards (*Stony Brook Matters*)](https://sbmatters.stonybrook.edu/stony-brook-university-researchers-chosen-for-landmark-doe-genesis-mission-ai-for-science-awards/)
+  * [Brookhaven Lab to Lead $14M AI Project for Nation's Electric Grid Through Genesis Mission (*SBU News*)](https://news.stonybrook.edu/university/brookhaven-lab-to-lead-14m-ai-project-for-nations-electric-grid-through-genesis-mission/)
 * **Texas A&M University:** [Texas A&M Joins the Genesis Mission to Transform Science Using AI](https://stories.tamu.edu/news/2026/07/27/texas-am-university-joins-the-genesis-mission-to-transform-science-using-artificial-intelligence/)
 * **Texas State University:** [DOE Genesis Mission Awards Coverage](https://news.txst.edu/research-and-innovation/2026/doe-genesis-mission.html)
 * **Tulane University:** [Team Selected to Discover Next Generation Materials Using AI](https://news.tulane.edu/pr/department-energys-genesis-mission-selects-tulane-team-using-ai-discover-next-generation)
