@@ -664,7 +664,7 @@
 * **Brown University:** [Brown’s National Labs Day spotlights collaboration in AI-enabled science](https://www.brown.edu/news/2026-05-15/national-labs-day)
 * **University of Alabama:** [University of Alabama News: UA Genesis Mission Award Will Create AI Tool for Particle Physics](https://news.ua.edu/2026/08/ua-genesis-mission-award-will-create-ai-tool-for-particle-physics/)
 * **Arizona State University (ASU):** [Awarded DOE Genesis Mission Grant for Electrical Grid Reliability](https://news.asu.edu/20260722-science-and-technology-asu-awarded-doe-genesis-mission-grant-electrical-grid-reliability)
-* **Caltech:** [Two Projects Selected for Funding](https://www.caltech.edu/about/news/two-caltech-projects-selected-for-doe-funding-as-part-of-genesis-mission)
+* **Caltech:** [Two Projects Selected for Funding](https://www.caltech.edu/about/news/two-caltech-projects-selected-for-doe-funding-as-part-of-genesis-mission), [DOE Funds AI-Driven Catalyst Discovery Project as Part of Genesis Mission](https://www.caltech.edu/about/news/doe-funds-ai-driven-catalyst-discovery-project-as-part-of-genesis-mission)
 * **Carnegie Mellon University:**
   * [Researchers Lead Three Awards](https://www.cmu.edu/news/stories/archives/2026/july/carnegie-mellon-researchers-lead-three-doe-genesis-mission-awards-to-advance-the-future-of-ai)
   * [Connecting Autonomous Laboratories to Speed Scientific Advancement](https://www.cmu.edu/news/stories/archives/2026/july/connecting-autonomous-laboratories-to-speed-scientific-advancement)
