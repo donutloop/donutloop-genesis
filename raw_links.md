@@ -4,7 +4,6 @@
 * https://www.energy.gov/state-american-energy-promises-made-promises-kept
 * https://www.axios.com/2026/05/22/reflection-ai-genesis-mission-energy-partnership
 * https://www.newswise.com/doescience/slac-s-premier-facilities-and-record-setting-datasets-fuel-doe-genesis-mission
-* https://www.colorado.edu/physics/2026/09/30/keith-ulmer-writes-cern-nobody-knows-what-new-physics-will-look
 * https://news.tulane.edu/news/how-ai-could-expand-energy-access-according-tulane-experts
 * https://energy.mit.edu/news-events/news/mit-projects-selected-funding-under-us-department-energys-genesis-mission
 * https://www.odu.edu/article/old-dominion-university-selected-for-two-federal-genesis-mission-awards-advancing

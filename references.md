@@ -783,6 +783,7 @@
   * [Harnessing abundant electricity from the sun, and other CU Boulder science tapped for Genesis Mission](https://www.colorado.edu/today/2026/07/22/harnessing-abundant-electricity-sun-and-other-cu-boulder-science-tapped-genesis-mission)
   * [Physics faculty awarded Department of Energy's Genesis Mission funding for AI-based projects](https://www.colorado.edu/physics/2026/08/18/physics-faculty-awarded-department-energys-genesis-mission-funding-ai-based-projects)
   * [David Bortz awarded Department of Energy Genesis Mission grant](https://www.colorado.edu/amath/2026-07-30/david-bortz-awarded-department-energy-genesis-mission-grant)
+  * [Keith Ulmer writes for CERN: Nobody knows what new physics will look like](https://www.colorado.edu/physics/2026/09/30/keith-ulmer-writes-cern-nobody-knows-what-new-physics-will-look)
 * **Colorado School of Mines:** [Mines Selected for 2 Genesis Mission Projects to Apply AI to Critical Mineral Exploration and Nuclear Energy](https://www.minesnewsroom.com/news/mines-selected-2-genesis-mission-projects-apply-ai-critical-mineral-exploration-nuclear-energy)
 * **University of Connecticut (UConn):**
   * [Researchers Win Inaugural DOE Genesis Mission Award](https://today.uconn.edu/2026/07/uconn-researchers-win-inaugural-doe-genesis-mission-award/)
