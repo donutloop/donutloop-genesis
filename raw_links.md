@@ -17,7 +17,6 @@
 * https://www.energy.gov/em/articles/srnl-harnesses-ai-tackle-environmental-challenges-cut-cleanup-costs
 * https://www.energy.gov/undersecretaryforscience/genesis-mission/predicting-us-water-energy
 * https://www.energy.gov/ne/articles/one-year-after-executive-orders-us-nuclear-energy-renaissance-full-swing
-* https://www.bnl.gov/newsroom/news.php?a=223205
 * https://news.uci.edu/2026/10/08/department-of-energy-selects-uc-irvine-led-ai-driven-geothermal-energy-project/
 * https://www6.slac.stanford.edu/news/2026-10-08-slac-leads-new-project-build-self-driving-laboratory-future
 * https://www.energy.gov/articles/energy-department-announces-new-genesis-mission-awards-advance-super-intelligence-science

@@ -523,6 +523,7 @@
   * [Brookhaven and Stony Brook Researchers Demonstrate 'Wireless' Capability for Quantum Network](https://www.bnl.gov/newsroom/news.php?a=123096)
   * [Brookhaven Lab to Lead $14M AI Project for Nation's Electric Grid](https://www.bnl.gov/newsroom/news.php?a=123136)
   * [John Hill Named Director of Brookhaven National Laboratory](https://www.bnl.gov/newsroom/news.php?a=122967)
+  * [Complete List of Brookhaven Lab Genesis Mission Phase II Projects](https://www.bnl.gov/newsroom/news.php?a=223205)
 * **Fermilab:** 
   * [DOE Invests to Accelerate AI-Enabled Discovery](https://news.fnal.gov/2026/07/u-s-department-of-energy-invests-in-fermilab-projects-to-accelerate-ai-enabled-scientific-discovery/)
   * [Fermilab Drives Progress for National AI Genesis Mission](https://news.fnal.gov/2026/03/fermilab-drives-progress-for-national-ai-genesis-mission/)
