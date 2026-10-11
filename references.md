@@ -428,6 +428,7 @@
 * [White House Fact Sheet: Trump Administration Announces the Most Ambitious Set of Science Initiatives This Century](https://www.whitehouse.gov/fact-sheets/2026/10/fact-sheet-trump-administration-announces-the-most-ambitious-set-of-science-initiatives-this-century/)
 * [DOE Office of Science: Genesis Mission Frameworks: Advancing the Frontiers of American Discovery](https://www.energy.gov/science/articles/genesis-mission-frameworks-advancing-frontiers-american-discovery)
 * [DOE Announcement: Energy Department Announces New Genesis Mission Awards to Advance Super Intelligence for Science](https://www.energy.gov/articles/energy-department-announces-new-genesis-mission-awards-advance-super-intelligence-science)
+* [U.S. Department of State: Joint Statement on the U.S.-Japan Technology Prosperity Deal](https://www.state.gov/releases/office-of-the-spokesman/2026/10/joint-statement-on-the-u-s-japan-technology-prosperity-deal)
   
 ---
 
