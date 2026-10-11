@@ -17,7 +17,6 @@
 * https://www.energy.gov/em/articles/srnl-harnesses-ai-tackle-environmental-challenges-cut-cleanup-costs
 * https://www.energy.gov/undersecretaryforscience/genesis-mission/predicting-us-water-energy
 * https://www.energy.gov/ne/articles/one-year-after-executive-orders-us-nuclear-energy-renaissance-full-swing
-* https://www.energy.gov/science/articles/doe-nih-and-biohub-partner-build-foundational-data-predictive-biological-super
 * https://www.aps.anl.gov/APS-News/2026-10-06/a-new-kind-of-microscope-agentic-ai-turns-simple-language-into-self-guided
 * https://www.pppl.gov/news/2026/pppl-data-simulation-codes-and-compute-power-will-be-used-phase-ii-genesis-mission
 * https://www.war.gov/News/Releases/Release/Article/4622104/department-of-war-executes-white-house-strategy-for-a-new-golden-age-of-science/

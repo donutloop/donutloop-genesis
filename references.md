@@ -430,6 +430,7 @@
 * [DOE Announcement: Energy Department Announces New Genesis Mission Awards to Advance Super Intelligence for Science](https://www.energy.gov/articles/energy-department-announces-new-genesis-mission-awards-advance-super-intelligence-science)
 * [U.S. Department of State: Joint Statement on the U.S.-Japan Technology Prosperity Deal](https://www.state.gov/releases/office-of-the-spokesman/2026/10/joint-statement-on-the-u-s-japan-technology-prosperity-deal)
 * [DOE Office of Science: Genesis Mission RFA Awards List — Dated Second-Round Edition, Announcement Number DE-FOA-0003612, List Posted 10/8/2026 (PDF)](https://science.osti.gov/-/media/funding/pdf/Awards-Lists/2026/GM-RFA-Awards-List_09-30-26.pdf)
+* [DOE Office of Science: DOE, NIH, and Biohub Partner to Build Foundational Data for Predictive Biological Super Intelligence Models](https://www.energy.gov/science/articles/doe-nih-and-biohub-partner-build-foundational-data-predictive-biological-super)
   
 ---
 
