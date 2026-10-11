@@ -427,6 +427,7 @@
 * [NIH News Release: NIH joins effort to build SI-ready data, predictive models of human biology](https://www.nih.gov/news-events/news-releases/nih-joins-effort-build-si-ready-data-predictive-models-human-biology)
 * [White House Fact Sheet: Trump Administration Announces the Most Ambitious Set of Science Initiatives This Century](https://www.whitehouse.gov/fact-sheets/2026/10/fact-sheet-trump-administration-announces-the-most-ambitious-set-of-science-initiatives-this-century/)
 * [DOE Office of Science: Genesis Mission Frameworks: Advancing the Frontiers of American Discovery](https://www.energy.gov/science/articles/genesis-mission-frameworks-advancing-frontiers-american-discovery)
+* [DOE Announcement: Energy Department Announces New Genesis Mission Awards to Advance Super Intelligence for Science](https://www.energy.gov/articles/energy-department-announces-new-genesis-mission-awards-advance-super-intelligence-science)
   
 ---
 
