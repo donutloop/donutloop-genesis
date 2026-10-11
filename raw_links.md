@@ -17,7 +17,6 @@
 * https://www.energy.gov/em/articles/srnl-harnesses-ai-tackle-environmental-challenges-cut-cleanup-costs
 * https://www.energy.gov/undersecretaryforscience/genesis-mission/predicting-us-water-energy
 * https://www.energy.gov/ne/articles/one-year-after-executive-orders-us-nuclear-energy-renaissance-full-swing
-* https://science.osti.gov/Funding-Opportunities
 * https://www.energy.gov/undersecretaryforscience/genesis-mission/quantum-genesis
 * https://science.osti.gov/-/media/grants/pdf/foas/2027/DE-FOA-0003673.pdf
 * https://www.nih.gov/news-events/news-releases/nih-joins-effort-build-si-ready-data-predictive-models-human-biology
