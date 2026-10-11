@@ -639,6 +639,7 @@
   * [Energy Department Launches Genesis Mission to Transform Science](https://www.pppl.gov/news/2025/energy-department-launches-%E2%80%98genesis-mission%E2%80%99-transform-american-science-and-innovation)
   * [Genesis Mission and Fusion Energy Event Details](https://www.pppl.gov/events/2025/genesis-mission-and-fusion-energy)
   * [Princeton Plasma Physics Laboratory (PPPL) — About Us](https://www.pppl.gov/about-us)
+  * [PPPL Data, Simulation Codes and Compute Power Will Be Used in Phase II Genesis Mission Project to Build Digital Twin of Fusion Energy System](https://www.pppl.gov/news/2026/pppl-data-simulation-codes-and-compute-power-will-be-used-phase-ii-genesis-mission)
 * **Sandia National Laboratories:** 
   * [Selected to Lead 6 Projects, Partner on 17 Others](https://newsreleases.sandia.gov/sandia-selected-to-lead-six-genesis-mission-projects-partner-on-17-others/)
   * [DOE Launches Genesis Mission (Lab News Feature)](https://www.sandia.gov/labnews/2025/12/04/doe-launches-genesis-mission-to-transform-american-science-and-innovation-through-ai-computing-revolution/)
