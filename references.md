@@ -422,6 +422,7 @@
 * [HiddenLayer Selected to Support DOE's $60 Million Prometheus Initiative Under the Genesis Mission](https://www.prnewswire.com/news-releases/hiddenlayer-selected-to-support-does-60-million-prometheus-initiative-under-the-genesis-mission-302853514.html)
 * [DOE Small Business Innovation Research (SBIR) and Small Business Technology Transfer (STTR)](https://www.energy.gov/technologycommercialization/doe-small-business-innovation-research-sbir-and-small-business)
 * [Department of War Announces $350 Million in Quantum Computing Initiatives](https://www.war.gov/News/Releases/Release/Article/4622109/department-of-war-announces-350-million-in-quantum-computing-initiatives/)
+* [NVIDIA: Commits $1 Billion to Advance US Science Over the Next Five Years](https://nvidianews.nvidia.com/news/nvidia-commits-1-billion-to-advance-us-science-over-the-next-five-years)
   
 ---
 
