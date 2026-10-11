@@ -969,3 +969,4 @@
 * [U.S. Department of Energy: 2026 Genesis Mission AI Workforce Request for Information — DE-SC-26-016 (PDF)](https://huggingface.co/datasets/huggingface/policy-docs/resolve/main/2026_DOE_Genesis_Mission_AI_Workforce_RFI.pdf)
 * [DOE Office of Science (SC/DDSP): Advances In AI for Science — DOE's National Laboratories, Laboratory Contributions to the Genesis Mission (PDF)](https://science.osti.gov/-/media/About/pdf/scac/meetings/2026/lab-contributions-to-GM-03-24-2026v2.pdf)
 * [DOE Office of Science: Funding Opportunities Portal (Office of Science FOAs & DOE National Laboratory Announcements)](https://science.osti.gov/Funding-Opportunities)
+* [DOE Office of Science: Genesis Mission Graduate Fellowship Pilot — Notice of Funding Opportunity DE-FOA-0003673, Part 1, Version 4.1 (PDF)](https://science.osti.gov/-/media/grants/pdf/foas/2027/DE-FOA-0003673.pdf)
