@@ -17,7 +17,6 @@
 * https://www.energy.gov/em/articles/srnl-harnesses-ai-tackle-environmental-challenges-cut-cleanup-costs
 * https://www.energy.gov/undersecretaryforscience/genesis-mission/predicting-us-water-energy
 * https://www.energy.gov/ne/articles/one-year-after-executive-orders-us-nuclear-energy-renaissance-full-swing
-* https://www.nih.gov/news-events/news-releases/nih-joins-effort-build-si-ready-data-predictive-models-human-biology
 * https://www.whitehouse.gov/fact-sheets/2026/10/fact-sheet-trump-administration-announces-the-most-ambitious-set-of-science-initiatives-this-century/
 * https://www.energy.gov/science/articles/genesis-mission-frameworks-advancing-frontiers-american-discovery
 * https://www.bnl.gov/newsroom/news.php?a=223205

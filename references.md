@@ -424,6 +424,7 @@
 * [Department of War Announces $350 Million in Quantum Computing Initiatives](https://www.war.gov/News/Releases/Release/Article/4622109/department-of-war-announces-350-million-in-quantum-computing-initiatives/)
 * [NVIDIA: Commits $1 Billion to Advance US Science Over the Next Five Years](https://nvidianews.nvidia.com/news/nvidia-commits-1-billion-to-advance-us-science-over-the-next-five-years)
 * [DOE Overview: Quantum Genesis](https://www.energy.gov/undersecretaryforscience/genesis-mission/quantum-genesis)
+* [NIH News Release: NIH joins effort to build SI-ready data, predictive models of human biology](https://www.nih.gov/news-events/news-releases/nih-joins-effort-build-si-ready-data-predictive-models-human-biology)
   
 ---
 
