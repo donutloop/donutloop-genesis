@@ -17,7 +17,6 @@
 * https://www.energy.gov/em/articles/srnl-harnesses-ai-tackle-environmental-challenges-cut-cleanup-costs
 * https://www.energy.gov/undersecretaryforscience/genesis-mission/predicting-us-water-energy
 * https://www.energy.gov/ne/articles/one-year-after-executive-orders-us-nuclear-energy-renaissance-full-swing
-* https://www.anl.gov/article/argonne-to-advance-scientific-discovery-with-new-genesis-mission-awards
 * https://science.osti.gov/Funding-Opportunities
 * https://www.energy.gov/undersecretaryforscience/genesis-mission/quantum-genesis
 * https://science.osti.gov/-/media/grants/pdf/foas/2027/DE-FOA-0003673.pdf

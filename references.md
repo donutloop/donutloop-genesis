@@ -481,6 +481,7 @@
   * [STREAMLINE uses AI to tackle one of nuclear physics’ toughest problems — ALCF newsroom edition](https://www.alcf.anl.gov/news/streamline-uses-ai-tackle-one-nuclear-physics-toughest-problems)
   * [From Curious Students to Confident Scientists: Argonne Interns Train to Tackle Critical Research Problems](https://www.anl.gov/article/from-curious-students-to-confident-scientists-argonne-interns-train-to-tackle-critical-research)
   * [AI-empowered Design of Functional Quantum Magnets](https://www.anl.gov/genesis-mission/projects/aiempowered-design-of-functional-quantum-magnets)
+  * [Argonne to advance scientific discovery with new Genesis Mission awards](https://www.anl.gov/article/argonne-to-advance-scientific-discovery-with-new-genesis-mission-awards)
 * **Berkeley Lab (LBNL):** 
   * [Genesis Mission Hub & Scientific Strategy](https://www.lbl.gov/genesis-mission/)
   * [Genesis Mission Projects Directory](https://www.lbl.gov/genesis-mission-projects/)
