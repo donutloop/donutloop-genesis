@@ -654,6 +654,7 @@
   * [SLAC ISDCI Genesis Portal](https://isdci.slac.stanford.edu/genesis)
   * [SLAC to lead Genesis Mission AI project to recover critical metals from lithium-ion battery waste](https://www6.slac.stanford.edu/news/2026-07-22-slac-lead-genesis-mission-ai-project-recover-critical-metals-lithium-ion-battery)
   * [How SLAC is powering America's AI science transformation](https://news.stanford.edu/stories/2026/06/slac-data-doe-genesis-mission)
+  * [SLAC leads new project to build the self-driving laboratory of the future](https://www6.slac.stanford.edu/news/2026-10-08-slac-leads-new-project-build-self-driving-laboratory-future)
 * **Thomas Jefferson National Accelerator Facility (TJNAF / Jefferson Lab):**
   * [Jefferson Lab AI-Driven Nuclear Femtography & Accelerator Optimization](https://www.jlab.org/news/releases/ai-science-genesis-mission)
   * [Jefferson Lab AI Genesis Mission Portal](https://www.jlab.org/AI/genesis)
