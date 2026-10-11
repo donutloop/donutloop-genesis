@@ -17,7 +17,6 @@
 * https://www.energy.gov/em/articles/srnl-harnesses-ai-tackle-environmental-challenges-cut-cleanup-costs
 * https://www.energy.gov/undersecretaryforscience/genesis-mission/predicting-us-water-energy
 * https://www.energy.gov/ne/articles/one-year-after-executive-orders-us-nuclear-energy-renaissance-full-swing
-* https://www.energy.gov/science/articles/doe-announces-science-applications-quantum-computing
 * https://nvidianews.nvidia.com/news/nvidia-commits-1-billion-to-advance-us-science-over-the-next-five-years
 * https://www.anl.gov/article/argonne-to-advance-scientific-discovery-with-new-genesis-mission-awards
 * https://science.osti.gov/Funding-Opportunities

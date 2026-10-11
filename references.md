@@ -122,6 +122,7 @@
 
 * **Official Announcement:** [Department of Commerce $2 Billion Letters of Intent Announcement (NIST)](https://www.nist.gov/news-events/news/2026/05/department-commerce-announces-letters-intent-9-companies-2-billion)
 * **DOE Quantum Computing Initiative:** [Energy Department $2 Billion Fault-Tolerant Quantum Initiative](https://www.energy.gov/science/articles/energy-department-announces-initiative-create-and-deploy-worlds-first)
+* **DOE Quantum Genesis Priority Applications:** [DOE Announces Science Applications for Quantum Computing](https://www.energy.gov/science/articles/doe-announces-science-applications-quantum-computing)
 
 ### Quantum Foundries & Manufacturing Infrastructure
 * [GlobalFoundries](https://gf.com/gf-labs)
