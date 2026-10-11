@@ -689,6 +689,7 @@
   * [Building the Future: Carnegie Mellon is the Quintessential American Story](https://www.cmu.edu/news/stories/archives/2026/august/building-the-future-carnegie-mellon-is-the-quintessential-american-story)
   * [What Makes Up The Universe? AI Will Help CMU Scientists Find Out (Dietrich College AI News)](https://www.cmu.edu/dietrich/ai/news/doe-genesis-grant-chad-schafer.html)
   * [CMU Researchers Selected for Next Round of DOE Genesis Mission Awards](https://www.cmu.edu/news/stories/archives/2026/october/cmu-researchers-selected-for-next-round-of-doe-genesis-mission-awards)
+  * [CMU Physicist Joins Genesis Effort To Use AI To Understand the Universe](https://www.cmu.edu/news/stories/archives/2026/october/cmu-physicist-joins-genesis-effort-to-use-ai-to-understand-the-universe)
 * **Colorado State University:** [Researchers Selected for Two Highly Competitive Projects](https://source.colostate.edu/csu-researchers-selected-for-two-highly-competitive-department-of-energy-genesis-mission-projects/)
 * **Columbia University:**
   * [Projects Receive Genesis Mission Funding](https://news.columbia.edu/news/columbia-university-projects-receive-genesis-mission-funding)

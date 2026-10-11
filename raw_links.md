@@ -18,5 +18,4 @@
 * https://www.energy.gov/undersecretaryforscience/genesis-mission/predicting-us-water-energy
 * https://www.energy.gov/ne/articles/one-year-after-executive-orders-us-nuclear-energy-renaissance-full-swing
 * https://www.pppl.gov/news/2026/pppl-data-simulation-codes-and-compute-power-will-be-used-phase-ii-genesis-mission
-* https://www.cmu.edu/news/stories/archives/2026/october/cmu-physicist-joins-genesis-effort-to-use-ai-to-understand-the-universe
 * https://www.energy.gov/ceser/articles/ceser-and-lawrence-livermore-national-laboratory-launch-ai-testbed-strengthen-energy
