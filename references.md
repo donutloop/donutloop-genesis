@@ -433,6 +433,7 @@
 * [DOE Office of Science: DOE, NIH, and Biohub Partner to Build Foundational Data for Predictive Biological Super Intelligence Models](https://www.energy.gov/science/articles/doe-nih-and-biohub-partner-build-foundational-data-predictive-biological-super)
 * [Department of War Executes White House Strategy for a New Golden Age of Science](https://www.war.gov/News/Releases/Release/Article/4622104/department-of-war-executes-white-house-strategy-for-a-new-golden-age-of-science/)
 * [DOE CESER: CESER and Lawrence Livermore National Laboratory Launch AI Testbed to Strengthen the Energy Sector’s AI Cybersecurity](https://www.energy.gov/ceser/articles/ceser-and-lawrence-livermore-national-laboratory-launch-ai-testbed-strengthen-energy)
+* [PsiQuantum, Brookhaven Lab Partner to Accelerate Quantum Application Development Using Construct Software Tool](https://www.psiquantum.com/news-import/psiquantum-brookhaven-lab-partner-to-accelerate-quantum-application-development-using-construct-software-tool)
   
 ---
 
