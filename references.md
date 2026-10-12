@@ -569,6 +569,7 @@
   * [1663 Magazine: What Next for QUBITS?](https://www.lanl.gov/media/publications/1663/0624-what-next-for-qubits)
   * [Los Alamos National Laboratory About Portal](https://www.lanl.gov/about)
   * [Los Alamos scientists team up to advance the Lab's AI mission](https://www.lanl.gov/media/news/0429-artimis-winter-hackathon?hl=en-US)
+  * [The Genesis Mission — Los Alamos National Laboratory Genesis Mission Portal](https://www.lanl.gov/science-engineering/si/genesis-mission)
 * **National Energy Technology Laboratory (NETL):** 
   * [AI-Driven Research to Strengthen Grid, Supply Chains, and Tech Leadership](https://www.netl.doe.gov/newsroom/news-releases/news-details?id=28828854-4fb0-4660-8fdd-b2861e695be2)
   * [NETL Genesis Mission Node Coverage](https://www.netl.doe.gov/node/15121)
