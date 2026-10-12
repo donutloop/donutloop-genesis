@@ -435,6 +435,7 @@
 * [DOE CESER: CESER and Lawrence Livermore National Laboratory Launch AI Testbed to Strengthen the Energy Sector’s AI Cybersecurity](https://www.energy.gov/ceser/articles/ceser-and-lawrence-livermore-national-laboratory-launch-ai-testbed-strengthen-energy)
 * [PsiQuantum, Brookhaven Lab Partner to Accelerate Quantum Application Development Using Construct Software Tool](https://www.psiquantum.com/news-import/psiquantum-brookhaven-lab-partner-to-accelerate-quantum-application-development-using-construct-software-tool)
 * [Axios: Reflection AI to power Genesis Mission](https://www.axios.com/2026-05-22/reflection-ai-genesis-mission-energy-partnership)
+* [Grants.gov Opportunity: Genesis Mission Graduate Fellowship Pilot (DE-FOA-0003673)](https://simpler.grants.gov/opportunity/06db55bd-0a2a-4057-bfcd-eb2ebb4a13ab)
   
 ---
 
