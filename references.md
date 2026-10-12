@@ -894,6 +894,7 @@
 * **The Ohio State University:**
   * [Ohio State Researchers to Lead National Teams Exploring Science, AI Innovation](https://news.osu.edu/ohio-state-researchers-to-lead-national-teams-exploring-science-ai-innovation/)
   * [College of Engineering / CSE Coverage: Ohio State Researchers to Lead National Teams Exploring Science, AI Innovation](https://cse.osu.edu/news/2026/07/ohio-state-researchers-lead-national-teams-exploring-science-ai-innovation)
+  * [Architecting the Future of Scientific Discovery: Unleashing Frontier Artificial Intelligence and Advanced Simulation for the DOE Genesis Mission](https://www.cs.umd.edu/event/2026/10/architecting-future-scientific-discovery-unleashing-frontier-artificial-intelligence)
 * **Oklahoma State University:** [Selected for U.S. Department of Energy's Genesis Mission Initiative](https://news.okstate.edu/articles/engineering-architecture-technology/2026/oklahoma-state-university-selected-for-u.s.-department-of-energys-genesis-mission-initiative)
 * **University of Wisconsin–Madison:**
   * [5 Projects Receive Funding](https://news.wisc.edu/5-projects-at-uwmadison-aimed-at-transforming-science-and-energy-with-ai-receive-doe-genesis-mission-funding/)
