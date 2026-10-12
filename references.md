@@ -437,6 +437,7 @@
 * [Axios: Reflection AI to power Genesis Mission](https://www.axios.com/2026-05-22/reflection-ai-genesis-mission-energy-partnership)
 * [Grants.gov Opportunity: Genesis Mission Graduate Fellowship Pilot (DE-FOA-0003673)](https://simpler.grants.gov/opportunity/06db55bd-0a2a-4057-bfcd-eb2ebb4a13ab)
 * [DOE Announcement: Energy Department Launches Genesis Mission Graduate Fellowship to Advance American Scientific Leadership](https://www.energy.gov/articles/energy-department-launches-genesis-mission-graduate-fellowship-advance-american-scientific)
+* [Battelle Launches Genesis Mission High School Fellowship to Bring Students into National Laboratory Research](https://www.battelle.org/insights/newsroom/press-release-details/battelle-launches-genesis-mission-high-school-fellowship-to-bring-students-into-national-laboratory-research)
   
 ---
 

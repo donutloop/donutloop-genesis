@@ -1,4 +1,3 @@
-* https://www.battelle.org/insights/newsroom/press-release-details/battelle-launches-genesis-mission-high-school-fellowship-to-bring-students-into-national-laboratory-research
 * https://sites.gatech.edu/yanglab/2026/10/08/doe-genesis-phase-ii-subaward-to-tackle-critical-minerals-separations/
 * https://ne.utk.edu/ai-boost-advanced-reactor-safety/
 * https://www.colorado.edu/researchinnovation/doe-genesis-mission-graduate-fellowship-pilot
