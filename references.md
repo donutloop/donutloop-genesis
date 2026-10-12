@@ -846,6 +846,7 @@
   * [U-M Researchers to Develop AI Tools for Real-Time 3D X-Ray Imaging Under Genesis Mission](https://news.umich.edu/u-m-researchers-to-develop-ai-tools-for-real-time-3d-xray-imaging-under-genesis-mission/)
   * [U-M Researchers Receive DOE Genesis Mission Award to Advance AI-Driven Chip Design](https://ece.engin.umich.edu/stories/u-m-researchers-receive-doe-genesis-mission-award-to-advance-ai-driven-chip-design)
   * [University of Michigan Office of Research: Genesis Mission Portal](https://research.umich.edu/office-of-national-labs/genesis-mission/)
+  * [U-M researchers help launch national initiative to demonstrate AI’s potential for scientific discovery](https://record.umich.edu/articles/u-m-researchers-help-launch-national-initiative-to-demonstrate-ais-potential-for-scientific-discovery/)
 * **University of Minnesota:**
   * [Receives DOE Genesis Mission Funding to Advance AI Breakthroughs](https://twin-cities.umn.edu/news-events/university-minnesota-receives-doe-genesis-mission-funding-advance-ai-breakthroughs)
   * [Uwe Kortshagen and Suo Yang Receive Genesis Mission Award](https://cse.umn.edu/me/news/uwe-kortshagen-and-suo-yang-receive-genesis-mission-award)
