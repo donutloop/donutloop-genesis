@@ -560,6 +560,7 @@
   * [Project Prometheus: Multi-Institutional AI Framework for Accelerated Nuclear Reactor Licensing](https://inl.gov/news-release/idaho-national-laboratory-leads-project-prometheus-under-genesis-mission/)
   * [National Laboratory Research Collaboration Focuses on Accelerated Qualification of Critical Nuclear Components](https://inl.gov/news-release/national-laboratory-research-collaboration-focuses-on-accelerated-qualification-of-critical-nuclear-components/)
   * [Prometheus — AI for Nuclear Reactor Deployment (Official Project Portal)](https://inl.gov/artificial-intelligence/prometheus/)
+  * [Prometheus (Idaho National Laboratory — Super Intelligence and Machine Learning section page)](https://inl.gov/super-intelligence/prometheus/)
 * **Lawrence Livermore National Laboratory (LLNL):** 
   * [Selected to Lead 10 Projects](https://www.llnl.gov/article/54711/llnl-selected-lead-10-projects-under-does-genesis-mission)
   * [Big Ideas Lab Explores How Genesis Mission Aims to Accelerate Discovery](https://www.llnl.gov/article/54421/big-ideas-lab-explores-how-genesis-mission-aims-accelerate-scientific-discovery)
