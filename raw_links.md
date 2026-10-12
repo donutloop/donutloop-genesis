@@ -1,4 +1,3 @@
-* https://ne.utk.edu/ai-boost-advanced-reactor-safety/
 * https://www.colorado.edu/researchinnovation/doe-genesis-mission-graduate-fellowship-pilot
 * https://inl.gov/super-intelligence/prometheus/
 * https://www.nasa.gov/news-release/nasa-announces-bold-science-initiatives-for-americas-golden-age-summit/

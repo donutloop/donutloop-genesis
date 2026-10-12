@@ -945,6 +945,7 @@
 * **University of New Hampshire (UNH):** [Physicist Receives Grant Through Department of Energy’s Competitive Genesis Mission](https://www.unh.edu/news/physicist-receives-grant-through-department-energys-competitive-genesis-mission)
 * **Old Dominion University (ODU):** [Old Dominion University Selected for Two Federal Genesis Mission Awards Advancing Artificial Intelligence for Scientific Discovery](https://www.odu.edu/article/old-dominion-university-selected-for-two-federal-genesis-mission-awards-advancing)
 * **University of California, Irvine (UCI):** [Department of Energy selects UC Irvine-led, AI-driven geothermal energy project](https://news.uci.edu/2026/10/08/department-of-energy-selects-uc-irvine-led-ai-driven-geothermal-energy-project/)
+* **University of Tennessee, Knoxville (UT Knoxville) — Department of Nuclear Engineering:** [Using AI to Boost Advanced Reactor Safety](https://ne.utk.edu/ai-boost-advanced-reactor-safety/)
 
 ---
 
