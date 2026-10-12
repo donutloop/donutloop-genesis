@@ -679,6 +679,7 @@
   * [Jefferson Lab Genesis Mission RFA Phase I Grants Portal](https://www.jlab.org/AI/genesis/RFAPhaseIgrants)
   * [Jefferson Lab to Receive New Funding for Work on Genesis Mission Projects (Newswise)](https://www.newswise.com/doescience/jefferson-lab-to-receive-new-funding-for-work-on-genesis-mission-projects)
   * [Jefferson Lab Moves Forward on Genesis Mission Phase II Projects (Newswise)](https://www.newswise.com/doescience/jefferson-lab-moves-forward-on-genesis-mission-phase-ii-projects/?article_id=856233)
+  * **Jefferson Lab newsroom edition:** [Jefferson Lab Moves Forward on Genesis Mission Phase II Projects](https://www.jlab.org/news/releases/jefferson-lab-moves-forward-genesis-mission-phase-ii-projects)
 ### Universities & Research Institutions
 * **AI Tennessee Initiative:** [About AI Tennessee](https://www.aitennessee.ai/about-ai-tennessee/)
 * **Auburn University:**
