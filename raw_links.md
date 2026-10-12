@@ -1,4 +1,3 @@
-* https://sites.gatech.edu/yanglab/2026/10/08/doe-genesis-phase-ii-subaward-to-tackle-critical-minerals-separations/
 * https://ne.utk.edu/ai-boost-advanced-reactor-safety/
 * https://www.colorado.edu/researchinnovation/doe-genesis-mission-graduate-fellowship-pilot
 * https://inl.gov/super-intelligence/prometheus/

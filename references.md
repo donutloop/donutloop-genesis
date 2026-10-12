@@ -716,6 +716,7 @@
   * [Georgia Tech to Lead National Cloud Laboratory for Advanced Manufacturing and Materials](https://news.gatech.edu/news/2026-08-03/georgia-tech-lead-national-cloud-laboratory-advanced-manufacturing-and-materials)
   * [news.gatech.edu/news/2026/08/03/georgia-tech-lead-national-cloud-laboratory-advanced-manufacturing-and-materials](https://news.gatech.edu/news/2026/08/03/georgia-tech-lead-national-cloud-laboratory-advanced-manufacturing-and-materials)
   * [Georgia Tech Helps Advance Genesis Mission](https://news.research.gatech.edu/2026/07/24/georgia-tech-helps-advance-genesis-mission-national-effort-transform-scientific)
+  * [DOE Genesis Mission Phase II subaward to tackle rare-earth elements separations](https://sites.gatech.edu/yanglab/2026/10/08/doe-genesis-phase-ii-subaward-to-tackle-critical-minerals-separations/)
 * **Heidelberg University:**
   * [European AI for Fundamental Physics Conference (EuCAIFCon 2026) — Hunting for TREASURE in HEP Collider Data (PDF)](https://indico.physi.uni-heidelberg.de/event/1277/contributions/4123/attachments/2096/3260/EuCAIFCon_Treasure.pdf)
 * **Howard University:** [Howard University Experts Discuss Multidisciplinary AI Research, Tech Genesis Mission, and More During Research Month 2026](https://thedig.howard.edu/all-stories/howard-university-experts-discuss-multidisciplinary-ai-research-tech-genesis-mission-and-more-during)
