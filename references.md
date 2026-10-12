@@ -498,6 +498,7 @@
   * [AI-empowered Design of Functional Quantum Magnets](https://www.anl.gov/genesis-mission/projects/aiempowered-design-of-functional-quantum-magnets)
   * [Argonne to advance scientific discovery with new Genesis Mission awards](https://www.anl.gov/article/argonne-to-advance-scientific-discovery-with-new-genesis-mission-awards)
   * [A new kind of microscope: Agentic AI turns simple language into self-guided experimentation (*APS News*)](https://www.aps.anl.gov/APS-News/2026-10-06/a-new-kind-of-microscope-agentic-ai-turns-simple-language-into-self-guided)
+  * [Overcoming barriers in computational enzyme design through improved sequence-structure ensemble](https://www.anl.gov/genesis-mission/projects/overcoming-barriers-in-computational-enzyme-design-through-improved-sequence-structure-ensemble)
 * **Berkeley Lab (LBNL):** 
   * [Genesis Mission Hub & Scientific Strategy](https://www.lbl.gov/genesis-mission/)
   * [Genesis Mission Projects Directory](https://www.lbl.gov/genesis-mission-projects/)
