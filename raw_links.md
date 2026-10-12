@@ -1,4 +1,3 @@
-* https://www.colorado.edu/researchinnovation/doe-genesis-mission-graduate-fellowship-pilot
 * https://inl.gov/super-intelligence/prometheus/
 * https://www.nasa.gov/news-release/nasa-announces-bold-science-initiatives-for-americas-golden-age-summit/
 * https://record.umich.edu/articles/u-m-researchers-help-launch-national-initiative-to-demonstrate-ais-potential-for-scientific-discovery/
