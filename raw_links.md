@@ -1,4 +1,3 @@
-* https://www.energy.gov/articles/energy-department-launches-genesis-mission-graduate-fellowship-advance-american-scientific
 * https://www.jlab.org/news/releases/jefferson-lab-moves-forward-genesis-mission-phase-ii-projects.
 * https://www.battelle.org/insights/newsroom/press-release-details/battelle-launches-genesis-mission-high-school-fellowship-to-bring-students-into-national-laboratory-research
 * https://sites.gatech.edu/yanglab/2026/10/08/doe-genesis-phase-ii-subaward-to-tackle-critical-minerals-separations/
